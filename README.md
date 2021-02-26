@@ -93,7 +93,8 @@
   * [Microsoft president calls on other countries to 'copy' Australian media bargaining code](https://abc.net.au/news/2021-02-12/microsoft-calls-on-countries-to-copy-media-bargaining-code/13147892)
   * [Researcher hacks over 35 tech firms](https://bleepingcomputer.com/news/security/researcher-hacks-over-35-tech-firms-in-novel-supply-chain-attack/)
   * [Light Table [app]](https://lighttable.com/)
-  * [Common libraries and data structures for C](https://github.com/tezc/sc)  [or](https://github1s.com/tezc/sc)
+  * [Common libraries and data structures for C](https://github.com/tezc/sc)
+    * [2](https://github1s.com/tezc/sc)
   * [dont forget the shit.Buy Planets](https://buyplanets.net/)
   
 ## 11/02/2021
