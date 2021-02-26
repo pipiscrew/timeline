@@ -1,4 +1,4 @@
-## 25/02/2021
+## 2021/02
 
   * [Google Analytics: Stop feeding the beast](https://casparwre.de/blog/stop-using-google-analytics/)
   * [North Korean hackers target defense industry with custom malware](https://www.bleepingcomputer.com/news/security/north-korean-hackers-target-defense-industry-with-custom-malware/)
@@ -8,9 +8,6 @@
   * [dont forget the shit.Seagate Announces Lyve Cloud, Web-based Storage Service](https://www.guru3d.com/news-story/seagate-announces-lyve-cloudweb-based-storage-service.html)
   * [QEMU front end for M1 and Intel Macs](https://mac.getutm.app/)
   * [Facebook says it will pay $1 billion over three years to news industry](https://business-standard.com/article/international/facebook-says-it-will-pay-1-billion-over-three-years-to-news-industry-121022500105_1.html)
-
-## 23/02/2021
-
   * [Institutional Bitcoin Investors Briefly Lose $13 Billion](https://decrypt.co/58611/companies-lose-13-6-billion-worth-of-bitcoin-in-market-dip)
   * [Playstation 2 Architecture](https://www.copetti.org/writings/consoles/playstation-2/)
   * [Firefox 86 Introduces Total Cookie Protection](https://blog.mozilla.org/security/2021/02/23/total-cookie-protection/)
@@ -19,9 +16,6 @@
   * [Daft Punk Break Up](https://pitchfork.com/news/daft-punk-call-it-quits/)
   * [Free for Developers](https://free-for.dev)
   * [Search people across 350 social media sites [py]](https://github.com/qeeqbox/social-analyzer)
-
-## 21/02/2021
-
   * [New malware found on 30,000 Macs](https://arstechnica.com/information-technology/2021/02/new-malware-found-on-30000-macs-has-security-pros-stumped/)
   * [Sequoia Capital says it was hacked](https://axios.com/sequoia-capital-says-it-was-hacked-590dcdd6-fe49-46c6-8422-60a944272302.html)
   * [Turbo Pascal Compiler in JavaScript](https://github.com/lkesteloot/turbopascal)
@@ -37,9 +31,6 @@
   * [Blizzard Arcade Collection leaks hours before BlizzConline](https://slashgear.com/blizzard-arcade-collection-leaks-hours-before-blizzconline-19660231/)
   * [Microsoft reduces Windows 10 Enterprise LTSC support to 5 years](https://ghacks.net/2021/02/19/microsoft-reduces-windows-10-enterprise-ltsc-support-to-5-years/)
   * [Microsoft announces a new Office for offline fans](https://theregister.com/2021/02/19/office_ltsc/)
-
-## 16/02/2021
-
   * [Kanban board in one HTML using localstorage](https://github.com/apankrat/nullboard)
   * [US Presidential Election $25,000 Database Bounty Review](https://www.dolthub.com/blog/2021-02-15-election-bounty-review/)
   * [Python strings are immutable, but only sometimes](https://web.eecs.utk.edu/~azh/blog/pythonstringsaremutable.html)
@@ -57,14 +48,8 @@
     * [4](https://www.business-standard.com/article/international/facebook-fined-8-45-mn-in-italy-over-improper-use-of-subscribers-data-121021800126_1.html)
   * [Before buying a NYT subscription, see what it’ll take to cancel it](https://imgur.com/a/K8m7p2t)
   * [dont forget the shit.Google Maps will let you pay for parking and public transit](https://www.androidpolice.com/2021/02/17/google-maps-will-let-you-pay-for-parking-and-public-transit/)
-
-## 15/02/2021
-
   * [Using Microsoft Event Viewer logs to reverse an attack](https://youtube.com/watch?v=wl_ML6Uj1Cw)
   * [26 Years… of Delphi](https://blogs.embarcadero.com/26-years-of-delphi/)
-
-## 14/02/2021
-
   * [K-9 Mail is looking for funding](https://k9mail.app/2021/02/14/K-9-Mail-is-looking-for-funding)
   * [GTA III and Vice City fully reverse engineered: re3](https://github.com/GTAmodding/re3)
   * [Waterfox web browser sold to System1](https://www.ghacks.net/2020/02/14/waterfox-web-browser-sold-to-system1/)
@@ -78,9 +63,6 @@
   * [Unpacking Interview Questions](https://jacobian.org/series/unpacking-interview-questions/)
   * [12 Years in Hiding – A Privilege Escalation Vulnerability in Windows Defender](https://labs.sentinelone.com/cve-2021-24092-12-years-in-hiding-a-privilege-escalation-vulnerability-in-windows-defender/)
   * [JDK 16: The new features in Java 16](https://www.infoworld.com/article/3569150/jdk-16-the-new-features-in-java-16.html)
-
-## 12/02/2021
-
   * [Australia to introduce landmark Google, Facebook legislation to parliament](https://reuters.com/article/us-australia-media-google/australia-to-introduce-landmark-google-facebook-legislation-to-parliament-next-week-idUSKBN2AC0BF)
   * [Google-Assistant-Unofficial-Desktop-Client](https://github.com/Melvin-Abraham/Google-Assistant-Unofficial-Desktop-Client)
   * [Czech CZG buys 175-year old US gunmaker Colt in cash and stock deal](https://reuters.com/article/idUSL1N2KH3HO)
@@ -96,13 +78,7 @@
   * [Common libraries and data structures for C](https://github.com/tezc/sc)
     * [2](https://github1s.com/tezc/sc)
   * [dont forget the shit.Buy Planets](https://buyplanets.net/)
-  
-## 11/02/2021
-
   * [ReCAPTCHA is harmful (relies extensively on user fingerprinting, VM in JavaScript)](https://nearcyan.com/you-probably-dont-need-recaptcha/)
-
-## 09/02/2021
-
   * [Author of uPanel phishing kit arrested in Ukraine](https://zdnet.com/article/author-of-upanel-phishing-kit-arrested-in-ukraine/)
   * [VSCode at github](https://github1s.com/conwnet/github1s/blob/HEAD/README.md)
   * [Free GIF Editing Tool](https://ezgif.com/)
@@ -110,28 +86,16 @@
   * [Mozilla Welcomes the Rust Foundation](https://blog.mozilla.org/blog/2021/02/08/mozilla-welcomes-the-rust-foundation/)
   * [Gitlab Project Hit by Spambot](https://gitlab.com/gitlab-org/gitlab/-/issues/320750)
     * [2](https://status.gitlab.com/)
-
-## 07/02/2021
-
   * [Green hackers around the world, let’s destroy Bitcoin](https://franck-leroy.medium.com/green-hackers-around-the-world-lets-destroy-bitcoin-725700434a8f)
   * [Visual guide to SSH tunnels](https://robotmoon.com/ssh-tunnels/)
   * [Easy-to-read transcripts of Youtube videos](https://you-tldr.com/)
   * [Reverse-engineering the vintage MC14500B](https://righto.com/2021/02/a-one-bit-processor-explained-reverse.html)
-
-## 05/02/2021
-
   * [Petabyte tape cartridges at 2035](https://blocksandfiles.com/2021/02/04/petabyte-tape-cartridges-are-coming/)
   * [Flash Player emulator written in Rust (has demo)](https://github.com/ruffle-rs/ruffle)
   * [Disqus, the dark commenting system](https://supunkavinda.blog/disqus)
-
-## 04/02/2021
-
   * [Hackers steal StormShield firewall source code in data breach](https://bleepingcomputer.com/news/security/hackers-steal-stormshield-firewall-source-code-in-data-breach/)
   * [Belgian researcher hacks prepaid vending machines](https://nakedsecurity.sophos.com/2021/02/04/free-coffee-dutch-researcher-hacks-prepaid-vending-machines/)
   * [Police Arrest 14 People Behind 8 Million-User Piracy & Subtitle Site](https://torrentfreak.com/police-arrest-14-people-behind-8-million-user-piracy-subtitle-site-210204/)
-
-## 03/02/2021
-
   * [Jeff Bezos @ 98](https://stratechery.com/2021/the-relentless-jeff-bezos/)
   * [Jeff Bezos @ 97](https://youtube.com/watch?v=rWRbTnE1PEM)
   * [Intel leak: 20GB of source code](https://bleepingcomputer.com/news/security/intel-leak-20gb-of-source-code-internal-docs-from-alleged-breach/)
