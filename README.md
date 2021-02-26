@@ -104,7 +104,7 @@
 ## 09/02/2021
 
   * [Author of uPanel phishing kit arrested in Ukraine](https://zdnet.com/article/author-of-upanel-phishing-kit-arrested-in-ukraine/)
-  * [VSCode at github](https://ex github1s.com/conwnet/github1s/blob/HEAD/README.md)
+  * [VSCode at github](https://github1s.com/conwnet/github1s/blob/HEAD/README.md)
   * [Free GIF Editing Tool](https://ezgif.com/)
   * [YourLanguageSucks](https://wiki.theory.org/YourLanguageSucks)
   * [Mozilla Welcomes the Rust Foundation](https://blog.mozilla.org/blog/2021/02/08/mozilla-welcomes-the-rust-foundation/)
