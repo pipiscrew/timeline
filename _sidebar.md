@@ -1,4 +1,4 @@
-* [News](/readme.md)
+* [News](./)
 * [Application]
 	* [Browser](/application/browser.md)
 	* [PDF](/application/pdf.md)
