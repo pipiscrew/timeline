@@ -1,5 +1,5 @@
 ## 2021/02
-
+  * [Deep Nostalgia application can turn old photos of people into moving videos](https://gizmodo.com/deep-nostalgia-can-turn-old-photos-of-your-relatives-1846363190)
   * [Google Analytics: Stop feeding the beast](https://casparwre.de/blog/stop-using-google-analytics/)
   * [North Korean hackers target defense industry with custom malware](https://www.bleepingcomputer.com/news/security/north-korean-hackers-target-defense-industry-with-custom-malware/)
   * [XSS Attack Examples and Mitigations](https://goteleport.com/blog/xss-attacks/)

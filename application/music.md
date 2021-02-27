@@ -1,0 +1,15 @@
+Player - [Winamp v2.95](http://www.oldversion.com/windows/winamp-2-95)
+
+Converter / Ripper - [EZ CD Audio Converter](https://www.poikosoft.com/music-converter)
+
+Splitter and Joiner - [EZSoft.MP3 Splitter and Joiner](http://www.ezsoftmagic.com/mp3splitter_joiner.htm)
+
+Recorder - [Abyssmedia.i-Sound WMA MP3 Recorder](https://www.abyssmedia.com/mp3recorder/)
+
+Editor - [Cool Edit v2.1](https://www.filehorse.com/download-cool-edit-pro/)
+
+## ID3 Tags
+
+* [Poikosoft.EZ Meta Tag Editor](https://www.poikosoft.com/metadata-editor) - Grab online metadata + cover
+* [Softpointer.Tag&Rename](http://www.softpointer.com/tr.htm)
+* [TagScanner](https://www.xdlab.ru/en/)
