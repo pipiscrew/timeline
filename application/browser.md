@@ -12,8 +12,6 @@ Tested with :
 
   * [FingerprintJS](https://fingerprintjs.com/demo)
   * [Unique Machine](http://uniquemachine.org/)
-  * [Google Analytics: Stop feeding the beast](https://casparwre.de/blog/stop-using-google-analytics/)
-
 
 ----------
 
