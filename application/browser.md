@@ -31,7 +31,7 @@ I dont like the online systems, never use it.
 
 In case you still use the Roboform desktop edition export the existing logins by using the [following](https://www.pipiscrew.com/2015/08/app-roboform-to-keepass/) method.
 
-Import to [KeePassXC](https://keepassxc.org/).
+Use [Keepass v2.x](https://keepass.info/download.html) to import it. Then use the dbase with [KeePassXC](https://keepassxc.org/).
 
 **KeePassXC vs KeePass**
 

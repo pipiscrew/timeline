@@ -1,5 +1,5 @@
 * [News](./)
-* [Application]
+* [Applications]
 	* [Browser](/application/browser.md)
 	* [PDF](/application/pdf.md)
 	* [Misc Explorer](/application/misc.md)
