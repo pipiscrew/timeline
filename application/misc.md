@@ -52,5 +52,15 @@
 ## Dir list
 * [Arclab.Dir2HTML](https://www.arclab.com/en/dir2html/)
 
+## Automation
+* [CLCL - clipboard caching](https://www.nakka.com/soft/clcl/index_eng.html)
+* [texter - preset acronyms to be replaced with text](https://github.com/adampash/texter/tree/master/Releases/0.6)
+* [mouse jiggler - prevent sleep](https://github.com/cerebrate/mousejiggler)
+* [Clipdiary](http://clipdiary.com/)
+* [Jitbit - Macro](https://www.jitbit.com/macro-recorder/)
+* [Winautomation - Macro](https://www.winautomation.com/)
+* [RoboTask - Macro](https://robotask.com/)
+* [Mini Mouse Macro](https://sourceforge.net/projects/minimousemacro/)
+
 ## Floppy
 * [WinImage](https://www.winimage.com/)
