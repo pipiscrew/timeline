@@ -1,6 +1,7 @@
 ## Explorer
 
 * [CodeSector.Direct Folders](https://www.codesector.com/directfolders) - Useful functionality **ClickSwitch**.
+* [PInMe!](https://forum.tuts4you.com/files/file/2125-pinme/)
 * [Types](https://ystr.github.io/types/) - Easily change file associations.
 * [NTWind.Visual Subst](https://www.ntwind.com/software/visual-subst.html) - Mount folder as drive
 
