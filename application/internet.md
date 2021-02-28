@@ -91,7 +91,7 @@ addons :
 
 ## Limiters
 * [NetLimiter](http://www.netlimiter.com)
-* [seriousbit.netbalancer](https://seriousbit.netbalancer/)
+* [seriousbit.netbalancer](http://seriousbit.com/netbalancer/)
 
 ## Network
 * [HostsMan](http://www.abelhadigital.com/hostsman/) - Manage your hosts file with ease
