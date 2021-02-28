@@ -23,6 +23,7 @@
 * [Riot](https://riot-optimizer.com/)
 * [jpeg.rocks](https://jpeg.rocks/)
 * [Caesium Image Compressor](https://saerasoft.com/caesium/)
+
 ## Video Editor
 * [Avidemux](http://avidemux.sourceforge.net/)
 	* Video > Filters > Sharpness > MPlayer delogo2. When filter is on right side, rclick > Make Partial. You can add multiple filters of the same type, so applied concurrent on the video.
