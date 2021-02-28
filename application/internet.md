@@ -49,11 +49,9 @@ addons :
 	
 	-
 	
-	Connecting the application and extension, save the configuration under
+	Connecting the application and extension, any adjustment made to tools > settings > browser integration, it saves the configuration under
 	
-	C:\Users\%username%\AppData\Local\KeePassXC
-	
-	any adjustment made to tools > settings > browser integration.
+	C:\Users\\%username%\AppData\Local\KeePassXC	
 	
 	official guide on [how to](https://keepassxc.org/docs/KeePassXC_GettingStarted.html#_setup_browser_integration)
 
