@@ -1,6 +1,6 @@
 * [News](./)
 * [Applications]
-	* [Browser](/application/browser.md)
+	* [Internet](/application/internet.md)
 	* [PDF](/application/pdf.md)
 	* [Misc Explorer](/application/misc.md)
 	* [Image](/application/image.md)
