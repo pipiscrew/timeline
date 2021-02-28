@@ -86,6 +86,8 @@
 * [CD2HTML](https://www.xray.cz/ecm-cd/soft/win/index0095.html)
 
 ## Misc
+* Protect - [XenCare.SoftLock](https://download.cnet.com/XenCare-SoftLock/3000-10435_4-10881665.html) - Doesnt allow to install new program but allow data file modification
+* Protect - [VoodooShield](https://voodooshield.com/) - Any software that was not allowed is blocked
 * Quick Launcher - [RK Launcher](https://download.cnet.com/RK-Launcher/3000-2344_4-10915464.html)
 * Hashing - [Nirsoft.HashMyFiles](https://www.nirsoft.net/utils/hash_my_files.html)
 * [ClearLock](https://www.softpedia.com/get/Security/Lockdown/ClearLock.shtml)
@@ -93,4 +95,15 @@
 * Floppy - [WinImage](https://www.winimage.com/)
 * [Egg Timer Plus](https://www.pipiscrew.com/works/egg-timer-by-sardine/)
 * [Process Hacker](https://processhacker.sourceforge.io/)
+* [WhoCrashed](https://www.resplendence.com/whocrashed) - Reveals the drivers responsible for crashing your computer
 * [Unit Conversions 2000](https://www.softpedia.com/get/Others/Unit-Conversion/Unit-Conversions.shtml)
+
+## Snapshot
+* [Acronis.True Image](https://www.acronis.com/en-us/products/true-image/)
+* [Drive SnapShot](http://www.drivesnapshot.de/en/) - no installation needed
+* [Sysinternals.Disk2vhd](https://docs.microsoft.com/en-us/sysinternals/downloads/disk2vhd) - Creates VHD versions of physical disks for use in Virtual PC (VMs)
+* [Runtime.DriveImage XML](http://www.runtime.org/dixml.htm) - Backup and image logical drives and partitions. Create 'hot images' of your drives, while working with them
+* [Macrium.Reflect](https://www.macrium.com/)
+* [AOMEI.Backupper](https://www.ubackup.com/edition-comparison.html) - Advanced system clone, UEFI clone, GPT to MBR clone, and customized clone
+* [rtt.R-Drive Image](https://www.drive-image.com/)
+* [Symantec.Norton Ghost](http://www.oldversion.com/windows/norton-ghost-15-0)
