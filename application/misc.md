@@ -10,10 +10,10 @@
 * [Midnight Commander](https://sourceforge.net/projects/mcwin32/)
 * [XYplorer](https://www.xyplorer.com/)
 * [EF Commander](http://www.efsoftware.com/cw/e.htm)
+* [Unreal Commander](https://x-diesel.com/)
 * [Q-Dir](http://www.softwareok.com/?seite=freeware/Q-Dir)
 
 ## Compare
-
 * [Scooter.Beyond Compare](https://www.scootersoftware.com/)
 * [Compare++](https://download.cnet.com/Compare/3000-2248_4-75206501.html)
 * [ExamDiff](https://www.prestosoft.com/edp_examdiff.asp)
@@ -34,8 +34,17 @@
 ## Search
 * [Nirsoft.SearchMyFiles](https://www.nirsoft.net/utils/search_my_files.html)
 * [Effective File Search](http://www.sowsoft.com/search.htm)
-* [grepWin](https://github.com/stefankueng/grepWin)
 * [UltraFileSearch](https://www.ultrafilesearch.com/)
+* [grepWin](https://github.com/stefankueng/grepWin) (search inside files also offers replace)
+* [Funduc.Search and Replace](https://www.funduc.com/search_replace.htm)  (search inside files also offers replace)
+
+## Text Editors
+* [Notepad++](https://notepad-plus-plus.org/)
+	* [Dracula theme](https://draculatheme.com/notepad-plus-plus)
+	* [Compare plugin](https://github.com/pnedev/compare-plugin)
+	* [NppFTP](https://github.com/ashkulz/NppFTP)
+	* [XMLTools plugin](https://github.com/morbac/xmltools) (format HTML)
+* [Ultraedit](https://www.ultraedit.com/)
 
 ## Disk Space Analyse
 * [RidNacs](https://www.splashsoft.de/ridnacs-disk-space-usage-analyzer/)
@@ -45,12 +54,6 @@
 ## Rename
 * [CKRename](https://www.softpedia.com/get/System/File-Management/CKRename.shtml)
 * [RenameMaestro](https://www.softpedia.com/get/System/File-Management/RenameMaestro.shtml)
-
-## Hashing
-* [Nirsoft.HashMyFiles](https://www.nirsoft.net/utils/hash_my_files.html)
-
-## Dir list
-* [Arclab.Dir2HTML](https://www.arclab.com/en/dir2html/)
 
 ## Automation
 * [CLCL - clipboard caching](https://www.nakka.com/soft/clcl/index_eng.html)
@@ -62,5 +65,31 @@
 * [RoboTask - Macro](https://robotask.com/)
 * [Mini Mouse Macro](https://sourceforge.net/projects/minimousemacro/)
 
-## Floppy
-* [WinImage](https://www.winimage.com/)
+## Registry
+* [Registry First Aid](https://www.rosecitysoftware.com/reg1aid/)
+* [Registry Workshop](http://www.torchsoft.com/en/rw_information.html)
+
+## Files Sync
+* [WinDataReflector](https://veridium.net/windatareflector/)
+* [DSynchronize](http://dimio.altervista.org/eng/#DSynchronize)
+* [rclone](https://rclone.org/)
+
+## CD
+* [AnyBurn](http://www.anyburn.com/)
+* [UltraISO](https://www.ultraiso.com/)
+* [Opti Drive Control](https://www.optidrivecontrol.com/) (testing optical drives and media)
+* [Nero.InfoTool](https://download.cnet.com/Nero-InfoTool/3000-2086_4-75454325.html) (shows features of installed drives)
+
+## DirList
+* [Arclab.Dir2HTML](https://www.arclab.com/en/dir2html/)
+* [CD2HTML](https://www.xray.cz/ecm-cd/soft/win/index0095.html)
+
+## Misc
+* Quick Launcher - [RK Launcher](https://download.cnet.com/RK-Launcher/3000-2344_4-10915464.html)
+* Hashing - [Nirsoft.HashMyFiles](https://www.nirsoft.net/utils/hash_my_files.html)
+* [ClearLock](https://www.softpedia.com/get/Security/Lockdown/ClearLock.shtml)
+* [Walyk Wallpaper Changer](https://www.softpedia.com/get/Desktop-Enhancements/Other-Desktop-Enhancements/Walyk-Wallpaper-Changer.shtml)
+* Floppy - [WinImage](https://www.winimage.com/)
+* [Egg Timer Plus](https://www.pipiscrew.com/works/egg-timer-by-sardine/)
+* [Process Hacker](https://processhacker.sourceforge.io/)
+* [Unit Conversions 2000](https://www.softpedia.com/get/Others/Unit-Conversion/Unit-Conversions.shtml)
