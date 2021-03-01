@@ -2,8 +2,6 @@
 
 * [CodeSector.Direct Folders](https://www.codesector.com/directfolders) - Useful functionality **ClickSwitch**.
 * [PInMe!](https://forum.tuts4you.com/files/file/2125-pinme/)
-* [Types](https://ystr.github.io/types/) - Easily change file associations
-* [Default Programs Editor](https://defaultprogramseditor.com/) - Easy to fix file association settings in Windows
 * [NTWind.Visual Subst](https://www.ntwind.com/software/visual-subst.html) - Mount folder as drive
 
 ## Commanders
@@ -70,6 +68,10 @@
 ## Registry
 * [Registry First Aid](https://www.rosecitysoftware.com/reg1aid/)
 * [Registry Workshop](http://www.torchsoft.com/en/rw_information.html)
+
+## Associations
+* [Types](https://ystr.github.io/types/) - Easily change file associations
+* [Default Programs Editor](https://defaultprogramseditor.com/) - Easy to fix file association settings in Windows
 
 ## Files Sync
 * [WinDataReflector](https://veridium.net/windatareflector/)
