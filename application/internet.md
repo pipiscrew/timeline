@@ -113,6 +113,7 @@ addons :
 * [Mozilla.Thunderbird](https://www.thunderbird.net/)
 * [Desksoft.CheckMail](http://www.desksoft.com/CheckMail.htm)
 * [POP Peeper: Email Notifier](https://www.esumsoft.com/products/pop-peeper/) - email notifier that runs in your Windows taskbar
+* [MailStore Home](https://www.mailstore.com/en/products/mailstore-home/) - read mbox / pst / thunderbird (unicode, in search use * for wildcard, because searching by words)
 
 ## mbox
 * [BitRecover.mbox viewer](https://www.bitrecover.com/free/mbox-viewer/) - direct browse mbox (no so good on search, tip use F3 after the first search)
