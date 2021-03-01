@@ -45,6 +45,7 @@
 	* [NppFTP](https://github.com/ashkulz/NppFTP)
 	* [XMLTools plugin](https://github.com/morbac/xmltools) (format HTML)
 * [Ultraedit](https://www.ultraedit.com/)
+* [MarkdownPad 2](http://markdownpad.com/)
 
 ## Disk Space Analyse
 * [RidNacs](https://www.splashsoft.de/ridnacs-disk-space-usage-analyzer/)
