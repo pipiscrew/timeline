@@ -13,7 +13,7 @@
 * [ActivePresenter](https://atomisystems.com/activepresenter/)
 * [ZDSoft.Screen Recorder](https://www.zdsoft.com/)
 * [TechSmith.Camtasia Studio](https://www.techsmith.com/video-editor.html)
-test
+
 ## Image Editor
 * [Photoshop 7.0](https://www.filehorsefile.com/download-adobe-photoshop-7-0/)
 * [paint.net](https://www.softpedia.com/get/Multimedia/Graphic/Graphic-Editors/Paint-NET.shtml)
