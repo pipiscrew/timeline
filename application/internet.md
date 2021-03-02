@@ -25,6 +25,10 @@ addons :
   * Browsec [VPN](https://addons.mozilla.org/en-US/firefox/addon/browsec/) free & fast.
 
 
+## Minimal Browser
+* [NetSurf](https://www.netsurf-browser.org/)
+* [Nessie](https://www.radsix.com/)
+
 ## Password Manager
 
 * KeePassXC
@@ -135,3 +139,16 @@ addons :
 * [AnalogX.CallerID](http://www.analogx.com/contents/download/System/callerid/Freeware.htm)
 * [CallClerk.Caller ID](https://callclerk.com/index.html)
 * [VZ Enhanced 56K](https://erickutcher.github.io/) - Caller ID notifier
+
+## videos
+* [VidsWatch](https://www.vidswatch.com/) - add **magic** to domain => you**magic**tube.com/watch?v=p5IO-IJSVnQ
+* [y2mate](https://www.y2mate.com) - add **pp** at the end => youtube**pp**.com/watch?v=p5IO-IJSVnQ
+* [SoundCloud Downloader](https://sclouddownloader.net/)
+* [Reddit Videos](https://viddit.red/)
+* [Facebook Video Downloader](https://fbdown.net/)
+* (hyper-multi) - [youtube-dl](https://ytdl-org.github.io/youtube-dl/)  ([supported sites](https://github.com/ytdl-org/youtube-dl/blob/master/docs/supportedsites.md))
+* (multi) [YooDownload](https://yoodownload.com/)
+* (multi) [savefrom](https://savefrom.net)
+* (multi) [Savido](https://www.savido.net/)
+* (multi) [9xbuddy](https://9xbuddy.org/)
+* [HyperDebrid](https://hyperdebrid.net/)
