@@ -113,7 +113,7 @@ Furthermore, these **nine essential** amino acids **must be present simultaneous
 Ranking based on essential amino acid indexes, amino acid scores, and nutritional indexes as calculated against the [FAO](http://www.fao.org/) reference protein pattern; biological values correlate closely with the **EAA** index (Essential amino acid index).
 
 
-### Essential Amino Acid Composition
+### Mushrooms Essential Amino Acid Composition vs Egg
 
 | Amino Acids     | Agaricus Bisporus | Lentinula Edodes | Pleurotus florida | Pleurotus Ostreatus | Pleurotus Sajor-caju | Volvariella Diplasia | Volvariella Volvacea | Hen Egg |
 |-----------------|-------------------|------------------|-------------------|---------------------|----------------------|----------------------|----------------------|---------|
