@@ -112,6 +112,25 @@ Furthermore, these **nine essential** amino acids **must be present simultaneous
 
 Ranking based on essential amino acid indexes, amino acid scores, and nutritional indexes as calculated against the [FAO](http://www.fao.org/) reference protein pattern; biological values correlate closely with the **EAA** index (Essential amino acid index).
 
+
+### Essential Amino Acid Composition
+
+| Amino Acids     | Agaricus Bisporus | Lentinula Edodes | Pleurotus florida | Pleurotus Ostreatus | Pleurotus Sajor-caju | Volvariella Diplasia | Volvariella Volvacea | Hen Egg |
+|-----------------|-------------------|------------------|-------------------|---------------------|----------------------|----------------------|----------------------|---------|
+| Leucine         | 7,5               | 7,9              | 7,5               | 6,8                 | 7                    | 5                    | 4,5                  | 8,8     |
+| Isoleucine      | 4,5               | 4,9              | 5,2               | 4,2                 | 4,4                  | 7,8                  | 3,4                  | 6,6     |
+| Valine          | 2,5               | 3,7              | 6,9               | 5,1                 | 5,3                  | 9,7                  | 5,4                  | 7,3     |
+| Trytophan       | 2                 | nd               | 1,1               | 13                  | 1,2                  | 1,5                  | 13                   | 1,6     |
+| Lysine          | 9,1               | 3,9              | 9,9               | 4,5                 | 5,7                  | 6,1                  | 7,1                  | 6,4     |
+| Threonine       | 5,5               | 5,9              | 6,1               | 4,6                 | 5                    | 6                    | 3,5                  | 5,1     |
+| Phenyalanine    | 4,2               | 5,9              | 3,5               | 3,7                 | 5                    | 7                    | 2,6                  | 5,8     |
+| Methionine      | 0,9               | 1,9              | 3                 | 1,5                 | 1,8                  | 1,2                  | 1,1                  | 3,1     |
+| Histidine       | 2,7               | 1,9              | 2,8               | 1,7                 | 2,2                  | 4,2                  | 3,8                  | 2,4     |
+| Total essential | 38,9              | 36               | 46                | 33,4                | 37,6                 | 48,5                 | 32,9                 | 47,1    |
+
+Data presented **as grams** of amino acids **per 100 grams** of corrected crude protein.  
+*nd = not determined
+
 [source](https://sayedmaulana.files.wordpress.com/2011/02/mushrooms.pdf)
 
 
