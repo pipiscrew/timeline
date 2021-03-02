@@ -15,8 +15,11 @@
 * [editions64k.Demoscene the Amiga years volume 1](https://www.editions64k.fr/)
 * [Hardware for your Amiga](http://amigakit.com/)
 * [News for Amiga](http://www.generationamiga.com/)
-* [Largest archive of software and files](http://aminet.net/)
+
 * [The global map of all known Amiga](https://amigamap.com/)
 
 ## repos
-* [mirrors.pdp](https://mirrors.pdp) * [rtk.mirrors.pdp](https://rtk.mirrors.pdp) * [ttk.mirrors.pdp](https://ttk.mirrors.pdp)
+* [Largest archive of software and files](http://aminet.net/)
+* [mirrors.pdp](https://mirrors.pdp)
+	* [rtk.mirrors.pdp](https://rtk.mirrors.pdp)
+	* [ttk.mirrors.pdp](https://ttk.mirrors.pdp)
