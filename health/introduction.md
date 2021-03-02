@@ -9,11 +9,13 @@ then the entire manual from start to finish would be the **genome**.
 
 **Genes** encode protein, large complex molecules which drive processes in the body and are responsible for the function and structure of the body's tissues. Before **genes** can be used to make proteins, their DNA sequence is transcribed into **RNA**, an intermediary molecule that contains the instructions for making **proteins**.
 
+> **Proteins** are made up of hundreds of smaller units called **amino acids** that are attached to one another by peptide bonds, forming a long chain. You can think of a protein as a **string of beads** where each bead is an **amino acid**.
+  
 The human **genome** contains approximately 3 billion of these base pairs, which reside in the **23 pairs of chromosomes** within the **nucleus** of all our **cells**. Each **chromosome** contains hundreds to thousands of **genes**, which carry the instructions for making **proteins**. Each of the estimated 30,000 genes in the human genome makes an average of three proteins. [src](https://www.genome.gov/human-genome-project/Completion-FAQ)
 
 When a **gene** is activated by signals from inside or outside the **cell**, it makes a molecular message (called an **RNA**) that contains all the information needed to make whatever that **gene makes**. We now know that over 95% of our **genes** can actually make several **different** types of messages, depending on the **needs** of the **cell**.
 
-**Proteins** are made up of hundreds of smaller units called **amino acids** that are attached to one another by peptide bonds, forming a long chain. You can think of a protein as a **string of beads** where each bead is an **amino acid**.
+
 
 ## DNA
 
