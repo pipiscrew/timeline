@@ -89,7 +89,7 @@ The **nine essential** amino acids :
 ➜ phenylalanine  
 ➜ ~ isoleucine  
 
-Furthermore, these **nine essential** amino acids **must be present simultaneously** and in correct relative **amounts** for **protein synthesis** to occur. If one or more should be in **inadequate** supply, the utilization of all others in the cellular pool will be **reduced** in the **same** proportion.
+> Furthermore, these **nine essential** amino acids **must be present simultaneously** and in correct relative **amounts** for **protein synthesis** to occur. If one or more should be in **inadequate** supply, the utilization of all others in the cellular pool will be **reduced** in the **same** proportion.
 
 |     | Essential Amino Acid Indexes |   |     | Amino Acid Scores |
 |-----|------------------------------|---|-----|-------------------|
