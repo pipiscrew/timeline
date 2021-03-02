@@ -1,6 +1,11 @@
 ## Genome
 
-A **genome** is an organism’s complete set of DNA. If the **DNA** code is a **set of instructions** that’s carefully organised into paragraphs (**genes**) and chapters (**chromosomes**), then the entire manual from start to finish would be the **genome**.
+A **genome** is an organism’s complete set of DNA. If the **DNA** code is a **set of instructions** that’s carefully organized into  
+
+* paragraphs (**genes**) 
+* chapters (**chromosomes**)
+
+then the entire manual from start to finish would be the **genome**.
 
 **Genes** encode protein, large complex molecules which drive processes in the body and are responsible for the function and structure of the body's tissues. Before **genes** can be used to make proteins, their DNA sequence is transcribed into **RNA**, an intermediary molecule that contains the instructions for making **proteins**.
 
