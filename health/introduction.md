@@ -189,7 +189,7 @@ Branched-chain refers to the chemical structure of BCAAs, which are **found in p
 
 [source](https://www.healthline.com/nutrition/benefits-of-bcaa)
 
-## Neurotransmitters
+## Amino Acid Neurotransmitters
 
 * Glutamate
 
@@ -197,4 +197,5 @@ Branched-chain refers to the chemical structure of BCAAs, which are **found in p
 
 	**Neuroplasticity** also relies on **glutamate**. That’s because your brain uses glutamate to **build** pathways between neurons that reinforce your memory and help you learn.
 
-	[source - 7 Neurotransmitters Involved in the Brain-Body Connection](https://askthescientists.com/neurotransmitters/)
+	[source - 7 Neurotransmitters Involved in the Brain-Body Connection](https://askthescientists.com/neurotransmitters/)  
+	[ref](https://nba.uth.tmc.edu/neuroscience/m/s1/chapter13.html)
