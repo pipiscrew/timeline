@@ -85,9 +85,9 @@ The **nine essential** amino acids :
 ➜ threonine  
 ➜ valine  
 ➜ leucine  
-➜ (~) histidine  
+➜ ~ histidine  
 ➜ phenylalanine  
-➜ (~) isoleucine  
+➜ ~ isoleucine  
 
 Furthermore, these **nine essential** amino acids **must be present simultaneously** and in correct relative **amounts** for **protein synthesis** to occur. If one or more should be in **inadequate** supply, the utilization of all others in the cellular pool will be **reduced** in the **same** proportion.
 
@@ -154,6 +154,7 @@ The **essential amino acids**, which are **derived** only from **food** and that
 * **Leucine** - Works with **Isoleucine** to provide for the manufacture of essential biochemical processes in the body that are used for energy, increasing the stimulants to the upper brain for greater mental alertness.
 
 [source](https://www.encyclopedia.com/science-and-technology/biochemistry/biochemistry/amino-acid)  
+
 	* [2](https://www.britannica.com/science/histidine)
 
 ----------
