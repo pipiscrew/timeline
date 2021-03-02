@@ -1,3 +1,5 @@
+## info
+
 If you **extract sugars** from **corn syrup**. **Ferment** them with **bacteria** and add a **chemical reaction,** you have synthetic **vitamin C**. Most synthetic vitamins are chemically identical to the natural form, but without the **fiber** and **micronutrients** that come with food. The end result is a vitamin made not **by a plant**, but **in a plant**.
 
 Given the amount of vitamin needed is generally tiny, what makes up the rest of the pill? Well, inactive materials like **cellulose, sugars, or rice flour** are often added to provide bulk and to **help the tablets dissolve in the gut**. **Colors** and **flavors** can also be added to make the tablets more **palatable**.
@@ -8,7 +10,7 @@ Around half the countries on Earth allow the **addition** of **synthetic vitamin
 
 * * *
 
-### Vitamin D
+## Vitamin D
 
 **Low vitamin D** has been linked to cancer, heart disease, dementia, it's been linked to over 100 different conditions. There are some who claim we're in a **midst** of a global vitamin D **deficiency**.
 
@@ -29,11 +31,16 @@ and the **fat soluble** team, consisting
 -Vitamin D  
 -Vitamin E  
 -Vitamin K  
+-Saw Palmetto
 
 We can **get rid of excess water soluble** vitamins in our **urine**, but the **fat soluble** ones are **stored** in our **livers** and **fatty tissue**, so they're the ones that can build up **easily to toxic** levels.
 
 * * *
 
+# the law
+
 In **1994**, a new **US** law is passed, **forbidding** the testing of dietary supplements for safety or effectiveness before sale. We lobbied on behalf of the dietary supplement industry to get congress to pass a sweeping law in 1994 that forever forbade the FDA from requiring that dietary supplements be tested or for efficacy before they're sold. Different countries have different regulations. In **Australia**, most vitamin products are classified as complimentary medicines. Manufacturers must certify that they use low risk ingredients, products contain what they say they contain and they have evidence to back up health claims. In **Europe**, vitamin products are regulated as food supplements and again, they **don't have to be tested** before they go on sale.
+
+* * *
 
 transcript by [https://www.imdb.com/title/tt8232232/](https://www.imdb.com/title/tt8232232/)
