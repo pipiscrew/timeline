@@ -7,3 +7,4 @@
 	* [Music](/application/music.md)
 * [Notes]
 	* [amiga](/notes/amiga.md)
+	* [music](/notes/music.md)

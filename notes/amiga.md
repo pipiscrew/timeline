@@ -1,3 +1,4 @@
+## info
 * [1988 - The AUI Interview: Jay Miner – the father of the Amiga](https://retrocomputingnews.wordpress.com/2015/05/31/the-aui-interview-jay-miner-the-father-of-the-amiga/)
 * [1992 - Jay Miner – the father of the Amiga](http://elwoodb.free.fr/Amiga/Jay.txt)
 * [1995 WinUAE - emulate the Amiga](https://www.winuae.net/)
