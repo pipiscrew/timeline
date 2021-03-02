@@ -188,3 +188,13 @@ Of the nine essential amino acids, **three** are the **branched-chain** amino ac
 Branched-chain refers to the chemical structure of BCAAs, which are **found in protein-rich** foods such as eggs, meat and dairy products.
 
 [source](https://www.healthline.com/nutrition/benefits-of-bcaa)
+
+## Neurotransmitters
+
+* Glutamate
+
+	It’s present in **90 percent** of **synapses**, acting as the main **excitatory** neurotransmitter in the **central nervous** system. It only takes a small amount of glutamate to **excite neighbor** brain cells. Too much glutamate can be **tricky** for your brain. Excesses can over-excite cells. So much so that neurons **can’t bring their energy back down** again. This toxic excited state causes brain cells to **lock up** and **stop** working. Good thing those transporter proteins are there to clear away the extra glutamate and **protect your brain** by cleaning up the synapse after each action potential.
+
+	**Neuroplasticity** also relies on **glutamate**. That’s because your brain uses glutamate to **build** pathways between neurons that reinforce your memory and help you learn.
+
+	[source - 7 Neurotransmitters Involved in the Brain-Body Connection](https://askthescientists.com/neurotransmitters/)
