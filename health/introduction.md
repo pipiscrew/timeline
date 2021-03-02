@@ -130,9 +130,18 @@ Amino acids **occur naturally** in certain foods, such as :
 * legumes  
 * eggs  
 
-Those sources are considered more complete than **vegetable** protein, such as beans, peas, and grains, also considered a good—even if not complete—source of amino acids. Although **plant sources** generally lack one or more of the essential amino acids, when **combined** with **whole grains** such as **rice**, or by eating **nuts** or seeds with **legumes**, all the amino acids can be **obtained**.
+Those sources are considered more complete than **vegetable** protein, such as beans, peas, and grains, also considered a good—even if not complete—source of amino acids. Although **plant sources** generally lack one or more of the essential amino acids, when **combined** with **whole grains** such as **rice**, or by eating **nuts** or seeds with **legumes**, all the amino acids can be **obtained**. e.g., **cereal grains** have too little of the essential amino acid **lysine** and **legumes** usually lack the essential amino acids  
 
-Of the 20 amino acids required for manufacturing the proteins the human body needs, the body itself produces only 12, meaning that we have to meet our requirements for the other **eight through nutrition**. Because each amino acid can be used many times along the chain and because there are **no restrictions** on the length of the chain, the number of possible combinations for the formation of proteins is **truly enormous**. There are about **two quadrillion different proteins** that can exist if each of the 20 amino acids present in humans is used **only once**.
+* methionine  
+* tryptophane  
+
+The proteins of commonly **cultivated mushrooms** contain **all** nine amino acids **essential**. For all mushrooms, the most **abundant** essential amino acid is **lysine**, and the **lowest** levels among the essential amino acids are those of  
+
+* tryptophane    
+* methionine  
+
+
+Of the **20 amino acids** required for manufacturing the proteins the human body needs, the body itself **produces** only **12**, meaning that we have to meet our requirements for the other **eight through nutrition**. Because each amino acid can be used many times along the chain and because there are **no restrictions** on the length of the chain, the number of possible combinations for the formation of proteins is **truly enormous**. There are about **two quadrillion different proteins** that can exist if each of the 20 amino acids present in humans is used **only once**.
 
 The **essential amino acids**, which are **derived** only from **food** and that the body cannot manufacture, perform various functions :
 
@@ -141,7 +150,6 @@ The **essential amino acids**, which are **derived** only from **food** and that
 * **Methionine** - Properties include providing the primary source of sulfur that can prevent disorders of the hair, skin, and nails; lowers cholesterol by increasing the liver's production of lecithin ; reduces liver fat; protects kidneys; and promotes hair growth.
 * **Phenylalanine** - This serves the brain by producing norepinephrine, the chemical that is responsible for transmitting the signals between the nerve cells and the brain; can maintain alertness; reduces hunger pains; acts as an antidepressant; and improves memory.
 * **Threonine** - Makes up a substantial portion of the collagen, elastin, and enamel protein; serves the liver by preventing buildup; aids the digestive and intestinal tracts to function better; and acts as a trigger for metabolism.
-* **Histamine** - Involved in the physiological processes associated with allergic reactions, they cannot synthesize it and require dietary sources.
 * **Valine** - Promotes mental energy; helps with muscle coordination; and serves as a natural tranquilizer.
 * **Leucine** - Works with **Isoleucine** to provide for the manufacture of essential biochemical processes in the body that are used for energy, increasing the stimulants to the upper brain for greater mental alertness.
 
