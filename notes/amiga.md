@@ -10,7 +10,7 @@
 > KillerGorilla said : Look… I am not stupid, you know. They cannot make things like that yet.
 
 * [2020 Looking Back on 35 Years as an Amiga User](https://bytecellar.com/2020/10/27/looking-back-on-35-years-as-an-amiga-user/)
-* [Raspberry Pi Amiga Emulation](https://makerhacks.com/pimiga/)
+* [PiMiga - Raspberry Pi Amiga Emulation](https://makerhacks.com/pimiga/)
 	* [setup](https://www.youtube.com/watch?v=rpnKrNEezZ4)
 * [editions64k.Demoscene the Amiga years volume 1](https://www.editions64k.fr/)
 * [Hardware for your Amiga](http://amigakit.com/)
