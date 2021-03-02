@@ -37,4 +37,4 @@ Are the **powerhouses** for cells, providing energy to carry out biochemical rea
 
 The **energy** stored in food is converted into a **usable energy source** in the **body** known as **ATP**. ATP is the only energy currency that can be used in our **bodies**. The actual **production of ATP** is quite a **complex** process. The **inner membrane** of **mitochondria** is what is responsible for **mass energy production**. [src](https://www.lhsc.on.ca/medical-genetics-program-of-southwestern-ontario/all-about-mitochondria)
 
-![img](./assets/cell_stucture.jpg)
+![img](../assets/cell_stucture.jpg)
