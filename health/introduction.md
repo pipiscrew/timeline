@@ -154,8 +154,7 @@ The **essential amino acids**, which are **derived** only from **food** and that
 * **Leucine** - Works with **Isoleucine** to provide for the manufacture of essential biochemical processes in the body that are used for energy, increasing the stimulants to the upper brain for greater mental alertness.
 
 [source](https://www.encyclopedia.com/science-and-technology/biochemistry/biochemistry/amino-acid)  
-
-	* [2](https://www.britannica.com/science/histidine)
+* [2](https://www.britannica.com/science/histidine)
 
 ----------
 
