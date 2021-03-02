@@ -81,11 +81,11 @@ The **nine essential** amino acids :
 
 ➜ lysine  
 ➜ methionine  
-➜ tryptophane  
+➜ tryptophan  
 ➜ threonine  
 ➜ valine  
 ➜ leucine  
-➜ histidine  
+➜ (~) histidine  
 ➜ phenylalanine  
 ➜ (~) isoleucine  
 
@@ -110,7 +110,7 @@ Furthermore, these **nine essential** amino acids **must be present simultaneous
 |     |                              |   | 23  | Soybeans          |
 |     |                              |   | 18  | Tomatoes          |
 
-Ranking based on essential amino acid indexes, amino acid scores, and nutritional indexes as calculated against the [FAO](http://www.fao.org/) reference protein pattern; biological values correlate closely with the EAA indexes
+Ranking based on essential amino acid indexes, amino acid scores, and nutritional indexes as calculated against the [FAO](http://www.fao.org/) reference protein pattern; biological values correlate closely with the **EAA** index (Essential amino acid index).
 
 [source](https://sayedmaulana.files.wordpress.com/2011/02/mushrooms.pdf)
 
@@ -139,13 +139,14 @@ The **essential amino acids**, which are **derived** only from **food** and that
 * **Tryptophan** - This is considered a natural relaxant, helps alleviate insomnia; helps in the treatment of migraine headaches; helps reduce the risk of artery and heart spasms; and works with lysine to reduce cholesterol levels.
 * **Lysine** - Aids in proper absorption of calcium ; helps form collagen for bone cartilage and connective tissues; aids in production of antibodies, hormones, and enzymes. Research has indicated it also might be effective against herpes by creating the balance of nutrients that slows the growth of the virus causing it. A deficiency could result in fatigue , lack of concentration, irritability, bloodshot eyes, retarded growth, hair loss, anemia , and reproductive problems.
 * **Methionine** - Properties include providing the primary source of sulfur that can prevent disorders of the hair, skin, and nails; lowers cholesterol by increasing the liver's production of lecithin ; reduces liver fat; protects kidneys; and promotes hair growth.
-* **Phenylalaine** - This serves the brain by producing norepinephrine, the chemical that is responsible for transmitting the signals between the nerve cells and the brain; can maintain alertness; reduces hunger pains; acts as an antidepressant; and improves memory.
+* **Phenylalanine** - This serves the brain by producing norepinephrine, the chemical that is responsible for transmitting the signals between the nerve cells and the brain; can maintain alertness; reduces hunger pains; acts as an antidepressant; and improves memory.
 * **Threonine** - Makes up a substantial portion of the collagen, elastin, and enamel protein; serves the liver by preventing buildup; aids the digestive and intestinal tracts to function better; and acts as a trigger for metabolism.
+* **Histamine** - Involved in the physiological processes associated with allergic reactions, they cannot synthesize it and require dietary sources.
 * **Valine** - Promotes mental energy; helps with muscle coordination; and serves as a natural tranquilizer.
-* **Leucine** - Works with **isoleucine** to provide for the manufacture of essential biochemical processes in the body that are used for energy, increasing the stimulants to the upper brain for greater mental alertness.
+* **Leucine** - Works with **Isoleucine** to provide for the manufacture of essential biochemical processes in the body that are used for energy, increasing the stimulants to the upper brain for greater mental alertness.
 
-[source](https://www.encyclopedia.com/science-and-technology/biochemistry/biochemistry/amino-acid)
-
+[source](https://www.encyclopedia.com/science-and-technology/biochemistry/biochemistry/amino-acid)  
+	* [2](https://www.britannica.com/science/histidine)
 
 ----------
 
