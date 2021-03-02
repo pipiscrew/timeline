@@ -8,3 +8,5 @@
 * [Notes]
 	* [amiga](/notes/amiga.md)
 	* [music](/notes/music.md)
+	* [supplement](/notes/supplement.md)
+		* [vitamania](/notes/supplementVitamania.md)
