@@ -21,17 +21,13 @@ Geneticist professor **Tim Spector** studied **vitamin D** a lot **in the last 1
 The **13 vitamins** can be divided into two teams, the **water soluble** team consisting   
 
 -all the B vitamins  
-
--vitamin C   
-
+-vitamin C  
+  
 and the **fat soluble** team, consisting  
 
 -Vitamin A  
-
 -Vitamin D  
-
 -Vitamin E  
-
 -Vitamin K  
 
 We can **get rid of excess water soluble** vitamins in our **urine**, but the **fat soluble** ones are **stored** in our **livers** and **fatty tissue**, so they're the ones that can build up **easily to toxic** levels.
