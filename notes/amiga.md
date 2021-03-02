@@ -5,6 +5,7 @@
 	* [WHDownLoad](http://whdownload.com)
 * [2011 FS-UAE - emulate the Amiga](https://fs-uae.net/)
 * [2015 Cloanto - confirms transfers of Commodore/Amiga copyrights](http://amiga-news.de/en/news/AN-2015-02-00027-EN.html)
+* [wiki - Commodore History](https://en.wikipedia.org/wiki/Commodore_International)
 
 
 > KillerGorilla said : Look… I am not stupid, you know. They cannot make things like that yet.
