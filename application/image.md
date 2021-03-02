@@ -44,5 +44,7 @@
 ## Flowchart
 * [NCH.ClickCharts](https://www.nchsoftware.com/chart/)
 * [SmartDraw 2010](https://download.cnet.com/SmartDraw-2010/3000-2075_4-10002466.html)
+* [Open Mind](https://openmindsoftware.org)
 * [Freeplane](https://www.freeplane.org)
 * [draw.io](https://app.diagrams.net/)
+* [flowchart.fun](https://flowchart.fun/) - Generate flowcharts from Text
