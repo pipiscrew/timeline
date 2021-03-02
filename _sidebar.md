@@ -5,3 +5,5 @@
 	* [Misc Explorer](/application/misc.md)
 	* [Image](/application/image.md)
 	* [Music](/application/music.md)
+* [Notes]
+	* [amiga](/notes/amiga.md)
