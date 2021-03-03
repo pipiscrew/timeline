@@ -133,6 +133,12 @@ Data presented **as grams** of amino acids **per 100 grams** of corrected crude 
 
 [source](https://sayedmaulana.files.wordpress.com/2011/02/mushrooms.pdf)
 
+----------
+
+    Warning :  
+
+* [Accumulation of heavy metals by wild edible mushrooms](https://www.sciencedirect.com/science/article/pii/S0048969719325070)  
+* [Mushrooms Can Eat Plastic, Petroleum and CO2](https://returntonow.net/2018/01/11/7-ways-mushrooms-can-save-world/)
 
 ----------
 
