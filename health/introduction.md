@@ -133,7 +133,7 @@ Data presented **as grams** of amino acids **per 100 grams** of corrected crude 
 
 [source](https://sayedmaulana.files.wordpress.com/2011/02/mushrooms.pdf)
 
-----------
+
 
 > Warning :  
 
