@@ -194,14 +194,14 @@ A protein is comprised of 20 amino acids; 11 of these amino acids are produced b
  * Chlorella (algae)
  * Spirulina (algae)
 
-[source](https://www.piedmont.org/living-better/what-is-a-complete-protein)  
-
- * [Complementary Proteins](https://www.verywellfit.com/vegetarian-protein-combining-88265)  
- * [Protein Combinations](https://www.verywellfit.com/vegan-protein-combinations-2506396)
+[source](https://www.piedmont.org/living-better/what-is-a-complete-protein) 
 
 ----------
 
-[Protein combining](https://en.wikipedia.org/wiki/Protein_combining) is a dietary theory for protein nutrition that purports to optimize the biological value of protein intake.
+[Protein combining](https://en.wikipedia.org/wiki/Protein_combining) is a dietary theory for protein nutrition that purports to optimize the biological value of protein intake. 
+
+ * [Complementary Proteins](https://www.verywellfit.com/vegetarian-protein-combining-88265)  
+ * [Protein Combinations](https://www.verywellfit.com/vegan-protein-combinations-2506396)
 
 ----------
 
