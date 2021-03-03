@@ -217,6 +217,6 @@ Branched-chain refers to the chemical structure of BCAAs, which are **found in p
 * L-Valine (200 mg)  
 * L-Glutamine (200 mg)  
 
-Those amino acids, only for transport purposes. egg or milk have 2000 times more.
+Those amino acids, is only for transport purposes. Egg or milk have '2000' times more.
 
 > Purple cabbage, broccoli and red lettuce were found to contain the highest concentrations of free amino acids, B vitamins and phenolic compounds. [source](https://doi.org/10.1016/j.foodchem.2020.128712) / [pdf](https://www.dropbox.com/s/g1up9tyj2r1ridk/Simultaneous%20determination%20of%2049%20amino%20acids-zhao2020.pdf/?dl=1)
