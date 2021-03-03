@@ -15,11 +15,13 @@ When a **gene** is activated by signals from inside or outside the **cell**, it 
 
 ## DNA
 
-The [DNA](https://www.dropbox.com/s/dm850m8w5py86nm/DNA%20-%20The%20Secret%20of%20Life.pdf?dl=1) inside each of your cells is longer than you are, but packs down into a space smaller than you can see.
+The DNA inside each of your cells is longer than you are, but packs down into a space smaller than you can see.
 
 Stretched DNA length in each human cell is about 2 meters.
 
 All the DNA in all your cells put together would be about twice the diameter of the Solar System.
+
+ref - [DNA: The Secret of Life](https://www.dropbox.com/s/dm850m8w5py86nm/DNA%20-%20The%20Secret%20of%20Life.pdf?dl=1)
 
 ## Cells
 
