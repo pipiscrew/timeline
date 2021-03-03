@@ -247,3 +247,7 @@ Those amino acids, is only for transport purposes. Egg or milk have '2000' times
 
 
 > Protein digestion begins in the stomach, broken into individual amino acids then transported to the liver via the bloodstream to produce energy.
+
+----------
+
+[Amino Acid Protein Calculator](https://tools.myfooddata.com/protein-calculator)
