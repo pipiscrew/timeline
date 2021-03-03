@@ -181,15 +181,34 @@ The **essential amino acids**, which are **derived** only from **food** and that
 [source](https://www.encyclopedia.com/science-and-technology/biochemistry/biochemistry/amino-acid)  
   * [2](https://www.britannica.com/science/histidine)
 
+
+> Complete Protein  
+
+A protein is comprised of 20 amino acids; 11 of these amino acids are produced by the human body. For good health, we must get the other **nine** amino acids (called "essential amino acids") from the foods we eat. When a food contains all nine of these amino acids, it is called a "complete protein." can be found :
+
+ * Animal proteins, such as meat, eggs, and milk. Provide the highest-quality protein sources.  
+ * Quinoa
+ * Buckwheat
+ * Hempseed
+ * Soybeans
+ * Chlorella (algae)
+ * Spirulina (algae)
+
+[source](https://www.piedmont.org/living-better/what-is-a-complete-protein)
+
+----------
+
+[Protein combining](https://en.wikipedia.org/wiki/Protein_combining) is a dietary theory for protein nutrition that purports to optimize the biological value of protein intake.
+
 ----------
 
 As supplement - **BCAA** (Branch Chain Amino Acids)
 
 Of the nine essential amino acids, **three** are the **branched-chain** amino acids (BCAAs):   
 
-* Leucine (aka L-Leucine)  
-* Isoleucine (aka L-Isoleucine)  
-* Valine (aka L-Valine)  
+* Leucine  
+* Isoleucine  
+* Valine  
 
 Branched-chain refers to the chemical structure of BCAAs, which are **found in protein-rich** foods such as eggs, meat and dairy products.
 
@@ -220,3 +239,4 @@ Branched-chain refers to the chemical structure of BCAAs, which are **found in p
 Those amino acids, is only for transport purposes. Egg or milk have '2000' times more.
 
 > Purple cabbage, broccoli and red lettuce were found to contain the highest concentrations of free amino acids, B vitamins and phenolic compounds. [source](https://doi.org/10.1016/j.foodchem.2020.128712) / [pdf](https://www.dropbox.com/s/g1up9tyj2r1ridk/Simultaneous%20determination%20of%2049%20amino%20acids-zhao2020.pdf/?dl=1)
+
