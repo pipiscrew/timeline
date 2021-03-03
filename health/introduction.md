@@ -209,3 +209,5 @@ Branched-chain refers to the chemical structure of BCAAs, which are **found in p
 
 [source - 7 Neurotransmitters Involved in the Brain-Body Connection](https://askthescientists.com/neurotransmitters/)  
 [ref](https://nba.uth.tmc.edu/neuroscience/m/s1/chapter13.html)
+
+> Purple cabbage, broccoli and red lettuce were found to contain the highest concentrations of free amino acids, B vitamins and phenolic compounds. [source](https://doi.org/10.1016/j.foodchem.2020.128712)
