@@ -193,7 +193,7 @@ A protein is comprised of 20 amino acids; 11 of these amino acids are produced b
  * Buckwheat
  * Hempseed
  * Soybeans
- * Chlorella (algae)
+ * [Chlorella](https://www.echlorial.fr/en/content/17-analyse-detaillee) (algae) [2](https://www.echlorial.fr/en/content/18-chlorella-composition)
  * Spirulina (algae)
 
 [source](https://www.piedmont.org/living-better/what-is-a-complete-protein) 
