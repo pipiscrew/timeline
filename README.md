@@ -47,7 +47,17 @@
 
 
 ## 2021/02
-  * [Deep Nostalgia application can turn old photos of people into moving videos](https://gizmodo.com/deep-nostalgia-can-turn-old-photos-of-your-relatives-1846363190)
+  * [Deep Nostalgia application can turn old photos of your relatives into moving videos](https://gizmodo.com/deep-nostalgia-can-turn-old-photos-of-your-relatives-1846363190)
+  * [Firefox replaces GA with a fake no-op GA](https://twitter.com/__jakub_g/status/1365400306767581185)
+  * [152kb WebAssembly interpreter](https://github.com/wasm3/wasm3)
+  * [Jailbreak tool 'unc0ver' 6.0.0 upgraded to work with iOS 14.3](https://appleinsider.com/articles/21/02/28/jailbreak-tool-unc0ver-600-upgraded-to-work-with-ios-143)
+  * [JSON parser written in 6502 assembly language](https://github.com/ppelleti/json65)
+  * [Credit Card Payment Systems Crashed on across America](https://businessinsider.com/credit-card-payments-system-outage-stores-restaurants-chick-fil-a-2021-2)
+  * [Drivers locked out of their cars at Royston Tesco](https://bbc.com/news/uk-england-beds-bucks-herts-56221408)
+  * [Generate Flowcharts from Text](https://flowchart.fun/)
+  * [LastPass Android app has got 7 trackers in it](https://reports.exodus-privacy.eu.org/en/reports/165465/)
+  * [How to Read Assembly Language](https://wolchok.org/posts/how-to-read-assembly-language/)
+  * [Gab has been hacked and 70GB of data leaked](https://arstechnica.com/information-technology/2021/03/gab-the-far-right-website-has-been-hacked-and-70gb-of-data-leaked/)
   * [Google Analytics: Stop feeding the beast](https://casparwre.de/blog/stop-using-google-analytics/)
   * [North Korean hackers target defense industry with custom malware](https://www.bleepingcomputer.com/news/security/north-korean-hackers-target-defense-industry-with-custom-malware/)
   * [XSS Attack Examples and Mitigations](https://goteleport.com/blog/xss-attacks/)
