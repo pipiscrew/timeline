@@ -17,7 +17,7 @@
 * (multi) [9xbuddy](https://9xbuddy.org/)
 * [HyperDebrid](https://hyperdebrid.net/)  
 
-## excel / CSV
+## excel / csv
 * [Excel to HTML Table Converter](http://pressbin.com/tools/excel_to_html_table/index.html)
 * [Mr. Data Converter](https://thdoan.github.io/mr-data-converter/)  
 * [Convert CSV to Excel++](https://www.convertcsv.com/csv-to-csv.htm)
