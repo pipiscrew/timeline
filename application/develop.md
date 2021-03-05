@@ -22,3 +22,6 @@
 * [Fork](https://fork.dev/)
 * [GitKraken](https://www.gitkraken.com/)
 * [Git-Tower](https://www.git-tower.com/windows)
+
+## misc
+* [Free for developers](https://free-for.dev/)
