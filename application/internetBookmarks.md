@@ -7,19 +7,7 @@
 * (greek) [National Archive of PhD Theses](https://www.didaktorika.gr/eadd/?locale=en)  
 * (greek) [bibliographic records](https://opac.seab.gr/*eng)
 * [Z-Library](https://z-lib.org/) - 6.5m ebooks
-
-## videos
-* [VidsWatch](https://www.vidswatch.com/) - add **magic** to domain => you**magic**tube.com/watch?v=p5IO-IJSVnQ
-* [y2mate](https://www.y2mate.com) - add **pp** at the end => youtube**pp**.com/watch?v=p5IO-IJSVnQ
-* [SoundCloud Downloader](https://sclouddownloader.net/)
-* [Reddit Videos](https://viddit.red/)
-* [Facebook Video Downloader](https://fbdown.net/)
-* (hyper-multi) - [youtube-dl](https://ytdl-org.github.io/youtube-dl/)  ([supported sites](https://github.com/ytdl-org/youtube-dl/blob/master/docs/supportedsites.md))
-* (multi) [YooDownload](https://yoodownload.com/)
-* (multi) [savefrom](https://savefrom.net)
-* (multi) [Savido](https://www.savido.net/)
-* (multi) [9xbuddy](https://9xbuddy.org/)
-* [HyperDebrid](https://hyperdebrid.net/)  
+* [Morioh](https://morioh.com/topics) - Social network for programmers and developers
 
 ## excel / csv
 * [Excel to HTML Table Converter](http://pressbin.com/tools/excel_to_html_table/index.html)
@@ -35,6 +23,29 @@
 * (russian) [Yandex.Translate](https://translate.yandex.com/)
 * (russian) [Yandex.Disk](https://disk.yandex.com/) - Store files online
 
+## videos
+* [Invidious](https://invidious.snopyta.org/feed/popular)
+* [youtube-lite](https://youtube-lite.js.org/)
+* [Vimeo](https://vimeo.com/)
+* [Brighteon](https://www.brighteon.com/)
+* [BitChute](https://www.bitchute.com/)
+* [Lbry](https://lbry.tv)
+* [flote](https://flote.app/)
+* [DLive](https://dlive.tv/)
+
+## video rip
+* [VidsWatch](https://www.vidswatch.com/) - add **magic** to domain => you**magic**tube.com/watch?v=p5IO-IJSVnQ
+* [y2mate](https://www.y2mate.com) - add **pp** at the end => youtube**pp**.com/watch?v=p5IO-IJSVnQ
+* [SoundCloud Downloader](https://sclouddownloader.net/)
+* [Reddit Videos](https://viddit.red/)
+* [Facebook Video Downloader](https://fbdown.net/)
+* (hyper-multi) - [youtube-dl](https://ytdl-org.github.io/youtube-dl/)  ([supported sites](https://github.com/ytdl-org/youtube-dl/blob/master/docs/supportedsites.md))
+* (multi) [YooDownload](https://yoodownload.com/)
+* (multi) [savefrom](https://savefrom.net)
+* (multi) [Savido](https://www.savido.net/)
+* (multi) [9xbuddy](https://9xbuddy.org/)
+* [HyperDebrid](https://hyperdebrid.net/)  
+
 ## json / js / php / markdown / html
 * [Markdown to HTML](https://markdowntohtml.com/)  
 * [Markdown Tables generator](https://www.tablesgenerator.com/markdown_tables)  
@@ -46,6 +57,7 @@
 * [UUID Generator](https://www.uuidgenerator.net/)
 
 ## develop
+* [CyberChef](https://gchq.github.io/CyberChef/) - Cyber Swiss Army Knife
 * [Batch Speed](https://batchspeed.com/) - Bulk speed test multiple urls using Google's Page Speed checker
 * [Hoppscotch (aka Postwoman)](https://hoppscotch.io/) - API request builder
 	* regex
@@ -56,6 +68,7 @@
 		* [Convert JSON to any language class](https://app.quicktype.io/)
 			* [2](https://www.jsonutils.com/)  
 		* [Convert C# class to JSON](https://csharp2json.io/)  
+* [Music For Programming](http://musicforprogramming.net/)  
 
 ## search engines
 * (france) [Qwant](https://www.qwant.com/)
@@ -73,6 +86,8 @@
 * ~[Firefox Relay](https://relay.firefox.com/)
 
 ## files archives
+* [EmuOS](https://emupedia.net/beta/emuos/) - Video game preservation and computer history
+* [WinWorld](https://winworldpc.com/library/operating-systems)
 * [lumpysoft.Google index search](https://lumpysoft.com/)  
 * [The Eye](https://the-eye.eu/)
 * [FilePursuit](https://filepursuit.com/)
@@ -82,4 +97,41 @@
 * [Download Bull](https://downloadbull.com/)
 * [downloadly](https://downloadly.ir/)
 * [portable4pc](https://portable4pc.com/)
-* [Releaselog](http://www.rlslog.net/)
+* [Releaselog](http://www.rlslog.net/)  
+
+## games
+* [Bored?](https://jsnes.fir.sh/)
+* [Lovatts.Sudoku](https://lovattspuzzles.com/online-puzzles-fullscreen/sudoku-fullscreen.php)
+* [Mahjong](https://mahjon.gg/)
+* [Blocks](https://blocks.ovh/)
+* [Slices](https://slices.ovh/)
+
+## misc
+* [Earthquakes](https://www.emsc-csem.org/Earthquake/)
+* [Earthquake Track](https://earthquaketrack.com/)
+* [Evozi.APK Downloader](https://apps.evozi.com/apk-downloader/)
+* [(chrome) CRX Extractor](https://crxextractor.com/)
+
+## news
+* [Reuters](https://www.reuters.com/)
+* [CBNC](https://www.cnbc.com)
+* [Bloomberg](https://www.bloomberg.com)
+* [Ars Technica](https://arstechnica.com/)
+* [BBC](https://www.bbc.com)
+* [CNN](https://lite.cnn.com/en)
+* [Business Standard](https://www.business-standard.com/)
+* [Disclose](https://www.disclose.tv)
+* [Slashdot](https://slashdot.org/)
+* [Business Insider](https://www.businessinsider.com/)
+* [(IT) Gizmodo](https://gizmodo.com/)
+* [(IT) ZDNet](https://www.zdnet.com)
+* [(IT) Sophos.Naked Security](https://nakedsecurity.sophos.com)
+* [(IT) BleepingComputer](https://www.bleepingcomputer.com/)
+* [(IT) ghacks](https://www.ghacks.net/)
+* [(IT) SlashGear](https://www.slashgear.com/)
+* [(IT) Android Police](https://www.androidpolice.com/)
+
+## seeking for truth
+* [Climate Change Agenda](http://climatechangeagenda.com/)
+* [The Narrow Gate](https://thenarrowgateweb.com/)
+* [Truth Comes to Light](https://truthcomestolight.com/)
