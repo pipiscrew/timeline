@@ -6,6 +6,7 @@
 * [Google.Scholar](https://scholar.google.gr/scholar?hl=en&q=gmo) - Freely accessible web search engine that indexes the full text or metadata of scholarly literature
 * (greek) [National Archive of PhD Theses](https://www.didaktorika.gr/eadd/?locale=en)  
 * (greek) [bibliographic records](https://opac.seab.gr/*eng)
+* [Z-Library](https://z-lib.org/) - 6.5m ebooks
 
 ## videos
 * [VidsWatch](https://www.vidswatch.com/) - add **magic** to domain => you**magic**tube.com/watch?v=p5IO-IJSVnQ
@@ -62,4 +63,23 @@
 * [wiby](https://wiby.org/)
 * (needs pro) [Infinity Search](https://infinitysearch.co/)
 * [Private](https://private.sh/) - end to end encrypted
-* [Tailcat.Cliqz](https://cliqz.com/) - acquired by Brave browser	
+* [Tailcat.Cliqz](https://cliqz.com/) - acquired by Brave browser  
+
+## temporary mail
+* [tempmail](https://temp-mail.org/en/)  
+* [10minutemail](https://10minutemail.com/)  
+* [Email Generator](https://10minutemail.com/)
+* [fakemail](https://www.fakemail.net/)
+* ~[Firefox Relay](https://relay.firefox.com/)
+
+## files archives
+* [lumpysoft.Google index search](https://lumpysoft.com/)  
+* [The Eye](https://the-eye.eu/)
+* [FilePursuit](https://filepursuit.com/)
+* [Wiki DLL](https://wikidll.com/)
+* [git_ir](https://git.ir/)
+* [FTUApps](https://ftuapps.dev/)
+* [Download Bull](https://downloadbull.com/)
+* [downloadly](https://downloadly.ir/)
+* [portable4pc](https://portable4pc.com/)
+* [Releaselog](http://www.rlslog.net/)
