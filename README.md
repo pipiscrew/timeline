@@ -1,4 +1,12 @@
 ## 2021/03
+  * [John McAfee indicted for cryptocurrency fraud](https://www.reuters.com/article/usa-crime-mcafee/update-1-u-s-says-john-mcafee-indicted-over-fraudulent-cryptocurrency-schemes-idUSL2N2L31SF)
+  * [AdGuard publishes a list of 6K+ trackers abusing the CNAME cloaking technique](https://github.com/AdguardTeam/cname-trackers)
+  * [Google’s FLoC Is a Terrible Idea](https://www.eff.org/deeplinks/2021/03/googles-floc-terrible-idea)
+  * [We Expect 300k Fewer Births Than Usual This Year in the US](https://www.nytimes.com/2021/03/04/opinion/coronavirus-baby-bust.html)
+  * [Capstone Disassembler Framework](https://github.com/aquynh/capstone)
+  * [Exploring Borland dBase IV for DOS](https://psychocod3r.wordpress.com/2020/07/21/exploring-borland-dbase-iv-for-dos/)
+  * [Daily caffeine intake does not impact nighttime sleep in young adult men](https://www.nature.com/articles/s41598-021-84088-x)
+  * [Microsoft reveals 3 new malware strains](https://bleepingcomputer.com/news/security/microsoft-reveals-3-new-malware-strains-used-by-solarwinds-hackers/)
   * [Okta says it’s buying security rival Auth0 for $6.5 billion](https://www.cnbc.com/2021/03/03/okta-is-buying-security-rival-auth0-for-6point5-billion-stock-falls.html)
   * [Goat Ops](http://www.goatops.com/)
   * [Did Schnorr destroy RSA?](https://eprint.iacr.org/2021/232.pdf)
