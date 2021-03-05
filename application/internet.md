@@ -139,3 +139,7 @@ addons :
 * [AnalogX.CallerID](http://www.analogx.com/contents/download/System/callerid/Freeware.htm)
 * [CallClerk.Caller ID](https://callclerk.com/index.html)
 * [VZ Enhanced 56K](https://erickutcher.github.io/) - Caller ID notifier  
+
+## share
+* [Rejetto.HFS](http://www.rejetto.com/hfs/) - Use it to send and receive files
+* [voidtools.Everything](https://www.voidtools.com/) - how to [enable HTTP server](https://www.voidtools.com/support/everything/http/)

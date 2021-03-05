@@ -12,8 +12,13 @@
 * [DB Browser for SQLite](https://sqlitebrowser.org/)
 * [MySQL-Front](https://www.softpedia.com/get/Internet/Servers/Database-Utils/MySQL-Front.shtml)
 * [Ming.Universal SQL Editor](http://www.mingsoftware.com/UniversalSQLEditor/overview.html) - all DB flavors
-* [fish.Database .NET](https://fishcodelib.com/Database.htm) - all DB flavors
+* [fishlib.Database .NET](https://fishcodelib.com/Database.htm) - all DB flavors
 * [devart.dbForge](https://www.devart.com/dbforge/) - all DB flavors
 * [SqlDbx](http://www.sqldbx.com/) - all DB flavors
 * [(addon) Redgate.SQL Prompt](https://www.red-gate.com/products/sql-development/sql-prompt/) - Write, format, analyze and refactor your SQL effortlessly
-* [(addon) SoftTree.SQL Assistant](http://www.softtreetech.com/sqlassist/index.htm) - For Oracle, SQL Server, Azure SQL, Apache Hive, SparkSQL, DB2, Sybase, PostgreSQL, Redshift, Teradata, Netezza, Greenplum, MS Access, SQLite, MariaDB, and MySQL
+* [(addon) SoftTree.SQL Assistant](http://www.softtreetech.com/sqlassist/index.htm) - For all DB flavors
+
+## git
+* [Fork](https://fork.dev/)
+* [GitKraken](https://www.gitkraken.com/)
+* [Git-Tower](https://www.git-tower.com/windows)
