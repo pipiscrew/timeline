@@ -100,7 +100,7 @@
 * [Releaselog](http://www.rlslog.net/)  
 
 ## games
-* [Bored?](https://jsnes.fir.sh/)
+* [JavaScript NES emulator](https://jsnes.fir.sh/)
 * [Lovatts.Sudoku](https://lovattspuzzles.com/online-puzzles-fullscreen/sudoku-fullscreen.php)
 * [Mahjong](https://mahjon.gg/)
 * [Blocks](https://blocks.ovh/)
