@@ -60,6 +60,7 @@ addons :
 	official guide on [how to](https://keepassxc.org/docs/KeePassXC_GettingStarted.html#_setup_browser_integration)
 
 * [bitwarden](https://bitwarden.com/) - the free online solution 
+* [RoboForm](https://www.roboform.com/) - the well known
 
 ## FTP
 
@@ -89,7 +90,7 @@ addons :
 * [Evorim.Firewall](https://www.evorim.com/en/free-firewall)
 * [simplewall](https://www.henrypp.org/product/simplewall)
 * [GlassWire](https://www.glasswire.com/)
-* [Look 'n' Stop](http://www.looknstop.com) (only till win7)
+* [Look 'n' Stop](http://www.looknstop.com) (till win7)
 
 ## Limiters
 * [NetLimiter](http://www.netlimiter.com)
@@ -119,11 +120,15 @@ addons :
 * [POP Peeper: Email Notifier](https://www.esumsoft.com/products/pop-peeper/) - email notifier that runs in your Windows taskbar
 * [MailStore Home](https://www.mailstore.com/en/products/mailstore-home/) - Central archive for all emails. Reads mbox / pst / thunderbird (unicode, in search use * for wildcard, because searching by words). 
 
-## mbox
+## Mail mbox
 * [BitRecover.mbox viewer](https://www.bitrecover.com/free/mbox-viewer/) - direct browse mbox (no so good on search, tip use F3 after the first search)
 * [BitRecover.mbox Converter Wizard](https://www.bitrecover.com/mbox-converter/) - convert gmail mbox to pst, with attachments
 * [Thunderbird addon - ImportExportTools NG](https://addons.thunderbird.net/en-US/thunderbird/addon/importexporttools-ng/) - convert gmail mbox to thunderbird. The original [addon](https://addons.thunderbird.net/en-US/thunderbird/addon/importexporttools/) supports 14.x - 16.x
 * [PST Walker](https://www.pstwalker.com/pstwalker.html) - light & portable by company, use it in combination with the mbox2pst (super search + unicode + attachments)
+
+## RSS
+* [QuiteRSS](https://quiterss.org/)
+* [RSS Guard](https://github.com/martinrotter/rssguard)
 
 ## wifi
 * [Nirsoft.WifiInfoView](https://www.nirsoft.net/utils/wifi_information_view.html) - Scans the wireless networks in your area and displays extensive information
