@@ -1,7 +1,7 @@
 * [News](./)
 * [Applications]
 	* [Internet](/application/internet.md)
-		* [Bookmarks](/application/internetBookmarks.md)
+	* [Bookmarks](/application/internetBookmarks.md)
 	* [PDF](/application/pdf.md)
 	* [Misc Explorer](/application/misc.md)
 	* [Image](/application/image.md)
