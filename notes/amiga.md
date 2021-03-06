@@ -17,6 +17,7 @@
 * [Hardware for your Amiga](http://amigakit.com/)
 * [News for Amiga](http://www.generationamiga.com/)
 * [The global map of all known Amiga](https://amigamap.com/)
+* [Why was the Kickstart 1.x “Insert floppy” graphic so bad?](https://retrocomputing.stackexchange.com/questions/13897/why-was-the-kickstart-1-x-insert-floppy-graphic-so-bad/13901)
 
 ## repos
 * [Largest archive of software and files](http://aminet.net/)

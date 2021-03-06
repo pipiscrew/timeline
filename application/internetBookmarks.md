@@ -40,6 +40,7 @@
 * [Reddit Videos](https://viddit.red/)
 * [Facebook Video Downloader](https://fbdown.net/)
 * (hyper-multi) - [youtube-dl](https://ytdl-org.github.io/youtube-dl/)  ([supported sites](https://github.com/ytdl-org/youtube-dl/blob/master/docs/supportedsites.md))
+* (multi) [TubeOffline](https://www.tubeoffline.com/bookmarklet.php)
 * (multi) [YooDownload](https://yoodownload.com/)
 * (multi) [savefrom](https://savefrom.net)
 * (multi) [Savido](https://www.savido.net/)
@@ -98,6 +99,7 @@
 * [downloadly](https://downloadly.ir/)
 * [portable4pc](https://portable4pc.com/)
 * [Releaselog](http://www.rlslog.net/)  
+* [musicforum](https://musicforum.club/)
 
 ## games
 * [JavaScript NES emulator](https://jsnes.fir.sh/)
@@ -105,12 +107,13 @@
 * [Mahjong](https://mahjon.gg/)
 * [Blocks](https://blocks.ovh/)
 * [Slices](https://slices.ovh/)
+* [SVG Tetris](https://www.xul.fr/svgtetris.svg)
 
 ## misc
 * [Earthquakes](https://www.emsc-csem.org/Earthquake/)
 * [Earthquake Track](https://earthquaketrack.com/)
 * [Evozi.APK Downloader](https://apps.evozi.com/apk-downloader/)
-* [(chrome) CRX Extractor](https://crxextractor.com/)
+* (chrome) [CRX Extractor](https://crxextractor.com/)
 
 ## news
 * [Reuters](https://www.reuters.com/)
@@ -123,13 +126,15 @@
 * [Disclose](https://www.disclose.tv)
 * [Slashdot](https://slashdot.org/)
 * [Business Insider](https://www.businessinsider.com/)
-* [(IT) Gizmodo](https://gizmodo.com/)
-* [(IT) ZDNet](https://www.zdnet.com)
-* [(IT) Sophos.Naked Security](https://nakedsecurity.sophos.com)
-* [(IT) BleepingComputer](https://www.bleepingcomputer.com/)
-* [(IT) ghacks](https://www.ghacks.net/)
-* [(IT) SlashGear](https://www.slashgear.com/)
-* [(IT) Android Police](https://www.androidpolice.com/)
+* [Wall Street Journal](https://www.wsj.com/)
+* (IT) [Gizmodo](https://gizmodo.com/)
+* (IT) [ZDNet](https://www.zdnet.com)
+* (IT) [Sophos.Naked Security](https://nakedsecurity.sophos.com)
+* (IT) [BleepingComputer](https://www.bleepingcomputer.com/)
+* (IT) [ghacks](https://www.ghacks.net/)
+* (IT) [SlashGear](https://www.slashgear.com/)
+* (IT) [KrebsOnSecurity](https://krebsonsecurity.com)  
+* (IT) [Android Police](https://www.androidpolice.com/)
 
 ## seeking for truth
 * [Climate Change Agenda](http://climatechangeagenda.com/)

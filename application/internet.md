@@ -63,7 +63,6 @@ addons :
 * [RoboForm](https://www.roboform.com/) - the well known
 
 ## FTP
-
 * [FileZilla](https://filezilla-project.org/)
 * [WinSCP](https://winscp.net/eng/index.php)
 
@@ -73,6 +72,7 @@ addons :
 * [Free Download Manager](https://www.freedownloadmanager.org/)
 * [WellGet](https://www.softpedia.com/get/Internet/Download-Managers/WellGet.shtml)
 * [VisualWget](https://sites.google.com/site/visualwget/a-download-manager-gui-based-on-wget-for-windows)
+* [AM Downloader](https://mozib.io/amdownloader) / [2](https://github.com/antikmozib/am-downloader)
 
 ## Offline Browser
 * [httrack](https://www.httrack.com/)

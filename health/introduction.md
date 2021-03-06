@@ -226,7 +226,7 @@ Branched-chain refers to the chemical structure of BCAAs, which are **found in p
 	It’s present in **90 percent** of **synapses**, acting as the main **excitatory** neurotransmitter in the **central nervous** system. It only takes a small amount of glutamate to **excite neighbor** brain cells. Too much glutamate can be **tricky** for your brain. Excesses can over-excite cells. So much so that neurons **can’t bring their energy back down** again. This toxic excited state causes brain cells to **lock up** and **stop** working. Good thing those transporter proteins are there to clear away the extra glutamate and **protect your brain** by cleaning up the synapse after each action potential.
 
 	**Neuroplasticity** also relies on **glutamate**. That’s because your brain uses glutamate to **build** pathways between neurons that reinforce your memory and help you learn.  
-
+  
 * Aspartate  
 * GABA  
 * Glycine  
@@ -252,4 +252,17 @@ Those amino acids, is only for transport purposes. Egg or milk have '2000' times
 
 ----------
 
-[Amino Acid Protein Calculator](https://tools.myfooddata.com/protein-calculator)
+-- [Amino Acid Protein Calculator](https://tools.myfooddata.com/protein-calculator)
+
+
+----------
+
+## Does a vegan diet lead to poorer bone health?
+The vegan diet is on trend. How this type of diet affects health is the subject of scientific studies. Out of 28 parameters of nutritional status and bone metabolism, it was possible to identify twelve biomarkers most strongly associated with bone health – for example, the
+
+* amino acid lysine  
+* vitamin A  
+* vitamin B6  
+  
+The results show that in most cases, the combination of these biomarkers was present in lower concentrations in vegans. [source](https://www.eurekalert.org/pub_releases/2021-03/bfif-dav030421.php)  
+

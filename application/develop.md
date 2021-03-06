@@ -2,6 +2,7 @@
 * [VSCode](https://code.visualstudio.com/)
 * [codeLobster](http://www.codelobster.com/)
 * [(17mb) SharpDevelop](https://sourceforge.net/projects/sharpdevelop/) - C# with visual designer [ref](https://steemit.com/utopian-io/@dorodor/programming-with-sharpdevelop-creating-a-project-adjusting-properties-and-adding-event-handlers)
+* [DevSense.PHP Tools for Visual Studio](https://www.devsense.com/)
 
 ## server
 * [XAMPP](https://sourceforge.net/projects/xampp/)
