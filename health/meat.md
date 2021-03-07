@@ -11,7 +11,7 @@ And that is good... But all **bad things** are stored there as well like
 
 * hormones  
 * antibiotics  
-* heavy metals
+* heavy metals  
   
 Therefore the best and **safest meet** is the **less fatty**.
 
