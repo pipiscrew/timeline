@@ -12,7 +12,7 @@ And that is good... But all **bad things** are stored there as well like
 * hormones  
 * antibiotics  
 * heavy metals  
-  
+
 Therefore the best and **safest meet** is the **less fatty**.
 
 > Fats exist into meat and are not visible by naked eye  (you do not have to see the fat, to be there)  
