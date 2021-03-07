@@ -38,10 +38,9 @@ Even **clean pork meat** from the rest of the pork, can have up to **30% fat** b
 * Around 20 grams carbs  
 * between 10- 30 grams fat  
 
-**Creatine** = There are 4 grams of it in any **kg** of good meat.
-
-
-**Collagen** is good, but our body **produce it's own**... As food, almost have no value and is **hardly absorbable**.
+> **Creatine** = There are 4 grams of it in any **kg** of good meat.  
+#  
+> **Collagen** is good, but our body **produce it's own**... As food, almost have no value and is **hardly absorbable**.
 
 
 
@@ -105,7 +104,7 @@ do this 2 times a day :
 * Or 150-200 grams of any other legumes.
 * Vegetables, salad or as you wish... Steamed or fresh
 
-Meanwhile, between your **breakfast** and **dinner** you can have snacks from: nuts
+Meanwhile, between your **breakfast** and **dinner** you can have snacks from: **nuts**
 or **cottage** cheese on 1 slice of **bread**.
 
 Attention with the **fruits**, one per day (have 20-30% sugar).
