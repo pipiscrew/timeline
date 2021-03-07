@@ -92,7 +92,7 @@ Food have to tasty as well.
 (*) Compared to other oils as sunflower, rapeseed, palm, etc... **Olive oil** is least harmful...
 
 
-## Balance diet
+## Carnivore Balance diet
 
 * yogurt and oat for breakfast 
 
