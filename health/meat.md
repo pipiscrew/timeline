@@ -61,7 +61,7 @@ Recipe :
 * 1 egg
 * Greek yogurt
 
-Mix meat, with a bit of **salt** and black **paper**. If you like put **rice** inside meatballs, makes them more **consistent**. Then create meatballs as the size of **cherry** tomatoes. 
+Mix meat, with a bit of **salt** and black **paper**. If you like put **rice** inside meatballs, makes them more **consistent**. Then create meatballs at the size of **cherry** tomatoes. 
 
 When water is **boiled**, drop the chopped **onion**, **carrot** and **celery**. Continue with the **meatballs**, if you don't add **rice** from previous step, feel free to add rice or **pasta** together, in the water.
 
