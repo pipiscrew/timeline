@@ -16,8 +16,8 @@
 * [fishlib.Database .NET](https://fishcodelib.com/Database.htm) - all DB flavors
 * [devart.dbForge](https://www.devart.com/dbforge/) - all DB flavors
 * [SqlDbx](http://www.sqldbx.com/) - all DB flavors
-* [(addon) Redgate.SQL Prompt](https://www.red-gate.com/products/sql-development/sql-prompt/) - Write, format, analyze and refactor your SQL effortlessly
-* [(addon) SoftTree.SQL Assistant](http://www.softtreetech.com/sqlassist/index.htm) - For all DB flavors
+* (addon) [Redgate.SQL Prompt](https://www.red-gate.com/products/sql-development/sql-prompt/) - Write, format, analyze and refactor your SQL effortlessly
+* [SoftTree.SQL Assistant](http://www.softtreetech.com/sqlassist/index.htm) - For all DB flavors, also offers addon.
 
 ## git
 * [Fork](https://fork.dev/)

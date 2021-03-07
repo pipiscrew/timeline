@@ -7,6 +7,7 @@
 	* [Image](/application/image.md)
 	* [Music](/application/music.md)
 	* [Develop](/application/develop.md)
+	* [Android](/application/android.md)
 * [Notes]
 	* [amiga](/notes/amiga.md)
 	* [music](/notes/music.md)

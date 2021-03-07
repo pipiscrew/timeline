@@ -90,9 +90,11 @@
 * [Arclab.Dir2HTML](https://www.arclab.com/en/dir2html/)
 * [CD2HTML](https://www.xray.cz/ecm-cd/soft/win/index0095.html)
 
-## Misc
+## Protect
 * Protect - [XenCare.SoftLock](https://download.cnet.com/XenCare-SoftLock/3000-10435_4-10881665.html) - Doesnt allow to install new program but allow data file modification
 * Protect - [VoodooShield](https://voodooshield.com/) - Any software that was not allowed is blocked
+
+## Misc
 * Quick Launcher - [RK Launcher](https://download.cnet.com/RK-Launcher/3000-2344_4-10915464.html)
 * Hashing - [Nirsoft.HashMyFiles](https://www.nirsoft.net/utils/hash_my_files.html)
 * [ClearLock](https://www.softpedia.com/get/Security/Lockdown/ClearLock.shtml)
@@ -102,6 +104,7 @@
 * [Process Hacker](https://processhacker.sourceforge.io/)
 * [WhoCrashed](https://www.resplendence.com/whocrashed) - Reveals the drivers responsible for crashing your computer
 * [Unit Conversions 2000](https://www.softpedia.com/get/Others/Unit-Conversion/Unit-Conversions.shtml)
+* [Microsoft.Calculator](https://www.softpedia.com/get/System/OS-Enhancements/Microsoft-Calculator-Plus.shtml) - Useful for Win10 OS, contains conversions as well.
 
 ## Snapshot
 * [Acronis.True Image](https://www.acronis.com/en-us/products/true-image/)
