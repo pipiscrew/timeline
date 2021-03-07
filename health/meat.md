@@ -21,7 +21,7 @@ Meat **500gr / day** for **5 days / week** is acceptable
 
 ----------
 
-# Recommend meat
+# Recommended meat
 
 * Chicken breast - (cz) Prsa
 * Pork bon fillet - (cz) Panenka or palci ot panenka = 180-200czk / kg
