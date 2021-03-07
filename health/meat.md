@@ -39,7 +39,7 @@ Even **clean pork meat** from the rest of the pork, can have up to **30% fat** b
 * between 10- 30 grams fat  
 
 > **Creatine** = There are 4 grams of it in any **kg** of good meat.  
-#  
+
 > **Collagen** is good, but our body **produce it's own**... As food, almost have no value and is **hardly absorbable**.
 
 
