@@ -48,11 +48,12 @@ Even **clean pork meat** from the rest of the pork, can have up to **30% fat** b
 
 ## Grind the meat
 
-Get for example **300gr pork** (Kotleta, doesnt deserve to grid Panenka) and **500gr beef** (doesn't deserve to grid Svichkova) and ask them to grind it...
+Get for example **200gr pork** (Kotleta, doesnt deserve to grid Panenka) and **200gr beef** (doesn't deserve to grid Svichkova) and ask them to grind it...
 
 
 Recipe :  
 
+* 1 liter water
 * 400gr meat grinded  
 * 1 carrot (chopped)
 * 1-2 piece of Celery
@@ -92,7 +93,7 @@ Food have to tasty as well.
 (*) Compared to other oils as sunflower, rapeseed, palm, etc... **Olive oil** is least harmful...
 
 
-## Carnivore Balanced diet
+## Carnivore Balanced	 diet
 
 * yogurt and oat for breakfast 
 
