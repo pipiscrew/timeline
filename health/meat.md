@@ -111,3 +111,8 @@ or **cottage** cheese on 1 slice of **bread**.
 Attention with the **fruits**, one per day (have 20-30% sugar).
 
 
+
+----------
+
+credits @ Boris [BG]
+
