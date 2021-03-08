@@ -15,4 +15,5 @@
 		* [vitamania](/notes/supplementVitamania.md)
 * [Health]
 	* [introduction](/health/introduction.md)
+	* [exercise](/health/exercise.md)
 	* [meat](/health/meat.md)
