@@ -108,6 +108,7 @@
 * [Blocks](https://blocks.ovh/)
 * [Slices](https://slices.ovh/)
 * [SVG Tetris](https://www.xul.fr/svgtetris.svg)
+* [DOS.Zone](http://dos.zone)
 
 ## misc
 * [Earthquakes](https://www.emsc-csem.org/Earthquake/)

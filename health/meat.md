@@ -95,18 +95,22 @@ Food have to tasty as well.
 
 ## Carnivore Balanced	 diet
 
-* yogurt and oat for breakfast 
+* milk/yogurt and oat for breakfast 
 
 
 do this 2 times a day :
 
 * 200gr of meat.
 * 150 grams of boiled rice/pasta or 300gr of boiled potatoes 
-* Or 150-200 grams of any other legumes.
+	* Or 150-200 grams of any other legumes.
 * Vegetables, salad or as you wish... Steamed or fresh
 
-Meanwhile, between your **breakfast** and **dinner** you can have snacks from: **nuts**
-or **cottage** cheese on 1 slice of **bread**.
+Meanwhile, between your **breakfast** and **dinner** you can have **snacks** from:  
+
+* nuts  
+* cottage cheese on 1 slice of bread  
+* three eggs  
+* fruit
 
 Attention with the **fruits**, one per day (have 20-30% sugar).
 
@@ -116,3 +120,4 @@ Attention with the **fruits**, one per day (have 20-30% sugar).
 
 credits @ Boris [BG]
 
+ 
