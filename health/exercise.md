@@ -8,8 +8,7 @@ Continue [reading](https://pipiscrew.com/yoga/)
 
 Type : Anaerobic  
 
-Three days per week, those target the whole body  
-[Vimeo Playlist](https://vimeo.com/showcase/8220991)
+Three days per week, [those](https://vimeo.com/showcase/8220991) target the whole body.  
 
 ## sprint
 
