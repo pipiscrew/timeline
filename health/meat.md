@@ -71,7 +71,9 @@ Before get pot out of fire, mix a **egg** with **2 spoons yogurt**  (add just a 
 
 Nothing goes out... You just added!!
 
-When serving, you can add **lemon** on plates, don't add lemon in the **pot** because more **acid** can help some **bacteria** to develop.
+When is on fire, leave it 10m to consolidated.
+
+When serving, add olive oil per plate. Optionally you can add **lemon** per plate, don't add lemon in the **pot** because more **acid** can help some **bacteria** to develop.
 
 
 ----------
