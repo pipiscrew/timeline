@@ -23,6 +23,7 @@
 * [Fork](https://fork.dev/)
 * [GitKraken](https://www.gitkraken.com/)
 * [Git-Tower](https://www.git-tower.com/windows)
+* (chrome addon) [PR-tree-viewer](https://github.com/Pewww/pr-tree-viewer) - View GitHub Pull Requests as a tree
 
 ## misc
 * [Free for developers](https://free-for.dev/)

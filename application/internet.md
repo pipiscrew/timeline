@@ -101,14 +101,17 @@ addons :
 * [MyLanViewer](http://www.mylanviewer.com/network-ip-scanner.html) - IP address scanner 
 * [RdpGuard](https://rdpguard.com/) - Protect Windows RDP, MySQL, MS-SQL etc.
 * [NetSetMan](https://www.netsetman.com/) - Network profiles switch
-* [Microsoft.Garage Mouse without Borders](https://www.microsoft.com/en-us/download/details.aspx?id=35460) - Control computers from a single mouse and keyboard
-* [ShareMouse](https://www.sharemouse.com/) - Control multiple computers from a single mouse and keyboard
 * [FabulaTech.USB over Network](http://www.usb-over-network.com/usb-over-network.html)
 * [UltraVNC](https://www.uvnc.com/) - Remote PC network access
 * [AnyDesk](https://anydesk.com/en) - Remote Desktop anywhere, anytime
 * [TeamViewer](https://www.teamviewer.com/) - Control, manage, monitor, and repair computers
 * [mRemoteNG](https://mremoteng.org/) - RDP connections manager
 * (discontinued) [Microsoft.Remote Desktop Connection Manager](https://filehippo.com/download_remote_desktop_connection_manager/) - RDP connections manager
+
+## KVM  
+* [Microsoft.Garage Mouse without Borders](https://www.microsoft.com/en-us/download/details.aspx?id=35460) - Control computers from a single mouse and keyboard  
+* [ShareMouse](https://www.sharemouse.com/) - Control multiple computers from a single mouse and keyboard  
+* [Synergy](https://symless.com/synergy) - Share your mouse and keyboard via network  
 
 ## Image Upload
 * [MyImgur](http://myimgur.eden.fm/)
