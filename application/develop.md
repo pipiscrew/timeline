@@ -24,6 +24,8 @@
 * [GitKraken](https://www.gitkraken.com/)
 * [Git-Tower](https://www.git-tower.com/windows)
 * (chrome addon) [PR-tree-viewer](https://github.com/Pewww/pr-tree-viewer) - View GitHub Pull Requests as a tree
+* [Binder](https://mybinder.org/) - Git repo into a collection of interactive notebooks & Docker
+	* [Jupyter](https://jupyter.org/) - next-generation notebook interface
 
 ## misc
 * [Free for developers](https://free-for.dev/)
