@@ -6,6 +6,7 @@
 	* [Misc Explorer](/application/misc.md)
 	* [Image](/application/image.md)
 	* [Music](/application/music.md)
+	* [Office](/application/office.md)
 	* [Develop](/application/develop.md)
 	* [Android](/application/android.md)
 * [Notes]

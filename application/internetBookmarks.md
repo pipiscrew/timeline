@@ -4,6 +4,7 @@
 * [LibGen](https://libgen.me/) - Collecting and cataloging scientific & technical ebooks  
 * [arXiv](https://arxiv.org/) - Search an archive for millions scholarly articles in the fields of physics, mathematics, computer science, quantitative biology, quantitative finance, statistics, electrical engineering and systems science, and economics.  
 * [Google.Scholar](https://scholar.google.gr/scholar?hl=en&q=gmo) - Freely accessible web search engine that indexes the full text or metadata of scholarly literature
+* [Internet Archive](https://scholar.archive.org/)
 * (greek) [National Archive of PhD Theses](https://www.didaktorika.gr/eadd/?locale=en)  
 * (greek) [bibliographic records](https://opac.seab.gr/*eng)
 * [Z-Library](https://z-lib.org/) - 6.5m ebooks
