@@ -128,8 +128,10 @@
 * [Business Standard](https://www.business-standard.com/)
 * [Disclose](https://www.disclose.tv)
 * [Slashdot](https://slashdot.org/)
-* [Business Insider](https://www.businessinsider.com/)
+* [Business Insider](https://www.businessinsider.com/)  
+* [The New York Times](https://www.nytimes.com/)  
 * [Wall Street Journal](https://www.wsj.com/)
+* [BellMedia.BNNBloomberg](https://www.bnnbloomberg.ca/) - Canadian
 * (IT) [Gizmodo](https://gizmodo.com/)
 * (IT) [ZDNet](https://www.zdnet.com)
 * (IT) [Sophos.Naked Security](https://nakedsecurity.sophos.com)
@@ -144,3 +146,7 @@
 * [The Narrow Gate](https://thenarrowgateweb.com/)
 * [Truth Comes to Light](https://truthcomestolight.com/)
 * [EurekAlert](https://www.eurekalert.org)
+
+## 'greens' seeking for truth
+* [Dr. Vandana Shiva](https://www.navdanya.org/)
+* [Ice Age Farmer](https://www.iceagefarmer.com/)
