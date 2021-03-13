@@ -4,7 +4,7 @@
 * [LibGen](https://libgen.me/) - Collecting and cataloging scientific & technical ebooks  
 * [arXiv](https://arxiv.org/) - Search an archive for millions scholarly articles in the fields of physics, mathematics, computer science, quantitative biology, quantitative finance, statistics, electrical engineering and systems science, and economics.  
 * [Google.Scholar](https://scholar.google.gr/scholar?hl=en&q=gmo) - Freely accessible web search engine that indexes the full text or metadata of scholarly literature
-* [Internet Archive](https://scholar.archive.org/)
+* [Internet Archive.Scholar](https://scholar.archive.org/)
 * (greek) [National Archive of PhD Theses](https://www.didaktorika.gr/eadd/?locale=en)  
 * (greek) [bibliographic records](https://opac.seab.gr/*eng)
 * [Z-Library](https://z-lib.org/) - 6.5m ebooks
@@ -79,7 +79,8 @@
 * (needs pro) [Infinity Search](https://infinitysearch.co/)
 * [Private](https://private.sh/) - end to end encrypted
 * [Tailcat.Cliqz](https://cliqz.com/) - acquired by Brave browser  
-* [DuckDuckGo bangs](https://duckduckgo.com/bang) - nicely categorized bookmarks
+* [DuckDuckGo bangs](https://duckduckgo.com/bang) - nicely categorized bookmarks  
+* [lumpysoft.Google index search](https://lumpysoft.com/)  
 
 ## temporary mail
 * [tempmail](https://temp-mail.org/en/)  
@@ -89,9 +90,7 @@
 * ~[Firefox Relay](https://relay.firefox.com/)
 
 ## files archives
-* [EmuOS](https://emupedia.net/beta/emuos/) - Video game preservation and computer history
 * [WinWorld](https://winworldpc.com/library/operating-systems)
-* [lumpysoft.Google index search](https://lumpysoft.com/)  
 * [The Eye](https://the-eye.eu/)
 * [FilePursuit](https://filepursuit.com/)
 * [Wiki DLL](https://wikidll.com/)
@@ -111,6 +110,7 @@
 * [Slices](https://slices.ovh/)
 * [SVG Tetris](https://www.xul.fr/svgtetris.svg)
 * [DOS.Zone](http://dos.zone)
+* [EmuOS](https://emupedia.net/beta/emuos/) - Video game preservation and computer history
 
 ## misc
 * [Earthquakes](https://www.emsc-csem.org/Earthquake/)
