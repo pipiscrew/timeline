@@ -6,7 +6,6 @@
 * [Sysinternals.Autoruns for Windows](https://docs.microsoft.com/en-gb/sysinternals/downloads/autoruns)
 
 ## Commanders
-
 * [Total Commander](https://www.ghisler.com/)
 * [Midnight Commander](https://sourceforge.net/projects/mcwin32/)
 * [XYplorer](https://www.xyplorer.com/)
@@ -48,6 +47,7 @@
 	* [XMLTools plugin](https://github.com/morbac/xmltools) (format HTML)
 * [Ultraedit](https://www.ultraedit.com/)
 * [MarkdownPad 2](http://markdownpad.com/)
+* [Modern CSV](https://www.moderncsv.com/) - Quick CSV load
 
 ## Disk Space Analyse
 * [RidNacs](https://www.splashsoft.de/ridnacs-disk-space-usage-analyzer/)
@@ -116,3 +116,8 @@
 * [AOMEI.Backupper](https://www.ubackup.com/edition-comparison.html) - Advanced system clone, UEFI clone, GPT to MBR clone, and customized clone
 * [rtt.R-Drive Image](https://www.drive-image.com/)
 * [Symantec.Norton Ghost](http://www.oldversion.com/windows/norton-ghost-15-0)
+
+## Voice  
+* [NCH.Voxal Voice Changer](https://www.nchsoftware.com/voicechanger/index.html) 
+* [Voicemod](https://www.voicemod.net/)
+* [ScreamingBee.MorphVox](https://screamingbee.com/)

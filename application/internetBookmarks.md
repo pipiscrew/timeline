@@ -79,6 +79,7 @@
 * (needs pro) [Infinity Search](https://infinitysearch.co/)
 * [Private](https://private.sh/) - end to end encrypted
 * [Tailcat.Cliqz](https://cliqz.com/) - acquired by Brave browser  
+* [DuckDuckGo bangs](https://duckduckgo.com/bang) - nicely categorized bookmarks
 
 ## temporary mail
 * [tempmail](https://temp-mail.org/en/)  

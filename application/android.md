@@ -6,6 +6,7 @@ Music Player - [rhmsoft.Pulsar](https://play.google.com/store/apps/details?id=co
 QR - [SimpleAct.Quickmark](http://quickmark.com.tw/En/basic/index.asp) (gplay deprecated)  
 GPS - [TomTom Navigation](https://play.google.com/store/apps/details?id=com.tomtom.gplay.navapp) - supports offline maps / can used also for pedestrian route (adjust at settings > routing > route type)  
 Expenses - [Alzex Finance](https://play.google.com/store/apps/details?id=com.alzex.finance.pro)  
+Expenses - [Chromabill](https://www.chromabill.com/) - ??  
 Pedometer - [Leap Fitness.Step Counter](https://play.google.com/store/apps/details?id=pedometer.steptracker.calorieburner.stepcounter)  
 RSS - [Inoreader](https://play.google.com/store/apps/details?id=com.innologica.inoreader)  
 Sudoku - [Brainium.Sudoku](https://play.google.com/store/apps/details?id=com.brainium.sudoku.free)  
