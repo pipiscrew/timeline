@@ -12,8 +12,8 @@
 * [Notes]
 	* [amiga](/notes/amiga.md)
 	* [music](/notes/music.md)
-	* [music](/notes/music.md)
 	* [wp2heroku](/notes/wp2heroku.md)
+	* [supplement](/notes/supplement.md)
 		* [vitamania](/notes/supplementVitamania.md)
 * [Health]
 	* [introduction](/health/introduction.md)
