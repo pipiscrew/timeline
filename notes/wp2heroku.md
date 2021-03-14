@@ -165,23 +165,23 @@ at the beginning of **wp-config.php**.
 The sets ar e: 
 
 * when localhost  
-#
+```javascript
     /*
     define('FORCE_SSL_ADMIN', true);
     define('FORCE_SSL_LOGIN', true);*/
     
     define( 'WP_SITEURL', 'http://localhost' );
     define( 'WP_HOME','http://localhost' );  
-
+```
 * when going to heroku  
-#
+```javascript
     define('FORCE_SSL_ADMIN', true);
     define('FORCE_SSL_LOGIN', true);
     /*
     define( 'WP_SITEURL', 'http://localhost' );
     define( 'WP_HOME','http://localhost' );
     */
-
+```
 ## Normalize URLS at dbase 
 Before push dbase to heroku, mostly to fix links at **C:\nginx\html\wp-content\uploads**. Normalize means to change on **sqlite dbase** the **links** from production to **heroku** via :  
 
