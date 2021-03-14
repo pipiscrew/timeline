@@ -68,6 +68,7 @@ You are on **old wordpress** version, **php v8** doesn’t support it, has some 
 ## Configure VA points
 We have to establish database connection, edit `c:\nginx\html\wp-config.php` alter :  
 
+```javascript
     /** MySQL database username */
     define('DB_USER', 'root');
     
@@ -76,15 +77,19 @@ We have to establish database connection, edit `c:\nginx\html\wp-config.php` alt
     define( 'DB_CHARSET', 'utf8mb4' );
     
     define( 'WP_POST_REVISIONS', 0 ); //disable store revisions for posts at dbase.
+```  
 
-Next on the top of the same file (c:\nginx\html\**wp-config.php**), set strictly **SSL** (otherwise in the end will get multiple protocols error)
+Next on the top of the same file (c:\nginx\html\**wp-config.php**), set strictly **SSL** (otherwise in the end will get multiple protocols error)  
 
+```javascript
     define('FORCE_SSL_ADMIN', true);
     define('FORCE_SSL_LOGIN', true);
     if (isset($_SERVER['HTTP_X_FORWARDED_PROTO']) && $_SERVER['HTTP_X_FORWARDED_PROTO'] == 'https'){ $_SERVER['HTTPS']='on'; }
+```  
 
 If finally, you used a new version of wordpress and not the one you download from your server, you have to make sure that the following hashes are the same on **wp-config.php** fix the following properties :  
   
+```javascript
     define('AUTH_KEY',
     define('SECURE_AUTH_KEY', 
     define('LOGGED_IN_KEY',   
@@ -93,6 +98,8 @@ If finally, you used a new version of wordpress and not the one you download fro
     define('SECURE_AUTH_SALT',
     define('LOGGED_IN_SALT',  
     define('NONCE_SALT',  
+```  
+    
 
 and also make sure the tables prefix  
 
@@ -111,6 +118,7 @@ Download it [here](https://github.com/aaemnnosttv/wp-sqlite-integration).
 
 The addon is **outdated** fixes needed,  tested versus **php v8.0.3**  
 
+```javascript
     C:\nginx\html\wp-content\plugins\sqlite-integration\pdoengine.class.php : 788 + 791
     		if (in_array($param[strlen($param)-1], array("'",'"'))) {
     		if (in_array($param[0], array("'",'"'))) {
@@ -118,7 +126,8 @@ The addon is **outdated** fixes needed,  tested versus **php v8.0.3**
     
     C:\nginx\html\wp-content\plugins\sqlite-integration\pdoengine.class.php : 340 (replace function declaration  came with PHP v8)
     public function query(string $query, ?int $fetchMode = null, ...$fetchModeArgs) {
-    // https://stackoverflow.com/a/64727356
+    // https://stackoverflow.com/a/64727356  
+```  
 
 ## Define sqlite dbase filename 
 **Not  required step**, go back to **wp-config.php** and
@@ -154,8 +163,10 @@ All Wordpress, **baseURL** read by **wp_options** table fields :
 
 Alternatively, **without change** the dbase, for **testing purposes** as  
 
+```javascript
     define( 'WP_SITEURL', 'http://localhost' );
     define( 'WP_HOME','http://localhost' );
+```  
 
 at the beginning of **wp-config.php**.
 
@@ -187,6 +198,7 @@ The sets are:
 ## Normalize URLS at dbase 
 Before push dbase to heroku, mostly to fix links at **C:\nginx\html\wp-content\uploads**. Normalize means to change on **sqlite dbase** the **links** from production to **heroku** via :  
 
+```javascript
     a)
     update w_posts set 
       post_content = replace(post_content, 'pipiscrew.com', 'test.heroku.com')
@@ -208,5 +220,5 @@ Before push dbase to heroku, mostly to fix links at **C:\nginx\html\wp-content\u
     update w_posts set 
       guid = replace(guid, 'www.pipiscr', 'pipiscr')
     where
-      guid like '%www.pipiscr%';
-    
+      guid like '%www.pipiscr%';  
+```  
