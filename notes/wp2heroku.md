@@ -138,12 +138,12 @@ if no set, the default will be **.ht.sqlite** inside `C:\nginx\html\wp-content\d
 
 Browse localhost! Wordpress is alive with **SQLITE**!!
 
-You getting wordpress installation screen! Proceed with the installation till end .
+You getting wordpress installation screen! **You must proceed** with the installation till end (aka create the admin user).
 
 ## Migrate MySQL2SQLITE
 Use any **client application** to browse the SQLITE dbase ([such](https://sqlitebrowser.org/)).
 
-Take care now, the following tables **should not transfered** from MYSQL!!  
+The following tables **should not transfered** from MYSQL, as containing information by current installation!!  
 
 * wp_posts
 * wp_usermeta
