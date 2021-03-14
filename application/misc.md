@@ -47,7 +47,8 @@
 	* [XMLTools plugin](https://github.com/morbac/xmltools) (format HTML)
 * [Ultraedit](https://www.ultraedit.com/)
 * [MarkdownPad 2](http://markdownpad.com/)
-* [Modern CSV](https://www.moderncsv.com/) - Quick CSV load
+* [Modern CSV](https://www.moderncsv.com/) - Quick CSV load  
+* [UVviewersoft.LogViewer](http://www.uvviewsoft.com/logviewer/) - Viewer for big text log files, highlight keywords  
 
 ## Disk Space Analyse
 * [RidNacs](https://www.splashsoft.de/ridnacs-disk-space-usage-analyzer/)
