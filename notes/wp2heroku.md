@@ -162,7 +162,7 @@ at the beginning of **wp-config.php**.
 
 > TIP : if not changing the URLS, you **cant** access WP_ADMIN!! (is all about https & http)
 
-The sets ar e: 
+The sets are: 
 
 * when localhost  
 ```javascript
