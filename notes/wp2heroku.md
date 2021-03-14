@@ -155,7 +155,7 @@ Use any application ([such](https://www.dbsofts.com/)), to **transfer** wordpres
 All Wordpress, **baseURL** read by **wp_options** table fields :  
 
 * siterul  
-* home
+* home  
  
 , (please adjust it to **heroku URL** or **localhost** (if u like to configure it, before upload it))
 
@@ -198,7 +198,7 @@ The sets are:
 ## Normalize URLS at dbase 
 Before push dbase to heroku, mostly to fix links at **C:\nginx\html\wp-content\uploads**. Normalize means to change on **sqlite dbase** the **links** from production to **heroku** via :  
 
-```sql
+```javascript
     a)
     update w_posts set 
       post_content = replace(post_content, 'pipiscrew.com', 'test.heroku.com')
