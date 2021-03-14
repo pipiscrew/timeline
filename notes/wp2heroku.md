@@ -172,7 +172,8 @@ The sets ar e:
     
     define( 'WP_SITEURL', 'http://localhost' );
     define( 'WP_HOME','http://localhost' );  
-```
+```  
+
 * when going to heroku  
 ```javascript
     define('FORCE_SSL_ADMIN', true);
@@ -181,7 +182,8 @@ The sets ar e:
     define( 'WP_SITEURL', 'http://localhost' );
     define( 'WP_HOME','http://localhost' );
     */
-```
+```  
+
 ## Normalize URLS at dbase 
 Before push dbase to heroku, mostly to fix links at **C:\nginx\html\wp-content\uploads**. Normalize means to change on **sqlite dbase** the **links** from production to **heroku** via :  
 
