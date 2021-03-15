@@ -18,4 +18,11 @@ Vertical clipboard data to Horizontal
 
 Compare cells without vlookup, while expecting to have the same value on same line and on different column.
 
-* Assuming we have Col A + Col B, **go to Cell C** and write the formula `=A1=B1` press **ENTER**, **expand** the formula to the **end** of cells. 
+* Assuming we have Col A + Col B, **go to Cell C** and write the formula `=A1=B1` press **ENTER**, **expand** the formula to the **end** of cells.  
+
+Remove blank rows  
+
+* Home > Find & Select > Go to Special > select Blanks > ok
+* now automatically selected the blank rows & columns
+* Home > Delete Sheet Rows  
+* [Remove blank rows](https://www.businessinsider.com/how-to-remove-blank-rows-in-excel)  
