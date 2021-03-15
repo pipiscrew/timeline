@@ -23,6 +23,7 @@
 * [Fork](https://fork.dev/)
 * [GitKraken](https://www.gitkraken.com/)
 * [Git-Tower](https://www.git-tower.com/windows)
+* [Plastic SCM](https://www.plasticscm.com/)
 * (chrome addon) [PR-tree-viewer](https://github.com/Pewww/pr-tree-viewer) - View GitHub Pull Requests as a tree
 * [Binder](https://mybinder.org/) - Git repo into a collection of interactive notebooks & Docker
 	* [Jupyter](https://jupyter.org/) - next-generation notebook interface
