@@ -200,7 +200,7 @@ The sets are:
 ```  
 
 ## Normalize URLS at dbase 
-Before push dbase to heroku, mostly to fix links at **C:\nginx\html\wp-content\uploads**. Normalize means to change on **sqlite dbase** the **links** from production to **heroku** via :  
+Before push dbase to heroku, mostly needed to fix links point to **C:\nginx\html\wp-content\uploads**. Normalize means to change at **sqlite dbase** the **links** from production to **heroku** via :  
 
 ```javascript
     a)
@@ -216,16 +216,16 @@ Before push dbase to heroku, mostly to fix links at **C:\nginx\html\wp-content\u
     
     b)
     update w_posts set 
-      post_content = replace(post_content, 'www.pipiscr', 'pipiscr')
+      post_content = replace(post_content, 'www.pipiscrew.com', 'test.heroku.com')
     where
-      post_content like '%www.pipiscr%';
+      post_content like '%www.pipiscrew.com%';
     
     
     update w_posts set 
-      guid = replace(guid, 'www.pipiscr', 'pipiscr')
+      guid = replace(guid, 'www.pipiscrew.com', 'test.heroku.com')
     where
-      guid like '%www.pipiscr%';  
+      guid like '%www.pipiscrew.com%';  
 ```  
 
 
-and of course read the heroku official [howto](https://help.heroku.com/58GWW5CQ/can-i-use-wordpress-on-heroku) `#haha`
+and of course, dont forget to read the heroku official [howto](https://help.heroku.com/58GWW5CQ/can-i-use-wordpress-on-heroku) `#haha`
