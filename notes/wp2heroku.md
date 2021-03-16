@@ -29,8 +29,8 @@ Download [PHP Non Thread Safe x86](https://windows.php.net/download/#php-8.0-nts
 	* extension=pdo_mysql
 	* extension=pdo_pgsql
 	* extension=pdo_sqlite
-	* extension=openssl
- 
+	* extension=openssl  
+
 ## composer
 Once you are on PHP dir (C:\nginx\php), you have to download the latest composer, follow the CMDs by [homepage](https://getcomposer.org/download/).  
   
