@@ -1,0 +1,45 @@
+events {
+    worker_connections  1024;
+}
+
+http {
+server {
+    listen                          80;
+
+    # substitute your web server's local URL with yours
+    server_name                     localhost;
+
+    index                           index.html index.php;
+    client_max_body_size            40M;
+
+    #access_log  logs/host.access.log  main;
+    error_log 			    logs/error.log;
+
+    # substitute your web server's root folder with yours
+    root			    html;
+
+    location ~ \.php$ {
+        try_files                   $uri =404;
+        fastcgi_index               index.php;
+        fastcgi_param               SCRIPT_FILENAME $document_root$fastcgi_script_name;
+        fastcgi_read_timeout        300;
+        fastcgi_keep_conn           on;
+        include                     fastcgi_params;
+	# Php-fpm is bound to port 9071
+        fastcgi_pass                127.0.0.1:9000;
+        index                       index.html index.php;    
+    }
+
+    location / {
+        try_files                   $uri
+                                    $uri/
+                                    /index.php?$args;
+    }
+	
+    if (!-e $request_filename) {
+        rewrite /wp-admin$ $scheme://$host$uri/ permanent;
+        rewrite ^(/[^/]+)?(/wp-.*) $2 last;
+        rewrite ^(/[^/]+)?(/.*\.php) $2 last;
+    }
+}
+}
