@@ -25,7 +25,7 @@ server {
         fastcgi_read_timeout        300;
         fastcgi_keep_conn           on;
         include                     fastcgi_params;
-	# Php-fpm is bound to port 9071
+	# Php-fpm is bound to port 9000
         fastcgi_pass                127.0.0.1:9000;
         index                       index.html index.php;    
     }
