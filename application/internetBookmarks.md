@@ -27,7 +27,8 @@
 ## videos
 * [Invidious](https://invidious.snopyta.org/feed/popular)
 * [youtube-lite](https://youtube-lite.js.org/)
-* [Vimeo](https://vimeo.com/)
+* [Vimeo](https://vimeo.com/)  
+* [Dailymotion](https://www.dailymotion.com)  
 * [Brighteon](https://www.brighteon.com/)
 * [BitChute](https://www.bitchute.com/)
 * [Lbry](https://lbry.tv)

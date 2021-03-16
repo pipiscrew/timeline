@@ -222,3 +222,6 @@ Before push dbase to heroku, mostly to fix links at **C:\nginx\html\wp-content\u
     where
       guid like '%www.pipiscr%';  
 ```  
+
+
+and of course read the heroku official [howto](https://help.heroku.com/58GWW5CQ/can-i-use-wordpress-on-heroku) `#haha`
