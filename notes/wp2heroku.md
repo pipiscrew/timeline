@@ -152,7 +152,9 @@ The following tables **should not transfered** from MYSQL, as containing informa
 * wp_users
 
 
-Use any application ([such](https://www.dbsofts.com/)), to **transfer** wordpress MySQL to SQLITE just **created**!!
+Use any application ([such](https://www.dbsofts.com/)), to **transfer** wordpress MySQL to SQLITE just **created**!!  
+
+>TIP : on sqlite dbase, delete any records exist, to the tables you gonna transfer from MySQL.
 
 All Wordpress, **baseURL** read by **wp_options** table fields :  
 
