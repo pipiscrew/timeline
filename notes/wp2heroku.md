@@ -14,7 +14,7 @@ now we have a **dbase.zip** & **wp.zip** locally.
 
 Download [nginx](https://nginx.org/en/download.html) (currently stable-v1.18), extract it to `C:\nginx\ `  
 
-find ready to use [nginx.conf](../assets/nginx.conf.txt) for php.  
+find ready to use [nginx.conf](/../assets/nginx.conf.txt) for php.  
 
 ## download & setup of php
 
