@@ -1,4 +1,9 @@
 ## 2021/03
+  * [Kainet AppleMan.Mandelbrot Set Viewer](https://kainet.ch/Mandelbrot-Set-Viewer)
+  * [DuckduckGo - Google finally revealed how much personal data they collect in Chrome](https://twitter.com/DuckDuckGo/status/1371509053613084679)
+  * [Narco Submarine Found in Spain](http://www.hisutton.com/Narco-Submarine-Found-In-Spain.html)
+  * [Lenovo - Refund of pre-installed Windows](https://fsfe.org/news/2021/news-20210302-01.html)
+  * [Self-hosted Airtable alternative](https://baserow.io/)  
   * [Google faces 'very large' EU advertising probe](https://www.bnnbloomberg.ca/google-faces-very-large-eu-advertising-probe-vestager-says-1.1576161)
   * [Microsoft hack: 3,000 UK email servers remain unsecured](https://www.bbc.com/news/technology-56372188)
   * [How Much Is the Average Rent in Tokyo?](https://blog.gaijinpot.com/how-much-is-the-average-rent-in-tokyo/)
