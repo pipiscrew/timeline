@@ -62,7 +62,7 @@ Go to **C:\nginx\html**, create a **composer.json** file, like (to enable **PDO 
 > Tip :: Now it will run the composer.bat (aka shortcut) we created on previous step  
 
 ## First try to browse locally wp
-Delete the default files & copy the wordpress files to **C:\nginx\html**, browse at localhost, if you get  
+Delete the default html files & copy the wordpress files to **C:\nginx\html**, browse at localhost, if you get  
 > Fatal error: __autoload() is no longer supported, use spl_autoload_register() instead in C:\nginx\html\wp-includes...  
 
 You are on **old wordpress** version, **php v8** doesn’t support it, has some deprecated functions, download [wordpress](https://wordpress.org/download/releases/) (currently stable-v5.7)!!  (download the distro zip and extract it there (**C:\nginx\html**) excluding **wp-config.php**.  
