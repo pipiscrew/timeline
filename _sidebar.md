@@ -14,7 +14,9 @@
 	* [music](/notes/music.md)
 	* [wp2heroku](/notes/wp2heroku.md)
 	* [supplement](/notes/supplement.md)
-		* [vitamania](/notes/supplementVitamania.md)
+		* [vitamania](/notes/supplementVitamania.md)  
+	* [others]
+		* [Awesome .NET Performance](https://github.com/adamsitnik/awesome-dot-net-performance/blob/master/README.md)
 * [Health]
 	* [introduction](/health/introduction.md)
 	* [exercise](/health/exercise.md)
