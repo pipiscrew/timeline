@@ -1,3 +1,13 @@
+**Aerobic** exercises are continuous exercises that use your body's oxygen as fuel. 
+
+**Anaerobic** exercises are start-and-stop exercises that require huge bursts of energy.
+
+## push-ups
+
+Type : Anaerobic 
+
+[NEXT Workout - Push Up That Will Change Your Life](https://www.youtube.com/watch?v=S_gIr7FfWi4)  
+
 ## yoga
 
 Type : Aerobic  
