@@ -22,3 +22,5 @@
 	* [introduction](/health/introduction.md)
 	* [exercise](/health/exercise.md)
 	* [meat](/health/meat.md)
+	* [sleep](/health/sleep.md)
+	* [dirty electricity](/health/dirty.md)
