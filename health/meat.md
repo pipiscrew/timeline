@@ -67,11 +67,11 @@ When water is **boiled**, drop the chopped **onion**, **carrot** and **celery**.
 
 Boil it for **20 minutes**.
 
-Before get pot out of fire, mix a **egg** with **2 spoons yogurt**  (add just a grain of salt, as salt help to mix better the egg), and **slowly slowly** add it while **slowly mixing** into the **soup**. In this way you will **avoid** big **pieces** of egg in the soup. It will become **white** and more **smooth**.
+Before get pot out of fire, mix an **egg** with **2 spoons yogurt**  (add just a grain of salt, as salt help to mix better the egg), and **slowly slowly** add it while **slowly mixing** into the **soup**. In this way you will **avoid** big **pieces** of egg in the soup. It will become **white** and more **smooth**.
 
 Nothing goes out... You just added!!
 
-When is on fire, leave it 10m to consolidated.
+When is on fire, leave it 10m to consolidate.
 
 When serving, add olive oil per plate. Optionally you can add **lemon** per plate, don't add lemon in the **pot** because more **acid** can help some **bacteria** to develop.
 
