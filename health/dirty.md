@@ -8,8 +8,9 @@ The **human nervous system** is in essence an **electrical system** that through
 >**EMF** = electromagnetic field  
 
 ## EMI doubts (?) :  
-1. Touching the laptop getting electrical buzz ? Translated into a **90 Hz** vibration!! use **Power Surge** , for the working station. Removes (if any) dirty electricity. [APC PM1W-FR](https://www.apc.com/shop/us/en/products/APC-Essential-SurgeArrest-1-outlet-230V-France/P-PM1W-FR) (**EMI and RFI** noise filtering)
-	* when 'Maximum Input Current' = 16A  
+1. Touching the laptop getting electrical buzz ? Translated into a **90 Hz** vibration!! use **Power Surge** , for the working station. Removes (if any) dirty electricity.  
+	* [APC PM1W-FR](https://www.apc.com/shop/us/en/products/APC-Essential-SurgeArrest-1-outlet-230V-France/P-PM1W-FR) (**EMI and RFI** noise filtering)
+		* when 'Maximum Input Current' = 16A  
 	can cover 2 laptops + 2 monitors.
 1. Play with apartment **electric power box switches**, switch off individually, wait **>= 1h** to see if there is a difference, is not appearing immediately!!! Perfectly, switch off, go for a walk outside.
 
