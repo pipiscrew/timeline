@@ -6,6 +6,7 @@
 * [Sysinternals.Autoruns for Windows](https://docs.microsoft.com/en-gb/sysinternals/downloads/autoruns)
 
 ## Commanders
+* [Altap Salamander](https://www.altap.cz/)  
 * [Total Commander](https://www.ghisler.com/)
 * [Midnight Commander](https://sourceforge.net/projects/mcwin32/)
 * [XYplorer](https://www.xyplorer.com/)
@@ -92,6 +93,8 @@
 ## DirList
 * [Arclab.Dir2HTML](https://www.arclab.com/en/dir2html/)
 * [CD2HTML](https://www.xray.cz/ecm-cd/soft/win/index0095.html)
+* for flat file list `dir *.mp3 /s /b`  [explained](https://www.howtogeek.com/363639/how-to-use-the-dir-command-in-windows/)
+* for flat folder list `dir /ad /b /on /s` [explained](https://stackoverflow.com/a/49002126)
 
 ## Protect
 * Protect - [XenCare.SoftLock](https://download.cnet.com/XenCare-SoftLock/3000-10435_4-10881665.html) - Doesnt allow to install new program but allow data file modification

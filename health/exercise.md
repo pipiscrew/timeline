@@ -44,4 +44,12 @@ In an original Olympic event was a sprint of around 180m.
 
 ## tabata protocol
 
-Continue [reading](http://tabataprotocol.com/)
+Continue [reading](http://tabataprotocol.com/)  
+
+## walking
+
+Type : Aerobic
+
+* [Benefits of Walking](https://klimy.co/blog/benefits-of-walking)  
+* [Don’t Underestimate the Power of a Walk](https://hbr.org/2021/02/dont-underestimate-the-power-of-a-walk)  
+* [Why Walking Helps Us Think](https://www.newyorker.com/tech/annals-of-technology/walking-helps-us-think)  

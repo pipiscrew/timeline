@@ -152,3 +152,12 @@
 ## 'greens' seeking for truth
 * [Dr. Vandana Shiva](https://www.navdanya.org/)
 * [Ice Age Farmer](https://www.iceagefarmer.com/)
+
+## good to know  
+* [TED.David Christian - The history of our world in 18 minutes](https://www.youtube.com/watch?v=yqc9zX04DXs)
+	* [homepage](https://www.bighistoryproject.com/)
+	* [video with Greek subtitles](https://www.facebook.com/CosmosEduThess/videos/926183724864229/)
+* [Λιαντίνης - Πέθανε ο Θεός (1995)](https://www.youtube.com/watch?v=5Jx8X3ypGJc)
+	* [mirror](https://www.facebook.com/CosmosEduThess/posts/3781528255218152)
+* [Welcome to the Great Reset](https://youtu.be/eirm9mapQyY)
+* [Addiction and technology](https://youtu.be/gg9hE3GNm30)
