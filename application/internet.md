@@ -13,7 +13,9 @@ both IceCat & Brave when restarted getting new fingerprint.
 Tested with :
 
   * [FingerprintJS](https://fingerprintjs.com/demo)
-  * [Unique Machine](http://uniquemachine.org/)
+  * [Unique Machine](http://uniquemachine.org/)  
+
+test browser [permissions](https://permission.site/).
 
 ----------
 
