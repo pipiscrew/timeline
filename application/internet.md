@@ -17,7 +17,7 @@ Tested with :
 
 ----------
 
-**Mozilla.Firefox** v86 Introduces [Total Cookie Protection] (https://blog.mozilla.org/security/2021/02/23/total-cookie-protection/) (you have to enable **strict mode** on privacy setings)  
+**Mozilla.Firefox** v86 Introduces [Total Cookie Protection](https://blog.mozilla.org/security/2021/02/23/total-cookie-protection/) (you have to enable **strict mode** on privacy setings)  
 **Mozilla.Firefox** v87 Introduces [SmartBlock](https://blog.mozilla.org/security/2021/03/23/introducing-smartblock/) (NoScript and uBlock Origin teams helping this approach)
 
 addons :
