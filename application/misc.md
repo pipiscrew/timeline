@@ -132,7 +132,7 @@
 
 > Reminder : Windows 10 requires **UEFI** boot and by BIOS you adjust also the **Secure Boot**. 
 
-**Ubuntu** supports **UEFI** and **Secure Boot** (so user is able to boot to **linux** on Windows 10 machine), [download](https://ubuntu.com/download/desktop) the ISO (is also **LiveCD**) and follow the [instructions](https://ubuntu.com/tutorials/create-a-usb-stick-on-windows) to make a bootable USB. Is possible the corrupted disk to be readable there ;) 
+**Ubuntu** supports **UEFI** and **Secure Boot** (so user is able to boot to **linux** on Windows 10 machine), [download](https://ubuntu.com/download/desktop) the ISO (is also **LiveCD**) and follow the [instructions](https://ubuntu.com/tutorials/create-a-usb-stick-on-windows) to make a bootable USB. Is possible the corrupted disk to be [readable](https://www.howtogeek.com/163757/why-can-linux-systems-sometimes-recover-data-windows-cant/) there ;) 
 
 The sequence is :  
 1. Abstradrome.HDD Regenerator (1TB = ~20h), if fixes the bad sectors no need to take backup of the data.  
