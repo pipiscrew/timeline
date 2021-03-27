@@ -112,15 +112,33 @@
 * [Unit Conversions 2000](https://www.softpedia.com/get/Others/Unit-Conversion/Unit-Conversions.shtml)
 * [Microsoft.Calculator](https://www.softpedia.com/get/System/OS-Enhancements/Microsoft-Calculator-Plus.shtml) - Useful for Win10 OS, contains conversions as well.
 
-## Snapshot
+## Drive Snapshot
 * [Acronis.True Image](https://www.acronis.com/en-us/products/true-image/)
 * [Drive SnapShot](http://www.drivesnapshot.de/en/) - no installation needed
 * [Sysinternals.Disk2vhd](https://docs.microsoft.com/en-us/sysinternals/downloads/disk2vhd) - Creates VHD versions of physical disks for use in Virtual PC (VMs)
 * [Runtime.DriveImage XML](http://www.runtime.org/dixml.htm) - Backup and image logical drives and partitions. Create 'hot images' of your drives, while working with them
 * [Macrium.Reflect](https://www.macrium.com/)
 * [AOMEI.Backupper](https://www.ubackup.com/edition-comparison.html) - Advanced system clone, UEFI clone, GPT to MBR clone, and customized clone
-* [rtt.R-Drive Image](https://www.drive-image.com/)
+* [rtt.r-drive image](https://www.drive-image.com/)
 * [Symantec.Norton Ghost](http://www.oldversion.com/windows/norton-ghost-15-0)
+
+## Drive Recovery
+* [Eassos.DiskGenius](https://www.diskgenius.com/) (ex PartitionGuru) - raw read / recovery [partition table](https://www.diskgenius.com/manual/partition-recovery.php) / rebuild [MBR](https://www.diskgenius.com/manual/rebuild-mbr.php) / copy content  
+	* when you plug the device, the application looks frozen, be patience (~10m).
+	* when trying to copy files and get 'not registered(0000059d)', is because the software is not registered.
+* [rtt.r-studio](https://www.r-studio.com/) - raw read / copy content
+* [dos.TestDisk](https://www.cgsecurity.org/wiki/TestDisk_Step_By_Step) - raw read / recovery partition table (no UEFI support)
+* [dos.Abstradrome.HDD Regenerator 2011](http://www.abstradrome.com/) - raw read / repair bad sectors (magnetic errors) (no UEFI support)
+
+> Reminder : Windows 10 requires **UEFI** boot and by BIOS you adjust also the **Secure Boot**. 
+
+**Ubuntu** supports **UEFI** and **Secure Boot** (so user is able to boot to **linux** on Windows 10 machine), [download](https://ubuntu.com/download/desktop) the ISO (is also **LiveCD**) and follow the [instructions](https://ubuntu.com/tutorials/create-a-usb-stick-on-windows) to make a bootable USB. Is possible the corrupted disk to be readable there ;) 
+
+The sequence is :  
+1. Abstradrome.HDD Regenerator (1TB = ~20h), if fixes the bad sectors no need to take backup of the data.  
+2. if the previous step didnt work, try Ubuntu.  
+3. try DiskGenius / TestDisk 
+
 
 ## Voice  
 * [NCH.Voxal Voice Changer](https://www.nchsoftware.com/voicechanger/index.html) 
