@@ -4,6 +4,7 @@
 * [PinMe!](https://forum.tuts4you.com/files/file/2125-pinme/)
 * [NTWind.Visual Subst](https://www.ntwind.com/software/visual-subst.html) - Mount folder as drive
 * [Sysinternals.Autoruns for Windows](https://docs.microsoft.com/en-gb/sysinternals/downloads/autoruns)
+* [Windows 7 Calculator to Windows 10](https://www.pipiscrew.com/2021/03/windows-7-calculator-to-windows-10/)
 
 ## Rescue Boot
 * [WinPE 10-8 Sergei Strelec](https://sergeistrelec.ru/winpe-10-8-sergei-strelec-english/)
@@ -18,6 +19,7 @@
 * [EF Commander](http://www.efsoftware.com/cw/e.htm)
 * [Unreal Commander](https://x-diesel.com/)
 * [Q-Dir](http://www.softwareok.com/?seite=freeware/Q-Dir)
+* [OneCommander](http://onecommander.com)
 
 ## Compare
 * [Scooter.Beyond Compare](https://www.scootersoftware.com/)

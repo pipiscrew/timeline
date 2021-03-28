@@ -147,7 +147,6 @@ Use any **client application** to browse the SQLITE dbase ([such](https://sqlite
 
 The following tables **should not transfered** from MYSQL, as containing information by current installation!!  
 
-* wp_posts
 * wp_usermeta
 * wp_users
 
