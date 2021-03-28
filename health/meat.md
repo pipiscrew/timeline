@@ -111,12 +111,12 @@ Meanwhile, between your **breakfast** and **dinner** you can have **snacks** fro
 
 * nuts  
 * cottage cheese on 1 slice of bread  
-* three eggs  
+* three eggs ([Emma Morano](https://www.bbc.com/news/world-europe-39610937))
 * fruit
 
 Attention with the **fruits**, one per day (have 20-30% sugar).
 
-
+Invest in your health with an [indoor garden](https://clickandgrow.com/)
 
 ----------
 

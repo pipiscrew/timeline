@@ -1,9 +1,14 @@
 ## Explorer
 
 * [CodeSector.Direct Folders](https://www.codesector.com/directfolders) - Useful functionality **ClickSwitch**.
-* [PInMe!](https://forum.tuts4you.com/files/file/2125-pinme/)
+* [PinMe!](https://forum.tuts4you.com/files/file/2125-pinme/)
 * [NTWind.Visual Subst](https://www.ntwind.com/software/visual-subst.html) - Mount folder as drive
 * [Sysinternals.Autoruns for Windows](https://docs.microsoft.com/en-gb/sysinternals/downloads/autoruns)
+
+## Rescue Boot
+* [WinPE 10-8 Sergei Strelec](https://sergeistrelec.ru/winpe-10-8-sergei-strelec-english/)
+* [Win10PE SE](http://win10se.cwcodes.net/)
+* [LSoft.Active Boot Disk](https://www.lsoft.net/bootdisk/)
 
 ## Commanders
 * [Altap Salamander](https://www.altap.cz/)  
