@@ -1,4 +1,13 @@
 ## 2021/03
+  * [Vanara - .NET assemblies that contain P/Invoke functions, interfaces, enums and structures from Windows libraries](https://github.com/dahall/Vanara)
+  * [Restoring Classic Calculator in Windows 10](https://afana.me/archive/2016/06/27/restoring-classic-calculator-in-windows-10.aspx/)
+  * [What Google’s Privacy Sandbox Means for Internet Governance](https://www.cigionline.org/articles/what-googles-privacy-sandbox-means-internet-governance)
+  * [Activision releases online-only PC game without online content, cracked in one day](https://arstechnica.com/gaming/2021/03/activision-releases-online-only-pc-game-without-online-content-cracked-in-one-day/)
+  * [PHP's Git server compromised](https://news-web.php.net/php.internals/113838)
+  * [Nintendo Game Boy Modded to Mine Bitcoin](https://www.techpowerup.com/280282/nintendo-game-boy-modded-to-mine-bitcoin)
+  * [Acer Hit by Ransomware](https://guru3d.com/news-story/acer-hit-by-ransomware-hackers-want-50m.html)
+  * [LIII BitTorrent Client (lightweight)](https://ghacks.net/2021/03/29/liii-is-a-lightweight-open-source-bittorrent-client-for-windows/)
+    * [2](https://github.com/aliakseis/LIII)
   * [Aussie billionaire doubles down on crypto after 400% return on investment](https://www.theaustralian.com.au/business/aussie-billionaire-alex-waislitz-doubles-down-on-crypto-after-400-return-on-investment/news-story/88dd202d6c0b41cf600b9f9544f4295f)
   * [Test Browser Permissions](https://permission.site/)
   * [Speculating the entire x86-64 Instruction Set](https://blog.can.ac/2021/03/22/speculating-x86-64-isa-with-one-weird-trick/)
