@@ -1,2 +1,2 @@
 *	[Cholesterol may be key to new therapies for Alzheimer’s disease, diabetes](https://www.eurekalert.org/pub_releases/2021-03/uoah-cmb032521.php)
-*	[Seaweed Alzheimer’s Drug Approved](https://www.researchgate.net/deref/https%3A%2F%2Falzres.biomedcentral.com%2Farticles%2F10.1186%2Fs13195-020-00663-w)
+*	[Seaweed Alzheimer’s Drug Approved](https://alzres.biomedcentral.com/articles/10.1186/s13195-020-00663-w)

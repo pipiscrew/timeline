@@ -95,7 +95,6 @@
   * [Did Schnorr destroy RSA?](https://eprint.iacr.org/2021/232.pdf)
     * [2](https://sweis.medium.com/did-schnorr-destroy-rsa-show-me-the-factors-dcb1bb980ab0)
     * [3](https://twitter.com/FredericJacobs/status/1367115794363088897)
-    * [4](https://eprint.iacr.org/2021/232)
   * [Cbonsai: Grow bonsai trees](https://gitlab.com/jallbrit/cbonsai)
   * [End to End Encrypted, Private Search](https://private.sh)
   * [Brave acquires search engine (ex-Cliqz, Tailcat Group) to offer the first private alternative to Google](https://brave.com/brave-search/)
