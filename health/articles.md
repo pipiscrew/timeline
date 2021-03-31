@@ -1,2 +1,6 @@
 *	[Cholesterol may be key to new therapies for Alzheimer’s disease, diabetes](https://www.eurekalert.org/pub_releases/2021-03/uoah-cmb032521.php)
 *	[Seaweed Alzheimer’s Drug Approved](https://alzres.biomedcentral.com/articles/10.1186/s13195-020-00663-w)
+*	[New drug to regenerate lost teeth: scientists from Japan](https://www.u-fukui.ac.jp/en-news/67075/)
+*	[Eat me: The cell signal of death](https://www.eurekalert.org/pub_releases/2021-03/ku-emt032421.php)
+*	[Making honey without bees and milk without cows](https://www.bbc.com/news/business-56154143)
+*	[Exercise boosts blood flow to the brain](https://www.eurekalert.org/pub_releases/2021-03/usmc-ebb032321.php)

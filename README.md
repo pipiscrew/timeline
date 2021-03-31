@@ -1,4 +1,10 @@
 ## 2021/03
+  * [Google Is Testing Its Controversial New Ad Targeting Tech in Millions of Browsrs (FLoC)](https://eff.org/deeplinks/2021/03/google-testing-its-controversial-new-ad-targeting-tech-millions-browsers-heres)
+  * [Google collects 20 times more telemetry from Android devices than Apple from iOS](https://therecord.media/google-collects-20-times-more-telemetry-from-android-devices-than-apple-from-ios/)
+  * [Remote-controlled forklifts](https://techcrunch.com/2021/03/31/logistics-giant-geodis-partners-with-phantom-auto-to-deploy-remote-controlled-forklifts/)
+  * [Microsoft will move third-party drivers to a new folder in Windows 10 soon](https://www.ghacks.net/2021/03/31/microsoft-could-move-third-party-drivers-to-a-new-folder-in-windows-10-soon/)
+  * [dont forget the shit.China kicks off mass production of next-gen DDR5 memory](https://www.tweaktown.com/news/78495/china-kicks-off-mass-production-of-next-gen-ddr5-memory/index.html)
+  * [Bitcoin mining Game Boy mod goes for the money](https://www.slashgear.com/bitcoin-mining-game-boy-mod-goes-for-the-money-30666114/)
   * [Vanara - .NET assemblies that contain P/Invoke functions, interfaces, enums and structures from Windows libraries](https://github.com/dahall/Vanara)
   * [Restoring Classic Calculator in Windows 10](https://afana.me/archive/2016/06/27/restoring-classic-calculator-in-windows-10.aspx/)
   * [What Google’s Privacy Sandbox Means for Internet Governance](https://www.cigionline.org/articles/what-googles-privacy-sandbox-means-internet-governance)
