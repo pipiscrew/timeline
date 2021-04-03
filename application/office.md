@@ -32,3 +32,11 @@ Remove blank rows
 * now automatically selected the blank rows & columns
 * Home > Delete Sheet Rows  
 * [Remove blank rows](https://www.businessinsider.com/how-to-remove-blank-rows-in-excel)  
+
+Sum selected cells  
+
+* press ALT and =
+
+Navigate to worksheets  
+
+* press CTRL + PGDown / PGUp

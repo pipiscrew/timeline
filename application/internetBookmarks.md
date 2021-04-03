@@ -26,7 +26,9 @@
 
 ## videos
 * [Invidious](https://invidious.snopyta.org/feed/popular)
+	* [mirrors](https://redirect.invidious.io/)
 * [youtube-lite](https://youtube-lite.js.org/)
+* [lite youtube](https://yt.dorper.me/)
 * [Vimeo](https://vimeo.com/)  
 * [Dailymotion](https://www.dailymotion.com)  
 * [Brighteon](https://www.brighteon.com/)
@@ -71,7 +73,13 @@
 		* [Convert JSON to any language class](https://app.quicktype.io/)
 			* [2](https://www.jsonutils.com/)  
 		* [Convert C# class to JSON](https://csharp2json.io/)  
-* [Music For Programming](http://musicforprogramming.net/)  
+
+
+## music
+* [Music For Programming](http://musicforprogramming.net/)
+* [Webamp](https://webamp.org/) - Winamp like
+	* [Butterchurn](https://github.com/jberg/butterchurn)
+	* [Speeding Up Webamp's Music Visualizer with WebAssembly](https://jordaneldredge.com/blog/speeding-up-winamps-music-visualizer-with-webassembly/)
 
 ## search engines
 * (france) [Qwant](https://www.qwant.com/)

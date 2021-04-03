@@ -30,3 +30,4 @@
 
 ## misc
 * [Free for developers](https://free-for.dev/)
+* [C# to IL](https://sharplab.io/)
