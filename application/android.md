@@ -3,6 +3,7 @@ Firewall - [NetGuard](https://play.google.com/store/apps/details?id=eu.faircode.
 Launcher - [Evie](https://m.apkpure.com/evie-launcher/is.shortcut) (gplay deprecated)  
 Scanner - [CamScanner](https://play.google.com/store/apps/details?id=com.intsig.camscanner)  
 Music Player - [rhmsoft.Pulsar](https://play.google.com/store/apps/details?id=com.rhmsoft.pulsar)  
+Music Player - [Musicolet](https://krosbits.in/musicolet/)  
 QR - [SimpleAct.Quickmark](http://quickmark.com.tw/En/basic/index.asp) (gplay deprecated)  
 GPS - [TomTom Navigation](https://play.google.com/store/apps/details?id=com.tomtom.gplay.navapp) - supports offline maps / can used also for pedestrian route (adjust at settings > routing > route type)  
 Expenses - [Alzex Finance](https://play.google.com/store/apps/details?id=com.alzex.finance.pro)  

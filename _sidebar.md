@@ -10,6 +10,7 @@
 	* [Develop](/application/develop.md)
 	* [Android](/application/android.md)
 * [Notes]
+	* [articles](/notes/articles.md)
 	* [amiga](/notes/amiga.md)
 	* [music](/notes/music.md)
 	* [wp2heroku](/notes/wp2heroku.md)
