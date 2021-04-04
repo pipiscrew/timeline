@@ -100,6 +100,7 @@
 
 ## files archives
 * [WinWorld](https://winworldpc.com/library/operating-systems)
+* [The Simtel CD Collection (1994-2001)](http://cd.textfiles.com/simtel/)
 * [The Eye](https://the-eye.eu/)
 * [FilePursuit](https://filepursuit.com/)
 * [Wiki DLL](https://wikidll.com/)
