@@ -92,7 +92,7 @@ In [1975](https://books.google.cz/books?id=sqtdDwAAQBAJ&lpg=PT76&ots=dx33svdh3y&
 
 * high blood pressure
 * rheumatoid arthritis
-* gout
+* arthritis
 * tinnitus (ringing of the ears)
 
 as well as for various disorders of the nervous, respiratory, and digestive systems, thyroid gland, and skin. It was also found to **speed recovery** from illness and slow aging processes.
