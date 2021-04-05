@@ -57,7 +57,7 @@ They are **statically attracted** to airborne **particles** like dust, mold spor
 
 [SmartAir - What Are Ionizer Air Purifiers and Do They Work?](https://smartairfilters.com/en/blog/do-ionizer-air-purifier-work/)  
 
-	* [Effectiveness of Home Air Cleaners in reducing indoor levels of particulate matter](https://www.researchgate.net/publication/236004768_Effectiveness_of_Home_Air_Cleaners_in_Reducing_Indoor_Levels_of_Particles)
+  * [Effectiveness of Home Air Cleaners in reducing indoor levels of particulate matter](https://www.researchgate.net/publication/236004768_Effectiveness_of_Home_Air_Cleaners_in_Reducing_Indoor_Levels_of_Particles)
 
 ----------
 
