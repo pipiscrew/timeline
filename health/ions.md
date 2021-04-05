@@ -42,7 +42,7 @@ We **inhale** negative ions in environments such as
 * forests
 * waterfalls
 
-Once they reach our **bloodstream**, negative ions produce biochemical reactions that **increase** levels of the mood chemical serotonin, helping to alleviate depression, relieve stress, and boost energy.
+Once they reach our **bloodstream**, negative ions produce biochemical reactions that **increase** levels of the mood chemical serotonin, helping to alleviate depression, relieve stress, and <span style="color:red">boost energy</span>.
 
 They are **statically attracted** to airborne **particles** like dust, mold spores, pet dander, and other floating pollutants and potential allergens.. By **attaching** to these pollutants and allergens they give them a negative charge and, rather than drifting in the **air**, they are grounded and **fall** to the floor or nearest surface.  
 
