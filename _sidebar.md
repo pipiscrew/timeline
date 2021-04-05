@@ -25,5 +25,6 @@
 	* [meat](/health/meat.md)
 	* [sleep](/health/sleep.md)
 	* [dirty electricity](/health/dirty.md)
+	* [ions](/health/ions.md) 
 	* [water](/health/water.md)
 	* [articles](/health/articles.md)
