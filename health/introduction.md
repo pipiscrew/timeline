@@ -258,11 +258,11 @@ Those amino acids, is only for transport purposes. Egg or milk have '2000' times
 ----------
 
 ## Does a vegan diet lead to poorer bone health?
-The vegan diet is on trend. How this type of diet affects health is the subject of scientific studies. Out of 28 parameters of nutritional status and bone metabolism, it was possible to identify twelve biomarkers most strongly associated with bone health – for example, the
+The vegan diet is on trend. How this type of diet affects health is the subject of scientific studies. Out of 28 parameters of nutritional status and bone metabolism, it was possible to identify twelve biomarkers most strongly associated with bone health – for example, the  
 
-* amino acid lysine  
-* vitamin A  
-* vitamin B6  
+* amino acid lysine
+* vitamin A
+* vitamin B6
   
 The results show that in most cases, the combination of these biomarkers was present in lower concentrations in vegans. [source](https://www.eurekalert.org/pub_releases/2021-03/bfif-dav030421.php)  
 
