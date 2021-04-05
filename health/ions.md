@@ -105,7 +105,7 @@ as well as for various disorders of the nervous, respiratory, and digestive syst
 
 **Spirulina** and **Chlorella** act as negative ionic **charges** in the body and assist in pulling out toxicity such as heavy metal toxicity, pesticides and other non water-soluble contaminates. [src](https://ama-veda.com/630/)
 
-[The effect of grounding on the blood](https://www.groundology.co.uk/scientific-research) ([mirror](https://www.dropbox.com/s/hma9ghww4hsunkk/The%20effect%20of%20grounding%20on%20the%20blood.pdf?dl=1))  
+[Groundology - The effect of grounding on the blood](https://www.groundology.co.uk/scientific-research) ([mirror](https://www.dropbox.com/s/hma9ghww4hsunkk/The%20effect%20of%20grounding%20on%20the%20blood.pdf?dl=1))  
 
 [EMF - Creating a Healthy Environment in a Toxic World](https://www.safespaceprotection.com/emf-health-risks/what-is-emf/) ([mirror](https://www.dropbox.com/s/bbd66534z4twiur/Creating%20a%20Healthy%20Environment%20in%20a%20Toxic%20World.pdf?dl=1))
 
