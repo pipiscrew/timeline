@@ -47,7 +47,7 @@ They are **statically attracted** to airborne **particles** like dust, mold spor
 ## how to indoor
 
 * Air purifier supporting negative ions.
-* Negative ion generators by [IonPacific](https://ionbox.net/) products ([amazon](https://www.amazon.com/s?k=IonPacific)) - produces 20m negative ions / second, valid for 46m2 apartment (otherwise take more than 1). 
+* Negative ion generators by [IonPacific](https://ionbox.net/) products ([amazon](https://www.amazon.com/s?k=IonPacific)) - produces 20m negative ions / second, valid for 46m2 apartment (otherwise take more than 1) - doesn't emit any ozone. 
 * Surround yourself with plants. They clean the air by taking in **carbon dioxide** and breathing out fresh **oxygen** and **many negative ions**. Some plants release **higher** levels of negative ions than others (best choices are chrysanthemum, coconut palm, gerbera, and spider plant)
 * [beeswax candles](https://www.amazon.com/dp/B073DJK4G7)
 * [himalayan salt lamp](https://www.amazon.com/dp/B07BC6KZ2V)
@@ -55,6 +55,7 @@ They are **statically attracted** to airborne **particles** like dust, mold spor
 
 [source Holisticlakewood - Negative Is Positive](https://holisticlakewood.com/when-a-negative-is-positive/) ([mirror](https://www.dropbox.com/s/0lv03poefjogeeq/Holisticlakewood%20-%20Negative%20Is%20Positive.pdf?dl=1))
 
+[SmartAir - What Are Ionizer Air Purifiers and Do They Work?](https://smartairfilters.com/en/blog/do-ionizer-air-purifier-work/)
 
 ----------
 
