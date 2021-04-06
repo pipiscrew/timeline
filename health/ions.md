@@ -51,7 +51,8 @@ They are **statically attracted** to airborne **particles** like dust, mold spor
 * Air purifier supporting negative ions.
 * Negative ion generators  
 	* US [IonPacific](https://ionbox.net/) products ([amazon](https://www.amazon.com/s?k=IonPacific)) - produces 20m negative ions / second, valid for 46m2 apartment (otherwise take more than 1) - doesn't emit any ozone. 
-	* FR [Teqoya](https://www.teqoya.com/) -  ozone-free.
+	* FR [Teqoya](https://www.teqoya.com/) -  ozone-free. [video](https://www.facebook.com/teqoya.co/videos/1377712355628260/) watch 15 seconds before end.
+	* 
 * Surround yourself with plants. They clean the air by taking in **carbon dioxide** and breathing out fresh **oxygen** and **many negative ions**. Some plants release **higher** levels of negative ions than others (best choices are chrysanthemum, coconut palm, gerbera, and spider plant). Chlorophyll plants and very sharp leaves of conifers emit negative [ions](https://www.teqoya.com/ionisation-negative-ions/). 
 * [beeswax candles](https://www.amazon.com/dp/B073DJK4G7)
 * [himalayan salt lamp](https://www.amazon.com/dp/B07BC6KZ2V)
@@ -148,6 +149,6 @@ EPA in their [Guide to Air Cleaners in the Home (2018)](https://www.epa.gov/site
 
 [Convert cubic m/hr to cfm](https://www.convertunits.com/from/cubic+m/hr/to/cfm)  
 [CADR Calculator](https://reviewsofairpurifiers.com/cadr-calculator/)  
-
+[The Role of Central Nervous System Plasticity in Tinnitus](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2083119/)
 
 > [CADR Rating: Is it a Good Measure of Air Purifier Quality?](https://www.usairpurifiers.com/blog/cadr-rating-is-it-a-good-measure-of-air-purifier-quality/)
