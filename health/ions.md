@@ -148,3 +148,6 @@ EPA in their [Guide to Air Cleaners in the Home (2018)](https://www.epa.gov/site
 
 [Convert cubic m/hr to cfm](https://www.convertunits.com/from/cubic+m/hr/to/cfm)  
 [CADR Calculator](https://reviewsofairpurifiers.com/cadr-calculator/)  
+
+
+> [CADR Rating: Is it a Good Measure of Air Purifier Quality?](https://www.usairpurifiers.com/blog/cadr-rating-is-it-a-good-measure-of-air-purifier-quality/)
