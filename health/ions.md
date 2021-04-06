@@ -131,3 +131,20 @@ Even the best ionisers will also **produce** a small amount of **ozone**. At hig
 [Tourmaline - The Electric Stone](https://www.tinnitustalk.com/threads/the-benefits-of-negative-ions-and-my-hair-dryer.383/)
 
 > [2021 - Better air is the easiest way not to die](https://dynomight.net/air/)
+
+
+----------
+
+## air purifiers
+
+The larger the **CADR number** listed on the air purifier, the more particulate matter the filter will remove from the air. Typically, the larger the room, the larger the CADR number you want.  There is **no** industry standard for the CADR number associated with room size. Many times, the manufacturer will list the recommended room size on the packaging. Most air cleaner packaging will tell you the largest size area or room it should be used in. Air cleaners often **achieve** a high CADR by **using** a high-efficiency particulate air (**HEPA**) filter. [source](https://reviewsofairpurifiers.com/how-to-choose-an-air-purifier/)  
+
+EPA in their [Guide to Air Cleaners in the Home (2018)](https://www.epa.gov/sites/production/files/2018-07/documents/guide_to_air_cleaners_in_the_home_2nd_edition.pdf), makes recommendations about CADR and room size (calculated based on an 2.4m ceiling).  
+
+| Room area (m2)     | 9   | 18  | 27  | 37  | 46  | 55  |
+|--------------------|-----|-----|-----|-----|-----|-----|
+| Minimum CADR (cfm) | 65  | 130 | 195 | 260 | 325 | 390 |
+| Minimum CADR (m3h) | 110 | 220 | 331 | 441 | 552 | 662 |
+
+[Convert cubic m/hr to cfm](https://www.convertunits.com/from/cubic+m/hr/to/cfm)  
+[CADR Calculator](https://reviewsofairpurifiers.com/cadr-calculator/)  
