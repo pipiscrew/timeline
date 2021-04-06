@@ -49,8 +49,10 @@ They are **statically attracted** to airborne **particles** like dust, mold spor
 ## how to indoor
 
 * Air purifier supporting negative ions.
-* Negative ion generators by [IonPacific](https://ionbox.net/) products ([amazon](https://www.amazon.com/s?k=IonPacific)) - produces 20m negative ions / second, valid for 46m2 apartment (otherwise take more than 1) - doesn't emit any ozone. 
-* Surround yourself with plants. They clean the air by taking in **carbon dioxide** and breathing out fresh **oxygen** and **many negative ions**. Some plants release **higher** levels of negative ions than others (best choices are chrysanthemum, coconut palm, gerbera, and spider plant)
+* Negative ion generators  
+	* US [IonPacific](https://ionbox.net/) products ([amazon](https://www.amazon.com/s?k=IonPacific)) - produces 20m negative ions / second, valid for 46m2 apartment (otherwise take more than 1) - doesn't emit any ozone. 
+	* FR [Teqoya](https://www.teqoya.com/) -  ozone-free.
+* Surround yourself with plants. They clean the air by taking in **carbon dioxide** and breathing out fresh **oxygen** and **many negative ions**. Some plants release **higher** levels of negative ions than others (best choices are chrysanthemum, coconut palm, gerbera, and spider plant). Chlorophyll plants and very sharp leaves of conifers emit negative [ions](https://www.teqoya.com/ionisation-negative-ions/). 
 * [beeswax candles](https://www.amazon.com/dp/B073DJK4G7)
 * [himalayan salt lamp](https://www.amazon.com/dp/B07BC6KZ2V)
 * [indoor water fountain](https://www.amazon.com/dp/B07JZF5F67)
@@ -104,6 +106,17 @@ In [1975](https://books.google.cz/books?id=sqtdDwAAQBAJ&lpg=PT76&ots=dx33svdh3y&
 as well as for various disorders of the nervous, respiratory, and digestive systems, thyroid gland, and skin. It was also found to **speed recovery** from illness and slow aging processes.
 
 [source Ki Flow - Health Benefits of Negative Ions](https://web.archive.org/web/20120126021314/http://www.kiflow.com/info/ions.html) ([mirror](https://www.dropbox.com/s/ppiqrulza38b50m/Ki%20Flow%20-%20Health%20Benefits%20of%20Negative%20Ions.pdf?dl=1))
+
+----------
+
+An **air ioniser** (or negative ion generator or Chizhevsky's chandelier) is a device that uses **high voltage** to ionise (electrically **charge**) air molecules. Air ionisers **are used** in air purifiers to remove particles from air. Airborne particles become **charged** as they attract charged ions from the ioniser by electrostatic attraction. 
+
+Another type of air ioniser is the **electrostatic discharge** (ESD) ioniser (balanced ion generator) used to neutralise static charge.
+
+Even the best ionisers will also **produce** a small amount of **ozone**. At high concentrations ozone can be toxic to air-borne bacteria, and may destroy or kill these sometimes infectious organisms. Ozone is a **highly toxic** and extremely reactive gas. A higher daily average than 0.1 ppm (**100 ppb**, 0.2 mg/m3) is not recommended and can damage the lungs and olfactory bulb cells directly. [source](https://en.wikipedia.org/wiki/Air_ioniser)
+
+[Studies](http://www.arb.ca.gov/research/indoor/esp_report.pdf) have found that ionizing air cleaners typically emit between **0.5 and 0.4 mg** of ozone per hour. The FDA ozone emission limit is **50ppb**, and most air cleaners average an emission rate between **20 and 30 ppb**, so they're within the safe level as defined by the FDA. There is a caveat, however. Ozone interacts with home appliances, thus leading to higher ozone levels. [source](https://www.greenbuildermedia.com/iaq/blog/do-ionizing-air-cleaners-work)
+
 
 
 ----------
