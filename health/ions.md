@@ -116,3 +116,5 @@ as well as for various disorders of the nervous, respiratory, and digestive syst
 [EMF - Creating a Healthy Environment in a Toxic World](https://www.safespaceprotection.com/emf-health-risks/what-is-emf/) ([mirror](https://www.dropbox.com/s/bbd66534z4twiur/Creating%20a%20Healthy%20Environment%20in%20a%20Toxic%20World.pdf?dl=1))
 
 [Tourmaline - The Electric Stone](https://www.tinnitustalk.com/threads/the-benefits-of-negative-ions-and-my-hair-dryer.383/)
+
+> [2021 - Better air is the easiest way not to die](https://dynomight.net/air/)
