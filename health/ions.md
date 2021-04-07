@@ -133,6 +133,10 @@ Even the best ionisers will also **produce** a small amount of **ozone**. At hig
 
 > [2021 - Better air is the easiest way not to die](https://dynomight.net/air/)
 
+* **Sharp.Plasmacluster** - ions are made from the same type of positive and negative ions that occur in nature. (warning - expensive filters) 
+
+	*  [What is](https://global.sharp/pci/en/about_pci/)
+	*  [Benefits](https://global.sharp/pci/en/effect/)
 
 ----------
 
