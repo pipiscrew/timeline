@@ -51,8 +51,7 @@ They are **statically attracted** to airborne **particles** like dust, mold spor
 * Air purifier supporting negative ions.
 * Negative ion generators  
 	* US [IonPacific](https://ionbox.net/) products ([amazon](https://www.amazon.com/s?k=IonPacific)) - produces 20m negative ions / second, valid for 46m2 apartment (otherwise take more than 1) - doesn't emit any ozone. 
-	* FR [Teqoya](https://www.teqoya.com/) -  ozone-free. [video](https://www.facebook.com/teqoya.co/videos/1377712355628260/) watch 15 seconds before end.
-	* 
+	* FR [Teqoya](https://www.teqoya.com/) -  ozone-free. [video](https://www.facebook.com/teqoya.co/videos/1377712355628260/) watch 15 seconds before end.  
 * Surround yourself with plants. They clean the air by taking in **carbon dioxide** and breathing out fresh **oxygen** and **many negative ions**. Some plants release **higher** levels of negative ions than others (best choices are chrysanthemum, coconut palm, gerbera, and spider plant). Chlorophyll plants and very sharp leaves of conifers emit negative [ions](https://www.teqoya.com/ionisation-negative-ions/). 
 * [beeswax candles](https://www.amazon.com/dp/B073DJK4G7)
 * [himalayan salt lamp](https://www.amazon.com/dp/B07BC6KZ2V)
