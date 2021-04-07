@@ -1,4 +1,22 @@
-## 2021/03
+## 2021/04
+  * [supremecourt.Google’s copying of the Java SE API was a fair use of that material](https://www.supremecourt.gov/opinions/20pdf/18-956_d18f.pdf)
+    * [2](https://www.oracle.com/news/announcement/oracle-statement-regarding-oracle-v-google-040521.html)
+  * [LG to open source their phones](https://www.change.org/p/lg-electronics-lg-to-open-source-their-phones-as-they-are-shutting-down-production-for-good)
+    * [2](https://www.axios.com/lg-is-getting-out-of-the-mobile-phone-business-a1398158-51e4-428b-a649-47e080884fee.html)
+  * [New HIV vaccine with a 97% antibody response rate in phase I human trials](https://www.europeanpharmaceuticalreview.com/news/141892/novel-hiv-vaccine-approach-shows-promise-in-landmark-first-in-human-trial/)
+  * [Amazon illegally fired workers who criticized warehouse conditions, NLRB reportedly finds](https://www.cnet.com/news/amazon-illegally-fired-workers-who-criticized-warehouse-conditions-nlrb-reportedly-finds/)
+  * [US - Has my Facebook data been leaked w/ source](https://fbleak.info/)
+  * [People Are Stealing Legos](https://www.npr.org/2021/04/03/983870097/people-are-stealing-legos-heres-why)
+  * [Signal isn't as open source as you thought it was anymore](https://www.androidpolice.com/2021/04/06/it-looks-like-signal-isnt-as-open-source-as-you-thought-it-was-anymore/)
+  * [Rust in the Android platform](https://security.googleblog.com/2021/04/rust-in-android-platform.html)
+  * [I hope work from home continues (crazy shit)](https://www.ryanmercer.com/ryansthoughts/2021/4/6/some-of-the-reasons-i-hope-work-from-home-continues-and-i-never-have-to-return-to-an-office)
+  * [Engineers cracked Apple's M1 chip and successfully expanded 16G memory and 1TB hard drive](https://inf.news/en/digital/b5599514f985bf2acd947d74d74a203d.html)
+  * [The Facebook Phone Numbers Are Now Searchable in Have I Been Pwned](https://haveibeenpwned.com/)
+    * [2](https://haveibeenfacebooked.com/)
+  * [Kallithea – Self-hosted alternative to GitHub](https://kallithea-scm.org/)
+  * [Facebook Business - Analytics is Going Away](https://www.facebook.com/business/help/966883707418907)
+  * [How Browsers Lay Out Web Pages](https://browser.engineering/layout.html)
+  * [Google will stop using Oracle’s finance software and adopt SAP instead](https://www.cnbc.com/2021/04/05/google-will-stop-using-oracle-finance-software-switch-to-sap.html)
   * [Mark Zuckerberg's phone number appeared among the leaked data of Facebook users](https://businessinsider.com/mark-zuckerberg-phone-number-facebook-leak-data-reports-2021-4)
   * [Terramaster NAS exposing itself with UPNP](https://kn100.me/terramaster-nas-exposing-itself-over-upnp/)
   * [Which is the fastest web framework](https://github.com/the-benchmarker/web-frameworks)
@@ -34,6 +52,8 @@
     * [2](https://webamp.org/)
     * [3](https://butterchurnviz.com/)
   * [Linux Containers Online](https://linuxcontainers.org/lxd/try-it/)
+
+## 2021/03
   * [mitmproxy HTTPS proxy - again!](https://mitmproxy.org/)
   * [Experience with code signing Windows apps](https://news.ycombinator.com/item?id=26672773)
   * [Computers by the Decade](https://www.charlieharrington.com/computers-by-the-decade)
