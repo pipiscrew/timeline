@@ -155,3 +155,39 @@ EPA in their [Guide to Air Cleaners in the Home (2018)](https://www.epa.gov/site
 [The Role of Central Nervous System Plasticity in Tinnitus](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2083119/)
 
 > [CADR Rating: Is it a Good Measure of Air Purifier Quality?](https://www.usairpurifiers.com/blog/cadr-rating-is-it-a-good-measure-of-air-purifier-quality/)
+
+[Smartairfilters - How to Make a DIY Air Purifier](https://smartairfilters.com/en/blog/how-to-make-diy-air-purifier/)
+
+By [Daniel Diaz](https://qr.ae/pG1JBR) 
+> If an air purifier suggest you should have an open window, it may be because it generates ozone.
+If there is a metallic smell lingering in the room with a purifier on, that might be ozone. 
+
+Air purifier with window open ?  
+> It's a waste - similar to keep your windows wide open while your airconditioner or heating system is running. Or keeping your fridge door wide open. Basically the constant draft of air will bring the 'unpurified' air back into your room at a faster rate then the unit purifing the air. Ideally the room should be closed so that it can work effectively
+
+
+How long can you run an air purifier before [changing](https://qr.ae/pG1VIJ) the filter?  
+The boring answer is “it depends on your filter,” but here are three much more useful insights I’ve learned from actually testing HEPA lifespan:  
+
+* The color of the filter is an unreliable indicator of when to change the filter.
+* HEPAs actually get better at capturing particles as they age.
+* Air speed is the only reliable way to test if your HEPA needs to be changed.
+
+So assumming that the air purifier company writes change the filter every 6 months  
+-Is that six months in Sweden or China?
+
+HEPAs get **black really quick**, yet they remain effective for long after.In other words, **color** is essentially **useless** for detecting when a HEPA needs to be **replaced**. The best method is to test **air flow**.
+
+In the following conditions, filter may be replaced:
+
+* If the output air **pressure** is dropped by 50% from the initial days of usage
+* If the output air is **smelling** of gases, mold etc
+* If the air purifier is **not used** for over 2 months at a stretch
+
+Here are some tips to ensure [efficiency](https://qr.ae/pG1VTB) and higher filter life  
+
+* **Never Vacuum** the HEPA
+* Expose the HEPA to bright **sunlight** for 3 to 4 hours at least **once** in a month
+* Clean the **Filter cavity** every 15 days
+
+Most air filters will have a light that goes on when the air flow is partially blocked. That’s when you change it.
