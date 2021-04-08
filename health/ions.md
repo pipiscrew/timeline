@@ -156,7 +156,7 @@ EPA in their [Guide to Air Cleaners in the Home (2018)](https://www.epa.gov/site
 
 > [CADR Rating: Is it a Good Measure of Air Purifier Quality?](https://www.usairpurifiers.com/blog/cadr-rating-is-it-a-good-measure-of-air-purifier-quality/)
 
-[Smartairfilters - How to Make a DIY Air Purifier](https://smartairfilters.com/en/blog/how-to-make-diy-air-purifier/)
+
 
 By [Daniel Diaz](https://qr.ae/pG1JBR) 
 > If an air purifier suggest you should have an open window, it may be because it generates ozone.
@@ -191,3 +191,7 @@ Here are some tips to ensure [efficiency](https://qr.ae/pG1VTB) and higher filte
 * Clean the **Filter cavity** every 15 days
 
 Most air filters will have a light that goes on when the air flow is partially blocked. That’s when you change it.
+
+### do it alone
+[Smartairfilters - How to Make a DIY Air Purifier](https://smartairfilters.com/en/blog/how-to-make-diy-air-purifier/)  
+[Dynomight - A DIY air purifier that's better than a box-fan](https://dynomight.net/better-DIY-air-purifier.html)
