@@ -1,4 +1,8 @@
 ## 2021/04
+  * [The Edges of Our Universe](https://arxiv.org/abs/2104.01191)
+  * [This is the final motherfucking website](https://perfectmotherfuckingwebsite.com/)
+  * [A free/libre COBOL compiler](https://gnucobol.sourceforge.io/)
+  * [FDA approves first test of CRISPR to correct genetic defect causing sickle cell disease](https://news.berkeley.edu/2021/03/30/fda-approves-first-test-of-crispr-to-correct-genetic-defect-causing-sickle-cell-disease/)
   * [supremecourt.Google’s copying of the Java SE API was a fair use of that material](https://www.supremecourt.gov/opinions/20pdf/18-956_d18f.pdf)
     * [2](https://www.oracle.com/news/announcement/oracle-statement-regarding-oracle-v-google-040521.html)
   * [LG to open source their phones](https://www.change.org/p/lg-electronics-lg-to-open-source-their-phones-as-they-are-shutting-down-production-for-good)
