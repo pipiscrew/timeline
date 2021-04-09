@@ -118,7 +118,11 @@ Even the best ionisers will also **produce** a small amount of **ozone**. At hig
 [Studies](http://www.arb.ca.gov/research/indoor/esp_report.pdf) have found that ionizing air cleaners typically emit between **0.5 and 0.4 mg** of ozone per hour. The FDA ozone emission limit is **50ppb**, and most air cleaners average an emission rate between **20 and 30 ppb**, so they're within the safe level as defined by the FDA. There is a caveat, however. Ozone interacts with home appliances, thus leading to higher ozone levels. [source](https://www.greenbuildermedia.com/iaq/blog/do-ionizing-air-cleaners-work)
 
 
-
+|                                       | Teqoya 200 | Teqoya 450 | ionbox | Rohnson R-9460 | Sharp Plasmacluster |
+|---------------------------------------|------------|------------|--------|----------------|---------------------|
+| Area                                  | 30m2       | 50m2       | 30m2   | 30m2           |                     |
+| Negative Ions / second                | 1500b      | 3000b      | 20m    |                |                     |
+| Negative Ions / cm3 (1cm X 1cm X 1cm) | 200k       | 450k       |        | 3m             | 25k                 |
 ----------
 
 
@@ -132,8 +136,7 @@ Even the best ionisers will also **produce** a small amount of **ozone**. At hig
 
 > [2021 - Better air is the easiest way not to die](https://dynomight.net/air/)
 
-* **Sharp.Plasmacluster** - ions are made from the same type of positive and negative ions that occur in nature. (warning - expensive filters) 
-
+* **Sharp.Plasmacluster** - ions are made from the same type of positive and negative ions that occur in nature.  
 	*  [What is](https://global.sharp/pci/en/about_pci/)
 	*  [Benefits](https://global.sharp/pci/en/effect/)
 
@@ -156,7 +159,7 @@ EPA in their [Guide to Air Cleaners in the Home (2018)](https://www.epa.gov/site
 
 > [CADR Rating: Is it a Good Measure of Air Purifier Quality?](https://www.usairpurifiers.com/blog/cadr-rating-is-it-a-good-measure-of-air-purifier-quality/)
 
-
+[OMNI - Electricity Cost Calculator](https://www.omnicalculator.com/everyday-life/electricity-cost)
 
 By [Daniel Diaz](https://qr.ae/pG1JBR) 
 > If an air purifier suggest you should have an open window, it may be because it generates ozone.
