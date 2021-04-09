@@ -118,11 +118,12 @@ Even the best ionisers will also **produce** a small amount of **ozone**. At hig
 [Studies](http://www.arb.ca.gov/research/indoor/esp_report.pdf) have found that ionizing air cleaners typically emit between **0.5 and 0.4 mg** of ozone per hour. The FDA ozone emission limit is **50ppb**, and most air cleaners average an emission rate between **20 and 30 ppb**, so they're within the safe level as defined by the FDA. There is a caveat, however. Ozone interacts with home appliances, thus leading to higher ozone levels. [source](https://www.greenbuildermedia.com/iaq/blog/do-ionizing-air-cleaners-work)
 
 
-|                                       | Teqoya 200 | Teqoya 450 | ionbox | Rohnson R-9460 | Sharp Plasmacluster |
-|---------------------------------------|------------|------------|--------|----------------|---------------------|
-| Area                                  | 30m2       | 50m2       | 30m2   | 30m2           |                     |
-| Negative Ions / second                | 1500b      | 3000b      | 20m    |                |                     |
-| Negative Ions / cm3 (1cm X 1cm X 1cm) | 200k       | 450k       |        | 3m             | 25k                 |
+|                        | Teqoya 200 | Teqoya 450 | ionbox | Rohnson R-9460 | Sharp Plasmacluster |
+|------------------------|------------|------------|--------|----------------|---------------------|
+| Area                   | 30m2       | 50m2       | 30m2   | 30m2           |                     |
+| Negative Ions / second | 1500b      | 3000b      | 20m    |                |                     |
+| Negative Ions / cm3    | 200k       | 450k       |        | 3m             | 25k                 |  
+
 ----------
 
 
