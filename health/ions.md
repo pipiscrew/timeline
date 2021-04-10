@@ -57,6 +57,7 @@ They are **statically attracted** to airborne **particles** like dust, mold spor
 * [himalayan salt lamp](https://www.amazon.com/dp/B07BC6KZ2V)
 * [indoor water fountain](https://www.amazon.com/dp/B07JZF5F67)
 * Various grounding systems are available that enable frequent contact with the Earth, such as while sleeping, sitting at a computer, or walking outdoors. These are simple **conductive** systems in the form of sheets, mats, wrist or ankle bands, adhesive patches that can be used inside the home or office, and footwear. These applications are connected to the Earth via a cord inserted into a grounded wall outlet..... [read more](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4378297/)
+* Take a [shower](https://www.marksdailyapple.com/negative-ions-health/). The closest thing many of us get to moving water is our regular showers. And that’s not so bad. Moving water is moving water, and showers do a good job of producing negative ions in their own right.
 
 [source Holisticlakewood - Negative Is Positive](https://holisticlakewood.com/when-a-negative-is-positive/) ([mirror](https://www.dropbox.com/s/0lv03poefjogeeq/Holisticlakewood%20-%20Negative%20Is%20Positive.pdf?dl=1))
 
@@ -117,6 +118,11 @@ Even the best ionisers will also **produce** a small amount of **ozone**. At hig
 
 [Studies](http://www.arb.ca.gov/research/indoor/esp_report.pdf) have found that ionizing air cleaners typically emit between **0.5 and 0.4 mg** of ozone per hour. The FDA ozone emission limit is **50ppb**, and most air cleaners average an emission rate between **20 and 30 ppb**, so they're within the safe level as defined by the FDA. There is a caveat, however. Ozone interacts with home appliances, thus leading to higher ozone levels. [source](https://www.greenbuildermedia.com/iaq/blog/do-ionizing-air-cleaners-work)
 
+At the **base** of **Niagara Falls**, the negative ion count can be measured up to **30,000 to 100,000** negative ions per cubic centimeter. In office buildings and urban environments, the negative ion count can be anywhere from zero to only a few hundred per cubic centimeter. [source](https://archive.naplesnews.com/community/on-the-trail-wind-waves-and-water-ep-406096312-333227891.html/)
+
+The WHO recommends not less than **1,500** negative ions per cm3, and ideally at least 1,800 per cc.  Urban air typically measures far below the recommended levels, with Los Angeles, for example, measuring in the **neighborhood of 80 negative ions** per cm3. [source](https://www.youtube.com/watch?v=0vCjWn6DpzI)
+
+[How Ions Affect the Structure of Water](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1513647/#S3title)
 
 |                        | Teqoya 200 | Teqoya 450 | ionbox | Rohnson R-9460 | Sharp Plasmacluster |
 |------------------------|------------|------------|--------|----------------|---------------------|
@@ -197,5 +203,17 @@ Here are some tips to ensure [efficiency](https://qr.ae/pG1VTB) and higher filte
 Most air filters will have a light that goes on when the air flow is partially blocked. That’s when you change it.
 
 ### do it alone
-[Smartairfilters - How to Make a DIY Air Purifier](https://smartairfilters.com/en/blog/how-to-make-diy-air-purifier/)  
-[Dynomight - A DIY air purifier that's better than a box-fan](https://dynomight.net/better-DIY-air-purifier.html)
+* [Smartairfilters - How to Make a DIY Air Purifier](https://smartairfilters.com/en/blog/how-to-make-diy-air-purifier/)  
+* [Dynomight - A DIY air purifier that's better than a box-fan](https://dynomight.net/better-DIY-air-purifier.html)
+* [Make An Ioniser](http://www.bigclive.com/ioniser.htm)
+	* [EEVblog Electronics Community Forum](https://www.eevblog.com/forum/projects/negative-ions-anions-room-generators/)
+
+### fountain
+
+The more [disturbance](http://www.photographers-resource.co.uk/locations/nature/Waterfalls/Waterfall_health.htm) there is in the water the more you find **produced**, so while a garden pond fountain or stream may produce some, the more impressive the waterfall is, the more likely it is that you will feel the affect. Some people are able to feel this affect directly while it affects everyone who is nearby although they may not be able to feel it directly. In some European countries, some institutions like hospitals are required to ionize their air. 
+
+* [blumfeldt - Imperia garden fountain](https://www.blumfeldt.cz/Imperia-zahradni-fontana-vnitrni-vnejsi-prostredi-10-W-cerpadlo-10-m-kabel-pozinkovana.html)
+* [blumfeldt - Raincastle Garden Fountain](https://www.blumfeldt.cz/Raincastle-zahradni-fontana-12-LEDek-pumpa-8-W-PX8-Loopflow-Concept.html) 
+* [ibergarden - Garden fountain Resin](https://shoppino.gr/%CE%B4%CE%B9%CE%B1%CE%BA%CE%BF%CF%83%CE%BC%CE%B7%CF%84%CE%B9%CE%BA%CE%AC-%CE%BA%CE%AE%CF%80%CE%BF%CF%85/553418-%CF%83%CF%85%CE%BD%CF%84%CF%81%CE%B9%CE%B2%CE%AC%CE%BD%CE%B9-%CE%BA%CE%AE%CF%80%CE%BF%CF%85-%CF%81%CE%B7%CF%84%CE%AF%CE%BD%CE%B7-8430852768872.html)
+	* [2](https://www.fruugo.cz/garden-fountain-resin/p-53571662-108005225)
+

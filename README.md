@@ -1,4 +1,12 @@
 ## 2021/04
+  * [Et tu, Procter & Gamble? - P&G Worked With China Trade Group on Tech to Sidestep Apple Privacy Rules](https://daringfireball.net/2021/04/et_tu_procter_gamble)
+    * [2](https://apple.news/ALxtnAojhRVyEKpyhNKX6Hw)
+  * [Meet the patent troll that won a $308 million jury trial against Apple](https://www.letterspatent.org/p/meet-the-patent-troll-that-won-a)
+  * [uBlock Origin works best on Firefox](https://github.com/gorhill/uBlock/wiki/uBlock-Origin-works-best-on-Firefox)
+  * [New generation of webcam?](https://www.youtube.com/watch?v=JMxr8Nq-w_w)
+  * [Fly - Docker without Docker](https://fly.io/blog/docker-without-docker/)
+  * [How a Carnivorous Mushroom Poisons Its Prey](https://www.scientificamerican.com/article/how-a-carnivorous-mushroom-poisons-its-prey/)
+  * [Pierre Fabre hit with $25 million ransomware attack](https://www.bleepingcomputer.com/news/security/leading-cosmetics-group-pierre-fabre-hit-with-25-million-ransomware-attack/)
   * [The Edges of Our Universe](https://arxiv.org/abs/2104.01191)
   * [This is the final motherfucking website](https://perfectmotherfuckingwebsite.com/)
   * [A free/libre COBOL compiler](https://gnucobol.sourceforge.io/)
