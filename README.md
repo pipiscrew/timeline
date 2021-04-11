@@ -1,4 +1,12 @@
 ## 2021/04
+  * [Photopea (free alternative to Photoshop, online) - runs completely in your computer (after Photopea.com loads, you can disconnect from the internet and use it offline) - yeah old shit](https://www.photopea.com/)
+    * [2](https://www.reddit.com/r/IAmA/comments/i8j5te/i_made_a_free_alternative_to_photoshop_that_is/g18ush0/)
+  * [Clubhouse data leak: 1.3 million user records leaked online](https://cybernews.com/security/clubhouse-data-leak-1-3-million-user-records-leaked-for-free-online/)
+  * [Squirrelbyte - a SQLite-based JSON document server](https://squirrelbyte.com/)
+  * [Alibaba slapped with record $2.7B antitrust fine](https://www.zdnet.com/article/alibaba-slapped-with-record-2-7b-antitrust-fine/)
+  * [Brave disables Chromium FLoC features](https://github.com/brave/brave-core/pull/8468)
+  * [The Untold Story Of Larry Page's Incredible Comeback](https://www.businessinsider.com/larry-page-the-untold-story-2014-4)
+  * [dont forget the shit.Gradle 7.0 Released](https://docs.gradle.org/7.0/release-notes.html)
   * [Et tu, Procter & Gamble? - P&G Worked With China Trade Group on Tech to Sidestep Apple Privacy Rules](https://daringfireball.net/2021/04/et_tu_procter_gamble)
     * [2](https://apple.news/ALxtnAojhRVyEKpyhNKX6Hw)
   * [Meet the patent troll that won a $308 million jury trial against Apple](https://www.letterspatent.org/p/meet-the-patent-troll-that-won-a)

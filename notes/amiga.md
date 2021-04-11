@@ -18,7 +18,10 @@
 * [News for Amiga](http://www.generationamiga.com/)
 * [The global map of all known Amiga](https://amigamap.com/)
 * [Why was the Kickstart 1.x “Insert floppy” graphic so bad?](https://retrocomputing.stackexchange.com/questions/13897/why-was-the-kickstart-1-x-insert-floppy-graphic-so-bad/13901)
-* [Big Book of Amiga Hardware](https://bigbookofamigahardware.com)  
+* [Big Book of Amiga Hardware](https://bigbookofamigahardware.com) 
+* [MiSTer: An Amiga FPGA Super-Computer](https://www.youtube.com/watch?v=bigaln3swU8)
+	* [2](https://github.com/MiSTer-devel/Main_MiSTer/wiki)
+	* [3](https://github.com/MiSTer-devel/Main_MiSTer/wiki/Setup-Guide)
 
 
 ## repos
