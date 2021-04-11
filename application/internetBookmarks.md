@@ -20,6 +20,7 @@
 * (client side) [JPEG.rocks](https://jpeg.rocks/)  
 * (client side) [Local PDF Tools](https://localpdf.tech/)
 * (client side) [BulkResize photos](https://bulkresizephotos.com/en)
+* (client side) [Photopea](https://www.photopea.com/) - Online Photoshop
 * [DocTranslator](https://www.onlinedoctranslator.com/en/translationform) - Translate PDF and outputs PDF, at the moment Yandex / Google cant do this.
 * (russian) [Yandex.Translate](https://translate.yandex.com/)
 * (russian) [Yandex.Disk](https://disk.yandex.com/) - Store files online

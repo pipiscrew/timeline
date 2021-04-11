@@ -9,7 +9,7 @@ Negative ions are in the air that we breathe as well as in our bodies. They **ne
 In our daily lives, we can directly experience the electricity of ions in the air in the form of static electricity - especially in winter, when the **air is dry**. Static is caused by a **high ratio of positive** to negative ions because of a **lack** of moisture in the air.
 
 
-## positive ions  
+## positive ions (cations)  
 
 Are **small molecules** that have gained a positive charge. Most forms of pollution  
 
@@ -32,7 +32,8 @@ Having (inhale) high levels of positive ions in the environment can lead to a **
 * nausea
 * vertigo
 
-## negative ions
+## negative ions (anions)  
+
 Are the **opposite** of positive ions and they have the opposite effect on your **health**, mood, and energy levels.
 
 We **inhale** negative ions in environments such as
