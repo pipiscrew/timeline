@@ -204,6 +204,18 @@ Before push dbase to heroku, mostly needed to fix links point to **C:\nginx\html
 ```javascript
     a)
     update w_posts set 
+      post_content = replace(post_content, 'www.pipiscrew.com', 'test.heroku.com')
+    where
+      post_content like '%www.pipiscrew.com%';
+    
+    
+    update w_posts set 
+      guid = replace(guid, 'www.pipiscrew.com', 'test.heroku.com')
+    where
+      guid like '%www.pipiscrew.com%'; 
+
+    b)
+    update w_posts set 
       post_content = replace(post_content, 'pipiscrew.com', 'test.heroku.com')
     where
       post_content like '%pipiscrew.com%';
@@ -213,17 +225,7 @@ Before push dbase to heroku, mostly needed to fix links point to **C:\nginx\html
     where
       guid like '%pipiscrew.com%';    
     
-    b)
-    update w_posts set 
-      post_content = replace(post_content, 'www.pipiscrew.com', 'test.heroku.com')
-    where
-      post_content like '%www.pipiscrew.com%';
-    
-    
-    update w_posts set 
-      guid = replace(guid, 'www.pipiscrew.com', 'test.heroku.com')
-    where
-      guid like '%www.pipiscrew.com%';  
+ 
 ```  
 
 
