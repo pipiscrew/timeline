@@ -22,6 +22,8 @@
 * [MiSTer: An Amiga FPGA Super-Computer](https://www.youtube.com/watch?v=bigaln3swU8)
 	* [2](https://github.com/MiSTer-devel/Main_MiSTer/wiki)
 	* [3](https://github.com/MiSTer-devel/Main_MiSTer/wiki/Setup-Guide)
+	* [Minimig](https://github.com/MiSTer-devel/Minimig-AGA_MiSTer)
+	* [Minimig2](http://www.acube-systems.biz/index.php?page=hardware&pid=3)
 
 
 ## repos
