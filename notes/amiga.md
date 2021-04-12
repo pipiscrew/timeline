@@ -24,6 +24,7 @@
 	* [3](https://github.com/MiSTer-devel/Main_MiSTer/wiki/Setup-Guide)
 	* [Minimig](https://github.com/MiSTer-devel/Minimig-AGA_MiSTer)
 	* [Minimig2](http://www.acube-systems.biz/index.php?page=hardware&pid=3)
+	* [Minimig3 Wikipedia](https://en.wikipedia.org/wiki/Minimig)
 
 
 ## repos

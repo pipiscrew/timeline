@@ -174,7 +174,8 @@ By [Daniel Diaz](https://qr.ae/pG1JBR)
 If there is a metallic smell lingering in the room with a purifier on, that might be ozone. 
 
 Air purifier with window open ?  
-> It's a waste - similar to keep your windows wide open while your airconditioner or heating system is running. Or keeping your fridge door wide open. Basically the constant draft of air will bring the 'unpurified' air back into your room at a faster rate then the unit purifing the air. Ideally the room should be closed so that it can work effectively
+> It's a waste - similar to keep your windows wide open while your airconditioner or heating system is running. Or keeping your fridge door wide open. Basically the constant draft of air will bring the 'unpurified' air back into your room at a faster rate then the unit purifying the air. Ideally the room should be closed so that it can work effectively.
+> Of course the air should be recycled 1-2 times / day, when cooking always open the window!!
 
 
 How long can you run an air purifier before [changing](https://qr.ae/pG1VIJ) the filter?  
