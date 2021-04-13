@@ -24,6 +24,7 @@
 * [DocTranslator](https://www.onlinedoctranslator.com/en/translationform) - Translate PDF and outputs PDF, at the moment Yandex / Google cant do this.
 * (russian) [Yandex.Translate](https://translate.yandex.com/)
 * (russian) [Yandex.Disk](https://disk.yandex.com/) - Store files online
+* [A Pastebin for Resources](https://shelf.gg/)
 
 ## videos
 * [Invidious](https://invidious.snopyta.org/feed/popular)

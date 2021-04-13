@@ -54,3 +54,4 @@ Type : Aerobic
 * [Don’t Underestimate the Power of a Walk](https://hbr.org/2021/02/dont-underestimate-the-power-of-a-walk)  
 * [Why Walking Helps Us Think](https://www.newyorker.com/tech/annals-of-technology/walking-helps-us-think)  
 * [Walking improves creativity](https://news.stanford.edu/2014/04/24/walking-vs-sitting-042414/)
+* [The benefits of walking and how to get the most out of it](https://www.cbc.ca/life/wellness/the-benefits-of-walking-and-how-to-get-the-most-out-of-it-1.5145418)
