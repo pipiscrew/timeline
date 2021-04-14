@@ -131,6 +131,9 @@ The WHO recommends not less than **1,500** negative ions per cm3, and ideally at
 | Negative Ions / second | 1500b      | 3000b      | 20m    |                |                     |
 | Negative Ions / cm3    | 200k       | 450k       |        | 3m             | 25k                 |  
 
+
+[How Negative Ion Products, Which Claim To Have Health Benefits, Are Actually Radioactive](https://www.youtube.com/watch?v=C7TwBUxxIC0) 
+
 ----------
 
 

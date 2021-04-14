@@ -9,6 +9,12 @@
 * (greek) [bibliographic records](https://opac.seab.gr/*eng)
 * [Z-Library](https://z-lib.org/) - 6.5m ebooks
 * [Morioh](https://morioh.com/topics) - Social network for programmers and developers
+* [Deephn search 30M Hacker news posts](https://deephn.org) ([ref](https://news.ycombinator.com/item?id=26791582))
+
+## translators
+* [DocTranslator](https://www.onlinedoctranslator.com/en/translationform) - Translate PDF and outputs PDF, at the moment Yandex / Google cant do this.
+* (russian) [Yandex.Translate](https://translate.yandex.com/)
+* [DeepL](https://www.deepl.com/translator) supports docx + pptx
 
 ## excel / csv
 * [Excel to HTML Table Converter](http://pressbin.com/tools/excel_to_html_table/index.html)
@@ -21,8 +27,6 @@
 * (client side) [Local PDF Tools](https://localpdf.tech/)
 * (client side) [BulkResize photos](https://bulkresizephotos.com/en)
 * (client side) [Photopea](https://www.photopea.com/) - Online Photoshop
-* [DocTranslator](https://www.onlinedoctranslator.com/en/translationform) - Translate PDF and outputs PDF, at the moment Yandex / Google cant do this.
-* (russian) [Yandex.Translate](https://translate.yandex.com/)
 * (russian) [Yandex.Disk](https://disk.yandex.com/) - Store files online
 * [A Pastebin for Resources](https://shelf.gg/)
 
