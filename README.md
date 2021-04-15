@@ -1,4 +1,7 @@
 ## 2021/04
+  * [Reuters website goes behind paywall in new strategy](https://www.reuters.com/article/us-thomson-reuters-professional-website/reuters-website-goes-behind-paywall-in-new-strategy-idUSKBN2C21QU)
+  * [Facebook content moderator quit with a blistering internal note](https://twitter.com/rmac18/status/1382366931307565057)
+  * [bash - Run unknown shell script with a line-by-line confirmation prompt](https://gist.github.com/wlib/093f8b8f670016813073a4c4f8b28e81)
   * [Open Source Note Taking Apps](https://lonm.vivaldi.net/2021/04/05/open-source-note-taking-apps/)
   * [High quality audio makes you sound smarter](https://tips.ariyh.com/p/good-sound-quality-smarter)
   * [Don't Use Google Chrome](https://spreadprivacy.com/block-floc-with-duckduckgo/)
