@@ -28,7 +28,7 @@
 * (client side) [BulkResize photos](https://bulkresizephotos.com/en)
 * (client side) [Photopea](https://www.photopea.com/) - Online Photoshop
 * (russian) [Yandex.Disk](https://disk.yandex.com/) - Store files online
-* [A Pastebin for Resources](https://shelf.gg/)
+* [shelf.gg - A Pastebin for Resources](https://shelf.gg/)
 
 ## videos
 * [Invidious](https://invidious.snopyta.org/feed/popular)

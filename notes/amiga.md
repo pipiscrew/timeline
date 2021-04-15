@@ -38,3 +38,17 @@
 
 * [steffest.Online ADF reader/writer](http://www.stef.be/adfviewer/)  
 	* [source](https://github.com/steffest/ADF-reader-writer)  
+
+
+----------
+
+extracted by [Buying a Commodore Amiga 30 Years Later](https://web.archive.org/web/20190120082034/https://www.vintagewave.net/blog/2018/11/30/buying-a-commodore-amiga-30-years-later)
+
+* [Amiga.org Forum](http://www.amiga.org/)
+* [AmiBay Forum](https://www.amibay.com/)
+* [Amiga Love](https://www.amigalove.com/)
+* [AmigaKit Store](http://amigakit.amiga.store/)
+	* [2](http://www.amigakit.com/)
+* [AmigaVideo](http://amigavideo.net/play/)
+* [FB - Viva Amiga](https://www.facebook.com/vivaamiga)
+* [From Bedroom to Billions](https://rebellion.com/films/fbtb/)
