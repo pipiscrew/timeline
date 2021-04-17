@@ -25,14 +25,19 @@
 	* [Minimig](https://github.com/MiSTer-devel/Minimig-AGA_MiSTer)
 	* [Minimig2](http://www.acube-systems.biz/index.php?page=hardware&pid=3)
 	* [Minimig3 Wikipedia](https://en.wikipedia.org/wiki/Minimig)
-
+* [Jimmy Maher - The Future Was Here: The Commodore Amiga](http://amiga.filfre.net/?page_id=15)
+* [Jimmy Maher - The Digital Antiquarian](https://www.filfre.net/the-digital-antiquarian-e-book-library/)
+* [Jimmy Maher - The 68000 Wars, Part 3: We Made Amiga, They Fucked It Up](https://www.filfre.net/2015/04/the-68000-wars-part-3-we-made-amiga-they-fucked-it-up/)
+	* [Part 2](https://www.filfre.net/2015/04/the-68000-wars-part-2-jack-is-back/)
+	* [Part 1](https://www.filfre.net/2015/03/the-68000-wars-part-1-lorraine/)
 
 ## repos
 * [Largest archive of software and files](http://aminet.net/)
 * [mirrors.pdp](https://mirrors.pdp-11.ru/)
 	* [rtk.mirrors.pdp](https://rtk.mirrors.pdp-11.ru/)
 	* [ttk.mirrors.pdp](https://ttk.mirrors.pdp-11.ru/)  
-
+* [pouet.net](https://www.pouet.net)
+* [scene.org](https://files.scene.org/)
 
 ## tools  
 
