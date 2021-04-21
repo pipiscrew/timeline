@@ -30,6 +30,7 @@
 * [Jimmy Maher - The 68000 Wars, Part 3: We Made Amiga, They Fucked It Up](https://www.filfre.net/2015/04/the-68000-wars-part-3-we-made-amiga-they-fucked-it-up/)
 	* [Part 2](https://www.filfre.net/2015/04/the-68000-wars-part-2-jack-is-back/)
 	* [Part 1](https://www.filfre.net/2015/03/the-68000-wars-part-1-lorraine/)
+* [List of modern monitors that support 15 kHz analog RGB signals](http://15khz.wikidot.com/)
 
 ## repos
 * [Largest archive of software and files](http://aminet.net/)

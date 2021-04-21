@@ -1,4 +1,6 @@
 ## 2021/04
+  * [The Spreadsheet Wars](https://www.notboring.co/p/excel-never-dies)
+  * [Taiwan Shuts Down Farms to Build More iPhones – Destruction of Food Supply](https://youtu.be/15AF_59PhRk)
   * [dont forget the shit.Visual Studio 2022](https://devblogs.microsoft.com/visualstudio/visual-studio-2022/)
   * [Is official, acquisition of ARM Limited by NVIDIA, transaction valued at approximately $40 billion](https://www.gov.uk/government/publications/proposed-acquisition-of-arm-limited-by-nvidia-corporation-public-interest-intervention)
   * [ArchiveBox - Your own personal internet archive](https://archivebox.io/)
