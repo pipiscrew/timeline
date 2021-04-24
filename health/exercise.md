@@ -64,8 +64,7 @@ Wendy Suzuki - Why your brain loves it when you exercise
 
 	* dopamine
 	* serotonin
-	* noadrenaline  
-
+	* noadrenaline (aka norepinephrine)
 * improve reaction times  
 * exercise changes the brain anatomy, physiology and function. Actually produces brand new brain cells.  
 * imporve attention function Every time you work out, your brain gets a "neurochemical bubble bath".  
@@ -75,3 +74,45 @@ Wendy Suzuki - Why your brain loves it when you exercise
 [Why your brain loves it when you exercise, plus 3 easy ways to work out at home](https://ideas.ted.com/why-your-brain-needs-you-to-exercise-plus-3-easy-ways-to-work-out-at-home/)
 
 [How can we keep our brains healthy?](https://www.ted.com/playlists/644/how_can_we_keep_our_brains_healthy)
+
+Why Morning Exercise Sets You Up for Success
+--------------------------------------------------------
+When you **elevate your heart rate** through exercise, it **increases blood flow** throughout the **body**. Your blood among other things **carries oxygen and glucose**. Oxygen and glucose are **fundamental** fuel components for most of the chemical reactions in our body. The **brain** uses **glucose** for fuel and accounts for about 20% of our daily glucose consumption, which is impressive given that the brain makes up only about 2% of our bodyweight.
+
+Increased blood flow increases oxygen delivery, which is one of the reasons you feel **clear headed after exercise**. Short story, exercise increases the **delivery** of **key nutrients** to the brain. But that isn’t the interesting part, because when you finish exercising the increased blood flow will start to decline as your heart rate returns to its baseline. The fascinating and awesome thing is what happens after you exercise.
+
+**Executive Function** is a term used by psychologists and some neuroscientists to describe **our ability to engage in goal-directed behavior**. It can be thought of as the collection of processes in your brain that **act as “CEO”** of your brain. Specifically, it covers our ability to manage and control the following things (technical terms in parentheses):
+
+* Sustained attention (Selective Attention)
+* Moving from one task to the next (Task Switching)
+* Managing our impulses (Inhibitory Control)
+* Holding information in our mind that we need to solve problems or complete tasks (Working Memory)
+* Planning and execution
+* Adaptation to new information or unfamiliar situations
+
+**Executive function** is a big deal. When it functions well you’re **better** able to make choices that align with your goals, **focus** on what’s important to you, hold your tongue when your significant other says something that upsets you, **learn** new information, and **solve** problems.
+
+When you exercise your brain both elevates and balances the levels of the **neurotransmitters** dopamine, norepinephrine, and serotonin. All three are **highly involved** in **executive function** because of their action as **regulators** of important **signaling processes** in the brain.  
+
+**Dopamine** is involved in learning, attention, and our reward system, which helps us associate goal-oriented behavior with satisfaction.  
+
+**Norepinephrine** influences attention, perception, motivation, and arousal (the technical term for being alert and able to respond).  
+
+**Serotonin** influences mood, impulsivity, anger, and aggressiveness with research pointing to it as a regulator of mental activity that gets out of balance. That means serotonin can help prevent something like depression from spiraling out-of-control.
+
+The key is that **physical** exercise elevates and balances the levels of the neurotransmitters associated with executive function. Many of the drugs psychiatrists **prescribe** work by addressing neurotransmitter levels that are either high or low. **Zoloft**, for instance, increases synaptic levels of serotonin, while **Adderall** increases levels of dopamine, norepinephrine, and epinephrine (adrenaline). The brain is a **highly interdependent system** and **when** neurotransmitter levels are **out-of-balance** cognitive function can be impaired and mood disorders can **occur**. In fact, many of the side effects from drugs **prescribed** by psychiatrists occur because in the process of elevating or suppressing a specific neurotransmitter the **overall balance** in the brain **isn’t** quite where it needs to be.
+
+> Dr. John J. Ratey said : I tell people that going for a run is like taking a little bit of Prozac and a little bit of Ritalin because, like the drugs, exercise elevates the neurotransmitters.
+
+Students that **exercise before** school **perform better** in school.
+
+Exercise also **increases** the production of a protein called brain-derived neurotrophic factor (**BDNF**). The human brain has over **85 billion neurons**, which along with glia are the cells that compose the brain. Neurons receive information from the environment, communicate changes to other neurons through electrical and chemical signals and control the body’s responses to the environment. Neurons are the “thinking” portion of the brain.
+
+**BDNF** improves the function of neurons, encourages the growth of neurons, and protects existing neurons from cell death.  
+
+[source](https://frankcdale.com/when-you-exercise-is-as-important-as-how-21191f683a03)
+
+--
+
+* [13 Benefits of Working Out in the Morning](https://www.healthline.com/health/exercise-fitness/working-out-in-the-morning)
+* [Benefits of Morning Exercises](https://www.auroramornings.com/blogs/the-matinee/best-morning-workouts)
