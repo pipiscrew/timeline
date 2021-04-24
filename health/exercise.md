@@ -55,3 +55,23 @@ Type : Aerobic
 * [Why Walking Helps Us Think](https://www.newyorker.com/tech/annals-of-technology/walking-helps-us-think)  
 * [Walking improves creativity](https://news.stanford.edu/2014/04/24/walking-vs-sitting-042414/)
 * [The benefits of walking and how to get the most out of it](https://www.cbc.ca/life/wellness/the-benefits-of-walking-and-how-to-get-the-most-out-of-it-1.5145418)
+
+
+Wendy Suzuki - Why your brain loves it when you exercise
+--------------------------------------------------------
+
+* increase levels of neurotransmitters :  
+
+	* dopamine
+	* serotonin
+	* noadrenaline  
+
+* improve reaction times  
+* exercise changes the brain anatomy, physiology and function. Actually produces brand new brain cells.  
+* imporve attention function Every time you work out, your brain gets a "neurochemical bubble bath".  
+
+[TED video](https://www.ted.com/talks/wendy_suzuki_the_brain_changing_benefits_of_exercise)
+
+[Why your brain loves it when you exercise, plus 3 easy ways to work out at home](https://ideas.ted.com/why-your-brain-needs-you-to-exercise-plus-3-easy-ways-to-work-out-at-home/)
+
+[How can we keep our brains healthy?](https://www.ted.com/playlists/644/how_can_we_keep_our_brains_healthy)

@@ -22,6 +22,9 @@ test browser [permissions](https://permission.site/).
 
 **Mozilla.Firefox** v86 Introduces [Total Cookie Protection](https://blog.mozilla.org/security/2021/02/23/total-cookie-protection/) (you have to enable **strict mode** on privacy setings)  
 **Mozilla.Firefox** v87 Introduces [SmartBlock](https://blog.mozilla.org/security/2021/03/23/introducing-smartblock/) (NoScript and uBlock Origin teams helping this approach)
+**Mozilla.Firefox** v88 isolates [window.name](https://www.mozilla.org/en-US/firefox/88.0/releasenotes/) data
+
+get latest [here](https://www.mozilla.org/en-US/firefox/all/#product-desktop-release).
 
 addons :
 
@@ -30,6 +33,7 @@ addons :
 
 Chrome.[Tampermonkey](https://chrome.google.com/webstore/detail/tampermonkey-beta/gcalenpjmijncebpfijmoaglllgpjagf) / Firefox.[Greasemonkey](https://addons.mozilla.org/en-US/firefox/addon/greasemonkey/) -- [Youtube - dismiss sign-in script](https://greasyfork.org/de/scripts/412178-youtube-dismiss-sign-in)
 
+[SponsorBlock](https://sponsor.ajay.app/) - Blocking Unwanted YouTube Video Segments.
 
 ## Minimal Browser
 * [NetSurf](https://www.netsurf-browser.org/)
