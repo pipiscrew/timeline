@@ -27,7 +27,7 @@
 - Potato
 - Paprika Pepper
 - Cauliflower
-- Ginger
+- Tomato
 
 ----------
 - Dark chocolate (>= 70%)
@@ -39,6 +39,7 @@
 - Pine Honey (no sugar)
 - Hummus
 - Tempeh
+- Ginger
 
 ----------
 - Quinoa
