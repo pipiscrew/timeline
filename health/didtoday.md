@@ -55,11 +55,12 @@
 - Tempeh (aka soybeans)
 
 ----------
+- Tahini
+- Peanut Butter
+- Hummus
+
+----------
 - Ginger
 - Oolong Tea (aka Da Hong Pao / Tai Wan Gao Shan Oolong / Tie Guan Yin)
 - Coffee 100% Arabica
 
-----------
-- Tahini
-- Peanut Butter
-- Hummus

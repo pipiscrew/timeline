@@ -28,5 +28,5 @@
 	* [dirty electricity](/health/dirty.md)
 	* [ions](/health/ions.md) 
 	* [water](/health/water.md)
-	* [did i eat today](/health/eatoday.md)
+	* [did i today](/health/didtoday.md)
 	* [articles](/health/articles.md)
