@@ -67,7 +67,7 @@ Wendy Suzuki - Why your brain loves it when you exercise
 	* noadrenaline (aka norepinephrine)
 * improve reaction times  
 * exercise changes the brain anatomy, physiology and function. Actually produces brand new brain cells.  
-* imporve attention function Every time you work out, your brain gets a "neurochemical bubble bath".  
+* improve attention function Every time you work out, your brain gets a "neurochemical bubble bath".  
 
 [TED video](https://www.ted.com/talks/wendy_suzuki_the_brain_changing_benefits_of_exercise)
 
