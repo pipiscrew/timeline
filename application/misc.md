@@ -136,6 +136,7 @@
 * [rtt.r-studio](https://www.r-studio.com/) - raw read / copy content
 * [dos.TestDisk](https://www.cgsecurity.org/wiki/TestDisk_Step_By_Step) - raw read / recovery partition table (no UEFI support)
 * [dos.Abstradrome.HDD Regenerator 2011](http://www.abstradrome.com/) - raw read / repair bad sectors (magnetic errors) (no UEFI support)
+* [CrystalDiskInfo](https://crystalmark.info/en/) - HDD Life report (on external HDD, give attention to Reallocated Sectors Count (raw value))
 
 > Reminder : Windows 10 requires **UEFI** boot and by BIOS you adjust also the **Secure Boot**. 
 
