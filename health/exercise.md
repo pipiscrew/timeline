@@ -116,3 +116,5 @@ Exercise also **increases** the production of a protein called brain-derived neu
 
 * [13 Benefits of Working Out in the Morning](https://www.healthline.com/health/exercise-fitness/working-out-in-the-morning)
 * [Benefits of Morning Exercises](https://www.auroramornings.com/blogs/the-matinee/best-morning-workouts)
+*	[Exercise boosts blood flow to the brain](https://www.eurekalert.org/pub_releases/2021-03/usmc-ebb032321.php)
+*	[Excessive exercise training causes mitochondrial functional impairment and decreases glucose tolerance](https://www.sciencedirect.com/science/article/abs/pii/S1550413121001029)

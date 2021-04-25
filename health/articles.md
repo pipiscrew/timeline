@@ -3,8 +3,6 @@
 *	[New drug to regenerate lost teeth: scientists from Japan](https://www.u-fukui.ac.jp/en-news/67075/)
 *	[Eat me: The cell signal of death](https://www.eurekalert.org/pub_releases/2021-03/ku-emt032421.php)
 *	[Making honey without bees and milk without cows](https://www.bbc.com/news/business-56154143)
-*	[Exercise boosts blood flow to the brain](https://www.eurekalert.org/pub_releases/2021-03/usmc-ebb032321.php)
-*	[Excessive exercise training causes mitochondrial functional impairment and decreases glucose tolerance](https://www.sciencedirect.com/science/article/abs/pii/S1550413121001029)
 *	[Eating before 8:30 am could reduce risk factors for type 2 diabetes](https://www.eurekalert.org/pub_releases/2021-03/tes-eb8031521.php)
 *	[UCSF Study Finds Evidence of 55 Chemicals Never Before Reported in People](https://www.ucsf.edu/news/2021/03/420061/ucsf-study-finds-evidence-55-chemicals-never-reported-people)
 *	[94% of older adults prescribed drugs that raise risk of falling](http://www.buffalo.edu/news/releases/2021/03/014.html)
