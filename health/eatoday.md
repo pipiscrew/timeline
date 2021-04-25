@@ -1,10 +1,12 @@
 - Egg
 - Banana
-- Apple  
+- Apple
+- Orange
+
 ----------
 - Oregano
 - Marjoram
-- cinnamon
+- Cinnamon
 - 4 Pepper Mix
 - Himalayan salt
 - Kucharek  
@@ -30,18 +32,6 @@
 - Tomato
 
 ----------
-- Dark chocolate (>= 70%)
-- Hummingbird cake
-- Oat
-- Seeds and nuts
-- Tahini
-- Peanut butter
-- Pine Honey (no sugar)
-- Hummus
-- Tempeh
-- Ginger
-
-----------
 - Quinoa
 - Basmati rice
 - Whole grain spaghetti w/ quinoa
@@ -52,5 +42,24 @@
 - Beans w/ rice + quinoa
 
 ----------
-- Olive oil
+- Olive Oil
 - Vinegar
+- Sunflower Oil
+
+----------
+- Dark Chocolate (>= 70%)
+- Hummingbird Cake
+- Oat
+- Seeds and Nuts (Chia / Pistachio etc.)
+- Pine Honey (no sugar)
+- Tempeh (aka soybeans)
+
+----------
+- Ginger
+- Oolong Tea (aka Da Hong Pao / Tai Wan Gao Shan Oolong / Tie Guan Yin)
+- Coffee 100% Arabica
+
+----------
+- Tahini
+- Peanut Butter
+- Hummus
