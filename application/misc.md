@@ -131,7 +131,7 @@
 
 ## Drive Recovery
 * [rtt.r-studio](https://www.r-studio.com/) - best option to recover data, raw read / copy content.
-* [Hard Disk Sentinel](https://www.hdsentinel.com/forum/viewtopic.php?t=11155) - awesome, expect the monitoring, when there is a bad sector, moved to spare area. Very useful when the disk has bad sector on [0 track](https://github.com/pipiscrew/timeline/blob/main/assets/hdd_sentinel.jpg) and none of other apps can read it.
+* [Hard Disk Sentinel](https://www.hdsentinel.com/forum/viewtopic.php?t=11155) - awesome, expect the monitoring, when there is a bad sector, moved to spare area. Very useful when the disk has bad sector on [0 track](https://github.com/pipiscrew/timeline/blob/main/assets/hdd_sentinel.jpg) and none of other apps can read it. [Extra - Isolating bad/damaged sectors of a HDD](https://www.hdsentinel.com/forum/viewtopic.php?f=32&t=12784).
 * [MiniTool Partition Wizard](https://www.partitionwizard.com/) - when others cant do it.
 * [Eassos.DiskGenius](https://www.diskgenius.com/) (ex PartitionGuru) - raw read / recovery [partition table](https://www.diskgenius.com/manual/partition-recovery.php) / rebuild [MBR](https://www.diskgenius.com/manual/rebuild-mbr.php) / copy content  
 	* when you plug the device, the application looks frozen, be patience (~10m).
