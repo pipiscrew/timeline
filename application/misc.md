@@ -130,10 +130,12 @@
 * [Symantec.Norton Ghost](http://www.oldversion.com/windows/norton-ghost-15-0)
 
 ## Drive Recovery
+* [rtt.r-studio](https://www.r-studio.com/) - best option to recover data, raw read / copy content.
+* [Hard Disk Sentinel](https://www.hdsentinel.com/forum/viewtopic.php?t=11155) - awesome, expect the monitoring when there is a bad track moved to spare area. Very useful when the disk has bad track on 0 sector and none of other apps can read it.
+* [MiniTool Partition Wizard](https://www.partitionwizard.com/) - when others cant do it.
 * [Eassos.DiskGenius](https://www.diskgenius.com/) (ex PartitionGuru) - raw read / recovery [partition table](https://www.diskgenius.com/manual/partition-recovery.php) / rebuild [MBR](https://www.diskgenius.com/manual/rebuild-mbr.php) / copy content  
 	* when you plug the device, the application looks frozen, be patience (~10m).
 	* when trying to copy files and get 'not registered(0000059d)', is because the software is not registered.
-* [rtt.r-studio](https://www.r-studio.com/) - raw read / copy content
 * [dos.TestDisk](https://www.cgsecurity.org/wiki/TestDisk_Step_By_Step) - raw read / recovery partition table (no UEFI support)
 * [dos.Abstradrome.HDD Regenerator 2011](http://www.abstradrome.com/) - raw read / repair bad sectors (magnetic errors) (no UEFI support)
 * [win.Abstradrome.Repartition Bad Drive](http://www.dposoft.net/rbd.html) - isolate unrecoverable bad sectors from partitions
