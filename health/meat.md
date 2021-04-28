@@ -38,7 +38,7 @@ Even **clean pork meat** from the rest of the pork, can have up to **30% fat** b
 * Around 20 grams carbs  
 * between 10- 30 grams fat  
 
-> **Creatine** = There are 4 grams of it in any **kg** of good meat.  
+> **Creatine** = There are 4 grams of it in any **kg** of good meat.   [Creatine Enhances Energy Production](https://www.healthline.com/nutrition/creatine-for-muscle-and-strength) | always choose Creatine Monohydrate as supplement | [study](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4304302/)
 
 > **Collagen** is good, but our body **produce it's own**... As food, almost have no value and is **hardly absorbable**.
 

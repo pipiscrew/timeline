@@ -140,6 +140,7 @@
 * [dos.Abstradrome.HDD Regenerator 2011](http://www.abstradrome.com/) - raw read / repair bad sectors (magnetic errors) (no UEFI support)
 * [win.Abstradrome.Repartition Bad Drive](http://www.dposoft.net/rbd.html) - isolate unrecoverable bad sectors from partitions
 * [CrystalDiskInfo](https://crystalmark.info/en/) - HDD Life report (on external HDD, give attention to [Reallocated Sectors Count](https://github.com/pipiscrew/timeline/blob/main/assets/hdd_reallocated_sectors_count.jpg) (raw value))
+* [HDDGuru.HDD Low Level Format Tool](https://hddguru.com/) - format when others cannot.
 
 > Reminder : Windows 10 requires **UEFI** boot and by BIOS you adjust also the **Secure Boot**. 
 
