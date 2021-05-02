@@ -23,7 +23,8 @@
 * [Excel To Json Converter](https://beautifytools.com/excel-to-json-converter.php)  
 
 ## images / documents
-* (client side) [JPEG.rocks](https://jpeg.rocks/)  
+* (client side) [JPEG.rocks](https://jpeg.rocks/) for image
+* [Squoosh](https://squoosh.app) for image
 * (client side) [Local PDF Tools](https://localpdf.tech/)
 * (client side) [BulkResize photos](https://bulkresizephotos.com/en)
 * (client side) [Photopea](https://www.photopea.com/) - Online Photoshop
