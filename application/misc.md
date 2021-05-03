@@ -46,6 +46,7 @@
 * [UltraFileSearch](https://www.ultrafilesearch.com/)
 * [grepWin](https://github.com/stefankueng/grepWin) (search inside files also offers replace)
 * [Funduc.Search and Replace](https://www.funduc.com/search_replace.htm)  (search inside files also offers replace)
+* search content of files via dos `findstr /msi test *.*` [more](https://docs.microsoft.com/en-us/windows-server/administration/windows-commands/findstr)
 
 ## Text Editors
 * [Notepad++](https://notepad-plus-plus.org/)
