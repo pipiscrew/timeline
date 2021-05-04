@@ -91,6 +91,8 @@
 * [Webamp](https://webamp.org/) - Winamp like
 	* [Butterchurn](https://github.com/jberg/butterchurn)
 	* [Speeding Up Webamp's Music Visualizer with WebAssembly](https://jordaneldredge.com/blog/speeding-up-winamps-music-visualizer-with-webassembly/)
+* [francescogiovannini2](https://francescogiovannini2.blogspot.com) - playlists 
+	* [2](https://www.mixcloud.com/francescogiovannini/)
 
 ## search engines
 * (france) [Qwant](https://www.qwant.com/)
