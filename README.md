@@ -56,7 +56,8 @@
   * [Facebook Reports First Quarter 2021 Results](https://s21.q4cdn.com/399680738/files/doc_financials/2021/FB-03.31.2021-Exhibit-99.1_Final.pdf)
   * [Apple Reports Second Quarter Results](https://www.apple.com/newsroom/2021/04/apple-reports-second-quarter-results/)
   * [Ignoring Docker updates is a paid feature now](https://twitter.com/moyix/status/1388586550682861568)
-    * [2](https://docker.com/blog/changing-how-updates-work-with-docker-desktop-3-3/)
+    * [2](https://docker.com/blog/changing-how-updates-work-with-docker-desktop-3-3/)  
+
 ## 2021/04
   * [Boxedwine is an emulator that can run Windows applications in the browser](https://github.com/danoon2/Boxedwine)
   * [Rust Language Cheat Sheet](https://cheats.rs/)
@@ -264,7 +265,7 @@
   * [Speeding Up Webamp's Music Visualizer with WebAssembly](https://jordaneldredge.com/blog/speeding-up-winamps-music-visualizer-with-webassembly/)
     * [2](https://webamp.org/)
     * [3](https://butterchurnviz.com/)
-  * [Linux Containers Online](https://linuxcontainers.org/lxd/try-it/)
+  * [Linux Containers Online](https://linuxcontainers.org/lxd/try-it/)  
 
 ## 2021/03
   * [mitmproxy HTTPS proxy - again!](https://mitmproxy.org/)
