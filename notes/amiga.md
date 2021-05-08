@@ -33,6 +33,10 @@
 	* [Part 2](https://www.filfre.net/2015/04/the-68000-wars-part-2-jack-is-back/)
 	* [Part 1](https://www.filfre.net/2015/03/the-68000-wars-part-1-lorraine/)
 * [List of modern monitors that support 15 kHz analog RGB signals](http://15khz.wikidot.com/)
+* [2019 Vampire V4](https://www.forbes.com/sites/marcochiappetta/2019/10/22/the-next-generation-amiga-that-never-materialized-just-went-up-for-pre-order)
+	* [homepage](http://apollo-core.com/knowledge.php?b=1&note=23461)
+	* [unpacking](https://youtu.be/YRr74v2tPzM?t=381)
+
 
 ## repos
 * [Largest archive of software and files](http://aminet.net/)
