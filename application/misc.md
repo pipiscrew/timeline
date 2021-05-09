@@ -161,3 +161,7 @@ The sequence is :
 * [NCH.Voxal Voice Changer](https://www.nchsoftware.com/voicechanger/index.html) 
 * [Voicemod](https://www.voicemod.net/)
 * [ScreamingBee.MorphVox](https://screamingbee.com/)
+
+## Activators
+* [KMS_VL_ALL_AIO](https://github.com/abbodi1406/KMS_VL_ALL_AIO) - windows & office (supports Enterprise edition)
+* [Ratiborus Digital Activation](https://nsaneforums.com/topic/317565-w10-digital-activation-program-v11-portable-ratiborus/) - windows (not for Enterprise edition)
