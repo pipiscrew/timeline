@@ -120,7 +120,9 @@
 * [Process Hacker](https://processhacker.sourceforge.io/)
 * [WhoCrashed](https://www.resplendence.com/whocrashed) - Reveals the drivers responsible for crashing your computer
 * [Unit Conversions 2000](https://www.softpedia.com/get/Others/Unit-Conversion/Unit-Conversions.shtml)
-* [Microsoft.Calculator](https://www.softpedia.com/get/System/OS-Enhancements/Microsoft-Calculator-Plus.shtml) - Useful for Win10 OS, contains conversions as well.
+* [Microsoft.Win7 Calculator to Win10](https://www.pipiscrew.com/2021/03/windows-7-calculator-to-windows-10/)
+  * [2](https://www.softpedia.com/get/System/OS-Enhancements/Microsoft-Calculator-Plus.shtml) - Useful for Win10 OS, contains conversions as well.
+* [TreeNoote](https://treenoote.com/) - Hierarchically Organized Note Taking Application
 
 ## Drive Snapshot
 * [Acronis.True Image](https://www.acronis.com/en-us/products/true-image/)
