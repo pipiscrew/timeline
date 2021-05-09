@@ -147,7 +147,7 @@
 * [CrystalDiskInfo](https://crystalmark.info/en/) - HDD Life report (on external HDD, give attention to [Reallocated Sectors Count](https://github.com/pipiscrew/timeline/blob/main/assets/hdd_reallocated_sectors_count.jpg) (raw value))
 * [HDDGuru.HDD Low Level Format Tool](https://hddguru.com/) - format when others cannot.
 
-> Reminder : Windows 10 requires **UEFI** boot and by BIOS you adjust also the **Secure Boot**. 
+> Reminder : Windows 10 can use **UEFI** boot and by BIOS you adjust also the **Secure Boot**. Legacy also supported.
 
 **Ubuntu** supports **UEFI** and **Secure Boot** (so user is able to boot to **linux** on Windows 10 machine), [download](https://ubuntu.com/download/desktop) the ISO (is also **LiveCD**) and follow the [instructions](https://ubuntu.com/tutorials/create-a-usb-stick-on-windows) to make a bootable USB. Is possible the corrupted disk to be [readable](https://www.howtogeek.com/163757/why-can-linux-systems-sometimes-recover-data-windows-cant/) there ;) 
 

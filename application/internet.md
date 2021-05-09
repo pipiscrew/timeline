@@ -35,6 +35,8 @@ Chrome.[Tampermonkey](https://chrome.google.com/webstore/detail/tampermonkey-bet
 
 [SponsorBlock](https://sponsor.ajay.app/) - Blocking Unwanted YouTube Video Segments.
 
+[magnolia.Bypass Paywalls Clean]() - Add-on allows you to read articles from websites that implement a paywall. [chrome](https://gitlab.com/magnolia1234/bypass-paywalls-chrome-clean) / [firefox](https://gitlab.com/magnolia1234/bypass-paywalls-firefox-clean)
+
 ## Minimal Browser
 * [NetSurf](https://www.netsurf-browser.org/)
 * [Nessie](https://www.radsix.com/)
