@@ -31,7 +31,7 @@ git config --global credential.helper store
 git config --global credential.interactive never
 ```
 
-* [Fork](https://fork.dev/)
+* [Fork](https://fork.dev/) 
 * [GitKraken](https://www.gitkraken.com/)
 * [Git-Tower](https://www.git-tower.com/windows)
 * [Plastic SCM](https://www.plasticscm.com/)
