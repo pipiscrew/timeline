@@ -27,7 +27,7 @@
 #store credentials as plain text (wincred decrecated) by default to C:\Users\%username%\.git-credentials
 git config --global credential.helper store
 
-#disable every time to enter the credentials
+#disable every time 'enter credentials' form
 git config --global credential.interactive never
 ```
 
