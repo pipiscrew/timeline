@@ -21,7 +21,15 @@
 * [SoftTree.SQL Assistant](http://www.softtreetech.com/sqlassist/index.htm) - For all DB flavors, also offers addon.
 
 ## git
-* [git minimal](https://www.nuget.org/packages/Git-Windows-Minimal/) - Git-Bash, Git-Gui, PERL, Python, and Tcl are excluded. Download rename it to rar, copy the **tools** folder. Add to environment path the **cmd** folder. Behind firewall ? whitelist @ **g**it-http-fetch.exe **g**it-http-push.exe **g**it-remote-https.exe exist @ mingw64\bin.  
+* [git minimal](https://www.nuget.org/packages/Git-Windows-Minimal/) - Git-Bash, Git-Gui, PERL, Python, and Tcl are excluded. Download rename it to rar, copy the **tools** folder. Add to environment path the **cmd** folder. Behind firewall ? whitelist @ **g**it-http-fetch.exe **g**it-http-push.exe **g**it-remote-https.exe exist @ mingw64\bin.  Use the following  : 
+```bash
+#store credentials as plain text by default to C:\Users\%username%\.git-credentials
+git config --global credential.helper store
+
+#disable every time to enter the credentials
+git config --global credential.interactive never
+```
+
 * [Fork](https://fork.dev/)
 * [GitKraken](https://www.gitkraken.com/)
 * [Git-Tower](https://www.git-tower.com/windows)
