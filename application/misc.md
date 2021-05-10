@@ -1,5 +1,5 @@
 ## Explorer
-* [CodeSector.Direct Folders](https://www.codesector.com/directfolders) - Useful functionality **ClickSwitch**. 
+* [CodeSector.Direct Folders](https://www.codesector.com/directfolders) - Useful functionality **ClickSwitch**.
 * [PinMe!](https://forum.tuts4you.com/files/file/2125-pinme/)
 * [NTWind.Visual Subst](https://www.ntwind.com/software/visual-subst.html) - Mount folder as drive
 * [Sysinternals.Autoruns for Windows](https://docs.microsoft.com/en-gb/sysinternals/downloads/autoruns)
