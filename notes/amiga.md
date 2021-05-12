@@ -36,7 +36,7 @@
 * [2019 Vampire V4](https://www.forbes.com/sites/marcochiappetta/2019/10/22/the-next-generation-amiga-that-never-materialized-just-went-up-for-pre-order)
 	* [homepage](http://apollo-core.com/knowledge.php?b=1&note=23461)
 	* [unpacking](https://youtu.be/YRr74v2tPzM?t=381)
-
+* [Amiga Hardware Programming in C](https://www.youtube.com/playlist?list=PLF3LSwdkRB1DLYvsFJynIBnmlIXkuTwTZ)
 
 ## repos
 * [Largest archive of software and files](http://aminet.net/)
