@@ -1,4 +1,11 @@
 ## 2021/05
+  * [$365B wiped off cryptocurrency market after Tesla stops accepting Bitcoin](https://www.cnbc.com/2021/05/13/bitcoin-btc-price-falls-after-tesla-stops-car-purchases-with-crypto.html)
+  * [more shits.Facebook Wi-Fi](https://www.facebook.com/facebook-wifi)
+  * [Delaying second Covid vaccine doses can save lives, study finds](https://www.theguardian.com/world/2021/may/12/delaying-second-covid-vaccine-doses-can-save-lives-study-finds)
+  * [Drawing bitmaps by reverse engineering the Win10 task manager](https://github.com/turtiustrek/taskmanager)
+  * [Microsoft Flight Simulator 4.0 – 31 Years Later](https://www.youtube.com/watch?v=RaeAhxmPodM)
+  * [Video uploads now available across GitHub](https://github.blog/2021-05-13-video-uploads-available-github/)
+  * [MkDocs – Project Documentation with Markdown](https://www.mkdocs.org/)
   * [Cloudflare.Humanity wastes about 500 years per day on CAPTCHAs. It’s time to end this madness](https://blog.cloudflare.com/introducing-cryptographic-attestation-of-personhood/)
   * [DOS Gaming In Docker](https://earthly.dev/blog/dos-gaming-in-docker/)
   * [Tinypilot: Use your Raspberry Pi as a browser-based KVM](https://github.com/mtlynch/tinypilot)
