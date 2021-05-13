@@ -24,7 +24,8 @@
 * [Compare++](https://download.cnet.com/Compare/3000-2248_4-75206501.html)
 * [ExamDiff](https://www.prestosoft.com/edp_examdiff.asp)
 * [WinMerge](https://winmerge.org/)
-* [Dupe Clear](http://https://mozib.io/dupeclear) / [2](https://github.com/antikmozib/dupe-clear)
+* [Dupe Clear](http://https://mozib.io/dupeclear)  
+  * [2](https://github.com/antikmozib/dupe-clear)
 
 ## Context Menu
 * [Easy Context Menu](https://www.sordum.org/7615/easy-context-menu-v1-6/)
@@ -37,6 +38,8 @@
 * [PromptPal](https://www.promptpal.com/)
 * [PowerCmd](https://www.powercmd.com/)
 * [JPSoft.CMDebug](https://jpsoft.com/products/cmdebug-ide.html)
+* [DOS Gaming In Docker](https://earthly.dev/blog/dos-gaming-in-docker/)  
+  * [2](https://github.com/earthly/example-dos-gaming)
 
 ## Search
 * [Nirsoft.SearchMyFiles](https://www.nirsoft.net/utils/search_my_files.html)
