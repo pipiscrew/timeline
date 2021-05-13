@@ -139,6 +139,10 @@
 * [DOS.Zone](http://dos.zone)
 * [EmuOS](https://emupedia.net/beta/emuos/) - Video game preservation and computer history
 
+## poll
+* [Doodle](https://doodle.com/)
+* [Quizizz](https://quizizz.com/)
+
 ## misc
 * [Earthquakes](https://www.emsc-csem.org/Earthquake/)
 * [Earthquake Track](https://earthquaketrack.com/)
