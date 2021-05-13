@@ -24,7 +24,7 @@
 * [Compare++](https://download.cnet.com/Compare/3000-2248_4-75206501.html)
 * [ExamDiff](https://www.prestosoft.com/edp_examdiff.asp)
 * [WinMerge](https://winmerge.org/)
-* [Dupe Clear](http://https://mozib.io/dupeclear)  
+* [Dupe Clear](https://mozib.io/dupeclear)  
   * [2](https://github.com/antikmozib/dupe-clear)
 
 ## Context Menu
