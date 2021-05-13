@@ -59,6 +59,8 @@
 	* [XMLTools plugin](https://github.com/morbac/xmltools) (format HTML)
 * [Ultraedit](https://www.ultraedit.com/)
 * [MarkdownPad 2](http://markdownpad.com/)
+* [Markdown Monster](https://markdownmonster.west-wind.com/)
+  * [2](https://github.com/RickStrahl/MarkdownMonster)
 * [Modern CSV](https://www.moderncsv.com/) - Quick CSV load  
 * [Kainet.Editor](http://www.kainet.ch/Editor-for-very-large-files) - Editor for very large files  
 * [UVviewersoft.LogViewer](http://www.uvviewsoft.com/logviewer/) - Viewer for big text log files, highlight keywords  
