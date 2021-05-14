@@ -10,6 +10,7 @@ Merge **multiple .docx** to one
 
 * Select the **Insert** tab > Select **Object**, and then select **Text from File**  
 * [How to merge Word documents](https://docs.microsoft.com/en-us/office/troubleshoot/word/merge-word-documents)
+* [Remove Horizontal Line](https://www.howtogeek.com/217924/how-to-remove-automatic-horizontal-lines-in-word/) - go the cursor to needed line, click the table dropdown button, choose 'no border'.
 
 ## Excel
 Show worksheets on a vertical list  

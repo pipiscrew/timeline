@@ -1,4 +1,5 @@
 ## 2021/05
+  * [Why Cloudflare’s CAPTCHA replacement with FIDO2/WebAuthn is a really bad idea](https://herrjemand.medium.com/why-cloudflares-captcha-replacement-with-fido2-webauthn-is-a-really-bad-idea-d5487f6c7566)
   * [Syncthing - Open Source Continuous File Synchronization](https://github.com/syncthing/syncthing)
     * [2](https://forum.syncthing.net/)
   * [fingerprintjs.Vulnerability allows cross-browser tracking](https://fingerprintjs.com/blog/external-protocol-flooding/)
