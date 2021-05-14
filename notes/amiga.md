@@ -37,6 +37,7 @@
 	* [homepage](http://apollo-core.com/knowledge.php?b=1&note=23461)
 	* [unpacking](https://youtu.be/YRr74v2tPzM?t=381)
 * [Amiga Hardware Programming in C](https://www.youtube.com/playlist?list=PLF3LSwdkRB1DLYvsFJynIBnmlIXkuTwTZ)
+* [Gotek for Amiga](https://amigastore.eu/676-internal-usb-floppy-emulator-gotek-for-amiga-500-600-and-1200.html) - flashed with the last FlashFloppy firmware for Amiga / Atari / Amstrad
 
 ## repos
 * [Largest archive of software and files](http://aminet.net/)

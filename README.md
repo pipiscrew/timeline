@@ -1,4 +1,27 @@
 ## 2021/05
+  * [Syncthing - Open Source Continuous File Synchronization](https://github.com/syncthing/syncthing)
+    * [2](https://forum.syncthing.net/)
+  * [fingerprintjs.Vulnerability allows cross-browser tracking](https://fingerprintjs.com/blog/external-protocol-flooding/)
+    *    firefox v87 (on strict mode) = vulnerability found  
+    * brave v1.24 = no trace  
+    * icecat = not even start identification
+  * [Polar bear that walked 1000km](https://siberiantimes.com/other/others/news/polar-bear-that-walked-unprecedented-1000-km-south-from-arctic-habitat-is-caught-in-yakutia/)
+  * [How we bypassed bytenode and decompiled Node.js bytecode in Ghidra](https://swarm.ptsecurity.com/how-we-bypassed-bytenode-and-decompiled-node-js-bytecode-in-ghidra/)
+  * [El Carro: a new open-source Kubernetes operator for Oracle from Google](https://opensource.googleblog.com/2021/05/modernizing-oracle-operations-with-kubernetes-el-carro.html)
+    * [2](https://github.com/googlecloudplatform/elcarro-oracle-operator)
+  * [Adobe is dropping PostScript Type 1 font support](https://www.macworld.com/article/344971/adobe-drops-postscript-type1.html)
+  * [Netflix Drive](https://netflixtechblog.com/netflix-drive-a607538c3055)
+  * [OnionShare: Open-source tool that lets you securely and anonymously share files](https://onionshare.org/)
+  * [Fact vs. fake – why don’t we trust science any more? (must watch)](https://www.youtube.com/watch?v=t5UPnuSTRjA)
+  * [PrivacyBot - A simple way to delete your data from all the data brokers](https://github.com/privacybot-berkeley/privacybot)
+  * [Opt Out - send GDPR and CCPA data requests](https://yourdigitalrights.org/)
+    * [chrome addon](https://chrome.google.com/webstore/detail/opt-out-send-gdpr-and-ccp/dedldhojjkgbejnmmfpmbnbihmmpfbpd)
+  * [JustDeleteMe](https://justdeleteme.xyz/)
+  * [Recipe - Tikka Masala](https://40aprons.com/restaurant-style-chicken-tikka-masala-paleo-whole30/)
+  * [India - My city is under siege from Covid](https://www.youtube.com/watch?v=LYQLr45rtZk)
+  * [Microsoft.Recognizers.Text](https://www.nuget.org/packages/Microsoft.Recognizers.Text/)
+    * [2](https://github.com/microsoft/Recognizers-Text/tree/master/.NET/Samples)
+  * [FBI Has Gained Access to Sci-Hub Founder’s Apple Account](https://torrentfreak.com/fbi-has-gained-access-to-sci-hub-founders-apple-account-email-claims-210513/)
   * [$365B wiped off cryptocurrency market after Tesla stops accepting Bitcoin](https://www.cnbc.com/2021/05/13/bitcoin-btc-price-falls-after-tesla-stops-car-purchases-with-crypto.html)
   * [more shits.Facebook Wi-Fi](https://www.facebook.com/facebook-wifi)
   * [Delaying second Covid vaccine doses can save lives, study finds](https://www.theguardian.com/world/2021/may/12/delaying-second-covid-vaccine-doses-can-save-lives-study-finds)
