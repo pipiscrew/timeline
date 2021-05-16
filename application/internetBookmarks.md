@@ -191,3 +191,5 @@
 * [Welcome to the Great Reset](https://youtu.be/eirm9mapQyY)
 * [Addiction and technology](https://youtu.be/gg9hE3GNm30)
 * [How Plants Extract Nutrients](https://www.permaculture.co.uk/articles/how-plants-extract-nutrients)
+* [DW.Fact vs fake – why don’t we trust science any more?](https://youtu.be/t5UPnuSTRjA)
+* [DW.Better brain health](https://youtu.be/TLpbfOJ4bJU)

@@ -38,6 +38,10 @@
 	* [unpacking](https://youtu.be/YRr74v2tPzM?t=381)
 * [Amiga Hardware Programming in C](https://www.youtube.com/playlist?list=PLF3LSwdkRB1DLYvsFJynIBnmlIXkuTwTZ)
 * [Gotek for Amiga](https://amigastore.eu/676-internal-usb-floppy-emulator-gotek-for-amiga-500-600-and-1200.html) - flashed with the last FlashFloppy firmware for Amiga / Atari / Amstrad
+* [AmigaOS v3.2 released 2021 for Amiga 500 and above](https://www.hyperion-entertainment.com/)
+  * [GR](https://amiga.gr/2021/05/1081/kykloforise-neo-amigaos-32)
+  * [Dealers](https://www.hyperion-entertainment.com/index.php/where-to-buy/dealers)
+* [video - All Amiga Games 7h25m](https://www.youtube.com/watch?v=Ro9S27OJVgo)
 
 ## repos
 * [Largest archive of software and files](http://aminet.net/)

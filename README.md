@@ -1,9 +1,20 @@
 ## 2021/05
+  * [Rescue Mission for Sci-Hub and Open Science: We are the library - There are 850 scihub torrents, each containing 100,000 scientific articles, to a total of 85 million scientific articles: 77TB. This is the complete Sci-Hub database.](https://old.reddit.com/r/DataHoarder/comments/nc27fv/rescue_mission_for_scihub_and_open_science_we_are/)
+  * [IRS Is Coming for Crypto Investors Who Haven’t Paid Their Taxes](https://www.wsj.com/articles/bitcoin-irs-comes-for-crypto-investors-who-havent-paid-their-taxes-11620937095)
+  * [Windows 7 web desktop recreation, check the VM LOL](https://desk.glitchy.website)
+  * [Bibliogram – Open-source front-end for Instagram](https://bibliogram.art)
+  * [The true size of Africa (2015)](http://kai.sub.blue/en/africa.html)
+  * [Modern Javascript: Everything you missed over the last 10 years](https://turriate.com/articles/modern-javascript-everything-you-missed-over-10-years)
+  * [Offline-First PWA for Plotly Visualization of CSV via SQLite](https://github.com/lana-k/sqliteviz)
+  * [AmigaOS v3.2 for all Classic Amigas released May 14, 2021](https://www.hyperion-entertainment.com/)
+  * [Product Hunt - New products in tech](https://www.producthunt.com/)
+  * [0xHack: Online Ethereum Hackathon (May 14 – Jun 2, 2021)](https://0xhack.dev/)
+  * [Gigabyte Brix Pro: A Compact PC for Basic Computing Needs](https://www.overclockers.com/gigabyte-brix-pro-a-compact-pc-for-basic-computing-needs/)
   * [Why Cloudflare’s CAPTCHA replacement with FIDO2/WebAuthn is a really bad idea](https://herrjemand.medium.com/why-cloudflares-captcha-replacement-with-fido2-webauthn-is-a-really-bad-idea-d5487f6c7566)
   * [Syncthing - Open Source Continuous File Synchronization](https://github.com/syncthing/syncthing)
     * [2](https://forum.syncthing.net/)
   * [fingerprintjs.Vulnerability allows cross-browser tracking](https://fingerprintjs.com/blog/external-protocol-flooding/)
-    *    firefox v87 (on strict mode) = vulnerability found  
+    * firefox v87 (on strict mode) = vulnerability found  
     * brave v1.24 = no trace  
     * icecat = not even start identification
   * [Polar bear that walked 1000km](https://siberiantimes.com/other/others/news/polar-bear-that-walked-unprecedented-1000-km-south-from-arctic-habitat-is-caught-in-yakutia/)
