@@ -1,4 +1,10 @@
 ## 2021/05
+  * [The Achilles Heel of the Coronavirus](https://ethz.ch/en/news-and-events/eth-news/news/2021/05/the-achilles-heel-of-the-coronavirus.html)
+  * [Apple Music announces Spatial Audio with Dolby Atmos (will bring Lossless Audio)](https://www.apple.com/newsroom/2021/05/apple-music-announces-spatial-audio-and-lossless-audio/)
+  * [Evercade Atari](https://evercade.co.uk/cartridges/)
+    * [2](https://www.nintendolife.com/news/2021/05/soapbox_be_happy_this_is_the_true_golden_age_of_gaming)
+  * [index-of-es](http://index-of.es/)
+  * [List of Covid-19 vaccine authorizations](https://en.wikipedia.org/wiki/List_of_COVID-19_vaccine_authorizations)
   * [Vandal – Front end for Wayback Machine (after date selection user has to select the time) #archive](https://vegetableman.github.io/vandal/)
   * [What are some tools / libraries you built yourself?](https://news.ycombinator.com/item?id=27171970)
   * [Extracting Data from Tracking Devices w/ mitmproxy](https://jeffhuang.com/extracting_data_from_tracking_devices/)
