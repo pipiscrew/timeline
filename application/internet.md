@@ -14,7 +14,7 @@ both IceCat & Brave when restarted getting new fingerprint.
 Tested with :
 
   * [FingerprintJS](https://fingerprintjs.com/demo)
-    * [cross-browser tracking(https://fingerprintjs.com/blog/external-protocol-flooding/)
+    * [cross-browser tracking](https://fingerprintjs.com/blog/external-protocol-flooding/)
   * [Unique Machine](http://uniquemachine.org/)  
 
 test browser [permissions](https://permission.site/).
@@ -145,6 +145,7 @@ Chrome.[Tampermonkey](https://chrome.google.com/webstore/detail/tampermonkey-bet
 ## RSS
 * [QuiteRSS](https://quiterss.org/)
 * [RSS Guard](https://github.com/martinrotter/rssguard)
+* [Inoreader](https://www.inoreader.com/) - online
 
 ## wifi
 * [Nirsoft.WifiInfoView](https://www.nirsoft.net/utils/wifi_information_view.html) - Scans the wireless networks in your area and displays extensive information
