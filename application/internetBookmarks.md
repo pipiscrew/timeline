@@ -12,6 +12,7 @@
 * [Z-Library](https://z-lib.org/) - 6.5m ebooks
 * [Morioh](https://morioh.com/topics) - Social network for programmers and developers
 * [Deephn search 30M Hacker news posts](https://deephn.org) ([ref](https://news.ycombinator.com/item?id=26791582))
+* [algolia](https://hn.algolia.com) - Search HackerNews
 
 ## translators
 * [DocTranslator](https://www.onlinedoctranslator.com/en/translationform) - Translate PDF and outputs PDF, at the moment Yandex / Google cant do this.
