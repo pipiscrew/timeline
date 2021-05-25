@@ -1,4 +1,10 @@
 ## 2021/05
+  * [DOOM Captcha](https://vivirenremoto.github.io/doomcaptcha/)
+  * [27c3: Reverse Engineering the MOS 6502 CPU](https://www.youtube.com/watch?v=fWqBmmPQP40)
+  * [Elk OS – Audio Operating System](https://elk.audio/audio-os/)
+  * [EU agrees new Belarus sanctions after plane arrest](https://www.bbc.com/news/world-europe-57236489)
+  * [Mobile app developers misconfiguration of third party services leave personal data of over 100 million exposed](https://research.checkpoint.com/2021/mobile-app-developers-misconfiguration-of-third-party-services-leave-personal-data-of-over-100-million-exposed/)
+  * [MiSTer aims to recreate various classic computers, game consoles and arcade machines](https://github.com/MiSTer-devel/Main_MiSTer)
   * [Wayback - A toolkit for snapshot webpage to Internet Archive, archive.today, IPFS and beyond](https://github.com/wabarc/wayback)
   * [Doom Engine source code review](https://fabiensanglard.net/doomIphone/doomClassicRenderer.php)
   * [Hacking third-party APIs on the JVM](https://blog.frankel.ch/hacking-third-party-api-jvm/)
