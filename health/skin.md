@@ -17,4 +17,4 @@ While we have long thought about our skin as a barrier to separate us from the o
 Soaps and astringents meant to make us drier and less oily also **remove the sebum** on which microbes feed. Because scientists and doctors didn’t have the technology to fully understand the number or importance of these microbes until recently, very little is known about what exactly they’re doing there. This pH-driven model of skin health does not **bode** well for soaps. A soap, by definition, has a highly basic **pH of 10.3**. This is by design. The less basic a soap is, the less well it binds to the oils we seek to remove. Dove has a **pH of 7**, because of the addition of the emollient. This makes it less drying. In other words, it is less able to bind and remove oils. In other words, it is less good at its job.
 
 
-src - [James Hamblin - Clean: The New Science of Skin Hardcover - (ISBN 0525538313)](https://www.amazon.com/dp/0525538313)
+src - James Hamblin - Clean: The New Science of Skin Hardcover - (ISBN 0525538313)
