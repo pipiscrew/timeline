@@ -42,6 +42,8 @@
 * [Invidious](https://invidious.snopyta.org/feed/popular)
 	* [mirrors](https://redirect.invidious.io/)
 * [youtube-lite](https://youtube-lite.js.org/)
+* [Piped](https://piped.kavin.rocks/)
+  * [2](https://github.com/TeamPiped/Piped)
 * [lite youtube](https://yt.dorper.me/)
 * [Vimeo](https://vimeo.com/)  
 * [Dailymotion](https://www.dailymotion.com)  
