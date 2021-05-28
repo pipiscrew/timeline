@@ -1,4 +1,6 @@
-Player - [Winamp v2.95](http://www.oldversion.com/windows/winamp-2-95)
+Player - [Winamp v2.95](http://www.oldversion.com/windows/winamp-2-95)  
+Player - [VUPlayer](http://www.vuplayer.com/)  
+  * [2](https://github.com/jfchapman/VUPlayer)
 
 Converter / Ripper - [EZ CD Audio Converter](https://www.poikosoft.com/music-converter)
 

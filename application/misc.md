@@ -170,5 +170,6 @@ The sequence is :
 * [Ratiborus Digital Activation](https://nsaneforums.com/topic/317565-w10-digital-activation-program-v11-portable-ratiborus/) - windows (not for Enterprise edition)
 
 ## Games
+* [Internet Archive.LTSC 2019](https://archive.org/details/win-10.-ltsc-2019.x-64.lite.v-2105-ik)
 * [eXoDOS](http://exodos.the-eye.us/)
 * [Open Source Game Clones](https://osgameclones.com/)

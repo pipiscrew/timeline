@@ -43,6 +43,7 @@
   * [Dealers](https://www.hyperion-entertainment.com/index.php/where-to-buy/dealers)
 * [video - All Amiga Games 7h25m](https://www.youtube.com/watch?v=Ro9S27OJVgo)
 * [Hyperion Entertainment.AmigaOne](https://en.wikipedia.org/wiki/AmigaOne)
+* [The Less Explored Computer Mag: 1st Amiga Sighting](https://www.amigalove.com/viewtopic.php?f=5&t=1876)
 
 ## repos
 * [Largest archive of software and files](http://aminet.net/)
