@@ -25,7 +25,6 @@
   * [The case for a leak of a virus engineered in a Wuhan lab](https://www.smh.com.au/national/where-did-covid-come-from-the-case-for-a-leak-of-a-virus-engineered-in-a-wuhan-lab-20210526-p57vgt.html)
   * [The Gorgeous Symmetry in Your Blood Chemistry](https://youtu.be/GftsrjlHFjA)
   * [Windows 2000 Running in WebAssembly](https://copy.sh/v86/?profile=windows2000)
-
   * [Google.Firebase CLI Installer Making Calls to Google Analytics](https://wwws.nighvaginachcybersecurity.com/2021/05/25/firebase-cli-installer-making-calls-to-google-analytics/)
   * [Google launches Fuchsia](https://arstechnica.com/gadgets/2021/05/google-launches-its-third-major-operating-system-fuchsia/)
   * [Use Payment Links to sell online without a website](https://stripe.com/payments/payment-links)
