@@ -1,4 +1,13 @@
 ## 2021/05
+  * [Over 100 employees sued a Houston hospital](https://www.businessinsider.com/dozens-of-employees-sue-houston-methodist-over-vaccine-mandate-2021-5)
+  * [Microsoft Build of OpenJDK](https://www.microsoft.com/openjdk)
+    * [2](https://developers.slashdot.org/story/21/05/29/0532204/now-generally-available-microsofts-open-source-java-distribution-microsoft-build-of-openjdk)
+  * [ProtonMail includes Google Recaptcha](https://github.com/ProtonMail/WebClient/issues/242)
+  * [The exact moment a storm floods a pre-school](https://youtu.be/o5tZoQuR72g)
+  * [Collection of public datasets packaged as SQLite databases](http://2016.padjo.org/tutorials/sqlite-data-starterpacks/)
+  * [Firefox offline Translations into Firefox](https://www.ghacks.net/2021/05/29/mozilla-integrates-firefox-translations-into-firefox/)
+  * [Ghidra new releases, beta incl new debugger](https://ghidra-sre.org/)
+  * [Dumping Logitech K360 wireless keyboard firmware with a GreatFET](https://jamchamb.net/2021/05/29/dumping-k360-firmware.html)
   * [Court rules encrypted email provider Tutanota must monitor messages](https://www.cyberscoop.com/court-rules-encrypted-email-tutanota-monitor-messages/)
   * [Google to use patient data to develop healthcare algorithms for hospital chain](https://www.theverge.com/2021/5/26/22454817/google-hca-patient-data-healthcare-algorithms)
   * [Browse Every Awesome List on GitHub](https://app.polymersearch.com/discover/github-awesome)
