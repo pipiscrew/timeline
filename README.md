@@ -52,7 +52,6 @@
     * [2](https://wesbos.com/javascript)
   
 ## 2021/05
-
   * [Over 100 employees sued a Houston hospital](https://www.businessinsider.com/dozens-of-employees-sue-houston-methodist-over-vaccine-mandate-2021-5)
   * [Microsoft Build of OpenJDK](https://www.microsoft.com/openjdk)
     * [2](https://developers.slashdot.org/story/21/05/29/0532204/now-generally-available-microsofts-open-source-java-distribution-microsoft-build-of-openjdk)
