@@ -74,6 +74,7 @@
 * [PHP json_decode() function](https://freeonlinetools24.com/json-decode)  
 * [JSON lint](https://jsonlint.com/)
 * [JSON / XML Formatter & Validator](https://jsonformatter.curiousconcept.com/)
+* [jsonmatic](https://jsonmatic.com/) - CSV into a JSON and vice versa
 * [de4js - JavaScript Deobfuscator](https://lelinhtinh.github.io/de4js/)  
 * [HTML Cleaner](https://htmlcodeeditor.com/)  
 * [UUID Generator](https://www.uuidgenerator.net/)
