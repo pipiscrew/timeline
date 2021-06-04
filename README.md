@@ -49,8 +49,8 @@
   * [Nettu Meet – video conferencing app for tutors. Zoom/Teams alternative](https://meet.nettubooking.com/)
   * [Is Matryoshka TicTacToe a solved game](https://github.com/kurtisc/matryoshka_tic_tac_toe)
   * [Why we chose TypeScript](https://sixfold.medium.com/why-we-chose-and-why-we-dont-switch-away-from-typescript-55bbada36ad8)
-    * [2](https://wesbos.com/javascript)
-  
+    * [2](https://wesbos.com/javascript)  
+
 ## 2021/05
   * [Over 100 employees sued a Houston hospital](https://www.businessinsider.com/dozens-of-employees-sue-houston-methodist-over-vaccine-mandate-2021-5)
   * [Microsoft Build of OpenJDK](https://www.microsoft.com/openjdk)
