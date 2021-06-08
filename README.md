@@ -1144,4 +1144,4 @@
   * [Nissan source code leaked](https://zdnet.com/article/nissan-source-code-leaked-online-after-git-repo-misconfiguration/)
   * [Hacker posts data of 10,000 American Express accounts](https://bleepingcomputer.com/news/security/hacker-posts-data-of-10-000-american-express-accounts-for-free/)
   * [PE Anatomist](https://rammerlabs.alidml.ru/index-eng.html)
-  * [Samsung RKP Compendium](https://www.longterm.io/samsung_rkp.html)
+  * [Samsung RKP Compendium](https://www.longterm.io/samsung_rkp.html)  
