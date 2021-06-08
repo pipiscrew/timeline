@@ -1,4 +1,5 @@
 ## 2021/06
+  * [PlayPhrase - Site for Searching Cinema Phrases](https://www.playphrase.me)
   * [what we all waiting for #haha.Apple brings Safari web browser extensions to iPhone](https://9to5mac.com/2021/06/07/apple-brings-safari-web-browser-extensions-to-iphone-and-ipad-with-ios-15/)
   * [IRS records reveal how the wealthiest avoid income tax](https://www.propublica.org/article/the-secret-irs-files-trove-of-never-before-seen-records-reveal-how-the-wealthiest-avoid-income-tax)
   * [Snowtrack – a new version control software for graphic designers and 3D artists](https://snowtrack.io/)
