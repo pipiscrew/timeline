@@ -55,6 +55,7 @@ Type : Aerobic
 * [Why Walking Helps Us Think](https://www.newyorker.com/tech/annals-of-technology/walking-helps-us-think)  
 * [Walking improves creativity](https://news.stanford.edu/2014/04/24/walking-vs-sitting-042414/)
 * [The benefits of walking and how to get the most out of it](https://www.cbc.ca/life/wellness/the-benefits-of-walking-and-how-to-get-the-most-out-of-it-1.5145418)
+* [Better than microdosing: walks in nature](https://victorrotariu.com/2021/06/better-than-microdosing-walks-in-nature/)  
 
 
 Wendy Suzuki - Why your brain loves it when you exercise

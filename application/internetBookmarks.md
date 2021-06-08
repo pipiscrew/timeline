@@ -53,6 +53,7 @@
 * [flote](https://flote.app/)
 * [DLive](https://dlive.tv/)
 * [QuoDB](http://www.quodb.com/) - Search movies by quote
+* [PlayPhrase](https://www.playphrase.me/) - Search movies by quote
 
 ## video rip
 * [VidsWatch](https://www.vidswatch.com/) - add **magic** to domain => you**magic**tube.com/watch?v=p5IO-IJSVnQ
