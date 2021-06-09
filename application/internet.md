@@ -30,6 +30,7 @@ test browser [permissions](https://permission.site/).
 [Mozilla.Firefox 89 Tab Appearance](https://amitp.blogspot.com/2021/06/firefox-89-tab-appearance.html)
 * [2](https://color.firefox.com)
 * [3](https://firefoxcss-store.github.io/)
+* [4](https://github.com/black7375/Firefox-UI-Fix)
   
 get latest [here](https://www.mozilla.org/en-US/firefox/all/#product-desktop-release).
 
@@ -37,6 +38,7 @@ addons :
 
   * Chrome-like [translate](https://github.com/FilipePS/Traduzir-paginas-web/) functionality (aka on the fly) to Firefox - Filipe Ps.Translate Web Pages
   * Browsec [VPN](https://addons.mozilla.org/en-US/firefox/addon/browsec/) free & fast.
+  * [Remove Google Redirection on google results](https://addons.mozilla.org/en-US/firefox/addon/remove-google-redirections/)
 
 Chrome.[Tampermonkey](https://chrome.google.com/webstore/detail/tampermonkey-beta/gcalenpjmijncebpfijmoaglllgpjagf) / Firefox.[Greasemonkey](https://addons.mozilla.org/en-US/firefox/addon/greasemonkey/) -- [Youtube - dismiss sign-in script](https://greasyfork.org/de/scripts/412178-youtube-dismiss-sign-in)
 
