@@ -1,6 +1,6 @@
 ## 2021/06
   * [Danish Secret Service Helped NSA Spy On European Politicians](https://thehackernews.com/2021/06/report-danish-secret-service-helped-nsa.html)
-  * [JBS Paid $11M](https://threatpost.com/jbs-paid-11m/166767/) 
+  * [JBS Paid $11M](https://threatpost.com/jbs-paid-11m/166767/)
   * [More options for communications at 6G frequency than previously thought](https://www.eurekalert.org/pub_releases/2021-06/uosc-lto060921.php)
   * [SonicWall VPN Vulnerability](https://www.crowdstrike.com/blog/how-ecrime-groups-leverage-sonicwall-vulnerability-cve-2019-7481/)
       * [2](https://www.bleepingcomputer.com/news/security/new-ransomware-group-uses-sonicwall-zero-day-to-breach-networks/)
