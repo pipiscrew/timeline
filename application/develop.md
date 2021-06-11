@@ -30,7 +30,7 @@ git config --global credential.helper store
 #disable every time 'enter credentials' form
 git config --global credential.interactive never
 ```
-
+* [git.MinGit](https://github.com/git-for-windows/git/releases/tag/v2.32.0.windows.1)
 * [Fork](https://fork.dev/)
 * [GitKraken](https://www.gitkraken.com/)
 * [Git-Tower](https://www.git-tower.com/windows)
