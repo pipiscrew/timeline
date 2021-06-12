@@ -31,7 +31,9 @@ test browser [permissions](https://permission.site/).
 * [2](https://color.firefox.com)
 * [3](https://firefoxcss-store.github.io/)
 * [4](https://github.com/black7375/Firefox-UI-Fix)
-  
+
+* If you don't like Firefox 89, then set "browser.proton.enabled" to 'false' in about:config  
+
 get latest [here](https://www.mozilla.org/en-US/firefox/all/#product-desktop-release).
 
 addons :
