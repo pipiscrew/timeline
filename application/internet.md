@@ -2,7 +2,7 @@
 
 Unofficial windows, [IceCat](https://github.com/muslayev/icecat-win64) (Firefox based) for ultra privacy. The official Linux [here](https://www.gnu.org/software/gnuzilla/).
 
-[Brave](https://brave.com/) (Chrome based) based on Chromium but also proven [not safe](http://ebin.city/~werwolf/posts/brave-is-shit/).
+[Brave](https://brave.com/) (Chrome based) based on Chromium but [Brave, the false sensation of privacy](http://ebin.city/~werwolf/posts/brave-is-shit/).
 
 	* Automatically open Chrome DevTools debug - `"c:\chrome.exe" -auto-open-devtools-for-tabs`
 
@@ -34,7 +34,13 @@ test browser [permissions](https://permission.site/).
 
 * If you don't like Firefox 89, then set "browser.proton.enabled" to 'false' in about:config  
 
-get latest [here](https://www.mozilla.org/en-US/firefox/all/#product-desktop-release).
+download latest Mozilla.Firefox [here](https://www.mozilla.org/en-US/firefox/all/#product-desktop-release).
+
+To find your profile directory navigate to `about:support`. 
+* settings made in `about:config` are saved only to `prefs.js` [ref](https://mkaz.blog/misc/using-firefox-user-js-settings-file/)
+* `user.js` file stores user settings, the file is loaded each time Firefox starts. This a convenient way to save your browser customizations and apply them on different machines. Ready to use `user.js` :  
+  * [arkenfox](https://github.com/arkenfox/user.js)  ([ref](http://ebin.city/~werwolf/posts/firefox-hardening-guide/))
+  * [pyllyukko](https://github.com/pyllyukko/user.js/)
 
 addons :
 
