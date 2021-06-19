@@ -1,9 +1,9 @@
 ## IDE
-* [VSCode](https://code.visualstudio.com/)
-* [codeLobster](http://www.codelobster.com/)
+* [~~VSCode~~](https://code.visualstudio.com/) replaced by [VSCodium](https://github.com/VSCodium/vscodium/releases/download/1.57.0/VSCodium-win32-x64-1.57.0.zip) - how to debug PHP with [Felix Becker.PHP Debug](https://marketplace.visualstudio.com/items?itemName=felixfbecker.php-debug) -- how to [install extension](https://github.com/VSCodium/vscodium/issues/733#issuecomment-863576784)
 * [(17mb) SharpDevelop](https://sourceforge.net/projects/sharpdevelop/) - C# with visual designer [ref](https://steemit.com/utopian-io/@dorodor/programming-with-sharpdevelop-creating-a-project-adjusting-properties-and-adding-event-handlers)
-* [DevSense.PHP Tools for Visual Studio](https://www.devsense.com/)
+* [DevSense.PHP Tools for Visual Studio](https://www.devsense.com/) - dotnetcore required
 * [Ironman.PowerShell for Visual Studio / Code](https://ironmansoftware.com/powershell-pro-tools)
+* [CodeLobster](http://www.codelobster.com/)  
 
 ## server
 * [XAMPP](https://sourceforge.net/projects/xampp/)

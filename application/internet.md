@@ -2,7 +2,7 @@
 
 Unofficial windows, [IceCat](https://github.com/muslayev/icecat-win64) (Firefox based) for ultra privacy. The official Linux [here](https://www.gnu.org/software/gnuzilla/).
 
-[Brave](https://brave.com/) (Chrome based) for ultra privacy.
+[Brave](https://brave.com/) (Chrome based) based on Chromium but also proven [not safe](http://ebin.city/~werwolf/posts/brave-is-shit/).
 
 	* Automatically open Chrome DevTools debug - `"c:\chrome.exe" -auto-open-devtools-for-tabs`
 
@@ -41,6 +41,9 @@ addons :
   * Chrome-like [translate](https://github.com/FilipePS/Traduzir-paginas-web/) functionality (aka on the fly) to Firefox - Filipe Ps.Translate Web Pages
   * Browsec [VPN](https://addons.mozilla.org/en-US/firefox/addon/browsec/) free & fast.
   * [Remove Google Redirection on google results](https://addons.mozilla.org/en-US/firefox/addon/remove-google-redirections/)
+  * [RESTClient](https://addons.mozilla.org/en-US/firefox/addon/restclient/) - use request header as `Content-Type application/x-www-form-urlencoded`
+
+
 
 Chrome.[Tampermonkey](https://chrome.google.com/webstore/detail/tampermonkey-beta/gcalenpjmijncebpfijmoaglllgpjagf) / Firefox.[Greasemonkey](https://addons.mozilla.org/en-US/firefox/addon/greasemonkey/) -- [Youtube - dismiss sign-in script](https://greasyfork.org/de/scripts/412178-youtube-dismiss-sign-in)
 
