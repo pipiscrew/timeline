@@ -38,6 +38,8 @@ git config --global credential.interactive never
 * (chrome addon) [PR-tree-viewer](https://github.com/Pewww/pr-tree-viewer) - View GitHub Pull Requests as a tree
 * [Binder](https://mybinder.org/) - Git repo into a collection of interactive notebooks & Docker
 	* [Jupyter](https://jupyter.org/) - next-generation notebook interface
+* like git - https://githacks.org/vmp2/vmassembler
+* like git - https://git.nixnet.services/Narsil/desktop_user.js
 
 ## misc
 * [Free for developers](https://free-for.dev/)
