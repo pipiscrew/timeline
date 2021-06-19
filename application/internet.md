@@ -41,6 +41,7 @@ To find your profile directory navigate to `about:support`.
 * `user.js` file stores user settings, the file is loaded each time Firefox starts. This a convenient way to save your browser customizations and apply them on different machines. Ready to use `user.js` :  
   * [arkenfox](https://github.com/arkenfox/user.js)  ([ref](http://ebin.city/~werwolf/posts/firefox-hardening-guide/))
   * [pyllyukko](https://github.com/pyllyukko/user.js/)
+  * [narsil](https://git.nixnet.services/Narsil/desktop_user.js)
 
 addons :
 
