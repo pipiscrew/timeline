@@ -4,7 +4,10 @@
 
 * [Brave](https://brave.com/) -- [Brave, the false sensation of privacy](http://ebin.city/~werwolf/posts/brave-is-shit/).
 * [SRWare](https://www.srware.net/iron/) -- removed all telemetry
-* [ungoogled](https://github.com/Eloston/ungoogled-chromium) -- sans integration with Google  
+* [ungoogled](https://github.com/Eloston/ungoogled-chromium) -- sans integration with Google
+  * [bin mirror](https://chromium.woolyss.com/#windows-64-bit) ([ref](https://github.com/Eloston/ungoogled-chromium/issues/1519#issuecomment-852119889))
+* [Marmaduke](https://github.com/mtslzr/homebrew-marmaduke-chromium) - homebrew tap
+* [Hibbiki](https://github.com/Hibbiki/chromium-win64) - homebrew tap
 
 Automatically open Chrome DevTools debug - `"c:\chrome.exe" -auto-open-devtools-for-tabs`.  
 
