@@ -20,7 +20,7 @@ To find the profile currently is use navigate to `about:support`.
 ----------
 
 
-both **IceCat** & **Brave** & **Firefox w/ arkenfox** when restarted getting new fingerprint.
+both **IceCat** & **Brave** & **Firefox w/ arkenfox** when restarted getting new fingerprin.  
 
 Tested with :
 
@@ -54,20 +54,20 @@ test browser [permissions](https://permission.site/).
   * [pyllyukko](https://github.com/pyllyukko/user.js/)
   * [narsil](https://git.nixnet.services/Narsil/desktop_user.js)
 
-addons :
+#### Addons
 
+  * [magnolia.Bypass Paywalls Clean]() - Allows you to read articles from websites that implement a paywall. [chrome](https://gitlab.com/magnolia1234/bypass-paywalls-chrome-clean) / [firefox](https://gitlab.com/magnolia1234/bypass-paywalls-firefox-clean)
   * Chrome-like [translate](https://github.com/FilipePS/Traduzir-paginas-web/) functionality (aka on the fly) to Firefox - Filipe Ps.Translate Web Pages
   * Browsec [VPN](https://addons.mozilla.org/en-US/firefox/addon/browsec/) free & fast.
   * [Remove Google Redirection on google results](https://addons.mozilla.org/en-US/firefox/addon/remove-google-redirections/)
   * [RESTClient](https://addons.mozilla.org/en-US/firefox/addon/restclient/) - use request header as `Content-Type application/x-www-form-urlencoded`
 
 
-
 Chrome.[Tampermonkey](https://chrome.google.com/webstore/detail/tampermonkey-beta/gcalenpjmijncebpfijmoaglllgpjagf) / Firefox.[Greasemonkey](https://addons.mozilla.org/en-US/firefox/addon/greasemonkey/) -- [Youtube - dismiss sign-in script](https://greasyfork.org/de/scripts/412178-youtube-dismiss-sign-in)
 
 [SponsorBlock](https://sponsor.ajay.app/) - Blocking Unwanted YouTube Video Segments.
 
-[magnolia.Bypass Paywalls Clean]() - Add-on allows you to read articles from websites that implement a paywall. [chrome](https://gitlab.com/magnolia1234/bypass-paywalls-chrome-clean) / [firefox](https://gitlab.com/magnolia1234/bypass-paywalls-firefox-clean)
+
 
 ## Minimal Browser
 * [NetSurf](https://www.netsurf-browser.org/)
