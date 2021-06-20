@@ -23,7 +23,7 @@ To find the profile currently is use navigate to `about:support`.
 ----------
 
 
-both **IceCat** & **Brave** & **Firefox w/ arkenfox** when restarted getting new fingerprin.  
+both **IceCat** & **Brave** & **Firefox w/ arkenfox** when restarted getting new fingerprint.  
 
 Tested with :
 
