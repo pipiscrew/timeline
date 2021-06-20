@@ -1,15 +1,26 @@
 ## Browser
 
-Unofficial windows, [IceCat](https://github.com/muslayev/icecat-win64) (Firefox based) for ultra privacy. The official Linux [here](https://www.gnu.org/software/gnuzilla/).
+### Chromium  
 
-[Brave](https://brave.com/) (Chrome based) based on Chromium but [Brave, the false sensation of privacy](http://ebin.city/~werwolf/posts/brave-is-shit/).
+* [Brave](https://brave.com/) -- [Brave, the false sensation of privacy](http://ebin.city/~werwolf/posts/brave-is-shit/).
+* [SRWare](https://www.srware.net/iron/) -- removed all telemetry
+* [ungoogled](https://github.com/Eloston/ungoogled-chromium) -- sans integration with Google  
 
-* Automatically open Chrome DevTools debug - `"c:\chrome.exe" -auto-open-devtools-for-tabs`
+Automatically open Chrome DevTools debug - `"c:\chrome.exe" -auto-open-devtools-for-tabs`.  
+
+To find the profile currently is use navigate to `chrome://version`.  
+
+### Gecko 
+
+* [Mozilla.Firefox](https://www.mozilla.org/en-US/firefox/all/#product-desktop-release)
+* Unofficial windows, [IceCat](https://github.com/muslayev/icecat-win64) for ultra privacy. The official Linux [here](https://www.gnu.org/software/gnuzilla/).
+
+To find the profile currently is use navigate to `about:support`.  
 
 ----------
 
 
-both IceCat & Brave when restarted getting new fingerprint.
+both **IceCat** & **Brave** & **Firefox w/ arkenfox** when restarted getting new fingerprint.
 
 Tested with :
 
@@ -31,11 +42,10 @@ test browser [permissions](https://permission.site/).
 * [2](https://color.firefox.com)
 * [3](https://firefoxcss-store.github.io/)
 * [4](https://github.com/black7375/Firefox-UI-Fix)
-* If you don't like Firefox 89, then set `browser.proton.enabled` to `false` in `about:config`
+* If you don't like Firefox 89, then set `browser.proton.enabled` to `false` in `about:config`  
 
-download latest Mozilla.Firefox [here](https://www.mozilla.org/en-US/firefox/all/#product-desktop-release).
+#### Using Firefox user.js settings file
 
-To find your profile directory navigate to `about:support`. 
 * settings made in `about:config` are saved only to `prefs.js` [ref](https://mkaz.blog/misc/using-firefox-user-js-settings-file/)
 * `user.js` file stores user settings, the file is loaded each time Firefox starts. This a convenient way to save your browser customizations and apply them on different machines. Ready to use `user.js` copy it near `prefs.js` :  
   * [arkenfox](https://github.com/arkenfox/user.js)  ([ref](http://ebin.city/~werwolf/posts/firefox-hardening-guide/)) - tested with v87, generates new fingerprint on restart++.  
