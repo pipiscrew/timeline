@@ -38,7 +38,7 @@ download latest Mozilla.Firefox [here](https://www.mozilla.org/en-US/firefox/all
 To find your profile directory navigate to `about:support`. 
 * settings made in `about:config` are saved only to `prefs.js` [ref](https://mkaz.blog/misc/using-firefox-user-js-settings-file/)
 * `user.js` file stores user settings, the file is loaded each time Firefox starts. This a convenient way to save your browser customizations and apply them on different machines. Ready to use `user.js` copy it near `prefs.js` :  
-  * [arkenfox](https://github.com/arkenfox/user.js)  ([ref](http://ebin.city/~werwolf/posts/firefox-hardening-guide/)) -tested with v87 NO fignerprint on all levels!
+  * [arkenfox](https://github.com/arkenfox/user.js)  ([ref](http://ebin.city/~werwolf/posts/firefox-hardening-guide/)) - tested with v87 NO fignerprint on all levels! generates new fingerprint on restart.
   * [pyllyukko](https://github.com/pyllyukko/user.js/)
   * [narsil](https://git.nixnet.services/Narsil/desktop_user.js)
 
