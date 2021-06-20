@@ -114,6 +114,7 @@
 * [Tailcat.Cliqz](https://cliqz.com/) - acquired by Brave browser  
 * [DuckDuckGo bangs](https://duckduckgo.com/bang) - nicely categorized bookmarks  
 * [lumpysoft.Google index search](https://lumpysoft.com/)  
+* [nixnet.searX](https://searx.nixnet.services/)  
 
 ## temporary mail
 * [tempmail](https://temp-mail.org/en/)  
