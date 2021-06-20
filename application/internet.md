@@ -4,7 +4,7 @@ Unofficial windows, [IceCat](https://github.com/muslayev/icecat-win64) (Firefox 
 
 [Brave](https://brave.com/) (Chrome based) based on Chromium but [Brave, the false sensation of privacy](http://ebin.city/~werwolf/posts/brave-is-shit/).
 
-	* Automatically open Chrome DevTools debug - `"c:\chrome.exe" -auto-open-devtools-for-tabs`
+* Automatically open Chrome DevTools debug - `"c:\chrome.exe" -auto-open-devtools-for-tabs`
 
 ----------
 
