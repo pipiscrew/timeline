@@ -42,7 +42,7 @@ test browser [permissions](https://permission.site/).
 * [2](https://color.firefox.com)
 * [3](https://firefoxcss-store.github.io/)
 * [4](https://github.com/black7375/Firefox-UI-Fix)
-* If you don't like Firefox 89, then set `browser.proton.enabled` to `false` in `about:config`  
+* If you don't like the new look of Firefox 89, then set `browser.proton.enabled` to `false` in `about:config`  
 
 #### Using Firefox user.js settings file
 
