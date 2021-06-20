@@ -77,13 +77,13 @@ Chrome.[Tampermonkey](https://chrome.google.com/webstore/detail/tampermonkey-bet
 	
 	Then install the **KeePassXC-Browser addon** for [firefox](https://addons.mozilla.org/en-US/firefox/addon/keepassxc-browser/) or [chrome](https://chrome.google.com/webstore/detail/keepassxc-browser/oboonakemofpalcgghocfoadofidjkkk). 
 	
-	-
+	--
 	
 	The browser addons on [github](https://github.com/keepassxreboot/keepassxc-browser).
 	
 	WARNING the browser addon from github repository, has different signature by the one is on the marketplace… Possible when use the one by repository you have to download also the [KeePassXC](https://github.com/keepassxreboot/keepassxc) from the repository(?).. otherwise user getting something like “cant connect” error.
 	
-	-
+	--
 	
 	Connecting the application and extension, any adjustment made to tools > settings > browser integration, it saves the configuration under
 	
