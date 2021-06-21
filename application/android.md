@@ -6,6 +6,7 @@ Music Player - [rhmsoft.Pulsar](https://play.google.com/store/apps/details?id=co
 Music Player - [Musicolet](https://krosbits.in/musicolet/)  
 QR - [SimpleAct.Quickmark](http://quickmark.com.tw/En/basic/index.asp) (gplay deprecated)  
 GPS - [TomTom Navigation](https://play.google.com/store/apps/details?id=com.tomtom.gplay.navapp) - supports offline maps / can used also for pedestrian route (adjust at settings > routing > route type)  
+Maps - [Organic Maps](https://github.com/organicmaps/organicmaps)  
 Expenses - [Alzex Finance](https://play.google.com/store/apps/details?id=com.alzex.finance.pro)  
 Expenses - [Chromabill](https://www.chromabill.com/) - ??  
 Pedometer - [Leap Fitness.Step Counter](https://play.google.com/store/apps/details?id=pedometer.steptracker.calorieburner.stepcounter)  
@@ -20,3 +21,4 @@ Text Editor - [rhmsoft.QuickEdit](https://play.google.com/store/apps/details?id=
 Measure Wifi - [farproc.Wifi Analyzer](https://play.google.com/store/apps/details?id=com.farproc.wifi.analyzer)  
 Hack WPS - [WPSApp](https://play.google.com/store/apps/details?id=com.themausoft.wpsapp)  
 Video Capture - [Cinema FV-5 Lite](https://play.google.com/store/apps/details?id=com.flavionet.android.cinema.lite) - can change video frames per second (aka FPS) + bitrate.
+ 
