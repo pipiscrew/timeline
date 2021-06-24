@@ -265,3 +265,31 @@ The vegan diet is on trend. How this type of diet affects health is the subject 
   
 The results show that in most cases, the combination of these biomarkers was present in lower concentrations in vegans. [source](https://www.eurekalert.org/pub_releases/2021-03/bfif-dav030421.php)  
 
+## Intermittent Fasting
+Is an eating plan that switches between fasting and eating on a regular schedule. After hours without food, the body exhausts its **sugar stores** and starts burning fat, lets call it **metabolic switching**.  
+
+Research shows that it can take **two to four weeks** before the body becomes accustomed to intermittent fasting. You might feel hungry or cranky while you’re getting used to the new routine. But research subjects who make it through the adjustment period tend to **stick** with the plan, because they **notice they feel better**.
+
+When changes occur with this metabolic switch, it affects the body and brain. Many things happen during intermittent fasting that can protect organs against chronic diseases like type 2 diabetes, heart disease, age-related neurodegenerative disorders, even inflammatory bowel disease and many cancers. [src](https://www.hopkinsmedicine.org/health/wellness-and-prevention/intermittent-fasting-what-is-it-and-how-does-it-work)  
+
+**16 / 8 fasting**: eating for eight hours and fasting for 16. From **12pm - 8pm** you can eat what you want then fast for 16 hours. During fast can drink water, coffee, tea and other non-caloric beverages. Do not add sugar to your coffee.
+
+When you fast, **several things happen** in your body on the cellular and molecular level.
+
+For example, your body **adjusts hormone levels** to make stored body fat more accessible.
+
+Your **cells** also **initiate important repair processes** and change the expression of genes.
+
+Here are some changes that occur in your body when you fast:
+* Human Growth Hormone (HGH)
+* Insulin
+* Cellular repair
+* Gene expression
+* Brain health
+* Reduce Inflammation
+
+> Isn’t It Unhealthy to Skip Breakfast  
+
+No. The problem is that most stereotypical breakfast skippers have unhealthy lifestyles. If you make sure to eat healthy food for the rest of the day then the practice is perfectly healthy. [source](https://www.healthline.com/nutrition/intermittent-fasting-guide)
+
+[Διαλείπουσα νηστεία](https://www.onmed.gr/diatrofi/story/376423/dialeipoysa-nisteia-pos-tha-xekinisete)

@@ -165,7 +165,9 @@
 * [CPU-Upgrade](https://www.cpu-upgrade.com/CPUs/Intel/Core_i7_Mobile/i7-2715QE.html) - find compatible cpu for your motherboard
 * [Userbenchmark](https://cpu.userbenchmark.com/Compare/Intel-Core-i5-4570-vs-Intel-Core-i3-2310M/2770vsm159) - compare CPU
 * [CPU-World](https://www.cpu-world.com/Compare/343/AMD_Ryzen_5_PRO_3350G_vs_Intel_Core_i5_i5-10500.html) - compare CPU  
-* [passmark.AMD vs Intel Market Share](https://www.cpubenchmark.net/market_share.html) - metrics only by their app  
+* [nanoreview](https://nanoreview.net/en/cpu-compare/intel-core-i5-10500-vs-amd-ryzen-5-3400ge) - compare CPU
+* [passmark.AMD vs Intel Market Share](https://www.cpubenchmark.net/market_share.html) - metrics (only by their app)  
+* [technical city](https://technical.city/en/video/Radeon-RX-Vega-11-vs-UHD-Graphics-630) - gfx compare  
 
 ## news
 * [Reuters](https://www.reuters.com/)
