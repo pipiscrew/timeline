@@ -292,4 +292,6 @@ Here are some changes that occur in your body when you fast:
 
 No. The problem is that most stereotypical breakfast skippers have unhealthy lifestyles. If you make sure to eat healthy food for the rest of the day then the practice is perfectly healthy. [source](https://www.healthline.com/nutrition/intermittent-fasting-guide)
 
+[Mitochondrial Makeover: Hormone Balance](https://frankcomstockmd.com/2018/05/28/mitochondrial-makeover-hormone-balance/)  
+
 [Διαλείπουσα νηστεία](https://www.onmed.gr/diatrofi/story/376423/dialeipoysa-nisteia-pos-tha-xekinisete)
