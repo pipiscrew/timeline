@@ -1,5 +1,5 @@
 ﻿## 2021/06
-  * [Deloitte tells staff they can work from home forever](https://www.cityam.com/deloitte-tells-staff-they-can-work-from-home-forever/)
+  * [Deloitte tells staff they can work from home forever](https://www.cityam.com/deloitte-tells-staff-they-can-work-from-home-forever/) 
   * [WD - All data in mybook live gone and owner password unknown](https://community.wd.com/t/help-all-data-in-mybook-live-gone-and-owner-password-unknown/268111)
     * [2](https://arstechnica.com/gadgets/2021/06/mass-data-wipe-in-my-book-devices-prompts-warning-from-western-digital/)
   * [JWT Tokens are NOT safe](https://redislabs.com/blog/json-web-tokens-jwt-are-dangerous-for-user-sessions/)
