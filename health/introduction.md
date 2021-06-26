@@ -251,7 +251,9 @@ Those amino acids, is only for transport purposes. Egg or milk have '2000' times
 
 ----------
 
-[Amino Acid Protein Calculator](https://tools.myfooddata.com/protein-calculator)
+[Amino Acid Protein Calculator](https://tools.myfooddata.com/protein-calculator)  
+
+[Dietary Reference Intakes Calculator for Healthcare Professionals](https://www.nal.usda.gov/fnic/dri-calculator/)
 
 
 ----------
