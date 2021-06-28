@@ -71,3 +71,39 @@ extracted by [Buying a Commodore Amiga 30 Years Later](https://web.archive.org/w
 * [AmigaVideo](http://amigavideo.net/play/)
 * [FB - Viva Amiga](https://www.facebook.com/vivaamiga)
 * [From Bedroom to Billions](https://rebellion.com/films/fbtb/)
+
+### shops - advanced hardware
+* https://www.ami64.com/
+* https://www.7-bit.pl/
+* https://www.arananet.net/pedidos/
+* https://www.vesalia.de/
+* https://www.amiga-shop.net/en/
+* https://amigastore.eu/
+* https://commodore4ever.net/
+* https://bonuslifecomputers.com/
+* https://lotharek.pl/
+* https://www.micromiga.com/
+* http://amigaonthelake.com/
+* https://retrorewind.ca/home
+* https://www.8bitclassics.com/
+* https://www.8bits4ever.net/
+* https://www.sellmyretro.com/
+* https://www.polyplay.xyz/
+* https://retrohax.net/
+* https://shop.myamigashop.com/
+* https://www.retronicdesign.com/en/
+* https://retroready.one/
+* https://www.retrokit.com.au/
+* https://store.inertialcomputing.com/default.asp
+* https://centuriontech.eu/
+* https://www.amedia-computer.com/en/
+* https://webstore.kryoflux.com/catalog/index.php
+* https://sordan.ie/
+* https://icomp.de/shop-icomp/en/news.html
+* https://darthskalmar.pl/
+* http://www.amiworx.de/
+* http://www.ggsdata.se/index-en.php?page=CD-Rom/cd1-en.php
+* https://www.amigashop.org/index.php
+* https://www.analogic.co.uk/
+* https://www.retro32.com/
+* http://ianstedman.co.uk/
