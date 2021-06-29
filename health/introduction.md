@@ -298,4 +298,8 @@ No. The problem is that most stereotypical breakfast skippers have unhealthy lif
 
 [Διαλείπουσα νηστεία](https://www.onmed.gr/diatrofi/story/376423/dialeipoysa-nisteia-pos-tha-xekinisete)  
 
-[Android IFtracker](https://play.google.com/store/apps/details?id=pl.patraa.iftracker)
+[Android IFtracker](https://play.google.com/store/apps/details?id=pl.patraa.iftracker)  
+
+ref  
+* [Will Smoking Break a Fast?](https://intermittentdieter.com/will-smoking-break-a-fast/)
+* [Can You Take Supplements While Fasting?](https://www.bulletproof.com/supplements/dietary-supplements/supplements-while-fasting/)
