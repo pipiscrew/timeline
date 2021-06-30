@@ -194,6 +194,8 @@ A protein is comprised of 20 amino acids; 11 of these amino acids are produced b
  * Hempseed
  * Soybeans
  * [Chlorella](https://www.echlorial.fr/en/content/17-analyse-detaillee) (algae) [2](https://www.echlorial.fr/en/content/18-chlorella-composition)
+   * Black or dark stools are a common side effect that may be the harmless result of unabsorbed iron. [ref 1](https://www.feosol.com/about-iron/iron-side-effects) / [ref 2](https://www.webmd.com/digestive-disorders/black-tarry-stool-reasons) / [ref 3](https://myhealth.alberta.ca/Health/aftercareinformation/pages/conditions.aspx?hwid=ug5526)
+   * The iron supplement is usually ferrous sulfate, FeSO4. FeSO4 is a very dark green/black material and the unabsorbed material dyes or stains the stool.. [ref](https://www.quora.com/How-do-iron-supplements-cause-black-stool)
  * Spirulina (algae)
 
 [source](https://www.piedmont.org/living-better/what-is-a-complete-protein) 
@@ -301,5 +303,8 @@ No. The problem is that most stereotypical breakfast skippers have unhealthy lif
 [Android IFtracker](https://play.google.com/store/apps/details?id=pl.patraa.iftracker)  
 
 ref  
+* [Effects of Intermittent Fasting on Health, Aging, and Disease](https://www.dropbox.com/s/ukiwit8ozi7e4zo/Effects%20of%20Intermittent%20Fasting_2019-decabo.pdf?dl=1)
+* [Fasting triggers stem cell regeneration of damaged, old immune system](https://news.usc.edu/63669/fasting-triggers-stem-cell-regeneration-of-damaged-old-immune-system/)
+* [Fasting Diets Are Gaining Acceptance](https://well.blogs.nytimes.com/2016/03/07/intermittent-fasting-diets-are-gaining-acceptance/)
 * [Will Smoking Break a Fast?](https://intermittentdieter.com/will-smoking-break-a-fast/)
 * [Can You Take Supplements While Fasting?](https://www.bulletproof.com/supplements/dietary-supplements/supplements-while-fasting/)
