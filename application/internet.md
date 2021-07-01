@@ -76,6 +76,8 @@ Chrome.[Tampermonkey](https://chrome.google.com/webstore/detail/tampermonkey-bet
 ## Minimal Browser
 * [NetSurf](https://www.netsurf-browser.org/)
 * [Nessie](https://www.radsix.com/)
+* [Otter Browser - Controlled by the user, not vice versa](https://github.com/OtterBrowser/otter-browser)
+    * [2](https://otter-browser.org/)  
 
 ## Password Manager
 
