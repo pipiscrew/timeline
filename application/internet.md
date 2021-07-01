@@ -69,6 +69,8 @@ test browser [permissions](https://permission.site/).
 
 Chrome.[Tampermonkey](https://chrome.google.com/webstore/detail/tampermonkey-beta/gcalenpjmijncebpfijmoaglllgpjagf) / Firefox.[Greasemonkey](https://addons.mozilla.org/en-US/firefox/addon/greasemonkey/) -- [Youtube - dismiss sign-in script](https://greasyfork.org/de/scripts/412178-youtube-dismiss-sign-in)
 
+[Mozilla.Monitor](https://monitor.firefox.com/) - See if you’ve been part of an online data breach. #pwned  
+[Mozilla.Rally](https://rally.mozilla.org/) - Donate your data to studies.  
 [SponsorBlock](https://sponsor.ajay.app/) - Blocking Unwanted YouTube Video Segments.
 
 
