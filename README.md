@@ -17,7 +17,7 @@
   * [WD Support for My Book Live Vulnerabilities includes trade-in and recovery help](https://www.westerndigital.com/support/productsecurity/wdc-21008-recommended-security-measures-wd-mybooklive-wd-mybookliveduo)
   * [Introducing PathQuery, Google's Graph Query Language](https://arxiv.org/abs/2106.09799)
   * [Official PlayStation 1 Development Kit (Hardware)](https://www.retroreversing.com/official-playStation-devkit)
-  * [Download Speeds: What Do 2G, 3G, 4G & 5G Actually Mean?](https://kenstechtips.com/index.php/download-speeds-2g-3g-and-4g-actual-meaning)
+  * [Download Speeds: What Do 2G, 3G, 4G & 5G Actually Mean?](https://kenstechtips.com/index.php/download-speeds-2g-3g-and-4g-actual-meaning)  
   
   ## 2021/06
   * [Microsoft Teams 2.0 will use half the memory, dropping Electron for #Edge Webview2#](https://tomtalks.blog/2021/06/microsoft-teams-2-0-will-use-half-the-memory-dropping-electron-for-edge-webview2/)
