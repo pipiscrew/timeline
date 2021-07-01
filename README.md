@@ -1,4 +1,4 @@
-﻿  ## 2021/07
+﻿## 2021/07
   * [nVidia.Omniverse](https://youtu.be/QCBCqrxeikY)
   * [nVidia.Canvas app can turn Doodles into Realistic Landscapes](https://80.lv/articles/nvidia-s-canvas-app-can-turn-doodles-into-realistic-landscapes/)
   * [Measure with Music: How to Read Analog Sensors Using a PC Sound Card](https://nagimov.me/post/measure-with-music-how-to-read-analog-sensors-using-a-pc-sound-card/)
@@ -17,9 +17,9 @@
   * [WD Support for My Book Live Vulnerabilities includes trade-in and recovery help](https://www.westerndigital.com/support/productsecurity/wdc-21008-recommended-security-measures-wd-mybooklive-wd-mybookliveduo)
   * [Introducing PathQuery, Google's Graph Query Language](https://arxiv.org/abs/2106.09799)
   * [Official PlayStation 1 Development Kit (Hardware)](https://www.retroreversing.com/official-playStation-devkit)
-  * [Download Speeds: What Do 2G, 3G, 4G & 5G Actually Mean?3](https://kenstechtips.com/index.php/download-speeds-2g-3g-and-4g-actual-meaning)  
+  * [Download Speeds: What Do 2G, 3G, 4G & 5G Actually Mean?](https://kenstechtips.com/index.php/download-speeds-2g-3g-and-4g-actual-meaning)  
 
-  ## 2021/06
+## 2021/06
   * [Microsoft Teams 2.0 will use half the memory, dropping Electron for #Edge Webview2#](https://tomtalks.blog/2021/06/microsoft-teams-2-0-will-use-half-the-memory-dropping-electron-for-edge-webview2/)
   * [OpenStreetMap looks to relocate to EU due to Brexit limitations](https://www.theguardian.com/politics/2021/jun/30/openstreetmap-looks-to-relocate-to-eu-due-to-brexit-limitations)
   * [Conspiracy: In Theory and Practice](https://edwardsnowden.substack.com/p/conspiracy-pt1)
