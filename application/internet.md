@@ -46,7 +46,12 @@ test browser [permissions](https://permission.site/).
 * [2](https://color.firefox.com)
 * [3](https://firefoxcss-store.github.io/)
 * [4](https://github.com/black7375/Firefox-UI-Fix)
-* If you don't like the new look of Firefox 89, then set `browser.proton.enabled` to `false` in `about:config`  
+* If you don't like the new look of Firefox 89, then set `browser.proton.enabled` to `false` in `about:config`    
+
+[Mozilla.Firefox DNS-over-HTTPS rollout](https://blog.mozilla.org/en/mozilla/news/firefox-by-default-dns-over-https-rollout-in-canada/) -  in Canada (with local DoH provider CIRA)  
+
+
+ 
 
 #### Using Firefox user.js settings file
 

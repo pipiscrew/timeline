@@ -189,6 +189,8 @@ The **essential amino acids**, which are **derived** only from **food** and that
 A protein is comprised of 20 amino acids; 11 of these amino acids are produced by the human body. For good health, we must get the other **nine** amino acids (called "essential amino acids") from the foods we eat. When a food contains all nine of these amino acids, it is called a "complete protein." can be found :
 
  * Animal proteins, such as meat, eggs, and milk. Provide the highest-quality protein sources.  
+   * 100gr pork is ~25gr protein [ref1](http://www.dietandfitnesstoday.com/protein-in-ground-pork.php) / [ref2](https://www.healthline.com/nutrition/foods/pork)
+   * 100gr beef is ~25gr protein [ref1](http://www.dietandfitnesstoday.com/protein-in-beef.php) / [ref2](https://www.healthline.com/nutrition/foods/beef)
  * Quinoa
  * Buckwheat
  * Hempseed
