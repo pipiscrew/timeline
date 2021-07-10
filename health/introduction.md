@@ -191,12 +191,14 @@ A protein is comprised of 20 amino acids; 11 of these amino acids are produced b
  * Animal proteins, such as meat, eggs, and milk. Provide the highest-quality protein sources.  
    * 100gr pork is ~25gr protein [ref1](http://www.dietandfitnesstoday.com/protein-in-ground-pork.php) / [ref2](https://www.healthline.com/nutrition/foods/pork)
    * 100gr beef is ~25gr protein [ref1](http://www.dietandfitnesstoday.com/protein-in-beef.php) / [ref2](https://www.healthline.com/nutrition/foods/beef)
+   * 100gr chicken breast is ~30gr protein [ref1](http://www.dietandfitnesstoday.com/protein-in-chicken.php) / [ref2](https://www.healthline.com/nutrition/protein-in-chicken)
+   * Large [egg](https://www.healthline.com/nutrition/6-reasons-why-eggs-are-the-healthiest-food-on-the-planet#TOC_TITLE_HDR_5) (46gr) is ~6gr protein [ref1](http://www.dietandfitnesstoday.com/egg-nutrition-facts.php) / [ref2](https://www.healthline.com/nutrition/protein-in-egg)
  * Quinoa
  * Buckwheat
  * Hempseed
  * Soybeans
  * [Chlorella](https://www.echlorial.fr/en/content/17-analyse-detaillee) (algae) [2](https://www.echlorial.fr/en/content/18-chlorella-composition)
-   * Black or dark stools are a common side effect that may be the harmless result of unabsorbed iron. [ref 1](https://www.feosol.com/about-iron/iron-side-effects) / [ref 2](https://www.webmd.com/digestive-disorders/black-tarry-stool-reasons) / [ref 3](https://myhealth.alberta.ca/Health/aftercareinformation/pages/conditions.aspx?hwid=ug5526)
+   * Black or dark stools are a common side effect that may be the harmless result of unabsorbed iron. [ref1](https://www.feosol.com/about-iron/iron-side-effects) / [ref2](https://www.webmd.com/digestive-disorders/black-tarry-stool-reasons) / [ref3](https://myhealth.alberta.ca/Health/aftercareinformation/pages/conditions.aspx?hwid=ug5526)
    * The iron supplement is usually ferrous sulfate, FeSO4. FeSO4 is a very dark green/black material and the unabsorbed material dyes or stains the stool.. [ref](https://www.quora.com/How-do-iron-supplements-cause-black-stool)
  * Spirulina (algae)
 
