@@ -273,6 +273,9 @@ The vegan diet is on trend. How this type of diet affects health is the subject 
   
 The results show that in most cases, the combination of these biomarkers was present in lower concentrations in vegans. [source](https://www.eurekalert.org/pub_releases/2021-03/bfif-dav030421.php)  
 
+[Vegetables have become far less nutritious](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6163803/)  
+
+
 ## Intermittent Fasting
 Is an eating plan that switches between fasting and eating on a regular schedule. After hours without food, the body exhausts its **sugar stores** and starts burning fat, lets call it **metabolic switching**.  
 
