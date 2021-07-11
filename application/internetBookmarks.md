@@ -162,6 +162,7 @@
 ## cpu
 * [CPU-Z](https://www.cpuid.com/downloads/cpu-z/cpu-z_1.96-en.zip) - information for cpu
 * [Core Temp](https://www.alcpu.com/CoreTemp/CoreTemp64.zip) - check cpu temperature
+* [HWiNFO](https://www.hwinfo.com/) - system info  
 * [CPU-Upgrade](https://www.cpu-upgrade.com/CPUs/Intel/Core_i7_Mobile/i7-2715QE.html) - find compatible cpu for your motherboard
 * [Userbenchmark](https://cpu.userbenchmark.com/Compare/Intel-Core-i5-4570-vs-Intel-Core-i3-2310M/2770vsm159) - compare CPU
 * [CPU-World](https://www.cpu-world.com/Compare/343/AMD_Ryzen_5_PRO_3350G_vs_Intel_Core_i5_i5-10500.html) - compare CPU  
