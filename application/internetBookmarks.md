@@ -157,6 +157,7 @@
 * [Earthquake Track](https://earthquaketrack.com/)
 * [Evozi.APK Downloader](https://apps.evozi.com/apk-downloader/)
 * (chrome) [CRX Extractor](https://crxextractor.com/)
+* [WiFi Card](https://wificard.io/)
 * [Libera IRC network](https://web.libera.chat/)  
 
 ## cpu

@@ -42,13 +42,17 @@ test browser [permissions](https://permission.site/).
 [Site Isolation](https://blog.mozilla.org/security/2021/05/18/introducing-site-isolation-in-firefox/) in **Firefox** - `about:config > fission.autostart > true`  
 [Mozilla integrates Firefox offline Translations into Firefox](https://www.ghacks.net/2021/05/29/mozilla-integrates-firefox-translations-into-firefox/) - `about:config > extensions.translations.disabled > turn to false > restart`  
 **Mozilla.Firefox** v89 - redesigned and modernized, [private browsing](https://blog.mozilla.org/security/2021/06/01/total-cookie-protection-in-private-browsing/) changed & explained  
-[Mozilla.Firefox 89 Tab Appearance](https://amitp.blogspot.com/2021/06/firefox-89-tab-appearance.html)
+[Mozilla.Firefox v89 Tab Appearance](https://amitp.blogspot.com/2021/06/firefox-89-tab-appearance.html)
 * [2](https://color.firefox.com)
 * [3](https://firefoxcss-store.github.io/)
 * [4](https://github.com/black7375/Firefox-UI-Fix)
 * If you don't like the new look of Firefox 89, then set `browser.proton.enabled` to `false` in `about:config`    
 
-[Mozilla.Firefox DNS-over-HTTPS rollout](https://blog.mozilla.org/en/mozilla/news/firefox-by-default-dns-over-https-rollout-in-canada/) -  in Canada (with local DoH provider CIRA)  
+[Mozilla.Firefox DNS-over-HTTPS rollout](https://blog.mozilla.org/en/mozilla/news/firefox-by-default-dns-over-https-rollout-in-canada/) -  in Canada (with local DoH provider CIRA)
+
+**Mozilla.Firefox** v90 - supports [Fetch Metadata Request Headers](https://blog.mozilla.org/security/2021/07/12/firefox-90-supports-fetch-metadata-request-headers/)  
+
+]
 
 
  
