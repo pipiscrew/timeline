@@ -47,7 +47,7 @@ She has a degree in Molecular Genetics from Trinity College Dublin (1989) and he
 
 ### Others
 * [Stop World Control](https://www.stopworldcontrol.com/)  
-
+&nbsp;
 
 # Alternatives
 * 14/01/2021 - [Natural COVID Therapies](https://anh-usa.org/world-begins-to-wake-up-about-natural-covid-therapies/) - Thailand, government regulators recently approved **Andrographic paniculata** , an herbaceous herb native to Southeast Asia, as a treatment for early COVID-19 infection  
