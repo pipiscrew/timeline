@@ -15,6 +15,7 @@
 # news
 * stay updated [Corona Stas](https://corona-stats.online/)
 * stay updated [worldometers.Corona Status](https://www.worldometers.info/coronavirus/)
+* 14/11/2020 - [Over 34,000 Health Experts Sign Declaration Against COVID-19 Lockdowns](https://www.theepochtimes.com/over-30000-health-experts-sign-declaration-against-covid-19-lockdowns_3537277.html)
 * [Pfizer is testing a pill](https://montrealgazette.com/news/world/pfizer-is-testing-a-pill-that-if-successful-could-become-first-ever-home-cure-for-covid-19)
 * [Politicians injecting REGENERON](https://www.regeneron.com/covid19) - a non mRNA, costs 11k $ / shot
 * [Coronavirus is in the air, there’s too much focus on surfaces](https://www.nature.com/articles/d41586-021-00277-8)
@@ -29,9 +30,17 @@
 
 # faq
 
+### Dr Judy Mikovits
+
+Started her career as a lab technician at the National Cancer Institute (NCI) in 1988. She became a scientist and obtained a PhD in **biochemistry** and **molecular biology** from George Washington University in 1991. By 2009, she was research director at the Whittemore Peterson Institute (WPI), a private research center in Reno, Nevada. [src](https://www.sciencemag.org/news/2020/05/fact-checking-judy-mikovits-controversial-virologist-attacking-anthony-fauci-viral)
+
+* 2020 - [The hidden agenda behind COVID19](https://www.brighteon.com/63a9164c-4a13-4723-b68f-08baf94d2b93)
+* 08/04/2017 - [Made A Horrifying Discovery That Is Contaminating Vaccines](https://healthfreedomidaho.org/dr-judy-mikovits-made-a-horrifying-discovery-is-contaminating-all-vaccinations/)  
+&nbsp;
+
 ### Dolores Cahill
 
-She has a degree in Molecular Genetics from Trinity College Dublin (1989) and her PhD in Immunology from Dublin City University in 1994.  
+She has a degree in **molecular genetics** from Trinity College Dublin (1989) and her PhD in Immunology from Dublin City University in 1994.  
 
 > All injected people, will die
   
@@ -55,6 +64,7 @@ She has a degree in Molecular Genetics from Trinity College Dublin (1989) and he
 &nbsp;
 
 # alternatives
+* [Clinical phases of Covid Treatments](https://www.quiverquant.com/covidtreatments/)
 * 14/01/2021 - [Natural COVID Therapies](https://anh-usa.org/world-begins-to-wake-up-about-natural-covid-therapies/) - Thailand, government regulators recently approved **Andrographic paniculata** , an herbaceous herb native to Southeast Asia, as a treatment for early COVID-19 infection  
 * [Front Line COVID-19 Critical Care Alliance](https://covid19criticalcare.com/)
   * 07/06/2021 - [Ivermectin As a COVID-19 Therapy](https://blogs.sciencemag.org/pipeline/archives/2021/06/07/ivermectin-as-a-covid-19-therapy)
