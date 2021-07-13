@@ -18,7 +18,7 @@
 * 14/11/2020 - [Over 34,000 Health Experts Sign Declaration Against COVID-19 Lockdowns](https://www.theepochtimes.com/over-30000-health-experts-sign-declaration-against-covid-19-lockdowns_3537277.html)
 * 26/04/2021 - [Pfizer is testing a pill](https://montrealgazette.com/news/world/pfizer-is-testing-a-pill-that-if-successful-could-become-first-ever-home-cure-for-covid-19)
 * [Politicians injecting REGENERON](https://www.regeneron.com/covid19) - a non mRNA, costs 11k $ / shot
-* [Coronavirus is in the air, there’s too much focus on surfaces](https://www.nature.com/articles/d41586-021-00277-8)
+* 02/02/2021 - [Coronavirus is in the air, there’s too much focus on surfaces](https://www.nature.com/articles/d41586-021-00277-8)
 * [Analysis of Pfizer & Moderna](https://blog.jonasneubert.com/2021/01/10/exploring-the-supply-chain-of-the-pfizer-biontech-and-moderna-covid-19-vaccines/)
   * [Reverse Engineering the source code of the Pfizer vaccine : Part 1](https://berthub.eu/articles/posts/reverse-engineering-source-code-of-the-biontech-pfizer-vaccine/)
   * [Reverse Engineering the source code of the Pfizer vaccine : Part 2](https://berthub.eu/articles/posts/part-2-reverse-engineering-source-code-of-the-biontech-pfizer-vaccine/)
