@@ -48,8 +48,9 @@ She has a degree in Molecular Genetics from Trinity College Dublin (1989) and he
 ### Others
 * [Stop World Control](https://www.stopworldcontrol.com/)  
 
+
 # Alternatives
-* [Natural COVID Therapies](https://anh-usa.org/world-begins-to-wake-up-about-natural-covid-therapies/) - Thailand, government regulators recently approved **Andrographic paniculata** , an herbaceous herb native to Southeast Asia, as a treatment for early COVID-19 infection  
+* 14/01/2021 - [Natural COVID Therapies](https://anh-usa.org/world-begins-to-wake-up-about-natural-covid-therapies/) - Thailand, government regulators recently approved **Andrographic paniculata** , an herbaceous herb native to Southeast Asia, as a treatment for early COVID-19 infection  
 * [Front Line COVID-19 Critical Care Alliance](https://covid19criticalcare.com/)
-  * [Ivermectin As a COVID-19 Therapy](https://blogs.sciencemag.org/pipeline/archives/2021/06/07/ivermectin-as-a-covid-19-therapy)
+  * 07/06/2021 - [Ivermectin As a COVID-19 Therapy](https://blogs.sciencemag.org/pipeline/archives/2021/06/07/ivermectin-as-a-covid-19-therapy)
 * [halo therapeutics](https://halo-therapeutics.com/) - biotech company from Bristol uses **linoleic acid** as pan coronavirus antiviral
