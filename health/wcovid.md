@@ -15,17 +15,17 @@
 # news
 * stay updated [Corona Stats](https://corona-stats.online/)
 * stay updated [worldometers.Corona Status](https://www.worldometers.info/coronavirus/)
-* 14/11/2020 - [Over 34,000 Health Experts Sign Declaration Against COVID-19 Lockdowns](https://www.theepochtimes.com/over-30000-health-experts-sign-declaration-against-covid-19-lockdowns_3537277.html)
-* 26/04/2021 - [Pfizer is testing a pill](https://montrealgazette.com/news/world/pfizer-is-testing-a-pill-that-if-successful-could-become-first-ever-home-cure-for-covid-19)
 * [Politicians injecting REGENERON](https://www.regeneron.com/covid19) - a non mRNA, costs 11k $ / shot
+* 14/11/2020 - [Over 34,000 Health Experts Sign Declaration Against COVID-19 Lockdowns](https://www.theepochtimes.com/over-30000-health-experts-sign-declaration-against-covid-19-lockdowns_3537277.html)
+* 10/01/2021 - [Analysis of Pfizer & Moderna](https://blog.jonasneubert.com/2021/01/10/exploring-the-supply-chain-of-the-pfizer-biontech-and-moderna-covid-19-vaccines/)
+  * 25/12/2020 - [Reverse Engineering the source code of the Pfizer vaccine : Part 1](https://berthub.eu/articles/posts/reverse-engineering-source-code-of-the-biontech-pfizer-vaccine/)
+  * 31/12/2020 - [Reverse Engineering the source code of the Pfizer vaccine : Part 2](https://berthub.eu/articles/posts/part-2-reverse-engineering-source-code-of-the-biontech-pfizer-vaccine/)
 * 02/02/2021 - [Coronavirus is in the air, there’s too much focus on surfaces](https://www.nature.com/articles/d41586-021-00277-8)
-* [Analysis of Pfizer & Moderna](https://blog.jonasneubert.com/2021/01/10/exploring-the-supply-chain-of-the-pfizer-biontech-and-moderna-covid-19-vaccines/)
-  * [Reverse Engineering the source code of the Pfizer vaccine : Part 1](https://berthub.eu/articles/posts/reverse-engineering-source-code-of-the-biontech-pfizer-vaccine/)
-  * [Reverse Engineering the source code of the Pfizer vaccine : Part 2](https://berthub.eu/articles/posts/part-2-reverse-engineering-source-code-of-the-biontech-pfizer-vaccine/)
+ * 15/04/2021 [Pfzier & Moderna mRNA sequence](https://github.com/NAalytics/Assemblies-of-putative-SARS-CoV2-spike-encoding-mRNA-sequences-for-vaccines-BNT-162b2-and-mRNA-1273/blob/main/Assemblies%20of%20putative%20SARS-CoV2-spike-encoding%20mRNA%20sequences%20for%20vaccines%20BNT-162b2%20and%20mRNA-1273.docx.pdf) 
+* 26/04/2021 - [Pfizer is testing a pill](https://montrealgazette.com/news/world/pfizer-is-testing-a-pill-that-if-successful-could-become-first-ever-home-cure-for-covid-19)
  * 22/06/2021 - [Corona: Delta](https://berthub.eu/articles/posts/corona-delta-update/) - use translator
  * 27/06/2021 - [Cuba's COVID vaccine rivals Pfizer & Moderna](https://www.dw.com/en/cubas-covid-vaccine-rivals-biontech-pfizer-moderna/a-58052365)
    * 25/06/2021 - [Venezuela receives first shipment of Cuban coronavirus vaccine](https://www.reuters.com/world/americas/venezuela-receives-first-shipment-cuban-coronavirus-vaccine-2021-06-24/)
- * [Pfzier & Moderna mRNA sequence](https://github.com/NAalytics/Assemblies-of-putative-SARS-CoV2-spike-encoding-mRNA-sequences-for-vaccines-BNT-162b2-and-mRNA-1273/blob/main/Assemblies%20of%20putative%20SARS-CoV2-spike-encoding%20mRNA%20sequences%20for%20vaccines%20BNT-162b2%20and%20mRNA-1273.docx.pdf)  
  * 12/07/2021 - [More Than a 1/4 of Covid-19 Patients Symptomatic After 6 Months](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0254523)
  * 13/07/2021 - [Delta Variant](https://unchartedterritories.tomaspueyo.com/p/delta-variant-everything-you-need)  
 &nbsp;
