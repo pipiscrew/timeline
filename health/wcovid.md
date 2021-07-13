@@ -1,7 +1,7 @@
 > Dr. Vandana :  
 > We have absolutely no idea what the cost of this engineered lockdown will be
 
-![by COVID19 Vaccination Tracker](https://i.imgur.com/xpwigil.jpg)
+![by COVID19 Vaccination Tracker](https://i.imgur.com/xPwiGIL.jpg)
 
 # Info
 * [COVID19 Vaccine Tracker](https://covid19.trackvaccines.org/vaccines/)
