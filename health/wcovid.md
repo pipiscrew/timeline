@@ -39,7 +39,7 @@ Started her career as a lab technician at the National Cancer Institute (NCI) in
 * 08/04/2017 - [Made A Horrifying Discovery That Is Contaminating Vaccines](https://healthfreedomidaho.org/dr-judy-mikovits-made-a-horrifying-discovery-is-contaminating-all-vaccinations/)  
 &nbsp;
 
-### Dolores Cahill
+### Dr Dolores Cahill
 
 She has a degree in **molecular genetics** from Trinity College Dublin (1989) and her PhD in Immunology from Dublin City University in 1994.  
 
