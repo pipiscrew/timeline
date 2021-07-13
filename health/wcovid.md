@@ -21,7 +21,7 @@
   * 25/12/2020 - [Reverse Engineering the source code of the Pfizer vaccine : Part 1](https://berthub.eu/articles/posts/reverse-engineering-source-code-of-the-biontech-pfizer-vaccine/)
   * 31/12/2020 - [Reverse Engineering the source code of the Pfizer vaccine : Part 2](https://berthub.eu/articles/posts/part-2-reverse-engineering-source-code-of-the-biontech-pfizer-vaccine/)
 * 02/02/2021 - [Coronavirus is in the air, there’s too much focus on surfaces](https://www.nature.com/articles/d41586-021-00277-8)
- * 15/04/2021 [Pfzier & Moderna mRNA sequence](https://github.com/NAalytics/Assemblies-of-putative-SARS-CoV2-spike-encoding-mRNA-sequences-for-vaccines-BNT-162b2-and-mRNA-1273/blob/main/Assemblies%20of%20putative%20SARS-CoV2-spike-encoding%20mRNA%20sequences%20for%20vaccines%20BNT-162b2%20and%20mRNA-1273.docx.pdf) 
+ * 15/04/2021 - [Pfizer & Moderna mRNA sequence](https://github.com/NAalytics/Assemblies-of-putative-SARS-CoV2-spike-encoding-mRNA-sequences-for-vaccines-BNT-162b2-and-mRNA-1273/blob/main/Assemblies%20of%20putative%20SARS-CoV2-spike-encoding%20mRNA%20sequences%20for%20vaccines%20BNT-162b2%20and%20mRNA-1273.docx.pdf) 
 * 26/04/2021 - [Pfizer is testing a pill](https://montrealgazette.com/news/world/pfizer-is-testing-a-pill-that-if-successful-could-become-first-ever-home-cure-for-covid-19)
  * 22/06/2021 - [Corona: Delta](https://berthub.eu/articles/posts/corona-delta-update/) - use translator
  * 27/06/2021 - [Cuba's COVID vaccine rivals Pfizer & Moderna](https://www.dw.com/en/cubas-covid-vaccine-rivals-biontech-pfizer-moderna/a-58052365)
@@ -44,7 +44,7 @@ Started her career as a lab technician at the National Cancer Institute (NCI) in
 
 ### Dr Dolores Cahill
 
-She has a degree in **molecular genetics** from Trinity College Dublin (1989) and her PhD in Immunology from Dublin City University in 1994.  
+She has a degree in **molecular genetics** from Trinity College Dublin (1989) and her PhD in **immunology** from Dublin City University in 1994.  
 
 > All injected people, will die
   
