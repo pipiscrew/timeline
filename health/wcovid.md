@@ -26,7 +26,7 @@
 # FAQ
 
 ### Dolores Cahill
-  
+
 She has a degree in Molecular Genetics from Trinity College Dublin (1989) and her PhD in Immunology from Dublin City University in 1994.  
 
 > All injected people, will die
