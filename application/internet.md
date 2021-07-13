@@ -50,12 +50,9 @@ test browser [permissions](https://permission.site/).
 
 [Mozilla.Firefox DNS-over-HTTPS rollout](https://blog.mozilla.org/en/mozilla/news/firefox-by-default-dns-over-https-rollout-in-canada/) -  in Canada (with local DoH provider CIRA)
 
-**Mozilla.Firefox** v90 - supports [Fetch Metadata Request Headers](https://blog.mozilla.org/security/2021/07/12/firefox-90-supports-fetch-metadata-request-headers/)  
-
-]
-
-
- 
+**Mozilla.Firefox** [v90](https://www.mozilla.org/en-US/firefox/90.0/releasenotes/) - supports [Fetch Metadata Request Headers](https://blog.mozilla.org/security/2021/07/12/firefox-90-supports-fetch-metadata-request-headers/)
+  * `about:third-party` - identify compatibility issues caused by third-party applications  
+&nbsp;
 
 #### Using Firefox user.js settings file
 
