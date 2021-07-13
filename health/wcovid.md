@@ -43,7 +43,7 @@ She has a degree in Molecular Genetics from Trinity College Dublin (1989) and he
   
 #### Dolores Cahill haters
 * [Dolores Cahill, Professor, Makes Unfounded Claims About Long-Term Effects of mRNA Vaccines](https://www.factcheck.org/2021/04/scicheck-irish-professor-makes-unfounded-claims-about-long-term-effects-of-mrna-vaccines/) - inside has links for her posts  
-* [Video spreads false information about COVID-19 vaccines](https://apnews.com/article/fact-checking-afs:Content:10007890098)
+* [Video spreads false information about COVID-19 vaccines](https://bit.ly/3ebgG4u)
 
 ### Others
 * [Stop World Control](https://www.stopworldcontrol.com/)  
