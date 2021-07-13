@@ -1,13 +1,15 @@
 > Dr. Vandana :  
-> We have absolutely no idea what the cost of this engineered lockdown will be
+> We have absolutely no idea what the cost of this engineered lockdown will be.
 
 ![by COVID19 Vaccination Tracker](https://i.imgur.com/xPwiGIL.jpg)
+&nbsp;
 
 # Info
 * [COVID19 Vaccine Tracker](https://covid19.trackvaccines.org/vaccines/)
 * [List of Covid-19 vaccine authorizations](https://en.wikipedia.org/wiki/List_of_COVID-19_vaccine_authorizations) - shows which countries discontinued which vaccine
 * [COVID19 Vaccination Tracker](https://covidvax.live/)
 * [Our World in Data - Vaccination counts per country](https://ourworldindata.org/grapher/share-people-vaccinated-covid?tab=map)  
+&nbsp;
 
 # News
 * stay updated [Corona Stas](https://corona-stats.online/)
@@ -22,6 +24,7 @@
  * 27/06/2021 - [Cuba's COVID vaccine rivals Pfizer & Moderna](https://www.dw.com/en/cubas-covid-vaccine-rivals-biontech-pfizer-moderna/a-58052365)
    * 25/06/2021 - [Venezuela receives first shipment of Cuban coronavirus vaccine](https://www.reuters.com/world/americas/venezuela-receives-first-shipment-cuban-coronavirus-vaccine-2021-06-24/)
  * [Pfzier & Moderna mRNA sequence](https://github.com/NAalytics/Assemblies-of-putative-SARS-CoV2-spike-encoding-mRNA-sequences-for-vaccines-BNT-162b2-and-mRNA-1273/blob/main/Assemblies%20of%20putative%20SARS-CoV2-spike-encoding%20mRNA%20sequences%20for%20vaccines%20BNT-162b2%20and%20mRNA-1273.docx.pdf)  
+&nbsp;
 
 # FAQ
 
