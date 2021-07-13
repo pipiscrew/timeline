@@ -4,14 +4,14 @@
 ![by COVID19 Vaccination Tracker](https://i.imgur.com/xPwiGIL.jpg)
 &nbsp;
 
-# Info
+# info
 * [COVID19 Vaccine Tracker](https://covid19.trackvaccines.org/vaccines/)
 * [List of Covid-19 vaccine authorizations](https://en.wikipedia.org/wiki/List_of_COVID-19_vaccine_authorizations) - shows which countries discontinued which vaccine
 * [COVID19 Vaccination Tracker](https://covidvax.live/)
 * [Our World in Data - Vaccination counts per country](https://ourworldindata.org/grapher/share-people-vaccinated-covid?tab=map)  
 &nbsp;
 
-# News
+# news
 * stay updated [Corona Stas](https://corona-stats.online/)
 * stay updated [worldometers.Corona Status](https://www.worldometers.info/coronavirus/)
 * [Pfizer is testing a pill](https://montrealgazette.com/news/world/pfizer-is-testing-a-pill-that-if-successful-could-become-first-ever-home-cure-for-covid-19)
@@ -26,7 +26,7 @@
  * [Pfzier & Moderna mRNA sequence](https://github.com/NAalytics/Assemblies-of-putative-SARS-CoV2-spike-encoding-mRNA-sequences-for-vaccines-BNT-162b2-and-mRNA-1273/blob/main/Assemblies%20of%20putative%20SARS-CoV2-spike-encoding%20mRNA%20sequences%20for%20vaccines%20BNT-162b2%20and%20mRNA-1273.docx.pdf)  
 &nbsp;
 
-# FAQ
+# faq
 
 ### Dolores Cahill
 
@@ -48,11 +48,11 @@ She has a degree in Molecular Genetics from Trinity College Dublin (1989) and he
 * [Dolores Cahill, Professor, Makes Unfounded Claims About Long-Term Effects of mRNA Vaccines](https://www.factcheck.org/2021/04/scicheck-irish-professor-makes-unfounded-claims-about-long-term-effects-of-mrna-vaccines/) - inside has links for her posts  
 * [Video spreads false information about COVID-19 vaccines](https://bit.ly/3ebgG4u)
 
-### Others
+### others
 * [Stop World Control](https://www.stopworldcontrol.com/)  
 &nbsp;
 
-# Alternatives
+# alternatives
 * 14/01/2021 - [Natural COVID Therapies](https://anh-usa.org/world-begins-to-wake-up-about-natural-covid-therapies/) - Thailand, government regulators recently approved **Andrographic paniculata** , an herbaceous herb native to Southeast Asia, as a treatment for early COVID-19 infection  
 * [Front Line COVID-19 Critical Care Alliance](https://covid19criticalcare.com/)
   * 07/06/2021 - [Ivermectin As a COVID-19 Therapy](https://blogs.sciencemag.org/pipeline/archives/2021/06/07/ivermectin-as-a-covid-19-therapy)
