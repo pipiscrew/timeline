@@ -26,6 +26,7 @@
  * 27/06/2021 - [Cuba's COVID vaccine rivals Pfizer & Moderna](https://www.dw.com/en/cubas-covid-vaccine-rivals-biontech-pfizer-moderna/a-58052365)
    * 25/06/2021 - [Venezuela receives first shipment of Cuban coronavirus vaccine](https://www.reuters.com/world/americas/venezuela-receives-first-shipment-cuban-coronavirus-vaccine-2021-06-24/)
  * [Pfzier & Moderna mRNA sequence](https://github.com/NAalytics/Assemblies-of-putative-SARS-CoV2-spike-encoding-mRNA-sequences-for-vaccines-BNT-162b2-and-mRNA-1273/blob/main/Assemblies%20of%20putative%20SARS-CoV2-spike-encoding%20mRNA%20sequences%20for%20vaccines%20BNT-162b2%20and%20mRNA-1273.docx.pdf)  
+ * 12/07/2021 - [More Than a 1/4 of Covid-19 Patients Symptomatic After 6 Months](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0254523)
  * 13/07/2021 - [Delta Variant](https://unchartedterritories.tomaspueyo.com/p/delta-variant-everything-you-need)  
 &nbsp;
 
@@ -35,8 +36,10 @@
 
 Started her career as a lab technician at the National Cancer Institute (NCI) in 1988. She became a scientist and obtained a PhD in **biochemistry** and **molecular biology** from George Washington University in 1991. By 2009, she was research director at the Whittemore Peterson Institute (WPI), a private research center in Reno, Nevada. [src](https://www.sciencemag.org/news/2020/05/fact-checking-judy-mikovits-controversial-virologist-attacking-anthony-fauci-viral)
 
-* 2020 - [The hidden agenda behind COVID19](https://www.brighteon.com/63a9164c-4a13-4723-b68f-08baf94d2b93)
 * 08/04/2017 - [Made A Horrifying Discovery That Is Contaminating Vaccines](https://healthfreedomidaho.org/dr-judy-mikovits-made-a-horrifying-discovery-is-contaminating-all-vaccinations/)  
+* 04/05/2020 - Her movie [Plandemic: The Hidden Agenda Behind Covid-19](https://www.brighteon.com/63a9164c-4a13-4723-b68f-08baf94d2b93) - declared as conspiracy theory. [imdb](https://www.imdb.com/title/tt12927010/)
+* 18/08/2020 - [Plandemic 2: Indoctornation](https://www.brighteon.com/ca9da0d0-d9bc-4f55-87bc-12204447dedc) - declared as conspiracy theory. Site [mirror](https://web.archive.org/web/20201101114720/https://plandemicseries.com/). [imdb](https://www.imdb.com/title/tt12927074/)
+
 &nbsp;
 
 ### Dr Dolores Cahill
