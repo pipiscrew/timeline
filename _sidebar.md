@@ -32,3 +32,4 @@
 	* [did i today](/health/didtoday.md)
 	* [skin](/health/skin.md)
 	* [articles](/health/articles.md)
+	* [covid](/health/wcovid.md)
