@@ -54,6 +54,7 @@
 * [Lbry](https://lbry.tv)
 * [flote](https://flote.app/)
 * [DLive](https://dlive.tv/)
+* [rumble](https://rumble.com/)
 * [QuoDB](http://www.quodb.com/) - Search movies by quote
 * [PlayPhrase](https://www.playphrase.me/) - Search movies by quote
 
@@ -62,6 +63,7 @@
 * [y2mate](https://www.y2mate.com) - add **pp** at the end => youtube**pp**.com/watch?v=p5IO-IJSVnQ
 * [SoundCloud Downloader](https://sclouddownloader.net/)
 * [Reddit Videos](https://viddit.red/)
+* [Reddit Save](https://redditsave.com/)
 * [Facebook Video Downloader](https://fbdown.net/)
 * (hyper-multi) - [youtube-dl](https://ytdl-org.github.io/youtube-dl/)  ([supported sites](https://github.com/ytdl-org/youtube-dl/blob/master/docs/supportedsites.md))
 * (multi) [TubeOffline](https://www.tubeoffline.com/bookmarklet.php)
@@ -69,6 +71,7 @@
 * (multi) [savefrom](https://savefrom.net)
 * (multi) [Savido](https://www.savido.net/)
 * (multi) [9xbuddy](https://9xbuddy.org/)
+* (multi) [savevideo](http://savevideo.me/)
 * [HyperDebrid](https://hyperdebrid.net/)  
 
 ## json / js / php / markdown / html

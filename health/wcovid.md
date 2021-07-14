@@ -38,9 +38,16 @@ Started her career as a lab technician at the National Cancer Institute (NCI) in
 
 * 11/2011 - Arrested on **felony charges** that she is a **fugitive** from justice. But she was released after five days and the charges were later dropped (pay $100k bail). [ref1](https://www.sciencemag.org/news/2011/11/controversial-cfs-researcher-arrested-and-jailed) / [ref2](https://www.sciencemag.org/news/2011/11/inmate-mikovits-meets-judge) / [ref3](https://slate.com/technology/2011/12/judy-mikovits-in-prison-what-does-it-mean-for-research-on-chronic-fatigue-syndrome.html) / [ref4](https://en.wikipedia.org/wiki/Judy_Mikovits)
 * 18/11/2014 - Released the book [Plague](https://www.skyhorsepublishing.com/9781628739299/plague/) - discuss (2009) findings that discovered **retrovirus** was **linked** to chronic fatigue syndrome (CFS), prostate cancer, lymphoma, and eventually neurodevelopmental disorders in children.
-* 08/04/2017 - [Interview for the discovery that is contaminating vaccines with Sayer Ji & Dr Mikovits](https://healthfreedomidaho.org/dr-judy-mikovits-made-a-horrifying-discovery-is-contaminating-all-vaccinations/)  
+* 08/04/2017 - [Interview for the discovery that is contaminating vaccines with Sayer Ji & Dr Mikovits](https://healthfreedomidaho.org/dr-judy-mikovits-made-a-horrifying-discovery-is-contaminating-all-vaccinations/)
+* 14/04/2014 - Released the book [Plague of Corruption](https://www.skyhorsepublishing.com/9781510752245/plague-of-corruption/) - corruption in science, changed the treatment of HIV-AIDS, saving the lives of millions.
 * 04/05/2020 - Her movie [Plandemic: The Hidden Agenda Behind Covid-19](https://www.brighteon.com/63a9164c-4a13-4723-b68f-08baf94d2b93) - declared as conspiracy theory. [imdb](https://www.imdb.com/title/tt12927010/)
+* 18/08/2020 - Released the book [The Case Against Masks](https://www.skyhorsepublishing.com/9781510764279/the-case-against-masks/)
 * 18/08/2020 - [Plandemic 2: Indoctornation](https://www.brighteon.com/ca9da0d0-d9bc-4f55-87bc-12204447dedc) - declared as conspiracy theory. Site [mirror](https://web.archive.org/web/20201101114720/https://plandemicseries.com/). [imdb](https://www.imdb.com/title/tt12927074/)
+* 31/08/2021 - Will release the book [Ending Plague](https://www.skyhorsepublishing.com/9781510764682/ending-plague/) - comes the prescription on how to end the plague infecting our medical community.  
+&nbsp;
+
+find latest news for her [here](https://plaguethebook.com/).
+&nbsp;
 
 &nbsp;
 
