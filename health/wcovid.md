@@ -43,6 +43,7 @@ Started her career as a lab technician at the National Cancer Institute (NCI) in
 * 04/05/2020 - Her movie [Plandemic: The Hidden Agenda Behind Covid-19](https://www.brighteon.com/63a9164c-4a13-4723-b68f-08baf94d2b93) - declared as conspiracy theory. [imdb](https://www.imdb.com/title/tt12927010/)
 * 18/08/2020 - Released the book [The Case Against Masks](https://www.skyhorsepublishing.com/9781510764279/the-case-against-masks/)
 * 18/08/2020 - [Plandemic 2: Indoctornation](https://www.brighteon.com/ca9da0d0-d9bc-4f55-87bc-12204447dedc) - declared as conspiracy theory. Site [mirror](https://web.archive.org/web/20201101114720/https://plandemicseries.com/). [imdb](https://www.imdb.com/title/tt12927074/)
+* 24/06/2021 - [Dr Judy in Tampa](https://rumble.com/embed/vgdskb/?pub=4)
 * 31/08/2021 - Will release the book [Ending Plague](https://www.skyhorsepublishing.com/9781510764682/ending-plague/) - comes the prescription on how to end the plague infecting our medical community.  
 &nbsp;
 
