@@ -315,3 +315,17 @@ ref
 * [Fasting Diets Are Gaining Acceptance](https://well.blogs.nytimes.com/2016/03/07/intermittent-fasting-diets-are-gaining-acceptance/)
 * [Will Smoking Break a Fast?](https://intermittentdieter.com/will-smoking-break-a-fast/)
 * [Can You Take Supplements While Fasting?](https://www.bulletproof.com/supplements/dietary-supplements/supplements-while-fasting/)
+
+&nbsp;
+
+-------------------------------------
+&nbsp;
+
+
+* [Dr Berg - What Is Epigenetic](https://www.youtube.com/watch?v=g12kIu9jrIk)
+    * [Dr Berg - The Most Powerful Epigenetic Trigger](https://www.youtube.com/watch?v=fzJtZt4_Y5Y)
+        * [Lissa Rankin - The shocking truth about your health](https://www.youtube.com/watch?v=7tu9nJmr4Xs)
+          * [TED - Brene Brown: The power of vulnerability](https://www.ted.com/talks/brene_brown_the_power_of_vulnerability)
+* [Dr Berg - Nrf2 The Gene that Bullet-Proofs You From Cancer](https://www.youtube.com/watch?v=zs6AVB_b-PI)
+* [Dr Berg - Nrf2 The Master Protector Gene](https://www.youtube.com/watch?v=UT8GbTBNmSI)
+* [Dr Berg - The Health Benefits of a Cucumber](https://www.youtube.com/watch?v=KP8XipP3qTE)
