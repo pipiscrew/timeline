@@ -292,6 +292,7 @@ For example, your body **adjusts hormone levels** to make stored body fat more a
 Your **cells** also **initiate important repair processes** and change the expression of genes.
 
 Here are some changes that occur in your body when you fast:
+* Remove damaged proteins from the body ([autophagy](https://www.youtube.com/watch?v=jnZhmiz4YcY))
 * Human Growth Hormone (HGH)
 * Insulin
 * Cellular repair
