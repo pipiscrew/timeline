@@ -327,4 +327,5 @@ ref
           * [TED - Brene Brown: The power of vulnerability](https://www.ted.com/talks/brene_brown_the_power_of_vulnerability)
 * [Dr Berg - Nrf2 The Gene that Bullet-Proofs You From Cancer](https://www.youtube.com/watch?v=zs6AVB_b-PI)
 * [Dr Berg - Nrf2 The Master Protector Gene](https://www.youtube.com/watch?v=UT8GbTBNmSI)
+* [Dr Berg - The Health Benefits of a Garlic](https://www.youtube.com/watch?v=G5gi7nqy2j0)
 * [Dr Berg - The Health Benefits of a Cucumber](https://www.youtube.com/watch?v=KP8XipP3qTE)
