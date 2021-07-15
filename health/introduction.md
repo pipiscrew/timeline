@@ -318,10 +318,8 @@ ref
 
 &nbsp;
 
--------------------------------------
-&nbsp;
 
-
+## Research
 * [Dr Berg - What Is Epigenetic](https://www.youtube.com/watch?v=g12kIu9jrIk)
     * [Dr Berg - The Most Powerful Epigenetic Trigger](https://www.youtube.com/watch?v=fzJtZt4_Y5Y)
         * [Lissa Rankin - The shocking truth about your health](https://www.youtube.com/watch?v=7tu9nJmr4Xs)
