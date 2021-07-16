@@ -75,6 +75,7 @@ She has a degree in **molecular genetics** from Trinity College Dublin (1989) an
 
 ### others
 * [Stop World Control](https://www.stopworldcontrol.com/)  
+* [VAXLonghaulers - We want to be heard](https://www.vaxlonghaulers.com/)  
 &nbsp;
 
 # alternatives
