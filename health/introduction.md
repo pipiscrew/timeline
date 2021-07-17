@@ -297,7 +297,7 @@ Here are some changes that occur in your body when you fast:
 * Insulin
 * Cellular repair
 * Gene expression
-* Brain health
+* Brain health (+ removing [amilo plaques](https://hub.jhu.edu/2016/07/22/fasting-benefits-brain-health/))
 * Reduce Inflammation
 
 > Isn’t It Unhealthy to Skip Breakfast  
@@ -318,24 +318,28 @@ ref
 * [Can You Take Supplements While Fasting?](https://www.bulletproof.com/supplements/dietary-supplements/supplements-while-fasting/)
 
 ### disadvantages - explained by Boris
-* More than 8 hours of fasting period increase
+
+* More than 12 hours of fasting period increase
   * your **cortisol** or so called stress hormone
   * **growth hormone**... This increase is not good at our age.
   * increase dramatically **ghrelin**. The hormone that makes you eat more on next meal.
-* More than 8 hours of fasting decrease :
+* More than 12 hours of fasting decrease :
   * **dopamine** and **serotonin**
   * all other **hormones**, as the absence of vitamin b, tryptophan and other **amino acids** coming from the food takes impact.
-* More than 8 hours of fasting causes **blood sugar** to drop.
+* More than 12 hours of fasting causes **blood sugar** to drop.
 
 And this is **main brain fuel**. So to remediate, the liver start breaking amino acids, so to produce **ketones**, the **reserve fuel** of the brain... **This is why you feel more focused**.
 
 **Stress** is high **adrenaline** and **cortisol** for long time.... And you get them with fasting.
 
-It is not good because all other organs are **paying the price**... The **brain works better** but even the brain is pays price... Search about amilo plaques.
+It is not good because all other organs are **paying the price**... The **brain works better** but even the brain is pays price...
 
-It takes 2-3 months of adaptation...
+It takes 2-3 months of fasting adaptation...  
 
-This mean after 2-3 months your **cortisol** will be higher, your **testosterone** will be lower and the **entire neurotransmitters system** will me messed up... This mean most probably depression will hit you.
+This mean after 2-3 months your **cortisol** will be higher, your **testosterone** will be lower and the **entire neurotransmitters system** will me messed up... Mean most probably depression will hit you.
+
+So doing **16:8** (vs normal **12:12**), in 4 hours **a lot of thinks can happen**... for example :  
+Some **hormones** like adrenaline have very short live... Only 8 seconds. Melatonin have 20 minutes life....  
 
 &nbsp;
 
