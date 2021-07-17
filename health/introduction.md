@@ -319,14 +319,14 @@ ref
 
 ### disadvantages - explained by Boris
 
-* More than 12 hours of fasting period increase
+* More than **12 hours** of fasting period increase
   * your **cortisol** or so called stress hormone
   * **growth hormone**... This increase is not good at our age.
   * increase dramatically **ghrelin**. The hormone that makes you eat more on next meal.
-* More than 12 hours of fasting decrease :
+* More than **12 hours** of fasting decrease :
   * **dopamine** and **serotonin**
   * all other **hormones**, as the absence of vitamin b, tryptophan and other **amino acids** coming from the food takes impact.
-* More than 12 hours of fasting causes **blood sugar** to drop.
+* More than **12 hours** of fasting causes **blood sugar** to drop.
 
 And this is **main brain fuel**. So to remediate, the liver start breaking amino acids, so to produce **ketones**, the **reserve fuel** of the brain... **This is why you feel more focused**.
 
@@ -338,7 +338,7 @@ It takes 2-3 months of fasting adaptation...
 
 This mean after 2-3 months your **cortisol** will be higher, your **testosterone** will be lower and the **entire neurotransmitters system** will me messed up... Mean most probably depression will hit you.
 
-So doing **16:8** (vs normal **12:12**), in 4 hours **a lot of thinks can happen**... for example :  
+So doing **16:8** (vs normal **12:12**), in these 4 hours difference **a lot of thinks can happen**... for example :  
 Some **hormones** like adrenaline have very short live... Only 8 seconds. Melatonin have 20 minutes life....  
 
 &nbsp;
