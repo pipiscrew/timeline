@@ -128,7 +128,8 @@
 * [TreeNoote](https://treenoote.com/) - Hierarchically Organized Note Taking Application
 * [TreeSheets](http://strlen.com/treesheets/) - Hierarchical Spreadsheet, Form Data Organizer
 * [henry++.Mem Reduct](https://www.henrypp.org/product/memreduct) - application to monitor and clean system memory on your computer.
-* [Calendar.best](https://www.calendar.best/) - Printable calendars
+* [Calendar.best](https://www.calendar.best/) - Printable calendars  
+* [Calendar Templates](https://www.vertex42.com/calendars/)  
 
 ## Drive Snapshot
 * [Acronis.True Image](https://www.acronis.com/en-us/products/true-image/)
