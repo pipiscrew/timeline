@@ -317,6 +317,26 @@ ref
 * [Will Smoking Break a Fast?](https://intermittentdieter.com/will-smoking-break-a-fast/)
 * [Can You Take Supplements While Fasting?](https://www.bulletproof.com/supplements/dietary-supplements/supplements-while-fasting/)
 
+### disadvantages - explained by Boris
+* More than 8 hours of fasting period increase
+  * your **cortisol** or so called stress hormone
+  * **growth hormone**... This increase is not good at our age.
+  * increase dramatically **ghrelin**. The hormone that makes you eat more on next meal.
+* More than 8 hours of fasting decrease :
+  * **dopamine** and **serotonin**
+  * all other **hormones**, as the absence of vitamin b, tryptophan and other **amino acids** coming from the food takes impact.
+* More than 8 hours of fasting causes **blood sugar** to drop.
+
+And this is **main brain fuel**. So to remediate, the liver start breaking amino acids, so to produce **ketones**, the **reserve fuel** of the brain... **This is why you feel more focused**.
+
+**Stress** is high **adrenaline** and **cortisol** for long time.... And you get them with fasting.
+
+It is not good because all other organs are **paying the price**... The **brain works better** but even the brain is pays price... Search about amilo plaques.
+
+It takes 2-3 months of adaptation...
+
+This mean after 2-3 months your **cortisol** will be higher, your **testosterone** will be lower and the **entire neurotransmitters system** will me messed up... This mean most probably depression will hit you.
+
 &nbsp;
 
 
