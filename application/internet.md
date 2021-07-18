@@ -84,6 +84,11 @@ Chrome.[Tampermonkey](https://chrome.google.com/webstore/detail/tampermonkey-bet
 [Mozilla.Rally](https://rally.mozilla.org/) - Donate your data to studies.  
 [SponsorBlock](https://sponsor.ajay.app/) - Blocking Unwanted YouTube Video Segments.
 
+### Mozilla.Firefox - Cache Memory reduction  
+`about:cache` - see the cache settings  
+`about:performance` - browser process manager  
+`about:config` > `browser.cache.memory.capacity` - user can modify to an actual value instead of -1 (unlimited) it's in kilobytes. Or disable [browser.cache.memory.enable](http://kb.mozillazine.org/Browser.cache.memory.enable) entirely.  
+To disable multiple running processes of the browser, you can set `browser.tabs.remote.autostart` to `false`. But be aware, now when a tab crashes it will kill your whole browser, but it will use less RAM.   
 
 
 ## Minimal Browser
