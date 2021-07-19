@@ -32,6 +32,11 @@
 
 # faq
 
+### Robert Malone
+* 19/07/2021 - [The True Story of How mRNA Vaccination was Invented](https://www.rwmalonemd.com/mrna-vaccine-inventor) - [twitter](https://twitter.com/RWMaloneMD/status/1417087811505819653)  
+* 19/07/2021 - in this [tweet](https://twitter.com/RWMaloneMD/status/1417089129335099398) referring [Geert Vanden Bossche](https://twitter.com/GVDBossche/status/1384921885364871168) tweet, who is sharing this [video](https://youtu.be/w3xq4cEHT0s) from April 2021.
+* 13/03/2021 - [Geert Vanden Bossche - The open letter to WHO](https://www.geertvandenbossche.org)
+
 ### Dr Judy Mikovits
 
 Started her career as a lab technician at the National Cancer Institute (NCI) in 1988. She became a scientist and obtained a PhD in **biochemistry** and **molecular biology** from George Washington University in 1991. By 2009, she was research director at the Whittemore Peterson Institute (WPI), a private research center in Reno, Nevada. [src](https://www.sciencemag.org/news/2020/05/fact-checking-judy-mikovits-controversial-virologist-attacking-anthony-fauci-viral)

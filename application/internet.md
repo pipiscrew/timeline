@@ -30,7 +30,8 @@ Tested with :
 
   * [FingerprintJS](https://fingerprintjs.com/demo)
     * [cross-browser tracking](https://fingerprintjs.com/blog/external-protocol-flooding/)
-  * [Unique Machine](http://uniquemachine.org/)  
+  * [Unique Machine](http://uniquemachine.org/) 
+  * [TLS Fingerprint](https://tlsfingerprint.io/) - appears on first page  
 
 test browser [permissions](https://permission.site/).
 
