@@ -36,6 +36,7 @@
 * 19/07/2021 - [The True Story of How mRNA Vaccination was Invented](https://www.rwmalonemd.com/mrna-vaccine-inventor) - [twitter](https://twitter.com/RWMaloneMD/status/1417087811505819653)  
 * 19/07/2021 - in this [tweet](https://twitter.com/RWMaloneMD/status/1417089129335099398) referring [Geert Vanden Bossche](https://twitter.com/GVDBossche/status/1384921885364871168) tweet, who is sharing this [video](https://youtu.be/w3xq4cEHT0s) from April 2021.
 * 13/03/2021 - [Geert Vanden Bossche - The open letter to WHO](https://www.geertvandenbossche.org)
+* 21/06/2021 - [Why the ongoing mass vaccination experiment drives a rapid evolutionary response of SARS-CoV-2](https://www.geertvandenbossche.org/post/why-the-ongoing-mass-vaccination-experiment-drives-a-rapid-evolutionary-response-of-sars-cov-2)
 
 ### Dr Judy Mikovits
 

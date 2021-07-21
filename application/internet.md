@@ -51,7 +51,7 @@ test browser [permissions](https://permission.site/).
 
 [Mozilla.Firefox DNS-over-HTTPS rollout](https://blog.mozilla.org/en/mozilla/news/firefox-by-default-dns-over-https-rollout-in-canada/) -  in Canada (with local DoH provider CIRA)
 
-**Mozilla.Firefox** [v90](https://www.mozilla.org/en-US/firefox/90.0/releasenotes/) - supports [Fetch Metadata Request Headers](https://blog.mozilla.org/security/2021/07/12/firefox-90-supports-fetch-metadata-request-headers/)
+**Mozilla.Firefox** [v90](https://www.mozilla.org/en-US/firefox/90.0/releasenotes/) - supports [Fetch Metadata Request Headers](https://blog.mozilla.org/security/2021/07/12/firefox-90-supports-fetch-metadata-request-headers/), introduces [background updates](https://support.mozilla.org/en-US/kb/enable-background-updates-firefox-windows) :(.  
   * `about:third-party` - identify compatibility issues caused by third-party applications  
 &nbsp;
 
@@ -220,4 +220,7 @@ To disable multiple running processes of the browser, you can set `browser.tabs.
 
 ## share
 * [Rejetto.HFS](http://www.rejetto.com/hfs/) - Use it to send and receive files
-* [voidtools.Everything](https://www.voidtools.com/) - how to [enable HTTP server](https://www.voidtools.com/support/everything/http/)
+* [voidtools.Everything](https://www.voidtools.com/) - how to [enable HTTP server](https://www.voidtools.com/support/everything/http/)  
+
+## misc
+* [atkinsio.Bookmarks HTML Generator](https://github.com/atkinsio/bookmarks-html-generator)
