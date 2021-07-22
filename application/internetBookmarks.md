@@ -102,6 +102,7 @@
 ## music
 * [tunefind](https://www.tunefind.com) - Find music from TV and movies
 * [Music For Programming](http://musicforprogramming.net/)
+* [sudo - Music For Programming](https://sudo.fm)
 * [Webamp](https://webamp.org/) - Winamp like
 	* [Butterchurn](https://github.com/jberg/butterchurn)
 	* [Speeding Up Webamp's Music Visualizer with WebAssembly](https://jordaneldredge.com/blog/speeding-up-winamps-music-visualizer-with-webassembly/)
