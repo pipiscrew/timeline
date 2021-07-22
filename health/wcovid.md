@@ -10,6 +10,7 @@
 * [List of Covid-19 vaccine authorizations](https://en.wikipedia.org/wiki/List_of_COVID-19_vaccine_authorizations) - shows which countries discontinued which vaccine
 * [COVID19 Vaccination Tracker](https://covidvax.live/)
 * [Our World in Data - Vaccination counts per country](https://ourworldindata.org/grapher/share-people-vaccinated-covid?tab=map)  
+* [How Covid-19 Vaccines Work](https://www.nytimes.com/interactive/2021/health/how-covid-19-vaccines-work.html)  
 &nbsp;
 
 # news

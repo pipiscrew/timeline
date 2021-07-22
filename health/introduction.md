@@ -297,8 +297,14 @@ Here are some changes that occur in your body when you fast:
 * Insulin
 * Cellular repair
 * Gene expression
-* Brain health (+ removing [amilo plaques](https://hub.jhu.edu/2016/07/22/fasting-benefits-brain-health/))
+* Brain health  
 * Reduce Inflammation
+
+Mark Mattson is a professor of neuroscience in the Johns Hopkins School, said at 2016 : 
+* every time you eat, glucose is stored in your liver as glycogen, which takes about 10 to 12 hours to be depleted. After the glycogen is used up, your body starts burning fats, which are converted to **ketone** bodies, acidic chemicals used by neurons as energy. Ketones promote positive changes in the structure of synapses important for learning, memory, and overall brain health.   
+* can help improve neural connections in the hippocampus while protecting neurons against the accumulation of **amyloid plaques**  
+* brain reacts by activating adaptive stress responses  
+* when the brain is challenged by physical exertion, cognitive tasks, or caloric restriction, the body produces a protein called **BDNF** (brain-derived neurotrophic factor), which not only strengthens neural connections and increases the production of new neurons (neuroplasticity) but can also have an anti-depressive effect.  [source](https://hub.jhu.edu/2016/07/22/fasting-benefits-brain-health/) / [ref2](http://web.archive.org/web/20181217034624/http://www.johnshopkinshealthreview.com/issues/spring-summer-2016/articles/are-there-any-proven-benefits-to-fasting) / [ref2-mirror](https://www.dropbox.com/s/0rw4exp59m1wcqd/Mark%20Mattson%20-%20There%20are%20Proven%20Benefits%20to%20Fasting.pdf?dl=1)   
 
 > Isn’t It Unhealthy to Skip Breakfast  
 
