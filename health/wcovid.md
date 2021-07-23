@@ -34,7 +34,7 @@
 # faq
 
 ### Dr Sucharit Bhakdi
-* 09/07/2021 - Explains recent findings that fundamentally change the Covid narrative. [src]() / [ref](https://www.bitchute.com/video/8PswJ9ONysVk/) / [ref-FR](https://www.bitchute.com/video/s3xEPVCRGBXM/) / [ref-GR](https://www.brighteon.com/780c4864-518c-4f05-ba86-b7c182f4887a)
+* 09/07/2021 - Explains recent findings that fundamentally change the Covid narrative. [src](https://factcheckvaccine.com/2021/07/an-urgent-message-from-professor-dr-sucharit-bhakdi-july-9-2021/) / [ref](https://www.bitchute.com/video/8PswJ9ONysVk/) / [ref-FR](https://www.bitchute.com/video/s3xEPVCRGBXM/) / [ref-GR](https://www.brighteon.com/780c4864-518c-4f05-ba86-b7c182f4887a)
   * 20/05/2021 - [Vaccine Antigen Detected in the Plasma of mRNA](https://academic.oup.com/cid/advance-article/doi/10.1093/cid/ciab465/6279075)
   * 06/2021 - [SARS-CoV-2 elicits robust adaptive immune responses regardless of disease severity (Danish)](https://www.sciencedirect.com/science/article/pii/S2352396421002036)
   * 08/06/2021 - [mRNA vaccination induces functionally diverse antibodies to NTD, RBD, and S2](https://doi.org/10.1016/j.cell.2021.06.005)
