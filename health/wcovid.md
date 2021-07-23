@@ -33,6 +33,14 @@
 
 # faq
 
+### Dr Sucharit Bhakdi
+* 09/07/2021 - Explains recent findings that fundamentally change the Covid narrative. [src]() / [ref](https://www.bitchute.com/video/8PswJ9ONysVk/) / [ref-FR](https://www.bitchute.com/video/s3xEPVCRGBXM/) / [ref-GR](https://www.brighteon.com/780c4864-518c-4f05-ba86-b7c182f4887a)
+  * 20/05/2021 - [Vaccine Antigen Detected in the Plasma of mRNA](https://academic.oup.com/cid/advance-article/doi/10.1093/cid/ciab465/6279075)
+  * 06/2021 - [SARS-CoV-2 elicits robust adaptive immune responses regardless of disease severity (Danish)](https://www.sciencedirect.com/science/article/pii/S2352396421002036)
+  * 08/06/2021 - [mRNA vaccination induces functionally diverse antibodies to NTD, RBD, and S2](https://doi.org/10.1016/j.cell.2021.06.005)
+  * 16/06/2021 - [Human IgG and IgA responses to COVID-19 mRNA vaccines](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0249499)
+
+
 ### Robert Malone
 * 19/07/2021 - [The True Story of How mRNA Vaccination was Invented](https://www.rwmalonemd.com/mrna-vaccine-inventor) - [twitter](https://twitter.com/RWMaloneMD/status/1417087811505819653)  
 * 19/07/2021 - in this [tweet](https://twitter.com/RWMaloneMD/status/1417089129335099398) referring [Geert Vanden Bossche](https://twitter.com/GVDBossche/status/1384921885364871168) tweet, who is sharing this [video](https://youtu.be/w3xq4cEHT0s) from April 2021.
