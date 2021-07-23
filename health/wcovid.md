@@ -41,7 +41,7 @@
   * 16/06/2021 - [Human IgG and IgA responses to COVID-19 mRNA vaccines](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0249499)
 
 
-### Robert Malone
+### Dr Robert Malone
 * 19/07/2021 - [The True Story of How mRNA Vaccination was Invented](https://www.rwmalonemd.com/mrna-vaccine-inventor) - [twitter](https://twitter.com/RWMaloneMD/status/1417087811505819653)  
 * 19/07/2021 - in this [tweet](https://twitter.com/RWMaloneMD/status/1417089129335099398) referring [Geert Vanden Bossche](https://twitter.com/GVDBossche/status/1384921885364871168) tweet, who is sharing this [video](https://youtu.be/w3xq4cEHT0s) from April 2021.
 * 13/03/2021 - [Geert Vanden Bossche - The open letter to WHO](https://www.geertvandenbossche.org)
