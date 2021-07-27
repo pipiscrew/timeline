@@ -11,7 +11,7 @@
 	* [Prabin Dangol](https://www.youtube.com/results?search_query=Prabin+Dangol)
 	* [Neurons - Signals - Brain Explained](https://www.pipiscrew.com/2018/05/neurons-signals-brain-explained/)
 * for better sleep journey take a **hot shower** before bed!!
-* for better sleep clean the [nasal passageway](http://drbenkim.com/how-sleep-better-clean-nasal-passageway.htm) before bed with [nasal wash](https://www.google.com/search?q=nasal+wash) accessory.
+* for better sleep clean the [nasal passageway](http://drbenkim.com/how-sleep-better-clean-nasal-passageway.htm) before bed with [nasal wash](https://www.google.com/search?q=nasal+wash) accessory. ([howto](https://www.youtube.com/watch?v=SXUyqna4QZA))
 * still have sleep problem ? Go for the 100% natural [Vogel Avenaforce](https://www.avogel.ca/en/herbal-remedies/avenaforce.php)
 
 --
