@@ -20,6 +20,7 @@
 		* [Awesome Privacy](https://github.com/pluja/awesome-privacy)
 		* [Awesome .NET Performance](https://github.com/adamsitnik/awesome-dot-net-performance/blob/master/README.md)  
 		* [Awesome Checker Services](https://github.com/Brunty/awesome-checker-services/blob/master/README.md) 
+		* [Awesome Icons](https://github.com/digitalblossom/awesome-icons) 
 		* [Collection of open source, tiny tools](https://github.com/everestpipkin/tools-list)
 		*.[Open Source Alternatives](https://www.btw.so/open-source-alternatives)
 * [Health]

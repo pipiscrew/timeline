@@ -178,3 +178,4 @@ The sequence is :
 * [Internet Archive.LTSC 2019](https://archive.org/details/win-10.-ltsc-2019.x-64.lite.v-2105-ik)
 * [eXoDOS](http://exodos.the-eye.us/)
 * [Open Source Game Clones](https://osgameclones.com/)
+* [Superfrog Remake](https://www.lithiumdream.com/)

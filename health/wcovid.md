@@ -29,6 +29,7 @@
    * 25/06/2021 - [Venezuela receives first shipment of Cuban coronavirus vaccine](https://www.reuters.com/world/americas/venezuela-receives-first-shipment-cuban-coronavirus-vaccine-2021-06-24/)
  * 12/07/2021 - [More Than a 1/4 of Covid-19 Patients Symptomatic After 6 Months](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0254523)
  * 13/07/2021 - [Delta Variant](https://unchartedterritories.tomaspueyo.com/p/delta-variant-everything-you-need)  
+ * 25/07/2021 - [Pill Race Heats Up as the Shionogi Japanese Firm Vies With Pfizer, Merck](https://www.wsj.com/articles/covid-19-pill-race-heats-up-as-japanese-firm-vies-with-pfizer-merck-11627205403)
 &nbsp;
 
 # faq

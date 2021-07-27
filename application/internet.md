@@ -78,7 +78,7 @@ test browser [permissions](https://permission.site/).
   * [RESTClient](https://addons.mozilla.org/en-US/firefox/addon/restclient/) - use request header as `Content-Type application/x-www-form-urlencoded`
   * [SingleFile](https://addons.mozilla.org/en-US/firefox/addon/single-file/) - Save an entire web page (including images and styling) as a single HTML file.
     * [github](https://github.com/gildas-lormeau/SingleFile) - has also chrome
-
+  * [Highlight This](https://highlightthis.net/) - highlights words from your predefined list. [firefox](https://addons.mozilla.org/en-US/firefox/addon/highlightthis) / [chrome](https://chrome.google.com/webstore/detail/highlight-this/fgmbnmjmbjenlhbefngfibmjkpbcljaj?hl=en-US)
 
 Chrome.[Tampermonkey](https://chrome.google.com/webstore/detail/tampermonkey-beta/gcalenpjmijncebpfijmoaglllgpjagf) / Firefox.[Greasemonkey](https://addons.mozilla.org/en-US/firefox/addon/greasemonkey/) -- [Youtube - dismiss sign-in script](https://greasyfork.org/de/scripts/412178-youtube-dismiss-sign-in)
 
