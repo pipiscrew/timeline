@@ -199,6 +199,10 @@ To disable multiple running processes of the browser, you can set `browser.tabs.
 * [Thunderbird addon - ImportExportTools NG](https://addons.thunderbird.net/en-US/thunderbird/addon/importexporttools-ng/) - convert gmail mbox to thunderbird. The original [addon](https://addons.thunderbird.net/en-US/thunderbird/addon/importexporttools/) supports 14.x - 16.x
 * [PST Walker](https://www.pstwalker.com/pstwalker.html) - light & portable by company, use it in combination with the mbox2pst (super search + unicode + attachments)
 
+## mail spam 
+* [spamcop](https://www.spamcop.net/) - forward the junk mails to fight spam. Once registered you will get a unique mail address to send the junk mails for investigation. If you like to use multiple mails, please see the **Mailhosts** option, you need to registered all mails there.
+  * [How do I get my email program to reveal the full, unmodified email](https://www.spamcop.net/fom-serve/cache/19.html) ?
+
 ## RSS
 * [QuiteRSS](https://quiterss.org/)
 * [RSS Guard](https://github.com/martinrotter/rssguard)
