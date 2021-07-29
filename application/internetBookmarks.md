@@ -56,7 +56,8 @@
 * [DLive](https://dlive.tv/)
 * [rumble](https://rumble.com/)
 * [QuoDB](http://www.quodb.com/) - Search movies by quote
-* [PlayPhrase](https://www.playphrase.me/) - Search movies by quote
+* [PlayPhrase](https://www.playphrase.me/) - Search movies by quote  
+* [Streamable](https://streamable.com/upload-video) - for uploading  
 
 ## video rip
 * [VidsWatch](https://www.vidswatch.com/) - add **magic** to domain => you**magic**tube.com/watch?v=p5IO-IJSVnQ
