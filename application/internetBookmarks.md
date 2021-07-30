@@ -156,6 +156,7 @@
 ## poll
 * [Doodle](https://doodle.com/)
 * [Quizizz](https://quizizz.com/)
+* [Kahoot!](https://kahoot.com/)
 
 ## misc
 * [Earthquakes](https://www.emsc-csem.org/Earthquake/)
