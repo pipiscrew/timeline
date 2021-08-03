@@ -31,6 +31,7 @@
  * 13/07/2021 - [Delta Variant](https://unchartedterritories.tomaspueyo.com/p/delta-variant-everything-you-need)  
  * 25/07/2021 - [Pill Race Heats Up as the Shionogi Japanese Firm Vies With Pfizer, Merck](https://www.wsj.com/articles/covid-19-pill-race-heats-up-as-japanese-firm-vies-with-pfizer-merck-11627205403)
 &nbsp;
+&nbsp;
 
 # faq
 
