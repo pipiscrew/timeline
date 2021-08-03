@@ -22,7 +22,7 @@
   * 25/12/2020 - [Reverse Engineering the source code of the Pfizer vaccine : Part 1](https://berthub.eu/articles/posts/reverse-engineering-source-code-of-the-biontech-pfizer-vaccine/)
   * 31/12/2020 - [Reverse Engineering the source code of the Pfizer vaccine : Part 2](https://berthub.eu/articles/posts/part-2-reverse-engineering-source-code-of-the-biontech-pfizer-vaccine/)
 * 02/02/2021 - [Coronavirus is in the air, there’s too much focus on surfaces](https://www.nature.com/articles/d41586-021-00277-8)
- * 15/04/2021 - [Pfizer & Moderna mRNA sequence](https://github.com/NAalytics/Assemblies-of-putative-SARS-CoV2-spike-encoding-mRNA-sequences-for-vaccines-BNT-162b2-and-mRNA-1273/blob/main/Assemblies%20of%20putative%20SARS-CoV2-spike-encoding%20mRNA%20sequences%20for%20vaccines%20BNT-162b2%20and%20mRNA-1273.docx.pdf) 
+ * 15/04/2021 - [Pfizer & Moderna mRNA sequence](https://github.com/NAalytics/Assemblies-of-putative-SARS-CoV2-spike-encoding-mRNA-sequences-for-vaccines-BNT-162b2-and-mRNA-1273/blob/main/Assemblies%20of%20putative%20SARS-CoV2-spike-encoding%20mRNA%20sequences%20for%20vaccines%20BNT-162b2%20and%20mRNA-1273.docx.pdf)
 * 26/04/2021 - [Pfizer is testing a pill](https://montrealgazette.com/news/world/pfizer-is-testing-a-pill-that-if-successful-could-become-first-ever-home-cure-for-covid-19)
  * 22/06/2021 - [Corona: Delta](https://berthub.eu/articles/posts/corona-delta-update/) - use translator
  * 27/06/2021 - [Cuba's COVID vaccine rivals Pfizer & Moderna](https://www.dw.com/en/cubas-covid-vaccine-rivals-biontech-pfizer-moderna/a-58052365)
@@ -43,11 +43,14 @@
 
 
 ### Dr Robert Malone
+* 02/08/2021 - [Pfizer bootstrapping / Government is obfuscating](https://ghionjournal.com/fauci-nih-knew-covid-19-vaccines-could-lead-antibody-dependent-enhancement/)
 * 19/07/2021 - [The True Story of How mRNA Vaccination was Invented](https://www.rwmalonemd.com/mrna-vaccine-inventor) - [twitter](https://twitter.com/RWMaloneMD/status/1417087811505819653)  
 * 19/07/2021 - in this [tweet](https://twitter.com/RWMaloneMD/status/1417089129335099398) referring [Geert Vanden Bossche](https://twitter.com/GVDBossche/status/1384921885364871168) tweet, who is sharing this [video](https://youtu.be/w3xq4cEHT0s) from April 2021.
+* 08/07/2010 - [Canada because they worried about the toxicity, called him to review Pfizer technical document](https://www.youtube.com/watch?v=9E2UkhCWosg)
 * 13/03/2021 - [Geert Vanden Bossche - The open letter to WHO](https://www.geertvandenbossche.org)
 * 01/06/2021 - [The insidious face of a pandemic of variants](https://www.youtube.com/watch?v=vGBDETOPAJA)
 * 21/06/2021 - [Why the ongoing mass vaccination experiment drives a rapid evolutionary response of SARS-CoV-2](https://www.geertvandenbossche.org/post/why-the-ongoing-mass-vaccination-experiment-drives-a-rapid-evolutionary-response-of-sars-cov-2)
+
 
 ### Dr Judy Mikovits
 
