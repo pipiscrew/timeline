@@ -16,7 +16,7 @@
 # news
 * stay updated [Corona Stats](https://corona-stats.online/)
 * stay updated [worldometers.Corona Status](https://www.worldometers.info/coronavirus/)
-* [Politicians injecting REGENERON](https://www.regeneron.com/covid19) - a non mRNA, costs 11k $ / shot
+* [Politicians injecting REGENERON (monoclonal)](https://www.regeneron.com/covid19) - a non mRNA, costs 11k $ / shot
 * 14/11/2020 - [Over 34,000 Health Experts Sign Declaration Against COVID-19 Lockdowns](https://www.theepochtimes.com/over-30000-health-experts-sign-declaration-against-covid-19-lockdowns_3537277.html)
 * 10/01/2021 - [Analysis of Pfizer & Moderna](https://blog.jonasneubert.com/2021/01/10/exploring-the-supply-chain-of-the-pfizer-biontech-and-moderna-covid-19-vaccines/)
   * 25/12/2020 - [Reverse Engineering the source code of the Pfizer vaccine : Part 1](https://berthub.eu/articles/posts/reverse-engineering-source-code-of-the-biontech-pfizer-vaccine/)
@@ -44,11 +44,11 @@
 
 
 ### Dr Robert Malone
-* 02/08/2021 - [Pfizer bootstrapping / Government is obfuscating](https://ghionjournal.com/fauci-nih-knew-covid-19-vaccines-could-lead-antibody-dependent-enhancement/)
+* 02/08/2021 - [Pfizer bootstrapping / Government is obfuscating](https://www.brighteon.com/a73edc83-7ec5-473c-9666-299a2526958b) &nbsp; ([mirror](https://ghionjournal.com/fauci-nih-knew-covid-19-vaccines-could-lead-antibody-dependent-enhancement/))
 * 19/07/2021 - [The True Story of How mRNA Vaccination was Invented](https://www.rwmalonemd.com/mrna-vaccine-inventor) - [twitter](https://twitter.com/RWMaloneMD/status/1417087811505819653)  
-* 19/07/2021 - in this [tweet](https://twitter.com/RWMaloneMD/status/1417089129335099398) referring [Geert Vanden Bossche](https://twitter.com/GVDBossche/status/1384921885364871168) tweet, who is sharing this [video](https://youtu.be/w3xq4cEHT0s) from April 2021.
-* 08/07/2010 - [Canada because they worried about the toxicity, called him to review Pfizer technical document](https://www.youtube.com/watch?v=9E2UkhCWosg)
-* 13/03/2021 - [Geert Vanden Bossche - The open letter to WHO](https://www.geertvandenbossche.org)
+  * 19/07/2021 - in this [tweet](https://twitter.com/RWMaloneMD/status/1417089129335099398) referring [Geert Vanden Bossche](https://twitter.com/GVDBossche/status/1384921885364871168) tweet, who is sharing this [video](https://youtu.be/w3xq4cEHT0s) from April 2021.
+  * 13/03/2021 - [Geert Vanden Bossche - The open letter to WHO](https://www.geertvandenbossche.org)
+* 08/07/2010 - [Canada because they worried about the toxicity, called him to review Pfizer technical document](https://www.youtube.com/watch?v=9E2UkhCWosg) &nbsp; ([mirror](https://trialsitenews.com/dr-robert-malone-inventor-of-mrna-technology-discusses-the-spike-protein-interview/))
 * 01/06/2021 - [The insidious face of a pandemic of variants](https://www.youtube.com/watch?v=vGBDETOPAJA)
 * 21/06/2021 - [Why the ongoing mass vaccination experiment drives a rapid evolutionary response of SARS-CoV-2](https://www.geertvandenbossche.org/post/why-the-ongoing-mass-vaccination-experiment-drives-a-rapid-evolutionary-response-of-sars-cov-2)
 
