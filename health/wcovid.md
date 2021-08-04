@@ -94,7 +94,9 @@ She has a degree in **molecular genetics** from Trinity College Dublin (1989) an
 * [VAXLonghaulers - We want to be heard](https://www.vaxlonghaulers.com/)
 * [Cyprus - Ελπιδοφόρος Σωτηριάδης](https://www.brighteon.com/5af7c04d-ebef-4380-83d9-2015a8a1a60b)
   * 21/07/2021 [Με διδακτορικό στο Χάρβαρντ ο διοργανωτής των αντιεμβολιαστών στην Κύπρο](https://www.in.gr/2021/07/21/greece/elpidoforos-sotiriadis-didaktoriko-sto-xarvarnt-o-diorganotis-ton-antiemvoliaston-stin-kypro/)
-  * 23/07/2021 [Ελεύθερος εντός της ημέρας](https://www.kathimerini.com.cy/gr/kypros/eleytheros-entos-tis-imeras-o-giatros-elpidoforos-sotiriadis)  
+  * 23/07/2021 [Ελεύθερος εντός της ημέρας](https://www.kathimerini.com.cy/gr/kypros/eleytheros-entos-tis-imeras-o-giatros-elpidoforos-sotiriadis)
+  * 02/08/2021 - [Konstantinos Farsalinos - Εγκληματική η διαχείριση της πανδημίας](https://www.facebook.com/konstantinos.farsalinos/posts/1917652245053184)
+    * 03/08/2021 - [Έρχονται πρόωροι θανάτοι](https://www.facebook.com/konstantinos.farsalinos/posts/1919073404911068) &nbsp; ([mirror](https://scontent-prg1-1.xx.fbcdn.net/v/t1.6435-9/227942905_1919069698244772_5137071280056672889_n.jpg?_nc_cat=101&ccb=1-3&_nc_sid=730e14&_nc_ohc=PYezkXjdFMMAX8xn_ik&_nc_ht=scontent-prg1-1.xx&oh=718f23331a00787369d52cefe70e0b4c&oe=612ED855))
 &nbsp;
 
 # alternatives
