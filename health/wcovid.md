@@ -48,7 +48,7 @@
 * 19/07/2021 - [The True Story of How mRNA Vaccination was Invented](https://www.rwmalonemd.com/mrna-vaccine-inventor) - [twitter](https://twitter.com/RWMaloneMD/status/1417087811505819653)  
   * 19/07/2021 - in this [tweet](https://twitter.com/RWMaloneMD/status/1417089129335099398) referring [Geert Vanden Bossche](https://twitter.com/GVDBossche/status/1384921885364871168) tweet, who is sharing this [video](https://youtu.be/w3xq4cEHT0s) from April 2021.
   * 13/03/2021 - [Geert Vanden Bossche - The open letter to WHO](https://www.geertvandenbossche.org)
-* 08/07/2010 - [Canada because they worried about the toxicity, called him to review Pfizer technical document](https://www.youtube.com/watch?v=9E2UkhCWosg) &nbsp; ([mirror](https://trialsitenews.com/dr-robert-malone-inventor-of-mrna-technology-discusses-the-spike-protein-interview/))
+* 08/07/2021 - [Canada because they worried about the toxicity, called him to review Pfizer technical document](https://www.youtube.com/watch?v=9E2UkhCWosg) &nbsp; ([mirror](https://trialsitenews.com/dr-robert-malone-inventor-of-mrna-technology-discusses-the-spike-protein-interview/))
 * 01/06/2021 - [The insidious face of a pandemic of variants](https://www.youtube.com/watch?v=vGBDETOPAJA)
 * 21/06/2021 - [Why the ongoing mass vaccination experiment drives a rapid evolutionary response of SARS-CoV-2](https://www.geertvandenbossche.org/post/why-the-ongoing-mass-vaccination-experiment-drives-a-rapid-evolutionary-response-of-sars-cov-2)
 
@@ -89,14 +89,12 @@ She has a degree in **molecular genetics** from Trinity College Dublin (1989) an
 * 17/03/2021 - [Belfast, Northern Ireland](https://www.bitchute.com/video/4V8Xrr5wPrTj/)
   * [Short highlight](https://t.me/The_Knowledge_Channel/730)  
 
-#### haters
-* [Dolores Cahill, Professor, Makes Unfounded Claims About Long-Term Effects of mRNA Vaccines](https://www.factcheck.org/2021/04/scicheck-irish-professor-makes-unfounded-claims-about-long-term-effects-of-mrna-vaccines/) - inside has links for her posts  
-* [Video spreads false information about COVID-19 vaccines](https://bit.ly/3ebgG4u)
-&nbsp;
-
 ### others
 * [Stop World Control](https://www.stopworldcontrol.com/)  
-* [VAXLonghaulers - We want to be heard](https://www.vaxlonghaulers.com/)  
+* [VAXLonghaulers - We want to be heard](https://www.vaxlonghaulers.com/)
+* [Cyprus - Ελπιδοφόρος Σωτηριάδης](https://www.brighteon.com/5af7c04d-ebef-4380-83d9-2015a8a1a60b)
+  * 21/07/2021 [Με διδακτορικό στο Χάρβαρντ ο διοργανωτής των αντιεμβολιαστών στην Κύπρο](https://www.in.gr/2021/07/21/greece/elpidoforos-sotiriadis-didaktoriko-sto-xarvarnt-o-diorganotis-ton-antiemvoliaston-stin-kypro/)
+  * 23/07/2021 [Ελεύθερος εντός της ημέρας](https://www.kathimerini.com.cy/gr/kypros/eleytheros-entos-tis-imeras-o-giatros-elpidoforos-sotiriadis)  
 &nbsp;
 
 # alternatives
