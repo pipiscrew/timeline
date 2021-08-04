@@ -41,7 +41,7 @@
 
 
 ## videos
-* [Invidious](https://invidious.snopyta.org/feed/popular)
+* [Invidious](https://invidious.snopyta.org/)
 	* [mirrors](https://redirect.invidious.io/)
 * [youtube-lite](https://youtube-lite.js.org/)
 * [Piped](https://piped.kavin.rocks/)
