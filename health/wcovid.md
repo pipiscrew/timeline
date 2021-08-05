@@ -30,6 +30,7 @@
  * 12/07/2021 - [More Than a 1/4 of Covid-19 Patients Symptomatic After 6 Months](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0254523)
  * 13/07/2021 - [Delta Variant](https://unchartedterritories.tomaspueyo.com/p/delta-variant-everything-you-need)  
  * 25/07/2021 - [Pill Race Heats Up as the Shionogi Japanese Firm Vies With Pfizer, Merck](https://www.wsj.com/articles/covid-19-pill-race-heats-up-as-japanese-firm-vies-with-pfizer-merck-11627205403)
+ * 05/08/2021 - [ONS - 94% of English adults have Covid antibodies](https://www.thetimes.co.uk/article/658b3bc4-f518-11eb-8f01-2c678acbb979)  
 &nbsp;
 &nbsp;
 
