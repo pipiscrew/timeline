@@ -90,6 +90,7 @@ She has a degree in **molecular genetics** from Trinity College Dublin (1989) an
   * [Short highlight](https://t.me/The_Knowledge_Channel/730)  
 
 ### others
+* [02/08/2021 - US House Foreign Affairs Committee Report Minority Staff - The Origins of COVID-19](https://gop-foreignaffairs.house.gov/wp-content/uploads/2021/08/ORIGINS-OF-COVID-19-REPORT.pdf) &nbsp; ([tweet](https://twitter.com/HouseForeignGOP/status/1422187258036342785))&nbsp; ([mirror](https://www.dropbox.com/s/i7qx8sdgwklkeah/ORIGINS-OF-COVID-19-REPORT.pdf?dl=1))
 * [Stop World Control](https://www.stopworldcontrol.com/)  
 * [VAXLonghaulers - We want to be heard](https://www.vaxlonghaulers.com/)
 * [Cyprus - Ελπιδοφόρος Σωτηριάδης](https://www.brighteon.com/5af7c04d-ebef-4380-83d9-2015a8a1a60b)
