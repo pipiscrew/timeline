@@ -1,6 +1,7 @@
 ## scholar  
-* [Sci Hub](https://sci-hub.st/) - download doi links
-	* [2](https://sci-hub.do/)  
+* [Sci Hub](https://sci-hub.do/) - download doi links
+  * [1](https://sci-hub.st/)
+  * [2](https://sci-hub.do/)  
 * [LibGen](https://libgen.me/) - Collecting and cataloging scientific & technical ebooks  
 * [arXiv](https://arxiv.org/) - Search an archive for millions scholarly articles in the fields of physics, mathematics, computer science, quantitative biology, quantitative finance, statistics, electrical engineering and systems science, and economics.  
 * [Google.Scholar](https://scholar.google.gr/scholar?hl=en&q=gmo) - Freely accessible web search engine that indexes the full text or metadata of scholarly literature
@@ -57,7 +58,8 @@
 * [rumble](https://rumble.com/)
 * [QuoDB](http://www.quodb.com/) - Search movies by quote
 * [PlayPhrase](https://www.playphrase.me/) - Search movies by quote  
-* [Streamable](https://streamable.com/upload-video) - for uploading  
+* [Streamable](https://streamable.com/upload-video) - for uploading
+* [PeerTube](https://videos.pair2jeux.tube/) - aka pair2jeux or P2J  
 
 ## video rip
 * [VidsWatch](https://www.vidswatch.com/) - add **magic** to domain => you**magic**tube.com/watch?v=p5IO-IJSVnQ
@@ -118,7 +120,8 @@
 * [Private](https://private.sh/) - end to end encrypted
 * [Tailcat.Cliqz](https://cliqz.com/) - acquired by Brave browser  
 * [DuckDuckGo bangs](https://duckduckgo.com/bang) - nicely categorized bookmarks  
-  * [galinos](https://www.galinos.gr/)
+  * [drugs - galinos GR](https://www.galinos.gr/)
+  * [drugs - emc UK](https://www.medicines.org.uk/)
 * [lumpysoft.Google index search](https://lumpysoft.com/)  
 * [nixnet.searX](https://searx.nixnet.services/)  
 
