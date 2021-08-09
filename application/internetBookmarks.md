@@ -118,6 +118,7 @@
 * [Private](https://private.sh/) - end to end encrypted
 * [Tailcat.Cliqz](https://cliqz.com/) - acquired by Brave browser  
 * [DuckDuckGo bangs](https://duckduckgo.com/bang) - nicely categorized bookmarks  
+  * [galinos](https://www.galinos.gr/)
 * [lumpysoft.Google index search](https://lumpysoft.com/)  
 * [nixnet.searX](https://searx.nixnet.services/)  
 
