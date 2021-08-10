@@ -102,6 +102,7 @@ She has a degree in **molecular genetics** from Trinity College Dublin (1989) an
   * 23/07/2021 [Ελεύθερος εντός της ημέρας](https://www.kathimerini.com.cy/gr/kypros/eleytheros-entos-tis-imeras-o-giatros-elpidoforos-sotiriadis)
   * 02/08/2021 - [Konstantinos Farsalinos - Εγκληματική η διαχείριση της πανδημίας](https://www.facebook.com/konstantinos.farsalinos/posts/1917652245053184)
     * 03/08/2021 - [Έρχονται πρόωροι θανάτοι](https://www.facebook.com/konstantinos.farsalinos/posts/1919073404911068) &nbsp; ([mirror](https://scontent-prg1-1.xx.fbcdn.net/v/t1.6435-9/227942905_1919069698244772_5137071280056672889_n.jpg?_nc_cat=101&ccb=1-3&_nc_sid=730e14&_nc_ohc=PYezkXjdFMMAX8xn_ik&_nc_ht=scontent-prg1-1.xx&oh=718f23331a00787369d52cefe70e0b4c&oe=612ED855))
+* [The HighWire - with Del Bigtree](http://thehighwire.com/WATCH) - every Thursday 11am PST  
 &nbsp;
 
 # alternatives

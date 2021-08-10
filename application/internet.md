@@ -20,7 +20,8 @@ To find the profile currently is use navigate to `chrome://version`.
 * Unofficial windows, [IceCat](https://github.com/muslayev/icecat-win64) for ultra privacy. The official Linux [here](https://www.gnu.org/software/gnuzilla/).
 * [waterfox](https://www.waterfox.net/) - [waterfox web browser sold to System1](https://www.waterfox.net/blog/waterfox-has-joined-system1/)
 
-To find the profile currently is use navigate to `about:support`.  
+To find the profile currently is use navigate to `about:support` or `about:profiles`.  
+ * [profile manager](https://support.mozilla.org/en-US/kb/profile-manager-create-remove-switch-firefox-profiles) - to start with specific profile, `firefox.exe -P "<profile name>" `  
 
 ----------
 
@@ -58,9 +59,11 @@ test browser [permissions](https://permission.site/).
 
 [Mozilla: *Privacy Not Included](https://foundation.mozilla.org/en/privacynotincluded/)  
 
+**Mozilla.Firefox** [v90] - [enables](https://www.mozilla.org/en-US/firefox/91.0/releasenotes/) cookie jar per site, makes easier to delete all cookie for a site.
+
 &nbsp;
 
-#### Using Firefox user.js settings file
+#### Using Firefox **user.js** settings file
 
 * settings made in `about:config` are saved only to `prefs.js` [ref](https://mkaz.blog/misc/using-firefox-user-js-settings-file/)
 * `user.js` file stores user settings, the file is loaded each time Firefox starts. This a convenient way to save your browser customizations and apply them on different machines. Ready to use `user.js` copy it near `prefs.js` :  

@@ -77,6 +77,10 @@
 * (multi) [savevideo](http://savevideo.me/)
 * [HyperDebrid](https://hyperdebrid.net/)  
 
+## tv
+* [ustvgo](https://ustvgo.tv/)
+* [watchnewslive](https://watchnewslive.tv/)  
+
 ## json / js / php / markdown / html
 * [Markdown to HTML](https://markdowntohtml.com/)  
 * [Markdown Tables generator](https://www.tablesgenerator.com/markdown_tables)  
