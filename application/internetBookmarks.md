@@ -11,6 +11,7 @@
 * (greek) [National Archive of PhD Theses](https://www.didaktorika.gr/eadd/?locale=en)  
 * (greek) [bibliographic records](https://opac.seab.gr/*eng)
 * [Z-Library](https://z-lib.org/) - 6.5m ebooks
+* [British Newspaper Archive (1700 - 2009)](https://www.britishnewspaperarchive.co.uk/)
 * [Morioh](https://morioh.com/topics) - Social network for programmers and developers
 * [Deephn search 30M Hacker news posts](https://deephn.org) ([ref](https://news.ycombinator.com/item?id=26791582))
 * [algolia](https://hn.algolia.com) - Search HackerNews

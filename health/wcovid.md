@@ -16,7 +16,8 @@
 # news
 * stay updated [Corona Stats](https://corona-stats.online/)
 * stay updated [worldometers.Corona Status](https://www.worldometers.info/coronavirus/)
-* [Del Bigtree - The HighWire](http://thehighwire.com/WATCH) - every Thursday 8pm CET (11am PST)
+* [Del Bigtree - The HighWire](https://thehighwire.com/WATCH/) - every Thursday 8pm CET (11am PST) &nbsp; ref - [icandecide](https://www.icandecide.org/)
+  * [ep228](https://thehighwire.com/videos/episode-228-a-sea-of-lies/) - 21 trillion missing (1:22) - [articles](https://www.pipiscrew.com/2021/08/us-federal-bank-21-trillion-missing-by-1999/)
 * [Politicians injecting REGENERON (monoclonal)](https://www.regeneron.com/covid19) - a non mRNA, costs 11k $ / shot
 * 14/11/2020 - [Over 34,000 Health Experts Sign Declaration Against COVID-19 Lockdowns](https://www.theepochtimes.com/over-30000-health-experts-sign-declaration-against-covid-19-lockdowns_3537277.html)
 * 10/01/2021 - [Analysis of Pfizer & Moderna](https://blog.jonasneubert.com/2021/01/10/exploring-the-supply-chain-of-the-pfizer-biontech-and-moderna-covid-19-vaccines/)
@@ -50,6 +51,7 @@
 * 19/07/2021 - [The True Story of How mRNA Vaccination was Invented](https://www.rwmalonemd.com/mrna-vaccine-inventor) - [twitter](https://twitter.com/RWMaloneMD/status/1417087811505819653)  
   * 19/07/2021 - in this [tweet](https://twitter.com/RWMaloneMD/status/1417089129335099398) referring [Geert Vanden Bossche](https://twitter.com/GVDBossche/status/1384921885364871168) tweet, who is sharing this [video](https://youtu.be/w3xq4cEHT0s) from April 2021.
   * 13/03/2021 - [Geert Vanden Bossche - The open letter to WHO](https://www.geertvandenbossche.org)
+  * 13/08/2021 - [Geert Vanden Bossche - C-19 Pandemia: Quo vadis, homo sapiens?](https://www.geertvandenbossche.org/post/c-19-pandemia-quo-vadis-homo-sapiens)
 * 08/07/2021 - [Canada because they worried about the toxicity, called him to review Pfizer technical document](https://www.youtube.com/watch?v=9E2UkhCWosg) &nbsp; ([mirror](https://trialsitenews.com/dr-robert-malone-inventor-of-mrna-technology-discusses-the-spike-protein-interview/))
 * 01/06/2021 - [The insidious face of a pandemic of variants](https://www.youtube.com/watch?v=vGBDETOPAJA)
 * 21/06/2021 - [Why the ongoing mass vaccination experiment drives a rapid evolutionary response of SARS-CoV-2](https://www.geertvandenbossche.org/post/why-the-ongoing-mass-vaccination-experiment-drives-a-rapid-evolutionary-response-of-sars-cov-2)
@@ -92,10 +94,12 @@ She has a degree in **molecular genetics** from Trinity College Dublin (1989) an
   * [Short highlight](https://t.me/The_Knowledge_Channel/730)  
 
 ### others
+* 03/08/2021 - [Reiner Fuellmich - starting to win in courts](https://rumble.com/vkp0qf-reimer-fullmich-update-we-are-starting-to-win-in-courts.html) &nbsp; ([awakecanada](https://awakecanada.org/reimer-fullmich-update-we-are-starting-to-win-in-the-courts/))
 * 02/08/2021 - [US House Foreign Affairs Committee Report Minority Staff - The Origins of COVID-19](https://gop-foreignaffairs.house.gov/wp-content/uploads/2021/08/ORIGINS-OF-COVID-19-REPORT.pdf) &nbsp; ([tweet](https://twitter.com/HouseForeignGOP/status/1422187258036342785))&nbsp; ([mirror](https://www.dropbox.com/s/i7qx8sdgwklkeah/ORIGINS-OF-COVID-19-REPORT.pdf?dl=1))
 * 31/07/2021 - [exPfizer - Michael Yeadon](https://www.brighteon.com/44f5198e-c48a-420b-9a0f-78ab882de42c) &nbsp; ([mirror](https://youtu.be/pENijjYcwBw?t=1402))
   * [Scientist who became an anti-vax hero](https://www.reuters.com/investigates/special-report/health-coronavirus-vaccines-skeptic/)
   * Supporting the movie [Planet lockdown](https://planetlockdownfilm.com)
+* 10/06/2021 - [AwakeCanada.Doctors all over the world urgent warnings of taking the vaccine](https://rumble.com/vidhdh-doctors-all-over-the-world-urgent-warnings-of-taking-the-covid-19-vaccine..html)
 * [Stop World Control](https://www.stopworldcontrol.com/)  
 * [VAXLonghaulers - We want to be heard](https://www.vaxlonghaulers.com/)
 * [Cyprus - Ελπιδοφόρος Σωτηριάδης](https://www.brighteon.com/5af7c04d-ebef-4380-83d9-2015a8a1a60b)

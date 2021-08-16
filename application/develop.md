@@ -44,3 +44,4 @@ git config --global credential.interactive never
 ## misc
 * [Free for developers](https://free-for.dev/)
 * [C# to IL](https://sharplab.io/)
+* [mathjs](https://api.mathjs.org/)
