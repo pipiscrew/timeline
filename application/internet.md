@@ -16,7 +16,6 @@ To find the profile currently is use navigate to `chrome://version`.
 
 To start with specific profile, `chrome.exe --user-data-dir=c:\foo`  
 
-When moving the **profile folder** to another computer needs also the info from `HKEY_CURRENT_USER\Software\Google\Chrome` ([src](https://superuser.com/a/1615542))
 
 ### Gecko 
 
