@@ -1,6 +1,6 @@
 ## Browser
 
-### Chromium  
+### Blink  
 
 * [Brave](https://brave.com/) -- [the false sensation of privacy](http://ebin.city/~werwolf/posts/brave-is-shit/)  
   * [individual components update (adblock explained)](https://www.pipiscrew.com/2021/06/brave-individual-components-update-adblock-explained/)
