@@ -116,4 +116,48 @@ She has a degree in **molecular genetics** from Trinity College Dublin (1989) an
 * 14/01/2021 - [Natural COVID Therapies](https://anh-usa.org/world-begins-to-wake-up-about-natural-covid-therapies/) - Thailand, government regulators recently approved **Andrographic paniculata**, an herbaceous herb native to Southeast Asia, as a treatment for early COVID-19 infection  
 * [Front Line COVID-19 Critical Care Alliance](https://covid19criticalcare.com/)
   * 07/06/2021 - [Ivermectin As a COVID-19 Therapy](https://blogs.sciencemag.org/pipeline/archives/2021/06/07/ivermectin-as-a-covid-19-therapy)
-* [halo therapeutics](https://halo-therapeutics.com/) - biotech company from Bristol uses **linoleic acid** as pan coronavirus antiviral
+* [halo therapeutics](https://halo-therapeutics.com/) - biotech company from Bristol uses **linoleic acid** as pan coronavirus antiviral  
+
+&nbsp;
+
+-----
+
+&nbsp;
+
+# media
+
+* [NBC: Dallas And Austin School Districts Defy Governor's Order, Will Require Masks](https://www.nbcnews.com/news/us-news/dallas-austin-school-districts-defy-governor-s-order-will-require-n1276416)
+* [2news Oklahoma: First Oklahoma School District Defies State Law, Enacts Mask Mandate](https://www.kjrh.com/news/local-news/first-oklahoma-school-district-defies-state-law-enacts-mask-mandate)
+* [ABC: Fauci, Rand Paul Get In Shouting Match Over Wuhan Lab Covid Research](https://abc7chicago.com/fauci-rand-paul-video-exchange-covid-wuhan-lab-senator-and-dr/10901142/) &nbsp; :flushed:
+* [Market Watch: Bill Gates Is Now The Largest Farmland Owner In America](https://www.marketwatch.com/story/bill-gates-is-now-the-largest-farmland-owner-in-america-11610818582)
+* [Financial Times: The Billionaire Boom: How The Super-Rich Soaked Up Covid Cash](https://www.ft.com/content/747a76dd-f018-4d0d-a9f3-4069bf2f5a93)
+* [Solari Report: #Cashfriday](https://home.solari.com/cash-friday/)
+* [Solari Report: 2020 Annual Wrap Up: The Going Direct Reset -- The Central Bankers Make Their Move With John Titus](https://home.solari.com/coming-thursday-2020-annual-wrap-up-theme-the-going-direct-reset-the-central-bankers-make-their-move/)
+* [The Atlantic: Delta Is Bad News For Kids](https://www.theatlantic.com/health/archive/2021/08/delta-variant-covid-children/619712/)
+* [NY Times: The Delta Variant Is Sending More Children To The Hospital. Are They Sicker, Too?](https://www.nytimes.com/2021/08/09/health/coronavirus-children-delta.html)
+* [Medpage Today: Is Delta Also More Severe In Kids?](https://www.medpagetoday.com/special-reports/exclusives/93979)
+* [NY Times: Youtube Suspends Rand Paul For A Week Over A Video Disputing The Effectiveness Of Masks.](https://www.nytimes.com/2021/08/11/business/youtube-rand-paul-covid-masks.html)
+* [SFGate: Shock Poll Shows Gavin Newsom Losing Recall Vote By Double Digits](https://www.sfgate.com/gavin-newsom-recall/article/poll-Gavin-Newsom-recall-losing-Elder-Paffrath-16364991.php)
+* [CNBC: California Gov. Gavin Newsom Faces Greater-Than-Expected Threat In Upcoming Recall Election](https://www.cnbc.com/2021/08/09/ca-gov-gavin-newsom-faces-greater-than-expected-threat-in-upcoming-recall-election.html)
+* [Wbez Chicago: To Mask Or Not To Mask? School Board Debates Heat Up As Fall Looms](https://www.wbez.org/stories/to-mask-or-not-to-mask-school-board-debates-heat-up-as-fall-looms/817ba246-9e59-4314-9172-f101d7771483)
+* [NBC: New York Gov. Andrew Cuomo Resigns After Sexual Harassment Allegations](https://www.nbcnews.com/politics/politics-news/new-york-gov-andrew-cuomo-resigns-n1260310)
+* [The Hill: Ufc Head Dana White Says Vaccine Mandate 'Never Gonna Happen'](https://thehill.com/policy/healthcare/public-global-health/566512-ufc-head-dana-white-says-vaccine-mandate-never-gonna)
+* [Metro: Delta Variant 'Has Ruined Hopes Of Herd Immunity', Experts Say](https://metro.co.uk/2021/08/11/delta-variant-has-ruined-hopes-of-herd-immunity-experts-say-15072430/)
+* [Deadline: Los Angeles City Council Votes 13-0 To Create Vaccination Requirement For Indoor Public Spaces Such As Restaurants, Movie Theaters, Concert Venues](https://deadline.com/2021/08/los-angeles-city-requires-vaccination-vaccine-indoors-1234813086/)
+* [Visir: Herd Immunity Must Be Achieved By Transmitting The Virus](https://www.visir.is/g/20212140884d/na-thurfi-hjardonaemi-med-thvi-ad-lata-veiruna-ganga)
+* [LA Times: L.A. County To Study Whether To Require Vaccinations In Some Indoor Public Spaces](https://www.latimes.com/california/story/2021-08-10/l-a-county-to-study-vaccines-indoors-at-certain-places)
+* [Medical Life Sciences: Scientists Identify Natural Sars-Cov-2 Super Immunity Against 23 Variants](https://www.news-medical.net/news/20210705/Scientists-identify-natural-SARS-CoV-2-super-immunity-against-23-variants.aspx)
+* [Sciencemag: Ultrapotent Antibodies Against Diverse And Highly Transmissible Sars-Cov-2 Variants](https://science.sciencemag.org/content/373/6556/eabh1766)
+* [The Atlantic: Mask Up And Shut Up](https://www.theatlantic.com/ideas/archive/2020/08/wear-your-mask-and-stop-talking/615796/)
+* [Oxford Academic: Viral Load Of Sars-Cov-2 In Respiratory Aerosols Emitted By Covid-19 Patients While Breathing, Talking, And Singing](https://academic.oup.com/cid/advance-article/doi/10.1093/cid/ciab691/6343417)
+* [Bloomberg: CDC Scaled Back Hunt For Breakthrough Cases Just As The Delta Variant Grew](https://www.bloomberg.com/news/articles/2021-07-30/cdc-scaled-back-hunt-for-breakthrough-cases-just-as-the-delta-variant-grew)
+* [Fortune: The CDC Is Limiting Reviews Of Reported Breakthrough Covid Infections To Severe Cases](https://fortune.com/2021/05/10/can-you-get-covid-after-vaccine-cdc-breakthrough-cases-tracing/)
+* [Fox: CDC Says People Who've Had Covid Should Get Shot Or Risk Reinfection](https://fox8.com/news/coronavirus/cdc-says-people-whove-had-covid-should-get-shot-or-risk-reinfection/)
+* [CDC: Reduced Risk Of Reinfection With Sars-Cov-2 After Covid-19 Vaccination -- Kentucky, May-June 2021](https://www.cdc.gov/mmwr/volumes/70/wr/mm7032e1.htm?s_cid=mm7032e1_w)
+* [University Of Missouri School Of Medicine: Study Finds Covid-19 Reinfection Rate Less Than 1% For Those With Severe Illness](https://medicine.missouri.edu/news/study-finds-covid-19-reinfection-rate-less-1-those-severe-illness)
+* [Biorxiv: Antibody Evolution After Sars-Cov-2 Mrna Vaccination](https://www.biorxiv.org/content/10.1101/2021.07.29.454333v1)
+* [Buzzfeed: Anthony Fauci's Emails Reveal The Pressure That Fell On One Man](https://www.buzzfeednews.com/article/nataliebettendorf/fauci-emails-covid-response)
+* [Washington Post: Anthony Fauci's Pandemic Emails: Â€˜All Is Well Despite Some Crazy People In This Worldâ€™](https://www.washingtonpost.com/gdpr-consent/?next_url=https://www.washingtonpost.com/politics/interactive/2021/tony-fauci-emails/)
+* [Ein Presswire: Ican Obtains And Releases Nearly 3,000 Fauci Emails From The Beginning Of The Pandemic; Twitter Account Suspended](https://www.einnews.com/pr_news/542967062/ican-obtains-and-releases-nearly-3-000-fauci-emails-from-the-beginning-of-the-pandemic-twitter-account-suspended)
+* [ICAN: Ican Responds To The Dojâ€™S Incorrect Conclusion That An Emergency Use Vaccine Can Be Mandated](https://www.icandecide.org/ican_press/ican-responds-to-the-dojs-incorrect-conclusion-that-an-emergency-use-vaccine-can-be-mandated/)
+* [Ein Presswire: Informed Consent Action Network's Attorneys Challenge Doj Mandatory Vaccine Opinion](https://www.einnews.com/pr_news/548512480/informed-consent-action-network-s-attorneys-challenge-doj-mandatory-vaccine-opinion)
