@@ -18,6 +18,7 @@
 		* [vitamania](/notes/supplementVitamania.md)  
 	* others  
 		* [Awesome Privacy](https://github.com/pluja/awesome-privacy)
+		* [Public APIs](https://github.com/n0shake/Public-APIs)
 		* [Awesome .NET Performance](https://github.com/adamsitnik/awesome-dot-net-performance/blob/master/README.md)  
 		* [Awesome Checker Services](https://github.com/Brunty/awesome-checker-services/blob/master/README.md) 
 		* [Awesome Icons](https://github.com/digitalblossom/awesome-icons) 

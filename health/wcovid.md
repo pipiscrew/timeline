@@ -102,6 +102,7 @@ She has a degree in **molecular genetics** from Trinity College Dublin (1989) an
 * 10/06/2021 - [AwakeCanada.Doctors all over the world urgent warnings of taking the vaccine](https://rumble.com/vidhdh-doctors-all-over-the-world-urgent-warnings-of-taking-the-covid-19-vaccine..html)
 * [Stop World Control](https://www.stopworldcontrol.com/)  
 * [VAXLonghaulers - We want to be heard](https://www.vaxlonghaulers.com/)
+* [Childrens Health Defense](https://childrenshealthdefense.eu/eu-issues/call-to-european-parents-join-eu-action-to-withdraw-authorisation-of-pfizer-covid-injection-for-children-12/)
 * [Cyprus - Ελπιδοφόρος Σωτηριάδης](https://www.brighteon.com/5af7c04d-ebef-4380-83d9-2015a8a1a60b)
   * 21/07/2021 [Με διδακτορικό στο Χάρβαρντ ο διοργανωτής των αντιεμβολιαστών στην Κύπρο](https://www.in.gr/2021/07/21/greece/elpidoforos-sotiriadis-didaktoriko-sto-xarvarnt-o-diorganotis-ton-antiemvoliaston-stin-kypro/)
   * 23/07/2021 [Ελεύθερος εντός της ημέρας](https://www.kathimerini.com.cy/gr/kypros/eleytheros-entos-tis-imeras-o-giatros-elpidoforos-sotiriadis)
