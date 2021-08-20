@@ -44,6 +44,8 @@
   * 06/2021 - [SARS-CoV-2 elicits robust adaptive immune responses regardless of disease severity (Danish)](https://www.sciencedirect.com/science/article/pii/S2352396421002036)
   * 08/06/2021 - [mRNA vaccination induces functionally diverse antibodies to NTD, RBD, and S2](https://doi.org/10.1016/j.cell.2021.06.005)
   * 16/06/2021 - [Human IgG and IgA responses to COVID-19 mRNA vaccines](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0249499)
+  * 10/03/201 - [Urgent open letter to EMA](https://doctors4covidethics.org/press-release-urgent-open-letter-to-ema-from-doctors-scientists-regarding-vaccine-safety-concerns/) &nbsp; ([video](https://odysee.com/@Doctors4CovidEthics:d/Prof.-Sucharit-Bhakdi-statement-on-EMA-open-letter.ENG:0))
+    * 07/07/2021 - [Dr Charles Hoffe, verified Dr Bhakdi evidences and D-dimer blood test](https://www.bitchute.com/video/A6GbcUl6blpJ/) &nbsp; ([D-Dimer Test](https://www.webmd.com/dvt/what-is-the-d-dimer-test)) &nbsp; ([mirror](https://www.bitchute.com/video/HzFryvUuryVS/)) &nbsp; ([transcript](https://alethonews.com/2021/07/13/doctor-heart-failure-from-mrna-jabs-will-kill-most-people/))
 
 
 ### Dr Robert Malone

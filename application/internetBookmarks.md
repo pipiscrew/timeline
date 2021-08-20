@@ -15,6 +15,8 @@
 * [Morioh](https://morioh.com/topics) - Social network for programmers and developers
 * [Deephn search 30M Hacker news posts](https://deephn.org) ([ref](https://news.ycombinator.com/item?id=26791582))
 * [algolia](https://hn.algolia.com) - Search HackerNews
+* [Internet Archive](https://archive.org/) - books
+* [Open Library](https://openlibrary.org/) - books  
 
 ## translators
 * [DocTranslator](https://www.onlinedoctranslator.com/en/translationform) - Translate PDF and outputs PDF, at the moment Yandex / Google cant do this.
@@ -40,6 +42,7 @@
 * [ArchiveBox - Your own personal internet archive](https://archivebox.io/)
   * [2](https://github.com/ArchiveBox/ArchiveBox)
 * [archive.today](https://archive.ph/) - Archive any webpage
+* [DocumentCloud](https://www.documentcloud.org) - upload pdf, annotate, extract text, publish
 
 
 ## videos
