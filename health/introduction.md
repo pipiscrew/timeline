@@ -322,7 +322,8 @@ ref
 * [Fasting Diets Are Gaining Acceptance](https://well.blogs.nytimes.com/2016/03/07/intermittent-fasting-diets-are-gaining-acceptance/)
 * [Will Smoking Break a Fast?](https://intermittentdieter.com/will-smoking-break-a-fast/)
 * [Can You Take Supplements While Fasting?](https://www.bulletproof.com/supplements/dietary-supplements/supplements-while-fasting/)
-* [Bryan Johnson - I Fired Myself](https://www.bryanjohnson.co/articles/i-fired-myself)  
+* [Bryan Johnson - I Fired Myself](https://www.bryanjohnson.co/articles/i-fired-myself)
+* [Green Tea and Fasting](https://amlagreen.com/blogs/news/green-tea-while-intermittent-fasting) - Drinking green tea does not break a fast.  
 
 ### disadvantages - explained by Boris
 

@@ -64,6 +64,8 @@ test browser [permissions](https://permission.site/).
 
 **Mozilla.Firefox** [v90] - [enables](https://www.mozilla.org/en-US/firefox/91.0/releasenotes/) cookie jar per site, makes easier to delete all cookie for a site.
 
+[Improve memory usage](https://www.reddit.com/r/firefox/comments/p8g5zd/why_does_disabling_accessibility_services_improve/) - by set the `accessibility.force_disabled` to **1** at `about:config`  
+
 &nbsp;
 
 #### Using Firefox **user.js** settings file

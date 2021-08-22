@@ -8,6 +8,7 @@
 * [Directory of Open Access Journals](http://www.doaj.org/)
 * [Google.Dataset Search](https://datasetsearch.research.google.com/)
 * [Internet Archive.Scholar](https://scholar.archive.org/)
+* [scite.citations](https://scite.ai/search/citations) - Search 900M citation statements extracted from 26M full-text scientific articles
 * (greek) [National Archive of PhD Theses](https://www.didaktorika.gr/eadd/?locale=en)  
 * (greek) [bibliographic records](https://opac.seab.gr/*eng)
 * [Z-Library](https://z-lib.org/) - 6.5m ebooks
@@ -56,7 +57,7 @@
 * [Dailymotion](https://www.dailymotion.com)  
 * [Brighteon](https://www.brighteon.com/)
 * [BitChute](https://www.bitchute.com/)
-* [Lbry](https://lbry.tv)
+* [Odysee](https://odysee.com/) (ex [Lbry](https://lbry.tv))
 * [flote](https://flote.app/)
 * [DLive](https://dlive.tv/)
 * [rumble](https://rumble.com/)
