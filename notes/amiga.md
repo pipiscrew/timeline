@@ -46,6 +46,7 @@
 * [Hyperion Entertainment.AmigaOne](https://en.wikipedia.org/wiki/AmigaOne)
 * [The Less Explored Computer Mag: 1st Amiga Sighting](https://www.amigalove.com/viewtopic.php?f=5&t=1876)
 * [Amiga 2000 EATX PCB](https://github.com/jasonsbeer/Amiga-2000-ATX) &nbsp; ([whats new](https://github.com/jasonsbeer/Amiga-2000-ATX/blob/main/Gallery.md))
+* [Deniser - Amiga Denise chip replacement](https://github.com/endofexclusive/deniser)
 * [Personal Computing On An Amiga In 2021](https://thedorkweb.substack.com/p/personal-computing-on-an-amiga-in-2021)
 * [Retro mini Amiga 500 launches in early 2022](https://www.polygon.com/22618467/amiga-500-mini-console-a500-retro-gaming-release-date-games)  &nbsp; ([src](https://retrogames.biz/thea500-mini))
 
