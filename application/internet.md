@@ -82,6 +82,7 @@ test browser [permissions](https://permission.site/).
 
   * [uBlock Origin](https://github.com/gorhill/uBlock) - efficient blocker for Firefox and Chromium
   * [NoScript](https://noscript.net/) - extra protection for Firefox  
+  * [Anti-Adblock Killer](https://github.com/reek/anti-adblock-killer)
   * [Ghostery](https://www.ghostery.com/) - Block Ads, Stop Trackers, and Speed Up Websites [firefox](https://addons.mozilla.org/en-US/firefox/addon/ghostery/) / [chrome](https://chrome.google.com/webstore/detail/ghostery-%E2%80%93-privacy-ad-blo/mlomiejdfkolichcflejclcbmpeaniij)
   * [magnolia.Bypass Paywalls Clean]() - Allows you to read articles from websites that implement a paywall. [chrome](https://gitlab.com/magnolia1234/bypass-paywalls-chrome-clean) / [firefox](https://gitlab.com/magnolia1234/bypass-paywalls-firefox-clean)
   * [Cookie AutoDelete](https://github.com/Cookie-AutoDelete/Cookie-AutoDelete) [firefox](https://addons.mozilla.org/en-US/firefox/addon/cookie-autodelete/) / [chrome](https://chrome.google.com/webstore/detail/cookie-autodelete/fhcgjolkccmbidfldomjliifgaodjagh)
@@ -144,6 +145,7 @@ To disable multiple running processes of the browser, you can set `browser.tabs.
 
 * [bitwarden](https://bitwarden.com/) - the free online solution 
 * [RoboForm](https://www.roboform.com/) - the well known
+* [Mozilla.Firefox Lockwise](https://www.mozilla.org/en-US/firefox/lockwise/)  
 
 ## FTP
 * [FileZilla](https://filezilla-project.org/)

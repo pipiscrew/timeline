@@ -204,7 +204,7 @@ She has a degree in **molecular genetics** from Trinity College Dublin (1989) an
 * [Medrxiv: Prevalence And Transmission Of Sars-Cov-2 In Childcare Facilities: A Longitudinal Study](https://www.medrxiv.org/content/10.1101/2021.04.16.21255616v1)  
 
 
-## ep228 'A sea of lies'
+## ep228 - A sea of lies
 * [NBC: Dallas And Austin School Districts Defy Governor's Order, Will Require Masks](https://www.nbcnews.com/news/us-news/dallas-austin-school-districts-defy-governor-s-order-will-require-n1276416)
 * [2news Oklahoma: First Oklahoma School District Defies State Law, Enacts Mask Mandate](https://www.kjrh.com/news/local-news/first-oklahoma-school-district-defies-state-law-enacts-mask-mandate)
 * [ABC: Fauci, Rand Paul Get In Shouting Match Over Wuhan Lab Covid Research](https://abc7chicago.com/fauci-rand-paul-video-exchange-covid-wuhan-lab-senator-and-dr/10901142/) &nbsp; :flushed:

@@ -64,7 +64,9 @@
 * [QuoDB](http://www.quodb.com/) - Search movies by quote
 * [PlayPhrase](https://www.playphrase.me/) - Search movies by quote  
 * [Streamable](https://streamable.com/upload-video) - for uploading
-* [PeerTube](https://videos.pair2jeux.tube/) - aka pair2jeux or P2J  
+* [PeerTube](https://videos.pair2jeux.tube/) - aka pair2jeux or P2J
+* [doc.ihavenotv](https://ihavenotv.com/)
+* [doc.Wild Earth](https://wildearth.tv) - check [youtube](https://www.youtube.com/c/WildEarth/videos) channel  
 
 ## video rip
 * [VidsWatch](https://www.vidswatch.com/) - add **magic** to domain => you**magic**tube.com/watch?v=p5IO-IJSVnQ
@@ -192,7 +194,6 @@
 
 ## news
 * [Reuters](https://www.reuters.com/)
-* [CBNC](https://www.cnbc.com)
 * [Bloomberg](https://www.bloomberg.com)
 * [Ars Technica](https://arstechnica.com/)
 * [BBC](https://www.bbc.com)
@@ -201,8 +202,6 @@
 * [Disclose](https://www.disclose.tv)
 * [Slashdot](https://slashdot.org/)
 * [Business Insider](https://www.businessinsider.com/)  
-* [The New York Times](https://www.nytimes.com/)  
-* [Wall Street Journal](https://www.wsj.com/)
 * [BellMedia.BNNBloomberg](https://www.bnnbloomberg.ca/) - Canadian
 * (IT) [Gizmodo](https://gizmodo.com/)
 * (IT) [ZDNet](https://www.zdnet.com)
@@ -212,6 +211,15 @@
 * (IT) [SlashGear](https://www.slashgear.com/)
 * (IT) [KrebsOnSecurity](https://krebsonsecurity.com)  
 * (IT) [Android Police](https://www.androidpolice.com/)
+
+## news controlled
+* [CBNC](https://www.cnbc.com)
+* [Los Angeles Times](https://www.latimes.com)
+* [The Wall Street Journal](https://www.wsj.com/)
+* [The Washington Post](https://www.washingtonpost.com/)
+* [The New York Times](https://www.nytimes.com/)
+* [BuzzFeed News](https://www.buzzfeednews.com/)
+
 
 ## seeking for truth
 * [Climate Change Agenda](http://climatechangeagenda.com/)
