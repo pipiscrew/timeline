@@ -75,7 +75,9 @@
 * [Reddit Videos](https://viddit.red/)
 * [Reddit Save](https://redditsave.com/)
 * [Facebook Video Downloader](https://fbdown.net/)
-* (hyper-multi) - [youtube-dl](https://ytdl-org.github.io/youtube-dl/)  ([supported sites](https://github.com/ytdl-org/youtube-dl/blob/master/docs/supportedsites.md))
+* (hyper-multi) - [youtube-dl](https://ytdl-org.github.io/youtube-dl/) &nbsp; ([supported sites](https://github.com/ytdl-org/youtube-dl/blob/master/docs/supportedsites.md))
+  * [appears to have been abandoned](https://news.ycombinator.com/item?id=28289981)
+  * [yt-dlp](https://github.com/yt-dlp/yt-dlp) - fork with additional features and fixes
 * (multi) [TubeOffline](https://www.tubeoffline.com/bookmarklet.php)
 * (multi) [YooDownload](https://yoodownload.com/)
 * (multi) [savefrom](https://savefrom.net)
@@ -179,7 +181,7 @@
 * [Evozi.APK Downloader](https://apps.evozi.com/apk-downloader/)
 * (chrome) [CRX Extractor](https://crxextractor.com/)
 * [WiFi Card](https://wificard.io/)
-* [Libera IRC network](https://web.libera.chat/)  
+* [Libera IRC network](https://web.libera.chat/)  &nbsp; [predefined link](https://web.libera.chat/?nick=testuser&c=#test)  
 
 ## cpu
 * [CPU-Z](https://www.cpuid.com/downloads/cpu-z/cpu-z_1.96-en.zip) - information for cpu
@@ -218,8 +220,7 @@
 * [The Wall Street Journal](https://www.wsj.com/)
 * [The Washington Post](https://www.washingtonpost.com/)
 * [The New York Times](https://www.nytimes.com/)
-* [BuzzFeed News](https://www.buzzfeednews.com/)
-
+* [BuzzFeed News](https://www.buzzfeednews.com/)  
 
 ## seeking for truth
 * [Climate Change Agenda](http://climatechangeagenda.com/)
@@ -242,3 +243,8 @@
 * [How Plants Extract Nutrients](https://www.permaculture.co.uk/articles/how-plants-extract-nutrients)
 * [DW.Fact vs fake – why don’t we trust science any more?](https://youtu.be/t5UPnuSTRjA)
 * [DW.Better brain health](https://youtu.be/TLpbfOJ4bJU)
+
+## news media twitter
+* @b6ynpz9QK7ej5xP @skaigr @MegaTvOfficial @ANT159694954 @kathariDinami @CKastamonitis @lampros_paschos @prime @Tvnea @Makeleio_gr @ERTglobal @StarChannelGr @alphatvgreece @opentvgr @MakedoniaTV @pronewsgr @pitsirikos @NewsItFeed @ekathimerini
+* @guardiannews @Reuters @arstechnica @BBCBreaking @cnnbrk @bsindia @disclosetv @BusinessInsider @BNNBloomberg @nytimes @BuzzFeedNews @drvandanashiva @enikos_gr @News247gr @iefimerida @tovimagr @newsbeast @ethnosgr @ToProtoThema @to10gr @Lawandordergr
+* @Flashgr_ @zougla_online @newsbombgr @aixmigr @Newsgr1 @capitalgr @toxrima @fimesgr @euro2day_gr @newmoneygr @parapolitika @matrix24gr @parapolitika @FortuneGreece @tribunegr @HellasNow @usay_gr @analystgr @PressPublica @epixeirein @parataxiMETA  

@@ -10,7 +10,7 @@ Maps - [Organic Maps](https://github.com/organicmaps/organicmaps)
 Expenses - [Alzex Finance](https://play.google.com/store/apps/details?id=com.alzex.finance.pro)  
 Expenses - [Chromabill](https://www.chromabill.com/) - ??  
 Pedometer - [Leap Fitness.Step Counter](https://play.google.com/store/apps/details?id=pedometer.steptracker.calorieburner.stepcounter)  
-RSS - [Inoreader](https://play.google.com/store/apps/details?id=com.innologica.inoreader)  
+RSS - [Inoreader](https://play.google.com/store/apps/details?id=com.innologica.inoreader) &nbsp; / &nbsp; [News GR](https://play.google.com/store/apps/details?id=com.ngoumotsios.rss_reader)  
 Sudoku - [Brainium.Sudoku](https://play.google.com/store/apps/details?id=com.brainium.sudoku.free)  
 Pull APK - [APK Saver](https://play.google.com/store/apps/details?id=com.sdkdevelopers.apksaver)  
 Keepass - [KeePassDroid](https://play.google.com/store/apps/details?id=com.android.keepass)  

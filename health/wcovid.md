@@ -16,8 +16,9 @@
 # news
 * stay updated [Corona Stats](https://corona-stats.online/)
 * stay updated [worldometers.Corona Status](https://www.worldometers.info/coronavirus/)
-* [Del Bigtree - The HighWire](https://thehighwire.com/WATCH/) - every Thursday 8pm CET (11am PST) &nbsp; ref - [icandecide](https://www.icandecide.org/)
-  * [ep228](https://thehighwire.com/videos/episode-228-a-sea-of-lies/) - 21 trillion missing (1:22) - [articles](https://www.pipiscrew.com/2021/08/us-federal-bank-21-trillion-missing-by-1999/)
+* [Del Bigtree - The HighWire](https://thehighwire.com/WATCH/) - every Thursday 8pm CET &nbsp; [factsinated](https://thehighwire.com/watch/?category=get-factsinated) &nbsp; ref - [icandecide](https://www.icandecide.org/)
+  * [ep228](https://thehighwire.com/videos/episode-228-a-sea-of-lies/) - 21 trillion missing (1:22) &nbsp; ([mirror](https://www.brighteon.com/af953ae6-7f3f-44cc-9398-188c743fc5d1)) &nbsp; - &nbsp; [articles](https://www.pipiscrew.com/2021/08/us-federal-bank-21-trillion-missing-by-1999/)
+  * [ep230](https://www.brighteon.com/97a28240-9290-4831-a144-4d93261de522) - Dr Ryan Cole - We should stop the vaccination &nbsp; ([mirror](https://www.brighteon.com/97a28240-9290-4831-a144-4d93261de522))
 * [Politicians injecting REGENERON (monoclonal)](https://www.regeneron.com/covid19) - a non mRNA, costs 11k $ / shot
 * 14/11/2020 - [Over 34,000 Health Experts Sign Declaration Against COVID-19 Lockdowns](https://www.theepochtimes.com/over-30000-health-experts-sign-declaration-against-covid-19-lockdowns_3537277.html)
 * 10/01/2021 - [Analysis of Pfizer & Moderna](https://blog.jonasneubert.com/2021/01/10/exploring-the-supply-chain-of-the-pfizer-biontech-and-moderna-covid-19-vaccines/)
@@ -35,7 +36,8 @@
  * 25/07/2021 - [Pill Race Heats Up as the Shionogi Japanese Firm Vies With Pfizer, Merck](https://www.wsj.com/articles/covid-19-pill-race-heats-up-as-japanese-firm-vies-with-pfizer-merck-11627205403)
  * 05/08/2021 - [ONS - 94% of English adults have Covid antibodies](https://www.thetimes.co.uk/article/658b3bc4-f518-11eb-8f01-2c678acbb979) 
  * 21/08/2021 - [India - ZyCoV-D world's first human DNA vaccine against Covid-19](https://www.bbc.com/news/world-asia-india-57774294)
- * 23/08/2021 - [FDA Approves Pfizer-BioNTech Covid-19 Vaccine for People 16 and Older](https://www.reuters.com/business/healthcare-pharmaceuticals/us-fda-grants-full-approval-pfizer-biontech-covid-19-vaccine-2021-08-23/)  
+ * 23/08/2021 - [FDA Approves Pfizer-BioNTech Covid-19 Vaccine for People 16 and Older](https://www.reuters.com/business/healthcare-pharmaceuticals/us-fda-grants-full-approval-pfizer-biontech-covid-19-vaccine-2021-08-23/)
+ * 27/08/2021 - [Contaminant in Moderna vaccines suspected to be metallic particles - NHK](https://www.reuters.com/business/healthcare-pharmaceuticals/contaminant-moderna-vaccines-suspected-be-metallic-powder-nhk-2021-08-27/)  
 
 &nbsp;
 &nbsp;
@@ -100,6 +102,7 @@ She has a degree in **molecular genetics** from Trinity College Dublin (1989) an
   * [Short highlight](https://t.me/The_Knowledge_Channel/730)  
 
 ### others
+* 27/08/2021 - [Inviqta - Κορωνοκρατια](https://www.youtube.com/watch?v=w2HxHRri11g)
 * 03/08/2021 - [Reiner Fuellmich - starting to win in courts](https://rumble.com/vkp0qf-reimer-fullmich-update-we-are-starting-to-win-in-courts.html) &nbsp; ([awakecanada](https://awakecanada.org/reimer-fullmich-update-we-are-starting-to-win-in-the-courts/))
 * 02/08/2021 - [US House Foreign Affairs Committee Report Minority Staff - The Origins of COVID-19](https://gop-foreignaffairs.house.gov/wp-content/uploads/2021/08/ORIGINS-OF-COVID-19-REPORT.pdf) &nbsp; ([tweet](https://twitter.com/HouseForeignGOP/status/1422187258036342785))&nbsp; ([mirror](https://www.dropbox.com/s/i7qx8sdgwklkeah/ORIGINS-OF-COVID-19-REPORT.pdf?dl=1))
 * 31/07/2021 - [exPfizer - Michael Yeadon](https://www.brighteon.com/44f5198e-c48a-420b-9a0f-78ab882de42c) &nbsp; ([mirror](https://youtu.be/pENijjYcwBw?t=1402))
