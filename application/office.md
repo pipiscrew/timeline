@@ -40,4 +40,20 @@ Sum selected cells
 
 Navigate to worksheets  
 
-* press CTRL + PGDown / PGUp
+* press CTRL + PGDown / PGUp  
+
+
+## See VBA (even is password protected)
+
+* XLS
+  * Open the file in a HEX editor and replace ASCII value `DPB=` with `DPx=`  
+&nbsp;
+
+* XLSX / XLSM  
+1. Change the extension of the `.xlsm` file to `.zip`  
+2. Extract the `xl\vbaProject.bin`  
+3. Open the file in a HEX editor and replace ASCII value `DPB=` with `DPx=`
+4. Double click the `xlsm` file, Excel discovers an invalid key (DPx) and asks whether you want to continue loading the project (basically ignoring the protection), `press YES!`  
+5. Open the VBA editor (ALT + F11)  
+6. You have to SET new password by going to Tools > 'xxx Properties' > Protection tab > enter new password  
+7. press ok > CTRL + S > close EXCEL and reopen it! &nbsp; [source](https://stackoverflow.com/a/31073075)  
