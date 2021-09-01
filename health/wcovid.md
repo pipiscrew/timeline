@@ -77,7 +77,7 @@ Started her career as a lab technician at the National Cancer Institute (NCI) in
 * 18/08/2020 - Released the book [The Case Against Masks](https://www.skyhorsepublishing.com/9781510764279/the-case-against-masks/)
 * 18/08/2020 - [Plandemic 2: Indoctornation](https://www.brighteon.com/ca9da0d0-d9bc-4f55-87bc-12204447dedc) - declared as conspiracy theory. Site [mirror](https://web.archive.org/web/20201101114720/https://plandemicseries.com/). [imdb](https://www.imdb.com/title/tt12927074/)
 * 24/06/2021 - [Dr Judy in Tampa](https://rumble.com/embed/vgdskb/?pub=4)
-* 31/08/2021 - Will release the book [Ending Plague](https://www.skyhorsepublishing.com/9781510764682/ending-plague/) - comes the prescription on how to end the plague infecting our medical community.  
+* 31/08/2021 - Released the book [Ending Plague](https://www.skyhorsepublishing.com/9781510764682/ending-plague/) - comes the prescription on how to end the plague infecting our medical community.  
 &nbsp;
 
 find latest news for her [here](https://plaguethebook.com/).
@@ -116,7 +116,7 @@ She has a degree in **molecular genetics** from Trinity College Dublin (1989) an
   * 21/07/2021 [Με διδακτορικό στο Χάρβαρντ ο διοργανωτής των αντιεμβολιαστών στην Κύπρο](https://www.in.gr/2021/07/21/greece/elpidoforos-sotiriadis-didaktoriko-sto-xarvarnt-o-diorganotis-ton-antiemvoliaston-stin-kypro/)
   * 23/07/2021 [Ελεύθερος εντός της ημέρας](https://www.kathimerini.com.cy/gr/kypros/eleytheros-entos-tis-imeras-o-giatros-elpidoforos-sotiriadis)
   * 02/08/2021 - [Konstantinos Farsalinos - Εγκληματική η διαχείριση της πανδημίας](https://www.facebook.com/konstantinos.farsalinos/posts/1917652245053184)
-    * 03/08/2021 - [Έρχονται πρόωροι θανάτοι](https://www.facebook.com/konstantinos.farsalinos/posts/1919073404911068) &nbsp; ([mirror](https://scontent-prg1-1.xx.fbcdn.net/v/t1.6435-9/227942905_1919069698244772_5137071280056672889_n.jpg?_nc_cat=101&ccb=1-3&_nc_sid=730e14&_nc_ohc=PYezkXjdFMMAX8xn_ik&_nc_ht=scontent-prg1-1.xx&oh=718f23331a00787369d52cefe70e0b4c&oe=612ED855))  
+    * 03/08/2021 - [Έρχονται πρόωροι θανάτοι](https://www.facebook.com/konstantinos.farsalinos/posts/1919073404911068)  
 
 &nbsp;
 
