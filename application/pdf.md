@@ -12,3 +12,4 @@
 * Protect (password to open) - [4dots.PdfEncrypter and Protector](https://www.4dots-software.com/free-pdf-protector/)
 * Word to PDF - [8848soft.Convert Doc to PDF For Word](http://www.8848soft.com/)
 * Export PDF Table to Excel -  [Cogniview.PDF2X](https://pdf2xl.com/)
+* [Free PDF to Word Excel HTML JPG](https://www.pdftox.com/) - PDF Table to Excel, PDF to word, PDF to image

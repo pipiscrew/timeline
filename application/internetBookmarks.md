@@ -32,6 +32,7 @@
 
 ## images / documents
 * (client side) [JPEG.rocks](https://jpeg.rocks/) for image
+* (client side) [AnyWebP](https://anywebp.com/) - WebP to JPG / PNG / ICO Converter Online
 * [Squoosh](https://squoosh.app) for image
 * (client side) [Local PDF Tools](https://localpdf.tech/)
 * (client side) [BulkResize photos](https://bulkresizephotos.com/en)
@@ -181,7 +182,8 @@
 * [Evozi.APK Downloader](https://apps.evozi.com/apk-downloader/)
 * (chrome) [CRX Extractor](https://crxextractor.com/)
 * [WiFi Card](https://wificard.io/)
-* [Libera IRC network](https://web.libera.chat/)  &nbsp; [predefined link](https://web.libera.chat/?nick=testuser&c=#test)  
+* [Libera IRC network](https://web.libera.chat/)  &nbsp; [predefined link](https://web.libera.chat/?nick=testuser&c=#test)
+* [jitsi](https://jitsi.org/)  
 
 ## cpu
 * [CPU-Z](https://www.cpuid.com/downloads/cpu-z/cpu-z_1.96-en.zip) - information for cpu
