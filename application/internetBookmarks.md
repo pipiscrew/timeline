@@ -183,7 +183,8 @@
 * (chrome) [CRX Extractor](https://crxextractor.com/)
 * [WiFi Card](https://wificard.io/)
 * [Libera IRC network](https://web.libera.chat/)  &nbsp; [predefined link](https://web.libera.chat/?nick=testuser&c=#test)
-* [jitsi](https://jitsi.org/)  
+* [jitsi](https://jitsi.org/) - web chat / video call
+* [webpage archive](https://archive.is/) or [2](https://archive.today/)
 
 ## cpu
 * [CPU-Z](https://www.cpuid.com/downloads/cpu-z/cpu-z_1.96-en.zip) - information for cpu

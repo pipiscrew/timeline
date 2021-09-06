@@ -19,7 +19,8 @@
 * [Del Bigtree - The HighWire](https://thehighwire.com/WATCH/) - every Thursday 8pm CET &nbsp; [factsinated](https://thehighwire.com/watch/?category=get-factsinated) &nbsp; ref - [icandecide](https://www.icandecide.org/)
   * [ep228](https://thehighwire.com/videos/episode-228-a-sea-of-lies/) - 21 trillion missing (1:22) &nbsp; ([mirror](https://www.brighteon.com/af953ae6-7f3f-44cc-9398-188c743fc5d1)) &nbsp; - &nbsp; [articles](https://www.pipiscrew.com/2021/08/us-federal-bank-21-trillion-missing-by-1999/)
   * [ep230](https://www.brighteon.com/97a28240-9290-4831-a144-4d93261de522) - Dr Ryan Cole - We should stop the vaccination &nbsp; ([mirror](https://www.brighteon.com/97a28240-9290-4831-a144-4d93261de522))
-* [Politicians injecting REGENERON (monoclonal)](https://www.regeneron.com/covid19) - a non mRNA, costs 11k $ / shot
+  * [ep231](https://thehighwire.com/videos/episode-231-feast-of-consequences/) - Regeneron for citizens
+* [Politicians injecting REGENERON (monoclonal)](https://www.regeneron.com/covid19) - a non mRNA, costs 2k $ / shot
 * 14/11/2020 - [Over 34,000 Health Experts Sign Declaration Against COVID-19 Lockdowns](https://www.theepochtimes.com/over-30000-health-experts-sign-declaration-against-covid-19-lockdowns_3537277.html)
 * 10/01/2021 - [Analysis of Pfizer & Moderna](https://blog.jonasneubert.com/2021/01/10/exploring-the-supply-chain-of-the-pfizer-biontech-and-moderna-covid-19-vaccines/)
   * 25/12/2020 - [Reverse Engineering the source code of the Pfizer vaccine : Part 1](https://berthub.eu/articles/posts/reverse-engineering-source-code-of-the-biontech-pfizer-vaccine/)
@@ -121,11 +122,16 @@ She has a degree in **molecular genetics** from Trinity College Dublin (1989) an
 &nbsp;
 
 # alternatives
+* [Budesonide](https://budesonideworks.com/)
 * [Clinical phases of Covid Treatments](https://www.quiverquant.com/covidtreatments/)
 * 14/01/2021 - [Natural COVID Therapies](https://anh-usa.org/world-begins-to-wake-up-about-natural-covid-therapies/) - Thailand, government regulators recently approved **Andrographic paniculata**, an herbaceous herb native to Southeast Asia, as a treatment for early COVID-19 infection  
 * [Front Line COVID-19 Critical Care Alliance](https://covid19criticalcare.com/)
   * 07/06/2021 - [Ivermectin As a COVID-19 Therapy](https://blogs.sciencemag.org/pipeline/archives/2021/06/07/ivermectin-as-a-covid-19-therapy)
-* [halo therapeutics](https://halo-therapeutics.com/) - biotech company from Bristol uses **linoleic acid** as pan coronavirus antiviral  
+* [halo therapeutics](https://halo-therapeutics.com/) - biotech company from Bristol uses **linoleic acid** as pan coronavirus antiviral
+* [Combat Covid - US Department of Health and Human Services](https://combatcovid.hhs.gov/)  - monoclonal  
+* [Vladimir Zelenko = Covid-19 Treatment Protocol](https://vladimirzelenkomd.com/treatment-protocol/) - Maximize Your Immune System
+  * Vitamin C 1000mg / Vitamin D3 5000IU / Zinc 50mg / Quercetin 500mg
+  * [Z-STACK product](https://zstacklife.com/)  
 
 &nbsp;
 

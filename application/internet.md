@@ -66,6 +66,8 @@ test browser [permissions](https://permission.site/).
 
 [Improve memory usage](https://www.reddit.com/r/firefox/comments/p8g5zd/why_does_disabling_accessibility_services_improve/) - by set the `accessibility.force_disabled` to **1** at `about:config`  
 
+[Mozilla - uBlock Origin review](https://addons.mozilla.org/blog/ublock-origin-everything-you-need-to-know-about-the-ad-blocker/)  
+
 &nbsp;
 
 #### Using Firefox **user.js** settings file
