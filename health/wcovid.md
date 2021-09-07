@@ -38,7 +38,8 @@
  * 05/08/2021 - [ONS - 94% of English adults have Covid antibodies](https://www.thetimes.co.uk/article/658b3bc4-f518-11eb-8f01-2c678acbb979) 
  * 21/08/2021 - [India - ZyCoV-D world's first human DNA vaccine against Covid-19](https://www.bbc.com/news/world-asia-india-57774294)
  * 23/08/2021 - [FDA Approves Pfizer-BioNTech Covid-19 Vaccine for People 16 and Older](https://www.reuters.com/business/healthcare-pharmaceuticals/us-fda-grants-full-approval-pfizer-biontech-covid-19-vaccine-2021-08-23/)
- * 27/08/2021 - [Contaminant in Moderna vaccines suspected to be metallic particles - NHK](https://www.reuters.com/business/healthcare-pharmaceuticals/contaminant-moderna-vaccines-suspected-be-metallic-powder-nhk-2021-08-27/)  
+ * 27/08/2021 - [Contaminant in Moderna vaccines suspected to be metallic particles - NHK](https://www.reuters.com/business/healthcare-pharmaceuticals/contaminant-moderna-vaccines-suspected-be-metallic-powder-nhk-2021-08-27/)
+ * 21/08/2021 - [AU - Liberal MP Craig Kelly - Medicine summary](https://www.unitedaustraliaparty.org.au/wp-content/uploads/2021/08/daen-report-20210821.pdf) &nbsp; ([mirror](https://www.dropbox.com/s/pbspms35t1wh0lo/daen-report-20210821.pdf?dl=1))
 
 &nbsp;
 &nbsp;
