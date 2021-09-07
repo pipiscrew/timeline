@@ -37,9 +37,10 @@
  * 25/07/2021 - [Pill Race Heats Up as the Shionogi Japanese Firm Vies With Pfizer, Merck](https://www.wsj.com/articles/covid-19-pill-race-heats-up-as-japanese-firm-vies-with-pfizer-merck-11627205403)
  * 05/08/2021 - [ONS - 94% of English adults have Covid antibodies](https://www.thetimes.co.uk/article/658b3bc4-f518-11eb-8f01-2c678acbb979) 
  * 21/08/2021 - [India - ZyCoV-D world's first human DNA vaccine against Covid-19](https://www.bbc.com/news/world-asia-india-57774294)
- * 23/08/2021 - [FDA Approves Pfizer-BioNTech Covid-19 Vaccine for People 16 and Older](https://www.reuters.com/business/healthcare-pharmaceuticals/us-fda-grants-full-approval-pfizer-biontech-covid-19-vaccine-2021-08-23/)
- * 27/08/2021 - [Contaminant in Moderna vaccines suspected to be metallic particles - NHK](https://www.reuters.com/business/healthcare-pharmaceuticals/contaminant-moderna-vaccines-suspected-be-metallic-powder-nhk-2021-08-27/)
  * 21/08/2021 - [AU - Liberal MP Craig Kelly - Medicine summary](https://www.unitedaustraliaparty.org.au/wp-content/uploads/2021/08/daen-report-20210821.pdf) &nbsp; ([mirror](https://www.dropbox.com/s/pbspms35t1wh0lo/daen-report-20210821.pdf?dl=1))
+ * 23/08/2021 - [FDA Approves Pfizer-BioNTech Covid-19 Vaccine for People 16 and Older](https://www.reuters.com/business/healthcare-pharmaceuticals/us-fda-grants-full-approval-pfizer-biontech-covid-19-vaccine-2021-08-23/)
+ * 25/08/2021 - [UK - CVD Yellow Card report](https://www.gov.uk/government/publications/coronavirus-covid-19-vaccine-adverse-reactions/coronavirus-vaccine-summary-of-yellow-card-reporting#annex-1-vaccine-analysis-print)  
+  * 27/08/2021 - [Contaminant in Moderna vaccines suspected to be metallic particles - NHK](https://www.reuters.com/business/healthcare-pharmaceuticals/contaminant-moderna-vaccines-suspected-be-metallic-powder-nhk-2021-08-27/)  
 
 &nbsp;
 &nbsp;
