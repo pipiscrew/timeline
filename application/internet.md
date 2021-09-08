@@ -230,6 +230,7 @@ To disable multiple running processes of the browser, you can set `browser.tabs.
 * [Passmark.WirelessMon](https://www.passmark.com/products/wirelessmonitor/) - Monitor wireless adapters and WiFi access points
 * [faproc.Wifi Analyzer](https://play.google.com/store/apps/details?id=com.farproc.wifi.analyzer) - Turns your android phone into a Wi-Fi analyzer
 * [Nirsoft.WirelessKeyView](https://www.nirsoft.net/utils/wireless_key.html) - Recover wireless network key
+* [ubiquity.WiFiman](https://play.google.com/store/apps/details?id=com.ubnt.usurvey) - Dynamic visualization of your WiFi signal and more. [homepage](http://wifiman.com/)  
 
 ## fax
 * [Snappy Fax](https://www.snappysoftware.com/) - Sending and receiving fax, forward to email

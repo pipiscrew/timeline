@@ -67,6 +67,7 @@
 * [Streamable](https://streamable.com/upload-video) - for uploading
 * [PeerTube](https://videos.pair2jeux.tube/) - aka pair2jeux or P2J
 * [doc.ihavenotv](https://ihavenotv.com/)
+* [doc.waterbear](https://www.waterbear.com/)
 * [doc.Wild Earth](https://wildearth.tv) - check [youtube](https://www.youtube.com/c/WildEarth/videos) channel  
 
 ## video rip

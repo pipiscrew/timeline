@@ -143,6 +143,39 @@ She has a degree in **molecular genetics** from Trinity College Dublin (1989) an
 
 # media
 
+## ep231 - Feast of consequences
+* [Chinese Embassy: Statement By The Chinese Embassy In The United States On The "Covid-19 Origin-Tracing" Report Of The U.S. Side](http://www.china-embassy.org/eng/sgxw/t1902650.htm)
+* [Biorxiv: The Sars-Cov-2 Delta Variant Is Poised To Acquire Complete Resistance To Wild-Type Spike Vaccines](https://www.biorxiv.org/content/10.1101/2021.08.22.457114v1)
+* [Medrxiv: Infection Fatality Rate Of Covid-19 In Community-Dwelling Populations With Emphasis On The Elderly: An Overview](https://www.medrxiv.org/content/10.1101/2021.07.08.21260210v1)
+* [Becker’S Hospital Review: Nearly 60% Of Hospitalized Covid-19 Patients In Israel Fully Vaccinated, Data Shows](https://www.beckershospitalreview.com/public-health/nearly-60-of-hospitalized-covid-19-patients-in-israel-fully-vaccinated-study-finds.html)
+* [Fox 5 Atlanta: Delta Variant Surge Taking Mental, Physical Toll On Hospital Staff](https://www.fox5atlanta.com/news/delta-variant-surge-taking-mental-physical-toll-on-hospital-staff)
+* [The Texan: Texas Aims To Lower Covid-19 Hospitalizations By Setting Up Additional Monoclonal Antibody Infusion Centers](https://thetexan.news/texas-aims-to-lower-covid-19-hospitalizations-by-setting-up-additional-monoclonal-antibody-infusion-centers/)
+* [American Journal Of Therapeutics: Ivermectin For Prevention And Treatment Of Covid-19 Infection: A Systematic Review, Meta-Analysis, And Trial Sequential Analysis To Inform Clinical Guidelines](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8248252/)
+* [FLCCC: Review Of The Emerging Evidence Demonstrating The Efficacy Of Ivermectin In The Prophylaxis And Treatment Of Covid-19](https://covid19criticalcare.com/wp-content/uploads/2020/11/FLCCC-Ivermectin-in-the-prophylaxis-and-treatment-of-COVID-19.pdf)
+* [Click Orlando: ‘Go Get It’: Woman Seen On Floor At Florida Monoclonal Site Says Treatment Saved Her Life](https://www.clickorlando.com/news/florida/2021/08/30/go-get-it-woman-seen-on-floor-at-florida-monoclonal-site-says-treatment-saved-her-life/)
+* [Fox4: Monoclonal Antibodies Can Save Lives Of Sick Covid-19 Patients, Study Finds](https://www.fox4news.com/news/monoclonal-antibodies-can-save-lives-of-sick-covid-19-patients-study-finds)
+* [WFLA: Desantis Touts Regeneron Treatment In Tampa, Shares Monoclonal Antibody Success Stories](https://www.wfla.com/news/local-news/gov-desantis-in-tampa-to-speak-at-hillsborough-dept-of-health/)
+* [NDTV: Monoclonal Antibody Treatment Combo Cuts Hospitalisation Among High-Risk Covid Patients: Study](https://www.ndtv.com/world-news/monoclonal-antibody-treatment-combo-cuts-hospitalisation-among-high-risk-covid-patients-study-2524613)
+* [Politico: Biden's Top-Down Booster Plan Sparks Anger At Fda](https://www.politico.com/news/2021/08/31/biden-booster-plan-fda-508149)
+* [Reuters: Moderna To Recall Covid-19 Doses In Japan After Stainless Steel Contaminants Found](https://www.reuters.com/business/healthcare-pharmaceuticals/japan-finds-stainless-steel-particles-suspended-doses-moderna-vaccine-2021-09-01/)
+* [Reuters: Japan Health Minister Says Okinawa Vaccine Contaminants Likely From Needle Stick](https://www.reuters.com/world/asia-pacific/japan-health-minister-says-okinawa-vaccine-contaminants-likely-needle-stick-2021-08-31/)
+* [The Hill: CDC Panel Says More Evidence Needed For Booster Recommendation](https://www.msn.com/en-us/news/politics/cdc-panel-says-more-evidence-needed-for-booster-recommendation/ar-AANUqpy)
+* [Biopharmadive: Top Fda Vaccine Officials To Leave Agency As Decision On Covid-19 Boosters Looms](https://www.biopharmadive.com/news/marion-gruber-phil-krause-leaving-fda/605859/)
+* [New York Times: Three F.D.A. Advisers Resign Over Agency’S Approval Of Alzheimer’S Drug](https://www.nytimes.com/2021/06/10/health/aduhelm-fda-resign-alzheimers.html)
+* [Reuters: Exclusive: Top Fda Official Says Would Resign If Agency Rubber-Stamps An Unproven Covid-19 Vaccine](https://www.reuters.com/article/us-health-coronavirus-vaccines-fda-exclu/exclusive-top-fda-official-says-would-resign-if-agency-rubber-stamps-an-unproven-covid-19-vaccine-idUSKBN25H03H)
+* [The Hill: Fauci Fatigue Sets In As Top Doc Sows Doubt In Vaccine Effectiveness](https://s3.amazonaws.com/capitolhillpub-static/browser_unsupported.html)
+* [The Free Press: Poll: ‘Fauci Fatigue’ Fewer Than Half Of Americans Have A Favorable View Of Fauci](https://www.tampafp.com/poll-fauci-fatigue-fewer-than-half-of-americans-have-a-favorable-view-of-fauci/)
+* [Rasmussen Report: Are Americans Losing Faith In Dr. Fauci?](https://www.rasmussenreports.com/public_content/lifestyle/coronavirus/are_americans_losing_faith_in_dr_fauci)
+* [New York Times: Factory Mix-Up Ruins Up To 15 Million Vaccine Doses From Johnson & Johnson](https://www.nytimes.com/2021/03/31/us/politics/johnson-johnson-coronavirus-vaccine.html)
+* [Fierce Pharma: Emergent Shuts Down Covid-19 Vaccine Production At Troubled Plant After Feds Put J&J In Charge](https://www.fiercepharma.com/pharma/at-request-fda-emergent-s-troubled-baltimore-plant-suspends-j-j-vaccine-production)
+* [CMSRI: Dirty Vaccines: New Study Reveals Prevalence Of Contaminants](https://info.cmsri.org/the-driven-researcher-blog/dirty-vaccines-new-study-reveals-prevalence-of-contaminants)
+* [Medcrave: New Quality-Control Investigations On Vaccines: Micro- And Nanocontamination](https://medcraveonline.com/IJVV/IJVV-04-00072.pdf)
+* [AP News: Japan Suspends 1.63m Doses Of Moderna Over Contamination](https://apnews.com/article/business-health-japan-coronavirus-pandemic-coronavirus-vaccine-c4d8c12f851c534e8ae3002cd58b63aa)
+* [The Japan Times: Foreign Substances In Japan's Moderna Shots: Here's What You Need To Know](https://www.japantimes.co.jp/news/2021/08/30/national/contaminated-moderna-vaccine-explainer/)
+* [Reuters: Two Die In Japan After Shots From Suspended Moderna Vaccines - Japan Govt](https://www.reuters.com/business/healthcare-pharmaceuticals/two-die-japan-after-shots-suspended-moderna-vaccines-japan-govt-2021-08-28/)
+* [Reuters: Japan's Moderna Vaccine Contamination Woes Widen As Regions Put Holds On Shots](https://www.reuters.com/world/asia-pacific/japans-gunma-prefecture-reports-contaminant-moderna-covid-19-vaccine-2021-08-30/)
+
+
 ## ep230 - The writing on the wall
 * [Military.com: 53% Of Military Families Don't Want Covid-19 Vaccine, Survey Shows](https://www.military.com/daily-news/2021/02/04/53-of-military-families-dont-want-covid-19-vaccine-survey-shows.html)
 * [WebMD: Huge Number Of Hospital Workers Still Unvaccinated](https://www.webmd.com/vaccines/covid-19-vaccine/news/20210628/huge-number-of-hospital-workers)
