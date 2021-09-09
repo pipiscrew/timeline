@@ -180,4 +180,42 @@ The sequence is :
 * [Internet Archive.LTSC 2019](https://archive.org/details/win-10.-ltsc-2019.x-64.lite.v-2107-ik)
 * [eXoDOS](http://exodos.the-eye.us/)
 * [Open Source Game Clones](https://osgameclones.com/)
-* [Superfrog Remake](https://www.lithiumdream.com/)
+* [Superfrog Remake](https://www.lithiumdream.com/)  
+
+## sample batch files, using every day ;) 
+
+* kill a task
+```
+@echo off
+
+taskkill /F /IM lync.exe
+```
+
+* kill a task with a timer
+```
+@echo off
+
+SET /A tick = (60*60)
+
+timeout /t %tick% /nobreak
+
+taskkill /F /IM colors.exe
+```
+
+* force shutdown
+```
+@echo off
+
+::https://www.robvanderwoude.com/ntcolor.php
+COLOR fc
+
+setlocal
+:PROMPT
+SET /P AREYOUSURE=Are you sure (Y/[N])?
+IF /I "%AREYOUSURE%" NEQ "Y" GOTO END
+
+shutdown /t 0 /s /f
+
+:END
+endlocal
+```
