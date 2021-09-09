@@ -187,35 +187,27 @@ The sequence is :
 * kill a task
 ```
 @echo off
-
 taskkill /F /IM lync.exe
 ```
 
 * kill a task with a timer
 ```
 @echo off
-
 SET /A tick = (60*60)
-
 timeout /t %tick% /nobreak
-
 taskkill /F /IM colors.exe
 ```
 
 * force shutdown
 ```
 @echo off
-
 ::https://www.robvanderwoude.com/ntcolor.php
 COLOR fc
-
 setlocal
 :PROMPT
 SET /P AREYOUSURE=Are you sure (Y/[N])?
 IF /I "%AREYOUSURE%" NEQ "Y" GOTO END
-
 shutdown /t 0 /s /f
-
 :END
 endlocal
 ```
