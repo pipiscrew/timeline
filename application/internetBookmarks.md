@@ -80,6 +80,7 @@
 * (hyper-multi) - [youtube-dl](https://ytdl-org.github.io/youtube-dl/) &nbsp; ([supported sites](https://github.com/ytdl-org/youtube-dl/blob/master/docs/supportedsites.md))
   * [appears to have been abandoned](https://news.ycombinator.com/item?id=28289981)
   * [yt-dlp](https://github.com/yt-dlp/yt-dlp) - fork with additional features and fixes
+  * [youtube-dl-gui](https://github.com/jely2002/youtube-dl-gui/)
 * (multi) [TubeOffline](https://www.tubeoffline.com/bookmarklet.php)
 * (multi) [YooDownload](https://yoodownload.com/)
 * (multi) [savefrom](https://savefrom.net)
