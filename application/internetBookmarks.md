@@ -62,6 +62,7 @@
 * [flote](https://flote.app/)
 * [DLive](https://dlive.tv/)
 * [rumble](https://rumble.com/)
+* [banned video](https://banned.video/)
 * [QuoDB](http://www.quodb.com/) - Search movies by quote
 * [PlayPhrase](https://www.playphrase.me/) - Search movies by quote  
 * [Streamable](https://streamable.com/upload-video) - for uploading
