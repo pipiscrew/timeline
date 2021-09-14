@@ -189,7 +189,11 @@ She has a degree in **molecular genetics** from Trinity College Dublin (1989) an
 * [Pub Med: Electrical Generation Of Terahertz Blackbody Radiation From Graphene](https://pubmed.ncbi.nlm.nih.gov/30469575/)
 * [Scientist Study: New Graphene Device Detects And Amplifies Terahertz Waves](https://www.scientiststudy.com/2020/02/new-graphene-device-detects-and.html)
 * [Google Patents: Nano Coronavirus Recombinant Vaccine Taking Graphene Oxide As Carrier](https://patents.google.com/patent/CN112220919A/en)
-* [FDA: Vaccine Information Fact Sheet For Recipients And Caregivers About Comirnaty](https://www.fda.gov/media/144414/download)
+* [FDA: Vaccine Information Fact Sheet For Recipients And Caregivers About Comirnaty](https://www.fda.gov/media/144414/download) &nbsp; :flushed:
+  * [Fact Sheet](http://www.cvdvaccine.com/)
+  * [VAERS - Report vaccine side effects to FDA/CDC](https://vaers.hhs.gov/reportevent.html)
+  * [Pfizer - report side effects](http://www.pfizersafetyreporting.com/)
+  * [CDC - v-safe after Vaccination Health Checker](https://http://www.cdc.gov/vsafe)
 * [Dr. Robert Young: Scanning & Transmission Electron Microscopy Reveals Graphene Oxide In Cov-19 Vaccines](https://www.drrobertyoung.com/post/transmission-electron-microscopy-reveals-graphene-oxide-in-cov-19-vaccines)  
 
 ## ep231 - Feast of consequences
