@@ -28,7 +28,8 @@
 * [Excel to HTML Table Converter](http://pressbin.com/tools/excel_to_html_table/index.html)
 * [Mr. Data Converter](https://thdoan.github.io/mr-data-converter/)  
 * [Convert CSV to Excel++](https://www.convertcsv.com/csv-to-csv.htm)
-* [Excel To Json Converter](https://beautifytools.com/excel-to-json-converter.php)  
+* [Excel To Json Converter](https://beautifytools.com/excel-to-json-converter.php)
+* [DataDesign.ConvertCSV](https://www.convertcsv.com/)
 
 ## images / documents
 * (client side) [JPEG.rocks](https://jpeg.rocks/) for image
@@ -101,6 +102,8 @@
 * [JSON lint](https://jsonlint.com/)
 * [JSON / XML Formatter & Validator](https://jsonformatter.curiousconcept.com/)
 * [jsonmatic](https://jsonmatic.com/) - CSV into a JSON and vice versa
+* [DataDesign.JSON to SQL](https://www.convertjson.com/json-to-sql.htm)
+* [JSON Beautify](https://codebeautify.org/jsonviewer)
 * [de4js - JavaScript Deobfuscator](https://lelinhtinh.github.io/de4js/)  
 * [HTML Cleaner](https://htmlcodeeditor.com/)  
 * [UUID Generator](https://www.uuidgenerator.net/)
