@@ -192,6 +192,7 @@ She has a degree in **molecular genetics** from Trinity College Dublin (1989) an
 * [FDA: Vaccine Information Fact Sheet For Recipients And Caregivers About Comirnaty](https://www.fda.gov/media/144414/download) &nbsp; :flushed:
   * [Fact Sheet](http://www.cvdvaccine.com/)
   * [VAERS - Report vaccine side effects to FDA/CDC](https://vaers.hhs.gov/reportevent.html)
+    * [search](https://wonder.cdc.gov/vaers.html)
   * [Pfizer - report side effects](http://www.pfizersafetyreporting.com/)
   * [CDC - v-safe after Vaccination Health Checker](https://http://www.cdc.gov/vsafe)
 * [Dr. Robert Young: Scanning & Transmission Electron Microscopy Reveals Graphene Oxide In Cov-19 Vaccines](https://www.drrobertyoung.com/post/transmission-electron-microscopy-reveals-graphene-oxide-in-cov-19-vaccines)  
