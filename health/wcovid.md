@@ -143,7 +143,7 @@ She has a degree in **molecular genetics** from Trinity College Dublin (1989) an
 
 &nbsp;
 
-# media
+# media  
 
 ## ep232 - The greater threat
 * [The Post Millenial: AP Corrects Article Claiming 70 Percent Of Calls To Mississippi Poison Control Were About Ivermectin Ingestion](https://thepostmillennial.com/ap-corrects-article-70-percent-calls-mississippi-poison-control-ivermectin-ingestion)
