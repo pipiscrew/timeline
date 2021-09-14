@@ -20,6 +20,7 @@
   * [ep228](https://thehighwire.com/videos/episode-228-a-sea-of-lies/) - 21 trillion missing (1:22) &nbsp; ([mirror](https://www.brighteon.com/af953ae6-7f3f-44cc-9398-188c743fc5d1)) &nbsp; - &nbsp; [articles](https://www.pipiscrew.com/2021/08/us-federal-bank-21-trillion-missing-by-1999/)
   * [ep230](https://www.brighteon.com/97a28240-9290-4831-a144-4d93261de522) - Dr Ryan Cole - We should stop the vaccination &nbsp; ([mirror](https://www.brighteon.com/97a28240-9290-4831-a144-4d93261de522))
   * [ep231](https://thehighwire.com/videos/episode-231-feast-of-consequences/) - Regeneron for citizens
+  * [ep232](https://thehighwire.com/videos/episode-232-the-greater-threat/) - Dr Robert Young - Graphene Oxide
 * [Politicians injecting REGENERON (monoclonal)](https://www.regeneron.com/covid19) - a non mRNA, costs 2k $ / shot
 * 14/11/2020 - [Over 34,000 Health Experts Sign Declaration Against COVID-19 Lockdowns](https://www.theepochtimes.com/over-30000-health-experts-sign-declaration-against-covid-19-lockdowns_3537277.html)
 * 10/01/2021 - [Analysis of Pfizer & Moderna](https://blog.jonasneubert.com/2021/01/10/exploring-the-supply-chain-of-the-pfizer-biontech-and-moderna-covid-19-vaccines/)
@@ -41,6 +42,7 @@
  * 23/08/2021 - [FDA Approves Pfizer-BioNTech Covid-19 Vaccine for People 16 and Older](https://www.reuters.com/business/healthcare-pharmaceuticals/us-fda-grants-full-approval-pfizer-biontech-covid-19-vaccine-2021-08-23/)
  * 25/08/2021 - [UK - CVD Yellow Card report](https://www.gov.uk/government/publications/coronavirus-covid-19-vaccine-adverse-reactions/coronavirus-vaccine-summary-of-yellow-card-reporting#annex-1-vaccine-analysis-print)  
   * 27/08/2021 - [Contaminant in Moderna vaccines suspected to be metallic particles - NHK](https://www.reuters.com/business/healthcare-pharmaceuticals/contaminant-moderna-vaccines-suspected-be-metallic-powder-nhk-2021-08-27/)  
+* 13/09/2021 - [Dr Robert Young - Graphene Oxide in Vaccines](https://www.drrobertyoung.com/post/transmission-electron-microscopy-reveals-graphene-oxide-in-cov-19-vaccines)  
 
 &nbsp;
 &nbsp;
@@ -142,6 +144,53 @@ She has a degree in **molecular genetics** from Trinity College Dublin (1989) an
 &nbsp;
 
 # media
+
+## ep232 - The greater threat
+* [The Post Millenial: AP Corrects Article Claiming 70 Percent Of Calls To Mississippi Poison Control Were About Ivermectin Ingestion](https://thepostmillennial.com/ap-corrects-article-70-percent-calls-mississippi-poison-control-ivermectin-ingestion)
+* [Oklahoma News 4: Patients Overdosing On Ivermectin Backing Up Rural Oklahoma Hospitals, Ambulances](https://kfor.com/news/local/patients-overdosing-on-ivermectin-backing-up-rural-oklahoma-hospitals-ambulances/)
+* [Rolling Stone: Gunshot Victims Left Waiting As Horse Dewormer Overdoses Overwhelm Oklahoma Hospitals, Doctor Says](https://web.archive.org/web/20210903231939/https://www.rollingstone.com/politics/politics-news/gunshot-victims-horse-dewormer-ivermectin-oklahoma-hospitals-covid-1220608/)
+* [Rolling Stone: One Hospital Denies Oklahoma Doctor’S Story Of Ivermectin Overdoses Causing Er Delays For Gunshot Victims](https://www.rollingstone.com/politics/politics-news/gunshot-victims-horse-dewormer-ivermectin-oklahoma-hospitals-covid-1220608/)
+* [Twitter: Rolling Stone Story Tweet](https://twitter.com/RollingStone/status/1433922442850930696?s=20)
+* [Twitter: Rachel Maddow Tweet](https://twitter.com/maddow/status/1433521336282976256)
+* [Twitter: Rachel Maddow Follow-Up Tweet](https://twitter.com/maddow/status/1435322992825966593?s=20)
+* [KTLA5: Joe Rogan, A Vaccine Skeptic, Announces He Has Covid-19](https://ktla.com/news/coronavirus/joe-rogan-announces-he-has-covid/)
+* [New York Post: Joe Rogan Gets Covid-19 After Urging Listeners Not To Get The Vaccine](https://nypost.com/2021/09/01/joe-rogan-got-covid-after-urging-listeners-not-to-get-vaccine/)
+* [Washington Post: Joe Rogan Has Covid-19, Is Taking Unproven Deworming Medicine](https://www.washingtonpost.com/gdpr-consent/?next_url=https://www.washingtonpost.com/technology/2021/09/01/joe-rogan-covid/)
+* [Fox: Msnbc's Rachel Maddow Flamed For Not Deleting False Tweet About Oklahoma Hospitals: 'Queen Of Misinformation'](https://www.foxnews.com/media/msnbc-rachel-maddow-flamed-tweet-false-claims-overrun-oklahoma-hospitals)
+* [The Nobel Assembly At Karolinska Institutet: 2015 Nobel Prize In Physiology Or Medicine](https://www.nobelprize.org/uploads/2018/06/press-29.pdf)
+* [The Desert Review: India's Ivermectin Blackout - Part Iii: The Lesson Of Kerala](https://www.thedesertreview.com/opinion/columnists/indias-ivermectin-blackout---part-iii-the-lesson-of-kerala/article_ccecb97e-044e-11ec-9112-2b31ae87887a.html)
+* [The Indian Express: Uttar Pradesh Government Says Early Use Of Ivermectin Helped To Keep Positivity, Deaths Low](https://indianexpress.com/article/cities/lucknow/uttar-pradesh-government-says-ivermectin-helped-to-keep-deaths-low-7311786/)
+* [Ivermectin Studies](https://ivmmeta.com/)
+* [Clincalc: Ivermectin Drug Usage Statistics, United States, 2008 - 2018](https://clincalc.com/DrugStats/Drugs/Ivermectin)
+* [Summary Of Product Characteristics: Monoclonal Antibodies](https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/1012415/revised-gb-spc-ronapreve-clean-120mg-ml12aug2021docx.pdf)
+* [Chalkbeat Ny: Nyc, Teachers Union Continue Negotiations Over Covid Vaccine Mandate](https://ny.chalkbeat.org/2021/9/8/22663061/nyc-teachers-union-negotiations-covid-vaccine-mandate)
+* [CDC: Basics And Common Questions: Immunization: The Basics (2012)](http://web.archive.org/web/20120710132002/https://www.cdc.gov/vaccines/vac-gen/imz-basics.htm)
+* [Reuters: Israel To End Covid-19 Restrictions After Vaccine Success](https://www.reuters.com/world/middle-east/israel-end-covid-19-restrictions-after-vaccine-success-2021-05-23/)
+* [CDC: Immunization: The Basics (2015)](http://web.archive.org/web/20150214043055/https://www.cdc.gov/vaccines/vac-gen/imz-basics.htm)
+* [Townhall: Icymi: Spain's Supreme Court Just Torched A Local Covid Passport Push](https://townhall.com/tipsheet/mattvespa/2021/08/27/icymi-spains-supreme-court-just-torched-the-governments-covid-passport-idea-n2594903)
+* [Toronto Star: Ttc’S Largest Union Urges Members Not To Divulge Vaccination Status, Calls Mandate An ‘Unjust Intrusion’](https://www.thestar.com/news/gta/2021/09/07/ttcs-largest-union-urges-members-not-to-divulge-vaccination-status-calls-mandate-an-unjust-intrusion.html)
+* [The Moguldom Nation: 70+ Chicago Bus Drivers Quit Over Forced Vaccinations, Mayor Asks Lyft And Uber For Help](https://moguldom.com/371174/70-chicago-bus-drivers-quit-over-forced-vaccinations-mayor-asks-lyft-and-uber-for-help/)
+* [Fox: Oregon Police, Firefighters Sue Gov. Kate Brown Over Vaccination Mandate](https://www.foxnews.com/us/police-firefighters-sue-gov-brown-over-vaccination-mandate)
+* [Los Angeles Times: L.A. Firefighters, Police Officers Dig In Heels Over Vaccination Mandate](https://www.latimes.com/california/story/2021-09-03/la-firefighters-police-push-back-against-vaccine-mandate)
+* [The Hill: Whopping 67 Percent Of Unvaccinated Americans Would Quit Their Job If Vaccines Are Mandated](https://thehill.com/changing-america/well-being/prevention-cures/571084-whopping-70-percent-of-unvaccinated-americans)
+* [Northern Territory Government: Interstate Travellers From A Covid-19 Hotspot And International Travellers](https://coronavirus.nt.gov.au/travel/quarantine/quarantine-fee)
+* [Yahoo: Israel Is Set To Reopen Its Borders To Tourism In 2 Weeks Despite A Resurgence In Covid-19 Cases](https://www.yahoo.com/lifestyle/israel-set-reopen-borders-tourism-053339930.html)
+* [Independent: Israel’S Covid Chief Calls For Fourth Vaccine Dose](https://www.independent.co.uk/news/world/middle-east/covid-vaccine-israel-fourth-dose-b1915076.html)
+* [Fox: Australia To End 'Covid Zero' Policy: 'Not A Sustainable Way To Live'](https://www.foxnews.com/world/australia-end-covid-policy-not-sustainable)
+* [ABC: Regional Covid-19 Quarantine Facility To Be Built Near Wellcamp Airport In Queensland](https://www.abc.net.au/news/2021-08-26/covd-qld-wellcamp-toowoomba-regional-quarantine-facility/100403692)
+* [ABC: Melbourne Covid-19 Quarantine Facility Approved As Commonwealth, Victoria Agree On Site](https://www.abc.net.au/news/2021-06-25/melbourne-mickleham-covid-quarantine-facility-to-be-built/100243456)
+* [The Atlantic: Australia Traded Away Too Much Liberty](https://www.theatlantic.com/ideas/archive/2021/09/pandemic-australia-still-liberal-democracy/619940/)
+* [Frontiers In Physics: Graphene Oxide And Derivatives: The Place In Graphene Family](https://www.frontiersin.org/articles/10.3389/fphy.2018.00149/full)
+* [Digital Trends: What Is Graphene?](https://www.digitaltrends.com/cool-tech/what-is-graphene/)
+* [Pub Med: Cytotoxicity Of Graphene: Recent Advances And Future Perspective](https://pubmed.ncbi.nlm.nih.gov/24957946/)
+* [NCBI: Ethical, Legal, Social And Economics Issues Of Graphene](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7563095/)
+* [Raytheon Intelligence & Space: Delivering On The Promise Of Graphene](https://www.raytheonintelligenceandspace.com/news/feature/delivering-promise-graphene)
+* [Physicsworld: Electrons In Twisted Graphene ‘Freeze’ When Heated](https://physicsworld.com/a/electrons-in-twisted-graphene-freeze-when-heated/)
+* [Pub Med: Electrical Generation Of Terahertz Blackbody Radiation From Graphene](https://pubmed.ncbi.nlm.nih.gov/30469575/)
+* [Scientist Study: New Graphene Device Detects And Amplifies Terahertz Waves](https://www.scientiststudy.com/2020/02/new-graphene-device-detects-and.html)
+* [Google Patents: Nano Coronavirus Recombinant Vaccine Taking Graphene Oxide As Carrier](https://patents.google.com/patent/CN112220919A/en)
+* [FDA: Vaccine Information Fact Sheet For Recipients And Caregivers About Comirnaty](https://www.fda.gov/media/144414/download)
+* [Dr. Robert Young: Scanning & Transmission Electron Microscopy Reveals Graphene Oxide In Cov-19 Vaccines](https://www.drrobertyoung.com/post/transmission-electron-microscopy-reveals-graphene-oxide-in-cov-19-vaccines)  
 
 ## ep231 - Feast of consequences
 * [Chinese Embassy: Statement By The Chinese Embassy In The United States On The "Covid-19 Origin-Tracing" Report Of The U.S. Side](http://www.china-embassy.org/eng/sgxw/t1902650.htm)
