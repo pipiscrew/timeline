@@ -45,3 +45,4 @@ git config --global credential.interactive never
 * [Free for developers](https://free-for.dev/)
 * [C# to IL](https://sharplab.io/)
 * [mathjs](https://api.mathjs.org/)
+* [VSCELicense](https://github.com/1Dimitri/VSCELicense) - Visual Studio Community adjust license expiration date (vs2015-2019)

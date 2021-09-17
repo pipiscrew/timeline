@@ -16,6 +16,9 @@
 	* [wp2heroku](/notes/wp2heroku.md)
 	* [supplement](/notes/supplement.md)
 		* [vitamania](/notes/supplementVitamania.md)  
+	* when at  
+	    * [work](/notes/whenatwork.md)
+		* [kitchen](/notes/whenatkitchen.md)
 	* others  
 		* [Awesome Privacy](https://github.com/pluja/awesome-privacy)
 		* [Public APIs](https://github.com/n0shake/Public-APIs)
