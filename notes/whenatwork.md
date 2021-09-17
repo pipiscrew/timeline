@@ -33,8 +33,7 @@
     * [XML Tools](https://github.com/morbac/xmltools) or the old [v2.4.9](https://sourceforge.net/projects/npp-plugins/)  
 
 ### Useful batch files  
-
-* Kill process with  
+  
 ```html
 @echo off
 
