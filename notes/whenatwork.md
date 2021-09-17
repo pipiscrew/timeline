@@ -1,3 +1,5 @@
+### shortcuts  
+
 * **logoff** shortcut `%SystemRoot%\System32\logoff.exe` when on RDP
 * **lock** workstation shortcut `%SystemRoot%\System32\rundll32.exe user32.dll,LockWorkStation`
 
@@ -11,7 +13,8 @@
 
 &nbsp;
 &nbsp;
-* The following applications to be installed :
+### applications  
+
   * grepWin
   * Nirsoft.HashMyFiles
   * Nirsoft.SearchMyFiles
@@ -32,7 +35,8 @@
     * [Compare](https://github.com/pnedev/compare-plugin)
     * [XML Tools](https://github.com/morbac/xmltools) or the old [v2.4.9](https://sourceforge.net/projects/npp-plugins/)  
 
-### Useful batch files  
+&nbsp;
+### batch files  
 
 &nbsp;
 ```js
