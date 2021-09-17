@@ -35,10 +35,10 @@
 ### Useful batch files  
 
 * Kill process with  
-```js
+```html
 @echo off
 
-taskkill /F /IM lync.exe
+taskkill /F /IM lync.exe  
 ```
 
 * Kill process with countdown  
