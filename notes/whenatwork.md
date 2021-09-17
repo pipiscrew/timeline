@@ -40,6 +40,14 @@
 
 &nbsp;
 ```js
+// Close all notepad instances
+@echo off
+
+taskkill /F /IM notepad.exe  
+```
+
+&nbsp;
+```js
 // Kill process
 @echo off
 
