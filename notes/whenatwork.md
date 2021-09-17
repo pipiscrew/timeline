@@ -33,15 +33,18 @@
     * [XML Tools](https://github.com/morbac/xmltools) or the old [v2.4.9](https://sourceforge.net/projects/npp-plugins/)  
 
 ### Useful batch files  
-  
-```html
+
+&nbsp;
+```js
+// Kill process
 @echo off
 
 taskkill /F /IM lync.exe  
 ```
 
-* Kill process with countdown  
+&nbsp;
 ```js
+// Kill process with countdown  
 @echo off
 
 SET /A tick = (60*60)
@@ -51,8 +54,9 @@ timeout /t %tick% /nobreak
 taskkill /F /IM colors.exe
 ```
 
-* Who is gonna close all the windows !?  
+&nbsp;
 ```js
+// Who is gonna close all the windows !?  
 @echo off
 
 ::https://www.robvanderwoude.com/ntcolor.php
