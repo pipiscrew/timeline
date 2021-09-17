@@ -34,15 +34,15 @@
 
 ### Useful batch files  
 
-* Kill process with
-```
+* Kill process with  
+```js
 @echo off
 
 taskkill /F /IM lync.exe
-````
-
-* Kill process with countdown
 ```
+
+* Kill process with countdown  
+```js
 @echo off
 
 SET /A tick = (60*60)
@@ -52,8 +52,8 @@ timeout /t %tick% /nobreak
 taskkill /F /IM colors.exe
 ```
 
-* Who is gonna close all the windows !?
-```
+* Who is gonna close all the windows !?  
+```js
 @echo off
 
 ::https://www.robvanderwoude.com/ntcolor.php
