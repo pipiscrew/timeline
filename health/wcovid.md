@@ -107,8 +107,6 @@ She has a degree in **molecular genetics** from Trinity College Dublin (1989) an
   * [Short highlight](https://t.me/The_Knowledge_Channel/730)  
 
 ### others
-* 08/09/2021 - [US - Γιασεμή Καψάλη - RNA μοριακή βιολόγος](https://www.youtube.com/watch?v=VEKgXwTCSes)
-* 27/08/2021 - [Inviqta - Κορωνοκρατια](https://www.youtube.com/watch?v=w2HxHRri11g)
 * 03/08/2021 - [Reiner Fuellmich - starting to win in courts](https://rumble.com/vkp0qf-reimer-fullmich-update-we-are-starting-to-win-in-courts.html) &nbsp; ([awakecanada](https://awakecanada.org/reimer-fullmich-update-we-are-starting-to-win-in-the-courts/))
 * 02/08/2021 - [US House Foreign Affairs Committee Report Minority Staff - The Origins of COVID-19](https://gop-foreignaffairs.house.gov/wp-content/uploads/2021/08/ORIGINS-OF-COVID-19-REPORT.pdf) &nbsp; ([tweet](https://twitter.com/HouseForeignGOP/status/1422187258036342785))&nbsp; ([mirror](https://www.dropbox.com/s/i7qx8sdgwklkeah/ORIGINS-OF-COVID-19-REPORT.pdf?dl=1))
 * 31/07/2021 - [exPfizer - Michael Yeadon](https://www.brighteon.com/44f5198e-c48a-420b-9a0f-78ab882de42c) &nbsp; ([mirror](https://youtu.be/pENijjYcwBw?t=1402))

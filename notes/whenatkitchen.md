@@ -16,6 +16,7 @@
 * 5 x kitchen sponges
 * 2 soap dispenser for hand soap (bathroom / kitchen)  
 * use jar or frosch brands for dish soap
+* 1l water glass bottle OR Brita Jug
 * aluminium foil
 * bed frame (90x200cm) w/ pillow (42x65x15cm)
 * table (120x75cm)
@@ -35,4 +36,5 @@
 * peppers (serrano / jalapeno / habanero)
 * always have 3 yogurts as backup
 * always have 1kg basmati rice (w/ spinach)
-* always have 1kg spaghetti barilla
+* always have 1kg barilla linguine or spaghetti no5
+* always have green tea (Japanese Sencha)
