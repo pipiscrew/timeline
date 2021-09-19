@@ -50,3 +50,6 @@
 
 &nbsp;
 ![img](../assets/france_pot_vs_paper.jpg)
+
+* **Metal filters** produce a more robust and visually **darker** cup of coffee, which **contains** more oils and sometimes small amounts of sediment.
+* **Paper filters** produce a **brighter**, sweeter cup of coffee with little or **no** sediment or oils, helping cut out the bad cholesterol found in coffee.
