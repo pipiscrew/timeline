@@ -66,12 +66,14 @@
 
 ----------
 - Ginger
-- Green tea, Japanese Sencha (moderate (2 cups) otherwise high in phytoestrogens)
+- Green tea, Japanese Sencha (moderate (2 cups) otherwise high in phytoestrogens + interferes with iron absorption)
 - Coffee 100% Arabica (moderate (2 cups) otherwise high in phytoestrogens)
 - Jameson Whiskey, Triple Distilled (moderate (50ml) otherwise high in phytoestrogens)
 - ~~Beer~~ (high in phytoestrogens)
 - ~~Oolong Tea (aka Da Hong Pao / Tai Wan Gao Shan Oolong / Tie Guan Yin)~~
 - ~~Red/Black tea~~ (high in phytoestrogens)  
 
-----------
+----------  
+
+&nbsp;
 note : make sure **everyday** you complete **12 hours** without food (example 8pm - 8am)
