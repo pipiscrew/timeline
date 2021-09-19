@@ -17,6 +17,7 @@
 	* [supplement](/notes/supplement.md)
 		* [vitamania](/notes/supplementVitamania.md)  
 	* when at  
+	    * [search](/notes/whenatsearch.md)
 	    * [work](/notes/whenatwork.md)
 		* [kitchen](/notes/whenatkitchen.md)
 	* others  
@@ -38,6 +39,5 @@
 	* [water](/health/water.md)
 	* [did i today](/health/didtoday.md)
 	* [skin](/health/skin.md)
-	* [e list](/health/elist.md)
 	* [articles](/health/articles.md)
 	* [covid](/health/wcovid.md)
