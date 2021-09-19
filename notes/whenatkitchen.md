@@ -3,7 +3,9 @@
 * wok (diameter 28cm)
 * pan (diameter 20cm)
 * france tea pot
-  * [Is French Press Bad For You?](https://voltagecoffee.com/is-french-press-coffee-bad-for-you/) -  key compounds are cafestol and kahweol ([study](https://www.sciencedirect.com/science/article/pii/S0963996912002360))
+  * [Is French Press Bad For You?](https://voltagecoffee.com/is-french-press-coffee-bad-for-you/) - coffee key compounds are **cafestol** and **kahweol** ([study](https://www.sciencedirect.com/science/article/pii/S0963996912002360))
+  * [2007 - How Coffee Raises Cholesterol](https://www.sciencedaily.com/releases/2007/06/070614162223.htm) - **cafestol**, elevates cholesterol by hijacking a receptor in an intestinal pathway critical to its regulation
+  * [2012 - Harvard - What is it about coffee?](https://www.health.harvard.edu/healthbeat/what-is-it-about-coffee)
   * [Starbucks - Pour Over](https://athome.starbucks.com/how-to-brew-coffee-at-home-pour-over/) - 25gr / 177ml water (?)
   * [Chemex](https://www.hopculture.com/best-coffee-maker-chemex-vs-french-press-debate/) ([ref](https://www.kava.cz/vyhledavani/?string=chemex))
   * [Able stainless steel filter](https://ablebrewing.com/products/able-kone-coffee-filter) - no paper filter needed ([ref](https://www.kava.cz/nature-friendly/able-kone-ocelovy-filtr-pro-chemex/))
