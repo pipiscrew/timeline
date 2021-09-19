@@ -20,5 +20,9 @@ Office - [WPS TPT](https://play.google.com/store/apps/details?id=cn.wps.moffice_
 Text Editor - [rhmsoft.QuickEdit](https://play.google.com/store/apps/details?id=com.rhmsoft.edit)  
 Measure Wifi - [farproc.Wifi Analyzer](https://play.google.com/store/apps/details?id=com.farproc.wifi.analyzer)  
 Hack WPS - [WPSApp](https://play.google.com/store/apps/details?id=com.themausoft.wpsapp)  
-Video Capture - [Cinema FV-5 Lite](https://play.google.com/store/apps/details?id=com.flavionet.android.cinema.lite) - can change video frames per second (aka FPS) + bitrate.
+Video Capture - [Cinema FV-5 Lite](https://play.google.com/store/apps/details?id=com.flavionet.android.cinema.lite) - can change video frames per second (aka FPS) + bitrate.  
+[LED Scroller](https://play.google.com/store/apps/details?id=oops.ledscroller)
+
+
+[evozi - download APK by namespace](https://apps.evozi.com/apk-downloader/)
  

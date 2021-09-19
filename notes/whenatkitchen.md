@@ -38,3 +38,4 @@
 * always have 1kg basmati rice (w/ spinach)
 * always have 1kg barilla linguine or spaghetti no5
 * always have green tea (Japanese Sencha)
+* always have cherries jam (actual 10 / day)

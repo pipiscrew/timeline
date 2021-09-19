@@ -2,7 +2,8 @@
 * [Sci Hub](https://sci-hub.do/) - download doi links
   * [1](https://sci-hub.st/)
   * [2](https://sci-hub.do/)  
-* [LibGen](https://libgen.me/) - Collecting and cataloging scientific & technical ebooks  
+* [LibGen](https://libgen.me/) - Collecting and cataloging scientific & technical ebooks 
+* [Library Genesis](https://libgen.is/)
 * [arXiv](https://arxiv.org/) - Search an archive for millions scholarly articles in the fields of physics, mathematics, computer science, quantitative biology, quantitative finance, statistics, electrical engineering and systems science, and economics.  
 * [Google.Scholar](https://scholar.google.gr/scholar?hl=en&q=gmo) - Freely accessible web search engine that indexes the full text or metadata of scholarly literature
 * [Directory of Open Access Journals](http://www.doaj.org/)
@@ -104,6 +105,7 @@
 * [jsonmatic](https://jsonmatic.com/) - CSV into a JSON and vice versa
 * [DataDesign.JSON to SQL](https://www.convertjson.com/json-to-sql.htm)
 * [JSON Beautify](https://codebeautify.org/jsonviewer)
+* [table to markdown](https://tabletomarkdown.com/convert-spreadsheet-to-markdown/)
 * [de4js - JavaScript Deobfuscator](https://lelinhtinh.github.io/de4js/)  
 * [HTML Cleaner](https://htmlcodeeditor.com/)  
 * [UUID Generator](https://www.uuidgenerator.net/)
