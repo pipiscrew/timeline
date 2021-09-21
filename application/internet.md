@@ -22,6 +22,7 @@ To start with specific profile, `chrome.exe --user-data-dir=c:\foo`
 * [Mozilla.Firefox](https://www.mozilla.org/en-US/firefox/all/#product-desktop-release)
 * Unofficial windows, [IceCat](https://github.com/muslayev/icecat-win64) for ultra privacy. The official Linux [here](https://www.gnu.org/software/gnuzilla/).
 * [waterfox](https://www.waterfox.net/) - [waterfox web browser sold to System1](https://www.waterfox.net/blog/waterfox-has-joined-system1/)
+* [Dot Browser](https://www.dothq.co/) – privacy-conscious web browser
 
 To find the profile currently is use navigate to `about:support` or `about:profiles`.  
  * [profile manager](https://support.mozilla.org/en-US/kb/profile-manager-create-remove-switch-firefox-profiles) - to start with specific profile, `firefox.exe -P "<profile name>" `  

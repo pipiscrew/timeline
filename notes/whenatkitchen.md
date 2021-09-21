@@ -57,3 +57,8 @@
 &nbsp;
 * **Metal filters** produce a more robust and visually **darker** cup of coffee, which **contains** more oils and sometimes small amounts of sediment.
 * **Paper filters** produce a **brighter**, sweeter cup of coffee with little or **no** sediment or oils, helping cut out the bad cholesterol found in coffee.
+
+&nbsp;
+## first day lunch
+* 2 eggs with broccoli
+* yogurt with 1 slice cherries jam

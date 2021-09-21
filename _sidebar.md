@@ -41,3 +41,4 @@
 	* [skin](/health/skin.md)
 	* [articles](/health/articles.md)
 	* [covid](/health/wcovid.md)
+	* [covidGR](/health/wcovidGR.md)
