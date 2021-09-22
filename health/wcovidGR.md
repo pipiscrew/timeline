@@ -12,7 +12,10 @@
 
 
 
+&nbsp;
+[>> ΔΙΑΚΟΠΗ ΓΙΑ ΤΗΝ 7η ΟΚΤΩΒΡΙΟΥ](https://www.facebook.com/marianna.roupaliotiantoniadi/posts/2934103580178145)  
 
+&nbsp;
 * [Νίκος Αντωνδιάδης - social](https://www.facebook.com/marianna.roupaliotiantoniadi)
 
 ## others

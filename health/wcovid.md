@@ -22,6 +22,7 @@
   * [ep231](https://thehighwire.com/videos/episode-231-feast-of-consequences/) - Regeneron for citizens
   * [ep232](https://thehighwire.com/videos/episode-232-the-greater-threat/) - Dr Robert Young - Graphene Oxide
   * [ep233](https://thehighwire.com/videos/episode-233-the-vaers-scandal/) - The Vaers Scandal
+* [Project Veritas](https://www.projectveritas.com/) - Lawsuit against The New York Times
 * [Politicians injecting REGENERON (monoclonal)](https://www.regeneron.com/covid19) - a non mRNA, costs 2k $ / shot
 * 14/11/2020 - [Over 34,000 Health Experts Sign Declaration Against COVID-19 Lockdowns](https://www.theepochtimes.com/over-30000-health-experts-sign-declaration-against-covid-19-lockdowns_3537277.html)
 * 10/01/2021 - [Analysis of Pfizer & Moderna](https://blog.jonasneubert.com/2021/01/10/exploring-the-supply-chain-of-the-pfizer-biontech-and-moderna-covid-19-vaccines/)
