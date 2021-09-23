@@ -13,7 +13,9 @@
 
 
 &nbsp;
-[>> ΔΙΑΚΟΠΗ ΓΙΑ ΤΗΝ 7η ΟΚΤΩΒΡΙΟΥ](https://www.facebook.com/marianna.roupaliotiantoniadi/posts/2934103580178145)  
+[>> ΔΙΑΚΟΠΗ ΓΙΑ ΤΗΝ 7η ΟΚΤΩΒΡΙΟΥ](https://www.facebook.com/marianna.roupaliotiantoniadi/posts/2934103580178145)
+
+* 22/09/2021 [ΜΗΝΥΣΗ ΚΑΤΑ ΝΙΚΟΥ ΣΥΨΑ ΓΙΑ ΨΕΥΔΗ ΚΑΤΑΘΕΣΗ](https://nikosantoniadis.tv/?p=5580) ([mirror](https://www.makeleio.gr/?p=3868874))
 
 &nbsp;
 * [Νίκος Αντωνδιάδης - social](https://www.facebook.com/marianna.roupaliotiantoniadi)
