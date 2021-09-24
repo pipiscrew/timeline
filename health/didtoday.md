@@ -67,6 +67,7 @@
 ----------
 - Ginger
 - Green tea, Japanese Sencha (moderate (2 cups) otherwise high in phytoestrogens + interferes with iron absorption)
+- Lemongrass (ref [GR](https://www.itrofi.gr/fytika/votana/article/1117/lemonohorto-me-antimikroviaki-kai-antivaktiridiaki-drasi))
 - Coffee 100% Arabica (moderate (2 cups) otherwise high in phytoestrogens)
 - Jameson Whiskey, Triple Distilled (moderate (50ml) otherwise high in phytoestrogens)
 - ~~Beer~~ (high in phytoestrogens)

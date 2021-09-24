@@ -29,7 +29,8 @@
   * 25/12/2020 - [Reverse Engineering the source code of the Pfizer vaccine : Part 1](https://berthub.eu/articles/posts/reverse-engineering-source-code-of-the-biontech-pfizer-vaccine/)
   * 31/12/2020 - [Reverse Engineering the source code of the Pfizer vaccine : Part 2](https://berthub.eu/articles/posts/part-2-reverse-engineering-source-code-of-the-biontech-pfizer-vaccine/)
 * 02/02/2021 - [Coronavirus is in the air, there’s too much focus on surfaces](https://www.nature.com/articles/d41586-021-00277-8)
- * 15/04/2021 - [Pfizer & Moderna mRNA sequence](https://github.com/NAalytics/Assemblies-of-putative-SARS-CoV2-spike-encoding-mRNA-sequences-for-vaccines-BNT-162b2-and-mRNA-1273/blob/main/Assemblies%20of%20putative%20SARS-CoV2-spike-encoding%20mRNA%20sequences%20for%20vaccines%20BNT-162b2%20and%20mRNA-1273.docx.pdf)
+* 08/03/2021 - [BlackRock and Vanguard - 16b Behind Vaccines](https://expansion.mx/mercados/2021/03/08/blackrock-y-vanguard-16-billones-de-dolares-detras-de-las-vacunas) &nbsp;([GR](https://kanenazori.com/2021/09/23/blackrock_kai_vanguard/))
+* 15/04/2021 - [Pfizer & Moderna mRNA sequence](https://github.com/NAalytics/Assemblies-of-putative-SARS-CoV2-spike-encoding-mRNA-sequences-for-vaccines-BNT-162b2-and-mRNA-1273/blob/main/Assemblies%20of%20putative%20SARS-CoV2-spike-encoding%20mRNA%20sequences%20for%20vaccines%20BNT-162b2%20and%20mRNA-1273.docx.pdf)
 * 26/04/2021 - [Pfizer is testing a pill](https://montrealgazette.com/news/world/pfizer-is-testing-a-pill-that-if-successful-could-become-first-ever-home-cure-for-covid-19)
 * 03/05/2021 - [FDA - Why You Should Not Use Ivermectin to Treat or Prevent COVID-19](https://www.fda.gov/consumers/consumer-updates/why-you-should-not-use-ivermectin-treat-or-prevent-covid-19)
  * 22/06/2021 - [Corona: Delta](https://berthub.eu/articles/posts/corona-delta-update/) - use translator
@@ -45,6 +46,8 @@
  * 25/08/2021 - [UK - CVD Yellow Card report](https://www.gov.uk/government/publications/coronavirus-covid-19-vaccine-adverse-reactions/coronavirus-vaccine-summary-of-yellow-card-reporting#annex-1-vaccine-analysis-print)  
   * 27/08/2021 - [Contaminant in Moderna vaccines suspected to be metallic particles - NHK](https://www.reuters.com/business/healthcare-pharmaceuticals/contaminant-moderna-vaccines-suspected-be-metallic-powder-nhk-2021-08-27/)  
 * 13/09/2021 - [Dr Robert Young - Graphene Oxide in Vaccines](https://www.drrobertyoung.com/post/transmission-electron-microscopy-reveals-graphene-oxide-in-cov-19-vaccines)  
+* 20/09/2021 - [Pfizer made 19b only in Q2 2021](https://twitter.com/ForumCovid/status/1439893319048380419)
+* 23/09/2021 - [Croatia President Says "We Will Not Be Vaccinated Anymore"](https://greatgameindia.com/croatia-president-vaccine/)  
 
 &nbsp;
 &nbsp;

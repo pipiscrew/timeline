@@ -29,6 +29,7 @@
 		* [Awesome Icons](https://github.com/digitalblossom/awesome-icons) 
 		* [Collection of open source, tiny tools](https://github.com/everestpipkin/tools-list)
 		* [Open Source Alternatives](https://www.btw.so/open-source-alternatives)
+		* [Asynchronous Programming in C#](https://github.com/davidfowl/AspNetCoreDiagnosticScenarios/blob/master/AsyncGuidance.md)
 * [Health]
 	* [introduction](/health/introduction.md)
 	* [exercise](/health/exercise.md)
