@@ -185,7 +185,7 @@ The sequence is :
 
 ## sample batch files, using every day ;) 
 
-* kill a task
+* kill task(s)
 ```
 @echo off
 taskkill /F /IM lync.exe
@@ -211,4 +211,9 @@ IF /I "%AREYOUSURE%" NEQ "Y" GOTO END
 shutdown /t 0 /s /f
 :END
 endlocal
+```
+
+* check open port
+```
+netstat -aon | find ":443"
 ```
