@@ -131,8 +131,15 @@
 * [Calendar.best](https://www.calendar.best/) - Printable calendars  
 * [Calendar Templates](https://www.vertex42.com/calendars/)
 * [PabloDraw ANSI](http://picoe.ca/products/pablodraw/)
-* [OBS Studio](https://obsproject.com/) - screen capture and broadcasting  
 * [KeepAliveHD](https://github.com/stsrki/KeepAliveHD) - prevents your hard drive to go into automatic standby mode  
+
+## Capture
+* [OBS Studio](https://obsproject.com/) - screen capture and broadcasting  
+* [instant demo](https://www.instant-demo.com/)
+* [ScreenToGif](https://www.screentogif.com/) - export also to mkv/mp4
+* [fastone.capture](https://www.faststone.org/FSCaptureDetail.htm) - image or video
+* [zdsoft.screen recorder](https://www.zdsoft.com/)
+* [wisdom.ScreenHunter](http://www.wisdom-soft.com/)  
 
 ## Drive Snapshot
 * [Acronis.True Image](https://www.acronis.com/en-us/products/true-image/)
