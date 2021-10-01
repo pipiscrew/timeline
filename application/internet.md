@@ -97,7 +97,8 @@ test browser [permissions](https://permission.site/).
     * [github](https://github.com/gildas-lormeau/SingleFile) - has also chrome
   * [Highlight This](https://highlightthis.net/) - highlights words from your predefined list. [firefox](https://addons.mozilla.org/en-US/firefox/addon/highlightthis) / [chrome](https://chrome.google.com/webstore/detail/highlight-this/fgmbnmjmbjenlhbefngfibmjkpbcljaj?hl=en-US)
   * [Buster: Captcha Solver for Humans](https://github.com/dessant/buster)  
-  * [Copy True Link for Google](https://github.com/dandanua/copy-true-link)) &nbsp; ([ref](https://gist.github.com/radiantly/e1c7319214c77fa007f323fc56cd0239))
+  * [Copy ShortURL](https://addons.mozilla.org/en-US/firefox/addon/copy-shorturl/)
+  * [Copy True Link for Google](https://github.com/dandanua/copy-true-link) &nbsp; ([ref](https://gist.github.com/radiantly/e1c7319214c77fa007f323fc56cd0239))
 
 Chrome.[Tampermonkey](https://chrome.google.com/webstore/detail/tampermonkey-beta/gcalenpjmijncebpfijmoaglllgpjagf) / Firefox.[Greasemonkey](https://addons.mozilla.org/en-US/firefox/addon/greasemonkey/) -- [Youtube - dismiss sign-in script](https://greasyfork.org/de/scripts/412178-youtube-dismiss-sign-in)
 
