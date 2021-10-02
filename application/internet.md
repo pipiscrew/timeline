@@ -251,3 +251,6 @@ To disable multiple running processes of the browser, you can set `browser.tabs.
 
 ## misc
 * [atkinsio.Bookmarks HTML Generator](https://github.com/atkinsio/bookmarks-html-generator)
+
+* [Clean Flash Installer](https://github.com/CleanFlash/installer) - the mission of keeping the original Flash Player alive
+  * [FlashPatch](https://github.com/darktohka/FlashPatch) - modifies the Flash Player installation, making it possible to play flash files &nbsp; ([adobe.setup Firefox/Chrome](https://www.flash.cn/flashplayer/3400192/install_flash_player_ppapi_cn.exe)) &nbsp; ([adobe.setup activeX](https://www.flash.cn/flashplayer/3400192/install_flash_player_ax_cn.exe))  
