@@ -46,3 +46,14 @@ git config --global credential.interactive never
 * [C# to IL](https://sharplab.io/)
 * [mathjs](https://api.mathjs.org/)
 * [VSCELicense](https://github.com/1Dimitri/VSCELicense) - Visual Studio Community adjust license expiration date (vs2015-2019)
+
+## web templates
+* https://themeforest.net
+* https://elements.envato.com/web-templates/
+* https://www.templatemonster.com
+* https://codecanyon.net/
+   * wordpress only
+     * https://woocommerce.com/product-category/themes
+     * https://templatic.com/
+     * https://www.elegantthemes.com/
+     * https://themify.me/
