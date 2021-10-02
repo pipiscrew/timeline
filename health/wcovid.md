@@ -49,6 +49,7 @@
 * 20/09/2021 - [Pfizer made 19b only in Q2 2021](https://twitter.com/ForumCovid/status/1439893319048380419)
 * 23/09/2021 - [Croatia President Says "We Will Not Be Vaccinated Anymore"](https://greatgameindia.com/croatia-president-vaccine/)  
 * 24/09/2021 - [Robert Malone - ITA - Over 3,000 Doctors and Scientists Sign Declaration](https://amgreatness.com/2021/09/24/over-3000-doctors-and-scientists-sign-declaration-accusing-covid-policy-makers-of-crimes-against-humanity/) &nbsp; ([GR](https://kanenazori.com/2021/09/26/panw_apo_3-000_iatroi_ki_epistimones_ypografoun_dilwsi/)) &nbsp; ([intro video](https://3speak.tv/watch?v=pandemichealth/iemhyrjt))
+* 26/09/2021 - [Pfizer CEO | ABC News - Global vaccine supply not impacted by booster distribution](https://youtu.be/5scoLQxn7RE)  
 
 &nbsp;
 &nbsp;
