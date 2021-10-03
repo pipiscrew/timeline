@@ -33,9 +33,10 @@
 * [DataDesign.ConvertCSV](https://www.convertcsv.com/)
 
 ## images / documents
-* (client side) [JPEG.rocks](https://jpeg.rocks/) for image
+* (client side) [JPEG.rocks](https://jpeg.rocks/) - for image
 * (client side) [AnyWebP](https://anywebp.com/) - WebP to JPG / PNG / ICO Converter Online
-* [Squoosh](https://squoosh.app) for image
+* [Squoosh](https://squoosh.app) - for image
+* [Vertexshare.Image Upscaler by AI](https://vertexshare.com/image-upscaler.html) - Upscale and increase image size and resolution without losing quality.
 * (client side) [Local PDF Tools](https://localpdf.tech/)
 * (client side) [BulkResize photos](https://bulkresizephotos.com/en)
 * (client side) [Photopea](https://www.photopea.com/) - Online Photoshop
