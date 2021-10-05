@@ -23,6 +23,9 @@
   * [ref](https://www.iatronet.gr/article/103886/hristina-kydona-etsi-leitoyrgei-h-famprika-ton-ekviasmon-sta-nosokomeia)
   * [ref page2](https://www.ieidiseis.gr/ellada/111950/patra-arnites-syggeneis-nekron-mplokaran-to-nekrotomeio)
 
+* 05/10/2021 [Επιδόθηκε το Εξώδικο στον Υπουργό Υγείας](https://nikosantoniadis.tv/?p=6209)
+  * [Επιστρέφουν οι ανεμβολίαστοι υγειονομικοί στις 20 Οκτωβρίου](https://www.makeleio.gr/?p=3886298)
+
 &nbsp;
 ## stay updated
 * [Marianna Antoniadi - social](https://www.facebook.com/marianna.roupaliotiantoniadi)
