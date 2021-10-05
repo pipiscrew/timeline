@@ -24,10 +24,12 @@
   * [ref page2](https://www.ieidiseis.gr/ellada/111950/patra-arnites-syggeneis-nekron-mplokaran-to-nekrotomeio)
 
 * 05/10/2021 [Επιδόθηκε το Εξώδικο στον Υπουργό Υγείας](https://nikosantoniadis.tv/?p=6209)
-  * [Επιστρέφουν οι ανεμβολίαστοι υγειονομικοί στις 20 Οκτωβρίου](https://www.makeleio.gr/?p=3886298)
+  * [Επιστρέφουν οι ανεμβολίαστοι υγειονομικοί στις 20 Οκτωβρίου](https://www.makeleio.gr/?p=3886298)  
+* 06/10/2021 [Εξώδικη Πρόσκληση στην Υπουργό Παιδείας Νίκη Κεραμέως](https://nikosantoniadis.tv/?p=6250)
 
 &nbsp;
 ## stay updated
+* [Nikoa Antwniadhs - social](https://www.facebook.com/profile.php?id=100073250987934)
 * [Marianna Antoniadi - social](https://www.facebook.com/marianna.roupaliotiantoniadi)
 * [Dimitrios Pontikas  - social](https://www.facebook.com/dimitrios.pontikas.10)
 
