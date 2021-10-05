@@ -24,6 +24,7 @@ To start with specific profile, `chrome.exe --user-data-dir=c:\foo`
 * Unofficial windows, [IceCat](https://github.com/muslayev/icecat-win64) for ultra privacy. The official Linux [here](https://www.gnu.org/software/gnuzilla/).
 * [waterfox](https://www.waterfox.net/) - [waterfox web browser sold to System1](https://www.waterfox.net/blog/waterfox-has-joined-system1/)
 * [Dot Browser](https://www.dothq.co/) – privacy-conscious web browser
+* [Basilisk](https://basilisk-browser.org/features.shtml) - Replaced Gecko with Goanna (single-process mode) engine, interface as-carried by Firefox between v29 and v56, more read at features page.  
 
 To find the profile currently is use navigate to `about:support` or `about:profiles`.  
  * [profile manager](https://support.mozilla.org/en-US/kb/profile-manager-create-remove-switch-firefox-profiles) - to start with specific profile, `firefox.exe -P "<profile name>" `  
@@ -86,6 +87,7 @@ test browser [permissions](https://permission.site/).
 
   * [uBlock Origin](https://github.com/gorhill/uBlock) - efficient blocker for Firefox and Chromium
   * [NoScript](https://noscript.net/) - extra protection for Firefox  
+  * [JShelter](https://jshelter.org/) - mitigate potential threats, fingerprinting, tracking, and data collection
   * [Anti-Adblock Killer](https://github.com/reek/anti-adblock-killer)
   * [Ghostery](https://www.ghostery.com/) - Block Ads, Stop Trackers, and Speed Up Websites [firefox](https://addons.mozilla.org/en-US/firefox/addon/ghostery/) / [chrome](https://chrome.google.com/webstore/detail/ghostery-%E2%80%93-privacy-ad-blo/mlomiejdfkolichcflejclcbmpeaniij)
   * [magnolia.Bypass Paywalls Clean]() - Allows you to read articles from websites that implement a paywall. [chrome](https://gitlab.com/magnolia1234/bypass-paywalls-chrome-clean) / [firefox](https://gitlab.com/magnolia1234/bypass-paywalls-firefox-clean)
