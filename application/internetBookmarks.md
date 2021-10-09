@@ -19,6 +19,7 @@
 * [algolia](https://hn.algolia.com) - Search HackerNews
 * [Internet Archive](https://archive.org/) - books
 * [Open Library](https://openlibrary.org/) - books  
+* [Phrack](http://phrack.org/issues/1/1.html)
 
 ## translators
 * [DocTranslator](https://www.onlinedoctranslator.com/en/translationform) - Translate PDF and outputs PDF, at the moment Yandex / Google cant do this.
@@ -44,6 +45,7 @@
 * [shelf.gg - A Pastebin for Resources](https://shelf.gg/)
 * [PrivateBin](https://privatebin.info/) - paste online
 	* [2] (https://bin.nixnet.services/)
+* [telegra](https://telegra.ph/) - paste online
 * [ArchiveBox - Your own personal internet archive](https://archivebox.io/)
   * [2](https://github.com/ArchiveBox/ArchiveBox)
 * [archive.today](https://archive.ph/) - Archive any webpage

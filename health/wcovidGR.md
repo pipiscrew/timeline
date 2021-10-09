@@ -26,12 +26,14 @@
 * 05/10/2021 [Επιδόθηκε το Εξώδικο στον Υπουργό Υγείας](https://nikosantoniadis.tv/?p=6209)
   * [Επιστρέφουν οι ανεμβολίαστοι υγειονομικοί στις 20 Οκτωβρίου](https://www.makeleio.gr/?p=3886298)  
 * 06/10/2021 [Εξώδικη Πρόσκληση στην Υπουργό Παιδείας Νίκη Κεραμέως](https://nikosantoniadis.tv/?p=6250)
+* 07/10/2021 [Φαιδων Βοβολης - Η συνέχεια](https://www.facebook.com/dimitrios.pontikas.10/videos/2084996571650679)
 
 &nbsp;
 ## stay updated
-* [Nikoa Antwniadhs - social](https://www.facebook.com/profile.php?id=100073250987934)
-* [Marianna Antoniadi - social](https://www.facebook.com/marianna.roupaliotiantoniadi)
-* [Dimitrios Pontikas  - social](https://www.facebook.com/dimitrios.pontikas.10)
+* [Nikos Antwniadhs - twitter](https://twitter.com/kpf9drZSMg3f9SB)
+* [Nikos Antwniadhs - fb](https://www.facebook.com/profile.php?id=100073250987934)
+* [Marianna Antoniadi - fb](https://www.facebook.com/marianna.roupaliotiantoniadi)
+* [Dimitrios Pontikas  - fb](https://www.facebook.com/dimitrios.pontikas.10)
 
 &nbsp;
 ## others

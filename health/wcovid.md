@@ -50,6 +50,7 @@
 * 23/09/2021 - [Croatia President Says "We Will Not Be Vaccinated Anymore"](https://greatgameindia.com/croatia-president-vaccine/)  
 * 24/09/2021 - [Robert Malone - ITA - Over 3,000 Doctors and Scientists Sign Declaration](https://amgreatness.com/2021/09/24/over-3000-doctors-and-scientists-sign-declaration-accusing-covid-policy-makers-of-crimes-against-humanity/) &nbsp; ([GR](https://kanenazori.com/2021/09/26/panw_apo_3-000_iatroi_ki_epistimones_ypografoun_dilwsi/)) &nbsp; ([intro video](https://3speak.tv/watch?v=pandemichealth/iemhyrjt))
 * 26/09/2021 - [Pfizer CEO | ABC News - Global vaccine supply not impacted by booster distribution](https://youtu.be/5scoLQxn7RE)  
+* 05/10/2021 - [#ExposePfizer](https://twitter.com/EricSpracklen/status/1445176916080660482)  
 
 &nbsp;
 &nbsp;
@@ -142,6 +143,8 @@ She has a degree in **molecular genetics** from Trinity College Dublin (1989) an
 * [Vladimir Zelenko = Covid-19 Treatment Protocol](https://vladimirzelenkomd.com/treatment-protocol/) - Maximize Your Immune System
   * Vitamin C 1000mg / Vitamin D3 5000IU / Zinc 50mg / Quercetin 500mg
   * [Z-STACK product](https://zstacklife.com/)  
+* [2016 - trustWHO](https://www.brighteon.com/b257e953-5426-47b8-8d5d-2f5a7065a22c)  
+
 
 &nbsp;
 

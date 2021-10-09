@@ -17,6 +17,8 @@ To find the profile currently is use navigate to `chrome://version`.
 
 To start with specific profile, `chrome.exe --user-data-dir=c:\foo`  
 
+* [CRXcavator](https://crxcavator.io/) 
+* [CRXextractor](https://crxextractor.com/)  
 
 ### Gecko 
 
@@ -65,11 +67,13 @@ test browser [permissions](https://permission.site/).
 
 [Mozilla: *Privacy Not Included](https://foundation.mozilla.org/en/privacynotincluded/)  
 
-**Mozilla.Firefox** [v90] - [enables](https://www.mozilla.org/en-US/firefox/91.0/releasenotes/) cookie jar per site, makes easier to delete all cookie for a site.
+**Mozilla.Firefox** v91 - [enables](https://www.mozilla.org/en-US/firefox/91.0/releasenotes/) cookie jar per site, makes easier to delete all cookie for a site.
 
 [Improve memory usage](https://www.reddit.com/r/firefox/comments/p8g5zd/why_does_disabling_accessibility_services_improve/) - by set the `accessibility.force_disabled` to **1** at `about:config`  
 
 [Mozilla - uBlock Origin review](https://addons.mozilla.org/blog/ublock-origin-everything-you-need-to-know-about-the-ad-blocker/)  
+
+**Mozilla.Firefox** [v93](https://www.mozilla.org/en-US/firefox/93.0/releasenotes/) &nbsp; ([Shadow DOM](https://hacks.mozilla.org/2021/10/lots-to-see-in-firefox-93/))
 
 &nbsp;
 
