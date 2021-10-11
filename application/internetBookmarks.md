@@ -260,6 +260,12 @@
 * [DW.Fact vs fake – why don’t we trust science any more?](https://youtu.be/t5UPnuSTRjA)
 * [DW.Better brain health](https://youtu.be/TLpbfOJ4bJU)
 
+## misc links
+* http://ftp.samsiev.eu/ - windows xp things
+* https://winworldpc.com/product/microsoft-visual-bas/60 - Visual Basic 6
+* https://winworldpc.com/product/microsoft-visual-stu/60 - Visual Basic 6 SP6
+* ftp://ftp.stormopensolutions.it/Storm/Utilities/ - SVN for windows xp etc.
+
 ## news media twitter
 * @b6ynpz9QK7ej5xP @skaigr @MegaTvOfficial @ANT159694954 @kathariDinami @CKastamonitis @lampros_paschos @prime @Tvnea @Makeleio_gr @ERTglobal @StarChannelGr @alphatvgreece @opentvgr @MakedoniaTV @pronewsgr @pitsirikos @NewsItFeed @ekathimerini
 * @guardiannews @Reuters @arstechnica @BBCBreaking @cnnbrk @bsindia @disclosetv @BusinessInsider @BNNBloomberg @nytimes @BuzzFeedNews @drvandanashiva @enikos_gr @News247gr @iefimerida @tovimagr @newsbeast @ethnosgr @ToProtoThema @to10gr @Lawandordergr

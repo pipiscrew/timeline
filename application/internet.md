@@ -105,9 +105,11 @@ test browser [permissions](https://permission.site/).
   * [Highlight This](https://highlightthis.net/) - highlights words from your predefined list. [firefox](https://addons.mozilla.org/en-US/firefox/addon/highlightthis) / [chrome](https://chrome.google.com/webstore/detail/highlight-this/fgmbnmjmbjenlhbefngfibmjkpbcljaj?hl=en-US)
   * [Buster: Captcha Solver for Humans](https://github.com/dessant/buster)  
   * [Copy ShortURL](https://addons.mozilla.org/en-US/firefox/addon/copy-shorturl/)
-  * [Copy True Link for Google](https://github.com/dandanua/copy-true-link) &nbsp; ([ref](https://gist.github.com/radiantly/e1c7319214c77fa007f323fc56cd0239))
+  * [Copy True Link for Google](https://github.com/dandanua/copy-true-link) ([ref](https://gist.github.com/radiantly/e1c7319214c77fa007f323fc56cd0239))
   * [DownAlbum](https://chrome.google.com/webstore/detail/downalbum/cgjnhhjpfcdhbhlcmmjppicjmgfkppok) - Download Facebook, Instagram, Pinterest, Twitter, Ask.fm, Weibo album  
-  
+
+----------
+
 Chrome.[Tampermonkey](https://chrome.google.com/webstore/detail/tampermonkey-beta/gcalenpjmijncebpfijmoaglllgpjagf) / Firefox.[Greasemonkey](https://addons.mozilla.org/en-US/firefox/addon/greasemonkey/) -- [Youtube - dismiss sign-in script](https://greasyfork.org/de/scripts/412178-youtube-dismiss-sign-in)
 
 [Mozilla.Monitor](https://monitor.firefox.com/) - See if you’ve been part of an online data breach. #pwned  
@@ -259,6 +261,5 @@ To disable multiple running processes of the browser, you can set `browser.tabs.
 
 ## misc
 * [atkinsio.Bookmarks HTML Generator](https://github.com/atkinsio/bookmarks-html-generator)
-
 * [Clean Flash Installer](https://github.com/CleanFlash/installer) - the mission of keeping the original Flash Player alive
   * [FlashPatch](https://github.com/darktohka/FlashPatch) - modifies the Flash Player installation, making it possible to play flash files &nbsp; ([adobe.setup Firefox/Chrome](https://www.flash.cn/flashplayer/3400192/install_flash_player_ppapi_cn.exe)) &nbsp; ([adobe.setup activeX](https://www.flash.cn/flashplayer/3400192/install_flash_player_ax_cn.exe))  
