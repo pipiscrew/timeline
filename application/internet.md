@@ -106,7 +106,8 @@ test browser [permissions](https://permission.site/).
   * [Buster: Captcha Solver for Humans](https://github.com/dessant/buster)  
   * [Copy ShortURL](https://addons.mozilla.org/en-US/firefox/addon/copy-shorturl/)
   * [Copy True Link for Google](https://github.com/dandanua/copy-true-link) &nbsp; ([ref](https://gist.github.com/radiantly/e1c7319214c77fa007f323fc56cd0239))
-
+  * [DownAlbum](https://chrome.google.com/webstore/detail/downalbum/cgjnhhjpfcdhbhlcmmjppicjmgfkppok) - Download Facebook, Instagram, Pinterest, Twitter, Ask.fm, Weibo album  
+  
 Chrome.[Tampermonkey](https://chrome.google.com/webstore/detail/tampermonkey-beta/gcalenpjmijncebpfijmoaglllgpjagf) / Firefox.[Greasemonkey](https://addons.mozilla.org/en-US/firefox/addon/greasemonkey/) -- [Youtube - dismiss sign-in script](https://greasyfork.org/de/scripts/412178-youtube-dismiss-sign-in)
 
 [Mozilla.Monitor](https://monitor.firefox.com/) - See if you’ve been part of an online data breach. #pwned  

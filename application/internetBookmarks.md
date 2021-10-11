@@ -182,6 +182,7 @@
 * [SVG Tetris](https://www.xul.fr/svgtetris.svg)
 * [DOS.Zone](http://dos.zone)
 * [EmuOS](https://emupedia.net/beta/emuos/) - Video game preservation and computer history
+* [Lagged](https://lagged.com/play/2643/) - Collection of HTML5 games  
 
 ## poll
 * [Doodle](https://doodle.com/)
