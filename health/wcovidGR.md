@@ -33,8 +33,9 @@
 &nbsp;
 ## stay updated
 * [Nikos Antwniadhs - twitter](https://twitter.com/kpf9drZSMg3f9SB)
-* [Nikos Antwniadhs - fb](https://www.facebook.com/profile.php?id=100073250987934)
-* [Marianna Antoniadi - fb](https://www.facebook.com/marianna.roupaliotiantoniadi)
+* [<del>Nikos Antwniadhs - fb</del>](https://www.facebook.com/profile.php?id=100073250987934)
+* [<del>Marianna Antoniadi - fb</del>](https://www.facebook.com/marianna.roupaliotiantoniadi)
+* [Marianna Cntrl - fb](https://www.facebook.com/profile.php?id=100072120757917)
 * [Dimitrios Pontikas  - fb](https://www.facebook.com/dimitrios.pontikas.10)
 
 &nbsp;
