@@ -50,7 +50,7 @@
 * [Personal Computing On An Amiga In 2021](https://thedorkweb.substack.com/p/personal-computing-on-an-amiga-in-2021)
 * [Retro mini Amiga 500 launches in early 2022](https://www.polygon.com/22618467/amiga-500-mini-console-a500-retro-gaming-release-date-games)  &nbsp; ([src](https://retrogames.biz/thea500-mini))
 * [Exploring the Amiga (2018)](https://www.thedigitalcatonline.com/blog/2018/05/28/exploring-the-amiga-1/)  
-
+* [TGS Joystick](https://tgsjoystick.wordpress.com) - Greek producer  
 
 ## repos
 * [Largest archive of software and files](http://aminet.net/)

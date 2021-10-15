@@ -13,8 +13,10 @@
 
 
 &nbsp;
-[>> ΔΙΑΚΟΠΗ ΓΙΑ ΤΗΝ 7η ΟΚΤΩΒΡΙΟΥ](https://www.facebook.com/marianna.roupaliotiantoniadi/posts/2934103580178145)
+* [>> ΔΙΑΚΟΠΗ ΓΙΑ ΤΗΝ 7η ΟΚΤΩΒΡΙΟΥ](https://www.facebook.com/marianna.roupaliotiantoniadi/posts/2934103580178145)
+  * 12/10/2021 [6 ΜΗΝΕΣ ΣΤΟΝ ΦΑΙΔΩΝΑ ΒΟΒΟΛΗ](https://nikosantoniadis.tv/?p=6548)  
 
+&nbsp;
 * 22/09/2021 [ΜΗΝΥΣΗ ΚΑΤΑ ΝΙΚΟΥ ΣΥΨΑ ΓΙΑ ΨΕΥΔΗ ΚΑΤΑΘΕΣΗ](https://nikosantoniadis.tv/?p=5580) ([mirror](https://www.makeleio.gr/?p=3868874))
 
 * 25/09/2021 [Δημήτρης Ποντίκας - Νίκος Αντωνιάδη](https://www.facebook.com/%CE%9F%CE%94%CE%9F%CE%A3-%CE%95%CE%BB%CE%BB%CE%B7%CE%BD%CF%89%CE%BD-1757155694575284/videos/616836242781712/)  
@@ -36,7 +38,9 @@
 * [<del>Nikos Antwniadhs - fb</del>](https://www.facebook.com/profile.php?id=100073250987934)
 * [<del>Marianna Antoniadi - fb</del>](https://www.facebook.com/marianna.roupaliotiantoniadi)
 * [Marianna Cntrl - fb](https://www.facebook.com/profile.php?id=100072120757917)
-* [Dimitrios Pontikas  - fb](https://www.facebook.com/dimitrios.pontikas.10)
+* [Dimitrios Pontikas  - fb](https://www.facebook.com/dimitrios.pontikas.10) &nbsp; [menidimedica](https://www.menidimedica.gr/)
+  * [PFAS Direct Panoptis](https://nikosantoniadis.tv/?p=6718) &nbsp; [pdfs](https://widegenerationinformation.blogspot.com/2021/10/pfa.html)
+* [Φαίδων Βόβολης - fb](https://www.facebook.com/FaidonVovolis/)  
 
 &nbsp;
 ## evidences

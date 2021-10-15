@@ -94,7 +94,10 @@ test browser [permissions](https://permission.site/).
   * [JShelter](https://jshelter.org/) - mitigate potential threats, fingerprinting, tracking, and data collection
   * [Anti-Adblock Killer](https://github.com/reek/anti-adblock-killer)
   * [Ghostery](https://www.ghostery.com/) - Block Ads, Stop Trackers, and Speed Up Websites [firefox](https://addons.mozilla.org/en-US/firefox/addon/ghostery/) / [chrome](https://chrome.google.com/webstore/detail/ghostery-%E2%80%93-privacy-ad-blo/mlomiejdfkolichcflejclcbmpeaniij)
-  * [magnolia.Bypass Paywalls Clean]() - Allows you to read articles from websites that implement a paywall. [chrome](https://gitlab.com/magnolia1234/bypass-paywalls-chrome-clean) / [firefox](https://gitlab.com/magnolia1234/bypass-paywalls-firefox-clean)
+  * [magnolia.Bypass Paywalls Clean](https://gitlab.com/magnolia1234/bypass-paywalls-chrome-clean/-/issues/45) - Allows you to read articles from websites that implement a paywall. [chrome](https://gitlab.com/magnolia1234/bypass-paywalls-chrome-clean) / [firefox](https://gitlab.com/magnolia1234/bypass-paywalls-firefox-clean)
+    * [how to](https://www.youtube.com/channel/UCeDuSy0mmE-3bEDJVINA3-g/videos)
+      * [Disable Cookies](https://chrome.google.com/webstore/detail/disable-cookies/lkmjmficaoifggpfapbffkggecbleang)
+      * [I don't care about cookies](https://chrome.google.com/webstore/detail/i-dont-care-about-cookies/fihnjjcciajhdojfnbdddfaoknhalnja)
   * [Cookie AutoDelete](https://github.com/Cookie-AutoDelete/Cookie-AutoDelete) [firefox](https://addons.mozilla.org/en-US/firefox/addon/cookie-autodelete/) / [chrome](https://chrome.google.com/webstore/detail/cookie-autodelete/fhcgjolkccmbidfldomjliifgaodjagh)
   * Chrome-like [translate](https://github.com/FilipePS/Traduzir-paginas-web/) functionality (aka on the fly) to Firefox - Filipe Ps.Translate Web Pages
   * Browsec [VPN](https://addons.mozilla.org/en-US/firefox/addon/browsec/) free & fast.
@@ -238,6 +241,7 @@ To disable multiple running processes of the browser, you can set `browser.tabs.
 * [QuiteRSS](https://quiterss.org/)
 * [RSS Guard](https://github.com/martinrotter/rssguard)
 * [Inoreader](https://www.inoreader.com/) - online
+* [battware.Desktop Ticker](http://www.battware.co.uk/desktopticker.htm)  
 
 ## wifi
 * [Nirsoft.WifiInfoView](https://www.nirsoft.net/utils/wifi_information_view.html) - Scans the wireless networks in your area and displays extensive information
@@ -262,4 +266,5 @@ To disable multiple running processes of the browser, you can set `browser.tabs.
 ## misc
 * [atkinsio.Bookmarks HTML Generator](https://github.com/atkinsio/bookmarks-html-generator)
 * [Clean Flash Installer](https://github.com/CleanFlash/installer) - the mission of keeping the original Flash Player alive
-  * [FlashPatch](https://github.com/darktohka/FlashPatch) - modifies the Flash Player installation, making it possible to play flash files &nbsp; ([adobe.setup Firefox/Chrome](https://www.flash.cn/flashplayer/3400192/install_flash_player_ppapi_cn.exe)) &nbsp; ([adobe.setup activeX](https://www.flash.cn/flashplayer/3400192/install_flash_player_ax_cn.exe))  
+  * [FlashPatch](https://github.com/darktohka/FlashPatch) - modifies the Flash Player installation, making it possible to play flash files &nbsp; ([adobe.setup Firefox/Chrome](https://www.flash.cn/flashplayer/3400192/install_flash_player_ppapi_cn.exe)) &nbsp; ([adobe.setup activeX](https://www.flash.cn/flashplayer/3400192/install_flash_player_ax_cn.exe))
+* [ContaCam](https://www.contaware.com/contacam.html) - webcam recording and motion detection  
