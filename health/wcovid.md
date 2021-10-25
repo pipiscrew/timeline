@@ -51,6 +51,7 @@
 * 24/09/2021 - [Robert Malone - ITA - Over 3,000 Doctors and Scientists Sign Declaration](https://amgreatness.com/2021/09/24/over-3000-doctors-and-scientists-sign-declaration-accusing-covid-policy-makers-of-crimes-against-humanity/) &nbsp; ([GR](https://kanenazori.com/2021/09/26/panw_apo_3-000_iatroi_ki_epistimones_ypografoun_dilwsi/)) &nbsp; ([intro video](https://3speak.tv/watch?v=pandemichealth/iemhyrjt))
 * 26/09/2021 - [Pfizer CEO | ABC News - Global vaccine supply not impacted by booster distribution](https://youtu.be/5scoLQxn7RE)  
 * 05/10/2021 - [#ExposePfizer](https://twitter.com/EricSpracklen/status/1445176916080660482)  
+* 15/10/2021 - [Deaths & Injuries Following COVID Shots in European Database](https://alethonews.com/2021/10/15/27247-deaths-2563768-injuries-following-covid-shots-in-european-database/)  
 
 &nbsp;
 &nbsp;

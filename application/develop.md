@@ -4,6 +4,7 @@
 * [DevSense.PHP Tools for Visual Studio](https://www.devsense.com/) - dotnetcore required
 * [Ironman.PowerShell for Visual Studio / Code](https://ironmansoftware.com/powershell-pro-tools)
 * [CodeLobster](http://www.codelobster.com/)  
+* [VS Code to web](https://vscode.dev/)  
 
 ## server
 * [XAMPP](https://sourceforge.net/projects/xampp/)

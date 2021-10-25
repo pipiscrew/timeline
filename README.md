@@ -28,7 +28,7 @@
   * [Rich people problems](https://vm.tiktok.com/ZMRpofse3/)
   * [Asynchronous Programming in C#](https://github.com/davidfowl/AspNetCoreDiagnosticScenarios/blob/master/AsyncGuidance.md)
   * [Mozilla Says Chrome’s Latest Feature Enables Surveillance](https://www.howtogeek.com/756338/mozilla-says-chromes-latest-feature-enables-surveillance/)
-  * [:dumb_with_linux: Google keeps records of everything you buy, even if you delete the email receipt :dumb_with_linux:](https://mastodon.social/@gerowen/106978308085702358)
+  * [Google keeps records of everything you buy, even if you delete the email receipt](https://mastodon.social/@gerowen/106978308085702358)
   * [Resume maker with no sign-up or subscription](https://luckyresumemaker.com)
   * [\Raspberry Pi gets $45M to meet demand for low-cost PCs and IoT](https://techcrunch.com/2021/09/21/raspberry-pi-gets-45m-to-meet-demand-for-low-cost-pcs-and-iot/)
   * [Lithuanian government warns about secret censorship features in Xiaomi phones](https://therecord.media/lithuanian-government-warns-about-secret-censorship-features-in-xiaomi-phones/)

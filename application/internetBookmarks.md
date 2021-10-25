@@ -150,6 +150,7 @@
   * [drugs - emc UK](https://www.medicines.org.uk/)
 * [lumpysoft.Google index search](https://lumpysoft.com/)  
 * [nixnet.searX](https://searx.nixnet.services/)  
+* [brave search](https://search.brave.com/)  
 
 ## temporary mail
 * [tempmail](https://temp-mail.org/en/)  
