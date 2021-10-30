@@ -47,6 +47,8 @@ git config --global credential.interactive never
 * [C# to IL](https://sharplab.io/)
 * [mathjs](https://api.mathjs.org/)
 * [VSCELicense](https://github.com/1Dimitri/VSCELicense) - Visual Studio Community adjust license expiration date (vs2015-2019)
+* [java - Recaf](https://github.com/Col-E/Recaf)
+* [java - JD GUI](http://java-decompiler.github.io/)  
 
 ## web templates
 * https://themeforest.net

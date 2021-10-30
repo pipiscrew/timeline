@@ -36,6 +36,7 @@
 ## images / documents
 * (client side) [JPEG.rocks](https://jpeg.rocks/) - for image
 * (client side) [AnyWebP](https://anywebp.com/) - WebP to JPG / PNG / ICO Converter Online
+* [tinypng](https://tinypng.com/)
 * [Squoosh](https://squoosh.app) - for image
 * [Vertexshare.Image Upscaler by AI](https://vertexshare.com/image-upscaler.html) - Upscale and increase image size and resolution without losing quality.
 * (client side) [Local PDF Tools](https://localpdf.tech/)
@@ -53,6 +54,7 @@
 
 
 ## videos
+* [NSFWyoutube](http://www.nsfwyoutube.com/) -  add **nsfw** to domain => **nsfw**youtube.com/watch?v=p5IO-IJSVnQ
 * [Invidious](https://invidious.snopyta.org/)
 	* [mirrors](https://redirect.invidious.io/)
 * [youtube-lite](https://youtube-lite.js.org/)
