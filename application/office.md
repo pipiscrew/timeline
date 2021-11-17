@@ -4,6 +4,8 @@ On search, **show folder** of a **mail**
 
 * when you have select the mail on the **listview**, press **ALT + ENTER** to get the mail properties.
 
+Add **public holidays** to calendar by going File > Options > Calendar > there is a button `Add holidays`  
+
 ## Word
  
 Merge **multiple .docx** to one  
