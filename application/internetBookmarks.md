@@ -98,6 +98,10 @@
 * (multi) [savevideo](http://savevideo.me/)
 * [HyperDebrid](https://hyperdebrid.net/)  
 
+# video flix trend
+* [FlixTor](https://flixtor.to/) - can watch only new movies / episodes. Older than 3 months you must pay.
+* [ertFlix](https://www.ertflix.gr/)  
+
 ## tv
 * [ustvgo](https://ustvgo.tv/)
 * [watchnewslive](https://watchnewslive.tv/)  

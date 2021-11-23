@@ -189,6 +189,7 @@ The sequence is :
 * [eXoDOS](http://exodos.the-eye.us/)
 * [Open Source Game Clones](https://osgameclones.com/)
 * [Superfrog Remake](https://www.lithiumdream.com/)  
+* [Prince of Persia](https://www.popot.org/get_the_games.php?game=SDLPoP) ([src](https://github.com/NagyD/SDLPoP))  
 
 ## sample batch files, using every day ;) 
 
