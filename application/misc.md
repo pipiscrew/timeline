@@ -132,6 +132,7 @@
 * [Calendar Templates](https://www.vertex42.com/calendars/)
 * [PabloDraw ANSI](http://picoe.ca/products/pablodraw/)
 * [KeepAliveHD](https://github.com/stsrki/KeepAliveHD) - prevents your hard drive to go into automatic standby mode  
+* [Malwarebytes.AdwCleaner](https://www.malwarebytes.com/adwcleaner/)  
 
 ## Capture
 * [OBS Studio](https://obsproject.com/) - screen capture and broadcasting  

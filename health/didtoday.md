@@ -77,4 +77,15 @@
 ----------  
 
 &nbsp;
-note : make sure **everyday** you complete **12 hours** without food (example 8pm - 8am)
+note : make sure **everyday** you complete **12 hours** without food (example 8pm - 8am)  
+  
+----------  
+
+[List of 14 Allergens](https://www.fsai.ie/legislation/food_legislation/food_information/14_allergens.html)  
+  
+
+**e list**  
+* https://www.slozeni-kosmetiky.cz/xylitol
+* http://www.food-info.net/
+* https://dermnetnz.org/topics/food-additives-and-e-numbers
+* https://www.rohlik.cz/ecka

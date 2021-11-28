@@ -24,6 +24,7 @@ Video Capture - [Cinema FV-5 Lite](https://play.google.com/store/apps/details?id
 [CallBlocker](https://gitlab.com/bitfireAT/NoPhoneSpam/) - feature-rich call-spam fighting app [mirror](https://github.com/eaglx/CallBlocker) &nbsp; [F-Droid](https://f-droid.org/packages/at.bitfire.nophonespam/)  
 [LED Scroller](https://play.google.com/store/apps/details?id=oops.ledscroller)  
 [WhatTheFont](https://play.google.com/store/apps/details?id=com.monotype.whatthefont)  
+[tinyCam Monitor](https://play.google.com/store/apps/details?id=com.alexvas.dvr.pro)  
 
 
 [evozi - download APK by namespace](https://apps.evozi.com/apk-downloader/)
