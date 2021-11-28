@@ -80,9 +80,26 @@
 note : make sure **everyday** you complete **12 hours** without food (example 8pm - 8am)  
   
 ----------  
-
-[List of 14 Allergens](https://www.fsai.ie/legislation/food_legislation/food_information/14_allergens.html)  
   
+&nbsp; 
+[List of 14 Allergens](https://www.fsai.ie/legislation/food_legislation/food_information/14_allergens.html)  
+
+1. Cereals containing gluten
+2. Crustaceans (οστρακοειδές)
+3. Eggs
+4. Fish
+5. Peanuts
+6. Soybeans
+7. Milk
+8. Nuts
+9. Celery
+10. Mustard
+11. Sesame seeds
+12. Sulphur dioxide and sulphites (chemical compounds that can be naturally occurring E220 – E228)
+13. Lupin (λούπινο, όχι συνηθισμένο όσπριο)
+14. Molluscs (μαλάκια aka σαλιγκάρια, μύδια, στρείδια, χταπόδια, καλαμάρια)
+  
+&nbsp;  
 
 **e list**  
 * https://www.slozeni-kosmetiky.cz/xylitol
