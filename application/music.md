@@ -1,4 +1,6 @@
 Player - [Winamp v2.95](http://www.oldversion.com/windows/winamp-2-95)  
+* [WACUP](https://getwacup.com/) - WinAmp Community Update Project ([ref](https://news.ycombinator.com/item?id=29379346))   
+
 Player - [VUPlayer](http://www.vuplayer.com/)  
 * [2](https://github.com/jfchapman/VUPlayer)  
 

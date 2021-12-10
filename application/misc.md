@@ -133,6 +133,7 @@
 * [PabloDraw ANSI](http://picoe.ca/products/pablodraw/)
 * [KeepAliveHD](https://github.com/stsrki/KeepAliveHD) - prevents your hard drive to go into automatic standby mode  
 * [Malwarebytes.AdwCleaner](https://www.malwarebytes.com/adwcleaner/)  
+* [IObit.Driver Booster](https://www.iobit.com/en/compare/db/)  
 
 ## Capture
 * [OBS Studio](https://obsproject.com/) - screen capture and broadcasting  
@@ -225,4 +226,9 @@ endlocal
 * check open port
 ```
 netstat -aon | find ":443"
+```
+
+* logoff
+```
+C:\Windows\System32\logoff.exe
 ```

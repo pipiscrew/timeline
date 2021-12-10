@@ -816,7 +816,7 @@
   * [Hackers Got Past Windows Hello by Tricking a Webcam](https://www.wired.com/story/windows-hello-facial-recognition-bypass)
   * [Why we're blind to the color blue](https://calebkruse.com/10-projects/seeing-blue/)
   * [Browser debugging with Developer Tools integration in Visual Studio Code](https://blogs.windows.com/msedgedev/2021/07/16/easier-debugging-developer-tools-in-visual-studio-code)
-  * [Fake Tweet Generator](https://shashiirk.github.io/fake-tweet-generator)
+  * [Fake Tweet (twitter) Generator](https://shashiirk.github.io/fake-tweet-generator)
   * [iOS zero-day let SolarWinds hackers compromise fully updated iPhones](https://arstechnica.com/gadgets/2021/07/solarwinds-hackers-used-an-ios-0-day-to-steal-google-and-microsoft-credentials/)
   * [Google engineer who criticized company in viral comics](https://mashable.com/article/google-engineer-manu-cornet-comics-critique)
   * [US - New Generation Artificial Heart Implanted in Patient](https://corporate.dukehealth.org/news/new-generation-artificial-heart-implanted-patient-duke-first-us)

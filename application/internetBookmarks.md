@@ -157,6 +157,7 @@
 * [lumpysoft.Google index search](https://lumpysoft.com/)  
 * [nixnet.searX](https://searx.nixnet.services/)  
 * [brave search](https://search.brave.com/)  
+* [occamm](https://www.occamm.com/) - refine your queries  
 
 ## temporary mail
 * [tempmail](https://temp-mail.org/en/)  
