@@ -30,6 +30,8 @@
 		* [Collection of open source, tiny tools](https://github.com/everestpipkin/tools-list)
 		* [Open Source Alternatives](https://www.btw.so/open-source-alternatives)
 		* [Asynchronous Programming in C#](https://github.com/davidfowl/AspNetCoreDiagnosticScenarios/blob/master/AsyncGuidance.md)
+		* [Electron Alternatives](https://github.com/sudhakar3697/electron-alternatives)
+		* [Awesome Desktop JS](https://github.com/styfle/awesome-desktop-js)
 * [Health]
 	* [introduction](/health/introduction.md)
 	* [exercise](/health/exercise.md)
