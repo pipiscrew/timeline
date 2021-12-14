@@ -36,6 +36,7 @@
 ## images / documents
 * (client side) [JPEG.rocks](https://jpeg.rocks/) - for image
 * (client side) [AnyWebP](https://anywebp.com/) - WebP to JPG / PNG / ICO Converter Online
+* (client side) [HexEdit](https://hexed.it/) - for binaries
 * [tinypng](https://tinypng.com/)
 * [Squoosh](https://squoosh.app) - for image
 * [Vertexshare.Image Upscaler by AI](https://vertexshare.com/image-upscaler.html) - Upscale and increase image size and resolution without losing quality.
@@ -98,7 +99,7 @@
 * (multi) [savevideo](http://savevideo.me/)
 * [HyperDebrid](https://hyperdebrid.net/)  
 
-# video flix trend
+## video flix trend
 * [FlixTor](https://flixtor.to/) - can watch only new movies / episodes. Older than 3 months you must pay.
 * [ertFlix](https://www.ertflix.gr/)  
 

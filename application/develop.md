@@ -23,14 +23,16 @@
 * [Fill Database](http://filldb.info/) - Dummy Data for MYSQL Database  
 
 ## git
-* [git minimal](https://www.nuget.org/packages/Git-Windows-Minimal/) - Git-Bash, Git-Gui, PERL, Python, and Tcl are excluded. Download rename it to rar, copy the **tools** folder. Add to environment path the **cmd** folder. Behind firewall ? whitelist @ **g**it-http-fetch.exe **g**it-http-push.exe **g**it-remote-https.exe exist @ mingw64\bin.  Use the following  :   
+* [git minimal](https://www.nuget.org/packages/Git-Windows-Minimal/) - Git-Bash, Git-Gui, PERL, Python, and Tcl are excluded. Download rename it to rar, copy the **tools** folder. Add to environment path the **cmd** folder. Behind firewall ? whitelist @ **g**it-http-fetch.exe **g**it-http-push.exe **g**it-remote-https.exe exist @ mingw64\bin.  Use the following :  
+
 ```bash
 #store credentials as plain text (wincred decrecated) by default to C:\Users\%username%\.git-credentials
 git config --global credential.helper store
 
 #disable every time 'enter credentials' form
 git config --global credential.interactive never
-```
+```  
+
 * [git.MinGit](https://github.com/git-for-windows/git/releases/tag/v2.32.0.windows.1)
 * [Fork](https://fork.dev/)
 * [GitKraken](https://www.gitkraken.com/)
@@ -61,3 +63,198 @@ git config --global credential.interactive never
      * https://templatic.com/
      * https://www.elegantthemes.com/
      * https://themify.me/
+  
+&nbsp;
+
+## SQL Server Express
+* [2008R2x64 Setup](https://https://www.microsoft.com/en-us/download/details.aspx?id=30438)
+
+```sql
+unattended with :
+sa password - 12
+authentication - mixed mode
+TCP eanbled
+
+setup.exe /QS /Action=Install  /IAcceptSQLServerLicenseTerms=1 /SAPWD=12 /SECURITYMODE=SQL /TCPENABLED=1 /Features=SQL /InstanceName=SQLExpress /SQLSYSADMINACCOUNTS="Builtin\Administrators"
+
+---
+
+sqlcmd path : 
+C:\Program Files\Microsoft SQL Server\100\Tools\Binn
+
+--restore backup file
+sqlCmd -E -S .\sqlexpress -Q "RESTORE DATABASE test FROM DISK='c:\demo.bak'"
+
+--execute sql file
+sqlcmd -E -S .\sqlexpress -i a.sql
+
+--
+
+alter SA password 
+
+--https://docs.microsoft.com/en-us/sql/database-engine/configure-windows/change-server-authentication-mode?view=sql-server-ver15
+
+ALTER LOGIN sa ENABLE ;  
+GO  
+ALTER LOGIN sa WITH PASSWORD = '12' ;  
+GO  
+
+```
+
+### create a database
+```sql
+CREATE DATABASE [test2] ON  PRIMARY 
+( NAME = N'test2', FILENAME = N'c:\Program Files\Microsoft SQL Server\MSSQL10_50.SQLEXPRESS\MSSQL\DATA\test2.mdf' , SIZE = 2048KB , FILEGROWTH = 1024KB )
+ LOG ON 
+( NAME = N'test2_log', FILENAME = N'c:\Program Files\Microsoft SQL Server\MSSQL10_50.SQLEXPRESS\MSSQL\DATA\test2_log.ldf' , SIZE = 1024KB , FILEGROWTH = 10%)
+GO
+ALTER DATABASE [test2] SET COMPATIBILITY_LEVEL = 100
+GO
+ALTER DATABASE [test2] SET ANSI_NULL_DEFAULT OFF 
+GO
+ALTER DATABASE [test2] SET ANSI_NULLS OFF 
+GO
+ALTER DATABASE [test2] SET ANSI_PADDING OFF 
+GO
+ALTER DATABASE [test2] SET ANSI_WARNINGS OFF 
+GO
+ALTER DATABASE [test2] SET ARITHABORT OFF 
+GO
+ALTER DATABASE [test2] SET AUTO_CLOSE OFF 
+GO
+ALTER DATABASE [test2] SET AUTO_CREATE_STATISTICS ON 
+GO
+ALTER DATABASE [test2] SET AUTO_SHRINK OFF 
+GO
+ALTER DATABASE [test2] SET AUTO_UPDATE_STATISTICS ON 
+GO
+ALTER DATABASE [test2] SET CURSOR_CLOSE_ON_COMMIT OFF 
+GO
+ALTER DATABASE [test2] SET CURSOR_DEFAULT  GLOBAL 
+GO
+ALTER DATABASE [test2] SET CONCAT_NULL_YIELDS_NULL OFF 
+GO
+ALTER DATABASE [test2] SET NUMERIC_ROUNDABORT OFF 
+GO
+ALTER DATABASE [test2] SET QUOTED_IDENTIFIER OFF 
+GO
+ALTER DATABASE [test2] SET RECURSIVE_TRIGGERS OFF 
+GO
+ALTER DATABASE [test2] SET  DISABLE_BROKER 
+GO
+ALTER DATABASE [test2] SET AUTO_UPDATE_STATISTICS_ASYNC OFF 
+GO
+ALTER DATABASE [test2] SET DATE_CORRELATION_OPTIMIZATION OFF 
+GO
+ALTER DATABASE [test2] SET PARAMETERIZATION SIMPLE 
+GO
+ALTER DATABASE [test2] SET  READ_WRITE 
+GO
+ALTER DATABASE [test2] SET RECOVERY SIMPLE 
+GO
+ALTER DATABASE [test2] SET  MULTI_USER 
+GO
+ALTER DATABASE [test2] SET PAGE_VERIFY CHECKSUM  
+GO
+USE [test2]
+GO
+IF NOT EXISTS (SELECT name FROM sys.filegroups WHERE is_default=1 AND name = N'PRIMARY') ALTER DATABASE [test2] MODIFY FILEGROUP [PRIMARY] DEFAULT
+GO
+```  
+
+### create a user  
+
+```sql
+USE [master]
+GO
+CREATE LOGIN [papa] WITH PASSWORD=N'papa', DEFAULT_DATABASE=[master], CHECK_EXPIRATION=OFF, CHECK_POLICY=ON
+GO
+EXEC master..sp_addsrvrolemember @loginame = N'papa', @rolename = N'bulkadmin'
+GO
+EXEC master..sp_addsrvrolemember @loginame = N'papa', @rolename = N'dbcreator'
+GO
+EXEC master..sp_addsrvrolemember @loginame = N'papa', @rolename = N'diskadmin'
+GO
+EXEC master..sp_addsrvrolemember @loginame = N'papa', @rolename = N'processadmin'
+GO
+EXEC master..sp_addsrvrolemember @loginame = N'papa', @rolename = N'securityadmin'
+GO
+EXEC master..sp_addsrvrolemember @loginame = N'papa', @rolename = N'serveradmin'
+GO
+EXEC master..sp_addsrvrolemember @loginame = N'papa', @rolename = N'setupadmin'
+GO
+EXEC master..sp_addsrvrolemember @loginame = N'papa', @rolename = N'sysadmin'
+GO
+USE [test]
+GO
+CREATE USER [papa] FOR LOGIN [papa]
+GO
+USE [test]
+GO
+EXEC sp_addrolemember N'db_accessadmin', N'papa'
+GO
+USE [test]
+GO
+EXEC sp_addrolemember N'db_backupoperator', N'papa'
+GO
+USE [test]
+GO
+EXEC sp_addrolemember N'db_datareader', N'papa'
+GO
+USE [test]
+GO
+EXEC sp_addrolemember N'db_datawriter', N'papa'
+GO
+USE [test]
+GO
+EXEC sp_addrolemember N'db_ddladmin', N'papa'
+GO
+USE [test]
+GO
+EXEC sp_addrolemember N'db_denydatareader', N'papa'
+GO
+USE [test]
+GO
+EXEC sp_addrolemember N'db_denydatawriter', N'papa'
+GO
+USE [test]
+GO
+EXEC sp_addrolemember N'db_securityadmin', N'papa'
+GO
+```  
+
+### enable disable authentication through registry
+
+restart of services required 
+
+```sql
+Windows Registry Editor Version 5.00
+
+#2 = mixed login
+#1 = win auth only
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Microsoft SQL Server\MSSQL10_50.SQLEXPRESS\MSSQLServer]
+"LoginMode"=dword:00000002
+```
+
+
+### restart services  
+
+```
+@echo off
+
+REM src - https://www.mssqltips.com/sqlservertip/6307/how-to-stop-and-start-sql-server-services/
+
+echo "Stopping services"
+
+net stop MSSQL$SQLEXPRESS
+net stop SQLBrowser
+
+pause
+
+echo "Starting services"
+
+net start MSSQL$SQLEXPRESS
+net start SQLBrowser
+
+pause
+```  
