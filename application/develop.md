@@ -70,6 +70,10 @@ git config --global credential.interactive never
 * [2008R2x64 with SP2](https://https://www.microsoft.com/en-us/download/details.aspx?id=30438)
 
 ```sql
+refs
+https://docs.microsoft.com/en-us/previous-versions/sql/sql-server-2008/dd981032(v=sql.100)
+https://docs.microsoft.com/en-us/sql/database-engine/install-windows/install-sql-server-from-the-command-prompt?view=sql-server-ver15
+
 unattended with :
 sa password - 12
 authentication - mixed mode
@@ -85,7 +89,7 @@ C:\Program Files\Microsoft SQL Server\100\Tools\Binn
 --restore backup file
 sqlcmd -E -S .\sqlexpress -Q "RESTORE DATABASE test FROM DISK='c:\demo.bak'"
 
---execute sql file
+--execute sql file - https://docs.microsoft.com/en-us/sql/ssms/scripting/sqlcmd-run-transact-sql-script-files?view=sql-server-ver15
 sqlcmd -E -S .\sqlexpress -i a.sql
 
 --
@@ -223,13 +227,14 @@ EXEC sp_addrolemember N'db_securityadmin', N'papa'
 GO
 ```  
 
-### enable disable authentication through registry
+### change authentication through registry
 
 restart of services required 
 
 ```sql
 Windows Registry Editor Version 5.00
 
+# src - https://docs.microsoft.com/en-us/sql/database-engine/configure-windows/change-server-authentication-mode?view=sql-server-ver15
 #2 = mixed login
 #1 = win auth only
 [HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Microsoft SQL Server\MSSQL10_50.SQLEXPRESS\MSSQLServer]
