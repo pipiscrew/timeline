@@ -67,7 +67,7 @@ git config --global credential.interactive never
 &nbsp;
 
 ## SQL Server Express
-* [2008R2x64 Setup](https://https://www.microsoft.com/en-us/download/details.aspx?id=30438)
+* [2008R2x64 with SP2](https://https://www.microsoft.com/en-us/download/details.aspx?id=30438)
 
 ```sql
 unattended with :
@@ -83,7 +83,7 @@ sqlcmd path :
 C:\Program Files\Microsoft SQL Server\100\Tools\Binn
 
 --restore backup file
-sqlCmd -E -S .\sqlexpress -Q "RESTORE DATABASE test FROM DISK='c:\demo.bak'"
+sqlcmd -E -S .\sqlexpress -Q "RESTORE DATABASE test FROM DISK='c:\demo.bak'"
 
 --execute sql file
 sqlcmd -E -S .\sqlexpress -i a.sql
