@@ -67,7 +67,7 @@ git config --global credential.interactive never
 &nbsp;
 
 ## SQL Server Express
-* [2008R2x64 with SP2](https://https://www.microsoft.com/en-us/download/details.aspx?id=30438)
+* [2008R2x64 with SP2](https://www.microsoft.com/en-us/download/details.aspx?id=30438)
 
 ```sql
 refs
