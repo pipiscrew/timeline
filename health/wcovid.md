@@ -14,6 +14,9 @@
 &nbsp;
 
 # news
+* stay updated [FDA Press Announcements](https://www.fda.gov/news-events/fda-newsroom/press-announcements)
+* stay updated [Pfizer Press Releases](https://www.pfizer.com/news/press-releases)
+* stay updated [Janssen Press Releases](https://www.janssen.com/us/news-center/press-releases)
 * stay updated [Corona Stats](https://corona-stats.online/)
 * stay updated [worldometers.Corona Status](https://www.worldometers.info/coronavirus/)
 * [Del Bigtree - The HighWire](https://thehighwire.com/WATCH/) - every Thursday 8pm CET &nbsp; [factsinated](https://thehighwire.com/watch/?category=get-factsinated) &nbsp; ref - [icandecide](https://www.icandecide.org/)
