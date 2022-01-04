@@ -263,3 +263,71 @@ net start SQLBrowser
 
 pause
 ```  
+
+## MySQL  
+
+
+### restare dbase via cmd  
+
+```sql
+mysql -u root -ppassword dbasename < c:\localhost.sql
+-- OR
+mysql -u root -ppassword < c:\localhost.sql 
+```  
+
+### dbases size  
+
+```sql
+SELECT table_schema "DB Name",
+        ROUND(SUM(data_length + index_length) / 1024 / 1024, 1) "DB Size in MB" 
+FROM information_schema.tables 
+GROUP BY table_schema; 
+```  
+
+### table size  
+
+```sql
+SELECT
+  TABLE_NAME AS `Table`,
+  ROUND((DATA_LENGTH + INDEX_LENGTH) / 1024 / 1024) AS `Size (MB)`
+FROM
+  information_schema.TABLES
+WHERE
+  TABLE_SCHEMA = "dbase_name"
+ORDER BY
+  (DATA_LENGTH + INDEX_LENGTH)
+DESC;
+```  
+
+### table rows  
+
+```sql
+SELECT    TABLE_NAME,    TABLE_ROWS
+FROM
+    `information_schema`.`tables`
+WHERE
+    `table_schema` = 'dbase_name';
+```  
+
+### add foreign key  
+
+```sql
+ALTER TABLE `leagueseasons` 
+ADD CONSTRAINT `leagueID` FOREIGN KEY (`league_id`) 
+REFERENCES `leagues`(`id`);
+```  
+
+### add UNIQUE with multiple fields  
+
+```sql
+ALTER TABLE `standings` ADD UNIQUE `unique_index`(`league_id`, `season`, `rank`);
+```  
+
+### last queries ran 
+
+```sql
+--https://stackoverflow.com/a/678310
+SET GLOBAL log_output = 'TABLE';
+SET GLOBAL general_log = 'ON';
+SELECT * FROM  mysql.general_log  order by 1 desc
+```  

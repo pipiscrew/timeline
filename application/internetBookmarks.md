@@ -159,6 +159,7 @@
 * [nixnet.searX](https://searx.nixnet.services/)  
 * [brave search](https://search.brave.com/)  
 * [occamm](https://www.occamm.com/) - refine your queries  
+* [mwmbl](https://mwmbl.org/) - restricted to English content and domains which score highly on average in Hacker News submissions  
 
 ## temporary mail
 * [tempmail](https://temp-mail.org/en/)  
