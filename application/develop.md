@@ -331,3 +331,22 @@ SET GLOBAL log_output = 'TABLE';
 SET GLOBAL general_log = 'ON';
 SELECT * FROM  mysql.general_log  order by 1 desc
 ```  
+
+### disable keys validation  
+
+```sql
+SET FOREIGN_KEY_CHECKS = 0;
+
+--your SQL here
+
+SET FOREIGN_KEY_CHECKS = 1;
+```  
+
+### reset auto_increment seed 
+
+```sql
+ALTER TABLE table_name AUTO_INCREMENT = 1
+
+--TRUNCATE also reset it
+TRUNCATE TABLE table_name;
+```
