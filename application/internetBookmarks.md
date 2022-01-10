@@ -32,6 +32,7 @@
 * [Convert CSV to Excel++](https://www.convertcsv.com/csv-to-csv.htm)
 * [Excel To Json Converter](https://beautifytools.com/excel-to-json-converter.php)
 * [DataDesign.ConvertCSV](https://www.convertcsv.com/)
+* [Mr. Data Converter](https://thdoan.github.io/mr-data-converter/)  
 
 ## images / documents
 * (client side) [JPEG.rocks](https://jpeg.rocks/) - for image
@@ -52,6 +53,7 @@
   * [2](https://github.com/ArchiveBox/ArchiveBox)
 * [archive.today](https://archive.ph/) - Archive any webpage
 * [DocumentCloud](https://www.documentcloud.org) - upload pdf, annotate, extract text, publish
+* [SmallPDF]](https://smallpdf.com/word-to-pdf) - docx to pdf (~90% than the original Word PDF)  
 
 
 ## videos
