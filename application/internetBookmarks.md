@@ -104,6 +104,7 @@
 ## video flix trend
 * [FlixTor](https://flixtor.to/) - can watch only new movies / episodes. Older than 3 months you must pay.
 * [ertFlix](https://www.ertflix.gr/)  
+* [stremio](https://www.stremio.com/)  
 
 ## tv
 * [ustvgo](https://ustvgo.tv/)

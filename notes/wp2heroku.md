@@ -1,5 +1,5 @@
 ## why?
-Most of us, maintaining a blog for years, currently mine has 15k articles. Needed a free solution to archive it and continue on new things. Heroku free plan, restore the branhc every X time, the possibilities are two, use Postgre or sqlite. When sqlite, the deploy (last push) should be fine, meaning no other configuration should be made on server side, as it will be lost after X time. On the other side Postgre limitation is the 10k rows (count of all rows on all tables). In this article explaining how to sqlite on heroku. 
+Most of us, maintaining a blog for years, currently mine has 15k articles. Needed a free solution to archive it and continue on new things. Heroku free plan, **restore** the branch every X time, the possibilities are two, use Postgre or sqlite. When sqlite, the deploy (last push) should be fine, meaning no other configuration should be made on server side, as it will be lost after X time. On the other side Postgre limitation is the 10k rows (count of all rows on all tables). In this article explaining how to sqlite on heroku. 
 
 ## bring the online data, locally
 
