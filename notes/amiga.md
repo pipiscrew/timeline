@@ -51,6 +51,7 @@
 * [Retro mini Amiga 500 launches in early 2022](https://www.polygon.com/22618467/amiga-500-mini-console-a500-retro-gaming-release-date-games)  &nbsp; ([src](https://retrogames.biz/thea500-mini))
 * [Exploring the Amiga (2018)](https://www.thedigitalcatonline.com/blog/2018/05/28/exploring-the-amiga-1/)  
 * [TGS Joystick](https://tgsjoystick.wordpress.com) - Greek producer  
+* [What made the Amiga so great](https://8bitnews.io/article/amiga-awesomeness)  
 
 ## repos
 * [Largest archive of software and files](http://aminet.net/)

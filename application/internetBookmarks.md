@@ -37,6 +37,7 @@
 ## images / documents
 * (client side) [JPEG.rocks](https://jpeg.rocks/) - for image
 * (client side) [AnyWebP](https://anywebp.com/) - WebP to JPG / PNG / ICO Converter Online
+* (client side) [WebUtils.Compress Image](https://anywebp.com/) - convert to size & different formats has also text compare.
 * (client side) [HexEdit](https://hexed.it/) - for binaries
 * [tinypng](https://tinypng.com/)
 * [Squoosh](https://squoosh.app) - for image
@@ -105,6 +106,7 @@
 * [FlixTor](https://flixtor.to/) - can watch only new movies / episodes. Older than 3 months you must pay.
 * [ertFlix](https://www.ertflix.gr/)  
 * [stremio](https://www.stremio.com/)  
+* [Tubi](https://tubi.tv/) - for non EU countries  
 
 ## tv
 * [ustvgo](https://ustvgo.tv/)

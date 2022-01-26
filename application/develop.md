@@ -267,6 +267,19 @@ pause
 ## MySQL  
 
 
+### backup dbase via cmd  
+
+```sql
+--backup tables schema
+mysqldump --no-data -u root -ppassword dbasename > dbaseSchema.sql
+
+--backup tables schema and view & procs
+mysqldump.exe --routines --no-data -u root -ppassword dbasename > dbaseSchema_W_routines.sql
+
+--backup schema & data for specific tables
+mysqldump.exe -u root -ppassword dbasename tablename1 tablename2 tablename3 tablename4 > dbaseDefaultTables.sql
+```  
+
 ### restare dbase via cmd  
 
 ```sql
@@ -349,4 +362,17 @@ ALTER TABLE table_name AUTO_INCREMENT = 1
 
 --TRUNCATE also reset it
 TRUNCATE TABLE table_name;
+```
+
+### configure mysql with my.ini - compatibility mode + server timezone to UTC
+
+```sql
+[mysqld]
+port=3306
+sql-mode="NO_ZERO_IN_DATE,NO_ZERO_DATE,NO_ENGINE_SUBSTITUTION"
+default-time-zone='+00:00'
+
+--then you can see the changes
+SELECT @@SQL_MODE, @@GLOBAL.SQL_MODE;
+SELECT @@time_zone, @@GLOBAL.time_zone;
 ```
