@@ -280,7 +280,7 @@ mysqldump.exe --routines --no-data -u root -ppassword dbasename > dbaseSchema_W_
 mysqldump.exe -u root -ppassword dbasename tablename1 tablename2 tablename3 tablename4 > dbaseDefaultTables.sql
 ```  
 
-### restare dbase via cmd  
+### restore dbase via cmd  
 
 ```sql
 mysql -u root -ppassword dbasename < c:\localhost.sql
