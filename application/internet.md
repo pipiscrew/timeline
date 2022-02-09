@@ -24,6 +24,7 @@ To start with specific profile, `chrome.exe --user-data-dir=c:\foo`
 
 * [Mozilla.Firefox](https://www.mozilla.org/en-US/firefox/all/#product-desktop-release)
 * Unofficial windows, [IceCat](https://github.com/muslayev/icecat-win64) for ultra privacy. The official Linux [here](https://www.gnu.org/software/gnuzilla/).
+* [LibreWolf](https://librewolf.net/) - focused on privacy, security and freedom.
 * [waterfox](https://www.waterfox.net/) - [waterfox web browser sold to System1](https://www.waterfox.net/blog/waterfox-has-joined-system1/)
 * [Dot Browser](https://www.dothq.co/) – privacy-conscious web browser
 * [Basilisk](https://basilisk-browser.org/features.shtml) - Replaced Gecko with Goanna (single-process mode) engine, interface as-carried by Firefox between v29 and v56, more read at features page.  
@@ -43,7 +44,8 @@ Tested with :
   * [FingerprintJS](https://fingerprintjs.com/demo)
     * [cross-browser tracking](https://fingerprintjs.com/blog/external-protocol-flooding/)
   * [Unique Machine](http://uniquemachine.org/) 
-  * [TLS Fingerprint](https://tlsfingerprint.io/) - appears on first page  
+  * [TLS Fingerprint](https://tlsfingerprint.io/) - appears on first page
+  * [No-JS fingerprinting](https://noscriptfingerprint.com/)  
 
 test browser [permissions](https://permission.site/).
 

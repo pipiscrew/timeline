@@ -95,7 +95,8 @@
 ## Files Sync
 * [WinDataReflector](https://veridium.net/windatareflector/)
 * [DSynchronize](http://dimio.altervista.org/eng/#DSynchronize)
-* [rclone](https://rclone.org/)
+* [FreeFileSync](https://freefilesync.org/)
+* [rclone](https://rclone.org/)  
 
 ## CD
 * [AnyBurn](http://www.anyburn.com/)

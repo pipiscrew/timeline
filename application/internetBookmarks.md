@@ -36,8 +36,8 @@
 
 ## images / documents
 * (client side) [JPEG.rocks](https://jpeg.rocks/) - for image
-* (client side) [AnyWebP](https://www.webutils.app/) - WebP to JPG / PNG / ICO Converter Online
-* (client side) [WebUtils.Compress Image](https://anywebp.com/) - convert to size & different formats has also text compare.
+* (client side) [AnyWebP](https://anywebp.com/) - WebP to JPG / PNG / ICO Converter Online
+* (client side) [WebUtils.Compress Image](https://www.webutils.app/) - convert to size & different formats has also text compare.
 * (client side) [HexEdit](https://hexed.it/) - for binaries
 * [tinypng](https://tinypng.com/)
 * [Squoosh](https://squoosh.app) - for image
