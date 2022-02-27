@@ -275,6 +275,10 @@
 * [DW.Fact vs fake – why don’t we trust science any more?](https://youtu.be/t5UPnuSTRjA)
 * [DW.Better brain health](https://youtu.be/TLpbfOJ4bJU)
 
+## pictures
+* [fark](https://www.fark.com)
+* [starecat](https://starecat.com/)  
+
 ## misc links
 * http://ftp.samsiev.eu/ - windows xp things
 * https://winworldpc.com/product/microsoft-visual-bas/60 - Visual Basic 6

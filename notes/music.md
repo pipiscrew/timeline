@@ -3,3 +3,4 @@
 * [Why does an A note on a piano sound different from an A note on a violin?](https://omarshehata.me/notebook/exploring_sound)
 * [Music Theory for the 21st-Century Classroom](http://musictheory.pugetsound.edu/mt21c/MusicTheory.html)
 * [tape it for iphone](https://tape.it/) - stereo HD brings your recordings to a whole different level, automatic instrument detection
+* [Music theory for nerds](https://eev.ee/blog/2016/09/15/music-theory-for-nerds/)
