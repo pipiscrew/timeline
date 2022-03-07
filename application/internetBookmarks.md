@@ -198,6 +198,7 @@
 * [DOS.Zone](http://dos.zone)
 * [EmuOS](https://emupedia.net/beta/emuos/) - Video game preservation and computer history
 * [Lagged](https://lagged.com/play/2643/) - Collection of HTML5 games  
+* [Fast Flood](https://fastflood.dylancastillo.co) - Using emojis and no JS framework  
 
 ## poll
 * [Doodle](https://doodle.com/)
@@ -213,6 +214,7 @@
 * [Libera IRC network](https://web.libera.chat/)  &nbsp; [predefined link](https://web.libera.chat/?nick=testuser&c=#test)
 * [jitsi](https://jitsi.org/) - web chat / video call
 * [webpage archive](https://archive.is/) or [2](https://archive.today/)
+* [stellarium](https://stellarium.org/)  
 
 ## cpu
 * [CPU-Z](https://www.cpuid.com/downloads/cpu-z/cpu-z_1.96-en.zip) - information for cpu
@@ -229,6 +231,7 @@
 * [Reuters](https://www.reuters.com/)
 * [Bloomberg](https://www.bloomberg.com)
 * [Ars Technica](https://arstechnica.com/)
+* [Firtpost](https://www.firstpost.com/) - India - owned by [Reliance Industries](https://en.wikipedia.org/wiki/Firstpost)
 * [BBC](https://www.bbc.com)
 * [CNN](https://lite.cnn.com/en)
 * [Business Standard](https://www.business-standard.com/)
@@ -277,7 +280,8 @@
 
 ## pictures
 * [fark](https://www.fark.com)
-* [starecat](https://starecat.com/)  
+* [starecat](https://starecat.com/)
+* [minds](https://www.minds.com/spiritdragon/) - the new social  
 
 ## misc links
 * http://ftp.samsiev.eu/ - windows xp things

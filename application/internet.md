@@ -227,6 +227,7 @@ To disable multiple running processes of the browser, you can set `browser.tabs.
 
 ## Mail
 * [Mozilla.Thunderbird](https://www.thunderbird.net/)
+* [Just Report It](https://justreport.it/) - Thunderbird & Outlook addon, report to spamcop & domain registrar
 * [Desksoft.CheckMail](http://www.desksoft.com/CheckMail.htm)
 * [POP Peeper: Email Notifier](https://www.esumsoft.com/products/pop-peeper/) - email notifier that runs in your Windows taskbar
 * [MailStore Home](https://www.mailstore.com/en/products/mailstore-home/) - Central archive for all emails. Reads mbox / pst / thunderbird (unicode, in search use * for wildcard, because searching by words). 
