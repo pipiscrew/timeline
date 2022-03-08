@@ -199,6 +199,7 @@
 * [EmuOS](https://emupedia.net/beta/emuos/) - Video game preservation and computer history
 * [Lagged](https://lagged.com/play/2643/) - Collection of HTML5 games  
 * [Fast Flood](https://fastflood.dylancastillo.co) - Using emojis and no JS framework  
+* [simcity clone](http://www.graememcc.co.uk/micropolisJS/)  
 
 ## poll
 * [Doodle](https://doodle.com/)
@@ -255,6 +256,10 @@
 * [The Washington Post](https://www.washingtonpost.com/)
 * [The New York Times](https://www.nytimes.com/)
 * [BuzzFeed News](https://www.buzzfeednews.com/)  
+
+## opinions
+* [The New York Times - Opinion](https://www.nytimes.com/section/opinion)
+* [BBC - Ideas](https://www.bbc.co.uk/ideas/)  
 
 ## seeking for truth
 * [Climate Change Agenda](http://climatechangeagenda.com/)

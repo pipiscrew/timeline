@@ -135,6 +135,7 @@
 * [KeepAliveHD](https://github.com/stsrki/KeepAliveHD) - prevents your hard drive to go into automatic standby mode  
 * [Malwarebytes.AdwCleaner](https://www.malwarebytes.com/adwcleaner/)  
 * [IObit.Driver Booster](https://www.iobit.com/en/compare/db/)  
+* [Qalculate!](https://qalculate.github.io/)  
 
 ## Capture
 * [OBS Studio](https://obsproject.com/) - screen capture and broadcasting  
