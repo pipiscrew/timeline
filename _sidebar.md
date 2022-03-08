@@ -1,5 +1,5 @@
 * [News](./)
-* [News 2021](/readme2021.md)
+* [News 2021](./readme2021.md)
 * [Applications]
 	* [Internet](/application/internet.md)
 	* [Bookmarks](/application/internetBookmarks.md)
