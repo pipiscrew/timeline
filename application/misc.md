@@ -225,6 +225,17 @@ shutdown /t 0 /s /f
 endlocal
 ```
 
+* turn monitor off
+```
+@echo off
+REM monitor sleep - https://www.makeuseof.com/tag/3-quickest-ways-turn-computer-screen-windows/ -- sourceforge.net/projects/doff/ -- softpedia.com/get/System/System-Miscellaneous/Gredion-Turn-Off-Monitor.shtml
+REM https://superuser.com/questions/321342/turn-off-display-in-windows-on-command
+REM https://mybyways.com/blog/command-to-turn-off-monitor-in-windows-10
+REM src - https://gist.github.com/EugeneLoy/150044d04b08e35d09e164c864e78da7/revisions
+powershell (Add-Type '[DllImport(\"user32.dll\")]^public static extern int PostMessage(int hWnd, int hMsg, int wParam, int lParam);' -Name a -Pas)::PostMessage(-1,0x0112,0xF170,2)
+
+```
+
 * check open port
 ```
 netstat -aon | find ":443"
@@ -234,3 +245,4 @@ netstat -aon | find ":443"
 ```
 C:\Windows\System32\logoff.exe
 ```
+

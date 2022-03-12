@@ -10,16 +10,19 @@
 * [Google.Dataset Search](https://datasetsearch.research.google.com/)
 * [Internet Archive.Scholar](https://scholar.archive.org/)
 * [scite.citations](https://scite.ai/search/citations) - Search 900M citation statements extracted from 26M full-text scientific articles
+* [Directory of Open Access Journals](https://www.doaj.org/)
 * (greek) [National Archive of PhD Theses](https://www.didaktorika.gr/eadd/?locale=en)  
 * (greek) [bibliographic records](https://opac.seab.gr/*eng)
 * [Z-Library](https://z-lib.org/) - 6.5m ebooks
-* [British Newspaper Archive (1700 - 2009)](https://www.britishnewspaperarchive.co.uk/)
 * [Morioh](https://morioh.com/topics) - Social network for programmers and developers
 * [Deephn search 30M Hacker news posts](https://deephn.org) ([ref](https://news.ycombinator.com/item?id=26791582))
 * [algolia](https://hn.algolia.com) - Search HackerNews
 * [Internet Archive](https://archive.org/) - books
 * [Open Library](https://openlibrary.org/) - books  
 * [Phrack](http://phrack.org/issues/1/1.html)
+* [British Newspaper Archive (1700 - 2009)](https://www.britishnewspaperarchive.co.uk/)
+* [Todays Front Pages](https://www.freedomforum.org/todaysfrontpages/)
+* [NewScan](https://files.rayogram.com/news/)
 
 ## translators
 * [DocTranslator](https://www.onlinedoctranslator.com/en/translationform) - Translate PDF and outputs PDF, at the moment Yandex / Google cant do this.
