@@ -27,5 +27,7 @@ Video Capture - [Cinema FV-5 Lite](https://play.google.com/store/apps/details?id
 [tinyCam Monitor](https://play.google.com/store/apps/details?id=com.alexvas.dvr.pro)  
 
 
-[evozi - download APK by namespace](https://apps.evozi.com/apk-downloader/)
+* [raccoon.APK Downloader for PC](https://raccoon.onyxbits.de/)
+  * [Manually installing split APK files (App Bundles) via ADB](https://raccoon.onyxbits.de/blog/install-split-apk-adb/)  
+* [evozi - download APK by namespace](https://apps.evozi.com/apk-downloader/)
  

@@ -221,6 +221,7 @@ To disable multiple running processes of the browser, you can set `browser.tabs.
 ## KVM  
 * [Microsoft.Garage Mouse without Borders](https://www.microsoft.com/en-us/download/details.aspx?id=35460) - Control computers from a single mouse and keyboard  
 * [ShareMouse](https://www.sharemouse.com/) - Control multiple computers from a single mouse and keyboard  
+* [Barrier](https://github.com/debauchee/barrier) - forked from Synergy v1.9 codebase. Synergy was a commercialized reimplementation of the original CosmoSynergy written by Chris Schoeneman.
 * [Synergy](https://symless.com/synergy) - Share your mouse and keyboard via network  
 
 ## Image Upload

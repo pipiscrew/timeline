@@ -36,6 +36,8 @@
 * [Excel To Json Converter](https://beautifytools.com/excel-to-json-converter.php)
 * [DataDesign.ConvertCSV](https://www.convertcsv.com/)
 * [Mr. Data Converter](https://thdoan.github.io/mr-data-converter/)  
+* [UniverSQL](https://sql.info/h/tools/universql/) - Run SQL Queries on CSV and Excel Files Locally in the browser  
+  * [tools](https://sql.info/h/tools/) - IN Clause Generator / JSON Viewer / CSV to SQL converter / Excel to DB. SQL / JSON / XML / JSON Stringify  
 
 ## images / documents
 * (client side) [JPEG.rocks](https://jpeg.rocks/) - for image
