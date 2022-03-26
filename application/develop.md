@@ -45,6 +45,7 @@ git config --global credential.interactive never
 * like git - https://githacks.org/vmp2/vmassembler
 * like git - https://git.nixnet.services/Narsil/desktop_user.js
 * [gitstack] - git server for windows, warning [vulnerability](https://www.exploit-db.com/exploits/43777) &nbsp; ([issue](https://github.com/smart-mobile-software/gitstack/issues/181))  
+* [CVS](http://cvs.nongnu.org/) - concurrent versions system  
 
 ## misc
 * [Free for developers](https://free-for.dev/)

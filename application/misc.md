@@ -17,7 +17,7 @@
 * [EF Commander](http://www.efsoftware.com/cw/e.htm)
 * [Unreal Commander](https://x-diesel.com/)
 * [Q-Dir](http://www.softwareok.com/?seite=freeware/Q-Dir)
-* [OneCommander](http://onecommander.com)
+* [OneCommander](http://onecommander.com)  
 
 ## Compare
 * [Scooter.Beyond Compare](https://www.scootersoftware.com/)
@@ -57,7 +57,7 @@
 	* [Compare plugin](https://github.com/pnedev/compare-plugin)
 	* [NppFTP](https://github.com/ashkulz/NppFTP)
 	* [XMLTools plugin](https://github.com/morbac/xmltools) (format HTML)
-* [Ultraedit](https://www.ultraedit.com/)
+	* [MarkdownViewer++](https://github.com/nea/MarkdownViewerPlusPlus)  
 * [MarkdownPad 2](http://markdownpad.com/)
 * [Markdown Monster](https://markdownmonster.west-wind.com/)
   * [2](https://github.com/RickStrahl/MarkdownMonster)

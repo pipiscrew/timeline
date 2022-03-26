@@ -25,6 +25,8 @@ Video Capture - [Cinema FV-5 Lite](https://play.google.com/store/apps/details?id
 [LED Scroller](https://play.google.com/store/apps/details?id=oops.ledscroller)  
 [WhatTheFont](https://play.google.com/store/apps/details?id=com.monotype.whatthefont)  
 [tinyCam Monitor](https://play.google.com/store/apps/details?id=com.alexvas.dvr.pro)  
+Game [Rider](https://play.google.com/store/apps/details?id=com.ketchapp.rider)  
+Game [EDGE](https://play.google.com/store/apps/details?id=net.mobigame.edge.demo)  
 
 
 * [raccoon.APK Downloader for PC](https://raccoon.onyxbits.de/)

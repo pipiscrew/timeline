@@ -23,6 +23,7 @@
 * [British Newspaper Archive (1700 - 2009)](https://www.britishnewspaperarchive.co.uk/)
 * [Todays Front Pages](https://www.freedomforum.org/todaysfrontpages/)
 * [NewScan](https://files.rayogram.com/news/)
+* [pressreader](https://www.pressreader.com/)  
 
 ## translators
 * [DocTranslator](https://www.onlinedoctranslator.com/en/translationform) - Translate PDF and outputs PDF, at the moment Yandex / Google cant do this.
@@ -63,7 +64,6 @@
 
 
 ## videos
-* [NSFWyoutube](http://www.nsfwyoutube.com/) -  add **nsfw** to domain => **nsfw**youtube.com/watch?v=p5IO-IJSVnQ
 * [Invidious](https://invidious.snopyta.org/)
 	* [mirrors](https://redirect.invidious.io/)
 * [youtube-lite](https://youtube-lite.js.org/)
@@ -91,6 +91,8 @@
 ## video rip
 * [VidsWatch](https://www.vidswatch.com/) - add **magic** to domain => you**magic**tube.com/watch?v=p5IO-IJSVnQ
 * [y2mate](https://www.y2mate.com) - add **pp** at the end => youtube**pp**.com/watch?v=p5IO-IJSVnQ
+* [hooktube](https://www.hooktube.com) - add **hook** to domain => **hook**tube.com/watch?v=Oflegc79QB4
+* [NSFWyoutube](http://www.nsfwyoutube.com/) -  add **nsfw** to domain => **nsfw**youtube.com/watch?v=p5IO-IJSVnQ
 * [SoundCloud Downloader](https://sclouddownloader.net/)
 * [Reddit Videos](https://viddit.red/)
 * [Reddit Save](https://redditsave.com/)
@@ -168,8 +170,10 @@
 * [lumpysoft.Google index search](https://lumpysoft.com/)  
 * [nixnet.searX](https://searx.nixnet.services/)  
 * [brave search](https://search.brave.com/)  
+* (belgium) [SearXNG](https://searx.be)
 * [occamm](https://www.occamm.com/) - refine your queries  
 * [mwmbl](https://mwmbl.org/) - restricted to English content and domains which score highly on average in Hacker News submissions  
+* [Teclis](https://teclis.com/) - non-commercial web search  
 
 ## temporary mail
 * [tempmail](https://temp-mail.org/en/)  
@@ -271,6 +275,7 @@
 * [The Narrow Gate](https://thenarrowgateweb.com/)
 * [Truth Comes to Light](https://truthcomestolight.com/)
 * [EurekAlert](https://www.eurekalert.org)
+* [WhatsHerFace](https://www.youtube.com/c/WhatsHerFace/videos) - [patreon](https://www.patreon.com/whatsherface)  
 
 ## 'greens' seeking for truth
 * [Dr. Vandana Shiva](https://www.navdanya.org/)
@@ -298,6 +303,7 @@
 * https://winworldpc.com/product/microsoft-visual-bas/60 - Visual Basic 6
 * https://winworldpc.com/product/microsoft-visual-stu/60 - Visual Basic 6 SP6
 * ftp://ftp.stormopensolutions.it/Storm/Utilities/ - SVN for windows xp etc.
+* [Calendly](https://calendly.com/) - hub for scheduling meetings date and time.  
 
 ## news media twitter
 * @b6ynpz9QK7ej5xP @skaigr @MegaTvOfficial @ANT159694954 @kathariDinami @CKastamonitis @lampros_paschos @prime @Tvnea @Makeleio_gr @ERTglobal @StarChannelGr @alphatvgreece @opentvgr @MakedoniaTV @pronewsgr @pitsirikos @NewsItFeed @ekathimerini
