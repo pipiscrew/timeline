@@ -209,6 +209,7 @@
 * [Lagged](https://lagged.com/play/2643/) - Collection of HTML5 games  
 * [Fast Flood](https://fastflood.dylancastillo.co) - Using emojis and no JS framework  
 * [simcity clone](http://www.graememcc.co.uk/micropolisJS/)  
+* [Zero Sum](https://pensivetoucan.github.io/Zero-Sum/) - A web game about summing numbers  
 
 ## poll
 * [Doodle](https://doodle.com/)

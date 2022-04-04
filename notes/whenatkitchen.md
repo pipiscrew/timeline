@@ -1,5 +1,5 @@
 ## accessories  
-* casserole with lid (diameter 18cm, volume 1.8l)
+* casserole with lid (diameter [18cm](https://www.skroutz.gr/s/16098709/Lamart-Rock-%CE%92%CE%B1%CE%B8%CE%B9%CE%AC-%CE%9A%CE%B1%CF%84%CF%83%CE%B1%CF%81%CF%8C%CE%BB%CE%B1-%CE%B1%CF%80%CF%8C-%CE%91%CE%BB%CE%BF%CF%85%CE%BC%CE%AF%CE%BD%CE%B9%CE%BF-2-1lt-18cm-LT1137.html), volume 1.8l)
 * wok (diameter 28cm)
 * pan (diameter 20cm)
 * bowl
@@ -57,6 +57,18 @@
 &nbsp;
 * **Metal filters** produce a more robust and visually **darker** cup of coffee, which **contains** more oils and sometimes small amounts of sediment.
 * **Paper filters** produce a **brighter**, sweeter cup of coffee with little or **no** sediment or oils, helping cut out the bad cholesterol found in coffee.
+
+### clean an espresso machine
+- Add to water tank 125ml vinegar + 375ml water
+- Turn on the machine and wait the led to light
+- Let trickle 125ml, close the machine
+- Wait 5 / 10 minutes
+- Redo the operator 2 times.
+- Clean the water tank, add 400ml pure water
+- Turn on the machine and wait the led to light
+- Let trickle 125ml, wait 1min, trickle 125ml, wait 1min, trickle 125ml
+- Close the machine, clean the water tank.  
+
 
 &nbsp;
 ## first day lunch

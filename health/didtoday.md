@@ -106,3 +106,18 @@ note : make sure **everyday** you complete **12 hours** without food (example 8p
 * http://www.food-info.net/
 * https://dermnetnz.org/topics/food-additives-and-e-numbers
 * https://www.rohlik.cz/ecka
+  
+&nbsp;  
+
+## world wide cuisines
+* Indian  
+  * Tikka masala  
+  * Butter Chicken    
+   
+* Thai  
+  * Pad Thai  
+  
+* Vietnamese  
+  * [Bun-bo-nam-bo](https://arkady-rozvoz.banhmiba.cz/5ff33af52db8285180b5cba7) - rice noodles, beef, cucumber, carrot, lemon grass, peanuts, mung sprouts, fried onions, Thai nettle, perilla (shisho leaves), coriander [1](https://delightfulplate.com/vietnamese-beef-noodle-salad-bun-bo-xao/) [2](https://www.takeaway.com/foodwiki/vietnam/bun-bo-nam-bo/)
+    * [Bun-bo-xao](https://www.thespruceeats.com/vietnamese-noodle-salad-with-lemongrass-beef-3030400) is the same except in the end stir-fried 
+  * Pho-bo (soup) - broth (beef, pork, chicken, onion, ginger, fish sauce), flat rice noodles, red onion, gourmet onion, soy sprouts, coriander, lemon, chili peppers, beef  

@@ -29,6 +29,8 @@ Game [Rider](https://play.google.com/store/apps/details?id=com.ketchapp.rider)
 Game [EDGE](https://play.google.com/store/apps/details?id=net.mobigame.edge.demo)  
 
 
+* [vysor](https://www.vysor.io/) - puts your iOS or Android on your desktop
+* [apkonline](https://www.apkonline.net/free-android-online-emulator/run-android-online-emulator) - android emulator online (can download and install APK)
 * [raccoon.APK Downloader for PC](https://raccoon.onyxbits.de/)
   * [Manually installing split APK files (App Bundles) via ADB](https://raccoon.onyxbits.de/blog/install-split-apk-adb/)  
 * [evozi - download APK by namespace](https://apps.evozi.com/apk-downloader/)

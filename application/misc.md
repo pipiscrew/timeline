@@ -58,6 +58,8 @@
 	* [NppFTP](https://github.com/ashkulz/NppFTP)
 	* [XMLTools plugin](https://github.com/morbac/xmltools) (format HTML)
 	* [MarkdownViewer++](https://github.com/nea/MarkdownViewerPlusPlus)  
+	* [BetterMultiSelection](https://github.com/dail8859/BetterMultiSelection)
+	* [BigFiles](https://github.com/superolmo/BigFiles)  
 * [MarkdownPad 2](http://markdownpad.com/)
 * [Markdown Monster](https://markdownmonster.west-wind.com/)
   * [2](https://github.com/RickStrahl/MarkdownMonster)
@@ -135,7 +137,8 @@
 * [KeepAliveHD](https://github.com/stsrki/KeepAliveHD) - prevents your hard drive to go into automatic standby mode  
 * [Malwarebytes.AdwCleaner](https://www.malwarebytes.com/adwcleaner/)  
 * [IObit.Driver Booster](https://www.iobit.com/en/compare/db/)  
-* [Qalculate!](https://qalculate.github.io/)  
+* [Qalculate!](https://qalculate.github.io/) - the ultimate desktop calculator
+* [Emsisoft - Ransomware Decryption Tools](https://emsisoft.com/ransomware-decryption-tools/)  
 
 ## Capture
 * [OBS Studio](https://obsproject.com/) - screen capture and broadcasting  
