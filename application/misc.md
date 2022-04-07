@@ -130,7 +130,10 @@
   * [Calculator Plus](https://www.softpedia.com/get/System/OS-Enhancements/Microsoft-Calculator-Plus.shtml) - UExtended calculated released by Microsoft, which includes mathematical and conversion functions for area, length, consumption.
 * [TreeNoote](https://treenoote.com/) - Hierarchically Organized Note Taking Application
 * [TreeSheets](http://strlen.com/treesheets/) - Hierarchical Spreadsheet, Form Data Organizer
+* [horstmuc.MemPad](https://www.horstmuc.de/wmem.htm) - plain text outliner and note taking program with struct
 * [henry++.Mem Reduct](https://www.henrypp.org/product/memreduct) - application to monitor and clean system memory on your computer.
+* [horstmuc.Date Reminder](https://www.horstmuc.de/wrem.htm) - reminds&actions you of recurring or nonrecurring events
+* [Desktop-Reminder](http://www.desktop-reminder.com/) - reminds you of recurring or nonrecurring events trial
 * [Calendar.best](https://www.calendar.best/) - Printable calendars  
 * [Calendar Templates](https://www.vertex42.com/calendars/)
 * [PabloDraw ANSI](http://picoe.ca/products/pablodraw/)
@@ -246,5 +249,6 @@ netstat -aon | find ":443"
 * logoff
 ```
 C:\Windows\System32\logoff.exe
-```
-
+```  
+  
+* [horstmuc.The missing batch file operations](https://www.horstmuc.de/w32dial.htm)  

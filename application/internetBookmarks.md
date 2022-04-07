@@ -304,6 +304,7 @@
 * https://winworldpc.com/product/microsoft-visual-bas/60 - Visual Basic 6
 * https://winworldpc.com/product/microsoft-visual-stu/60 - Visual Basic 6 SP6
 * ftp://ftp.stormopensolutions.it/Storm/Utilities/ - SVN for windows xp etc.
+* https://vetusware.com/ - the biggest free abandonware downloads collection in the universe  
 * [Calendly](https://calendly.com/) - hub for scheduling meetings date and time.  
 
 ## news media twitter

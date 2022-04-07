@@ -116,6 +116,7 @@ test browser [permissions](https://permission.site/).
   * [Copy ShortURL](https://addons.mozilla.org/en-US/firefox/addon/copy-shorturl/)
   * [Copy True Link for Google](https://github.com/dandanua/copy-true-link) ([ref](https://gist.github.com/radiantly/e1c7319214c77fa007f323fc56cd0239))
   * [DownAlbum](https://chrome.google.com/webstore/detail/downalbum/cgjnhhjpfcdhbhlcmmjppicjmgfkppok) - Download Facebook, Instagram, Pinterest, Twitter, Ask.fm, Weibo album  
+  * [Hypersearch](https://github.com/abhinavsharma/hypersearch) - browser extension for improving search  
 
 ----------
 
@@ -177,7 +178,7 @@ To disable multiple running processes of the browser, you can set `browser.tabs.
 * [WinSCP](https://winscp.net/eng/index.php)
 
 ## Download Manager
-* [HTTP Downloader](https://erickutcher.github.io/#HTTP_Downloader)
+* [eric.HTTP Downloader](https://erickutcher.github.io/#HTTP_Downloader)
 * [FlashGet](http://www.oldversion.com/windows/flashget-1-73)
 * [Free Download Manager](https://www.freedownloadmanager.org/)
 * [WellGet](https://www.softpedia.com/get/Internet/Download-Managers/WellGet.shtml)
