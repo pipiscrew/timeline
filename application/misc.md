@@ -3,6 +3,7 @@
 * [PinMe!](https://forum.tuts4you.com/files/file/2125-pinme/)
 * [NTWind.Visual Subst](https://www.ntwind.com/software/visual-subst.html) - Mount folder as drive
 * [Sysinternals.Autoruns for Windows](https://docs.microsoft.com/en-gb/sysinternals/downloads/autoruns)
+* [3D model file thumbnails for Windows Explorer](https://github.com/EYHN/space-thumbnails)  
 
 ## Rescue Boot
 * [WinPE 10-8 Sergei Strelec](https://sergeistrelec.ru/winpe-10-8-sergei-strelec-english/)
@@ -126,7 +127,7 @@
 * [Process Hacker](https://processhacker.sourceforge.io/)
 * [WhoCrashed](https://www.resplendence.com/whocrashed) - Reveals the drivers responsible for crashing your computer
 * [Unit Conversions 2000](https://www.softpedia.com/get/Others/Unit-Conversion/Unit-Conversions.shtml)
-* [Microsoft.Win7 Calculator to Win10](https://www.pipiscrew.com/2021/03/windows-7-calculator-to-windows-10/)
+* [Microsoft.Win7 Calculator to Win10](https://www.pipiscrew.com/threads/windows-7-calculator-to-windows-10.16375/)
   * [Calculator Plus](https://www.softpedia.com/get/System/OS-Enhancements/Microsoft-Calculator-Plus.shtml) - UExtended calculated released by Microsoft, which includes mathematical and conversion functions for area, length, consumption.
 * [TreeNoote](https://treenoote.com/) - Hierarchically Organized Note Taking Application
 * [TreeSheets](http://strlen.com/treesheets/) - Hierarchical Spreadsheet, Form Data Organizer
@@ -249,6 +250,15 @@ netstat -aon | find ":443"
 * logoff
 ```
 C:\Windows\System32\logoff.exe
+```  
+
+* infinite loop
+```
+:a
+
+echo your command here
+
+goto a
 ```  
   
 * [horstmuc.The missing batch file operations](https://www.horstmuc.de/w32dial.htm)  

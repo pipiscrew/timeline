@@ -156,6 +156,7 @@
 	* [Speeding Up Webamp's Music Visualizer with WebAssembly](https://jordaneldredge.com/blog/speeding-up-winamps-music-visualizer-with-webassembly/)
 * [francescogiovannini2](https://francescogiovannini2.blogspot.com) - playlists 
 	* [2](https://www.mixcloud.com/francescogiovannini/)
+* [jango](https://www.jango.com/) - spotify alternative  
 
 ## search engines
 * (france) [Qwant](https://www.qwant.com/)
@@ -210,6 +211,7 @@
 * [Fast Flood](https://fastflood.dylancastillo.co) - Using emojis and no JS framework  
 * [simcity clone](http://www.graememcc.co.uk/micropolisJS/)  
 * [Zero Sum](https://pensivetoucan.github.io/Zero-Sum/) - A web game about summing numbers  
+* [eightcolors](https://eightcolors.net)  
 
 ## poll
 * [Doodle](https://doodle.com/)
