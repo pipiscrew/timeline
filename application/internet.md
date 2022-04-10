@@ -98,6 +98,7 @@ test browser [permissions](https://permission.site/).
   * [JShelter](https://jshelter.org/) - mitigate potential threats, fingerprinting, tracking, and data collection
   * [Anti-Adblock Killer](https://github.com/reek/anti-adblock-killer)
   * [EMNISoft](https://help.emsisoft.com/en/1974/emsisoft-browser-security/) - from the company writes decryption application for ransomwares
+  * [Super Custom Blocker](https://supercustomblocker.com)
   * [Ghostery](https://www.ghostery.com/) - Block Ads, Stop Trackers, and Speed Up Websites [firefox](https://addons.mozilla.org/en-US/firefox/addon/ghostery/) / [chrome](https://chrome.google.com/webstore/detail/ghostery-%E2%80%93-privacy-ad-blo/mlomiejdfkolichcflejclcbmpeaniij)
   * [magnolia.Bypass Paywalls Clean](https://gitlab.com/magnolia1234/bypass-paywalls-chrome-clean/-/issues/45) - Allows you to read articles from websites that implement a paywall. [chrome](https://gitlab.com/magnolia1234/bypass-paywalls-chrome-clean) / [firefox](https://gitlab.com/magnolia1234/bypass-paywalls-firefox-clean)
     * [how to](https://www.youtube.com/channel/UCeDuSy0mmE-3bEDJVINA3-g/videos)

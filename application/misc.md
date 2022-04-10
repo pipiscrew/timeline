@@ -134,7 +134,8 @@
 * [horstmuc.MemPad](https://www.horstmuc.de/wmem.htm) - plain text outliner and note taking program with struct
 * [henry++.Mem Reduct](https://www.henrypp.org/product/memreduct) - application to monitor and clean system memory on your computer.
 * [horstmuc.Date Reminder](https://www.horstmuc.de/wrem.htm) - reminds&actions you of recurring or nonrecurring events
-* [Desktop-Reminder](http://www.desktop-reminder.com/) - reminds you of recurring or nonrecurring events trial
+* [Desktop-Reminder](http://www.desktop-reminder.com/) - reminds&actions you of recurring or nonrecurring events trial
+* [weektodo](https://weektodo.me/) - Weekly Planner App
 * [Calendar.best](https://www.calendar.best/) - Printable calendars  
 * [Calendar Templates](https://www.vertex42.com/calendars/)
 * [PabloDraw ANSI](http://picoe.ca/products/pablodraw/)

@@ -19,3 +19,5 @@ Soaps and astringents meant to make us drier and less oily also **remove the** [
 **Water**, especially when hot, slowly strips away the oils secreted by our glands to keep moisture in. Anything that leaves the skin drier and more porous heightens the potential for reactions to irritants and allergens.
 
 src - James Hamblin - Clean: The New Science of Skin Hardcover - (ISBN 0525538313) [ref](https://www.dropbox.com/s/ahzhpl7vp9omkmh/The%20New%20Science%20of%20Skin.pdf?dl=1)
+
+ref - [James Hamblin - didn’t shower for 5 years. Here’s what he found out](https://www.freethink.com/health/a-doctor-didnt-shower-for-5-years)
