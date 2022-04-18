@@ -99,6 +99,8 @@
 * [WinDataReflector](https://veridium.net/windatareflector/)
 * [DSynchronize](http://dimio.altervista.org/eng/#DSynchronize)
 * [FreeFileSync](https://freefilesync.org/)
+* [pureSync](https://www.puresync.net/)
+* [Cobian](https://www.cobiansoft.com/)
 * [rclone](https://rclone.org/)  
 
 ## CD
@@ -139,11 +141,13 @@
 * [Calendar.best](https://www.calendar.best/) - Printable calendars  
 * [Calendar Templates](https://www.vertex42.com/calendars/)
 * [PabloDraw ANSI](http://picoe.ca/products/pablodraw/)
+* [Ansilove](https://www.cambus.net/file-transfers-via-the-parallel-port-on-dos-using-laplink/) - tool to convert ANSI into PNG images
 * [KeepAliveHD](https://github.com/stsrki/KeepAliveHD) - prevents your hard drive to go into automatic standby mode  
 * [Malwarebytes.AdwCleaner](https://www.malwarebytes.com/adwcleaner/)  
 * [IObit.Driver Booster](https://www.iobit.com/en/compare/db/)  
 * [Qalculate!](https://qalculate.github.io/) - the ultimate desktop calculator
 * [Emsisoft - Ransomware Decryption Tools](https://emsisoft.com/ransomware-decryption-tools/)  
+* [Windhawk](https://windhawk.net/) - customization marketplace  
 
 ## Capture
 * [OBS Studio](https://obsproject.com/) - screen capture and broadcasting  

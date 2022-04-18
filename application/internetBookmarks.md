@@ -267,7 +267,8 @@
 * [The Wall Street Journal](https://www.wsj.com/)
 * [The Washington Post](https://www.washingtonpost.com/)
 * [The New York Times](https://www.nytimes.com/)
-* [BuzzFeed News](https://www.buzzfeednews.com/)  
+* [BuzzFeed News](https://www.buzzfeednews.com/)
+* [NBC Live](https://www.youtube.com/channel/UCeY0bbntWzzVIaj2z3QigXg)  
 
 ## opinions
 * [The New York Times - Opinion](https://www.nytimes.com/section/opinion)
