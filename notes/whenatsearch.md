@@ -9,6 +9,7 @@ Foods sold in the European Union (EU) have had full ingredient labelling since t
 * http://www.food-info.net/
 * https://dermnetnz.org/topics/food-additives-and-e-numbers
 * https://www.rohlik.cz/ecka
+* https://world.openfoodfacts.org/  
 
 ## consumer review platforms
 * https://www.trustpilot.com

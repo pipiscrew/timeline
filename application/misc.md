@@ -24,7 +24,7 @@
 * [Scooter.Beyond Compare](https://www.scootersoftware.com/)
 * [Compare++](https://download.cnet.com/Compare/3000-2248_4-75206501.html)
 * [ExamDiff](https://www.prestosoft.com/edp_examdiff.asp)
-* [WinMerge](https://winmerge.org/)
+* [WinMerge](https://winmerge.org/) - view only diff via `View > Diff Context > 0 Lines`
 * [Dupe Clear](https://mozib.io/dupeclear)  
   * [2](https://github.com/antikmozib/dupe-clear)
 
@@ -64,6 +64,7 @@
 * [MarkdownPad 2](http://markdownpad.com/)
 * [Markdown Monster](https://markdownmonster.west-wind.com/)
   * [2](https://github.com/RickStrahl/MarkdownMonster)
+* [Obsidian](https://obsidian.md/) - is a powerful knowledge base on top of a local folder of plain text Markdown files, a second brain.  
 * [Modern CSV](https://www.moderncsv.com/) - Quick CSV load  
 * [Kainet.Editor](http://www.kainet.ch/Editor-for-very-large-files) - Editor for very large files  
 * [UVviewersoft.LogViewer](http://www.uvviewsoft.com/logviewer/) - Viewer for big text log files, highlight keywords  
