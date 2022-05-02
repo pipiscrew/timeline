@@ -92,7 +92,7 @@ source
   
 ---
 
-Diana Winston (affiliate with UCL)
+Diana Winston (affiliate with UCLA)
 * [(podcast) unlock your mind](https://dynamic.wakingup.com/course/39c5a0)
 * [guided practices](https://dianawinston.com/meditations)
   * [The Spectrum of Awareness: Natural Awareness](https://dharmaseed.org/teacher/53/talk/57131/)
