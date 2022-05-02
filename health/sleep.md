@@ -88,3 +88,16 @@ source
 * [Why sleep matters for personal and public health](https://knowablemagazine.org/article/health-disease/2021/why-sleep-matters-personal-and-public-health
 ) &nbsp;&nbsp; [video](https://youtu.be/ORqDuuEBd4s)  
   * [2](https://news.ycombinator.com/item?id=31224180)  
+  
+  
+---
+
+Diana Winston (affiliate with UCL)
+* [(podcast) unlock your mind](https://dynamic.wakingup.com/course/39c5a0)
+* [guided practices](https://dianawinston.com/meditations)
+  * [The Spectrum of Awareness: Natural Awareness](https://dharmaseed.org/teacher/53/talk/57131/)
+    * [in mp3](https://dharmaseed.org/talks/57131/20190628-Diana_Winston-SR-the_spectrum_of_awareness_natural_awareness_retreat_at_spirit_rock-57131.mp3)  
+
+suggested android apps  
+* [Ten Percent Happier](https://play.google.com/store/apps/details?id=com.changecollective.tenpercenthappier)
+* [Waking Up: Guided Meditation](https://play.google.com/store/apps/details?id=org.wakingup.android)
