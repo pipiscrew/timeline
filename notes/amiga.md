@@ -52,6 +52,7 @@
 * [Exploring the Amiga (2018)](https://www.thedigitalcatonline.com/blog/2018/05/28/exploring-the-amiga-1/)  
 * [TGS Joystick](https://tgsjoystick.wordpress.com) - Greek producer  
 * [What made the Amiga so great](https://8bitnews.io/article/amiga-awesomeness)  
+* [Amiga Power Supplies](https://www.keelog.com/power-supply/#amiga)  
 
 ## repos
 * [Largest archive of software and files](http://aminet.net/)
