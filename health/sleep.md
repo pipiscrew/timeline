@@ -36,7 +36,7 @@ As compared to what's going on during the day except we are `completely paralyze
 
 If i understand right the body is actually `very busy` when we're sleeping, right ?  
 
-i'm not talking about so much memory consolidation and things that are going on in the brain but in terms of the `immune system` tell us a little bit about when we get a good night's sleep what's going on in terms of the immune system. What's going on during sleep is a very active and `dynamic process` in which the `body and the brain` are communicating with each other throughout this period of a behavioral state and `allows the body then to restore` and to rest because there are changes in the metabolic demands on the body during that period of time and the brain and during sleep is coordinating those kinds of changes at the very at the more `cellular level` or molecular level we find changes in the immune system that are also occurring and one of the things that is happening is that all of the all of the bodily systems the `autonomic nervous system` the `hypothalamic pituitary adrenal axis` which is the stress hormone processes and the `immune system` are all aligned with our `circadian rhythm` but there are also specific changes that occur during the night and during sleep that are driven `solely` by sleep so one of the one of the measures that we often think about is `inflammatory measures`. Are really very important in a number of disease processes certainly they increase with aging that put just put at risk for `chronic diseases` of `aging` certain cancers / cardiovascular disease / dementia and also depression so these inflammatory products are very important and they're `regulated very tightly` by sleep processes one particular inflammatory `cytokine` is called interleukin-6 which is `secreted` by immune cells or inflammatory cells in the body and it communicates with other immune cells to `coordinate` the immune response **I don't want to give the impression that all inflammation is bad** because some inflammation is necessary in order for our immune system to respond to an infectious challenge of bacteria or virus and mount an effective immune response and so what's very key during the night is that the immune system is being `coordinated` by sleep and sleep is actually producing a mild activation of these inflammatory products which we believe is important for preparing the person for the kinds of risks and exposures that might occur during the day but also if a person has been exposed to an inflammatory agent or an infectious agent that that low-level inflammatory response allows immune system to respond as the person is resting during times of low metabolic demand so they could can be an effective metabolic and immunological response to that infectious challenge.  
+i'm not talking about so much memory consolidation and things that are going on in the brain but in terms of the `immune system` tell us a little bit about when we get a good night's sleep what's going on in terms of the immune system. What's going on during sleep is a very active and `dynamic process` in which the `body and the brain` are communicating with each other throughout this period of a behavioral state and `allows the body then to restore` and to rest because there are changes in the metabolic demands on the body during that period of time and the brain and during sleep is coordinating those kinds of changes at the very at the more `cellular level` or molecular level we find changes in the immune system that are also occurring and one of the things that is happening is that all of the all of the bodily systems the `autonomic nervous system` the `hypothalamic pituitary adrenal axis` which is the stress hormone processes and the `immune system` are all aligned with our `circadian rhythm` but there are also specific changes that occur during the night and during sleep that are driven `solely` by sleep so one of the measures that we often think about is `inflammatory measures`. Are really very important in a number of disease processes certainly they increase with aging that put just put at risk for `chronic diseases` of `aging` certain cancers / cardiovascular disease / dementia and also depression so these inflammatory products are very important and they're `regulated very tightly` by sleep processes one particular inflammatory `cytokine` is called interleukin-6 which is `secreted` by immune cells or inflammatory cells in the body and it communicates with other immune cells to `coordinate` the immune response **I don't want to give the impression that all inflammation is bad** because some inflammation is necessary in order for our immune system to respond to an infectious challenge of bacteria or virus and mount an effective immune response and so what's very key during the night is that the immune system is being `coordinated` by sleep and sleep is actually producing a mild activation of these inflammatory products which we believe is important for preparing the person for the kinds of risks and exposures that might occur during the day but also if a person has been exposed to an inflammatory agent or an infectious agent that that low-level inflammatory response allows immune system to respond as the person is resting during times of low metabolic demand so they could can be an effective metabolic and immunological response to that infectious challenge.  
 
 What we know and what's increasingly recognized is that sleep is really now considered the `third pillar` of health so it's commonly accepted that `diet` is a pillar of health that `exercise` is a pillar of health. Sleep really affects our entire mental health our physical health really all aspects of health and there's been several studies and systematic reviews and analyses that have confirmed that that you know different `dimensions` of sleep.  
 
@@ -55,7 +55,35 @@ I asking them how many hours are you sleeping well i'm getting almost seven hour
 
 Well a whole number of diseases that have an inflammatory basis can lead to sleep disturbance rheumatoid arthritis / cardiovascular disease / depression and so those are those comorbidities between that disorder and sleep disturbance are very common in additionally we also know that cancer patients and cancer survivors very high rates of sleep disturbance.
 
-source 
+
+UCLA Mindful App - Videos  
+* [Introduction To Mindfulness](https://player.vimeo.com/video/325541879)  
+* [Choosing A Meditation](https://player.vimeo.com/video/325541868)  
+* [Selecting A Meditation Posture](https://player.vimeo.com/video/325541890)  
+* [Introduction To The Science Of Mindfulness](https://player.vimeo.com/video/329716934)  
+
+UCLA Mindful App - Sound - Basic Medications  
+* [01_Breathing_Meditation](https://www.uclahealth.org/marc/mpeg/01_Breathing_Meditation.mp3)  
+* [02_Breath_Sound_Body_Meditation](https://www.uclahealth.org/marc/mpeg/02_Breath_Sound_Body_Meditation.mp3)  
+* [03_Complete_Meditation_Instructions](https://www.uclahealth.org/marc/mpeg/03_Complete_Meditation_Instructions.mp3)  
+* [04_Meditation_for_Working_with_Difficulties](https://www.uclahealth.org/marc/mpeg/04_Meditation_for_Working_with_Difficulties.mp3)  
+* [05_Loving_Kindness_Meditation](https://www.uclahealth.org/marc/mpeg/05_Loving_Kindness_Meditation.mp3)  
+* [Body-Sound-Meditation](https://www.uclahealth.org/marc/mpeg/Body-Sound-Meditation.mp3)  
+* [Body-Scan-Meditation](https://www.uclahealth.org/marc/mpeg/Body-Scan-Meditation.mp3)  
+* [Body-Scan-for-Sleep](https://www.uclahealth.org/marc/mpeg/Body-Scan-for-Sleep.mp3)  
+  
+UCLA Mindful App - Sound - Health and Wellness Meditations  
+* [01_Introduction_and_Instructions](https://www.uclahealth.org/marc/mpeg/01_Introduction_and_Instructions.mp3)  
+* [02_Breath_Sound_Body_Meditation](https://www.uclahealth.org/marc/mpeg/02_Breath_Sound_Body_Meditation.mp3)  
+* [03_Body_Scan.mp3](https://www.uclahealth.org/marc/mpeg/03_Body_Scan.mp3)  
+* [04_Loving_Kindness](https://www.uclahealth.org/marc/mpeg/04_Loving_Kindness.mp3)  
+* [05_Working_with_Difficulties](https://www.uclahealth.org/marc/mpeg/05_Working_with_Difficulties.mp3)  
+* [06_Tibetan_Singing_Bowls](https://www.uclahealth.org/marc/mpeg/06_Tibetan_Singing_Bowls.mp3)  
+
+[>> Free Drop-in Meditations <<](https://www.uclahealth.org/marc/free-drop-in-meditation)
+  
+  
+source  
 * [Why sleep matters for personal and public health](https://knowablemagazine.org/article/health-disease/2021/why-sleep-matters-personal-and-public-health
 ) &nbsp;&nbsp; [video](https://youtu.be/ORqDuuEBd4s)  
   * [2](https://news.ycombinator.com/item?id=31224180)  
