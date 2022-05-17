@@ -327,6 +327,7 @@ ref
 * [Bryan Johnson - I Fired Myself](https://www.bryanjohnson.co/articles/i-fired-myself)
 * [Green Tea and Fasting](https://amlagreen.com/blogs/news/green-tea-while-intermittent-fasting) - Drinking green tea does not break a fast.  
 * [Should we be eating three meals a day?](https://www.bbc.com/future/article/20220412-should-we-be-eating-three-meals-a-day)  
+* [Science of Fasting](https://spyderdoc.substack.com/p/doctors-heart-series-part-6-science)  
 
 ### disadvantages - explained by Boris
 

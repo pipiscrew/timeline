@@ -229,4 +229,7 @@ Before push dbase to heroku, mostly needed to fix links point to **C:\nginx\html
 ```  
 
 
-and of course, dont forget to read the heroku official [howto](https://help.heroku.com/58GWW5CQ/can-i-use-wordpress-on-heroku) `#haha`
+and of course, dont forget to read the heroku official [howto](https://help.heroku.com/58GWW5CQ/can-i-use-wordpress-on-heroku) `#haha`  
+
+2022 - WordPress running on an SQLite database (2022 edition)  
+https://github.com/stokry/wp-sqlite
