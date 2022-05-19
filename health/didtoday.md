@@ -97,9 +97,9 @@ note : make sure **everyday** you complete **12 hours** without food (example 8p
 11. Sesame seeds
 12. Sulphur dioxide and sulphites (chemical compounds that can be naturally occurring E220 – E228)
 13. Lupin (λούπινο, όχι συνηθισμένο όσπριο)
-14. Molluscs (μαλάκια aka σαλιγκάρια, μύδια, στρείδια, χταπόδια, καλαμάρια)
+14. Molluscs (μαλάκια aka σαλιγκάρια, μύδια, στρείδια, χταπόδια, καλαμάρια)  
 
-&nbsp;  
+&nbsp;
 
 **e list**  
 * https://www.slozeni-kosmetiky.cz/xylitol
