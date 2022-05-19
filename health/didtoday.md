@@ -107,8 +107,8 @@ note : make sure **everyday** you complete **12 hours** without food (example 8p
 * https://dermnetnz.org/topics/food-additives-and-e-numbers
 * https://www.rohlik.cz/ecka
 * https://world.openfoodfacts.org/  
-  
-&nbsp;  
+
+&nbsp;
 
 ## world wide cuisines
 * Indian  
