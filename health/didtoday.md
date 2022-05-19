@@ -80,7 +80,7 @@
 note : make sure **everyday** you complete **12 hours** without food (example 8pm - 8am)  
   
 ----------  
-  
+
 &nbsp; 
 [List of 14 Allergens](https://www.fsai.ie/legislation/food_legislation/food_information/14_allergens.html)  
 
@@ -98,7 +98,7 @@ note : make sure **everyday** you complete **12 hours** without food (example 8p
 12. Sulphur dioxide and sulphites (chemical compounds that can be naturally occurring E220 – E228)
 13. Lupin (λούπινο, όχι συνηθισμένο όσπριο)
 14. Molluscs (μαλάκια aka σαλιγκάρια, μύδια, στρείδια, χταπόδια, καλαμάρια)
-  
+
 &nbsp;  
 
 **e list**  
@@ -122,3 +122,6 @@ note : make sure **everyday** you complete **12 hours** without food (example 8p
   * [Bun-bo-nam-bo](https://arkady-rozvoz.banhmiba.cz/5ff33af52db8285180b5cba7) - rice noodles, beef, cucumber, carrot, lemon grass, peanuts, mung sprouts, fried onions, Thai nettle, perilla (shisho leaves), coriander [1](https://delightfulplate.com/vietnamese-beef-noodle-salad-bun-bo-xao/) [2](https://www.takeaway.com/foodwiki/vietnam/bun-bo-nam-bo/)
     * [Bun-bo-xao](https://www.thespruceeats.com/vietnamese-noodle-salad-with-lemongrass-beef-3030400) is the same except in the end stir-fried 
   * Pho-bo (soup) - broth (beef, pork, chicken, onion, ginger, fish sauce), flat rice noodles, red onion, gourmet onion, soy sprouts, coriander, lemon, chili peppers, beef  
+
+## mix
+* fish - edible salt, dried onion, mustard, white ground, cane sugar, glucose, parsley root 4%, carrot, turmeric ground, red pepper crushed, chilli crushed, dill root 2%, lemon powder, celery root, anti-caking agent: silicon dioxide. They can contain traces of cereals containing gluten, soy, milk, sesame and sulfur dioxide.
