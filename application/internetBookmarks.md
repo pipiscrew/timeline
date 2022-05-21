@@ -25,6 +25,7 @@
 * [Todays Front Pages](https://www.freedomforum.org/todaysfrontpages/)
 * [NewScan](https://files.rayogram.com/news/)
 * [pressreader](https://www.pressreader.com/)  
+* [ACM Digital Library Archive](https://dl.acm.org/) -  50 Years of Published Records  
 
 ## translators
 * [DocTranslator](https://www.onlinedoctranslator.com/en/translationform) - Translate PDF and outputs PDF, at the moment Yandex / Google cant do this.

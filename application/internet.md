@@ -219,6 +219,7 @@ To disable multiple running processes of the browser, you can set `browser.tabs.
 * [UltraVNC](https://www.uvnc.com/) - Remote PC network access
 * [AnyDesk](https://anydesk.com/en) - Remote Desktop anywhere, anytime
 * [TeamViewer](https://www.teamviewer.com/) - Control, manage, monitor, and repair computers
+* [Rustdesk](https://rustdesk.com/) - TeamViewer alternative
 * [mRemoteNG](https://mremoteng.org/) - RDP connections manager
 * (discontinued) [Microsoft.Remote Desktop Connection Manager](https://filehippo.com/download_remote_desktop_connection_manager/) - RDP connections manager
 
