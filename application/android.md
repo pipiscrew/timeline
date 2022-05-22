@@ -1,4 +1,4 @@
-Mail - [K-9 Mail](https://play.google.com/store/apps/details?id=com.fsck.k9)  
+Mail - [K-9 Mail](https://play.google.com/store/apps/details?id=com.fsck.k9) / [FairEmail](https://f-droid.org/en/packages/eu.faircode.email/)  
 Firewall - [NetGuard](https://play.google.com/store/apps/details?id=eu.faircode.netguard)  
 Launcher - [Evie](https://m.apkpure.com/evie-launcher/is.shortcut) (gplay deprecated)  
 Scanner - [CamScanner](https://play.google.com/store/apps/details?id=com.intsig.camscanner)  
