@@ -831,7 +831,7 @@
   * [Twitter is adding an edit button](https://www.theverge.com/2022/4/5/23011327/twitter-edit-button-blue-test)
   * [The majority of Atlassian cloud services have been down for a subset of users for over 24 hours](https://old.reddit.com/r/sysadmin/comments/txibov/the_majority_of_atlassian_cloud_services_have/)
   * [Using a Macbook as a gaming console (Step 1: Install Windows #haaaaaaaaaaaaaaa)](https://rockbruno.com/using-a-macbook-pro-as-a-gaming-console)
-  * [A WebGL Music Visualizer - A WebGL Spotify visualizer made with Vue, D3, and Three (vnice shit - 'Version 1.0 - Holy shit, it's working` #haha)](https://github.com/zachwinter/kaleidosync)
+  * [A WebGL Music Visualizer - A WebGL Spotify visualizer made with Vue, D3, and Three](https://github.com/zachwinter/kaleidosync)
     * [2](https://news.ycombinator.com/item?id=30929909)
   * [Dall-E 2 - AI system that can create realistic images](https://openai.com/dall-e-2/)
     * [2](https://twitter.com/nickcammarata/status/1511861061988892675)
