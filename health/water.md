@@ -1,4 +1,4 @@
-read more about [water](https://www.pipiscrew.com/2017/07/water-explained/).
+read more about [water](https://www.pipiscrew.com/threads/water-explained.5738/).
 
 * (magnetic anti-limescale for shower) [meliconi.SOS Calcare Doccia](https://www.meliconi.com/en/product/sos-calcare-doccia/) powered by [Neodymium magnets](https://en.wikipedia.org/wiki/Neodymium_magnet)
 	* When water passes through the magnetic filter (2 magnets), it causes the "hard salts" (calcium and magnesium ions) to break down, turning them into aragonite, avoiding the formation of a limestone crust forever.

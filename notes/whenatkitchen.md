@@ -69,6 +69,8 @@
 - Let trickle 125ml, wait 1min, trickle 125ml, wait 1min, trickle 125ml
 - Close the machine, clean the water tank.  
 
+## krups suugestion
+**​Arabica** coffee offers the best taste and is naturally low in caffeine. Experiment with different types, mixtures, and degrees of roasting to find what works best for you. In general, the darker the roasting, the more pronounced the taste of coffee. Delicate roasting gives a rich aroma, and the result is a delicate coffee with a full flavor-for true connoisseurs! Quality coffee should only be roasted gently so that its true richness, softness and completeness stand out. **Avoid** too **dark** roasted grains, they are more **oily** and can **clog** the device. Check that there are no small stones between the grains that could damage the device at the same time. Never use instant or ground coffee.  
 
 &nbsp;
 ## first day lunch

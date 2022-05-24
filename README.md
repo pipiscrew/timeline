@@ -25,7 +25,7 @@
   * [Rustdesk – Remote desktop software, an open source TeamViewer alternative](https://rustdesk.com/)
     * [2](https://news.ycombinator.com/item?id=31456007)
   * [Lotus 1-2-3 for UNIX Ported to Linux](https://lock.cmpxchg8b.com/linux123.html)
-    * [2](https://scenelist.org/)
+    * [SCiZE BBS](https://scenelist.org/)
   * [World’s largest vertical strawberry farm opens in Jersey City](https://njbiz.com/worlds-largest-vertical-strawberry-farm-opens-in-jersey-city/)
   * [On Aging Alone](https://thewalrus.ca/on-aging-alone/)
   * [msImpersonate - User account impersonation written in pure Python3](https://github.com/dievus/msImpersonate)
