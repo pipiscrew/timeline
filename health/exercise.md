@@ -8,6 +8,8 @@ Type : Anaerobic
 
 [NEXT Workout - Push Up That Will Change Your Life](https://www.youtube.com/watch?v=S_gIr7FfWi4)  
 
+[How to Master the Push-Up](https://www.nytimes.com/2022/05/18/well/move/how-to-master-the-push-up.html)  
+
 ## yoga
 
 Type : Aerobic  

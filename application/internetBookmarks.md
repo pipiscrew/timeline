@@ -62,7 +62,7 @@
   * [2](https://github.com/ArchiveBox/ArchiveBox)
 * [archive.today](https://archive.ph/) - Archive any webpage
 * [DocumentCloud](https://www.documentcloud.org) - upload pdf, annotate, extract text, publish
-* [SmallPDF]](https://smallpdf.com/word-to-pdf) - docx to pdf (~90% than the original Word PDF)  
+* [SmallPDF](https://smallpdf.com/word-to-pdf) - docx to pdf (~90% than the original Word PDF)  
 
 
 ## videos
@@ -73,6 +73,7 @@
   * [2](https://github.com/TeamPiped/Piped)
 * [lite youtube](https://yt.dorper.me/)
 * [Vimeo](https://vimeo.com/)  
+* [Veed](https://www.veed.io/) - Upload video without account
 * [Dailymotion](https://www.dailymotion.com)  
 * [Brighteon](https://www.brighteon.com/)
 * [BitChute](https://www.bitchute.com/)
@@ -223,13 +224,13 @@
 ## misc
 * [Earthquakes](https://www.emsc-csem.org/Earthquake/)
 * [Earthquake Track](https://earthquaketrack.com/)
-* [Evozi.APK Downloader](https://apps.evozi.com/apk-downloader/)
 * (chrome) [CRX Extractor](https://crxextractor.com/)
-* [WiFi Card](https://wificard.io/)
+* [WiFi Card](https://wificard.io/) - print a simple card with your WiFi login details
 * [Libera IRC network](https://web.libera.chat/)  &nbsp; [predefined link](https://web.libera.chat/?nick=testuser&c=#test)
 * [jitsi](https://jitsi.org/) - web chat / video call
 * [webpage archive](https://archive.is/) or [2](https://archive.today/)
-* [stellarium](https://stellarium.org/)  
+* [stellarium](https://stellarium.org/) - planetarium on your computer
+* [Steg Cloak](https://stegcloak.surge.sh/) - hide secrets with invisible characters in plain text securely [github](https://github.com/KuroLabs/stegcloak)
 
 ## cpu
 * [CPU-Z](https://www.cpuid.com/downloads/cpu-z/cpu-z_1.96-en.zip) - information for cpu

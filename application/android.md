@@ -34,5 +34,6 @@ Game [EDGE](https://play.google.com/store/apps/details?id=net.mobigame.edge.demo
 * [apkonline](https://www.apkonline.net/free-android-online-emulator/run-android-online-emulator) - android emulator online (can download and install APK)
 * [raccoon.APK Downloader for PC](https://raccoon.onyxbits.de/)
   * [Manually installing split APK files (App Bundles) via ADB](https://raccoon.onyxbits.de/blog/install-split-apk-adb/)  
-* [evozi - download APK by namespace](https://apps.evozi.com/apk-downloader/)
+* [Evozi.APK Downloader](https://apps.evozi.com/apk-downloader/)
+* [How to Remove Samsung Bloatware without Root](https://technastic.com/remove-samsung-bloatware-safe-to-remove-apps/)  
  

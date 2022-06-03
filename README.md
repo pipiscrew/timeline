@@ -76,7 +76,6 @@
   * [Deepfakes can fool biometric checks used by banks](https://www.dailydot.com/debug/biometric-checks-kyc-deepfake-vulnerability/)
   * [Taking Sim City 2000 into pieces](https://blog.krusher.net/en/2017/12/taking-sim-city-2000-into-pieces/)
   * [The Last of the Mohicans](https://youtube.com/watch?v=o7UoY19LNbs)
-  * [PHP - Malware Scanner myass](https://www.pastebin.cz/en/p/1dFEjvM)
   * [Interactive decompilation with rellic-xref](https://blog.trailofbits.com/2022/05/17/interactive-decompilation-with-rellic-xref/)
   * [Reverse Engineering (electron) Discord's Party Mode](https://not-matthias.github.io/posts/discord-party-mode/)
   * [Git ignores gitignore with gitignore in gitignore](https://rubenerd.com/git-ignores-gitignore-with-gitignore-in-gitignore/)

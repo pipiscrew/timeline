@@ -59,15 +59,17 @@
 * **Paper filters** produce a **brighter**, sweeter cup of coffee with little or **no** sediment or oils, helping cut out the bad cholesterol found in coffee.
 
 ### clean an espresso machine
-- Add to water tank 125ml vinegar + 375ml water
+- Add to water tank 125ml white vinegar + 375ml water, attach the filter holder (empty)
 - Turn on the machine and wait the led to light
-- Let trickle 125ml, close the machine
+- Let trickle 125ml, turn off the machine
 - Wait 5 / 10 minutes
 - Redo the operator 2 times.
 - Clean the water tank, add 400ml pure water
 - Turn on the machine and wait the led to light
 - Let trickle 125ml, wait 1min, trickle 125ml, wait 1min, trickle 125ml
 - Close the machine, clean the water tank.  
+- Diluted vinegar will [not damage](https://coffee.stackexchange.com/a/4205) the boiler or hoses in your espresso machine.
+- Official descaler ingredients : Water / Citrid acid, monohydrate / Lactic acid / Etidronic acid  
 
 ## krups suugestion
 **​Arabica** coffee offers the best taste and is naturally low in caffeine. Experiment with different types, mixtures, and degrees of roasting to find what works best for you. In general, the darker the roasting, the more pronounced the taste of coffee. Delicate roasting gives a rich aroma, and the result is a delicate coffee with a full flavor-for true connoisseurs! Quality coffee should only be roasted gently so that its true richness, softness and completeness stand out. **Avoid** too **dark** roasted grains, they are more **oily** and can **clog** the device. Check that there are no small stones between the grains that could damage the device at the same time. Never use instant or ground coffee.  
