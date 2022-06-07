@@ -28,6 +28,7 @@ Video Capture - [Cinema FV-5 Lite](https://play.google.com/store/apps/details?id
 [tinyCam Monitor](https://play.google.com/store/apps/details?id=com.alexvas.dvr.pro)  
 Game [Rider](https://play.google.com/store/apps/details?id=com.ketchapp.rider)  
 Game [EDGE](https://play.google.com/store/apps/details?id=net.mobigame.edge.demo)  
+Screensaver [XScreenSaver](https://play.google.com/store/apps/details?id=org.jwz.android.xscreensaver)  
 
 
 * [vysor](https://www.vysor.io/) - puts your iOS or Android on your desktop

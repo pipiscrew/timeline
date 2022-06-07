@@ -6,4 +6,3 @@
 * [Music theory for nerds](https://eev.ee/blog/2016/09/15/music-theory-for-nerds/)
 * [New Links Found Between Musical Training and Cognitive Ability](https://neurosciencenews.com/musical-training-cognition-20467/)  
 * [Eye contact between musicians](https://www.classical-music.com/features/articles/just-how-important-is-eye-contact-between-musicians-and-what-does-it-signal/)  
-* [Heart can shoot water six feet into the air](https://davidprice-26453.medium.com/the-heart-is-a-lonely-universe-3361be8a487d)  

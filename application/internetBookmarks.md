@@ -162,6 +162,7 @@
 * [jango](https://www.jango.com/) - spotify alternative  
 
 ## search engines
+* [>> Search Engine Party <<](https://searchengine.party/)
 * (france) [Qwant](https://www.qwant.com/)
 * [Startpage](https://www.startpage.com/) - get google results without garbage
 * [wiby](https://wiby.org/)
