@@ -1,11 +1,11 @@
-# Creatine monohydrate  
+# Creatine monohydrate
 
 Is formed of three amino acids :  
 * arginine
 * glycine
 * methionine
 
- It is an amino acid derivative, naturally produced in the human body from the amino acids **glycine** and **arginine**, with an additional requirement for **methionine** to catalyze the transformation of guanidinoacetate to creatine. [src](https://en.wikipedia.org/wiki/Creatine)  
+It is an amino acid derivative, naturally produced in the human body from the amino acids **glycine** and **arginine**, with an additional requirement for **methionine** to catalyze the transformation of guanidinoacetate to creatine. [src](https://en.wikipedia.org/wiki/Creatine)  
 
 **Dose** : 3.5gr / day.  
 
