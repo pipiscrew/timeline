@@ -40,17 +40,18 @@ Is formed of three amino acids :
 # EAA
 
 Is formed by **all nine essential** amino acids :  
+
 | Amino Acid               | Primary   functions                                                            |
 |--------------------------|--------------------------------------------------------------------------------|
 | Histidine                | Nerve protection, immune function                                              |
-| Isoleucine (**BCAA**) | Muscle metabolism, immune function, energy from fats and carbohydrates         |
-| Leucine (**BCAA**)    | Muscle repair, blood sugar control, energy from fats, protein synthesis        |
+| Isoleucine (**BCAA**)    | Muscle metabolism, immune function, energy from fats and carbohydrates         |
+| Leucine (**BCAA**)       | Muscle repair, blood sugar control, energy from fats, protein synthesis        |
 | Lysine                   | Protein and collagen production, calcium absorption, immune function           |
 | Methionine               | Growth and metabolism of energy from food                                      |
 | Phenylalanine            | Enzyme and neurotransmitter function                                           |
 | Threonine                | Structural tissue, immune function, fat metabolism                             |
 | Tryptophan               | Used to make serotonin and melatonin, which regulate appetite, mood, and sleep |
-| Valine (**BCAA**)     | Stimulates muscle growth and energy from carbohydrates                         |
+| Valine (**BCAA**)        | Stimulates muscle growth and energy from carbohydrates                         |
 
 **Dose** : 8-10.7gr / day.  
 
