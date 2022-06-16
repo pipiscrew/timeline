@@ -15,8 +15,6 @@
 	* [amiga](/notes/amiga.md)
 	* [music](/notes/music.md)
 	* [wp2heroku](/notes/wp2heroku.md)
-	* [supplement](/notes/supplement.md)
-		* [vitamania](/notes/supplementVitamania.md)  
 	* when at  
 	    * [search](/notes/whenatsearch.md)
 	    * [work](/notes/whenatwork.md)
@@ -45,5 +43,7 @@
 	* [did i today](/health/didtoday.md)
 	* [skin](/health/skin.md)
 	* [articles](/health/articles.md)
+	* [supplement](/health/supplement.md)
+		* [vitamania](/health/supplementVitamania.md)
 	* [covid](/health/wcovid.md)
 	* [covidGR](/health/wcovidGR.md)

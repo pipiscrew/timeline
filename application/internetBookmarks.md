@@ -48,6 +48,7 @@
 * (client side) [WebUtils.Compress Image](https://www.webutils.app/) - convert to size & different formats has also text compare.
 * (client side) [HexEdit](https://hexed.it/) - for binaries
 * [tinypng](https://tinypng.com/)
+* [ezgif](https://ezgif.com/) - gif/webp support
 * [Squoosh](https://squoosh.app) - for image
 * [Vertexshare.Image Upscaler by AI](https://vertexshare.com/image-upscaler.html) - Upscale and increase image size and resolution without losing quality.
 * (client side) [Local PDF Tools](https://localpdf.tech/)
