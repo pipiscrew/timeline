@@ -73,3 +73,27 @@ products - [Biotech](https://shop.biotechusa.com/products/eaa-zero-350-g?variant
 Proteins are the foundation **of amino acids**. In order to render amino acids form protein molecules proteins must be digested via the **gastrointestinal tract**, GI. This involves stomach hydrochloric acid secretion on large protein molecules, then pancreatic secretion of the protease breaking down longer amino chains, and finally the breakdown into smaller fragments in the small intestine to form free amino's and some small peptides with the enzyme peptidease. Most amino acids are then subject to transportation to the liver and some metabolism in the viscera (splanchec) area and the stomach mucosal area. (4) Free **BCAA’s** are a little different in that they are directly **transported to the bloodstream through the liver**, while some exchange in the intestinal viscera and go directly to the bloodstream also. Most all amino acids can be degradated, broken down, in the liver effectively, with the **exception** of BCAA’s. The liver oxidizes the BCAA’s from their converted form called oxo-Keto acids. This means that basic BCAA’s are not metabolized by the liver directly. Ultimately large percentages of the BCAA’S are oxidized by the muscle tissue and some by fat (adipose) tissue (5) The largest percentage of oxidation occurs in muscle tissue (Organ Specific Muscle) [src](https://www.huhs.edu/literature/BCAA.pdf)  
 
 (2007) [FAO/WHO/UNU Expert Consultation - Protein and Amino Acid Requirements in Human Nutrition](http://apps.who.int/iris/bitstream/handle/10665/43411/WHO_TRS_935_eng.pdf)  
+
+---  
+
+# 2022 - [New Research: Are BCAAs bad for you?](https://advancedmolecularlabs.com/blogs/news/new-research-are-bcaas-bad-for-you)
+
+MAR 2022 - [BCAAs are strongly linked and correlated with poor metabolic health including metabolic syndrome and cardiac arrhythmias](https://www.onlinecjc.ca/article/S0828-282X(22)00197-0/fulltext)
+
+MAR 2022 - [Higher blood levels of BCAAs are linked and associated to pancreatic cancer in humans](https://www.cambridge.org/core/journals/british-journal-of-nutrition/article/dietary-intake-of-branchedchain-amino-acids-and-pancreatic-cancer-risk-in-a-casecontrol-study-from-italy/4E75F15A51D19ADD2BDDBDCF2DC6E70A) 
+
+JAN 2022 - [Limiting BCAAS in the diet may delay aging and promote healthy longevity](https://www.nature.com/articles/s41580-021-00411-4)
+
+AUG 2021 - [Insulin resistance and diabetes](https://onlinelibrary.wiley.com/doi/10.1002/dmrr.3490)
+
+APR 2021 - [The adverse metabolic effects of branched-chain amino acids are mediated by isoleucine and valine](https://www.cell.com/cell-metabolism/fulltext/S1550-4131(21)00166-2)
+
+DEC 2021 - [Diabetes Remission Is Modulated by Branched Chain Amino Acids](https://onlinelibrary.wiley.com/doi/10.1002/mnfr.202100652)
+
+AUG 2018 - [High circulating BCAAs were negatively associated with free fatty acid concentrations](https://academic.oup.com/clinchem/article/64/8/1203/5608751)
+
+JUN 2018 - [BCAA valine is strongly linked and correlated to insulin resistance and diabetes](https://www.hindawi.com/journals/jdr/2018/4207067/)
+
+MAY 2018 - [Diabetes researchers find switch for fatty liver disease](https://www.sciencedaily.com/releases/2018/05/180517113847.htm)
+
+JUL 2016 -  [Increased abdominal visceral fat including inflammation, cardiovascular disease and type 2 diabetes](https://www.sciencedirect.com/science/article/abs/pii/S093947531530301X)

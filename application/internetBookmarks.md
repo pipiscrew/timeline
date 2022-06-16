@@ -174,7 +174,7 @@
   * [drugs - galinos GR](https://www.galinos.gr/)
   * [drugs - emc UK](https://www.medicines.org.uk/)
 * [lumpysoft.Google index search](https://lumpysoft.com/)  
-* [nixnet.searX](https://searx.nixnet.services/)  
+* [nixnet.searX](https://searx.nixnet.services/) [github](https://github.com/searx/searx)  [acronyms](https://searx.github.io/searx/admin/engines.html)
 * [brave search](https://search.brave.com/)  
 * (belgium) [SearXNG](https://searx.be)
 * [occamm](https://www.occamm.com/) - refine your queries  
