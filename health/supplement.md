@@ -11,9 +11,7 @@ It is an amino acid derivative, naturally produced in the human body from the am
 
 4gr creatine in 1kg any type of meat...  
 
-products :  
-* [Biotech](https://shop.biotechusa.com/products/100-micronized-creatine-monohydrate-500-g)
-* [Nutrend](https://www.nutrend-supplements.com/creatine-monohydrate-d12501.htm)
+products - [Biotech](https://shop.biotechusa.com/products/100-micronized-creatine-monohydrate-500-g) / * [Nutrend](https://www.nutrend-supplements.com/creatine-monohydrate-d12501.htm)
 
 &nbsp;
 &nbsp;
@@ -40,10 +38,7 @@ Is formed of three amino acids :
 
 [more](https://www.healthline.com/nutrition/benefits-of-bcaa)  
 
-products :  
-* [Biotech](https://shop.biotechusa.com/products/bcaa-zero-amino-acids-360-g?variant=29472154746950)
-* [Nutrend](https://www.nutrend-supplements.com/bcaa-2-1-1-powder-d15808.htm)
-* [Nutrabolt.Xtend](https://cellucor.com/collections/xtend?shopify_products%5BrefinementList%5D%5Bnamed_tags.category%5D%5B0%5D=Aminos%20%26%20BCAAs)
+products - [Biotech](https://shop.biotechusa.com/products/bcaa-zero-amino-acids-360-g?variant=29472154746950) / [Nutrend](https://www.nutrend-supplements.com/bcaa-2-1-1-powder-d15808.htm) / [Nutrabolt.Xtend](https://cellucor.com/collections/xtend?shopify_products%5BrefinementList%5D%5Bnamed_tags.category%5D%5B0%5D=Aminos%20%26%20BCAAs)
 
 &nbsp;
 &nbsp;
@@ -68,9 +63,8 @@ Is formed by **all nine essential** amino acids :
 
 [more](https://us.myprotein.com/thezone/supplements/everything-you-should-know-about-eaas-are-they-superior-to-bcaas/)  
 
-products :
-* [Biotech](https://shop.biotechusa.com/products/eaa-zero-350-g?variant=29472173031494)
-* [Nutrend](https://www.nutrend-supplements.com/eaa-mega-strong-powder-d15757.htm)
+products - [Biotech](https://shop.biotechusa.com/products/eaa-zero-350-g?variant=29472173031494) / [Nutrend](https://www.nutrend-supplements.com/eaa-mega-strong-powder-d15757.htm)
+
 &nbsp;
 &nbsp;
 
