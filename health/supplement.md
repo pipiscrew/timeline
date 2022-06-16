@@ -56,3 +56,9 @@ Is formed by **all nine essential** amino acids :
 **Dose** : 8-10.7gr / day.  
 
 [more](https://us.myprotein.com/thezone/supplements/everything-you-should-know-about-eaas-are-they-superior-to-bcaas/)  
+&nbsp;
+&nbsp;
+
+---  
+
+(2007) [FAO/WHO/UNU Expert Consultation - Protein and Amino Acid Requirements in Human Nutrition](http://apps.who.int/iris/bitstream/handle/10665/43411/WHO_TRS_935_eng.pdf)  
