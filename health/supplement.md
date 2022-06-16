@@ -11,7 +11,7 @@ It is an amino acid derivative, naturally produced in the human body from the am
 
 4gr creatine in 1kg any type of meat...  
 
-products - [Biotech](https://shop.biotechusa.com/products/100-micronized-creatine-monohydrate-500-g) / * [Nutrend](https://www.nutrend-supplements.com/creatine-monohydrate-d12501.htm)
+products - [Biotech](https://shop.biotechusa.com/products/100-micronized-creatine-monohydrate-500-g) / [Nutrend](https://www.nutrend-supplements.com/creatine-monohydrate-d12501.htm)
 
 &nbsp;
 &nbsp;
