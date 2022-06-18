@@ -70,9 +70,21 @@ products - [Biotech](https://shop.biotechusa.com/products/eaa-zero-350-g?variant
 
 ---  
 
-Proteins are the foundation **of amino acids**. In order to render amino acids form protein molecules proteins must be digested via the **gastrointestinal tract**, GI. This involves stomach hydrochloric acid secretion on large protein molecules, then pancreatic secretion of the protease breaking down longer amino chains, and finally the breakdown into smaller fragments in the small intestine to form free amino's and some small peptides with the enzyme peptidease. Most amino acids are then subject to transportation to the liver and some metabolism in the viscera (splanchec) area and the stomach mucosal area. (4) Free **BCAA’s** are a little different in that they are directly **transported to the bloodstream through the liver**, while some exchange in the intestinal viscera and go directly to the bloodstream also. Most all amino acids can be degradated, broken down, in the liver effectively, with the **exception** of BCAA’s. The liver oxidizes the BCAA’s from their converted form called oxo-Keto acids. This means that basic BCAA’s are not metabolized by the liver directly. Ultimately large percentages of the BCAA’S are oxidized by the muscle tissue and some by fat (adipose) tissue (5) The largest percentage of oxidation occurs in muscle tissue (Organ Specific Muscle) [src](https://www.huhs.edu/literature/BCAA.pdf)  
+![img](../assets/aminoacids.jpg)
+
+* Whey Protein - essential and not essential amino acids
+* EAA - all essential amino acids
+* BCAA - 3 most wamted essential amino acids
+
+Proteins are the foundation **of amino acids**. In order to render amino acids form protein molecules proteins must be digested via the **gastrointestinal tract**, GI. This involves stomach hydrochloric acid secretion on large protein molecules, then pancreatic secretion of the protease breaking down longer amino chains, and finally the breakdown into smaller fragments in the small intestine to form free amino's and some small peptides with the enzyme peptidease. Most amino acids are then subject to transportation to the liver and some metabolism in the viscera (splanchec) area and the stomach mucosal area.   
+
+Free **BCAA’s** are a little different in that they are directly **transported to the bloodstream through the liver**, while some exchange in the intestinal viscera and go directly to the bloodstream also. Most all amino acids can be degradated, broken down, in the liver effectively, with the **exception** of BCAA’s. The liver oxidizes the BCAA’s from their converted form called oxo-Keto acids. This means that basic BCAA’s are not metabolized by the liver directly. Ultimately large percentages of the BCAA’S are oxidized by the muscle tissue and some by fat (adipose) tissue The largest percentage of oxidation occurs in muscle tissue (Organ Specific Muscle) [src](https://www.huhs.edu/literature/BCAA.pdf)  
+
+> Source of Whey Protein / EAA / BCAA are dairy products (mostly cheese).  
 
 (2007) [FAO/WHO/UNU Expert Consultation - Protein and Amino Acid Requirements in Human Nutrition](http://apps.who.int/iris/bitstream/handle/10665/43411/WHO_TRS_935_eng.pdf)  
+
+[CZ - Institute of modern nutrition](https://www.institutmodernivyzivy.cz/)  
 
 ---  
 
