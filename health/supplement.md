@@ -80,6 +80,8 @@ Proteins are the foundation **of amino acids**. In order to render amino acids f
 
 Free **BCAA’s** are a little different in that they are directly **transported to the bloodstream through the liver**, while some exchange in the intestinal viscera and go directly to the bloodstream also. Most all amino acids can be degradated, broken down, in the liver effectively, with the **exception** of BCAA’s. The liver oxidizes the BCAA’s from their converted form called oxo-Keto acids. This means that basic BCAA’s are not metabolized by the liver directly. Ultimately large percentages of the BCAA’S are oxidized by the muscle tissue and some by fat (adipose) tissue The largest percentage of oxidation occurs in muscle tissue (Organ Specific Muscle) [src](https://www.huhs.edu/literature/BCAA.pdf)  
 
+The three BCAAs are leucine, isoleucine, and valine. They’re considered the most **anabolic** of the nine EAAs and have therefore been marketed as a sports supplement. It is however possible that only leucine is especially anabolic, and that leucine taken alone is actually more anabolic than leucine taken with isoleucine and valine, due to competition for both absorption in the gut and entry into muscle tissue. [src](https://examine.com/supplements/branched-chain-amino-acids/)  
+
 > Source of Whey Protein / EAA / BCAA are dairy products (mostly cheese).  
 
 (2007) [FAO/WHO/UNU Expert Consultation - Protein and Amino Acid Requirements in Human Nutrition](http://apps.who.int/iris/bitstream/handle/10665/43411/WHO_TRS_935_eng.pdf)  
