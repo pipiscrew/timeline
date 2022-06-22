@@ -86,6 +86,8 @@ Several studies showed that **aromatic amino acids** (aka those have an aromatic
 
 Branched-chain amino acids (BCAAs) **compete** with **aromatic amino acids** to transfer from **blood-brain barrier**. Therefore, the **higher** BCAAs concentrations in the blood, the **lower** aromatic amino acids will be **observed** in the brain. Therefore, it is possible that reductions in brain concentrations of aromatic amino acids will subsequently reduce the synthesis and the **release of neurotransmitters** associated with aromatic amino acids.  [src](https://nutritionj.biomedcentral.com/articles/10.1186/s12937-021-00670-z)  [2](https://www.nutraingredients.com/Article/2021/03/04/BCAAs-may-reduce-risk-of-anxiety-and-depression-says-study)  
 
+> When a portion of the neurons in the brain are damaged leading to a decrease in the release of neurotransmitter [src](https://www.dropbox.com/s/kp3rpelncqok33m/Effects%20of%20nutrients%20on%20brain%20function-maher2000.pdf?dl=1)  
+
 > Source of Whey Protein / EAA / BCAA are dairy products (mostly cheese).  
 
 (2007) [FAO/WHO/UNU Expert Consultation - Protein and Amino Acid Requirements in Human Nutrition](http://apps.who.int/iris/bitstream/handle/10665/43411/WHO_TRS_935_eng.pdf)  
