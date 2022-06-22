@@ -82,6 +82,10 @@ Free **BCAA’s** are a little different in that they are directly **transported
 
 The three BCAAs are leucine, isoleucine, and valine. They’re considered the most **anabolic** of the nine EAAs and have therefore been marketed as a sports supplement. It is however possible that only leucine is especially anabolic, and that leucine taken alone is actually more anabolic than leucine taken with isoleucine and valine, due to competition for both absorption in the gut and entry into muscle tissue. [src](https://examine.com/supplements/branched-chain-amino-acids/)  
 
+Several studies showed that **aromatic amino acids** (aka those have an aromatic ring in the side-chain) such as tryptophan, tyrosine, and phenylalanine might be useful in **treating** depression by **producing neurotransmitters**.  
+
+Branched-chain amino acids (BCAAs) **compete** with **aromatic amino acids** to transfer from **blood-brain barrier**. Therefore, the **higher** BCAAs concentrations in the blood, the **lower** aromatic amino acids will be **observed** in the brain. Therefore, it is possible that reductions in brain concentrations of aromatic amino acids will subsequently reduce the synthesis and the **release of neurotransmitters** associated with aromatic amino acids.  [src](https://nutritionj.biomedcentral.com/articles/10.1186/s12937-021-00670-z)  [2](https://www.nutraingredients.com/Article/2021/03/04/BCAAs-may-reduce-risk-of-anxiety-and-depression-says-study)  
+
 > Source of Whey Protein / EAA / BCAA are dairy products (mostly cheese).  
 
 (2007) [FAO/WHO/UNU Expert Consultation - Protein and Amino Acid Requirements in Human Nutrition](http://apps.who.int/iris/bitstream/handle/10665/43411/WHO_TRS_935_eng.pdf)  
