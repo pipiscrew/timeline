@@ -86,13 +86,31 @@ Several studies showed that **aromatic amino acids** (aka those have an aromatic
 
 Branched-chain amino acids (BCAAs) **compete** with **aromatic amino acids** to transfer from **blood-brain barrier**. Therefore, the **higher** BCAAs concentrations in the blood, the **lower** aromatic amino acids will be **observed** in the brain. Therefore, it is possible that reductions in brain concentrations of aromatic amino acids will subsequently reduce the synthesis and the **release of neurotransmitters** associated with aromatic amino acids.  [src](https://nutritionj.biomedcentral.com/articles/10.1186/s12937-021-00670-z)  [2](https://www.nutraingredients.com/Article/2021/03/04/BCAAs-may-reduce-risk-of-anxiety-and-depression-says-study)  
 
-> When a portion of the neurons in the brain are damaged leading to a decrease in the release of neurotransmitter [src](https://www.dropbox.com/s/kp3rpelncqok33m/Effects%20of%20nutrients%20on%20brain%20function-maher2000.pdf?dl=1)  
-
 > Source of Whey Protein / EAA / BCAA are dairy products (mostly cheese).  
 
-(2007) [FAO/WHO/UNU Expert Consultation - Protein and Amino Acid Requirements in Human Nutrition](http://apps.who.int/iris/bitstream/handle/10665/43411/WHO_TRS_935_eng.pdf)  
+---
 
-[CZ - Institute of modern nutrition](https://www.institutmodernivyzivy.cz/)  
+
+| RDA for Adults           | mg per body kg per day |
+| ------------------------ | ---------------------- |
+| histidine                | 14 mg/kg/d             |
+| isoleucine               | 19 mg/kg/d             |
+| leucine                  | 42 mg/kg/d             |
+| lysine                   | 38 mg/kg/d             |
+| methionine + cysteine    | 19 mg/kg/d             |
+| phenylalanine + tyrosine | 33 mg/kg/d             |
+| threonine                | 20 mg/kg/d             |
+| tryptophan               | 5 mg/kg/d              |
+| valine                   | 4 mg/kg/d              |  
+
+[src - page 708](http://www.nap.edu/catalog/10490.html) - [mirror](https://www.dropbox.com/s/dlyhwto0l612rl8/NAP%20-%20Dietary%20Reference%20Intakes.pdf?dl=1)  
+
+> When a portion of the neurons in the brain are damaged leading to a decrease in the release of neurotransmitter [src](https://www.dropbox.com/s/kp3rpelncqok33m/Effects%20of%20nutrients%20on%20brain%20function-maher2000.pdf?dl=1)  
+
+* (2007) [FAO/WHO/UNU Expert Consultation - Protein and Amino Acid Requirements in Human Nutrition](http://apps.who.int/iris/bitstream/handle/10665/43411/WHO_TRS_935_eng.pdf)  
+* [CZ - Institute of modern nutrition](https://www.institutmodernivyzivy.cz/)  
+* [Greek - Αμινοξέα Διακλαδισμένης Αλύσου - τι προσφέρουν στον αθλούμενο](https://wp.me/p43koD-3Fo)  
+* [Greek - Διαγνωστική Αθηνών - Αμινοξέα Αίματος](https://athenslab.gr/exetaseis-prolipsis/aminoxea-aimatos-657)  
 
 ---  
 
