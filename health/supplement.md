@@ -107,7 +107,7 @@ Branched-chain amino acids (BCAAs) **compete** with **aromatic amino acids** to 
 
 > When a portion of the neurons in the brain are damaged leading to a decrease in the release of neurotransmitter [src](https://www.dropbox.com/s/kp3rpelncqok33m/Effects%20of%20nutrients%20on%20brain%20function-maher2000.pdf?dl=1)  
 
-> (2021) We determined that gestational exposure to e-cig aerosols results in **significant alterations** to the **amino acid profile** in the maternal and fetal compartments, including the fetal lungs. The data shows a targeted disruption to the nitric oxide pathway, **branched-chain amino acid metabolism**, fetal **protein synthesis**, and urea cycle. [src](https://www.sciencedirect.com/science/article/pii/S2589936821000311)  
+> (2021) We determined that gestational exposure to **e-cig** aerosols results in **significant alterations** to the **amino acid profile** in the maternal and fetal compartments, including the fetal lungs. The data shows a targeted disruption to the nitric oxide pathway, **branched-chain amino acid metabolism**, fetal **protein synthesis**, and urea cycle. [src](https://www.sciencedirect.com/science/article/pii/S2589936821000311)  
 
 * (2015) [E-Cigarette Affects the Metabolome of Primary Normal Human Bronchial Epithelial Cells](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0142053%20)
 * (2007) [FAO/WHO/UNU Expert Consultation - Protein and Amino Acid Requirements in Human Nutrition](http://apps.who.int/iris/bitstream/handle/10665/43411/WHO_TRS_935_eng.pdf)  
