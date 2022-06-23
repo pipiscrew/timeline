@@ -11,7 +11,7 @@ It is an amino acid derivative, naturally produced in the human body from the am
 
 4gr creatine in 1kg any type of meat...  
 
-products - [Biotech](https://shop.biotechusa.com/products/100-micronized-creatine-monohydrate-500-g) / [Nutrend](https://www.nutrend-supplements.com/creatine-monohydrate-d12501.htm)
+brands - [Biotech](https://shop.biotechusa.com/products/100-micronized-creatine-monohydrate-500-g) / [Nutrend](https://www.nutrend-supplements.com/creatine-monohydrate-d12501.htm)
 
 &nbsp;
 &nbsp;
@@ -38,7 +38,7 @@ Is formed of three amino acids :
 
 [more](https://www.healthline.com/nutrition/benefits-of-bcaa)  
 
-products - [Biotech](https://shop.biotechusa.com/products/bcaa-zero-amino-acids-360-g?variant=29472154746950) / [Nutrend](https://www.nutrend-supplements.com/bcaa-2-1-1-powder-d15808.htm) / [Nutrabolt.Xtend](https://cellucor.com/collections/xtend?shopify_products%5BrefinementList%5D%5Bnamed_tags.category%5D%5B0%5D=Aminos%20%26%20BCAAs)
+brands - [Biotech](https://shop.biotechusa.com/products/bcaa-zero-amino-acids-360-g?variant=29472154746950) / [Nutrend](https://www.nutrend-supplements.com/bcaa-2-1-1-powder-d15808.htm) / [Nutrabolt.Xtend](https://cellucor.com/collections/xtend?shopify_products%5BrefinementList%5D%5Bnamed_tags.category%5D%5B0%5D=Aminos%20%26%20BCAAs)
 
 &nbsp;
 &nbsp;
@@ -63,7 +63,7 @@ Is formed by **all nine essential** amino acids :
 
 [more](https://us.myprotein.com/thezone/supplements/everything-you-should-know-about-eaas-are-they-superior-to-bcaas/)  
 
-products - [Biotech](https://shop.biotechusa.com/products/eaa-zero-350-g?variant=29472173031494) / [Nutrend](https://www.nutrend-supplements.com/eaa-mega-strong-powder-d15757.htm)
+brands - [Biotech](https://shop.biotechusa.com/products/eaa-zero-350-g?variant=29472173031494) / [Nutrend](https://www.nutrend-supplements.com/eaa-mega-strong-powder-d15757.htm)
 
 &nbsp;
 &nbsp;
@@ -94,14 +94,14 @@ Branched-chain amino acids (BCAAs) **compete** with **aromatic amino acids** to 
 | RDA for Adults           | mg per body kg per day |
 | ------------------------ | ---------------------- |
 | histidine                | 14 mg/kg/d             |
-| isoleucine               | 19 mg/kg/d             |
-| leucine                  | 42 mg/kg/d             |
+| isoleucine (**BCAA**)    | 19 mg/kg/d             |
+| leucine (**BCAA**)       | 42 mg/kg/d             |
 | lysine                   | 38 mg/kg/d             |
 | methionine + cysteine    | 19 mg/kg/d             |
 | phenylalanine + tyrosine | 33 mg/kg/d             |
 | threonine                | 20 mg/kg/d             |
 | tryptophan               | 5 mg/kg/d              |
-| valine                   | 4 mg/kg/d              |  
+| valine (**BCAA**)        | 4 mg/kg/d              |  
 
 [src - page 708](http://www.nap.edu/catalog/10490.html) - [mirror](https://www.dropbox.com/s/dlyhwto0l612rl8/NAP%20-%20Dietary%20Reference%20Intakes.pdf?dl=1)  
 
