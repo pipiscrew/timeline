@@ -117,7 +117,7 @@ Branched-chain amino acids (BCAAs) **compete** with **aromatic amino acids** to 
 
 ---  
 
-# 2022 - [New Research: Are BCAAs bad for you?](https://advancedmolecularlabs.com/blogs/news/new-research-are-bcaas-bad-for-you)
+# 2022 [New Research: Are BCAAs bad for you?](https://advancedmolecularlabs.com/blogs/news/new-research-are-bcaas-bad-for-you)
 [mirror](https://archive.ph/RQrch)  
 
 
