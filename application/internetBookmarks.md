@@ -208,6 +208,7 @@
 ## games
 * [JavaScript NES emulator](https://jsnes.fir.sh/)
 * [Lovatts.Sudoku](https://lovattspuzzles.com/online-puzzles-fullscreen/sudoku-fullscreen.php)
+* [OpenSky.Sudoku Generator](http://www.opensky.ca/~jdhildeb/software/sudokugen/)
 * [Mahjong](https://mahjon.gg/)
 * [Blocks](https://blocks.ovh/)
 * [Slices](https://slices.ovh/)
