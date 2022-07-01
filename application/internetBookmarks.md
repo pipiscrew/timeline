@@ -225,6 +225,7 @@
 * [Doodle](https://doodle.com/)
 * [Quizizz](https://quizizz.com/)
 * [Kahoot!](https://kahoot.com/)
+* [TUD](https://dud-poll.inf.tu-dresden.de/)
 
 ## misc
 * [Earthquakes](https://www.emsc-csem.org/Earthquake/)

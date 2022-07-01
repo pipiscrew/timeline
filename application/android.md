@@ -37,4 +37,5 @@ Screensaver [XScreenSaver](https://play.google.com/store/apps/details?id=org.jwz
   * [Manually installing split APK files (App Bundles) via ADB](https://raccoon.onyxbits.de/blog/install-split-apk-adb/)  
 * [Evozi.APK Downloader](https://apps.evozi.com/apk-downloader/)
 * [How to Remove Samsung Bloatware without Root](https://technastic.com/remove-samsung-bloatware-safe-to-remove-apps/)  
+* [Security First](https://secfirst.org/)  
  
