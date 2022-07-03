@@ -104,7 +104,7 @@ Branched-chain amino acids (BCAAs) **compete** with **aromatic amino acids** to 
 | valine (**BCAA**)        | 4 mg/kg/d                 | 280mg             | 1500mg           | 1500mg          | 125mg * 6 = 750mg      |
 | glutamine                | -                         |                   | 3200mg           | 700mg           | -                      |  
 
-(*) = manufacturer advise is 6 pills per day  
+(*) = [manufacturer](https://www.lambertshealthcare.co.uk/amino-acids/bcaa-branch-chain-amino-acids/bcaa-branch-chain-amino-acids/) advise is 6 pills per day  
 
 
 [src - page 708](http://www.nap.edu/catalog/10490.html) - [mirror](https://www.dropbox.com/s/dlyhwto0l612rl8/NAP%20-%20Dietary%20Reference%20Intakes.pdf?dl=1)  
