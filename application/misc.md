@@ -141,6 +141,7 @@
 * [weektodo](https://weektodo.me/) - Weekly Planner App
 * [Calendar.best](https://www.calendar.best/) - Printable calendars  
 * [Calendar Templates](https://www.vertex42.com/calendars/)
+* [Plain Text Calendar](https://terokarvinen.com/2021/calendar-txt/) - Keep your calendar in a plain text file, calendar.txt is versionable, supports all operating systems and easily syncs with Android mobile phone.
 * [PabloDraw ANSI](http://picoe.ca/products/pablodraw/)
 * [Ansilove](https://www.cambus.net/file-transfers-via-the-parallel-port-on-dos-using-laplink/) - tool to convert ANSI into PNG images
 * [KeepAliveHD](https://github.com/stsrki/KeepAliveHD) - prevents your hard drive to go into automatic standby mode  

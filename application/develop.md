@@ -54,6 +54,7 @@ git config --global credential.interactive never
 * [VSCELicense](https://github.com/1Dimitri/VSCELicense) - Visual Studio Community adjust license expiration date (vs2015-2019)
 * [java - Recaf](https://github.com/Col-E/Recaf)
 * [java - JD GUI](http://java-decompiler.github.io/)  
+* [JPEXS Flash Decompiler](https://github.com/jindrapetrik/jpexs-decompiler)
 * [Cryptpad](https://cryptpad.fr/) - Real-time collaborative kanban, whiteboard, docs, polls, todos  
 * [bitrix24](https://www.bitrix24.com/) - collaborate  
 
