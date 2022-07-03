@@ -72,7 +72,8 @@
 - Official descaler ingredients : Water / Citrid acid, monohydrate / Lactic acid / Etidronic acid  
 
 ### clean the filter basket
-* [video](https://youtu.be/vuRmnOiE03Q?t=83)
+* [video - burn the coffee](https://www.youtube.com/watch?v=q_YrpnsrscU) ([2](https://www.youtube.com/watch?v=E6oG_RYDqMo))
+* [video - use needle](https://youtu.be/vuRmnOiE03Q?t=83) - possible soak with baking soda and warm water before
 * [articles](https://www.google.com/search?q=espresso+filter+handle+clean)  
 
 ## krups suggestion
