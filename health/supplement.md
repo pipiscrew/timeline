@@ -91,18 +91,20 @@ Branched-chain amino acids (BCAAs) **compete** with **aromatic amino acids** to 
 ---
 
 
-| RDA for Adults           | RDA - mg * body kg / day  | RDA for 70kg body | nutrend per 10gr | biotech per 9gr | lamberts per pill |
-| ------------------------ | ------------------------- | ----------------- | ---------------- | --------------- | ----------------- |
-| histidine                | 14 mg/kg/d                |                   |                  |                 |                   |
-| isoleucine (**BCAA**)    | 19 mg/kg/d                | 1330mg            | 1500mg           | 1500mg          | 125mg * 6 = 750mg |
-| leucine (**BCAA**)       | 42 mg/kg/d                | 2940mg            | 3000mg           | 3000mg          | 250mg * 6 = 1500mg|
-| lysine                   | 38 mg/kg/d                |                   |                  |                 |                   |
-| methionine + cysteine    | 19 mg/kg/d                |                   |                  |                 |                   |
-| phenylalanine + tyrosine | 33 mg/kg/d                |                   |                  |                 |                   |
-| threonine                | 20 mg/kg/d                |                   |                  |                 |                   |
-| tryptophan               | 5 mg/kg/d                 |                   |                  |                 |                   |
-| valine (**BCAA**)        | 4 mg/kg/d                 | 280mg             | 1500mg           | 1500mg          | 125mg * 6 = 750mg |
-| glutamine                | -                         |                   | 3200mg           | 700mg           | -                 |  
+| RDA for Adults           | RDA - mg * body kg / day  | RDA for 70kg body | nutrend per 10gr | biotech per 9gr | lamberts per pill (*)  |
+| ------------------------ | ------------------------- | ----------------- | ---------------- | --------------- | ---------------------- |
+| histidine                | 14 mg/kg/d                |                   |                  |                 |                        |
+| isoleucine (**BCAA**)    | 19 mg/kg/d                | 1330mg            | 1500mg           | 1500mg          | 125mg * 6 = 750mg      |
+| leucine (**BCAA**)       | 42 mg/kg/d                | 2940mg            | 3000mg           | 3000mg          | 250mg * 6 = 1500mg     |
+| lysine                   | 38 mg/kg/d                |                   |                  |                 |                        |
+| methionine + cysteine    | 19 mg/kg/d                |                   |                  |                 |                        |
+| phenylalanine + tyrosine | 33 mg/kg/d                |                   |                  |                 |                        |
+| threonine                | 20 mg/kg/d                |                   |                  |                 |                        |
+| tryptophan               | 5 mg/kg/d                 |                   |                  |                 |                        |
+| valine (**BCAA**)        | 4 mg/kg/d                 | 280mg             | 1500mg           | 1500mg          | 125mg * 6 = 750mg      |
+| glutamine                | -                         |                   | 3200mg           | 700mg           | -                      |  
+
+(*) = manufacturer advise is 6 pills per day  
 
 
 [src - page 708](http://www.nap.edu/catalog/10490.html) - [mirror](https://www.dropbox.com/s/dlyhwto0l612rl8/NAP%20-%20Dietary%20Reference%20Intakes.pdf?dl=1)  
