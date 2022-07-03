@@ -91,17 +91,17 @@ Branched-chain amino acids (BCAAs) **compete** with **aromatic amino acids** to 
 ---
 
 
-| RDA for Adults           | mg per body kg per day |
-| ------------------------ | ---------------------- |
-| histidine                | 14 mg/kg/d             |
-| isoleucine (**BCAA**)    | 19 mg/kg/d             |
-| leucine (**BCAA**)       | 42 mg/kg/d             |
-| lysine                   | 38 mg/kg/d             |
-| methionine + cysteine    | 19 mg/kg/d             |
-| phenylalanine + tyrosine | 33 mg/kg/d             |
-| threonine                | 20 mg/kg/d             |
-| tryptophan               | 5 mg/kg/d              |
-| valine (**BCAA**)        | 4 mg/kg/d              |  
+| RDA for Adults           | RDA - mg * body kg / day  | nutrend per 10gr | biotech per 9gr | lamberts per pill |
+| ------------------------ | ------------------------- | ---------------- | --------------- | ----------------- |
+| histidine                | 14 mg/kg/d                |                  |                 |                   |
+| isoleucine (**BCAA**)    | 19 mg/kg/d                | 1500mg           | 1500mg          | 125mg             |
+| leucine (**BCAA**)       | 42 mg/kg/d                | 3000mg           | 3000mg          | 250mg             |
+| lysine                   | 38 mg/kg/d                |                  |                 |                   |
+| methionine + cysteine    | 19 mg/kg/d                |                  |                 |                   |
+| phenylalanine + tyrosine | 33 mg/kg/d                |                  |                 |                   |
+| threonine                | 20 mg/kg/d                |                  |                 |                   |
+| tryptophan               | 5 mg/kg/d                 |                  |                 |                   |
+| valine (**BCAA**)        | 4 mg/kg/d                 | 1500mg           | 1500mg          | 125mg             |  
 
 [src - page 708](http://www.nap.edu/catalog/10490.html) - [mirror](https://www.dropbox.com/s/dlyhwto0l612rl8/NAP%20-%20Dietary%20Reference%20Intakes.pdf?dl=1)  
 
