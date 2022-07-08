@@ -14,6 +14,7 @@
 * (greek) [National Archive of PhD Theses](https://www.didaktorika.gr/eadd/?locale=en)  
 * (greek) [bibliographic records](https://opac.seab.gr/*eng)
 * [Z-Library](https://z-lib.org/) - 6.5m ebooks
+* [Pirate Library Mirror](http://pilimi.org/) - Z-Library offline mirror
 * [Gutenberg](https://www.gutenberg.org/) - plain ebooks
 * [Morioh](https://morioh.com/topics) - Social network for programmers and developers
 * [Deephn search 30M Hacker news posts](https://deephn.org) ([ref](https://news.ycombinator.com/item?id=26791582))
@@ -26,6 +27,7 @@
 * [NewScan](https://files.rayogram.com/news/)
 * [pressreader](https://www.pressreader.com/)  
 * [ACM Digital Library Archive](https://dl.acm.org/) -  50 Years of Published Records  
+
 
 ## translators
 * [DocTranslator](https://www.onlinedoctranslator.com/en/translationform) - Translate PDF and outputs PDF, at the moment Yandex / Google cant do this.
@@ -137,7 +139,7 @@
 * [de4js - JavaScript Deobfuscator](https://lelinhtinh.github.io/de4js/)  
 * [HTML Cleaner](https://htmlcodeeditor.com/)  
 * [UUID Generator](https://www.uuidgenerator.net/)
-* [Markwhen](https://markwhen.com/) - Markdown for Timelines  
+* [Markwhen](https://markwhen.com/) - Markdown for Timelines ([github](https://github.com/kochrt/markwhen))  
 
 ## develop
 * [CyberChef](https://gchq.github.io/CyberChef/) - Cyber Swiss Army Knife

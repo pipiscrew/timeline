@@ -19,6 +19,7 @@
 	    * [search](/notes/whenatsearch.md)
 	    * [work](/notes/whenatwork.md)
 		* [kitchen](/notes/whenatkitchen.md)
+		* [travel](/notes/whenatravel.md)
 	* others  
 		* [Awesome Privacy](https://github.com/pluja/awesome-privacy)
 		* [Public APIs](https://github.com/n0shake/Public-APIs)
