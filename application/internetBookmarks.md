@@ -66,6 +66,8 @@
 * [archive.today](https://archive.ph/) - Archive any webpage
 * [DocumentCloud](https://www.documentcloud.org) - upload pdf, annotate, extract text, publish
 * [SmallPDF](https://smallpdf.com/word-to-pdf) - docx to pdf (~90% than the original Word PDF)  
+* [webpagetopdf](https://webpagetopdf.com/) - convert a website to pdf
+* [web2pdfconvert](https://www.web2pdfconvert.com/) - convert a website to pdf  
 
 
 ## videos

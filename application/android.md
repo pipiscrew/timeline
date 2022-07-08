@@ -15,7 +15,7 @@ Sudoku - [Brainium.Sudoku](https://play.google.com/store/apps/details?id=com.bra
 Pull APK - [APK Saver](https://play.google.com/store/apps/details?id=com.sdkdevelopers.apksaver)  
 Keepass - [KeePassDroid](https://play.google.com/store/apps/details?id=com.android.keepass)  
 Youtube - [NewPipe](https://newpipe.net/)  
-Notes - [PocketPlan](https://github.com/estep248/PocketPlan)
+Notes - [PocketPlan](https://github.com/estep248/PocketPlan)  
 Server to share files - [WiFi File Transfer](https://play.google.com/store/apps/details?id=com.smarterdroid.wififiletransfer)  
 Office - [WPS TPT](https://play.google.com/store/apps/details?id=cn.wps.moffice_eng)  
 Text Editor - [rhmsoft.QuickEdit](https://play.google.com/store/apps/details?id=com.rhmsoft.edit)  
