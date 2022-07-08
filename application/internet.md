@@ -174,6 +174,12 @@ To disable multiple running processes of the browser, you can set `browser.tabs.
 	
 	official guide on [how to](https://keepassxc.org/docs/KeePassXC_GettingStarted.html#_setup_browser_integration)
 
+  --
+
+  Carrying the passwords to android with [KeePassDroid](https://play.google.com/store/apps/details?id=com.android.keepass), just copy your *.kdbx to android and open it.  
+
+  
+
 * [bitwarden](https://bitwarden.com/) - the free online solution 
 * [RoboForm](https://www.roboform.com/) - the well known
 * [Mozilla.Firefox Lockwise](https://www.mozilla.org/en-US/firefox/lockwise/)  
