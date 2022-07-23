@@ -123,6 +123,7 @@
 * [ertFlix](https://www.ertflix.gr/)  
 * [stremio](https://www.stremio.com/)  
 * [Tubi](https://tubi.tv/) - for non EU countries  
+* [35mm](https://35mm.online/) - Classic Polish films  
 
 ## tv
 * [ustvgo](https://ustvgo.tv/)
@@ -142,6 +143,7 @@
 * [HTML Cleaner](https://htmlcodeeditor.com/)  
 * [UUID Generator](https://www.uuidgenerator.net/)
 * [Markwhen](https://markwhen.com/) - Markdown for Timelines ([github](https://github.com/kochrt/markwhen))  
+* [Markdeep](http://casual-effects.com/markdeep/) - diagrams, calendars, equations  
 
 ## develop
 * [CyberChef](https://gchq.github.io/CyberChef/) - Cyber Swiss Army Knife
@@ -187,6 +189,7 @@
 * [mwmbl](https://mwmbl.org/) - restricted to English content and domains which score highly on average in Hacker News submissions  
 * [Teclis](https://teclis.com/) - non-commercial web search  
 * [PinEyes](https://pimeyes.com/en) - face image search  
+* [youtube search](https://xn--1-zfa.com/youtube/)  
 
 ## temporary mail
 * [tempmail](https://temp-mail.org/en/)  
@@ -225,6 +228,7 @@
 * [simcity clone](http://www.graememcc.co.uk/micropolisJS/)  
 * [Zero Sum](https://pensivetoucan.github.io/Zero-Sum/) - A web game about summing numbers  
 * [eightcolors](https://eightcolors.net)  
+* [Portable Puzzle Collection](https://www.chiark.greenend.org.uk/~sgtatham/puzzles/)  
 
 ## poll
 * [Doodle](https://doodle.com/)
@@ -242,6 +246,7 @@
 * [webpage archive](https://archive.is/) or [2](https://archive.today/)
 * [stellarium](https://stellarium.org/) - planetarium on your computer
 * [Steg Cloak](https://stegcloak.surge.sh/) - hide secrets with invisible characters in plain text securely [github](https://github.com/KuroLabs/stegcloak)
+* [Life Stats via DOB](https://neal.fun/life-stats/)
 
 ## cpu
 * [CPU-Z](https://www.cpuid.com/downloads/cpu-z/cpu-z_1.96-en.zip) - information for cpu

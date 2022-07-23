@@ -147,6 +147,9 @@
 * [KeepAliveHD](https://github.com/stsrki/KeepAliveHD) - prevents your hard drive to go into automatic standby mode  
 * [Malwarebytes.AdwCleaner](https://www.malwarebytes.com/adwcleaner/)  
 * [IObit.Driver Booster](https://www.iobit.com/en/compare/db/)  
+* [DriverBackup!](https://sourceforge.net/projects/drvback/) - 2014 - fast and user-friendly free tool for drivers backup
+* [DriversBackup](https://github.com/skalahonza/DriversBackup) - 2017 - allows you to save your drivers locally
+* [Driver Store Explorer](https://github.com/lostindark/DriverStoreExplorer)
 * [Qalculate!](https://qalculate.github.io/) - the ultimate desktop calculator
 * [Emsisoft - Ransomware Decryption Tools](https://emsisoft.com/ransomware-decryption-tools/)  
 * [Windhawk](https://windhawk.net/) - customization marketplace  
