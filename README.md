@@ -412,7 +412,7 @@
     * [2](https://news.ycombinator.com/item?id=32056140)
   * [BMW Heated Seats Subscription Is Real And It Costs $18 Per Month](https://www.motor1.com/news/597376/bmw-heated-seats-subscription/)
     * [2](https://www.bbc.com/news/technology-62142208)
-  * [ISO name change for Turkey](https://www.iso.org/obp/ui/#iso:code:3166:TR)
+  * [ISO name change for Turkey](https://bit.ly/3cMW8BK)
     * [2](https://news.ycombinator.com/item?id=32066453)
   * [Column order in PostgreSQL does matter](https://www.cybertec-postgresql.com/en/column-order-in-postgresql-does-matter/)
   * [Responsible stewardship of the UEFI Secure Boot ecosystem](https://mjg59.dreamwidth.org/60248.html)
