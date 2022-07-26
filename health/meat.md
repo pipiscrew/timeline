@@ -26,7 +26,7 @@ Meat **500gr / day** for **5 days / week** is acceptable
 * Chicken breast - (cz) Prsa
 * Pork bon fillet - (cz) Panenka or palci ot panenka = 180-200czk / kg
 * Pork bon fille edges are cut and sold separately - (cz) palzi Z panenka
-* Pork Contra Fillet (internal fillet) - (cz) Kotleta
+* Pork Contra Fillet (internal fillet) aka Tomahawk - (cz) Kotleta
 * Beef Tenderloin - (cz) Svichkova = 250-300czk / kg
 * Beef rear slices (only grind) - (cz) zadni or predni
 

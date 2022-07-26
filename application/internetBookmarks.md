@@ -26,7 +26,8 @@
 * [Todays Front Pages](https://www.freedomforum.org/todaysfrontpages/)
 * [NewScan](https://files.rayogram.com/news/)
 * [pressreader](https://www.pressreader.com/)  
-* [ACM Digital Library Archive](https://dl.acm.org/) -  50 Years of Published Records  
+* [ACM Digital Library Archive](https://dl.acm.org/) - 50 Years of Published Records  
+* [Digital Public Library of America](https://dp.la)  
 
 
 ## translators
@@ -228,7 +229,8 @@
 * [simcity clone](http://www.graememcc.co.uk/micropolisJS/)  
 * [Zero Sum](https://pensivetoucan.github.io/Zero-Sum/) - A web game about summing numbers  
 * [eightcolors](https://eightcolors.net)  
-* [Portable Puzzle Collection](https://www.chiark.greenend.org.uk/~sgtatham/puzzles/)  
+* [Portable Puzzle Collection](https://www.chiark.greenend.org.uk/~sgtatham/puzzles/)
+* [sklable](https://github.com/przemekd/sklable) - scrabble like game  
 
 ## poll
 * [Doodle](https://doodle.com/)
