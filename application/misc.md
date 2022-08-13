@@ -39,7 +39,7 @@
 * [PromptPal](https://www.promptpal.com/)
 * [PowerCmd](https://www.powercmd.com/)
 * [JPSoft.CMDebug](https://jpsoft.com/products/cmdebug-ide.html)
-* [DOS Gaming In Docker](https://earthly.dev/blog/dos-gaming-in-docker/)  
+* [Obsidian Gaming In Docker](https://earthly.dev/blog/dos-gaming-in-docker/)  
   * [2](https://github.com/earthly/example-dos-gaming)
 
 ## Search
@@ -64,7 +64,9 @@
 * [MarkdownPad 2](http://markdownpad.com/)
 * [Markdown Monster](https://markdownmonster.west-wind.com/)
   * [2](https://github.com/RickStrahl/MarkdownMonster)
-* [Obsidian](https://obsidian.md/) - is a powerful knowledge base on top of a local folder of plain text Markdown files, a second brain.  
+* [Obsidian](https://obsidian.md/) - is a powerful knowledge base on top of a local folder of plain text Markdown files, a second brain.  [ref](https://hanki.dev/obsidian-at-work/)
+* [SuperMemo](https://super-memory.com/) - [ref](https://www.masterhowtolearn.com/2022-08-05-why-i-switched-to-obsidian-after-using-supermemo-for-4-years/)
+* [Curio](https://www.zengobi.com/curio/) - Notebook application for note-taking and research
 * [Modern CSV](https://www.moderncsv.com/) - Quick CSV load  
 * [Kainet.Editor](http://www.kainet.ch/Editor-for-very-large-files) - Editor for very large files  
 * [UVviewersoft.LogViewer](http://www.uvviewsoft.com/logviewer/) - Viewer for big text log files, highlight keywords  

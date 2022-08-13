@@ -23,7 +23,8 @@ To start with specific profile, `chrome.exe --user-data-dir=c:\foo`
 
 ### Gecko 
 
-* [Mozilla.Firefox](https://www.mozilla.org/en-US/firefox/all/#product-desktop-release)
+* [Mozilla.Firefox](https://www.mozilla.org/en-US/firefox/all/#product-desktop-release) 
+  * [Developer Edition](https://www.mozilla.org/en-US/firefox/developer/)
 * Unofficial windows, [IceCat](https://github.com/muslayev/icecat-win64) for ultra privacy. The official Linux [here](https://www.gnu.org/software/gnuzilla/).
 * [LibreWolf](https://librewolf.net/) - focused on privacy, security and freedom.
 * [waterfox](https://www.waterfox.net/) - [waterfox web browser sold to System1](https://www.waterfox.net/blog/waterfox-has-joined-system1/)
@@ -111,7 +112,7 @@ test browser [permissions](https://permission.site/).
   * [Cookie AutoDelete](https://github.com/Cookie-AutoDelete/Cookie-AutoDelete) [firefox](https://addons.mozilla.org/en-US/firefox/addon/cookie-autodelete/) / [chrome](https://chrome.google.com/webstore/detail/cookie-autodelete/fhcgjolkccmbidfldomjliifgaodjagh)
   * Chrome-like [translate](https://github.com/FilipePS/Traduzir-paginas-web/) functionality (aka on the fly) to Firefox - Filipe Ps.Translate Web Pages
   * Browsec [VPN](https://addons.mozilla.org/en-US/firefox/addon/browsec/) free & fast.
-  * [Mullvad VPN](https://mullvad.net/) - seems the father of VPN, paid firefox service using this.
+  * [Mullvad VPN](https://mullvad.net/) - seems the father of VPN, paid firefox service using this. [available on Amazon](https://mullvad.net/en/blog/2022/7/26/mullvad-is-now-available-on-amazon-us-se/)
   * [Remove Google Redirection on google results](https://addons.mozilla.org/en-US/firefox/addon/remove-google-redirections/)
   * [RESTClient](https://addons.mozilla.org/en-US/firefox/addon/restclient/) - use request header as `Content-Type application/x-www-form-urlencoded`
   * [SingleFile](https://addons.mozilla.org/en-US/firefox/addon/single-file/) - Save an entire web page (including images and styling) as a single HTML file.

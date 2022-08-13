@@ -46,6 +46,8 @@ git config --global credential.interactive never
 * like git - https://git.nixnet.services/Narsil/desktop_user.js
 * [gitstack] - git server for windows, warning [vulnerability](https://www.exploit-db.com/exploits/43777) &nbsp; ([issue](https://github.com/smart-mobile-software/gitstack/issues/181))  
 * [CVS](http://cvs.nongnu.org/) - concurrent versions system  
+* [First Pull Request](https://firstpr.me/)  
+* [Active GitHub Forks](https://techgaun.github.io/active-forks/)  
 
 ## misc
 * [Free for developers](https://free-for.dev/)
@@ -57,6 +59,7 @@ git config --global credential.interactive never
 * [JPEXS Flash Decompiler](https://github.com/jindrapetrik/jpexs-decompiler)
 * [Cryptpad](https://cryptpad.fr/) - Real-time collaborative kanban, whiteboard, docs, polls, todos  
 * [bitrix24](https://www.bitrix24.com/) - collaborate  
+* [WinAPI Search](https://dennisbabkin.com/winapisearch/)  
 
 ## web templates
 * https://themeforest.net

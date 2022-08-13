@@ -54,6 +54,7 @@
 * [ezgif](https://ezgif.com/) - gif/webp support
 * [Squoosh](https://squoosh.app) - for image
 * [Vertexshare.Image Upscaler by AI](https://vertexshare.com/image-upscaler.html) - Upscale and increase image size and resolution without losing quality.
+* [Teorex.Inpaint](https://theinpaint.com/) - Remove unwanted objects on images
 * (client side) [Local PDF Tools](https://localpdf.tech/)
 * (client side) [BulkResize photos](https://bulkresizephotos.com/en)
 * (client side) [Photopea](https://www.photopea.com/) - Online Photoshop
@@ -145,6 +146,8 @@
 * [UUID Generator](https://www.uuidgenerator.net/)
 * [Markwhen](https://markwhen.com/) - Markdown for Timelines ([github](https://github.com/kochrt/markwhen))  
 * [Markdeep](http://casual-effects.com/markdeep/) - diagrams, calendars, equations  
+* [Markdown as web page](https://github.com/casualwriter/casual-markdown-page)
+* [JSON Hero](https://jsonhero.io/)  
 
 ## develop
 * [CyberChef](https://gchq.github.io/CyberChef/) - Cyber Swiss Army Knife
@@ -158,7 +161,7 @@
 		* [Convert JSON to any language class](https://app.quicktype.io/)
 			* [2](https://www.jsonutils.com/)  
 		* [Convert C# class to JSON](https://csharp2json.io/)  
-
+* [codeberg](https://codeberg.org/) - git alternative  
 
 ## music
 * [tunefind](https://www.tunefind.com) - Find music from TV and movies
@@ -190,7 +193,9 @@
 * [mwmbl](https://mwmbl.org/) - restricted to English content and domains which score highly on average in Hacker News submissions  
 * [Teclis](https://teclis.com/) - non-commercial web search  
 * [PinEyes](https://pimeyes.com/en) - face image search  
-* [youtube search](https://xn--1-zfa.com/youtube/)  
+* [youtube search](https://xn--1-zfa.com/youtube/) or [this](https://playlists.at/youtube/search/)  
+* [Shodan Search Engine](https://www.shodan.io) - Search Engine for the Internet of Everything
+* [CriminalIP](https://www.criminalip.io) - [ref](https://blog.criminalip.io/2022/07/20/api-key-leak/)  
 
 ## temporary mail
 * [tempmail](https://temp-mail.org/en/)  
@@ -231,6 +236,8 @@
 * [eightcolors](https://eightcolors.net)  
 * [Portable Puzzle Collection](https://www.chiark.greenend.org.uk/~sgtatham/puzzles/)
 * [sklable](https://github.com/przemekd/sklable) - scrabble like game  
+* [Tetris](https://www.goodoldtetris.com/)  
+* [2048](https://play2048.co/) - [ref](https://youtube.com/watch?v=kQhkkqjGkFA)  
 
 ## poll
 * [Doodle](https://doodle.com/)
@@ -249,6 +256,7 @@
 * [stellarium](https://stellarium.org/) - planetarium on your computer
 * [Steg Cloak](https://stegcloak.surge.sh/) - hide secrets with invisible characters in plain text securely [github](https://github.com/KuroLabs/stegcloak)
 * [Life Stats via DOB](https://neal.fun/life-stats/)
+* [Fake Tweet Generator](https://shashiirk.github.io/fake-tweet-generator/) - Twitter Generator
 
 ## cpu
 * [CPU-Z](https://www.cpuid.com/downloads/cpu-z/cpu-z_1.96-en.zip) - information for cpu

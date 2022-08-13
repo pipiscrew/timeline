@@ -7,3 +7,5 @@
 * [New Links Found Between Musical Training and Cognitive Ability](https://neurosciencenews.com/musical-training-cognition-20467/)  
 * [Eye contact between musicians](https://www.classical-music.com/features/articles/just-how-important-is-eye-contact-between-musicians-and-what-does-it-signal/)  
 * [Guitar application](https://www.guitar-pro.com/)  
+* [Music 101: Properties of Sound](https://people.carleton.edu/~jellinge/m101s12/Pages/01/01SoundBasics.html)  
+* [The Philosophy of Bass](https://www.youtube.com/watch?v=1xPO2Q2QHXk)
