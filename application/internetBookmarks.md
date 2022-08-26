@@ -2,6 +2,7 @@
 * [Sci Hub](https://sci-hub.do/) - download doi links
   * [1](https://sci-hub.st/)
   * [2](https://sci-hub.do/)  
+  * [3*](https://sci-hub.se/)
 * [LibGen](https://libgen.me/) - Collecting and cataloging scientific & technical ebooks 
 * [Library Genesis](https://libgen.is/)
 * [arXiv](https://arxiv.org/) - Search an archive for millions scholarly articles in the fields of physics, mathematics, computer science, quantitative biology, quantitative finance, statistics, electrical engineering and systems science, and economics.  
