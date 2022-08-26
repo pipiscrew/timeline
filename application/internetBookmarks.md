@@ -28,6 +28,7 @@
 * [pressreader](https://www.pressreader.com/)  
 * [ACM Digital Library Archive](https://dl.acm.org/) - 50 Years of Published Records  
 * [Digital Public Library of America](https://dp.la)  
+* [Search Millions Manuals](https://manualsrepo.com)  
 
 
 ## translators
@@ -70,6 +71,7 @@
 * [SmallPDF](https://smallpdf.com/word-to-pdf) - docx to pdf (~90% than the original Word PDF)  
 * [webpagetopdf](https://webpagetopdf.com/) - convert a website to pdf
 * [web2pdfconvert](https://www.web2pdfconvert.com/) - convert a website to pdf  
+* [TinyWow](https://tinywow.com/) Tools That Solve Your Files Problem - pdf / xls / doc / images and other
 
 
 ## videos
@@ -119,6 +121,7 @@
 * (multi) [9xbuddy](https://9xbuddy.org/)
 * (multi) [savevideo](http://savevideo.me/)
 * [HyperDebrid](https://hyperdebrid.net/)  
+* [A2Converter](https://a2converter.com/youtube-downloader/) - YouTube Converter and Downloader MP4 / MP3 
 
 ## video flix trend
 * [FlixTor](https://flixtor.to/) - can watch only new movies / episodes. Older than 3 months you must pay.
@@ -148,6 +151,7 @@
 * [Markdeep](http://casual-effects.com/markdeep/) - diagrams, calendars, equations  
 * [Markdown as web page](https://github.com/casualwriter/casual-markdown-page)
 * [JSON Hero](https://jsonhero.io/)  
+* [nunpad](https://numpad.io/) - a web-based notepad with builtin unit calculator  
 
 ## develop
 * [CyberChef](https://gchq.github.io/CyberChef/) - Cyber Swiss Army Knife
@@ -196,6 +200,7 @@
 * [youtube search](https://xn--1-zfa.com/youtube/) or [this](https://playlists.at/youtube/search/)  
 * [Shodan Search Engine](https://www.shodan.io) - Search Engine for the Internet of Everything
 * [CriminalIP](https://www.criminalip.io) - [ref](https://blog.criminalip.io/2022/07/20/api-key-leak/)  
+* [best of anything](https://www.bestlist.com/)  
 
 ## temporary mail
 * [tempmail](https://temp-mail.org/en/)  
@@ -237,7 +242,7 @@
 * [Portable Puzzle Collection](https://www.chiark.greenend.org.uk/~sgtatham/puzzles/)
 * [sklable](https://github.com/przemekd/sklable) - scrabble like game  
 * [Tetris](https://www.goodoldtetris.com/)  
-* [2048](https://play2048.co/) - [ref](https://youtube.com/watch?v=kQhkkqjGkFA)  
+* [2048](https://2048game.com/) - [ref](https://youtube.com/watch?v=kQhkkqjGkFA)  
 
 ## poll
 * [Doodle](https://doodle.com/)
@@ -257,6 +262,7 @@
 * [Steg Cloak](https://stegcloak.surge.sh/) - hide secrets with invisible characters in plain text securely [github](https://github.com/KuroLabs/stegcloak)
 * [Life Stats via DOB](https://neal.fun/life-stats/)
 * [Fake Tweet Generator](https://shashiirk.github.io/fake-tweet-generator/) - Twitter Generator
+* [file hash](https://md5file.com/calculator) - client side (md5/sha512++)  
 
 ## cpu
 * [CPU-Z](https://www.cpuid.com/downloads/cpu-z/cpu-z_1.96-en.zip) - information for cpu

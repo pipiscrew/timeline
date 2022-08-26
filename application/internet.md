@@ -51,6 +51,9 @@ Tested with :
 
 test browser [permissions](https://permission.site/).
 
+[See what JavaScript commands get injected through an in-app browser](https://krausefx.com/blog/announcing-inappbrowsercom-see-what-javascript-commands-get-executed-in-an-in-app-browser) [[2](https://inappbrowser.com/)]
+
+
 ----------
 
 **Mozilla.Firefox** v86 Introduces [Total Cookie Protection](https://blog.mozilla.org/security/2021/02/23/total-cookie-protection/) (you have to enable **strict mode** on privacy setings)  
@@ -231,6 +234,7 @@ To disable multiple running processes of the browser, you can set `browser.tabs.
 * [Rustdesk](https://rustdesk.com/) - TeamViewer alternative
 * [mRemoteNG](https://mremoteng.org/) - RDP connections manager
 * (discontinued) [Microsoft.Remote Desktop Connection Manager](https://filehippo.com/download_remote_desktop_connection_manager/) - RDP connections manager
+* [GetScreen](https://getscreen.me/)  
 
 ## KVM  
 * [Microsoft.Garage Mouse without Borders](https://www.microsoft.com/en-us/download/details.aspx?id=35460) - Control computers from a single mouse and keyboard  

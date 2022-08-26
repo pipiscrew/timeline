@@ -66,6 +66,7 @@
   * [2](https://github.com/RickStrahl/MarkdownMonster)
 * [Obsidian](https://obsidian.md/) - is a powerful knowledge base on top of a local folder of plain text Markdown files, a second brain.  [ref](https://hanki.dev/obsidian-at-work/)
 * [SuperMemo](https://super-memory.com/) - [ref](https://www.masterhowtolearn.com/2022-08-05-why-i-switched-to-obsidian-after-using-supermemo-for-4-years/)
+* [VSCode Working Memory](https://github.com/atomashevic/vscode-working-memory)
 * [Curio](https://www.zengobi.com/curio/) - Notebook application for note-taking and research
 * [Modern CSV](https://www.moderncsv.com/) - Quick CSV load  
 * [Kainet.Editor](http://www.kainet.ch/Editor-for-very-large-files) - Editor for very large files  
@@ -155,6 +156,7 @@
 * [Qalculate!](https://qalculate.github.io/) - the ultimate desktop calculator
 * [Emsisoft - Ransomware Decryption Tools](https://emsisoft.com/ransomware-decryption-tools/)  
 * [Windhawk](https://windhawk.net/) - customization marketplace  
+* [Crawlee](https://crawlee.dev/) - is a web scraping and browser automation library  
 
 ## Capture
 * [OBS Studio](https://obsproject.com/) - screen capture and broadcasting  

@@ -79,6 +79,11 @@
 ## krups suggestion
 **​Arabica** coffee offers the best taste and is naturally low in caffeine. Experiment with different types, mixtures, and degrees of roasting to find what works best for you. In general, the darker the roasting, the more pronounced the taste of coffee. Delicate roasting gives a rich aroma, and the result is a delicate coffee with a full flavor-for true connoisseurs! Quality coffee should only be roasted gently so that its true richness, softness and completeness stand out. **Avoid** too **dark** roasted grains, they are more **oily** and can **clog** the device. Check that there are no small stones between the grains that could damage the device at the same time. Never use instant or ground coffee.  
 
+## Nappuccino
+Have a cup of coffee just before you doze off post lunch. Caffeine, a stimulant, takes about **twenty minutes** to enter your **bloodstream**, so if you have a cup of coffee, set your alarm for twenty minutes and then take a nap. You'll wake up refreshed and ready to go.
+
+This technique is called nappuccino. This is why several companies have nap rooms or nap pods where employees can take a quick nap. It helps overcome the slump in their days. [source](https://bip.so/@TIL_/Nappucino-iZTgy)
+
 &nbsp;
 ## first day lunch
 * 2 eggs with broccoli

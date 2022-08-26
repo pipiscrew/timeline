@@ -4,6 +4,7 @@
 * Scanner - [CamScanner](https://play.google.com/store/apps/details?id=com.intsig.camscanner)  
 * Music Player - [rhmsoft.Pulsar](https://play.google.com/store/apps/details?id=com.rhmsoft.pulsar)  
 * Music Player - [Musicolet](https://krosbits.in/musicolet/)  
+* Messenger- [Delta Chat](https://delta.chat/en/) - works over e-mail no server involved
 * QR - [SimpleAct.Quickmark](http://quickmark.com.tw/En/basic/index.asp) (gplay deprecated)  
 * GPS - [TomTom Navigation](https://play.google.com/store/apps/details?id=com.tomtom.gplay.navapp) - supports offline maps / can used also for pedestrian route (adjust at settings > routing > route type)  
 * Maps - [Organic Maps](https://github.com/organicmaps/organicmaps)  
@@ -42,4 +43,20 @@
 * [Evozi.APK Downloader](https://apps.evozi.com/apk-downloader/)
 * [How to Remove Samsung Bloatware without Root](https://technastic.com/remove-samsung-bloatware-safe-to-remove-apps/)  
 * [Security First](https://secfirst.org/)  
- 
+* [ADB AppControl](https://adbappcontrol.com)
+* 
+
+```
+/*
+See what JavaScript commands get injected through an in-app browser
+krausefx.com/blog/https://announcing-inappbrowsercom-see-what-javascript-commands-get-executed-in-an-in-app-browser
+https://inappbrowser.com/
+
+or better remove the /android system web view/ via ADB :
+*/
+
+adb shell
+pm uninstall --user 0 com.google.android.webview
+
+warning : dont remove other default apps, first search on XDA, a guy telling me that on XIAOMI if u remove the default antiv the phone stuck on bootloop
+```
