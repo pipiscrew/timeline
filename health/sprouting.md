@@ -40,7 +40,7 @@ The protein and phytochemical contents increased and total carbohydrates decreas
 ---
 
 * [Sprout People - All seed types, instructions](https://sproutpeople.org/growing-sprouts/sprouting-instructions/) 
-* [Country Life - Spouts explained](https://countrylifefoods.com/blogs/country-life-feed/what-are-the-best-seeds-for-sprouting-these-are-11-will-rock-your-sprouting-game)
+* [Country Life - Sprouts explained](https://countrylifefoods.com/blogs/country-life-feed/what-are-the-best-seeds-for-sprouting-these-are-11-will-rock-your-sprouting-game)
 * [Broccolini, Broccoli Rabe, and Chinese Broccoli](https://www.eater.com/2019/9/14/20865436/whats-the-difference-between-broccolini-broccoli-rabe-chinese-broccoli)
 * [AlfaAlfa explained](https://www.verywellhealth.com/health-benefits-of-alfalfa-4584280)  
 
