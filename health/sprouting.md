@@ -9,6 +9,18 @@ This process **increases** the availability of **nutrients** in seeds, grains an
 
 [source](https://www.healthline.com/nutrition/how-to-reduce-antinutrients)  
 
+# Nutritional improvement of cereals by sprouting
+* The desirable nutritional changes that occur during sprouting are mainly due to the **breakdown** of complex compounds into a more **simple** form, transformation into essential constituents and breakdown of nutritionally **undesirable** constituents. This is a reason why sprouts are also called **pre-digested** foods.
+* The metabolic activity of resting seeds increases as soon as they are hydrated during soaking. Complex **biochemical changes** occur during hydration and **subsequent** sprouting. The reserve chemical constituents, such as protein, starch and lipids, are broken down by enzymes into simple compounds that are used to make **new** compounds.
+* Sprouting grains causes increased activities of hydrolytic enzymes, **improvements** in the contents of total proteins, fat, certain essential amino acids, total sugars, B-group vitamins, and a decrease in dry matter, starch and anti-nutrients. The increased contents of protein, fat, fibre and total ash are only apparent and attributable to the disappearance of starch. However, improvements in **amino acid** composition, B-group vitamins, sugars, protein and starch digestibilities, and **decrease** in phytates and protease inhibitors are the metabolic effects of the sprouting process.  
+
+[source](https://doi.org/10.1080/10408398909527508) [[2](https://en.wikipedia.org/wiki/Sprouting)] ([mirror](https://www.dropbox.com/s/hs9xqjmk7xxfpjd/Nutritional%20improvement%20of%20cereals%20by%20sprouting.pdf?dl=1))
+
+
+# Small-Seeded Legumes as a Novel Food Source
+The protein and phytochemical contents increased and total carbohydrates decreased from seeds to microgreens. Our findings proved for the first time that seeds, **sprouted** seeds, and especially microgreens of small-seeded legumes are **promising new sources** of ingredients for fortification of staple foods with **bioactive** compounds, minerals and nutrients.
+
+[source](https://doi.org/10.3390/molecules24010133)
 
 # In Vivo vs In Vitro
 In **vivo** refers to when research or work is done with or within an entire, living organism. Examples can include studies in animal models or human clinical trials. In **vitro** is used to describe work that's performed outside of a living organism.  
@@ -32,11 +44,6 @@ Phytic acid, polyphenols, protein and starch digestibility (in vitro) in two var
 
 [source](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7600777/)  
 
-
-
-# Small-Seeded Legumes as a Novel Food Source
-The protein and phytochemical contents increased and total carbohydrates decreased from seeds to microgreens. Our findings proved for the first time that seeds, **sprouted** seeds, and especially microgreens of small-seeded legumes are **promising new sources** of ingredients for fortification of staple foods with **bioactive** compounds, minerals and nutrients.
-
 ---
 
 * [Sprout People - All seed types, instructions](https://sproutpeople.org/growing-sprouts/sprouting-instructions/) 
@@ -56,6 +63,8 @@ The steps :
 * eat 1 or 2 cups / day.
 
 Instead of bowl can be a [jar](https://www.thespruce.com/how-to-grow-sprouts-in-a-jar-2540007) [[2](https://www.youtube.com/watch?v=TXZG7iDGxe8)] [[3](https://www.youtube.com/watch?v=qynti1u9ywE)] or a tray or [Gefu](https://www.youtube.com/watch?v=kFgd2AOlm1Y) [[2](https://www.gefu.com/en/product-world/design/688/sprouting-jar-bivita)] [[3](https://www.gefu.com/media/pdf/2a/f3/81/18910-bda-sprossenglas.pdf)].  
+
+[FullyRawKristina](https://www.youtube.com/watch?v=qynti1u9ywE)  
 
 ---
 
