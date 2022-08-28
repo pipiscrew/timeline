@@ -64,7 +64,8 @@ The steps :
 
 Instead of bowl can be a [jar](https://www.thespruce.com/how-to-grow-sprouts-in-a-jar-2540007) [[2](https://www.youtube.com/watch?v=TXZG7iDGxe8)] [[3](https://www.youtube.com/watch?v=qynti1u9ywE)] or a tray or [Gefu](https://www.youtube.com/watch?v=kFgd2AOlm1Y) [[2](https://www.gefu.com/en/product-world/design/688/sprouting-jar-bivita)] [[3](https://www.gefu.com/media/pdf/2a/f3/81/18910-bda-sprossenglas.pdf)].  
 
-[FullyRawKristina](https://www.youtube.com/watch?v=qynti1u9ywE)  
+[FullyRawKristina - How to](https://www.youtube.com/watch?v=qynti1u9ywE)  
+[Pea Sprouts to boost your DAO](https://www.low-histamine.com/nutrition/natural-sources-of-dao/)  
 
 ---
 
