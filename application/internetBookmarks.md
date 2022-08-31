@@ -153,6 +153,7 @@
 * [Markdown as web page](https://github.com/casualwriter/casual-markdown-page)
 * [JSON Hero](https://jsonhero.io/)  
 * [nunpad](https://numpad.io/) - a web-based notepad with builtin unit calculator  
+* [JSON Visio](https://jsonvisio.com) - visualize JSON data into graphs  
 
 ## develop
 * [CyberChef](https://gchq.github.io/CyberChef/) - Cyber Swiss Army Knife
@@ -202,6 +203,7 @@
 * [Shodan Search Engine](https://www.shodan.io) - Search Engine for the Internet of Everything
 * [CriminalIP](https://www.criminalip.io) - [ref](https://blog.criminalip.io/2022/07/20/api-key-leak/)  
 * [best of anything](https://www.bestlist.com/)  
+* [Simple Search](https://simplesearch.org/)  
 
 ## temporary mail
 * [tempmail](https://temp-mail.org/en/)  

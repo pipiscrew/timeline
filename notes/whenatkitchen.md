@@ -71,6 +71,9 @@
 - Diluted vinegar will [not damage](https://coffee.stackexchange.com/a/4205) the boiler or hoses in your espresso machine.
 - Official descaler ingredients : Water / Citrid acid, monohydrate / Lactic acid / Etidronic acid  
 
+### Illy.Guatemala
+https://www.illy.com/en-us/eshop/coffee/whole-bean-coffee/arabica-selection-whole-bean-coffee-guatemala/6990ST
+
 ### clean the filter basket
 * [video - burn the coffee](https://www.youtube.com/watch?v=q_YrpnsrscU) ([2](https://www.youtube.com/watch?v=E6oG_RYDqMo))
 * [video - use needle](https://youtu.be/vuRmnOiE03Q?t=83) - possible soak with baking soda and warm water before

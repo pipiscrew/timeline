@@ -58,9 +58,9 @@ The steps :
 * remove the water, add them on bowl, covered with the lid.
 * for 4-10 days, one or τwo or three times a day, rinse.
   * always rinse the seeds with clean water at least 3 to 4 times / day, to avoid the risk of contamination
-* store to fridge for max a week, don't eat those are brown.
+* store to fridge for max a week (better consume it in 3 days aka till the next harvest), don't eat those are brown.
 * if some are unsprouted, is because the producer mixed new with old seeds.
-* eat 1 or 2 cups / day.
+* eat 1 or 2 cups / day.  
 
 Instead of bowl can be a [jar](https://www.thespruce.com/how-to-grow-sprouts-in-a-jar-2540007) [[2](https://www.youtube.com/watch?v=TXZG7iDGxe8)] [[3](https://www.youtube.com/watch?v=qynti1u9ywE)] or a tray or [Gefu](https://www.youtube.com/watch?v=kFgd2AOlm1Y) [[2](https://www.gefu.com/en/product-world/design/688/sprouting-jar-bivita)] [[3](https://www.gefu.com/media/pdf/2a/f3/81/18910-bda-sprossenglas.pdf)].  
 
