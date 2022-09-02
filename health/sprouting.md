@@ -81,3 +81,32 @@ Organic sprouting seeds
 Sklo se sítkem
 Glass with strainer
 ```
+
+# The procedure 
+
+Using 50gr mung beans, soaked overnight then Day1 8am added it to GEFU
+
+## Day 1 - 8am
+![img](../assets/sprouting1.jpg)  
+
+## Day 2 - 8am
+![img](../assets/sprouting2.jpg)  
+
+## Day 3 - 8am
+![img](../assets/sprouting3.jpg)  
+
+## Day 4 - 8am (harvest day)
+![img](../assets/sprouting4.jpg)  
+
+### 8:05am - extracted from GEFU
+![img](../assets/sprouting4a.jpg)  
+
+### unpilling process - add water to bowl and separate the good boys
+![img](../assets/sprouting4b.jpg)  
+
+### waste
+![img](../assets/sprouting4c.jpg)  
+![img](../assets/sprouting4d.jpg)  
+
+## this quantity is for 3 days (till next harvest come) eating twice a day (a palm)
+![img](../assets/sprouting4e.jpg)  

@@ -29,6 +29,7 @@
 * Game [Rider](https://play.google.com/store/apps/details?id=com.ketchapp.rider)  
 * Game [EDGE](https://play.google.com/store/apps/details?id=net.mobigame.edge.demo)  
 * Screensaver [XScreenSaver](https://play.google.com/store/apps/details?id=org.jwz.android.xscreensaver)  
+* [TypingHero](https://typinghero.app/) - Text Macros for Android  
 
 ## webcam
 * [yoosee](https://play.google.com/store/apps/details?id=com.yoosee) - for IP cameras ex [gembird](https://gembird.com/item.aspx?id=11674). see also [iSpy](https://www.ispyconnect.com/camera/gembird) and global standard [ONVIF](https://www.onvif.org/)
