@@ -120,6 +120,7 @@ Invest in your health with an [indoor garden](https://clickandgrow.com/)
 
 ----------
 
-credits @ Boris [BG]
+credits @ Boris [BG]  
 
  
+ [How to gain muscle mass on a vegan diet?](https://markmukhin.com/texts/vegan-diet101/)

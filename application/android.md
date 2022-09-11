@@ -29,6 +29,7 @@
 * Game [Rider](https://play.google.com/store/apps/details?id=com.ketchapp.rider)  
 * Game [EDGE](https://play.google.com/store/apps/details?id=net.mobigame.edge.demo)  
 * Screensaver [XScreenSaver](https://play.google.com/store/apps/details?id=org.jwz.android.xscreensaver)  
+* [Maths Workout](https://play.google.com/store/apps/details?id=io.ts.mathworkout)
 * [TypingHero](https://typinghero.app/) - Text Macros for Android  
 
 ## webcam

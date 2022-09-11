@@ -2,7 +2,7 @@
 
 ### Blink  
 
-* [Brave](https://brave.com/) -- [the false sensation of privacy](http://ebin.city/~werwolf/posts/brave-is-shit/)  
+* [Brave](https://brave.com/) -- [the false sensation of privacy](http://ebin.city/~werwolf/posts/brave-is-shit/) -- [features they disable or remove](https://github.com/brave/brave-browser/wiki/Deviations-from-Chromium-(features-we-disable-or-remove)/)
   * [individual components update (adblock explained)](https://www.pipiscrew.com/2021/06/brave-individual-components-update-adblock-explained/)
 * [SRWare](https://www.srware.net/iron/) - removed all telemetry
 * [Beacon](https://github.com/imperviousinc/beacon) - decentralized
@@ -127,6 +127,7 @@ test browser [permissions](https://permission.site/).
   * [Copy True Link for Google](https://github.com/dandanua/copy-true-link) ([ref](https://gist.github.com/radiantly/e1c7319214c77fa007f323fc56cd0239))
   * [DownAlbum](https://chrome.google.com/webstore/detail/downalbum/cgjnhhjpfcdhbhlcmmjppicjmgfkppok) - Download Facebook, Instagram, Pinterest, Twitter, Ask.fm, Weibo album  
   * [Hypersearch](https://github.com/abhinavsharma/hypersearch) - browser extension for improving search  
+  * [BrainTool - Organizing Bookmarks](https://braintool.org/)  
 
 ----------
 
@@ -261,9 +262,14 @@ To disable multiple running processes of the browser, you can set `browser.tabs.
 * [Thunderbird addon - ImportExportTools NG](https://addons.thunderbird.net/en-US/thunderbird/addon/importexporttools-ng/) - convert gmail mbox to thunderbird. The original [addon](https://addons.thunderbird.net/en-US/thunderbird/addon/importexporttools/) supports 14.x - 16.x
 * [PST Walker](https://www.pstwalker.com/pstwalker.html) - light & portable by company, use it in combination with the mbox2pst (super search + unicode + attachments)
 
-## mail spam 
+## Mail spam 
 * [spamcop](https://www.spamcop.net/) - forward the junk mails to fight spam. Once registered you will get a unique mail address to send the junk mails for investigation. If you like to use multiple mails, please see the **Mailhosts** option, you need to registered all mails there.
-  * [How do I get my email program to reveal the full, unmodified email](https://www.spamcop.net/fom-serve/cache/19.html) ?
+  * [How do I get my email program to reveal the full, unmodified email](https://www.spamcop.net/fom-serve/cache/19.html) ?  
+
+## Mail proxy
+* [duckduckgo email protection](https://duckduckgo.com/email/) - requires browser addon
+* [Forward Email](https://forwardemail.net/en)
+* [simplelogin](https://simplelogin.io/) - proxy by proton  
 
 ## RSS
 * [QuiteRSS](https://quiterss.org/)

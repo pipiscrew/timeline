@@ -60,6 +60,7 @@ git config --global credential.interactive never
 * [Cryptpad](https://cryptpad.fr/) - Real-time collaborative kanban, whiteboard, docs, polls, todos  
 * [bitrix24](https://www.bitrix24.com/) - collaborate  
 * [WinAPI Search](https://dennisbabkin.com/winapisearch/)  
+* [PuTTY + PuTTY Key Generator](https://www.puttygen.com/download-putty) - ref [SuperPuTTY](https://www.puttygen.com/superputty) (frontend to prvide tabbed PuTTY)
 
 ## web templates
 * https://themeforest.net

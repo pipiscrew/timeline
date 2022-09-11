@@ -88,6 +88,10 @@ Branched-chain amino acids (BCAAs) **compete** with **aromatic amino acids** to 
 
 > Source of Whey Protein / EAA / BCAA are dairy products (mostly cheese).  
 
+
+[What whey protein isolate is made of](https://www.peaknutritionals.com.au/blog/what-whey-protein-isolate-is-made-of/)  
+
+
 ---
 
 

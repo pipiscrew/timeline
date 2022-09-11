@@ -157,6 +157,7 @@
 * [Emsisoft - Ransomware Decryption Tools](https://emsisoft.com/ransomware-decryption-tools/)  
 * [Windhawk](https://windhawk.net/) - customization marketplace  
 * [Crawlee](https://crawlee.dev/) - is a web scraping and browser automation library  
+* [NAPS2](https://www.naps2.com/) - scan documents to PDF and more  
 
 ## Capture
 * [OBS Studio](https://obsproject.com/) - screen capture and broadcasting  

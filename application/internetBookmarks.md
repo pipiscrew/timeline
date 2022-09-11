@@ -29,6 +29,7 @@
 * [pressreader](https://www.pressreader.com/)  
 * [ACM Digital Library Archive](https://dl.acm.org/) - 50 Years of Published Records  
 * [Digital Public Library of America](https://dp.la)  
+* [Consensus](https://consensus.app/) - Search Engine that find answers in Scientific Research
 * [Search Millions Manuals](https://manualsrepo.com)  
 
 
@@ -130,6 +131,7 @@
 * [stremio](https://www.stremio.com/)  
 * [Tubi](https://tubi.tv/) - for non EU countries  
 * [35mm](https://35mm.online/) - Classic Polish films  
+* [sportLemonTV](https://sportlemons.net/) - Live Sport Streams  
 
 ## tv
 * [ustvgo](https://ustvgo.tv/)
@@ -246,6 +248,7 @@
 * [sklable](https://github.com/przemekd/sklable) - scrabble like game  
 * [Tetris](https://www.goodoldtetris.com/)  
 * [2048](https://2048game.com/) - [ref](https://youtube.com/watch?v=kQhkkqjGkFA)  
+* [Sudoku, Go and WebAssembly](https://eliben.github.io/go-sudoku/) - [ref](https://eli.thegreenplace.net/2022/sudoku-go-and-webassembly/)  
 
 ## poll
 * [Doodle](https://doodle.com/)
