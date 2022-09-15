@@ -206,6 +206,7 @@
 * [CriminalIP](https://www.criminalip.io) - [ref](https://blog.criminalip.io/2022/07/20/api-key-leak/)  
 * [best of anything](https://www.bestlist.com/)  
 * [Simple Search](https://simplesearch.org/)  
+* [datoRSS](https://datorss.com/) - A search engine based on RSS feed  
 
 ## temporary mail
 * [tempmail](https://temp-mail.org/en/)  

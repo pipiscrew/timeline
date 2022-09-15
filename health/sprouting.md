@@ -82,6 +82,12 @@ Sklo se sítkem
 Glass with strainer
 ```
 
+---
+
+Growing **mung bean** sprouts in a **dark** place **ensures** that the beans stay a nice vibrant **yellow** color and do not turn **pink** or **green**. If exposed to a little bit of light when watering, the sprouts may develop a slightly **pinkish** tinge, which is **harmless**. If exposed to even more light, the beans will begin to turn **green** and acquire a bitter taste. So, store the sprouts in a dark place for as much as possible.   [source](https://www.assortedeats.com/growing-mung-bean-sprouts/)  
+
+
+
 # The procedure 
 
 Using 50gr mung beans, soaked overnight then Day1 8am added it to GEFU
