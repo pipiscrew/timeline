@@ -84,7 +84,11 @@ Glass with strainer
 
 ---
 
-Growing **mung bean** sprouts in a **dark** place **ensures** that the beans stay a nice vibrant **yellow** color and do not turn **pink** or **green**. If exposed to a little bit of light when watering, the sprouts may develop a slightly **pinkish** tinge, which is **harmless**. If exposed to even more light, the beans will begin to turn **green** and acquire a bitter taste. So, store the sprouts in a dark place for as much as possible.   [source](https://www.assortedeats.com/growing-mung-bean-sprouts/)  
+Growing **mung bean** sprouts in a **dark** place **ensures** that the beans stay a nice vibrant **yellow** color and do not turn **pink** or **green**. If exposed to a little bit of light when watering, the sprouts may develop a slightly **pinkish** tinge, which is **harmless**. If exposed to even more light, the beans will begin to turn **green** and acquire a bitter taste. So, store the sprouts in a dark place for as much as possible.  
+
+Repeat this watering process for a maximum of **five** days or just before the sprouts begin to grow **leaves**. As the bean sprouts start to produce more leaves, they will **lose** more of their **nutrition**.  
+
+[source](https://www.assortedeats.com/growing-mung-bean-sprouts/) ([mirror](https://www.dropbox.com/s/ulbxcrxqbzd7h7y/Growing%20Mung%20Bean%20Sprouts.pdf?dl=1)) 
 
 
 
