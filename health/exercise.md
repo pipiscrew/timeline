@@ -59,7 +59,8 @@ Type : Aerobic
 * [The benefits of walking and how to get the most out of it](https://www.cbc.ca/life/wellness/the-benefits-of-walking-and-how-to-get-the-most-out-of-it-1.5145418)
 * [Better than microdosing: walks in nature](https://victorrotariu.com/2021/06/better-than-microdosing-walks-in-nature/)  
 * [7,000 steps can save your life](https://www.axios.com/walking-exercise-10000-steps-c714bf7b-8528-496c-9981-67bc566b1b81.html) ([ref](https://news.ycombinator.com/item?id=30918081))  
-* [Walking is good for health but walking faster is even better](https://www.theguardian.com/australia-news/2022/sep/13/step-on-it-walking-is-good-for-health-but-walking-faster-is-even-better-study-finds)  
+* [Walking is good for health but walking faster is even better](https://www.theguardian.com/australia-news/2022/sep/13/step-on-it-walking-is-good-for-health-but-walking-faster-is-even-better-study-finds)
+* [How does nature nurture the brain?](https://www.mpg.de/19168412/0905-bild-how-does-nature-nurture-the-brain-149835-x)  
 
 
 Wendy Suzuki - Why your brain loves it when you exercise
