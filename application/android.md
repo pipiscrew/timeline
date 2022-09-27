@@ -31,6 +31,7 @@
 * Screensaver [XScreenSaver](https://play.google.com/store/apps/details?id=org.jwz.android.xscreensaver)  
 * [Maths Workout](https://play.google.com/store/apps/details?id=io.ts.mathworkout)
 * [TypingHero](https://typinghero.app/) - Text Macros for Android  
+* [SimpleMind.Mind Mapping](https://play.google.com/store/apps/details?id=com.modelmakertools.simplemindfree)  
 
 ## webcam
 * [yoosee](https://play.google.com/store/apps/details?id=com.yoosee) - for IP cameras ex [gembird](https://gembird.com/item.aspx?id=11674). see also [iSpy](https://www.ispyconnect.com/camera/gembird) and global standard [ONVIF](https://www.onvif.org/)

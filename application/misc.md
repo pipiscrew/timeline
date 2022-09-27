@@ -71,6 +71,7 @@
 * [Modern CSV](https://www.moderncsv.com/) - Quick CSV load  
 * [Kainet.Editor](http://www.kainet.ch/Editor-for-very-large-files) - Editor for very large files  
 * [UVviewersoft.LogViewer](http://www.uvviewsoft.com/logviewer/) - Viewer for big text log files, highlight keywords  
+* [Q - Run SQL Directly on CSV or TSV Files](http://harelba.github.io/q/)  
 
 ## Disk Space Analyse
 * [RidNacs](https://www.splashsoft.de/ridnacs-disk-space-usage-analyzer/)

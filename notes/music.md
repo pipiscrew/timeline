@@ -10,3 +10,4 @@
 * [Music 101: Properties of Sound](https://people.carleton.edu/~jellinge/m101s12/Pages/01/01SoundBasics.html)  
 * [The Philosophy of Bass](https://www.youtube.com/watch?v=1xPO2Q2QHXk)
 * [A piano chord reference tool](https://pianochord.io/)
+* [Music Theory Cheat Sheet](https://muted.io/cheat-sheet/)

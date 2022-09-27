@@ -37,6 +37,7 @@
 * [DocTranslator](https://www.onlinedoctranslator.com/en/translationform) - Translate PDF and outputs PDF, at the moment Yandex / Google cant do this.
 * (russian) [Yandex.Translate](https://translate.yandex.com/)
 * [DeepL](https://www.deepl.com/translator) supports docx + pptx
+* [Online OCR](https://www.onlineocr.net/)  
 
 ## excel / csv
 * [Excel to HTML Table Converter](http://pressbin.com/tools/excel_to_html_table/index.html)
@@ -122,6 +123,7 @@
 * (multi) [Savido](https://www.savido.net/)
 * (multi) [9xbuddy](https://9xbuddy.org/)
 * (multi) [savevideo](http://savevideo.me/)
+* [Tikinsta](https://tikinsta.net/) - downloader without watermark
 * [HyperDebrid](https://hyperdebrid.net/)  
 * [A2Converter](https://a2converter.com/youtube-downloader/) - YouTube Converter and Downloader MP4 / MP3 
 
@@ -190,7 +192,7 @@
 * (needs pro) [Infinity Search](https://infinitysearch.co/)
 * [Private](https://private.sh/) - end to end encrypted
 * [Tailcat.Cliqz](https://cliqz.com/) - acquired by Brave browser  
-* [DuckDuckGo bangs](https://duckduckgo.com/bang) - nicely categorized bookmarks  
+* [DuckDuckGo bangs](https://duckduckgo.com/bang) - nicely categorized bookmarks  ([lite](https://lite.duckduckgo.com))
   * [drugs - galinos GR](https://www.galinos.gr/)
   * [drugs - emc UK](https://www.medicines.org.uk/)
 * [lumpysoft.Google index search](https://lumpysoft.com/)  
@@ -250,6 +252,7 @@
 * [Tetris](https://www.goodoldtetris.com/)  
 * [2048](https://2048game.com/) - [ref](https://youtube.com/watch?v=kQhkkqjGkFA)  
 * [Sudoku, Go and WebAssembly](https://eliben.github.io/go-sudoku/) - [ref](https://eli.thegreenplace.net/2022/sudoku-go-and-webassembly/)  
+* [webЯcade](https://webrcade.com/) - [github](https://github.com/webrcade/webrcade)  
 
 ## poll
 * [Doodle](https://doodle.com/)

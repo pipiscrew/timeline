@@ -128,6 +128,7 @@ test browser [permissions](https://permission.site/).
   * [DownAlbum](https://chrome.google.com/webstore/detail/downalbum/cgjnhhjpfcdhbhlcmmjppicjmgfkppok) - Download Facebook, Instagram, Pinterest, Twitter, Ask.fm, Weibo album  
   * [Hypersearch](https://github.com/abhinavsharma/hypersearch) - browser extension for improving search  
   * [BrainTool - Organizing Bookmarks](https://braintool.org/)  
+  * [LibRedirect](https://github.com/libredirect/libredirect) Redirect YouTube, Twitter, Instagram to privacy friendly services  
 
 ----------
 
@@ -234,7 +235,7 @@ To disable multiple running processes of the browser, you can set `browser.tabs.
 * [AnyDesk](https://anydesk.com/en) - Remote Desktop anywhere, anytime
 * [TeamViewer](https://www.teamviewer.com/) - Control, manage, monitor, and repair computers
 * [Rustdesk](https://rustdesk.com/) - TeamViewer alternative
-* [mRemoteNG](https://mremoteng.org/) - RDP connections manager
+* [mRemoteNG](https://mremoteng.org/) - RDP connections manager (make always off, on each connection the `Cache Bitmap`)
 * (discontinued) [Microsoft.Remote Desktop Connection Manager](https://filehippo.com/download_remote_desktop_connection_manager/) - RDP connections manager
 * [GetScreen](https://getscreen.me/)  
 
@@ -250,6 +251,8 @@ To disable multiple running processes of the browser, you can set `browser.tabs.
 
 ## Mail
 * [Mozilla.Thunderbird](https://www.thunderbird.net/)
+  * [Proton Mail Bridge Thunderbird setup guide](https://proton.me/support/protonmail-bridge-clients-windows-thunderbird)
+* [Betterbird](https://www.betterbird.eu/) - is a fine-tuned version of Mozilla Thunderbird
 * [Just Report It](https://justreport.it/) - Thunderbird & Outlook addon, report to spamcop & domain registrar
 * [Claws Mail](https://www.claws-mail.org/) - is an email client (and news reader) based on GTK+
 * [Desksoft.CheckMail](http://www.desksoft.com/CheckMail.htm)

@@ -120,4 +120,6 @@ extracted by [Buying a Commodore Amiga 30 Years Later](https://web.archive.org/w
 &nbsp;
 &nbsp;
 
-> On **1 February 2019**, Amiga Inc. transferred all Amiga-related rights to C-A Acquisition Corporation owned by Mike Battilana (director of **Cloanto**, company behind the Amiga Forever emulation package), later renamed to Amiga Corporation. [source](https://sites.google.com/site/amigadocuments/)
+> On **1 February 2019**, Amiga Inc. transferred all Amiga-related rights to C-A Acquisition Corporation owned by Mike Battilana (director of **Cloanto**, company behind the Amiga Forever emulation package), later renamed to Amiga Corporation. [source](https://sites.google.com/site/amigadocuments/)  
+
+Find the `TOSEC: Commodore Amiga ADF games only (2012-04-10)` [here](https://raw.githubusercontent.com/pipiscrew/timeline/main/assets/amiga_tosec.md)

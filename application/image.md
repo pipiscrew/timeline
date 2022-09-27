@@ -48,3 +48,4 @@
 * [Freeplane](https://www.freeplane.org)
 * [draw.io](https://app.diagrams.net/)
 * [flowchart.fun](https://flowchart.fun/) - Generate flowcharts from Text
+* [Excalidraw](https://github.com/excalidraw/excalidraw) - whiteboard for sketching hand-drawn like diagrams
