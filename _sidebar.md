@@ -13,6 +13,7 @@
 * [Notes]
 	* [articles](/notes/articles.md)
 	* [amiga](/notes/amiga.md)
+	* [amiga TOSEC](/notes/amiga_tosec.md)
 	* [music](/notes/music.md)
 	* [wp2heroku](/notes/wp2heroku.md)
 	* when at  
