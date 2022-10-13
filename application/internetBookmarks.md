@@ -157,7 +157,9 @@
 * [Markdown as web page](https://github.com/casualwriter/casual-markdown-page)
 * [JSON Hero](https://jsonhero.io/)  
 * [nunpad](https://numpad.io/) - a web-based notepad with builtin unit calculator  
-* [JSON Visio](https://jsonvisio.com) - visualize JSON data into graphs  
+* [JSON Visio](https://jsonvisio.com) - visualize JSON data into graphs 
+* [JSON History](https://weekendproject.space/json.html) - any edit/change stored
+* [JSON Crack](https://jsoncrack.com/) - visualize JSON  
 
 ## develop
 * [CyberChef](https://gchq.github.io/CyberChef/) - Cyber Swiss Army Knife
@@ -209,6 +211,10 @@
 * [best of anything](https://www.bestlist.com/)  
 * [Simple Search](https://simplesearch.org/)  
 * [datoRSS](https://datorss.com/) - A search engine based on RSS feed  
+
+## virus scan
+* [google.virus total](https://www.virustotal.com/)
+* [hybrid analysis](https://www.hybrid-analysis.com/)  
 
 ## temporary mail
 * [tempmail](https://temp-mail.org/en/)  
@@ -289,6 +295,7 @@
 * [Reuters](https://www.reuters.com/)
 * [Bloomberg](https://www.bloomberg.com)
 * [Ars Technica](https://arstechnica.com/)
+* [Economist](https://economist.com/)
 * [Firtpost](https://www.firstpost.com/) - India - owned by [Reliance Industries](https://en.wikipedia.org/wiki/Firstpost)
 * [BBC](https://www.bbc.com)
 * [CNN](https://lite.cnn.com/en)

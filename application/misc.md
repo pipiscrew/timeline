@@ -72,6 +72,7 @@
 * [Kainet.Editor](http://www.kainet.ch/Editor-for-very-large-files) - Editor for very large files  
 * [UVviewersoft.LogViewer](http://www.uvviewsoft.com/logviewer/) - Viewer for big text log files, highlight keywords  
 * [Q - Run SQL Directly on CSV or TSV Files](http://harelba.github.io/q/)  
+* [Columnq - Run SQL on CSV, Parquet, JSON](https://github.com/roapi/roapi/tree/main/columnq-cli)  
 
 ## Disk Space Analyse
 * [RidNacs](https://www.splashsoft.de/ridnacs-disk-space-usage-analyzer/)
@@ -276,6 +277,39 @@ C:\Windows\System32\logoff.exe
 echo your command here
 
 goto a
+```  
+
+* imagine is an automation where takes files from a dir, this batch 'watches' the dir and move the new part when needed
+```
+@echo off
+::example of filename Test_1.dat / Test_2.dat etc.
+set file="Test_*.dat"
+set dest="E:\INPUTDATA\LOAD\"
+set src="E:\files_for_load\"
+set inprogress="E:\INPUTDATA\INPROGRESS\*.dat"
+
+:hi
+if exist %dest%%file% (
+	echo file exists, files INPROGRESS now
+	dir %inprogress%  /s/b
+) ELSE (
+	echo file not exists
+	for %%a in (%src%%file%) do (
+		echo %%a
+		move %%a %dest%
+		goto hi
+	)
+goto hend
+)
+
+timeout /t 30
+
+goto hi
+
+:hend
+echo My Lord all the files processed!
+pause
+
 ```  
   
 * [horstmuc.The missing batch file operations](https://www.horstmuc.de/w32dial.htm)  

@@ -1,3 +1,10 @@
+## How Many Cells Are in Your Body?
+You and I began as a single cell, or what you would call an egg. By the time you are an adult, you will have trillions of cells. That number depends on the size of the person, but biologists put that number around 37 trillion cells.
+
+Did you know we lose 30,000 to 40,000 dead **skin cells** every minute? That means we lose around 50 million cells every day.  This is a lot of skin cells to replace, making cell division in skin cells is so important.  [source](https://askabiologist.asu.edu/cell-division)
+
+Your body replaces around 330 billion cells per day. At that rate, your body is making over 3.8 million new cells every second.  [source](https://www.sciencealert.com/your-body-makes-4-million-cells-a-second-and-most-of-them-are-blood) [[2](https://www.osgpc.com/amazing-facts-about-the-human-body/)]  
+
 ## Genome
 
 A **genome** is an organism’s complete set of DNA. If the **DNA** code is a **set of instructions** that’s carefully organized into  
@@ -368,5 +375,7 @@ Some **hormones** like adrenaline have very short live... Only 8 seconds. Melato
 * [Dr Berg - The Health Benefits of a Cucumber](https://www.youtube.com/watch?v=KP8XipP3qTE)
 * [Robert Lustig - Sugar - Is a Calorie a Calorie ? - Processed Food, Experiment Gone Wrong](https://www.youtube.com/watch?v=nxyxcTZccsE)
 
+----
 
-[Z-Anatomy](https://www.z-anatomy.com/) - 3D atlas of the human anatomy.
+* [Z-Anatomy](https://www.z-anatomy.com/) - 3D atlas of the human anatomy.
+* (2003) [Newstart: God's Laws Of Health](http://www.faculty.umb.edu/alexandrine_noel/AlexINFO/newstart.htm)
