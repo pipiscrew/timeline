@@ -105,4 +105,4 @@ mysterious high prices :
 * [harmonelo - Tailor-made probiotics - 1500e for 6 months supply](https://href.li/?https://pro-biotika.harmonelo.shop/e-shop.php)
 * [Ladislav Kuzela - 300e for consultation](https://href.li/?https://www.kuzela.sk/)  
 
-In general, all over the internet there are con man, trying to convince you that can solve your problem BEWARE!  
+In general, all over the internet there are con man, trying to [convince](https://www.youtube.com/watch?v=XajrAN3Y_0c) you that can solve your problem BEWARE!  
