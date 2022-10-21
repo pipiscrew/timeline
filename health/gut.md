@@ -7,7 +7,7 @@ Human vandalized his body every day. Take a look, what is as raw food in compari
 
 we have to be more protective for our **gastrointestinal system**.  
 
-Have in mind that garlic, antbiotics destroy the intestinal microflora (kill bad & good bacteria). They saying, that, when take 1 pill antibiotic, to recover as was, takes 6 months. Thats why the **new ERA** doctors when prescribe antibiotics always add probiotics as well (2 hours before or after the bomb).  
+Have in mind that **garlic**, **antibiotics** destroy the intestinal microflora (kill bad & good bacteria). They saying, that, when take 1 pill antibiotic, to recover as was, takes 6 months. Thats why the **new ERA** doctors when prescribe antibiotics always add probiotics as well (2 hours before or after the bomb).  
 
 **Probiotics** (green / animal) are the good bacteria that should be present in a healthy intestinal tract.  
 
