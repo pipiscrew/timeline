@@ -36,6 +36,7 @@
 		* [Awesome Desktop JS](https://github.com/styfle/awesome-desktop-js)
 * [Health]
 	* [introduction](/health/introduction.md)
+	* [gut](/health/gut.md)
 	* [exercise](/health/exercise.md)
 	* [sprouting](/health/sprouting.md)
 	* [meat](/health/meat.md)
