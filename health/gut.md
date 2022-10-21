@@ -3,7 +3,7 @@
 Human vandalized his body every day. Take a look, what is as raw food in comparison of what you eat. If you consider that :
 
 * 80% of immune system is on gut.
-* till as 2022, doctors they not taught about small intestine, even gastrologists going till the entrance of **duodenum** (the first part of small intestine).  
+* till as 2022, doctors they not taught about small intestine, even gastrologists going till the entrance of [duodenum](https://www.innerbody.com/image_dige02/dige21.html) (the first part of small intestine).  
 
 we have to be more protective for our **gastrointestinal system**.  
 
