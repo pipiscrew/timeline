@@ -80,4 +80,30 @@ The following are discovered over the internet, all tried by myself, use it on y
 * (rebuild) `L-Glutamine` 3g / day (or as [product](https://store.amymyersmd.com/products/leaky-gut-revive))
 * (rebuild) `Fulvic acid` 5ml x 3 times / day as a [product](https://intelligenceofnature.com/) - Terrahydrite is a lignite which contains humic acid within turn contains fulvic acid.
 * (rebuild) `Quercetin` 500mg x 2 times / day ([suggested by](https://chriskresser.com/quercetin-heal-leaky-gut/)) - flavonoid found in high amounts in onions, kale and apples.
+* (rebuild+detox) `Aloe vera` gel - 50mg x 3 times / day ([proven by](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2763764/))
 * (detox) `Activated vegetable carbon` 3x200mg x 3 times / day (max 2 weeks) - stool may turn black is harmless.
+
+In case of `PROBIOTICS` and you are with `histamine intolerance` the following found through internet :   
+* Number of `strains` may be reduced, specific some Lactobacillus strains can be beneficial, but they produce enough histamine that may cause trouble for those with histamine intolerance. Also better to avoid `Curcumin`.
+* valid probiotic when the subject has `histamine intolerance` / `IBS`
+  * Bifidobacterium longum BB536 ( aka Morinaga BB536 )  ([reference](https://old.reddit.com/r/ibs/comments/65ifz6/ibsc_sibo_cured_with_single_strain_bb536_probiotic/))
+  * Bifidobacterium infantis 35624 ( longum subspecies ) ([reference](https://www.symbiosys.com/symbiosys-alflorex/))  
+  -- this [supplement](https://www.seekinghealth.com/products/probiota-histaminx-60-capsules) includes only those
+  * Bifidobacterium bifidum & BB536 & 35624
+  * Lactobacillus salivarius
+  * Lactobacillus plantarum
+  * Bifidobacterium lactis
+  * Bifidobacterium breve  
+
+More over for **MaximilianKohler** extended research read [here](https://github.com/MaximilianKohler/HumanMicrobiome/wiki/Probiotic-Guide).  
+
+Links :  
+* [reddit - HistamineIntolerance](https://old.reddit.com/r/HistamineIntolerance/)
+* [reddit - GutHealth](http://old.reddit.com/r/GutHealth/)
+* [reddit - Leaky Gut](http://old.reddit.com/r/LeakyGutSyndrome/)  
+
+mysterious high prices :  
+* [harmonelo - Tailor-made probiotics - 1500e for 6 months supply](https://href.li/?https://pro-biotika.harmonelo.shop/e-shop.php)
+* [Ladislav Kuzela - 300e for consultation](https://www.kuzela.sk/)  
+
+In general, all over the internet there are con man, trying to convince you that can solve your problem BEWARE!  
