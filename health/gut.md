@@ -11,13 +11,13 @@ Have in mind that **garlic**, **antibiotics** destroy the intestinal microflora 
 
 **Probiotics** (green / animal) are the good bacteria that should be present in a healthy intestinal tract.  
 
-**Prebiotics** (aka fermentable fiber) is what good bacteria eating to thrive, grow, properly colonize, and ensure they do not quickly **die off**....
+**Prebiotics** (aka fermentable fiber) is what good bacteria eating to thrive, grow, properly colonize, and ensure they do not quickly **die off**....  
 
 -----  
 
 In a very short description, on how it works, when you eat something goes to stomach then to [small intestine](https://www.britannica.com/science/small-intestine) (where the absortion is made) then throw the waste to [large intestine](https://www.britannica.com/science/large-intestine) then poop.  
 
-This **century** health problem, has to do with **small intestine**. More and more new diseases popping out. Responsible is what we eat, or more specific how the `raw` products we buying from super market `prepared` and `preserved`. Something change on production line (compared to previous century) yeah the people made more greedy and profitable....  
+This **century** health problem, has to do with **small intestine**. More and more new diseases popping out. Responsible is what we eat, or more specific how the `raw` products we buying from super market `cultivated`, `grow`, `prepared` and `preserved`. Something change on production line (compared to previous century) yeah the people made more greedy and profitable....  
 
 And guess what(?), still, there is no **home device** to drop a food and analyze it if is good/bad for eating... Anyway, the consumer has to rethink what is buying as `food` because in most situations is not `food`, is garbage.  When garbaging your body for years diseases occurring.  
 
@@ -106,3 +106,19 @@ mysterious high prices :
 * [Ladislav Kuzela - 300e for consultation](https://href.li/?https://www.kuzela.sk/)  
 
 In general, all over the internet there are con man, trying to [convince](https://www.youtube.com/watch?v=XajrAN3Y_0c) you that can solve your problem BEWARE!  
+
+-----  
+
+## What is the intestinal microbiota?  
+
+The intestinal microbiota (formerly known as "gut flora") is the totality of all microorganisms, especially bacteria and yeasts, in the intestine. Almost **100 billion microorganisms live in a natural balance in the intestine**. There are ten times more microorganisms in the human gut **than** there are cells in the human body. It has now been established that the intestinal microbiota plays an **important** role in maintaining human health, **particularly** in the area of the digestive system. The balance of the intestinal microbiota can be **disturbed** by various factors. The resulting **imbalance** in the intestinal flora is referred to as `dysbiosis`. This dysbiosis can adversely affect our health and digestive functions. source - probiotic alflorex leaflet  
+
+* (IE) [PrecisionBiotics](https://www.precisionbiotics.com/) - official producer of alflorex (symbiosys is distro)
+  * [UK Shop](https://www.precisionbiotics.co.uk/)
+  * [PrecisionBiotics Group](https://precisionbioticsgroup.com/)
+  * (2020) (DK) [Novozymes acquires PrecisionBiotics Group](https://www.novozymes.com/en/news/news-archive/2020/6/novozymes-acquires-precisionbiotics-group-to-advance-its-business-within-human-health)
+  * [Novozymes Acquisitions](https://www.crunchbase.com/organization/novozymes)
+* (IE) [Alimentary Health](https://www.crunchbase.com/organization/alimentary-health)
+* (IE) [APC Microbiome Institute](https://www.ucc.ie/en/apc/)
+* [Biocodex Microbiota Institute](https://www.biocodexmicrobiotainstitute.com/en/pro) - international platform to house data on human microbiota
+* [World Gastroenterology Organization](https://www.worldgastroenterology.org/) - focused on the improvement of standards in training, education, and the practice of gastroenterology
