@@ -31,7 +31,7 @@ This affect any mothefucker, vegan or carnivore.
 
 You can not feel anything at the moment and nobody can diagnosed **leaky-gut** except if you do a `Pathological examination by Bioresonance` (find doctor with [Asyra](https://www.asyra.co.uk/)), there will show **epithelial cells** have a gap (aka inflammation).. When there is gap on epithelial cells **shits** going in to your blood stream, unfiltered.
 
-![img](../leakygut.jpg)  
+![img](../assets/leakygut.jpg)  
 
 read more [here](https://www.gastrosav.com/blog/leaky-gut-what-it-is-and-how-to-heal-it/).  
 
