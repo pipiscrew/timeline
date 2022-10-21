@@ -7,7 +7,7 @@ Human vandalized his body every day. Take a look, what is as raw food in compari
 
 we have to be more protective for our **gastrointestinal system**.  
 
-Have in mind that garlic, antbiotics destroy the intestinal microflora (kill bad & good bacteria). They saying, that, when take 1 pill antibiotics, to recover as was, takes 6 months (while eating as should be). Thats why the **new ERA** doctors when prescribe antibiotics always prescribe probiotics as well (2 hours before or after the bomb).  
+Have in mind that garlic, antbiotics destroy the intestinal microflora (kill bad & good bacteria). They saying, that, when take 1 pill antibiotic, to recover as was, takes 6 months. Thats why the **new ERA** doctors when prescribe antibiotics always add probiotics as well (2 hours before or after the bomb).  
 
 **Probiotics** (green / animal) are the good bacteria that should be present in a healthy intestinal tract.  
 
@@ -69,7 +69,7 @@ when eat outside (max 2 days / week) preferred cuisines :
 * Vietnamese
 * Thai  
 
-btw those dont have galric or tomatoes in their plates, what you say(?) random(?), nah....  
+btw those don't have garlic or tomatoes in their plates....  
 
 ## natural medicines
 
@@ -78,5 +78,5 @@ For starters, start ASAP getting `PREBIOTIC` of type `Psyllium` (always prefer c
 The following are discovered over the internet, all tried by myself, use it on your own risk...  
 * (rebuild) `L-Glutamine` 3g / day (or as [product](https://store.amymyersmd.com/products/leaky-gut-revive))
 * (rebuild) `Fulvic acid` 5ml x 3 times / day as a [product](https://intelligenceofnature.com/) - Terrahydrite is a lignite which contains humic acid within turn contains fulvic acid.
-* (rebuild) `Quercetin` 500mg x 2 times / day ([suggested by](https://chriskresser.com/quercetin-heal-leaky-gut/))
+* (rebuild) `Quercetin` 500mg x 2 times / day ([suggested by](https://chriskresser.com/quercetin-heal-leaky-gut/)) - flavonoid found in high amounts in onions, kale and apples.
 * (detox) `Activated vegetable carbon` 3x200mg x 3 times / day (max 2 weeks) - stool may turn black is harmless.
