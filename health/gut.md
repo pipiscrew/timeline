@@ -118,6 +118,7 @@ The intestinal microbiota (formerly known as "gut flora") is the totality of all
   * [PrecisionBiotics Group](https://precisionbioticsgroup.com/)
   * (2020) (DK) [Novozymes acquires PrecisionBiotics Group](https://www.novozymes.com/en/news/news-archive/2020/6/novozymes-acquires-precisionbiotics-group-to-advance-its-business-within-human-health)
   * [Novozymes Acquisitions](https://www.crunchbase.com/organization/novozymes)
+  * [Novozymes - Vanguard hit again](https://finance.yahoo.com/quote/NZYM-B.CO/holders?p=NZYM-B.CO)
 * (IE) [Alimentary Health](https://www.crunchbase.com/organization/alimentary-health)
 * (IE) [APC Microbiome Institute](https://www.ucc.ie/en/apc/)
 * [Biocodex Microbiota Institute](https://www.biocodexmicrobiotainstitute.com/en/pro) - international platform to house data on human microbiota
