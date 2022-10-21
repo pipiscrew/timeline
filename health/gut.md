@@ -55,7 +55,8 @@ I can understand, that till now, some people, eat to insure that are not hungry.
 * wine
 * spinach
 * can foods (tuna included)
-* fermented foods (example pickle / kombucha / kimchi / sauerkraut)  
+* fermented foods (example pickle / kombucha / kimchi / sauerkraut)
+* spicy (even pepper or oregano)  
 
 easy to cook 5 days schedule : 
 * pasta w/ frozen vegs
