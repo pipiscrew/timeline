@@ -95,15 +95,14 @@ In case of `PROBIOTICS` and you are with `histamine intolerance` the following f
   * Bifidobacterium lactis
   * Bifidobacterium breve  
 
-More over for **MaximilianKohler** extended research read [here](https://github.com/MaximilianKohler/HumanMicrobiome/wiki/Probiotic-Guide).  
-
 Links :  
+* [Maximilian Kohler extended research](https://github.com/MaximilianKohler/HumanMicrobiome/wiki/Probiotic-Guide)
 * [reddit - HistamineIntolerance](https://old.reddit.com/r/HistamineIntolerance/)
 * [reddit - GutHealth](http://old.reddit.com/r/GutHealth/)
 * [reddit - Leaky Gut](http://old.reddit.com/r/LeakyGutSyndrome/)  
 
 mysterious high prices :  
 * [harmonelo - Tailor-made probiotics - 1500e for 6 months supply](https://href.li/?https://pro-biotika.harmonelo.shop/e-shop.php)
-* [Ladislav Kuzela - 300e for consultation](https://www.kuzela.sk/)  
+* [Ladislav Kuzela - 300e for consultation](https://href.li/?https://www.kuzela.sk/)  
 
 In general, all over the internet there are con man, trying to convince you that can solve your problem BEWARE!  
