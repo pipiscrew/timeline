@@ -133,6 +133,6 @@ each capsule contains :
 * E464 Hydroxypropyl methyl cellulose
 * E470b Magnesium Stearate  
 
-> FYI : 9 Bifidobacterium longum (including 35624) strains originally isolated from human **vaginal microbiota**  &nbsp;&nbsp;  [source](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5912743/)  
+> (2018) Bifidobacterium longum (including 35624) strains originally isolated from human **vaginal microbiota**  &nbsp;&nbsp;  [source](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5912743/)  
 
 
