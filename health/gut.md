@@ -117,7 +117,7 @@ Bifidobacterium 35624 culture was isolated from the **healthy human gut** and ha
 
 The intestinal microbiota (formerly known as "gut flora") is the totality of all microorganisms, especially bacteria and yeasts, in the intestine. Almost **100 billion microorganisms live in a natural balance in the intestine**. There are ten times more microorganisms in the human gut **than** there are cells in the human body. It has now been established that the intestinal microbiota plays an **important** role in maintaining human health, **particularly** in the area of the digestive system. The balance of the intestinal microbiota can be **disturbed** by various factors. The resulting **imbalance** in the intestinal flora is referred to as `dysbiosis`. This dysbiosis can adversely affect our health and digestive functions. 
 
-* (IE) [PrecisionBiotics](https://www.precisionbiotics.com/) - official producer of alflorex (symbiosys is distro)
+* (IE) [PrecisionBiotics](https://www.precisionbiotics.com/) - official producer of alflorex ([symbiosys](https://www.symbiosys.com/) is distro / [akacia](http://www.akacia.eu/) is distro)
   * [UK Shop](https://www.precisionbiotics.co.uk/)
   * [PrecisionBiotics Group](https://precisionbioticsgroup.com/)
   * (2020) (DK) [Novozymes acquires PrecisionBiotics Group](https://www.novozymes.com/en/news/news-archive/2020/6/novozymes-acquires-precisionbiotics-group-to-advance-its-business-within-human-health)
