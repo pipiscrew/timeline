@@ -27,7 +27,7 @@ This affect any mothefucker, vegan or carnivore.
 
 2020 - A team, led by Magnus Simrén, MD, PhD, Professor of Gastroenterology at Sahlgrenska Academy, University of Gothenburg, found nearly **40% of adults suffer from a functional gastrointestinal disorder** in a 73,000 people, 33 country survey.
 
-`leaky-gut` is the precursor to food sensitivities, rashes, cognitive issues, and even autoimmune disease.
+`leaky-gut` is the precursor to food sensitivities, rashes, hormones imbalance, cognitive issues, and even autoimmune disease.
 
 You can not feel anything at the moment and nobody can diagnosed **leaky-gut** except if you do a `Pathological examination by Bioresonance` (find doctor with [Asyra](https://www.asyra.co.uk/)), there will show **epithelial cells** have a gap (aka inflammation).. When there is gap on epithelial cells **shits** going in to your blood stream, unfiltered.
 
@@ -35,7 +35,7 @@ You can not feel anything at the moment and nobody can diagnosed **leaky-gut** e
 
 read more [here](https://www.gastrosav.com/blog/leaky-gut-what-it-is-and-how-to-heal-it/).  
 
-The body starts with a **skin condition** like flares, rashes, hives, papules, eczema, dermographism, you name it... Then the **traditional doctors** can diagnosed histamine intolerance / IBS / Crohn / Colitis...  
+The body starts with a **skin condition** like flares, rashes, hives, papules, eczema, dermographism, gynecomastia due high estrogen hormone, you name it... Then the **traditional doctors** can diagnosed histamine intolerance / IBS / Crohn / Colitis...  
 
 I would like to point out that `Interventional Radiology` doctors can diagnose **gastrointestinal cysts**.  
 
@@ -109,9 +109,13 @@ In general, all over the internet there are con man, trying to [convince](https:
 
 -----  
 
-## What is the intestinal microbiota?  
+## Alflorex leaflet
 
-The intestinal microbiota (formerly known as "gut flora") is the totality of all microorganisms, especially bacteria and yeasts, in the intestine. Almost **100 billion microorganisms live in a natural balance in the intestine**. There are ten times more microorganisms in the human gut **than** there are cells in the human body. It has now been established that the intestinal microbiota plays an **important** role in maintaining human health, **particularly** in the area of the digestive system. The balance of the intestinal microbiota can be **disturbed** by various factors. The resulting **imbalance** in the intestinal flora is referred to as `dysbiosis`. This dysbiosis can adversely affect our health and digestive functions. source - probiotic alflorex leaflet  
+Bifidobacterium 35624 culture was isolated from the **healthy human gut** and has been extensively characterised and tested by scientists, clinicians and gastroenterologists. It is backed by over 15 years of research and over 50 scientific publications. Strain belongs to the family of bacteria that are **passed** from mother to baby at **birth** and live naturally in the human gut. It passes through the digestive system and reaches the intestine alive.
+
+### What is the intestinal microbiota?  
+
+The intestinal microbiota (formerly known as "gut flora") is the totality of all microorganisms, especially bacteria and yeasts, in the intestine. Almost **100 billion microorganisms live in a natural balance in the intestine**. There are ten times more microorganisms in the human gut **than** there are cells in the human body. It has now been established that the intestinal microbiota plays an **important** role in maintaining human health, **particularly** in the area of the digestive system. The balance of the intestinal microbiota can be **disturbed** by various factors. The resulting **imbalance** in the intestinal flora is referred to as `dysbiosis`. This dysbiosis can adversely affect our health and digestive functions. 
 
 * (IE) [PrecisionBiotics](https://www.precisionbiotics.com/) - official producer of alflorex (symbiosys is distro)
   * [UK Shop](https://www.precisionbiotics.co.uk/)
@@ -123,3 +127,8 @@ The intestinal microbiota (formerly known as "gut flora") is the totality of all
 * (IE) [APC Microbiome Institute](https://www.ucc.ie/en/apc/)
 * [Biocodex Microbiota Institute](https://www.biocodexmicrobiotainstitute.com/en/pro) - international platform to house data on human microbiota
 * [World Gastroenterology Organization](https://www.worldgastroenterology.org/) - focused on the improvement of standards in training, education, and the practice of gastroenterology
+
+each capsule contains : 
+* E331 Sodium Citrate
+* E464 Hydroxypropyl methyl cellulose
+* E470b Magnesium Stearate
