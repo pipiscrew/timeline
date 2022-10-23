@@ -95,6 +95,10 @@ In case of `PROBIOTICS` and you are with `histamine intolerance` the following f
   * Bifidobacterium lactis
   * Bifidobacterium breve  
 
+
+> All people must follow the 12h fasting (aka 8pm - 8am) every day. Because when gut is empty, allows to start cleansing processes.  [source](https://old.reddit.com/r/GutHealth/comments/y1hlza/what_people_should_know_about_detoxification/) &nbsp;&nbsp;([mirror](https://www.pipiscrew.com/threads/49249/))  
+
+
 Links :  
 * [Maximilian Kohler extended research](https://github.com/MaximilianKohler/HumanMicrobiome/wiki/Probiotic-Guide)
 * [reddit - HistamineIntolerance](https://old.reddit.com/r/HistamineIntolerance/)
