@@ -74,7 +74,7 @@ btw those cuisines don't have garlic or tomatoes in their plates....
 
 * for liver [soak in milk](https://therustyspoon.com/why-do-you-soak-liver-in-milk-before-cooking/)
 * for beans soak overnight, make sure cooked for 1h
-* do [spouting](/health/sprouting.md) with mung beans, eat 3 times / day one palm.
+* do [spouting](/health/sprouting.md) with mung beans (aka green small beans), eat 3 times / day one palm.
 
 ## natural medicines
 
