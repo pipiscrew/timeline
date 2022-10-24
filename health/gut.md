@@ -48,7 +48,7 @@ I can understand, that till now, some people, eat to insure that are not hungry.
 * garlic
 * vinegar
 * tomato
-* chocolate (except small portions of [Milka](https://en.wikipedia.org/wiki/Milk_chocolate) or [Magnum](https://www.magnumicecream.com/us/en/flavors/icecream-bars/double-chocolate-ice-cream-bar.html))
+* chocolate (except small portions of [Milka](https://www.milka.be/) or [Magnum](https://www.magnumicecream.com/us/en/flavors/icecream-bars/double-chocolate-ice-cream-bar.html))
 * ham
 * milk
 * aged cheese
@@ -60,17 +60,17 @@ I can understand, that till now, some people, eat to insure that are not hungry.
 
 easy to cook 5 days schedule : 
 * pasta (130gr) w/ frozen vegs (100gr)
-* chicken breast OR liver OR pork tomahawk (~250gr-300gr)
+* meat (chicken breast / liver / pork tomahawk) (~250gr-300gr)
 * pasta w/ frozen vegs
-* fish (COD)  (~250gr-300gr)
-* legumes (blackeye or lentils) (100gr)
+* fish (COD / tuna / salmon) fresh or frozen (~250gr-300gr)
+* legumes (blackeye / lentils) (100gr)
 
 when eat outside (max 2 days / week) preferred cuisines :
 * Asian
 * Vietnamese
 * Thai  
 
-btw those cuisines don't have garlic or tomatoes in their plates....  
+those cuisines don't have garlic or tomatoes in their plates....  
 
 * for liver [soak in milk](https://therustyspoon.com/why-do-you-soak-liver-in-milk-before-cooking/)
 * for beans soak overnight, make sure cooked for 1h
