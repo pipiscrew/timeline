@@ -59,18 +59,22 @@ I can understand, that till now, some people, eat to insure that are not hungry.
 * spicy (even pepper or oregano)  
 
 easy to cook 5 days schedule : 
+* pasta (130gr) w/ frozen vegs (100gr)
+* chicken breast OR liver OR pork tomahawk (~250gr-300gr)
 * pasta w/ frozen vegs
-* pork tomahawk
-* pasta w/ frozen vegs
-* fish (COD)
-* legumes (blackeye etc.)
+* fish (COD)  (~250gr-300gr)
+* legumes (blackeye or lentils) (100gr)
 
 when eat outside (max 2 days / week) preferred cuisines :
 * Asian
 * Vietnamese
 * Thai  
 
-btw those don't have garlic or tomatoes in their plates....  
+btw those cuisines don't have garlic or tomatoes in their plates....  
+
+* for liver [soak in milk](https://therustyspoon.com/why-do-you-soak-liver-in-milk-before-cooking/)
+* for beans soak overnight, make sure cooked for 1h
+* do [spouting](sprouting.md) with mung beans, eat 3 times / day one palm.
 
 ## natural medicines
 
