@@ -24,4 +24,4 @@ Apart from the sunlight, you have to make sure the indoor light is correct... Ev
 
 **Fluorescent lamps** are generally recognized as safe, for some people, exposure to fluorescent light appears to **elicit** an elevated **stress** response.
 
-With CFLs (compact florescent light bulbs) as your main light source **day in** and **day out**, this could increase your risk for **migraines** and **eye strain**. [source](https://www.healthline.com/health/natural-light-benefits)  
+With CFLs (compact fluorescent light bulbs) as your main light source **day in** and **day out**, this could increase your risk for **migraines** and **eye strain**. [source](https://www.healthline.com/health/natural-light-benefits)  
