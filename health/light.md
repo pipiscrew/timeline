@@ -14,7 +14,7 @@ So our **skin** not just a barrier, it's a living **organ**. When our skin sees 
 
 -------
 
-Apart from the sunlight, you have to make sure the indoor light is correct... Even you have a doudt is lightless, go and buy a **floor light**... Give special attention to the bulbs!! 
+Apart from the sunlight, you have to make sure the indoor light is correct... Even you have a doubt is lightless, go and buy a **floor light**... Give special attention to the bulbs!! 
 
 * Trust the leader and go for brand **OSRAM**
 * Must by [LED](https://www.pipiscrew.com/threads/bulbs.50615/)
