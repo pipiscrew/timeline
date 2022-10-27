@@ -59,7 +59,7 @@ I can understand, that till now, some people, eat to insure that are not hungry.
 * spicy (even pepper or oregano)  
 
 easy to cook 5 days schedule : 
-* pasta (130gr) w/ frozen vegs (100gr)
+* pasta (130gr) w/ frozen vegs (100gr) prefer `durum wheat`
 * meat (chicken breast / liver / pork tomahawk) (~250gr-300gr)
 * pasta w/ frozen vegs
 * fish (COD / tuna / salmon) fresh or frozen (~250gr-300gr)
@@ -76,7 +76,11 @@ those cuisines don't have garlic or tomatoes in their plates....
 * for beans soak overnight, make sure cooked for 1h
 * do [spouting](/health/sprouting.md) with mung beans (aka green small beans), eat 3 times / day one palm.
 
-## natural medicines
+for cereal & bread, choose only whole wheat.
+* The mutligrain bread, is made by white floor and include grains.
+* The whole wheat bread is made by wholemeal.
+
+## medicines
 
 For starters, start ASAP getting `PREBIOTIC` of type `Psyllium` (always prefer capsule no powder) - 30min before lunch..
 

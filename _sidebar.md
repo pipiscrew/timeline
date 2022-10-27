@@ -37,6 +37,7 @@
 * [Health]
 	* [introduction](/health/introduction.md)
 	* [gut](/health/gut.md)
+	* [light](/health/light.md)
 	* [exercise](/health/exercise.md)
 	* [sprouting](/health/sprouting.md)
 	* [meat](/health/meat.md)
