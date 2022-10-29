@@ -279,6 +279,7 @@
 * [Life Stats via DOB](https://neal.fun/life-stats/)
 * [Fake Tweet Generator](https://shashiirk.github.io/fake-tweet-generator/) - Twitter Generator
 * [file hash](https://md5file.com/calculator) - client side (md5/sha512++)  
+* [ascii generator](http://patorjk.com/software/taag/) (or [figlet](https://www.npmjs.com/package/figlet))  
 
 ## cpu
 * [CPU-Z](https://www.cpuid.com/downloads/cpu-z/cpu-z_1.96-en.zip) - information for cpu

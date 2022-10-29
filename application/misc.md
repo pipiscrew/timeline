@@ -279,6 +279,11 @@ echo your command here
 goto a
 ```  
 
+* merge text files
+```
+copy /b file1.txt + file2.txt all.txt
+```  
+
 * imagine is an automation where takes files from a dir, this batch 'watches' the dir and move the new part when needed
 ```
 @echo off

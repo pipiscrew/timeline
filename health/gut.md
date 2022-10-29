@@ -59,9 +59,9 @@ I can understand, that till now, some people, eat to insure that are not hungry.
 * spicy (even pepper or oregano)  
 
 easy to cook 5 days schedule : 
-* pasta (130gr) w/ frozen vegs (100gr) prefer `durum wheat`
+* rice / pasta (130gr) w/ frozen vegs (100gr)
 * meat (chicken breast / liver / pork tomahawk) (~250gr-300gr)
-* pasta w/ frozen vegs
+* rice / pasta w/ frozen vegs
 * fish (COD / tuna / salmon) fresh or frozen (~250gr-300gr)
 * legumes (blackeye / lentils) (100gr)
 
@@ -72,9 +72,12 @@ when eat outside (max 2 days / week) preferred cuisines :
 
 those cuisines don't have garlic or tomatoes in their plates....  
 
+* pasta prefer `durum wheat`, soak for 15min, when is not spaghetti.
+* rice ( jasmin / basmati ) soak for 15min.
 * for liver [soak in milk](https://therustyspoon.com/why-do-you-soak-liver-in-milk-before-cooking/)
 * for beans soak overnight, make sure cooked for 1h
 * do [spouting](/health/sprouting.md) with mung beans (aka green small beans), eat 3 times / day one palm.
+* breakfast bran / oat flakes
 
 for cereal & bread, choose only whole wheat.
 * The mutligrain bread, is made by white floor and include grains.
