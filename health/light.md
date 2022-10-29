@@ -14,7 +14,7 @@ So our **skin** not just a barrier, it's a living **organ**. When our skin sees 
 
 -------
 
-Apart from the sunlight, you have to make sure the indoor light is correct... Even you have a doubt is lightless, go and buy a **floor light**... Give special attention to the bulbs!! 
+Apart from the sunlight, you have to make sure the indoor light is correct... Even you have a doubt is lightless, go and buy a **floor light**... Give special attention to the [bulbs](https://www.pipiscrew.com/threads/bulbs.50615)!! 
 
 * Trust the leader and go for brand **OSRAM**
 * Must by [LED](https://www.pipiscrew.com/threads/bulbs.50615/)
@@ -26,6 +26,5 @@ Apart from the sunlight, you have to make sure the indoor light is correct... Ev
 
 With CFLs (compact fluorescent light bulbs) as your main light source **day in** and **day out**, this could increase your risk for **migraines** and **eye strain**. [source](https://www.healthline.com/health/natural-light-benefits)  
 
--------
 
-[bulbs](https://www.pipiscrew.com/threads/bulbs.50615)
+
