@@ -18,7 +18,7 @@ Apart from the sunlight, you have to make sure the indoor light is correct... Ev
 
 * Trust the leader and go for brand **OSRAM**
 * Must by [LED](https://www.pipiscrew.com/threads/bulbs.50615/)
-* Must be type `warm blue`  
+* Must be type `warm white`  
 
 -------
 
