@@ -93,6 +93,7 @@ The following are discovered over the internet, all tried by myself, use it on y
 * (rebuild) `Quercetin` 500mg x 2 times / day ([suggested by](https://chriskresser.com/quercetin-heal-leaky-gut/)) - flavonoid found in high amounts in onions, kale and apples.
 * (rebuild+detox) `Aloe vera` gel - 50mg x 3 times / day ([proven by](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2763764/))
 * (detox) `Activated vegetable carbon` 3x200mg x 3 times / day (max 2 weeks) - stool may turn black is harmless.
+* (rebuild) `Bifidobacterium strains` (two products, see at the end of the page)  
 
 In case of `PROBIOTICS` and you are with `histamine intolerance` the following found through internet :   
 * Number of `strains` may be reduced, specific some Lactobacillus strains can be beneficial, but they produce enough histamine that may cause trouble for those with histamine intolerance. Also better to avoid `Curcumin`.
@@ -124,7 +125,11 @@ In general, all over the internet there are con man, trying to [convince](https:
 
 -----  
 
-## Alflorex leaflet
+## (probiotic) Alflorex (Bifidobacterium 35624)  
+
+1 billion CFU (coloning forming units)  
+
+### leaflet  
 
 Bifidobacterium 35624 culture was isolated from the **healthy human gut** and has been extensively characterised and tested by scientists, clinicians and gastroenterologists. It is backed by over 15 years of research and over 50 scientific publications. Strain belongs to the family of bacteria that are **passed** from mother to baby at **birth** and live naturally in the human gut. It passes through the digestive system and reaches the intestine alive.
 
@@ -150,4 +155,16 @@ each capsule contains :
 
 > (2018) Bifidobacterium longum (including 35624) strains originally isolated from human **vaginal microbiota**  &nbsp;&nbsp;  [source](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5912743/)  
 
+-----  
 
+## (probiotic) Natural Factors - Travel Biotic (Bifidobacterium longum BB536)  
+
+10 billion CFU (coloning forming units)
+
+Is one of the most well-established, clinically effective probiotic strains that confers numerous profound beneficial effects on humans. BB536 possesses a proven track record of safety and clinical efficacy in improving gastrointestinal, immunological and infectious conditions, as demonstrated in more than 200 scientific studies. All started from a Japanese company produce dairy milk, BB536 is a registered trademark of Morinaga Milk Industry. [source](https://morinagamilk-ingredients.com/probiotics/bb536/)  
+
+Today, different medicinal substances, yoghurts and other dairy products are specifically bifidobacterium enriched. Research shows that strain BB536 can inhibit the production of the human antibody immunoglobulin E (IgE) under laboratory conditions.  [source](https://www.vitalstoffmedizin.com/bifidobacterium-longum-bb536/)  
+
+* (CA) [product page](https://naturalfactors.com/products/travelbiotic-bb536-probiotic) - domain created 1996  
+* [ISURA verified](https://isura.ca/)  
+* [iHerb page](https://iherb.com/pr/natural-factors-travel-biotic-bb536-10-billion-60-vegetarian-capsules/71125)  
