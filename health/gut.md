@@ -125,9 +125,9 @@ In general, all over the internet there are con man, trying to [convince](https:
 
 -----  
 
-## (probiotic) Alflorex (Bifidobacterium 35624)  
+## (probiotic) Alflorex (Bifidobacterium longum 35624)  
 
-1 billion CFU (coloning forming units)  
+1 billion CFU (coloning forming units) / dose : strictly one capsule per day  
 
 ### leaflet  
 
@@ -159,7 +159,7 @@ each capsule contains :
 
 ## (probiotic) Natural Factors - Travel Biotic (Bifidobacterium longum BB536)  
 
-10 billion CFU (coloning forming units)
+10 billion CFU (coloning forming units) / dose : 1-6 capsules per day  
 
 Is one of the most well-established, clinically effective probiotic strains that confers numerous profound beneficial effects on humans. BB536 possesses a proven track record of safety and clinical efficacy in improving gastrointestinal, immunological and infectious conditions, as demonstrated in more than 200 scientific studies. All started from a Japanese company produce dairy milk, BB536 is a registered trademark of Morinaga Milk Industry. [source](https://morinagamilk-ingredients.com/probiotics/bb536/)  
 
