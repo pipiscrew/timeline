@@ -31,6 +31,8 @@ This affect any mothefucker, vegan or carnivore.
 
 You can not feel anything at the moment and nobody can diagnosed **leaky-gut** except if you do a `Pathological examination by Bioresonance` (find doctor with [Asyra](https://www.asyra.co.uk/)), there will show **epithelial cells** have a gap (aka inflammation).. When there is gap on epithelial cells **shits** going in to your blood stream, unfiltered.
 
+`Zonulin` is a protein that regulates tight junctions. Research has shown that higher levels of this protein may loosen tight junctions and increase intestinal permeability. **Zonulin test** - [Alessio Fasano - role of zonulin on leaky gut](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6996528/) [[ 2 ](https://drgoodmannd.com/2017/10/zonulin-a-way-to-test-for-leaky-gut/)] [[ 3 ](https://www.youtube.com/watch?v=l8C1BzAo6-8)] [[ 4 ](https://youtu.be/l8C1BzAo6-8?t=56)] [[ 5 (GR) ](https://athenslab.gr/exetaseis-prolipsis/zonoulini-kopranon-1521)]  
+
 ![img](../assets/leakygut.jpg)  
 
 read more [here](https://www.gastrosav.com/blog/leaky-gut-what-it-is-and-how-to-heal-it/).  
