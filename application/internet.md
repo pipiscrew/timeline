@@ -23,7 +23,7 @@ To start with specific profile, `chrome.exe --user-data-dir=c:\foo`
 
 ### Gecko 
 
-* [Mozilla.Firefox](https://www.mozilla.org/en-US/firefox/all/#product-desktop-release) 
+* [Mozilla.Firefox](https://www.mozilla.org/en-US/firefox/all/#product-desktop-release) - [all versions](https://archive.mozilla.org/pub/firefox/releases/)
   * [Developer Edition](https://www.mozilla.org/en-US/firefox/developer/)
 * Unofficial windows, [IceCat](https://github.com/muslayev/icecat-win64) for ultra privacy. The official Linux [here](https://www.gnu.org/software/gnuzilla/).
 * [LibreWolf](https://librewolf.net/) - focused on privacy, security and freedom.
@@ -253,7 +253,7 @@ To disable multiple running processes of the browser, you can set `browser.tabs.
 * [EasyImgur](https://bryankeiren.com/easyimgur/)
 
 ## Mail
-* [Mozilla.Thunderbird](https://www.thunderbird.net/)
+* [Mozilla.Thunderbird](https://www.thunderbird.net/) - [all versions](https://archive.mozilla.org/pub/thunderbird/releases/)  
   * [Proton Mail Bridge Thunderbird setup guide](https://proton.me/support/protonmail-bridge-clients-windows-thunderbird)
 * [Betterbird](https://www.betterbird.eu/) - is a fine-tuned version of Mozilla Thunderbird
 * [Just Report It](https://justreport.it/) - Thunderbird & Outlook addon, report to spamcop & domain registrar

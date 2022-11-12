@@ -71,6 +71,18 @@
 - Diluted vinegar will [not damage](https://coffee.stackexchange.com/a/4205) the boiler or hoses in your espresso machine.
 - Official descaler ingredients : Water / Citrid acid, monohydrate / Lactic acid / Etidronic acid  
 
+### coffee not good ?
+* use [burr grinder](https://www.homegrounds.co/coffee-grind-chart/) (not blade grinder) [sample](https://coffeetechniciansguild.org/blog/2018/8/14/selecting-a-burr-type-for-an-espresso-grinder)
+* [5 Things To Try](https://www.javapresse.com/blogs/espresso/espresso-troubleshooting-5-things-to-try)
+  * Is it bitter and dull (over extracted)?
+  * Is it acidic and sour (under extracted)?
+* [why it never tastes as good](https://www.threellamascoffee.com/blogs/news/home-espresso-coffee-why-it-never-tastes-as-good-as-an-espresso-from-your-cafe)
+  * The extraction should finish at approx 25 - 30 seconds for a double shot basket.
+    * Coffee running TOO FAST (less than 20 seconds) = make the grind finer
+      * if your shot pulls too fast it tastes under extracted.
+    * Coffee running TOO SLOW (more than 35 seconds) = make the grind coarser  
+      *  if your shot pulls too slowly it tastes over extracted.
+
 ### Illy.Guatemala
 https://www.illy.com/en-us/eshop/coffee/whole-bean-coffee/arabica-selection-whole-bean-coffee-guatemala/6990ST
 
