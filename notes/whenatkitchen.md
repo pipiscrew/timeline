@@ -97,6 +97,14 @@ to be honest, forget about french press or bialetti moka, buy yourself an espres
     * Coffee running TOO SLOW (more than 35 seconds) = make the grind coarser  
       *  if your shot pulls too slowly it tastes over extracted.  
 
+Extraction always happens like this:  
+
+1. The first things to be extracted are bright, sour, flavorful acids
+2. Next come the aromatic oils, sugars, and most flavors
+3. Lastly come the lower notes and bitter tannins  
+
+Perfectly extracted espresso is flavorful, aromatic, and has a pleasant balance of bright acids and deeper bitter notes. It should taste like a symphony of flavors in harmony. This happens by extracting just the right amount of solids, oils, acids, and other things from the grounds.  
+
 ### Illy.Guatemala
 https://www.illy.com/en-us/eshop/coffee/whole-bean-coffee/arabica-selection-whole-bean-coffee-guatemala/6990ST  
 
