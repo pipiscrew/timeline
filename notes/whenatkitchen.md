@@ -77,11 +77,12 @@ to be honest, forget about french press or bialetti moka, buy yourself an espres
 * [video - burn the coffee](https://www.youtube.com/watch?v=q_YrpnsrscU) ([2](https://www.youtube.com/watch?v=E6oG_RYDqMo))
 * [video - use needle](https://youtu.be/vuRmnOiE03Q?t=83) - possible soak with baking soda and warm water before
 * [articles](https://www.google.com/search?q=espresso+filter+handle+clean)  
---
-* [How to Brew the Perfect Cup of Coffee, According to Science](https://theconversation.com/how-to-make-the-perfect-cup-of-coffee-with-a-little-help-from-science-129398)  
+
 
 ## krups suggestion
 **​Arabica** coffee offers the best taste and is naturally low in caffeine. Experiment with different types, mixtures, and degrees of roasting to find what works best for you. In general, the darker the roasting, the more pronounced the taste of coffee. Delicate roasting gives a rich aroma, and the result is a delicate coffee with a full flavor-for true connoisseurs! Quality coffee should only be roasted gently so that its true richness, softness and completeness stand out. **Avoid** too **dark** roasted grains, they are more **oily** and can **clog** the device. Check that there are no small stones between the grains that could damage the device at the same time. Never use instant or ground coffee.  
+
+* [How to Brew the Perfect Cup of Coffee, According to Science](https://theconversation.com/how-to-make-the-perfect-cup-of-coffee-with-a-little-help-from-science-129398)  
 
 ![img](../assets/terrible_espresso.jpg)
 
