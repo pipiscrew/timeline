@@ -56,7 +56,9 @@
 
 &nbsp;
 * **Metal filters** produce a more robust and visually **darker** cup of coffee, which **contains** more oils and sometimes small amounts of sediment.
-* **Paper filters** produce a **brighter**, sweeter cup of coffee with little or **no** sediment or oils, helping cut out the bad cholesterol found in coffee.
+* **Paper filters** produce a **brighter**, sweeter cup of coffee with little or **no** sediment or oils, helping cut out the bad cholesterol found in coffee.  
+
+to be honest, forget about french press or bialetti moka, buy yourself an espresso machine.  
 
 ### clean an espresso machine
 - Add to water tank 125ml white vinegar + 375ml water, attach the filter holder (empty)
@@ -71,6 +73,18 @@
 - Diluted vinegar will [not damage](https://coffee.stackexchange.com/a/4205) the boiler or hoses in your espresso machine.
 - Official descaler ingredients : Water / Citrid acid, monohydrate / Lactic acid / Etidronic acid  
 
+### clean the filter basket
+* [video - burn the coffee](https://www.youtube.com/watch?v=q_YrpnsrscU) ([2](https://www.youtube.com/watch?v=E6oG_RYDqMo))
+* [video - use needle](https://youtu.be/vuRmnOiE03Q?t=83) - possible soak with baking soda and warm water before
+* [articles](https://www.google.com/search?q=espresso+filter+handle+clean)  
+--
+* [How to Brew the Perfect Cup of Coffee, According to Science](https://theconversation.com/how-to-make-the-perfect-cup-of-coffee-with-a-little-help-from-science-129398)  
+
+## krups suggestion
+**​Arabica** coffee offers the best taste and is naturally low in caffeine. Experiment with different types, mixtures, and degrees of roasting to find what works best for you. In general, the darker the roasting, the more pronounced the taste of coffee. Delicate roasting gives a rich aroma, and the result is a delicate coffee with a full flavor-for true connoisseurs! Quality coffee should only be roasted gently so that its true richness, softness and completeness stand out. **Avoid** too **dark** roasted grains, they are more **oily** and can **clog** the device. Check that there are no small stones between the grains that could damage the device at the same time. Never use instant or ground coffee.  
+
+![img](../assets/terrible_espresso.jpg)
+
 ### coffee not good ?
 * use [burr grinder](https://www.homegrounds.co/coffee-grind-chart/) (not blade grinder) [sample](https://coffeetechniciansguild.org/blog/2018/8/14/selecting-a-burr-type-for-an-espresso-grinder)
 * [5 Things To Try](https://www.javapresse.com/blogs/espresso/espresso-troubleshooting-5-things-to-try)
@@ -81,20 +95,10 @@
     * Coffee running TOO FAST (less than 20 seconds) = make the grind finer
       * if your shot pulls too fast it tastes under extracted.
     * Coffee running TOO SLOW (more than 35 seconds) = make the grind coarser  
-      *  if your shot pulls too slowly it tastes over extracted.
+      *  if your shot pulls too slowly it tastes over extracted.  
 
 ### Illy.Guatemala
-https://www.illy.com/en-us/eshop/coffee/whole-bean-coffee/arabica-selection-whole-bean-coffee-guatemala/6990ST
-
-### clean the filter basket
-* [video - burn the coffee](https://www.youtube.com/watch?v=q_YrpnsrscU) ([2](https://www.youtube.com/watch?v=E6oG_RYDqMo))
-* [video - use needle](https://youtu.be/vuRmnOiE03Q?t=83) - possible soak with baking soda and warm water before
-* [articles](https://www.google.com/search?q=espresso+filter+handle+clean)  
---
-* [How to Brew the Perfect Cup of Coffee, According to Science](https://theconversation.com/how-to-make-the-perfect-cup-of-coffee-with-a-little-help-from-science-129398)  
-
-## krups suggestion
-**​Arabica** coffee offers the best taste and is naturally low in caffeine. Experiment with different types, mixtures, and degrees of roasting to find what works best for you. In general, the darker the roasting, the more pronounced the taste of coffee. Delicate roasting gives a rich aroma, and the result is a delicate coffee with a full flavor-for true connoisseurs! Quality coffee should only be roasted gently so that its true richness, softness and completeness stand out. **Avoid** too **dark** roasted grains, they are more **oily** and can **clog** the device. Check that there are no small stones between the grains that could damage the device at the same time. Never use instant or ground coffee.  
+https://www.illy.com/en-us/eshop/coffee/whole-bean-coffee/arabica-selection-whole-bean-coffee-guatemala/6990ST  
 
 ## Nappuccino
 Have a cup of coffee just before you doze off post lunch. Caffeine, a stimulant, takes about **twenty minutes** to enter your **bloodstream**, so if you have a cup of coffee, set your alarm for twenty minutes and then take a nap. You'll wake up refreshed and ready to go.
