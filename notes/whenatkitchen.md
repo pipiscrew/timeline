@@ -99,7 +99,7 @@ to be honest, forget about french press or bialetti moka, buy yourself an espres
       *  if your shot pulls too slowly it tastes over extracted.  
 
 ###  blade grinder bug  
-The small-sized coffee ground particles – called “fines” – will **over extract** some of the chemical compounds that cause **bitterness**, while the larger sized particles may remain **under extracted**.  [source](https://foodal.com/drinks-2/coffee/grinders/why-you-shouldnt-use-a-blade-grinder-for-your-coffee/)  [[instead buy burr grinder](https://www.amazon.co.uk/dp/B09W9N1ZWV/)]
+The small-sized coffee ground particles – called “fines” – will **over extract** some of the chemical compounds that cause **bitterness**, while the larger sized particles may remain **under extracted**.  [source](https://foodal.com/drinks-2/coffee/grinders/why-you-shouldnt-use-a-blade-grinder-for-your-coffee/)  [[instead buy burr grinder](https://www.amazon.co.uk/dp/B09W9N1ZWV/)]  
 
 
 Extraction always happens like this:  
