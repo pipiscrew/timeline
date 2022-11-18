@@ -64,7 +64,7 @@
 * [MarkdownPad 2](http://markdownpad.com/)
 * [Markdown Monster](https://markdownmonster.west-wind.com/)
   * [2](https://github.com/RickStrahl/MarkdownMonster)
-* [Obsidian](https://obsidian.md/) - is a powerful knowledge base on top of a local folder of plain text Markdown files, a second brain.  [ref](https://hanki.dev/obsidian-at-work/)
+* [Obsidian](https://obsidian.md/) - is a powerful knowledge base on top of a local folder of plain text Markdown files, a second brain.  [ref](https://hanki.dev/obsidian-at-work/) [ref2](https://v5.chriskrycho.com/journal/writing-down-what-i-do-in-obsidian/)
 * [SuperMemo](https://super-memory.com/) - [ref](https://www.masterhowtolearn.com/2022-08-05-why-i-switched-to-obsidian-after-using-supermemo-for-4-years/)
 * [VSCode Working Memory](https://github.com/atomashevic/vscode-working-memory)
 * [Curio](https://www.zengobi.com/curio/) - Notebook application for note-taking and research

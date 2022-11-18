@@ -27,6 +27,7 @@ To start with specific profile, `chrome.exe --user-data-dir=c:\foo`
   * [Developer Edition](https://www.mozilla.org/en-US/firefox/developer/)
 * Unofficial windows, [IceCat](https://github.com/muslayev/icecat-win64) for ultra privacy. The official Linux [here](https://www.gnu.org/software/gnuzilla/).
 * [LibreWolf](https://librewolf.net/) - focused on privacy, security and freedom.
+* [Pulse](https://pulsebrowser.app/) - Hyper minimalistic UI and built-in uBlock Origin.
 * [waterfox](https://www.waterfox.net/) - [waterfox web browser sold to System1](https://www.waterfox.net/blog/waterfox-has-joined-system1/)
 * [Dot Browser](https://www.dothq.co/) – privacy-conscious web browser
 * [Basilisk](https://basilisk-browser.org/features.shtml) - Replaced Gecko with Goanna (single-process mode) engine, interface as-carried by Firefox between v29 and v56, more read at features page.  
@@ -117,7 +118,7 @@ test browser [permissions](https://permission.site/).
       * [Disable Cookies](https://chrome.google.com/webstore/detail/disable-cookies/lkmjmficaoifggpfapbffkggecbleang)
       * [I don't care about cookies](https://chrome.google.com/webstore/detail/i-dont-care-about-cookies/fihnjjcciajhdojfnbdddfaoknhalnja)
   * [Cookie AutoDelete](https://github.com/Cookie-AutoDelete/Cookie-AutoDelete) [firefox](https://addons.mozilla.org/en-US/firefox/addon/cookie-autodelete/) / [chrome](https://chrome.google.com/webstore/detail/cookie-autodelete/fhcgjolkccmbidfldomjliifgaodjagh)
-  * Chrome-like [translate](https://github.com/FilipePS/Traduzir-paginas-web/) functionality (aka on the fly) to Firefox - Filipe Ps.Translate Web Pages
+  * [Filipe PS - Translate Web Pages](https://github.com/FilipePS/Traduzir-paginas-web/) functionality (aka on the fly) to Firefox & Chrome
   * Browsec [VPN](https://addons.mozilla.org/en-US/firefox/addon/browsec/) free & fast.
   * [Mullvad VPN](https://mullvad.net/) - seems the father of VPN, paid firefox service using this. [available on Amazon](https://mullvad.net/en/blog/2022/7/26/mullvad-is-now-available-on-amazon-us-se/)
   * [Remove Google Redirection on google results](https://addons.mozilla.org/en-US/firefox/addon/remove-google-redirections/)
@@ -253,7 +254,11 @@ To disable multiple running processes of the browser, you can set `browser.tabs.
 * [EasyImgur](https://bryankeiren.com/easyimgur/)
 
 ## Mail
+> Mozilla.Thunderbird Releases have been in ESR fashion since 24.0 and on. [source](https://support.mozilla.org/en-US/questions/1215020#answer-1104443) [[2](https://www.thunderbird.net/thunderbird/releases/)]  
+
+
 * [Mozilla.Thunderbird](https://www.thunderbird.net/) - [all versions](https://archive.mozilla.org/pub/thunderbird/releases/)  
+  * [HorlogeSkynet/thunderbird-user.js](https://github.com/HorlogeSkynet/thunderbird-user.js) [[2](https://www.privacy-handbuch.de/handbuch_31p.htm)] [[3](http://r-36.net/scm/privacy-haters/file/README.md.html)] [[4](https://codeberg.org/12bytes.org/thunderbird-user.js-supplement)]
   * [Proton Mail Bridge Thunderbird setup guide](https://proton.me/support/protonmail-bridge-clients-windows-thunderbird)
 * [Betterbird](https://www.betterbird.eu/) - is a fine-tuned version of Mozilla Thunderbird
 * [Just Report It](https://justreport.it/) - Thunderbird & Outlook addon, report to spamcop & domain registrar

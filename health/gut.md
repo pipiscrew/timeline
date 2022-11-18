@@ -50,7 +50,7 @@ I can understand, that till now, some people, eat to insure that are not hungry.
 * garlic
 * vinegar
 * tomato
-* chocolate (except small portions of [Milka](https://www.milka.be/) or [Magnum](https://www.magnumicecream.com/us/en/flavors/icecream-bars/double-chocolate-ice-cream-bar.html))
+* chocolate (except small portions of [Milka](https://www.milka.be/) (ganze haselnusse / plain) or [Magnum](https://www.magnumicecream.com/us/en/flavors/icecream-bars/double-chocolate-ice-cream-bar.html))
 * ham
 * milk
 * aged cheese
@@ -110,7 +110,7 @@ In case of `PROBIOTICS` and you are with `histamine intolerance` the following f
   * Bifidobacterium breve  
 
 
-> All people must follow the 12h fasting (aka 8pm - 8am) every day. Because when gut is empty, allowing to start cleansing processes.  [source](https://old.reddit.com/r/GutHealth/comments/y1hlza/what_people_should_know_about_detoxification/) &nbsp;&nbsp;([mirror](https://www.pipiscrew.com/threads/49249/))  
+> All people must follow the 12h fasting (example 8pm - 8am) every day. Because when gut is empty, allowing to start cleansing processes.  [source](https://old.reddit.com/r/GutHealth/comments/y1hlza/what_people_should_know_about_detoxification/) &nbsp;&nbsp;([mirror](https://www.pipiscrew.com/threads/49249/))  
 
 
 Links :  
