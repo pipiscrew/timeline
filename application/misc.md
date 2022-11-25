@@ -47,10 +47,11 @@
 * [Effective File Search](http://www.sowsoft.com/search.htm)
 * [UltraFileSearch](https://www.ultrafilesearch.com/)
 * [grepWin](https://github.com/stefankueng/grepWin) (search inside files also offers replace)
+  * can search for multiple keywords as test|jordan thsi will match any file contains either test either jordan. if needed escape the backslash '\' as '\\'
 * [Funduc.Search and Replace](https://www.funduc.com/search_replace.htm)  (search inside files also offers replace)
 * [AstroGrep](http://astrogrep.sourceforge.net/)  
     * [more](https://www.slant.co/topics/5541/~gui-grep-implementations-for-windows)
-* search content of files via dos `findstr /msi test *.*` [more](https://docs.microsoft.com/en-us/windows-server/administration/windows-commands/findstr)
+* search content of files via dos `findstr /msi test *` [[more](https://docs.microsoft.com/en-us/windows-server/administration/windows-commands/findstr)] [[use of and/or](https://superuser.com/a/909130)]
 
 ## Text Editors
 * [Notepad++](https://notepad-plus-plus.org/)

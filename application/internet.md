@@ -220,6 +220,7 @@ To disable multiple running processes of the browser, you can set `browser.tabs.
 
 ## Firewall
 * [TinyWall](https://tinywall.pados.hu/)
+* [portmaster](https://safing.io/) - cross platform
 * [Evorim.Firewall](https://www.evorim.com/en/free-firewall)
 * [simplewall](https://www.henrypp.org/product/simplewall)
 * [GlassWire](https://www.glasswire.com/)

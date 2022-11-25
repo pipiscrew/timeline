@@ -16,7 +16,7 @@ So our **skin** not just a barrier, it's a living **organ**. When our skin sees 
 
 Apart from the sunlight, you have to make sure the indoor light is correct... Even you have a doubt is lightless, go and buy a **floor light**... Give special attention to the [bulbs](https://www.pipiscrew.com/threads/bulbs.50615)!! 
 
-* Trust the leader and go for brand **OSRAM**
+* Trust the leader and go for brand **OSRAM** (aka LEDVANCE)
 * Must by [LED](https://www.pipiscrew.com/threads/bulbs.50615/)
 * Must be type `warm white`  
 

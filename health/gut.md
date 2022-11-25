@@ -63,7 +63,7 @@ I can understand, that till now, some people, eat to insure that are not hungry.
 easy to cook 5 days schedule : 
 * rice / pasta (130gr) w/ frozen vegs (100gr)
 * meat (chicken breast / liver / pork tomahawk) (~250gr-300gr)
-* rice / pasta w/ frozen vegs
+* pasta (130gr) w/ scrambled eggs (3)
 * fish (COD / tuna / salmon) fresh or frozen (~250gr-300gr)
 * legumes (blackeye / lentils) (100gr)
 
