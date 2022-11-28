@@ -33,6 +33,9 @@
 * [Nirsoft.ShellMenuView](https://www.nirsoft.net/utils/shell_menu_view.html)
 
 ## Dos
+* [dosbox](https://www.dosbox.com/) - x86 emulator with DOS
+  * [DOSBox-X](https://dosbox-x.com/wiki/DOSBox%E2%80%90X%E2%80%99s-Feature-Highlights) - fork of dosbox with added features
+* [ScummVM](https://www.scummvm.org) - replaces the executables shipped with the DOS games, allowing you to play them on systems for which they were never designed
 * [cmder](https://cmder.net/)
 * [ConEmu](https://conemu.github.io/)
 * [Console](https://sourceforge.net/projects/console/)
@@ -161,6 +164,7 @@
 * [Windhawk](https://windhawk.net/) - customization marketplace  
 * [Crawlee](https://crawlee.dev/) - is a web scraping and browser automation library  
 * [NAPS2](https://www.naps2.com/) - scan documents to PDF and more  
+* [PDFtk](https://www.pdflabs.com/tools/pdftk-the-pdf-toolkit/) - merge and split  
 
 ## Capture
 * [OBS Studio](https://obsproject.com/) - screen capture and broadcasting  

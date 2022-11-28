@@ -48,6 +48,7 @@ git config --global credential.interactive never
 * [CVS](http://cvs.nongnu.org/) - concurrent versions system  
 * [First Pull Request](https://firstpr.me/)  
 * [Active GitHub Forks](https://techgaun.github.io/active-forks/)  
+* [gitignore](https://github.com/github/gitignore) - collection of useful .gitignore templates  
 
 ## misc
 * [Free for developers](https://free-for.dev/)

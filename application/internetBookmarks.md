@@ -31,7 +31,8 @@
 * [ACM Digital Library Archive](https://dl.acm.org/) - 50 Years of Published Records  
 * [Digital Public Library of America](https://dp.la)  
 * [Consensus](https://consensus.app/) - Search Engine that find answers in Scientific Research
-* [Search Millions Manuals](https://manualsrepo.com)  
+* [Search Millions Manuals](https://manualsrepo.com)
+* [Cheatography](https://cheatography.com/) - a collection of over 5000 reference cheat sheets  
 
 
 ## translators
@@ -82,6 +83,7 @@
 * [Invidious](https://invidious.snopyta.org/)
 	* [mirrors](https://redirect.invidious.io/)
 * [youtube-lite](https://youtube-lite.js.org/)
+* [FreeTube](https://freetubeapp.io/) - a desktop app for youtube with features
 * [Piped](https://piped.kavin.rocks/)
   * [2](https://github.com/TeamPiped/Piped)
 * [lite youtube](https://yt.dorper.me/)
@@ -282,6 +284,7 @@
 * [Fake Tweet Generator](https://shashiirk.github.io/fake-tweet-generator/) - Twitter Generator
 * [file hash](https://md5file.com/calculator) - client side (md5/sha512++)  
 * [ascii generator](http://patorjk.com/software/taag/) (or [figlet](https://www.npmjs.com/package/figlet))  
+* [z-o-o-m](https://z-o-o-m.eu/) - upload files to multiple servers, alternative [ZUploader](https://www.softpedia.com/get/Internet/Other-Internet-Related/ZUploader.shtml)  
 
 ## cpu
 * [CPU-Z](https://www.cpuid.com/downloads/cpu-z/cpu-z_1.96-en.zip) - information for cpu

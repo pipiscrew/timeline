@@ -133,6 +133,7 @@ test browser [permissions](https://permission.site/).
   * [Hypersearch](https://github.com/abhinavsharma/hypersearch) - browser extension for improving search  
   * [BrainTool - Organizing Bookmarks](https://braintool.org/)  
   * [LibRedirect](https://github.com/libredirect/libredirect) Redirect YouTube, Twitter, Instagram to privacy friendly services  
+  * [UnclutterIT](https://unclutter.it/) - reader Mode, but better  
 
 ----------
 

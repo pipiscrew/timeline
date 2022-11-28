@@ -172,3 +172,8 @@ Today, different medicinal substances, yoghurts and other dairy products are spe
 * (CA) [product page](https://naturalfactors.com/products/travelbiotic-bb536-probiotic) - domain created 1996  
 * [ISURA verified](https://isura.ca/)  
 * [iHerb page](https://iherb.com/pr/natural-factors-travel-biotic-bb536-10-billion-60-vegetarian-capsules/71125)  
+
+
+author notes  
+* **κολονοσκόπηση** ελέγχεται όλο το μήκος του παχέος εντέρου, κατά την **ορθοσκόπηση** ελέγχονται τα τελευταία 15-20εκ. [source](https://dr-athanasopoulos.gr/exetaseis/orthoskopisi/)
+* Swallowing large amounts of methyl salicylate and hydrogen peroxide may also cause serious stomach and intestine symptoms. It can also lead to **changes** in the body **acid-base balance**. [source](https://www.mountsinai.org/health-library/poison/mouthwash-overdose)
