@@ -79,7 +79,8 @@ those cuisines don't have garlic or tomatoes in their plates....
 * for liver [soak in milk](https://therustyspoon.com/why-do-you-soak-liver-in-milk-before-cooking/)
 * for beans soak overnight, make sure cooked for 1h
 * do [spouting](/health/sprouting.md) with mung beans (aka green small beans), eat 3 times / day one palm.
-* breakfast bran / oat flakes
+* breakfast bran or oat flakes or [granola](https://www.healthline.com/nutrition/muesli-vs-granola). (50gr with 140gr water)
+* eggshell must be hard, when soft is nutritionless.  
 
 for cereal & bread, choose only whole wheat.
 * The mutligrain bread, is made by white floor and include grains.
