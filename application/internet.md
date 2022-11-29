@@ -132,7 +132,7 @@ test browser [permissions](https://permission.site/).
   * [DownAlbum](https://chrome.google.com/webstore/detail/downalbum/cgjnhhjpfcdhbhlcmmjppicjmgfkppok) - Download Facebook, Instagram, Pinterest, Twitter, Ask.fm, Weibo album  
   * [Hypersearch](https://github.com/abhinavsharma/hypersearch) - browser extension for improving search  
   * [BrainTool - Organizing Bookmarks](https://braintool.org/)  
-  * [LibRedirect](https://github.com/libredirect/libredirect) Redirect YouTube, Twitter, Instagram to privacy friendly services  
+  * [LibRedirect](https://github.com/libredirect/libredirect) Redirect YouTube, Twitter, Instagram to privacy friendly services ([nitter](https://github.com/zedeus/nitter/wiki/Extensions))
   * [UnclutterIT](https://unclutter.it/) - reader Mode, but better  
 
 ----------

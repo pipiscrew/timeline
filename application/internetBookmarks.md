@@ -71,7 +71,7 @@
 * [telegra](https://telegra.ph/) - paste online
 * [ArchiveBox - Your own personal internet archive](https://archivebox.io/)
   * [2](https://github.com/ArchiveBox/ArchiveBox)
-* [archive.today](https://archive.ph/) - Archive any webpage
+* [archive.today](https://archive.ph/) - Archive any webpage ([mirror](https://archive.ph/))
 * [DocumentCloud](https://www.documentcloud.org) - upload pdf, annotate, extract text, publish
 * [SmallPDF](https://smallpdf.com/word-to-pdf) - docx to pdf (~90% than the original Word PDF)  
 * [webpagetopdf](https://webpagetopdf.com/) - convert a website to pdf
@@ -285,6 +285,13 @@
 * [file hash](https://md5file.com/calculator) - client side (md5/sha512++)  
 * [ascii generator](http://patorjk.com/software/taag/) (or [figlet](https://www.npmjs.com/package/figlet))  
 * [z-o-o-m](https://z-o-o-m.eu/) - upload files to multiple servers, alternative [ZUploader](https://www.softpedia.com/get/Internet/Other-Internet-Related/ZUploader.shtml)  
+
+## messengers
+* [Chitchatter](https://github.com/jeremyckahn/chitchatter) - unlimited P2P data distribution through the browser
+* [CryptboardIO](https://github.com/MihanEntalpo/cryptboard.io) - anonymous encrypted web clipboard and chat
+* mobile - [simplex](https://github.com/simplex-chat) - private by design
+* mobile -[Berty](https://berty.tech/) - privacy-first messaging app
+* mobile -[Briar](https://briarproject.org/how-it-works/) - Peer-to-Peer Encrypted Messaging
 
 ## cpu
 * [CPU-Z](https://www.cpuid.com/downloads/cpu-z/cpu-z_1.96-en.zip) - information for cpu
