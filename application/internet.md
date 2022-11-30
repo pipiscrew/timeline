@@ -42,8 +42,7 @@ To load temporary addon or to see what is loaded goto `about:debugging` ([ref](h
 
 both **IceCat** & **Brave** & **Firefox w/ arkenfox** when restarted getting new fingerprint.  
 
-Tested with :
-
+Tested with :  
   * [FingerprintJS](https://fingerprintjs.com/demo)
     * [cross-browser tracking](https://fingerprintjs.com/blog/external-protocol-flooding/)
     * [bot detection](https://github.com/fingerprintjs/BotD)
@@ -66,7 +65,7 @@ test browser [permissions](https://permission.site/).
 [Site Isolation](https://blog.mozilla.org/security/2021/05/18/introducing-site-isolation-in-firefox/) in **Firefox** - `about:config > fission.autostart > true`  
 [Mozilla integrates Firefox offline Translations into Firefox](https://www.ghacks.net/2021/05/29/mozilla-integrates-firefox-translations-into-firefox/) - `about:config > extensions.translations.disabled > turn to false > restart`  
 **Mozilla.Firefox** v89 - redesigned and modernized, [private browsing](https://blog.mozilla.org/security/2021/06/01/total-cookie-protection-in-private-browsing/) changed & explained  
-[Mozilla.Firefox v89 Tab Appearance](https://amitp.blogspot.com/2021/06/firefox-89-tab-appearance.html)
+[Mozilla.Firefox v89 Tab Appearance](https://amitp.blogspot.com/2021/06/firefox-89-tab-appearance.html)  
 * [2](https://color.firefox.com)
 * [3](https://firefoxcss-store.github.io/)
 * [4](https://github.com/black7375/Firefox-UI-Fix)
@@ -86,7 +85,9 @@ test browser [permissions](https://permission.site/).
 
 [Mozilla - uBlock Origin review](https://addons.mozilla.org/blog/ublock-origin-everything-you-need-to-know-about-the-ad-blocker/)  
 
-**Mozilla.Firefox** [v93](https://www.mozilla.org/en-US/firefox/93.0/releasenotes/) &nbsp; ([Shadow DOM](https://hacks.mozilla.org/2021/10/lots-to-see-in-firefox-93/))
+**Mozilla.Firefox** [v93](https://www.mozilla.org/en-US/firefox/93.0/releasenotes/) &nbsp; ([Shadow DOM](https://hacks.mozilla.org/2021/10/lots-to-see-in-firefox-93/))  
+
+[Firefox-Micro CSS](https://github.com/Stianlyng/Firefox-Micro)  
 
 &nbsp;
 
@@ -119,6 +120,7 @@ test browser [permissions](https://permission.site/).
       * [I don't care about cookies](https://chrome.google.com/webstore/detail/i-dont-care-about-cookies/fihnjjcciajhdojfnbdddfaoknhalnja)
   * [Cookie AutoDelete](https://github.com/Cookie-AutoDelete/Cookie-AutoDelete) [firefox](https://addons.mozilla.org/en-US/firefox/addon/cookie-autodelete/) / [chrome](https://chrome.google.com/webstore/detail/cookie-autodelete/fhcgjolkccmbidfldomjliifgaodjagh)
   * [Filipe PS - Translate Web Pages](https://github.com/FilipePS/Traduzir-paginas-web/) functionality (aka on the fly) to Firefox & Chrome
+  * [Mozilla.Firefox Translations](https://addons.mozilla.org/en-US/firefox/addon/firefox-translations/) - translate websites in your browser without using the cloud
   * Browsec [VPN](https://addons.mozilla.org/en-US/firefox/addon/browsec/) free & fast.
   * [Mullvad VPN](https://mullvad.net/) - seems the father of VPN, paid firefox service using this. [available on Amazon](https://mullvad.net/en/blog/2022/7/26/mullvad-is-now-available-on-amazon-us-se/)
   * [Remove Google Redirection on google results](https://addons.mozilla.org/en-US/firefox/addon/remove-google-redirections/)
@@ -134,6 +136,8 @@ test browser [permissions](https://permission.site/).
   * [BrainTool - Organizing Bookmarks](https://braintool.org/)  
   * [LibRedirect](https://github.com/libredirect/libredirect) Redirect YouTube, Twitter, Instagram to privacy friendly services ([nitter](https://github.com/zedeus/nitter/wiki/Extensions))
   * [UnclutterIT](https://unclutter.it/) - reader Mode, but better  
+  * [WebStickies](https://lawrencehook.com/ws/) - Sticky notes for the internet  
+
 
 ----------
 

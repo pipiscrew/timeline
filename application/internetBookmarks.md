@@ -214,7 +214,8 @@
 * [CriminalIP](https://www.criminalip.io) - [ref](https://blog.criminalip.io/2022/07/20/api-key-leak/)  
 * [best of anything](https://www.bestlist.com/)  
 * [Simple Search](https://simplesearch.org/)  
-* [datoRSS](https://datorss.com/) - A search engine based on RSS feed  
+* [datoRSS](https://datorss.com/) - A search engine based on RSS feed
+* [you](https://you.com/) - developers search faster  
 
 ## virus scan
 * [google.virus total](https://www.virustotal.com/)
@@ -290,8 +291,10 @@
 * [Chitchatter](https://github.com/jeremyckahn/chitchatter) - unlimited P2P data distribution through the browser
 * [CryptboardIO](https://github.com/MihanEntalpo/cryptboard.io) - anonymous encrypted web clipboard and chat
 * mobile - [simplex](https://github.com/simplex-chat) - private by design
-* mobile -[Berty](https://berty.tech/) - privacy-first messaging app
-* mobile -[Briar](https://briarproject.org/how-it-works/) - Peer-to-Peer Encrypted Messaging
+* mobile - [Berty](https://berty.tech/) - privacy-first messaging app
+* mobile - [Briar](https://briarproject.org/how-it-works/) - Peer-to-Peer Encrypted Messaging  
+* mobile - [Xx messenger](https://elixxir.io/)
+* mobile - [databag](https://elixxir.io/) - self-hosted federated lightweight messenger  
 
 ## cpu
 * [CPU-Z](https://www.cpuid.com/downloads/cpu-z/cpu-z_1.96-en.zip) - information for cpu
