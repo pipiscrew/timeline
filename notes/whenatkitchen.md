@@ -84,7 +84,9 @@ to be honest, forget about french press or bialetti moka, buy yourself an espres
 
 * [How to Brew the Perfect Cup of Coffee, According to Science](https://theconversation.com/how-to-make-the-perfect-cup-of-coffee-with-a-little-help-from-science-129398)  
 
-![img](../assets/terrible_espresso.jpg)
+![img](../assets/terrible_espresso.jpg)  
+
+> In order to brew a **good** espresso, it is important to make sure that the **handle** (also known as the portafilter) **is full**. This means that the handle should be filled with the right amount of ground coffee, and the coffee should be evenly distributed and tamped down before brewing.  
 
 ### coffee not good ?
 * use [burr grinder](https://www.homegrounds.co/coffee-grind-chart/) (not blade grinder) [sample](https://coffeetechniciansguild.org/blog/2018/8/14/selecting-a-burr-type-for-an-espresso-grinder)

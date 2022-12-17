@@ -268,7 +268,10 @@ Those amino acids, is only for transport purposes. Egg or milk have '2000' times
 
 [US Department Of Agriculture - FoodData Central](https://fdc.nal.usda.gov/)  
 
-[Dietary Reference Intakes Calculator for Healthcare Professionals](https://www.nal.usda.gov/fnic/dri-calculator/)
+[Dietary Reference Intakes Calculator for Healthcare Professionals](https://www.nal.usda.gov/fnic/dri-calculator/)  
+
+## What is a protein?
+Proteins are formed from a linked sequence of building blocks known as **amino acids**. Because there are a total of 20 unique `letters` in the amino-acid alphabet, an unimaginably large number of unique proteins are possible, each encoded by a specific sequence of amino acids. While it’s easy to think of proteins as a string of letters, in the cell they fold into 3‑dimensional shapes that perform specific biological functions. A partial list of the feats performed by proteins include replicating DNA, fighting off invading viruses, and keeping your cells alive and healthy. Even things you might not think of as being protein functions, like our sense of smell or sight, are, in fact, enabled by proteins! Given how capable this molecular class is, it is not surprising that **most of the medicines** approved today are, in fact, proteins.  [source](https://generatebiomedicines.com/chroma)  
 
 
 ----------

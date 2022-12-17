@@ -103,7 +103,7 @@ test browser [permissions](https://permission.site/).
 
 #### Addons
 
-  * [uBlock Origin](https://github.com/gorhill/uBlock) - efficient blocker for Firefox and Chromium
+  * [uBlock Origin](https://github.com/gorhill/uBlock) - efficient blocker for Firefox and Chromium (as [npm](https://www.npmjs.com/package/@gorhill/ubo-core))
   * [NoScript](https://noscript.net/) - extra protection for Firefox  
   * [JShelter](https://jshelter.org/) - mitigate potential threats, fingerprinting, tracking, and data collection
   * [Anti-Adblock Killer](https://github.com/reek/anti-adblock-killer)
@@ -262,6 +262,7 @@ To disable multiple running processes of the browser, you can set `browser.tabs.
 ## Mail
 > Mozilla.Thunderbird Releases have been in ESR fashion since 24.0 and on. [source](https://support.mozilla.org/en-US/questions/1215020#answer-1104443) [[2](https://www.thunderbird.net/thunderbird/releases/)]  
 
+To find the profile currently is use navigate to `Help > Troubleshooting Information` 
 
 * [Mozilla.Thunderbird](https://www.thunderbird.net/) - [all versions](https://archive.mozilla.org/pub/thunderbird/releases/)  
   * [HorlogeSkynet/thunderbird-user.js](https://github.com/HorlogeSkynet/thunderbird-user.js) [[2](https://www.privacy-handbuch.de/handbuch_31p.htm)] [[3](http://r-36.net/scm/privacy-haters/file/README.md.html)] [[4](https://codeberg.org/12bytes.org/thunderbird-user.js-supplement)]

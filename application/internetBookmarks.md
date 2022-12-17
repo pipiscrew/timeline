@@ -142,6 +142,8 @@
 ## tv
 * [ustvgo](https://ustvgo.tv/)
 * [watchnewslive](https://watchnewslive.tv/)  
+* [airdates](https://www.airdates.tv/)
+* [nextepisode](https://next-episode.net)  
 
 ## json / js / php / markdown / html
 * [Markdown to HTML](https://markdowntohtml.com/)  
@@ -286,6 +288,7 @@
 * [file hash](https://md5file.com/calculator) - client side (md5/sha512++)  
 * [ascii generator](http://patorjk.com/software/taag/) (or [figlet](https://www.npmjs.com/package/figlet))  
 * [z-o-o-m](https://z-o-o-m.eu/) - upload files to multiple servers, alternative [ZUploader](https://www.softpedia.com/get/Internet/Other-Internet-Related/ZUploader.shtml)  
+* [tradingview](https://www.tradingview.com/) - view stocks  
 
 ## messengers
 * [Chitchatter](https://github.com/jeremyckahn/chitchatter) - unlimited P2P data distribution through the browser
@@ -294,7 +297,8 @@
 * mobile - [Berty](https://berty.tech/) - privacy-first messaging app
 * mobile - [Briar](https://briarproject.org/how-it-works/) - Peer-to-Peer Encrypted Messaging  
 * mobile - [Xx messenger](https://elixxir.io/)
-* mobile - [databag](https://elixxir.io/) - self-hosted federated lightweight messenger  
+* mobile - [databag](https://elixxir.io/) - self-hosted federated lightweight messenger
+* mobile - [Olvid](https://olvid.io/en/)  
 
 ## cpu
 * [CPU-Z](https://www.cpuid.com/downloads/cpu-z/cpu-z_1.96-en.zip) - information for cpu

@@ -11,3 +11,4 @@
 * [The Philosophy of Bass](https://www.youtube.com/watch?v=1xPO2Q2QHXk)
 * [A piano chord reference tool](https://pianochord.io/)
 * [Music Theory Cheat Sheet](https://muted.io/cheat-sheet/)
+* [GPT-3 DaVinci-003](https://editor.drawthedots.com/)
