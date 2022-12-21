@@ -58,7 +58,9 @@ I can understand, that till now, some people, eat to insure that are not hungry.
 * spinach
 * can foods (tuna included)
 * fermented foods (example pickle / kombucha / kimchi / sauerkraut)
-* spicy (even pepper or oregano)  
+* spicy (even pepper or oregano)
+* limit bread
+* limit vegetables  
 
 easy to cook 5 days schedule : 
 * rice / pasta (130gr) w/ frozen vegs (100gr)
@@ -97,6 +99,10 @@ The following are discovered over the internet, all tried by myself, use it on y
 * (rebuild+detox) `Aloe vera` gel - 50mg x 3 times / day ([proven by](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2763764/))
 * (detox) `Activated vegetable carbon` 3x200mg x 3 times / day (max 2 weeks) - stool may turn black is harmless.
 * (rebuild) `Bifidobacterium strains` (two products, see at the end of the page)  
+
+ps :    
+* **Coffee** aggravates the acidity, no good when subject has gut inflammation as **cannot heal**. Replace completely for **a month** (or at least 20 days) coffee with green tea (2 cups / day), I had tried also in the past but saw difference with this specific **Sencha** variant called **Satsuma** (Sencha Satsuma).. Strange I know!  
+* (rebuild) `CBD 10mg` - 15mg  x 2 times per day - 1 dose first thing in the monring, 1 dose last thing before bed.  
 
 In case of `PROBIOTICS` and you are with `histamine intolerance` the following found through internet :   
 * Number of `strains` may be reduced, specific some Lactobacillus strains can be beneficial, but they produce enough histamine that may cause trouble for those with histamine intolerance. Also better to avoid `Curcumin`.
@@ -139,7 +145,9 @@ Bifidobacterium 35624 culture was isolated from the **healthy human gut** and ha
 
 ### What is the intestinal microbiota?  
 
-The intestinal microbiota (formerly known as "gut flora") is the totality of all microorganisms, especially bacteria and yeasts, in the intestine. Almost **100 billion microorganisms live in a natural balance in the intestine**. There are ten times more microorganisms in the human gut **than** there are cells in the human body. It has now been established that the intestinal microbiota plays an **important** role in maintaining human health, **particularly** in the area of the digestive system. The balance of the intestinal microbiota can be **disturbed** by various factors. The resulting **imbalance** in the intestinal flora is referred to as `dysbiosis`. This dysbiosis can adversely affect our health and digestive functions. 
+The intestinal microbiota (formerly known as "gut flora") is the totality of all microorganisms, especially bacteria and yeasts, in the intestine. Almost **100 billion microorganisms live in a natural balance in the intestine**. There are ten times more microorganisms in the human gut **than** there are cells in the human body. It has now been established that the intestinal microbiota plays an **important** role in maintaining human health, **particularly** in the area of the digestive system. The balance of the intestinal microbiota can be **disturbed** by various factors. The resulting **imbalance** in the intestinal flora is referred to as `dysbiosis`. This dysbiosis can adversely affect our health and digestive functions.  
+
+When gut microbiota remains in balance, all other systems will also work correctly. However, many significant health problems can occur once gut integrity goes out of balance (`dysbiosis`). This is one of the reasons it is essential to maintain gut health.  
 
 * (IE) [PrecisionBiotics](https://www.precisionbiotics.com/) - official producer of alflorex ([symbiosys](https://www.symbiosys.com/) is distro / [akacia](http://www.akacia.eu/) is distro)
   * [UK Shop](https://www.precisionbiotics.co.uk/)

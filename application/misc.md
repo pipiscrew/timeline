@@ -77,7 +77,9 @@
 * [Kainet.Editor](http://www.kainet.ch/Editor-for-very-large-files) - Editor for very large files  
 * [UVviewersoft.LogViewer](http://www.uvviewsoft.com/logviewer/) - Viewer for big text log files, highlight keywords  
 * [Q - Run SQL Directly on CSV or TSV Files](http://harelba.github.io/q/)  
-* [Columnq - Run SQL on CSV, Parquet, JSON](https://github.com/roapi/roapi/tree/main/columnq-cli)  
+* [Columnq - Run SQL on CSV, Parquet, JSON](https://github.com/roapi/roapi/tree/main/columnq-cli)
+* [Munge CSV](https://github.com/johnkerl/miller) - command line for CSV, TSV, and tabular JSON
+* [xsv](https://github.com/BurntSushi/xsv) - command line for indexing, slicing, analyzing, splitting and joining CSV files  
 
 ## Disk Space Analyse
 * [RidNacs](https://www.splashsoft.de/ridnacs-disk-space-usage-analyzer/)

@@ -39,6 +39,8 @@ To load temporary addon or to see what is loaded goto `about:debugging` ([ref](h
 
 ----------
 
+[Qutebrowser](https://www.qutebrowser.org/) - A keyboard-driven, vim-like browser based on Python and Qt.  
+
 
 both **IceCat** & **Brave** & **Firefox w/ arkenfox** when restarted getting new fingerprint.  
 

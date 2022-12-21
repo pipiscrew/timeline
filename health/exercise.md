@@ -79,7 +79,10 @@ Wendy Suzuki - Why your brain loves it when you exercise
 
 [Why your brain loves it when you exercise, plus 3 easy ways to work out at home](https://ideas.ted.com/why-your-brain-needs-you-to-exercise-plus-3-easy-ways-to-work-out-at-home/)
 
-[How can we keep our brains healthy?](https://www.ted.com/playlists/644/how_can_we_keep_our_brains_healthy)
+[How can we keep our brains healthy?](https://www.ted.com/playlists/644/how_can_we_keep_our_brains_healthy)  
+
+[Exercise keeps your brain healthy and protects it against depression (2021)](https://theconversation.com/the-exercise-pill-how-exercise-keeps-your-brain-healthy-and-protects-it-against-depression-and-anxiety-155848)  
+
 
 Why Morning Exercise Sets You Up for Success
 --------------------------------------------------------

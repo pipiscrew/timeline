@@ -62,6 +62,7 @@
 * [Vertexshare.Image Upscaler by AI](https://vertexshare.com/image-upscaler.html) - Upscale and increase image size and resolution without losing quality.
 * [Teorex.Inpaint](https://theinpaint.com/) - Remove unwanted objects on images
 * (client side) [Local PDF Tools](https://localpdf.tech/)
+* [CleverPDF](https://www.cleverpdf.com)
 * (client side) [BulkResize photos](https://bulkresizephotos.com/en)
 * (client side) [Photopea](https://www.photopea.com/) - Online Photoshop
 * (russian) [Yandex.Disk](https://disk.yandex.com/) - Store files online
@@ -76,7 +77,7 @@
 * [SmallPDF](https://smallpdf.com/word-to-pdf) - docx to pdf (~90% than the original Word PDF)  
 * [webpagetopdf](https://webpagetopdf.com/) - convert a website to pdf
 * [web2pdfconvert](https://www.web2pdfconvert.com/) - convert a website to pdf  
-* [TinyWow](https://tinywow.com/) Tools That Solve Your Files Problem - pdf / xls / doc / images and other
+* [TinyWow](https://tinywow.com/) Tools That Solve Your Files Problem - pdf / xls / doc / images and other  
 
 
 ## videos
@@ -112,6 +113,7 @@
 * [y2mate](https://www.y2mate.com) - add **pp** at the end => youtube**pp**.com/watch?v=p5IO-IJSVnQ
 * [hooktube](https://www.hooktube.com) - add **hook** to domain => **hook**tube.com/watch?v=Oflegc79QB4
 * [NSFWyoutube](http://www.nsfwyoutube.com/) -  add **nsfw** to domain => **nsfw**youtube.com/watch?v=p5IO-IJSVnQ
+* [YouTube Transcript](https://youtubetranscript.com/) - get subtitles
 * [SoundCloud Downloader](https://sclouddownloader.net/)
 * [Dailymotion Downloader](https://freedownloadvideo.net/dailymotion-video-downloader) - ++ linkedin, reddit, ted, telegram, tiktok, vimeo, twitter, twitch, bitchute, rumble
 * [Reddit Videos](https://viddit.red/)
@@ -289,6 +291,7 @@
 * [ascii generator](http://patorjk.com/software/taag/) (or [figlet](https://www.npmjs.com/package/figlet))  
 * [z-o-o-m](https://z-o-o-m.eu/) - upload files to multiple servers, alternative [ZUploader](https://www.softpedia.com/get/Internet/Other-Internet-Related/ZUploader.shtml)  
 * [tradingview](https://www.tradingview.com/) - view stocks  
+* [layoffs tracker](https://layoffstracker.com/)  
 
 ## messengers
 * [Chitchatter](https://github.com/jeremyckahn/chitchatter) - unlimited P2P data distribution through the browser
