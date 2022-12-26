@@ -49,7 +49,7 @@ Approximately **200 of** the **hundreds of thousands allergenic proteins** have 
 *   tree nuts    
 *   wheat  
 
-According to Heﬂe these allergens **make 90%** of all reported food allergies **worldwide**. The number of people suffering from **IgE-mediated** allergic diseases is constantly increasing and reached the **6th leading cause** of diseases in the US. Although the number of Americans with allergies is around 40–50 million according to the National Institute of Health, it is believed that a large number of people have not been diagnosed yet. The overall prevalence of certain allergies, such as asthma, allergic rhinitis and atopic eczema, are **increasing substantially**.  
+According to [Hefle](https://doi.org/10.1016/j.jaci.2007.04.013) (2007) these allergens **make 90%** of all reported food allergies **worldwide**. The number of people suffering from **IgE-mediated** allergic diseases is constantly increasing and reached the **6th leading cause** of diseases in the US. Although the number of Americans with allergies is around 40–50 million according to the National Institute of Health, it is believed that a large number of people have not been diagnosed yet. The overall prevalence of certain allergies, such as asthma, allergic rhinitis and atopic eczema, are **increasing substantially**.  
 
 According to the World Health Organization, the number of patients who have **asthma** is about 300 million, and it is expected to increase to 400 million by 2025. Similarly, allergic **rhinitis** occurs in more than 500 million people worldwide and also is constantly increasing. the **intake** of **probiotics** can increase the **effectiveness** in **reducing** eczema by 21%.  
 
