@@ -291,7 +291,8 @@
 * [ascii generator](http://patorjk.com/software/taag/) (or [figlet](https://www.npmjs.com/package/figlet))  
 * [z-o-o-m](https://z-o-o-m.eu/) - upload files to multiple servers, alternative [ZUploader](https://www.softpedia.com/get/Internet/Other-Internet-Related/ZUploader.shtml)  
 * [tradingview](https://www.tradingview.com/) - view stocks  
-* [layoffs tracker](https://layoffstracker.com/)  
+* [layoffs tracker](https://layoffstracker.com/)
+* [Violation Tracker](https://violationtracker.goodjobsfirst.org/parent/pfizer)  
 
 ## messengers
 * [Chitchatter](https://github.com/jeremyckahn/chitchatter) - unlimited P2P data distribution through the browser
