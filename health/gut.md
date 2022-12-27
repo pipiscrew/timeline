@@ -189,7 +189,7 @@ Today, different medicinal substances, yoghurts and other dairy products are spe
 per sachet : 1.2 billion CFU (coloning forming units)  
 dose : 1 per day  
 
-Initially searching for Lactobacillus plantarum 299v but due unavailability bough this. Today got the first dose, looks ok.. 
+Initially searching for Lactobacillus plantarum 299v but due unavailability bought this. Today got the first dose, looks ok.. 
 
 * (UK) [product page](https://www.optibacprobiotics.com/product/probiotics-for-cholesterol)  
 
