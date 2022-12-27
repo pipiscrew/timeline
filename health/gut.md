@@ -184,12 +184,27 @@ Today, different medicinal substances, yoghurts and other dairy products are spe
 
 -----  
 
+## (probiotic) Optibac For Cholesterol (Lactobacillus plantarum CECT 7527 / 7528 / 7529)
+
+per sachet : 1.2 billion CFU (coloning forming units)  
+dose : 1 per day  
+
+Initially searching for Lactobacillus plantarum 299v but due unavailability bough this. Today got the first dose, looks ok.. 
+
+* (UK) [product page](https://www.optibacprobiotics.com/product/probiotics-for-cholesterol)  
+
+> Adhesion capacity to mucus and intestinal epithelial cells of strains of L. plantarum CECT 7527, CECT 7528 and CECT 7529 was compared with those of L. rhamnosus GG and L. plantarum 299V commercial strains. Strains L. plantarum CECT 7527, CECT 7528 and CECT 7529 showed four times higher adherence values to mucus.  [source](https://doi.org/10.1002/jsfa.6467)  
+
+-----  
+
 ## Dr Jiwani  
 
 * [The Good, Bad & Ugly about Caffeine](https://getnaturopathic.com/confused-about-coffee-good-bad-ugly/) &nbsp;&nbsp; ([mirror](https://www.dropbox.com/s/93jq5lj6b03re2g/naturopathic_coffee.pdf?dl=1))
 * [Leaky Gut](https://getnaturopathic.com/leaky-gut-syndrome-science-symptoms-solutions/) &nbsp;&nbsp; ([mirror](https://www.dropbox.com/s/6yrb0mv6ez6l35e/naturopathic_leaky_gut.pdf?dl=1))  
 
 -----  
+
 author notes  
 * **κολονοσκόπηση** ελέγχεται όλο το μήκος του παχέος εντέρου, κατά την **ορθοσκόπηση** ελέγχονται τα τελευταία 15-20εκ. [source](https://dr-athanasopoulos.gr/exetaseis/orthoskopisi/)
 * Swallowing large amounts of methyl salicylate and hydrogen peroxide may also cause serious stomach and intestine symptoms. It can also lead to **changes** in the body **acid-base balance**. [source](https://www.mountsinai.org/health-library/poison/mouthwash-overdose)
+* A **genus** contains one or more **species**. Examples of common probiotic genera include Bifidobacterium and Lactobacillus. Species refer to a type of microorganism existing within a genus or family. For example, acidophilus is the name of a species within the Lactobacillus genus. Lastly, a probiotic **strain** is a genetic variant or subtype of a species. Different probiotic supplements which may both be labeled to contain 5 billion CFUs of Lactobacillus acidophilus may contain completely different strains. This is important! One strain of Lactobacillus acidophilus is not always therapeutically equal to another Lactobacillus acidophilus strain. Strain level matters when you are aiming for a specific therapeutic effect.

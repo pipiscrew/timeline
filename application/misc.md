@@ -36,6 +36,7 @@
 * [dosbox](https://www.dosbox.com/) - x86 emulator with DOS
   * [DOSBox-X](https://dosbox-x.com/wiki/DOSBox%E2%80%90X%E2%80%99s-Feature-Highlights) - fork of dosbox with added features
 * [ScummVM](https://www.scummvm.org) - replaces the executables shipped with the DOS games, allowing you to play them on systems for which they were never designed
+* [86box](https://86box.net/) - low level x86 emulator that runs older operating systems and software
 * [cmder](https://cmder.net/)
 * [ConEmu](https://conemu.github.io/)
 * [Console](https://sourceforge.net/projects/console/)
