@@ -58,6 +58,7 @@ I can understand, that till now, some people, eat to insure that are not hungry.
 * spinach
 * can foods (tuna included)
 * fermented foods (example pickle / kombucha / kimchi / sauerkraut)
+* curcumin
 * spicy (even pepper or oregano)
 * limit bread
 * limit vegetables  
@@ -105,17 +106,17 @@ ps :
 * (rebuild) `CBD 10mg` - 15mg  x 2 times per day - 1 dose first thing in the monring, 1 dose last thing before bed.  
 
 In case of `PROBIOTICS` and you are with `histamine intolerance` the following found through internet :   
-* Number of `strains` may be reduced, specific some Lactobacillus strains can be beneficial, but they produce enough histamine that may cause trouble for those with histamine intolerance. Also better to avoid `Curcumin`.
-* valid probiotic when the subject has `histamine intolerance` / `IBS`
-  * Bifidobacterium longum BB536 ( aka Morinaga BB536 )  ([reference](https://old.reddit.com/r/ibs/comments/65ifz6/ibsc_sibo_cured_with_single_strain_bb536_probiotic/))
-  * Bifidobacterium infantis 35624 ( longum subspecies ) ([reference](https://www.symbiosys.com/symbiosys-alflorex/))  
-  -- this [supplement](https://www.seekinghealth.com/products/probiota-histaminx-60-capsules) includes only those
+* Number of `strains` may be reduced, specific some Lactobacillus strains can be beneficial, they produce enough histamine that may cause trouble for those with histamine intolerance.
+* Finally the Lactobacillus strains must be avoided due **histamine-producing** (found in most yogurts and fermented foods) are :   
+  * Lactobacillus casei
+  * Lactobacillus reuteri
+  * Lactobacillus bulgaricus [source](https://www.bulletproof.com/supplements/dietary-supplements/what-are-probiotics/)  
+* this [supplement](https://www.seekinghealth.com/products/probiota-histaminx-60-capsules) includes only those
   * Bifidobacterium bifidum & BB536 & 35624
   * Lactobacillus salivarius
   * Lactobacillus plantarum
   * Bifidobacterium lactis
   * Bifidobacterium breve  
-
 
 > All people must follow the 12h fasting (example 8pm - 8am) every day. Because when gut is empty, allowing to start cleansing processes.  [source](https://old.reddit.com/r/GutHealth/comments/y1hlza/what_people_should_know_about_detoxification/) &nbsp;&nbsp;([mirror](https://www.pipiscrew.com/threads/49249/))  
 
@@ -194,6 +195,22 @@ Initially searching for Lactobacillus plantarum 299v but due unavailability boug
 * (UK) [product page](https://www.optibacprobiotics.com/product/probiotics-for-cholesterol)  
 
 > Adhesion capacity to mucus and intestinal epithelial cells of strains of L. plantarum CECT 7527, CECT 7528 and CECT 7529 was compared with those of L. rhamnosus GG and L. plantarum 299V commercial strains. Strains L. plantarum CECT 7527, CECT 7528 and CECT 7529 showed four times higher adherence values to mucus.  [source](https://doi.org/10.1002/jsfa.6467)  
+
+[Optibac - probiotics help with eczema](https://www.optibacprobiotics.com/uk/professionals/latest-research/general-health/do-probiotics-help-with-eczema)  
+
+### Probiotics with antibiotics
+Best probiotic to take with antibiotics are particular strains that can be taken **alongside** antibiotics, rather than **separately**. These particular strains are :  
+* Lactobacillus acidophilus Rosell-52
+* Lactobacillus rhamnosus Rosell-11
+* Bifidobacterium lactis Lafti B94  
+
+find all together, on a product [Optibac - For Those On Antibiotics](https://www.optibacprobiotics.com/uk/product/for-those-on-antibiotics-10-capsules)  
+
+These strains can be taken at exactly the same time as antibiotic medication, which is not the case for most other probiotic supplements.  [source](https://www.optibacprobiotics.com/learning-lab/in-depth/general-health/probiotics-with-antibiotics)  
+
+[Optibac - product vs live culture strains](https://www.optibacprobiotics.com/uk/about-us/live-cultures)  
+
+[Optibac - probiotics database](https://www.optibacprobiotics.com/uk/professionals/probiotics-database)  
 
 -----  
 
