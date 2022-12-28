@@ -63,10 +63,10 @@ I can understand, that till now, some people, eat to insure that are not hungry.
 * limit vegetables  
 
 easy to cook 5 days schedule : 
-* rice / pasta (130gr) w/ frozen vegs (100gr)
-* meat (chicken breast / liver / pork tomahawk) (~250gr-300gr)
+* pasta (130gr) w/ frozen vegs (100gr)
+* meat (chicken breast / liver / pork tomahawk) (~250gr-300gr) w/ 80gr rice
 * pasta (130gr) w/ scrambled eggs (3)
-* fish (COD / tuna / salmon) fresh or frozen (~250gr-300gr)
+* fish (COD / tuna / salmon) fresh or frozen (~250gr-300gr) w/ 80gr rice
 * legumes (blackeye / lentils) (100gr)
 
 when eat outside (max 2 days / week) preferred cuisines :
