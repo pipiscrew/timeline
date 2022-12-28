@@ -199,14 +199,12 @@ Initially searching for Lactobacillus plantarum 299v but due unavailability boug
 [Optibac - probiotics help with eczema](https://www.optibacprobiotics.com/uk/professionals/latest-research/general-health/do-probiotics-help-with-eczema)  
 
 ### Probiotics with antibiotics
-Best probiotic to take with antibiotics are particular strains that can be taken **alongside** antibiotics, rather than **separately**. These particular strains are :  
+Best probiotic to take with antibiotics are particular strains that can be taken **alongside** antibiotics, rather than **separately**. Can be taken at exactly the same time as antibiotic medication [source](https://www.optibacprobiotics.com/learning-lab/in-depth/general-health/probiotics-with-antibiotics). These particular strains are :  
 * Lactobacillus acidophilus Rosell-52
 * Lactobacillus rhamnosus Rosell-11
 * Bifidobacterium lactis Lafti B94  
 
 find all together, on a product [Optibac - For Those On Antibiotics](https://www.optibacprobiotics.com/uk/product/for-those-on-antibiotics-10-capsules)  
-
-These strains can be taken at exactly the same time as antibiotic medication, which is not the case for most other probiotic supplements.  [source](https://www.optibacprobiotics.com/learning-lab/in-depth/general-health/probiotics-with-antibiotics)  
 
 [Optibac - product vs live culture strains](https://www.optibacprobiotics.com/uk/about-us/live-cultures)  
 
