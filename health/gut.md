@@ -99,7 +99,7 @@ The following are discovered over the internet, all tried by myself, use it on y
 * (rebuild) `Quercetin` 500mg x 2 times / day ([suggested by](https://chriskresser.com/quercetin-heal-leaky-gut/)) - flavonoid found in high amounts in onions, kale and apples.
 * (rebuild+detox) `Aloe vera` gel - 50mg x 3 times / day ([proven by](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2763764/))
 * (detox) `Activated vegetable carbon` 3x200mg x 3 times / day (max 2 weeks) - stool may turn black is harmless.
-* (rebuild) `Bifidobacterium strains` (two products, see at the end of the page)  
+* (rebuild) `Bifidobacterium/Lactobacillus strains` (three products, see at the end of the page)  
 
 ps :    
 * **Coffee** aggravates the acidity, no good when subject has gut inflammation as **cannot heal**. Replace completely for **a month** (or at least 20 days) coffee with green tea (2 cups / day), I had tried also in the past but saw difference with this specific **Sencha** variant called **Satsuma** (Sencha Satsuma).. Strange I know!  
