@@ -118,3 +118,31 @@ source :
 to do :  
 2020 - [Food allergy immunotherapy: Oral immunotherapy and epicutaneous immunotherapy](https://doi.org/10.1111/all.14220)  
 
+
+# Omega 3
+Omega-3 polyunsaturated fatty acids (PUFAs) are a type of unsaturated fat that is **essential** for human health. They are called **essential** because the body cannot **produce** them on its own and they must be obtained through the **diet**. Omega-3 PUFAs are found in a variety of foods, including fatty fish, nuts, and seeds. They are **known** for their anti-inflammatory effects and have been shown to have numerous health benefits, including : 
+
+* reducing the risk of heart disease
+* improving cognitive function
+* reducing the risk of certain types of cancer  
+
+Some examples of omega-3 PUFAs include alpha-linolenic acid (**ALA**), eicosapentaenoic acid (**EPA**), and docosahexaenoic acid (**DHA**). It is recommended to include a source of omega-3 PUFAs in the diet, either through food or supplements.  
+
+**ALA** is enzymatically converted to **EPA** and subsequently converted into **DHA**. These conversions primarily occur in the **liver** and are extremely limited owing to the enzyme concentration in the human body. Therefore, it is reasonable to derive DHA and EPA directly from foods and/or dietary supplements enriched in fish oils.
+
+Omega-3 PUFAs have been known to demonstrate anti-inflammatory actions in various inflammatory diseases, including :
+* psoriasis
+* inflammatory bowel disease
+* asthma
+* rheumatoid arthritis
+
+[...] These metabolites have strong anti-inflammatory actions in various inflammatory diseases, such as animal models of asthma and **colitis**. Several reports have highlighted the anti-inflammatory actions of omega-3 PUFA metabolites on inflammatory skin diseases : 
+
+* psoriasis
+* atopic dermatitis
+* contact hypersensitivity
+* ultraviolet (UV) radiation  
+
+Reportedly, omega-3 PUFA metabolites have demonstrated various actions on immune and **epithelial cells**.
+
+source - [(2020) Omega 3 Fatty Acid and Skin Diseases](https://doi.org/10.3389%2Ffimmu.2020.623052) &nbsp;&nbsp; ([mirror](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7892455/))

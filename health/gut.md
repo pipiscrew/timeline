@@ -196,6 +196,12 @@ Initially searching for Lactobacillus plantarum 299v but due unavailability boug
 
 > Adhesion capacity to mucus and intestinal epithelial cells of strains of L. plantarum CECT 7527, CECT 7528 and CECT 7529 was compared with those of L. rhamnosus GG and L. plantarum 299V commercial strains. Strains L. plantarum CECT 7527, CECT 7528 and CECT 7529 showed four times higher adherence values to mucus.  [source](https://doi.org/10.1002/jsfa.6467)  
 
+Ingredients :  
+* Live probiotic cultures 50 mg
+* Alpha-linolenic acid (ALA) 300mg ([proven](https://raw.githubusercontent.com/pipiscrew/timeline/main/health/inflammatory.md#omega-3) anti-inflammatory actions in inflammatory bowel disease, colitis, atopic dermatitis and epithelial cells)
+* Vitamin B1 0,22 mg  
+
+
 [Optibac - probiotics help with eczema](https://www.optibacprobiotics.com/uk/professionals/latest-research/general-health/do-probiotics-help-with-eczema)  
 
 ### Probiotics with antibiotics
