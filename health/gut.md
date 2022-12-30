@@ -198,7 +198,7 @@ Initially searching for Lactobacillus plantarum 299v but due unavailability boug
 
 Ingredients :  
 * Live probiotic cultures 50 mg
-* Alpha-linolenic acid (ALA) 300mg ([proven](https://raw.githubusercontent.com/pipiscrew/timeline/main/health/inflammatory.md#omega-3) anti-inflammatory actions in inflammatory bowel disease, colitis, atopic dermatitis and epithelial cells)
+* Alpha-linolenic acid (ALA) 300mg ([proven](https://pipiscrew.github.io/timeline/#/health/inflammatory?id=omega-3) anti-inflammatory actions in inflammatory bowel disease, colitis, atopic dermatitis and epithelial cells)
 * Vitamin B1 0,22 mg  
 
 
