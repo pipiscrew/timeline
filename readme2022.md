@@ -487,7 +487,7 @@
   * [lol - Chat with AI Jesus, Buddha, Obama, Gary Vee, and Dr, Peterson](https://gpt.chat/)
   * [ChatGPT owner OpenAI projects $1B in revenue by 2024](https://www.reuters.com/business/chatgpt-owner-openai-projects-1-billion-revenue-by-2024-sources-2022-12-15/)
   * [The Future of ,NET with WASM](https://blog.jetbrains.com/dotnet/2022/12/15/the-future-of-net-with-wasm/)
-  * [Why doesn’t Windows use 64-bit virtual address space below 0x00000000`7ffe0000](https://devblogs.microsoft.com/oldnewthing/20221216-00/?p=107598)
+  * [Why does not Windows use 64-bit virtual address space below 0x000000007ffe0000](https://devblogs.microsoft.com/oldnewthing/20221216-00/?p=107598)
   * [More than 13k new JFK files released; hundreds more held back](https://www.aljazeera.com/news/2022/12/16/us-national-archive-releases-new-files-over-john-f-kennedy-dead)
   * [How to Spot Fake Olive Oil](https://www.youtube.com/watch?v=QWWIySLXpx8)
   * [Microsoft patches Windows zero-day used to drop ransomware](https://www.bleepingcomputer.com/news/security/microsoft-patches-windows-zero-day-used-to-drop-ransomware/)
