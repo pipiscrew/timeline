@@ -1,4 +1,5 @@
 * [News](./)
+* [News 2022](./readme2022.md)
 * [News 2021](./readme2021.md)
 * [Applications]
 	* [Internet](/application/internet.md)
