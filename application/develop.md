@@ -47,7 +47,8 @@ git config --global credential.interactive never
 * [gitstack] - git server for windows, warning [vulnerability](https://www.exploit-db.com/exploits/43777) &nbsp; ([issue](https://github.com/smart-mobile-software/gitstack/issues/181))  
 * [CVS](http://cvs.nongnu.org/) - concurrent versions system  
 * [First Pull Request](https://firstpr.me/)  
-* [Active GitHub Forks](https://techgaun.github.io/active-forks/)  
+* [Active GitHub Forks](https://techgaun.github.io/active-forks/)
+* [Find latest GitHub fork of a project](https://useful-forks.github.io/)
 * [gitignore](https://github.com/github/gitignore) - collection of useful .gitignore templates  
 
 ## misc

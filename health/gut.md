@@ -84,10 +84,14 @@ those cuisines don't have garlic or tomatoes in their plates....
 * do [spouting](/health/sprouting.md) with mung beans (aka green small beans), eat 3 times / day one palm.
 * breakfast bran or oat flakes or [granola](https://www.healthline.com/nutrition/muesli-vs-granola). (50gr with 140gr water)
 * eggshell must be hard, when soft is nutritionless.  
+* half cucumber / day
+  * B12 - may help to reduce inflammation in the gut.
+  * Vitamin K - important for proper blood clotting, may have anti-inflammatory effects in the body.
+  * Magnesium | Potassium | Manganese - may have anti-inflammatory effects and may be beneficial for gut health.  
 
 for cereal & bread, choose only whole wheat.
-* The mutligrain bread, is made by white floor and include grains.
-* The whole wheat bread is made by wholemeal.
+* the mutligrain bread, is made by white floor and include grains.
+* the whole wheat bread is made by wholemeal.
 
 ## medicines
 

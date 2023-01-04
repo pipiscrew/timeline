@@ -6,7 +6,7 @@
 * [3D model file thumbnails for Windows Explorer](https://github.com/EYHN/space-thumbnails)  
 
 ## Rescue Boot
-* [WinPE 10-8 Sergei Strelec](https://sergeistrelec.ru/winpe-10-8-sergei-strelec-english/)
+* [WinPE 10-8 Sergei Strelec](https://sergeistrelec.name/winpe-10-8-sergei-strelec-english/219-winpe-10-8-sergei-strelec-x86x64native-x86-20221207-english-version.html)
 * [Win10PE SE](http://win10se.cwcodes.net/)
 * [LSoft.Active Boot Disk](https://www.lsoft.net/bootdisk/)
 
