@@ -87,7 +87,7 @@ those cuisines don't have garlic or tomatoes in their plates....
 * half cucumber / day
   * B12 - may help to reduce inflammation in the gut.
   * Vitamin K - important for proper blood clotting, may have anti-inflammatory effects in the body.
-  * Magnesium | Potassium | Manganese - may have anti-inflammatory effects and may be beneficial for gut health.  
+  * Magnesium | Potassium | Manganese | Vitamin C - may have anti-inflammatory effects and may be beneficial for gut health.  
 
 for cereal & bread, choose only whole wheat.
 * the mutligrain bread, is made by white floor and include grains.
