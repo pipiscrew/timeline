@@ -62,7 +62,7 @@
 * [Vertexshare.Image Upscaler by AI](https://vertexshare.com/image-upscaler.html) - Upscale and increase image size and resolution without losing quality.
 * [Teorex.Inpaint](https://theinpaint.com/) - Remove unwanted objects on images
 * (client side) [Local PDF Tools](https://localpdf.tech/)
-* [CleverPDF](https://www.cleverpdf.com)
+* [CleverPDF](https://www.cleverpdf.com) - the best for (optimize) compress PDF
 * (client side) [BulkResize photos](https://bulkresizephotos.com/en)
 * (client side) [Photopea](https://www.photopea.com/) - Online Photoshop
 * (russian) [Yandex.Disk](https://disk.yandex.com/) - Store files online
