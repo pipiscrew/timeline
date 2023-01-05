@@ -200,15 +200,10 @@ Initially searching for Lactobacillus plantarum 299v but due unavailability boug
 
 > Adhesion capacity to **mucus** and intestinal **epithelial cells** of strains of L. plantarum CECT 7527, CECT 7528 and CECT 7529 was compared with those of L. rhamnosus GG and L. plantarum 299V commercial strains. Strains L. plantarum CECT 7527, CECT 7528 and CECT 7529 showed four times higher adherence values to **mucus**.  [source](https://doi.org/10.1002/jsfa.6467)  
 
-### What is mucus in small intestine ?  
-
-The small intestine is a tube-like organ that is part of the digestive system and is responsible for **absorbing nutrients** from food. Is a thick, slippery substance that is produced by the small intestine and other parts of the body. In the small intestine, mucus helps to **lubricate the lining** of the intestine and protect it from damage. Mucus is produced by cells called goblet cells, which are found throughout the small intestine. Mucus is composed of water, salts, and mucins, which are large, complex proteins that give mucus its **slippery consistency**. In addition to lubricating the small intestine, mucus also helps to protect the intestinal lining from the **corrosive effects** of stomach **acid** and digestive **enzymes**. It also plays a role in the absorption of nutrients and the regulation of the **movement** of material through the intestine. Mucus is a normal component of the digestive system and is essential for maintaining the health of the small intestine. However, an excess of mucus or changes in its composition can be a sign of an underlying problem, such as an infection or inflammatory condition (`leaky-gut`). &nbsp;&nbsp; [read more](https://www.dropbox.com/s/ho18oy2h1yee5y2/Importance%20of%20Gut%20Mucus%20to%20Your%20Health.pdf?dl=1)  
-
-Ingredients :  
+ingredients :  
 * Live probiotic cultures 50 mg
 * Alpha-linolenic acid (ALA) 300mg ([proven](https://pipiscrew.github.io/timeline/#/health/inflammatory?id=omega-3) anti-inflammatory actions in inflammatory bowel disease, colitis, atopic dermatitis and epithelial cells)
 * Vitamin B1 0,22 mg  
-
 
 [Optibac - probiotics help with eczema](https://www.optibacprobiotics.com/uk/professionals/latest-research/general-health/do-probiotics-help-with-eczema)  
 
@@ -226,6 +221,14 @@ find all together, on a product [Optibac - For Those On Antibiotics](https://www
 
 -----  
 
+![img](../assets/pearson_small_intestine_2012.jpg)
+
+### What is mucus in small intestine ?  
+
+The small intestine is a tube-like organ that is part of the digestive system and is responsible for **absorbing nutrients** from food. Is a thick, slippery substance that is produced by the small intestine and other parts of the body. In the small intestine, mucus helps to **lubricate the lining** of the intestine and protect it from damage. Mucus is produced by cells called goblet cells, which are found throughout the small intestine. Mucus is composed of water, salts, and mucins, which are large, complex proteins that give mucus its **slippery consistency**. In addition to lubricating the small intestine, mucus also helps to protect the intestinal lining from the **corrosive effects** of stomach **acid** and digestive **enzymes**. It also plays a role in the absorption of nutrients and the regulation of the **movement** of material through the intestine. Mucus is a normal component of the digestive system and is essential for maintaining the health of the small intestine. However, an excess of mucus or changes in its composition can be a sign of an underlying problem, such as an infection or inflammatory condition (`leaky-gut`). &nbsp;&nbsp; [read more](https://www.dropbox.com/s/ho18oy2h1yee5y2/Importance%20of%20Gut%20Mucus%20to%20Your%20Health.pdf?dl=1)  
+
+
+-----  
 ## Dr Jiwani  
 
 * [The Good, Bad & Ugly about Caffeine](https://getnaturopathic.com/confused-about-coffee-good-bad-ugly/) &nbsp;&nbsp; ([mirror](https://www.dropbox.com/s/93jq5lj6b03re2g/naturopathic_coffee.pdf?dl=1))
