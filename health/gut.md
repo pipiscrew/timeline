@@ -198,7 +198,11 @@ Initially searching for Lactobacillus plantarum 299v but due unavailability boug
 
 * (UK) [product page](https://www.optibacprobiotics.com/product/probiotics-for-cholesterol)  
 
-> Adhesion capacity to mucus and intestinal epithelial cells of strains of L. plantarum CECT 7527, CECT 7528 and CECT 7529 was compared with those of L. rhamnosus GG and L. plantarum 299V commercial strains. Strains L. plantarum CECT 7527, CECT 7528 and CECT 7529 showed four times higher adherence values to mucus.  [source](https://doi.org/10.1002/jsfa.6467)  
+> Adhesion capacity to **mucus** and intestinal **epithelial cells** of strains of L. plantarum CECT 7527, CECT 7528 and CECT 7529 was compared with those of L. rhamnosus GG and L. plantarum 299V commercial strains. Strains L. plantarum CECT 7527, CECT 7528 and CECT 7529 showed four times higher adherence values to **mucus**.  [source](https://doi.org/10.1002/jsfa.6467)  
+
+### What is mucus in small intestine ?  
+
+The small intestine is a tube-like organ that is part of the digestive system and is responsible for **absorbing nutrients** from food. Mucus is a thick, slippery substance that is produced by the small intestine and other parts of the body. In the small intestine, mucus helps to **lubricate the lining** of the intestine and protect it from damage. Mucus is produced by cells called goblet cells, which are found throughout the small intestine. Mucus is composed of water, salts, and mucins, which are large, complex proteins that give mucus its **slippery consistency**. In addition to lubricating the small intestine, mucus also helps to protect the intestinal lining from the **corrosive effects** of stomach **acid** and digestive **enzymes**. It also plays a role in the absorption of nutrients and the regulation of the **movement** of material through the intestine. Mucus is a normal component of the digestive system and is essential for maintaining the health of the small intestine. However, an excess of mucus or changes in its composition can be a sign of an underlying problem, such as an infection or inflammatory condition (`leaky-gut`).  
 
 Ingredients :  
 * Live probiotic cultures 50 mg

@@ -12,3 +12,4 @@
 * [A piano chord reference tool](https://pianochord.io/)
 * [Music Theory Cheat Sheet](https://muted.io/cheat-sheet/)
 * [GPT-3 DaVinci-003](https://editor.drawthedots.com/)
+* [FlatIO - collaborative music editing tool](https://flat.io/)  
