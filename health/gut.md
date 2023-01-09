@@ -245,6 +245,17 @@ find all together, on a product [Optibac - For Those On Antibiotics](https://www
 
 [Optibac - probiotics database](https://www.optibacprobiotics.com/uk/professionals/probiotics-database)  
 
+-----  
+
+![img](../assets/layers_of_the_gi_tract_wiki.jpg)
+
+### Mast Cells  
+
+The gastrointestinal tract harbours the **largest** population of **mast cells** in the body. Mast cells react to external and internal **stimuli** thanks to the variety of **receptors** they express, and carry out effector and regulatory **tasks** by means of the **mediators** of different natures they produce. Mast cells are **fundamental elements** of the intestinal barrier as they **regulate epithelial** function and integrity, modulate both innate and adaptive mucosal **immunity**, and maintain neuro-immune interactions, which are **key** to functioning of the gut. **Disruption** of the intestinal barrier is associated with increased **passage** of **luminal antigens** into the mucosa, which further **facilitates** mucosal mast cell activation, **inflammatory** responses, and altered mast cell–enteric nerve interaction. Despite intensive research showing gut **dysfunction** to be associated with **increased** intestinal **permeability** and mucosal mast cell **activation**, the specific mechanisms linking mast cell activity with altered intestinal barrier in human disease remain **unclear**.  
+
+`Mucosa` = Is a term used to describe the **innermost** layer of the intestine (or other organs), while **mucus** refers to a type of **slippery**, slimy **substance** that is produced by certain cells in the body, including goblet cells in the mucosa of the intestine. Mucus is **one** of the components of the **mucosa** and helps to lubricate and moisten the **mucosa**, which helps to protect it from damage and irritation. The **mucosa** is made up of many different types of cells, including goblet cells, and it plays a vital role in the digestion and absorption of nutrients from food. &nbsp;&nbsp; [read more](https://doi.org/10.3390%2Fcells8020135) [mirror](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6407111/)  
+
+> calicobrak said : Probiotics are very iffy. Some people do well with them, while some get worse. The idea is, if your **mucosal mast cells** (aka MMC) is messed up, taking probiotics, will make them **accumulate** in areas they should **not** be, making you **feel worse** (SIBO). Have to get your MMC working before probiotics.  
 
 -----  
 
@@ -253,7 +264,6 @@ find all together, on a product [Optibac - For Those On Antibiotics](https://www
 ### What is mucus in small intestine ?  
 
 The small intestine is a tube-like organ that is part of the digestive system and is responsible for **absorbing nutrients** from food. Is a thick, slippery substance that is produced by the small intestine and other parts of the body. In the small intestine, mucus helps to **lubricate the lining** of the intestine and protect it from damage. Mucus is produced by cells called goblet cells, which are found throughout the small intestine. Mucus is composed of water, salts, and mucins, which are large, complex proteins that give mucus its **slippery consistency**. In addition to lubricating the small intestine, mucus also helps to protect the intestinal lining from the **corrosive effects** of stomach **acid** and digestive **enzymes**. It also plays a role in the absorption of nutrients and the regulation of the **movement** of material through the intestine. Mucus is a normal component of the digestive system and is essential for maintaining the health of the small intestine. However, an excess of mucus or changes in its composition can be a sign of an underlying problem, such as an infection or inflammatory condition (`leaky-gut`). &nbsp;&nbsp; [read more](https://www.dropbox.com/s/ho18oy2h1yee5y2/Importance%20of%20Gut%20Mucus%20to%20Your%20Health.pdf?dl=1)  
-
 
 -----  
 ## Dr Jiwani  
