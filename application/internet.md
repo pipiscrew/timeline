@@ -123,8 +123,9 @@ test browser [permissions](https://permission.site/).
   * [Cookie AutoDelete](https://github.com/Cookie-AutoDelete/Cookie-AutoDelete) [firefox](https://addons.mozilla.org/en-US/firefox/addon/cookie-autodelete/) / [chrome](https://chrome.google.com/webstore/detail/cookie-autodelete/fhcgjolkccmbidfldomjliifgaodjagh)
   * [Filipe PS - Translate Web Pages](https://github.com/FilipePS/Traduzir-paginas-web/) functionality (aka on the fly) to Firefox & Chrome
   * [Mozilla.Firefox Translations](https://addons.mozilla.org/en-US/firefox/addon/firefox-translations/) - translate websites in your browser without using the cloud
-  * Browsec [VPN](https://addons.mozilla.org/en-US/firefox/addon/browsec/) free & fast.
+  * [Browsec VPN](https://addons.mozilla.org/en-US/firefox/addon/browsec/) free & fast.
   * [Mullvad VPN](https://mullvad.net/) - seems the father of VPN, paid firefox service using this. [available on Amazon](https://mullvad.net/en/blog/2022/7/26/mullvad-is-now-available-on-amazon-us-se/)
+  * [Psiphon VPN](https://psiphon.ca/en)
   * [Remove Google Redirection on google results](https://addons.mozilla.org/en-US/firefox/addon/remove-google-redirections/)
   * [RESTClient](https://addons.mozilla.org/en-US/firefox/addon/restclient/) - use request header as `Content-Type application/x-www-form-urlencoded`
   * [SingleFile](https://addons.mozilla.org/en-US/firefox/addon/single-file/) - Save an entire web page (including images and styling) as a single HTML file.

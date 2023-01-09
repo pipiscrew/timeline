@@ -35,6 +35,7 @@
 * [SimpleMind.Mind Mapping](https://play.google.com/store/apps/details?id=com.modelmakertools.simplemindfree)  
 * [Redhat.FreeOTP](https://freeotp.github.io/) - lacks of export (using common android backup for package working + [viljoviitanen](https://github.com/viljoviitanen/freeotp-export) can regenerate the initial QR from android backup)
 * [unknown.FreeOTP+](https://play.google.com/store/apps/details?id=org.liberty.android.freeotpplus) - offers export
+* [wine](https://dl.winehq.org/wine-builds/android/)
 
 ## webcam
 * [yoosee](https://play.google.com/store/apps/details?id=com.yoosee) - for IP cameras ex [gembird](https://gembird.com/item.aspx?id=11674). see also [iSpy](https://www.ispyconnect.com/camera/gembird) and global standard [ONVIF](https://www.onvif.org/)
@@ -51,7 +52,7 @@
 * [How to Remove Samsung Bloatware without Root](https://technastic.com/remove-samsung-bloatware-safe-to-remove-apps/)  
 * [Security First](https://secfirst.org/)  
 * [ADB AppControl](https://adbappcontrol.com)
-* 
+* [wine](https://dl.winehq.org/wine-builds/android/) - emulator for windowsXP on android &nbsp;&nbsp; [howto](https://www.makeuseof.com/tag/run-windows-apps-android/) &nbsp;&nbsp; [xda winRT apps](https://forum.xda-developers.com/t/desktop-apps-ported-to-windows-rt.2092348/#post-36534446)  
 
 ```
 /*

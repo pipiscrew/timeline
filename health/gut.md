@@ -57,6 +57,7 @@ I can understand, that till now, some people, eat to insure that are not hungry.
 * wine
 * spinach
 * can foods (tuna included)
+* yogurt
 * fermented foods (example pickle / kombucha / kimchi / sauerkraut)
 * curcumin
 * spicy (even pepper or oregano)
@@ -189,12 +190,12 @@ Today, different medicinal substances, yoghurts and other dairy products are spe
 
 -----  
 
-## (probiotic) Optibac For Cholesterol (Lactobacillus plantarum CECT 7527 / 7528 / 7529)
+## :star: :star: :star: (probiotic) Optibac For Cholesterol (Lactobacillus plantarum CECT 7527 / 7528 / 7529)
 
 per sachet : 1.2 billion CFU (coloning forming units)  
 dose : 1 per day  
 
-Initially searching for Lactobacillus plantarum 299v but due unavailability bought this. Today got the first dose, looks ok.. 
+Initially searching for Lactobacillus plantarum 299v but due unavailability bought this. **Tremendous** difference compared to 2 Bifidobacterium products above.  
 
 * (UK) [product page](https://www.optibacprobiotics.com/product/probiotics-for-cholesterol)  
 
@@ -202,8 +203,33 @@ Initially searching for Lactobacillus plantarum 299v but due unavailability boug
 
 ingredients :  
 * Live probiotic cultures 50 mg
-* Alpha-linolenic acid (ALA) 300mg ([proven](https://pipiscrew.github.io/timeline/#/health/inflammatory?id=omega-3) anti-inflammatory actions in inflammatory bowel disease, colitis, atopic dermatitis and epithelial cells)
+* (Omega3) Alpha-linolenic acid (ALA) 300mg ([proven](https://pipiscrew.github.io/timeline/#/health/inflammatory?id=omega-3) anti-inflammatory actions in inflammatory bowel disease, colitis, atopic dermatitis and epithelial cells)
 * Vitamin B1 0,22 mg  
+
+-----  
+
+## :star: :star: :star: (probiotic) Optibac Everyday (Lactobacillus / Bifidobacterium / Lactococcus strains)
+
+per capsule : 5 billion CFU (coloning forming units)  
+dose : 1-2 capsules per day  
+
+Multi-strain probiotic with prebiotic FOS, providing natural daily support for gut health and general wellbeing. Each capsule contains highly researched probiotic strains shown in gold-standard clinical trials to benefit digestive health. From first day, eczema points have to legs start recovering..  
+
+* (UK) [product page](https://www.optibacprobiotics.com/product/every-day-probiotics)  
+
+ingredients :  
+* Live probiotic cultures 141 mg
+  * Lactobacillus rhamnosus Rosell-11
+  * Lactobacillus acidophilus/helveticus Rosell-52
+  * Bifidobacterium longum Rosell-175
+  * Bifidibacterium breve Rosell-70
+  * Bifidobacterium bifidum Rosell-71
+  * Lactococcus lactis Rosell-1058
+* (prebiotic) Fructooligosaccharides (aka FOS) 88mg  ([proven](https://www.researchgate.net/publication/258149706) suppress toxic bacteria)
+
+-----  
+
+## Optibac references
 
 [Optibac - probiotics help with eczema](https://www.optibacprobiotics.com/uk/professionals/latest-research/general-health/do-probiotics-help-with-eczema)  
 
@@ -218,6 +244,7 @@ find all together, on a product [Optibac - For Those On Antibiotics](https://www
 [Optibac - product vs live culture strains](https://www.optibacprobiotics.com/uk/about-us/live-cultures)  
 
 [Optibac - probiotics database](https://www.optibacprobiotics.com/uk/professionals/probiotics-database)  
+
 
 -----  
 

@@ -169,6 +169,7 @@
 * [Crawlee](https://crawlee.dev/) - is a web scraping and browser automation library  
 * [NAPS2](https://www.naps2.com/) - scan documents to PDF and more  
 * [PDFtk](https://www.pdflabs.com/tools/pdftk-the-pdf-toolkit/) - merge and split  
+* [GraphStudioNext](https://github.com/cplussharp/graph-studio-next) - tool for developers to build and test DirectShow Graphs  
 
 ## Capture
 * [OBS Studio](https://obsproject.com/) - screen capture and broadcasting  
