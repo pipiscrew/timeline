@@ -255,6 +255,8 @@ The gastrointestinal tract harbours the **largest** population of **mast cells**
 
 `Mucosa` = Is a term used to describe the **innermost** layer of the intestine (or other organs), while **mucus** refers to a type of **slippery**, slimy **substance** that is produced by certain cells in the body, including goblet cells in the mucosa of the intestine. Mucus is **one** of the components of the **mucosa** and helps to lubricate and moisten the **mucosa**, which helps to protect it from damage and irritation. The **mucosa** is made up of many different types of cells, including goblet cells, and it plays a vital role in the digestion and absorption of nutrients from food.  
 
+`Mucosal immunity` = refers to the immune system's response to pathogens that come into contact with **mucous membranes** (aka mucosa) which exist as oral mucosa, esophageal mucosa, gastric mucosa, and intestinal mucosa. Mucosal immunity is important because these areas are often the **first line** of defense against infection. The immune system in the mucosa produces antibodies and other immune substances that help to **protect** against infection and disease.  
+
 > calicobrak said : Probiotics are very iffy. Some people do well with them, while some get worse. The idea is, if your **mucosal mast cells** (aka MMC) is messed up, taking probiotics, will make them **accumulate** in areas they should **not** be, making you **feel worse** (SIBO). Have to get your MMC working before probiotics.  
 
 -----  
