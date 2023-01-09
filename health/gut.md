@@ -225,7 +225,7 @@ ingredients :
   * Bifidibacterium breve Rosell-70
   * Bifidobacterium bifidum Rosell-71
   * Lactococcus lactis Rosell-1058
-* (prebiotic) Fructooligosaccharides (aka FOS) 88mg  ([proven](https://www.researchgate.net/publication/258149706) suppress toxic bacteria)
+* (prebiotic) Fructooligosaccharides (aka FOS) 88mg  ([proven](https://www.researchgate.net/publication/258149706) [2](https://www.savant-health.com/blogs/wellness/fos-in-probiotics-good-or-bad) suppress toxic bacteria)
 
 -----  
 
