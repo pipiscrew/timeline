@@ -109,6 +109,7 @@ The following are discovered over the internet, all tried by myself, use it on y
 ps :    
 * **Coffee** aggravates the acidity, no good when subject has gut inflammation as **cannot heal**. Replace completely for **a month** (or at least 20 days) coffee with green tea (2 cups / day), I had tried also in the past but saw difference with this specific **Sencha** variant called **Satsuma** (Sencha Satsuma).. Strange I know!  
 * (rebuild) `CBD 10mg` - 15mg  x 2 times per day - 1 dose first thing in the monring, 1 dose last thing before bed.  
+* (rebuild) `Propolis` - 240mg per day ([1ml](https://www.apivita.com/en/organic-propolis-solution-food-supplement-10-10-60-267.html)).  
 
 In case of `PROBIOTICS` and the subject is with `histamine intolerance` the following found through internet :   
 * Number of `strains` may be reduced, specific some Lactobacillus strains can be beneficial, but they produce enough histamine that may cause trouble for those with histamine intolerance.
