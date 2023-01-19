@@ -29,7 +29,7 @@ This affect any mothefucker, vegan or carnivore.
 
 `leaky-gut` is the precursor to food sensitivities, rashes, hormones imbalance, cognitive issues, and even autoimmune disease.
 
-You can not feel anything at the moment and nobody can diagnosed **leaky-gut** except if you do [Zonulin poop examination](#zonulin) or a `Pathological examination by Bioresonance` (find doctor with [Asyra](https://www.asyra.co.uk/)), there will show **epithelial cells** have a gap (aka inflammation).. When there is gap on epithelial cells **shits** going in to your blood stream, unfiltered.  
+You can not feel anything at the moment and nobody can diagnosed **leaky-gut** except if you do [Zonulin poop examination](/health/gut?id=zonulin) or a `Pathological examination by Bioresonance` (find doctor with [Asyra](https://www.asyra.co.uk/)), there will show **epithelial cells** have a gap (aka inflammation).. When there is gap on epithelial cells **shits** going in to your blood stream, unfiltered.  
 
 ![img](../assets/leakygut.jpg)  
 
