@@ -29,23 +29,11 @@ This affect any mothefucker, vegan or carnivore.
 
 `leaky-gut` is the precursor to food sensitivities, rashes, hormones imbalance, cognitive issues, and even autoimmune disease.
 
-You can not feel anything at the moment and nobody can diagnosed **leaky-gut** except if you do `Zonulin poop examination` or a `Pathological examination by Bioresonance` (find doctor with [Asyra](https://www.asyra.co.uk/)), there will show **epithelial cells** have a gap (aka inflammation).. When there is gap on epithelial cells **shits** going in to your blood stream, unfiltered.  
+You can not feel anything at the moment and nobody can diagnosed **leaky-gut** except if you do [Zonulin poop examination](/health/gut?id=zonulin) or a `Pathological examination by Bioresonance` (find doctor with [Asyra](https://www.asyra.co.uk/)), there will show **epithelial cells** have a gap (aka inflammation).. When there is gap on epithelial cells **shits** going in to your blood stream, unfiltered.  
 
 ![img](../assets/leakygut.jpg)  
 
 read more [here](https://www.gastrosav.com/blog/leaky-gut-what-it-is-and-how-to-heal-it/).  
-
-`Zonulin` is a protein that regulates tight junctions. Research has shown that higher levels of this protein may loosen tight junctions and increase intestinal permeability. **Zonulin test** - [Alessio Fasano - role of zonulin on leaky gut](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6996528/) [[ 2 ](https://drgoodmannd.com/2017/10/zonulin-a-way-to-test-for-leaky-gut/)] [[ 3 ](https://youtu.be/l8C1BzAo6-8?t=56)] [[ 4 (GR) ](https://athenslab.gr/exetaseis-prolipsis/zonoulini-kopranon-1521)]  
-
-> **Zonulin** may be responsible for the breakdown of both the **intestinal barrier** and the **blood–brain barrier** (BBB) in gut `dysbiosis`, thereby explaining how the gut–brain axis modulates neuroinflammation in **multiple sclerosis** (MS). [source](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6996528/#ref-70)  
-
-`Ileitis` is an inflammation of the ileum (final and longest segment of the small intestine). It can be caused by a variety of conditions, including Crohn's disease, ulcerative colitis, and certain infections.  
-
-> **Ileitis**, increased **zonulin** expression, and damaged intestinal **mucosal epithelial** and endothelial barriers characterize the gut of patients with **ankylosing spondylitis** (AS) and are associated with increased blood levels of zonulin and bacterial products. [source](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6996528/#ref-39)  
-
-`Zonulin` is a **modulator** of both **epithelial** and **endothelial** barrier functions and its role in health and disease remains an object of active research. Gut `dysbiosis` may cause the **release** of zonulin leading to the passage of **luminal** contents across the **epithelial** barrier causing the release of pro-inflammatory cytokines that themselves cause increased **permeability**. Depending on the host genetic makeup, activated T cells may **remain** within the GI tract, causing **chronic inflammatory disease** (CID) of the gut (IBD, IBS, CD, and EED). The effect of the zonulin **inhibitor** `larazotide` acetate in mitigating **inflammation** in human clinical trials **not** only confirms the **pathogenic** role of zonulin in many CIDs but also opens the possibility of **targeting** gut **permeability** in a variety of CIDs in which a pathogenic role for zonulin has been **proven**.  
-
------  
 
 The body starts with a **skin condition** like flares, rashes, hives, papules, eczema, dermographism, gynecomastia due high estrogen hormone, you name it... Then the **traditional doctors** can diagnosed histamine intolerance / IBS / Crohn / Colitis...  
 
@@ -281,6 +269,21 @@ The gastrointestinal tract harbours the **largest** population of **mast cells**
 The small intestine is a tube-like organ that is part of the digestive system and is responsible for **absorbing nutrients** from food. Is a thick, slippery substance that is produced by the small intestine and other parts of the body. In the small intestine, mucus helps to **lubricate the lining** of the intestine and protect it from damage. Mucus is produced by cells called goblet cells, which are found throughout the small intestine. Mucus is composed of water, salts, and mucins, which are large, complex proteins that give mucus its **slippery consistency**. In addition to lubricating the small intestine, mucus also helps to protect the intestinal lining from the **corrosive effects** of stomach **acid** and digestive **enzymes**. It also plays a role in the absorption of nutrients and the regulation of the **movement** of material through the intestine. Mucus is a normal component of the digestive system and is essential for maintaining the health of the small intestine. However, an excess of mucus or changes in its composition can be a sign of an underlying problem, such as an infection or inflammatory condition (`leaky-gut`). &nbsp;&nbsp; [read more](https://www.dropbox.com/s/ho18oy2h1yee5y2/Importance%20of%20Gut%20Mucus%20to%20Your%20Health.pdf?dl=1)  
 
 -----  
+
+## Zonulin
+
+is a protein that regulates tight junctions. Research has shown that higher levels of this protein may loosen tight junctions and increase intestinal permeability. **Zonulin test** - [Alessio Fasano - role of zonulin on leaky gut](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6996528/) [[ 2 ](https://drgoodmannd.com/2017/10/zonulin-a-way-to-test-for-leaky-gut/)] [[ 3 ](https://youtu.be/l8C1BzAo6-8?t=56)] [[ 4 (GR) ](https://athenslab.gr/exetaseis-prolipsis/zonoulini-kopranon-1521)]  
+
+> **Zonulin** may be responsible for the breakdown of both the **intestinal barrier** and the **blood–brain barrier** (BBB) in gut `dysbiosis`, thereby explaining how the gut–brain axis modulates neuroinflammation in **multiple sclerosis** (MS). [source](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6996528/#ref-70)  
+
+`Ileitis` is an inflammation of the ileum (final and longest segment of the small intestine). It can be caused by a variety of conditions, including Crohn's disease, ulcerative colitis, and certain infections.  
+
+> **Ileitis**, increased **zonulin** expression, and damaged intestinal **mucosal epithelial** and endothelial barriers characterize the gut of patients with **ankylosing spondylitis** (AS) and are associated with increased blood levels of zonulin and bacterial products. [source](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6996528/#ref-39)  
+
+`Zonulin` is a **modulator** of both **epithelial** and **endothelial** barrier functions and its role in health and disease remains an object of active research. Gut `dysbiosis` may cause the **release** of zonulin leading to the passage of **luminal** contents across the **epithelial** barrier causing the release of pro-inflammatory cytokines that themselves cause increased **permeability**. Depending on the host genetic makeup, activated T cells may **remain** within the GI tract, causing **chronic inflammatory disease** (CID) of the gut (IBD, IBS, CD, and EED). The effect of the zonulin **inhibitor** `larazotide` acetate in mitigating **inflammation** in human clinical trials **not** only confirms the **pathogenic** role of zonulin in many CIDs but also opens the possibility of **targeting** gut **permeability** in a variety of CIDs in which a pathogenic role for zonulin has been **proven**.  
+
+-----  
+
 ## Antibiotics promote the sampling of luminal antigens and bacteria via colonic goblet cell associated antigen passages
 
 At the time of their introduction, antibiotics were viewed as **miracle** drugs, allowing patients to survive diseases that were previously **thought** to be untreatable. However widespread exposure to antibiotics is now associated with multiple immune mediated **disorders**, which in turn have been **correlated** with antibiotic induced **alterations** of the gut **microbiota**.  
