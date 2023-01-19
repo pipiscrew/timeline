@@ -21,6 +21,7 @@ Continue [reading](https://pipiscrew.com/yoga/)
 Type : Anaerobic  
 
 Three days per week, [those](https://vimeo.com/showcase/8220991) target the whole body.  
+[MuscleWiki](https://musclewiki.com/) - Find exercises that work specific muscles.  
 
 ## sprint
 
