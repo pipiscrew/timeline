@@ -273,16 +273,17 @@ The small intestine is a tube-like organ that is part of the digestive system an
 ## Zonulin
 
 Is a **protein** that regulates tight junctions. Research has shown that **higher** levels of this protein may **loosen** tight junctions and **increase** intestinal **permeability**.  
+  
 **Zonulin test** - [Alessio Fasano - role of zonulin on leaky gut](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6996528/)  
 * [A Way to Test for Leaky Gut](https://drgoodmannd.com/2017/10/zonulin-a-way-to-test-for-leaky-gut/)
 * [Testing for Leaky Gut](https://youtu.be/l8C1BzAo6-8?t=56)
 * [Athens lab examination](https://athenslab.gr/exetaseis-prolipsis/zonoulini-kopranon-1521)  
 
-> **Zonulin** may be responsible for the breakdown of both the **intestinal barrier** and the **blood–brain barrier** (BBB) in gut `dysbiosis`, thereby explaining how the gut–brain axis modulates neuroinflammation in **multiple sclerosis** (MS). [source](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6996528/#ref-70)  
+> **Zonulin** may be responsible for the breakdown of both the **intestinal barrier** and the **blood–brain barrier** (BBB) in gut `dysbiosis`, thereby explaining how the gut–brain axis modulates neuroinflammation in **multiple sclerosis** (MS). [source](https://doi.org/10.1177/1352458519863133)  
 
 `Ileitis` is an inflammation of the ileum (final and longest segment of the small intestine). It can be caused by a variety of conditions, including Crohn's disease, ulcerative colitis, and certain infections.  
 
-> **Ileitis**, increased **zonulin** expression, and damaged intestinal **mucosal epithelial** and endothelial barriers characterize the gut of patients with **ankylosing spondylitis** (AS) and are associated with increased blood levels of zonulin and bacterial products. [source](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6996528/#ref-39)  
+> **Ileitis**, increased **zonulin** expression, and damaged intestinal **mucosal epithelial** and endothelial barriers characterize the gut of patients with **ankylosing spondylitis** (AS) and are associated with increased blood levels of zonulin and bacterial products. [source](https://doi.org/10.1136%2Fannrheumdis-2016-210000)  
 
 `Zonulin` is a **modulator** of both **epithelial** and **endothelial** barrier functions and its role in health and disease remains an object of active research. Gut `dysbiosis` may cause the **release** of zonulin leading to the passage of **luminal** contents across the **epithelial** barrier causing the release of pro-inflammatory cytokines that themselves cause increased **permeability**. Depending on the host genetic makeup, activated T cells may **remain** within the GI tract, causing **chronic inflammatory disease** (CID) of the gut (IBD, IBS, CD, and EED). The effect of the zonulin **inhibitor** `larazotide` acetate in mitigating **inflammation** in human clinical trials **not** only confirms the **pathogenic** role of zonulin in many CIDs but also opens the possibility of **targeting** gut **permeability** in a variety of CIDs in which a pathogenic role for zonulin has been **proven**.  
 
