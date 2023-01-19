@@ -272,7 +272,11 @@ The small intestine is a tube-like organ that is part of the digestive system an
 
 ## Zonulin
 
-is a protein that regulates tight junctions. Research has shown that higher levels of this protein may loosen tight junctions and increase intestinal permeability. **Zonulin test** - [Alessio Fasano - role of zonulin on leaky gut](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6996528/) [[ 2 ](https://drgoodmannd.com/2017/10/zonulin-a-way-to-test-for-leaky-gut/)] [[ 3 ](https://youtu.be/l8C1BzAo6-8?t=56)] [[ 4 (GR) ](https://athenslab.gr/exetaseis-prolipsis/zonoulini-kopranon-1521)]  
+Is a **protein** that regulates tight junctions. Research has shown that **higher** levels of this protein may **loosen** tight junctions and **increase** intestinal **permeability**.  
+**Zonulin test** - [Alessio Fasano - role of zonulin on leaky gut](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6996528/)  
+* [A Way to Test for Leaky Gut](https://drgoodmannd.com/2017/10/zonulin-a-way-to-test-for-leaky-gut/)
+* [Testing for Leaky Gut](https://youtu.be/l8C1BzAo6-8?t=56)
+* [Athens lab examination](https://athenslab.gr/exetaseis-prolipsis/zonoulini-kopranon-1521)  
 
 > **Zonulin** may be responsible for the breakdown of both the **intestinal barrier** and the **blood–brain barrier** (BBB) in gut `dysbiosis`, thereby explaining how the gut–brain axis modulates neuroinflammation in **multiple sclerosis** (MS). [source](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6996528/#ref-70)  
 
