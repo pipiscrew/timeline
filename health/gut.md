@@ -229,6 +229,24 @@ ingredients :
 
 -----  
 
+## (probiotic) Optibac Everyday Extra (Lactobacillus / Bifidobacterium strains)
+
+per capsule : 20 billion CFU (coloning forming units)  
+dose : 1-2 capsules per day  
+
+Multi-strain probiotic, an advanced, high strength daily supplement to complement your body natural gut bacteria.  
+
+* (UK) [product page](https://www.optibacprobiotics.com/uk/product/for-every-day-extra-strength-30-capsules)  
+
+ingredients :  
+* Live probiotic cultures 161 mg
+  * Lactobacillus acidophilus NCFM
+  * Lactobacillus paracasei Lpc-37
+  * Bifidobacterium lactis Bi-07
+  * Bifidobacterium lactis Bl-04  
+
+-----  
+
 ## Optibac references
 
 [Optibac - probiotics help with eczema](https://www.optibacprobiotics.com/uk/professionals/latest-research/general-health/do-probiotics-help-with-eczema)  

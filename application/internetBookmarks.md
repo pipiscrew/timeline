@@ -214,7 +214,7 @@
 * [mwmbl](https://mwmbl.org/) - restricted to English content and domains which score highly on average in Hacker News submissions  
 * [Teclis](https://teclis.com/) - non-commercial web search  
 * [PinEyes](https://pimeyes.com/en) - face image search  
-* [youtube search](https://xn--1-zfa.com/youtube/) or [this](https://playlists.at/youtube/search/)  
+* [youtube search](https://xn--1-zfa.com/youtube/) or [this](https://playlists.at/youtube/search/)
 * [Shodan Search Engine](https://www.shodan.io) - Search Engine for the Internet of Everything
 * [CriminalIP](https://www.criminalip.io) - [ref](https://blog.criminalip.io/2022/07/20/api-key-leak/)  
 * [best of anything](https://www.bestlist.com/)  
@@ -222,6 +222,7 @@
 * [datoRSS](https://datorss.com/) - A search engine based on RSS feed
 * [you](https://you.com/) - developers search faster  
 * [Search all eBay sites at once](https://globalesearch.com/)  
+* [perplexity](https://www.perplexity.ai/) - Chat Interface to Search Engine  
 
 ## virus scan
 * [google.virus total](https://www.virustotal.com/)
