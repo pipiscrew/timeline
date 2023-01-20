@@ -141,7 +141,7 @@ In general, all over the internet there are con man, trying to [convince](https:
 * DAO (blood)
   * < 3.0 U/ml: high probability of HIT
   * 3.1-10.0 U/ml: moderate hit probability
-  * \> 10.0 U/ml: low probability of HIT  
+  * \> 10.0 U/ml: low probability of HIT (the normal is 20 to 40 U/ml)  
 * ΗΙΤ: Histamine Intolerance  
 
 * Zonulin (poop)
@@ -152,7 +152,7 @@ author results :
 16/01/2023 : 16.7 U/ml  
 18/03/2022 : 12,6 U/ml  
 
-moreover on `Zonulin result` is a note suggesting [Biron.EnteroScan](https://www.biron.com/en/medical-imaging/computed-tomography-scan/enteroscan/), is an examination of the small intestine using computed tomography (CT scan), a medical imaging procedure.  
+moreover on `Zonulin result` is a note suggesting [Biron.EnteroScan](https://www.biron.com/en/medical-imaging/computed-tomography-scan/enteroscan/).  
 
 -----  
 
