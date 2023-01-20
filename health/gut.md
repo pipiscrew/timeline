@@ -152,7 +152,7 @@ author results :
 16/01/2023 : 16.7 U/ml  
 18/03/2022 : 12,6 U/ml  
 
-moreover on `Zonulin result` is a note suggesting [Biron.EnteroScan](https://www.biron.com/en/medical-imaging/computed-tomography-scan/enteroscan/).  
+moreover on `Zonulin result` is a note suggesting [Biron.EnteroScan](https://www.biron.com/en/medical-imaging/computed-tomography-scan/enteroscan/). ([GR](https://athenslab.gr/results.php?search=enteroscan))  
 
 -----  
 
