@@ -137,6 +137,23 @@ mysterious high prices :
 
 In general, all over the internet there are con man, trying to [convince](https://www.youtube.com/watch?v=XajrAN3Y_0c) you that can solve your problem BEWARE!  
 
+## DAO & Zonulin Ranges
+* DAO (blood)
+  * < 3.0 U/ml: high probability of HIT
+  * 3.1-10.0 U/ml: moderate hit probability
+  * \> 10.0 U/ml: low probability of HIT  
+* ΗΙΤ: Histamine Intolerance  
+
+* Zonulin (poop)
+  * 15.0 – 107.0 ng/g  
+
+author results :  
+16/01/2023 : 183.8 ng/g  
+16/01/2023 : 16.7 U/ml  
+18/03/2022 : 12,6 U/ml  
+
+moreover on `Zonulin result` is a note suggesting [Biron.EnteroScan](https://www.biron.com/en/medical-imaging/computed-tomography-scan/enteroscan/), is an examination of the small intestine using computed tomography (CT scan), a medical imaging procedure.  
+
 -----  
 
 ## (probiotic) Alflorex (Bifidobacterium longum 35624)  

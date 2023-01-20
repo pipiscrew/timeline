@@ -32,6 +32,7 @@
 * [Digital Public Library of America](https://dp.la)  
 * [Consensus](https://consensus.app/) - Search Engine that find answers in Scientific Research
 * [Search Millions Manuals](https://manualsrepo.com)
+* [Libble](https://www.libble.eu/) - manuals
 * [Cheatography](https://cheatography.com/) - a collection of over 5000 reference cheat sheets  
 
 
