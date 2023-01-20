@@ -142,7 +142,7 @@ In general, all over the internet there are con man, trying to [convince](https:
   * < 3.0 U/ml: high probability of HIT
   * 3.1-10.0 U/ml: moderate hit probability
   * \> 10.0 U/ml: low probability of HIT (the normal is 20 to 40 U/ml)  
-* ΗΙΤ: Histamine Intolerance  
+  * ΗΙΤ: Histamine Intolerance  
 
 * Zonulin (poop)
   * 15.0 – 107.0 ng/g  
