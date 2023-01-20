@@ -203,6 +203,7 @@ Initially searching for Lactobacillus plantarum 299v but due unavailability boug
 ingredients :  
 * Live probiotic cultures 50 mg
 * (Omega3) Alpha-linolenic acid ([ALA](https://www.healthline.com/nutrition/3-types-of-omega-3)) 300mg (derived from chia seeds)
+  * ALA precursor of EPA or DHA, chia seed oil is **not** a vegetable oil. Chia seeds are type of flowering plant, the extracted oil is rich in omega-3 fatty acids.
   * [proven](https://pipiscrew.github.io/timeline/#/health/inflammatory?id=omega-3) anti-inflammatory actions in inflammatory bowel disease, colitis, atopic dermatitis and epithelial cells.
 * Vitamin B1 0,22 mg  
 
