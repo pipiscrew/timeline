@@ -264,7 +264,7 @@ find all together, on a product [Optibac - For Those On Antibiotics](https://www
 
 [Optibac - probiotics database](https://www.optibacprobiotics.com/uk/professionals/probiotics-database)  
 
-Optibac pills products :
+Optibac pill products :  
 For maximum potency **refrigerate** the product after opening. Do not remove the desiccant sachet from the glass jar and close the lid firmly after each use. 
 
 -----  
