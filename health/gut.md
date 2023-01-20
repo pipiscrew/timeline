@@ -154,6 +154,8 @@ author results :
 
 moreover on `Zonulin result` is a note suggesting [Biron.EnteroScan](https://www.biron.com/en/medical-imaging/computed-tomography-scan/enteroscan/). ( [EnteroScan-GR](https://athenslab.gr/en/preventive-tests/enteroscan-intestinal-microbiome-tests) / [TrophoScan-GR](https://athenslab.gr/en/preventive-tests/trophoscan-food-intolerance-tests) )  
 
+calicobrak suggests to make [GIMAP](https://www.diagnosticsolutionslab.com/tests/gi-map) examination.  
+
 -----  
 
 ## (probiotic) Alflorex (Bifidobacterium longum 35624)  

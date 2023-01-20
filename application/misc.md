@@ -90,6 +90,7 @@
 ## Rename
 * [CKRename](https://www.softpedia.com/get/System/File-Management/CKRename.shtml)
 * [RenameMaestro](https://www.softpedia.com/get/System/File-Management/RenameMaestro.shtml)
+* [Advanced Renamer](https://www.advancedrenamer.com/)  
 
 ## Automation
 * [CLCL - clipboard caching](https://www.nakka.com/soft/clcl/index_eng.html)
