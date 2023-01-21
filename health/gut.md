@@ -152,10 +152,10 @@ author results :
 16/01/2023 : 16.7 U/ml  
 18/03/2022 : 12.6 U/ml  
 
-moreover on `Zonulin result` is a note suggesting [Biron.EnteroScan](https://www.biron.com/en/medical-imaging/computed-tomography-scan/enteroscan/).  
-* [EnteroScan-GR](https://athenslab.gr/en/preventive-tests/enteroscan-intestinal-microbiome-tests)
-* [TrophoScan-GR](https://athenslab.gr/en/preventive-tests/trophoscan-food-intolerance-tests)
-* [costs](https://eshop.athenslab.gr/exetaseis-prolipsis/enteroscan-elegxos-enterikou-mikroviomatos) see 'Δείγμα Απάντησης' or 'Τι Περιλαμβάνει'.  
+moreover on `Zonulin result` is a note suggesting [EnteroScan-GR](https://athenslab.gr/en/preventive-tests/enteroscan-intestinal-microbiome-tests).  
+* other [TrophoScan-GR](https://athenslab.gr/en/preventive-tests/trophoscan-food-intolerance-tests)
+* other [Microbiome Diet & Therapy-GR](https://athenslab.gr/en/blog/gut-microbiota/microbiome-diet)
+* other [costs](https://eshop.athenslab.gr/exetaseis-prolipsis/enteroscan-elegxos-enterikou-mikroviomatos) see 'Δείγμα Απάντησης' or 'Τι Περιλαμβάνει'.  
 
 calicobrak suggests to make [GIMAP](https://www.diagnosticsolutionslab.com/tests/gi-map) examination.  
 
@@ -331,6 +331,28 @@ Is a **protein** that regulates tight junctions. Research has shown that **highe
 > **Ileitis**, increased **zonulin** expression, and damaged intestinal **mucosal epithelial** and endothelial barriers characterize the gut of patients with **ankylosing spondylitis** (AS) and are associated with increased blood levels of zonulin and bacterial products. [source](https://doi.org/10.1136%2Fannrheumdis-2016-210000)  
 
 `Zonulin` is a **modulator** of both **epithelial** and **endothelial** barrier functions and its role in health and disease remains an object of active research. Gut `dysbiosis` may cause the **release** of zonulin leading to the passage of **luminal** contents across the **epithelial** barrier causing the release of pro-inflammatory cytokines that themselves cause increased **permeability**. Depending on the host genetic makeup, activated T cells may **remain** within the GI tract, causing **chronic inflammatory disease** (CID) of the gut (IBD, IBS, CD, and EED). The effect of the zonulin **inhibitor** `larazotide` acetate in mitigating **inflammation** in human clinical trials **not** only confirms the **pathogenic** role of zonulin in many CIDs but also opens the possibility of **targeting** gut **permeability** in a variety of CIDs in which a pathogenic role for zonulin has been **proven**.  
+
+-----  
+
+## Short-Chain Fatty Acids (SCFAs)
+
+SCFAs, the main metabolites produced in the colon by bacterial fermentation of dietary fibers and resistant starch produced by the microbiota in the **large intestine**, are speculated to play a key role in neuro-immunoendocrine regulation.  
+
+Approximately **500–600 mmol** of SCFAs are produced in the gut per day **depending** on the **fiber** content in the diet.  
+
+Although only a **minor** fraction of colon-derived SCFAs **reaches** the systemic **circulation** and other tissues, their effects on different **organ** and systems have recently been widely outlined. Τhe influence of the microbiota and the effects of SCFAs on the **central nervous system** (CNS) have been a matter of **intense** debate in the last few years. SCFAs are speculated to play a **pivotal** role in microbiota-gut-brain **crosstalk**.  
+
+The human body is inhabited by a wide variety of commensal microorganisms collectively called the **microbiota**. This host microbiota **colonizes** the skin and several mucosal cavities (nasal, oral, pulmonary, and vaginal), however, it is in the **gastrointestinal** (GI) tract **that** these organisms reach **extraordinary densities** since trillions of bacteria, fungi, and viruses coexist in symbiosis with the host for potential mutual benefit.  
+
+Recently unveiled that the influence of the microbiota is **not** restricted to the GI tract, it plays a major role in the **bidirectional** communication between the GI tract and the CNS.  
+
+Microorganisms can influence CNS processes bidirectionally via the **vagus nerve** and through modulation of the immune system, the hypothalamic-pituitary-adrenal (HPA) axis, and tryptophan metabolism, along with their ability to **synthetize** a number of **neurotransmitters** and produce metabolites, such as short-chain fatty acids (SCFAs), that possess neuroactive properties.  
+
+During gut pathologies with increased permeability (`leaky-gut`) of the intestinal barrier, the translocation of bacterial products can increase the production of cytokines and impact the blood-brain barrier (BBB), leading to more intense harmful effects. Further, it has already been shown that **several** bacterial strains can **modify** levels of neurotransmitter **precursors** in the gut **lumen** and even **independently** synthesize (or modulate the synthesis of) a number of neurotransmitters, including γ-aminobutyric acid (GABA), serotonin (5-HT), dopamine (DA), and noradrenaline (NA). These neurotransmitters can potentially influence **microglial** activation and several cerebral functions. [source](https://doi.org/10.3389/fendo.2020.00025)  
+
+`Vagus nerve` is the longest nerve in the body, it originates in the brainstem and travels through the neck and thorax to the abdomen, where it splits into several branches.  
+
+`Microglia` are a type of immune cell found in the central nervous system (CNS) that play a role in maintaining the health of nerve cells and responding to injury or disease in the brain and spinal cord.  
 
 -----  
 
