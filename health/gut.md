@@ -145,7 +145,7 @@ In general, all over the internet there are con man, trying to [convince](https:
   * \> 10.0 U/ml: low probability of HIT (the normal is 20 to 40 U/ml)  
   * HIT: Histamine Intolerance  
 
-* Zonulin (poop)
+* Zonulin (stool)
   * 15.0 – 107.0 ng/g  
 
 author results :  
