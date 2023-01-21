@@ -44,7 +44,7 @@
 
 **Stainless steel** is `non-reactive` and easy to clean, while **cast iron** and **ceramic** can **add** iron and other minerals to food during cooking. However, it is important to note that **non-stick pans**, which are made from materials such as **Teflon**, may release **harmful** chemicals when heated to high temperatures.  
 
-**Titanium** frying pans are `non-reactive`, meaning they won't affect the taste or quality of food, and they are also resistant to scratches and dings. However, one of the main disadvantage is that it does not distribute heat very well.  
+**Titanium** frying pans are `non-reactive`, meaning they won't affect the taste or quality of food, is truly non-stick and they are also resistant to scratches and dings. However, one of the main disadvantage is that it does not distribute heat very well.  
 
 &nbsp;
 ## coffee
