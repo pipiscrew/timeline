@@ -68,7 +68,7 @@ easy to cook 5 days schedule :
 * pasta (130gr) w/ scrambled eggs (3)
 * fish (COD / tuna / salmon) fresh or frozen (~250gr-300gr) w/ 80gr rice
 * legumes (blackeye / lentils) (100gr)
-* `warning` with the [cooking appliances](../notes/whenatkitchen?id=frying-pan).
+* `warning` with the [cooking appliances](https://pipiscrew.github.io/timeline/#/notes/whenatkitchen?id=frying-pan).
 
 when eat outside (max 2 days / week) preferred cuisines :
 * Asian
