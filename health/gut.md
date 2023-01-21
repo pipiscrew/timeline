@@ -336,7 +336,7 @@ Is a **protein** that regulates tight junctions. Research has shown that **highe
 
 ## Short-Chain Fatty Acids (SCFAs)
 
-SCFAs, the main metabolites produced in the colon by bacterial fermentation of dietary fibers and resistant starch produced by the microbiota in the **large intestine**, are speculated to play a **key** role in **neuro-immunoendocrine** regulation.  
+SCFAs, the main metabolites **produced** in the colon by bacterial fermentation of **dietary fibers** and resistant **starch** produced by the microbiota in the **large intestine**, are speculated to play a **key** role in **neuro-immunoendocrine** regulation.  
 
 Approximately **500–600 mmol** of SCFAs are produced in the gut per day **depending** on the **fiber** content in the diet.  
 
