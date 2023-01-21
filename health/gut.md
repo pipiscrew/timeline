@@ -152,7 +152,10 @@ author results :
 16/01/2023 : 16.7 U/ml  
 18/03/2022 : 12.6 U/ml  
 
-moreover on `Zonulin result` is a note suggesting [Biron.EnteroScan](https://www.biron.com/en/medical-imaging/computed-tomography-scan/enteroscan/). ( [EnteroScan-GR](https://athenslab.gr/en/preventive-tests/enteroscan-intestinal-microbiome-tests) / [TrophoScan-GR](https://athenslab.gr/en/preventive-tests/trophoscan-food-intolerance-tests) )  
+moreover on `Zonulin result` is a note suggesting [Biron.EnteroScan](https://www.biron.com/en/medical-imaging/computed-tomography-scan/enteroscan/).  
+* [EnteroScan-GR](https://athenslab.gr/en/preventive-tests/enteroscan-intestinal-microbiome-tests)
+* [TrophoScan-GR](https://athenslab.gr/en/preventive-tests/trophoscan-food-intolerance-tests)
+* [costs](https://eshop.athenslab.gr/exetaseis-prolipsis/enteroscan-elegxos-enterikou-mikroviomatos) see 'Δείγμα Απάντησης' or 'Τι Περιλαμβάνει'.  
 
 calicobrak suggests to make [GIMAP](https://www.diagnosticsolutionslab.com/tests/gi-map) examination.  
 
