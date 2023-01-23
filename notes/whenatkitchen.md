@@ -46,7 +46,7 @@
 
 **Titanium** is `non-reactive`, meaning they won't affect the taste or quality of food, truly non-stick and they are also resistant to scratches and dings. Is typically **very safe**, especially when compared to other non-stick cookware sets that contain [Teflon](https://www.webmd.com/food-recipes/is-teflon-coating-safe), PTFE and other kinds of fluoropolymers.
 
-* Stainless steel or aluminum frying pans can heat up to around 260-290°C when used on a gas stove.  
+* Stainless steel and aluminum frying pans can heat up to around 260-290°C when used on a gas stove.  
 * Cast iron around 370-425°C on a gas stove.  
 * Electric stove, usually get lower temperature than gas stove.  
 
