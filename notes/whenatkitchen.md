@@ -44,12 +44,12 @@
 
 **Stainless steel** is `non-reactive` and easy to clean, while **cast iron** and **ceramic** can **add** iron and other minerals to food during cooking. However, it is important to note that **non-stick pans**, which are made from materials such as **Teflon**, may release **harmful** chemicals when heated to high temperatures.  
 
-**Titanium** is `non-reactive`, meaning they won't affect the taste or quality of food, truly non-stick and they are also resistant to scratches and dings. Is typically **very safe**, especially when compared to other non-stick cookware sets that contain [Teflon](https://www.webmd.com/food-recipes/is-teflon-coating-safe), PTFE and other kinds of fluoropolymers.
+**Titanium** is `non-reactive`, meaning they won't affect the taste or quality of food, truly non-stick and they are also resistant to scratches and dings. Is typically **very safe**, especially when compared to other non-stick cookware sets that contain [Teflon](https://www.webmd.com/food-recipes/is-teflon-coating-safe), PTFE and other kinds of fluoropolymers.  
 
+* **Granite stone** (aka crushed stone or mineral-enriched) frying pans marketed as being healthier but contain trace amounts of heavy metals, which are harmful (*had bad experience with those*).
 * **Stainless steel** and **aluminum** frying pans can heat up to around 260-290°C when used on a gas stove.  
 * **Cast iron** around 370-425°C on a gas stove.  
-* Electric stove, usually get lower temperature than gas stove. 
-* **Granite stone** (aka crushed stone or mineral-enriched) frying pans marketed as being healthier but contain trace amounts of heavy metals, which are harmful (*had bad experience with those*).  
+* Electric stove, usually get lower temperature than gas stove.  
 
 > ανοξείδωτο ατσάλι με αντικολλητική επίστρωση τιτανίου  
 
