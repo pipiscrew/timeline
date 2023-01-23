@@ -49,7 +49,7 @@
 * **Stainless steel** and **aluminum** frying pans can heat up to around 260-290°C when used on a gas stove.  
 * **Cast iron** around 370-425°C on a gas stove.  
 * Electric stove, usually get lower temperature than gas stove. 
-* **Granite stone** (aka crushed stone or mineral-enriched) frying pans marketed as being healthier but contain trace amounts of heavy metals, which are harmful (*as I didn't know had a very bad experience with those*).  
+* **Granite stone** (aka crushed stone or mineral-enriched) frying pans marketed as being healthier but contain trace amounts of heavy metals, which are harmful (*had a very bad experience with those*).  
 
 > ανοξείδωτο ατσάλι με αντικολλητική επίστρωση τιτανίου  
 
