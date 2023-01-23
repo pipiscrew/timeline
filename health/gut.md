@@ -7,7 +7,7 @@ Human vandalized his body every day. Take a look, what is as raw food in compari
 
 we have to be more protective for our **gastrointestinal system**.  
 
-Have in mind that **garlic**, **antibiotics** destroy the intestinal microflora (kill bad & good bacteria). They saying, that, when take 1 pill antibiotic, to recover as was, takes 6 months. Thats why the **new ERA** doctors when prescribe antibiotics always add probiotics as well (2 hours before or after the bomb).  
+Have in mind that **raw garlic**, **antibiotics** destroy the intestinal microflora (kill bad & good bacteria). As precaution check your [cooking appliances](https://pipiscrew.github.io/timeline/#/notes/whenatkitchen?id=frying-pan). They saying, that, when take 1 pill antibiotic, to recover as was, takes 6 months. Thats why the **new ERA** doctors when prescribe antibiotics always add probiotics as well (2 hours before or after the bomb).  
 
 **Probiotics** (green / animal) are the good bacteria that should be present in a healthy intestinal tract.  
 
@@ -67,8 +67,7 @@ easy to cook 5 days schedule :
 * meat (chicken breast / liver / pork tomahawk) (~250gr-300gr) w/ 80gr rice
 * pasta (130gr) w/ scrambled eggs (3)
 * fish (COD / tuna / salmon) fresh or frozen (~250gr-300gr) w/ 80gr rice
-* legumes (blackeye / lentils) (100gr)
-* `warning` with the [cooking appliances](https://pipiscrew.github.io/timeline/#/notes/whenatkitchen?id=frying-pan).
+* legumes (blackeye / lentils) (100gr)  
 
 when eat outside (max 2 days / week) preferred cuisines :
 * Asian
