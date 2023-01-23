@@ -44,7 +44,14 @@
 
 **Stainless steel** is `non-reactive` and easy to clean, while **cast iron** and **ceramic** can **add** iron and other minerals to food during cooking. However, it is important to note that **non-stick pans**, which are made from materials such as **Teflon**, may release **harmful** chemicals when heated to high temperatures.  
 
-**Titanium** frying pans are `non-reactive`, meaning they won't affect the taste or quality of food, is truly non-stick and they are also resistant to scratches and dings. However, one of the main disadvantage is that it does not distribute heat very well. Is typically **very safe**, especially when compared to other non-stick cookware sets that contain Teflon, PTFE and other kinds of fluoropolymers.  
+**Titanium** frying pans are `non-reactive`, meaning they won't affect the taste or quality of food, truly non-stick and they are also resistant to scratches and dings. However, one of the main disadvantage is that it does not distribute heat very well. Is typically **very safe**, especially when compared to other non-stick cookware sets that contain Teflon, PTFE and other kinds of fluoropolymers.  [read more](https://www.webmd.com/food-recipes/is-teflon-coating-safe)  
+
+* Stainless steel or aluminum frying pans can heat up to around 260-290°C when used on a gas stove.  
+* Cast iron around 370-425°C on a gas stove.  
+* Electric stove, usually get lower temperature than gas stove.  
+
+
+> ανοξείδωτο ατσάλι με αντικολλητική επίστρωση τιτανίου  
 
 &nbsp;
 ## coffee
@@ -63,7 +70,8 @@
 
 &nbsp;
 * **Metal filters** produce a more robust and visually **darker** cup of coffee, which **contains** more oils and sometimes small amounts of sediment.
-* **Paper filters** produce a **brighter**, sweeter cup of coffee with little or **no** sediment or oils, helping cut out the bad cholesterol found in coffee.  
+* **Paper filters** produce a **brighter**, sweeter cup of coffee with little or **no** sediment or oils, helping cut out the bad cholesterol found in coffee. 
+* [How to Lower the Cafestol in Your Coffee](https://dhrupurohit.com/try-this-cafestol/)  
 
 to be honest, forget about french press or bialetti moka, buy yourself an espresso machine.  
 
