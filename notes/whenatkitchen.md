@@ -50,7 +50,7 @@
 * **Cast iron** around 370-425°C on a gas stove.  
 * Electric stove, usually get lower temperature than gas stove.  
 
-**Granite stone** (aka crushed stone or mineral-enriched) frying pans marketed as being healthier but contain trace amounts of heavy metals, which are harmful (*had bad experience with those*).  
+**Granite stone** (aka crushed stone or mineral-enriched) frying pans marketed as being healthier but contain trace amounts of **heavy metals**, which are harmful (*had bad experience with those*).  
 
 > ανοξείδωτο ατσάλι με αντικολλητική επίστρωση τιτανίου  
 
