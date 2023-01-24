@@ -1,8 +1,7 @@
 ## scholar  
-* [Sci Hub](https://sci-hub.do/) - download doi links
+* [Sci Hub](https://sci-hub.se/) - download doi links
   * [1](https://sci-hub.st/)
-  * [2](https://sci-hub.do/)  
-  * [3*](https://sci-hub.se/)
+  * [2](https://sci-hub.ru/)  
 * [LibGen](https://libgen.me/) - Collecting and cataloging scientific & technical ebooks 
 * [Library Genesis](https://libgen.is/)
 * [Freecomputerbooks](https://freecomputerbooks.com/)
