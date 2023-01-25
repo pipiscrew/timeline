@@ -1,7 +1,8 @@
 `Teflon` was first developed in the 1930s by a scientist named Roy Plunkett while working for the **DuPont** company. At the time, Teflon was primarily used as a **lubricant** and as a material for making **seals** in various industrial applications.   
 
-However, it was later discovered that Teflon had **non-stick** properties and could be used to create a non-stick **coating** for cookware. This was a **significant breakthrough** in the field of **cookware** and made cooking with Teflon-coated pans much more convenient and efficient. Teflon quickly became **popular** among consumers due to its non-stick properties and its ability to make cooking and cleaning easier and the population develop `cancer`.  
+However, it was later discovered (1950s) that Teflon had **non-stick** properties and could be used to create a non-stick **coating** for cookware. This was a **significant breakthrough** (1960s) in the field of **cookware** and made cooking with Teflon-coated pans much more convenient and efficient. Teflon quickly became **popular** among consumers due to its non-stick properties and its ability to make cooking and cleaning easier and the population develop `cancer`.  
 
+for reference, nowadays statistics :
 * In 2020, an estimated **1,806,590 new cases** of cancer will be diagnosed **only in the United States**. [soure](https://www.cancer.gov/about-cancer/understanding/statistics)
 * Almost **10 Million people** world wide, die from cancer annually. [source](https://ourworldindata.org/cancer)  
 
