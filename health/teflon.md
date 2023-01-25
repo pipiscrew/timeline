@@ -3,8 +3,9 @@
 However, it was later discovered (1950s) that Teflon had **non-stick** properties and could be used to create a non-stick **coating** for cookware. This was a **significant breakthrough** (1960s) in the field of **cookware** and made cooking with Teflon-coated pans much more convenient and efficient. Teflon quickly became **popular** among consumers due to its non-stick properties and its ability to make cooking and cleaning easier and the population develop `cancer`.  
 
 for reference, nowadays statistics :
-* In 2020, an estimated **1,806,590 new cases** of cancer will be diagnosed **only in the United States**. [soure](https://www.cancer.gov/about-cancer/understanding/statistics)
-* Almost **10 Million people** world wide, die from cancer annually. [source](https://ourworldindata.org/cancer)  
+* In 2020, an estimated **1,806,590 new cases** of cancer will be diagnosed **only in US**. [soure](https://www.cancer.gov/about-cancer/understanding/statistics)
+* Almost **10 Million people** world wide, die from cancer annually. [source](https://ourworldindata.org/cancer)
+* [PFAS in the US Population](https://www.atsdr.cdc.gov/pfas/health-effects/us-population.html)  
 
 It's important to remember that Teflon was developed and marketed decades ago, nowadays, with more knowledge and studies, the **concerns** have been **raised** and it's important to be aware of the potential risks and take precautions when using Teflon-coated cookware, such as using them on low to medium heat and avoiding preheating empty pans or better not using it at all.  
 

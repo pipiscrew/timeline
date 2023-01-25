@@ -30,6 +30,7 @@
 
 ## Context Menu
 * [Easy Context Menu](https://www.sordum.org/7615/easy-context-menu-v1-6/)
+* [Windows 11 Classic Context Menu](https://www.sordum.org/14479)
 * [Nirsoft.ShellMenuView](https://www.nirsoft.net/utils/shell_menu_view.html)
 
 ## Dos
