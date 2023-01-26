@@ -42,6 +42,10 @@ I would like to point out that `Interventional Radiology` doctors can diagnose *
 `histamine intolerance` is assumed to be due to a **deficiency** of the gastrointestinal (GI) enzyme `DAO` (diamine oxidase) and, therefore, the food component histamine not being degraded and/or absorbed properly within the GI tract.   [source](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8069563/)  
 Since your intestines are where most of the `DAO` enzyme is produced, your body may produce less DAO when the **gut is inflamed** (`leaky-gut`), thus leading to a build up of histamine.  [source](https://rootfunctionalmedicine.com/curing-histamine-intolerance)  
 
+`Dysbiosis` was found in 88% of the AS patients, and an **increased** dysbiosis was associated with **elevation** of stool `calprotectin`. [source](https://doi.org/10.1186%2Fs13075-019-2018-4)  
+
+`Calprotectin` is a protein released by a type of **white blood** cell. When there is **inflammation** in the gastrointestinal tract, white blood cells move to the area and **release** calprotectin, resulting an increased level in the stool. [lab description](https://www.i-screen.com.au/tests/gut-inflammation-check)  
+
 ## food
 
 I can understand, that till now, some people, eat to insure that are not hungry.. You have to delete this from your dashboard and take care seriously what you add to your mouth... There is no special recipe, each person is different, you have to perform tests on your daily foods. From my understandings the following must be avoided on all situations : 
