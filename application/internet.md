@@ -291,6 +291,7 @@ To find the profile currently is use navigate to `Help > Troubleshooting Informa
 * [duckduckgo email protection](https://duckduckgo.com/email/) - requires browser addon
 * [Forward Email](https://forwardemail.net/en)
 * [simplelogin](https://simplelogin.io/) - proxy by proton  
+* [AnonAddy](https://anonaddy.com/)  
 
 ## RSS
 * [QuiteRSS](https://quiterss.org/)

@@ -19,3 +19,20 @@ Real story [The Lawyer Who Became DuPont’s Worst Nightmare](https://www.nytime
 `PFOA` is a chemical compound that is used as a processing aid in the production of some types of fluoropolymers, including Teflon (PTFE). It is not used as a coating on cookware, but it is used in the **manufacturing process** to make some types of non-stick coating, such as Teflon. PFOA is considered as a persistent organic **pollutant** due to its potential **health** and environmental effects, and it has been **phased out** of use by many manufacturers.  
 
 `PTFE`, on the other hand, is the chemical compound that is used to **make** `Teflon`, a brand of non-stick **coating**. PTFE is a synthetic fluoropolymer that is **applied** to the **surface** of cookware to create a non-stick coating. Is controversial material due to the potential health risks associated with inhaling fumes produced when the Teflon coated pans are overheated.  
+
+-----  
+
+There are several blood tests that can detect the presence of heavy metals and in the body, including:  
+* Blood lead levels
+* Blood mercury levels
+* Blood cadmium levels
+* Blood arsenic levels
+* Blood aluminum levels
+* Blood nickel levels
+
+and also blood tests, for 'cookware' derived :
+* PFOA
+* PFOS 
+* PFAS  
+
+`PFOA` can be measured in blood for years after exposure. PFOA levels **decline** in blood naturally by about half every 2-4 years, assuming there is no additional exposure. [source](https://www.health.ny.gov/environmental/investigations/hoosick/docs/pfoa_blood_sampling_q_and_a_9_2_16.pdf)  

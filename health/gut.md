@@ -59,7 +59,6 @@ I can understand, that till now, some people, eat to insure that are not hungry.
 * can foods (tuna included)
 * yogurt
 * fermented foods (example pickle / kombucha / kimchi / sauerkraut)
-* curcumin
 * spicy (even pepper or oregano)
 * limit bread
 * limit vegetables  

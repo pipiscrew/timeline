@@ -32,6 +32,7 @@
 * [Easy Context Menu](https://www.sordum.org/7615/easy-context-menu-v1-6/)
 * [Windows 11 Classic Context Menu](https://www.sordum.org/14479)
 * [Nirsoft.ShellMenuView](https://www.nirsoft.net/utils/shell_menu_view.html)
+* [Shell](https://nilesoft.org/) - Context menu manager for Windows File Explorer  
 
 ## Dos
 * [dosbox](https://www.dosbox.com/) - x86 emulator with DOS
@@ -172,6 +173,7 @@
 * [NAPS2](https://www.naps2.com/) - scan documents to PDF and more  
 * [PDFtk](https://www.pdflabs.com/tools/pdftk-the-pdf-toolkit/) - merge and split  
 * [GraphStudioNext](https://github.com/cplussharp/graph-studio-next) - tool for developers to build and test DirectShow Graphs  
+* [GetWindowText](http://www.softwareok.com/?seite=Microsoft/GetWindowText) - read non selectable 'window texts' and contents  
 
 ## Capture
 * [OBS Studio](https://obsproject.com/) - screen capture and broadcasting  
