@@ -436,4 +436,4 @@ author notes
   
   
   
-https://user-images.githubusercontent.com/3852762/215355864-2b57265c-e00f-4165-a008-580f52a6e5dd.mp4
+[tryarmra.com](../assets/tryarmra_com.mp4 ':include :type=video')  
