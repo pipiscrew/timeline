@@ -368,6 +368,36 @@ Yet how `dysbiosis` of the gut microbiota confers a **risk** for inflammatory im
 `Luminal antigens` are substances that are found in the **lumen**, or inner space, of the small intestine. Can include food particles, bacteria, and other substances that come into **contact** with the lining of the small intestine. The immune system in the small intestine plays a critical role in **protecting** the body **from** these luminal antigens. In addition, immune cells in the small intestine, such as T cells and B cells, help to monitor the **presence** of luminal antigens and **coordinate** an appropriate immune response. &nbsp;&nbsp; [read more](https://doi.org/10.1080/19490976.2017.1299846)  
 
 -----  
+
+## Histmanine  
+
+**Omega-3** fats can be a good **histamine** supplement. This is because they work to dampen down inflammation and help **support** the body DAO **production**.  
+  
+Many experts believe that the condition of **histamine intolerance** is related to a **leaky gut**. So focusing on healing the gut, including a gluten-free diet, may help improve histamine tolerance.  
+  
+**Hormones** like **estrogen** also play a **role** in histamine intolerance. Research shows that estrogen **production** is closely **linked** to **DAO** production.  
+   
+### Estrogen and DAO  
+
+**Estrogen-dominant** person may **suffer** from **reduced DAO** and therefore, more **histamine intolerance**.  
+
+The more **estradiol** you have, the **more** histamine your body likely has. This is because estradiol **breaks** down **DAO** and another enzyme called monoamine oxidase, **both** of which **break** down **histamine** in the body.  
+
+**Progesterone** also causes a **breakdown** of **DAO** but to a **lesser** degree than **estrogen**. This all likely explains why women have many varying symptoms from **histamine** And the symptoms vary throughout their **menstrual cycle** and even as they hit **menopause**.  
+
+* [Estrogen stimulates mast cells](https://pubmed.ncbi.nlm.nih.gov/17084457/) to release histamine and [down-regulates the DAO enzyme](https://www.ncbi.nlm.nih.gov/pubmed/3088928) that clears histamine. At the same time, in **women**, histamine stimulates the ovaries to [make more estrogen](https://www.ncbi.nlm.nih.gov/pubmed/8147232). The net result can be a vicious cycle of estrogen → histamine → estrogen → histamine.
+* **Progesterone** stabilises mast cells, up-regulates DAO, and can therefore reduce histamine. [source](https://www.larabriden.com/the-curious-link-between-estrogen-and-histamine-intolerance)  
+
+> **Fact**: when **boiling** foods may **decrease** the histamine content of foods, while **frying** may **increase** the histamine content.  
+
+Is better to **avoid** all **alcohol** in general with **histamine intolerance**. This is because it **alters estrogen** levels, damages **intestinal** cells, and reduces body ability to **detoxify**. Alcohol also reduces your body **absorption** of nutrients.  
+  
+source  
+[Histamine Intolerance + All About Histamine](https://thehealthyrd.com/the-best-supplements-for-histamine-intolerance-all-about-histamine/)  
+[Comprehensive Leaky Gut Diet Guide + How To Heal Your Gut](https://thehealthyrd.com/comprehensive-leaky-gut-diet-guide-how-to-heal-your-gut/)   
+
+-----  
+
 ## Dr Jiwani  
 
 * [The Good, Bad & Ugly about Caffeine](https://getnaturopathic.com/confused-about-coffee-good-bad-ugly/) &nbsp;&nbsp; ([mirror](https://www.dropbox.com/s/93jq5lj6b03re2g/naturopathic_coffee.pdf?dl=1))
