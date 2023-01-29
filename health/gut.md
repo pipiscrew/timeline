@@ -33,7 +33,7 @@ You can not feel anything at the moment and nobody can diagnosed **leaky-gut** e
 
 ![img](../assets/leakygut.jpg)  
 
-read more [here](https://www.gastrosav.com/blog/leaky-gut-what-it-is-and-how-to-heal-it/).  
+read more [here](https://www.gastrosav.com/blog/leaky-gut-what-it-is-and-how-to-heal-it/) [[2](https://tryarmra.com/pages/the-approach)].  
 
 The body starts with a **skin condition** like flares, rashes, hives, papules, eczema, dermographism, gynecomastia due high estrogen hormone, you name it... Then the **traditional doctors** can diagnosed histamine intolerance / IBS / Crohn / Colitis...  
 
