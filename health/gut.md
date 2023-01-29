@@ -298,7 +298,7 @@ For maximum potency **refrigerate** the product after opening. Do not remove the
 
 ## Colostrum  
 
-Provides the body with a **unique complex** of immune, growth factors, vitamins, minerals, enzymes, amino acids and other valuable components. Other mammals apart from humans born **without** immunity, therefore, even cow **colostrum** contains much more important components. It is up to **40 times** more valuable substances in comparison with human. [source](https://deltamedical.cz/blog/post/jak-si-vybrat-kolostrum)   
+Provides the body with a **unique complex** of immune, growth factors, vitamins, minerals, enzymes, amino acids and other valuable components. Other mammals apart from humans born **without** immunity, therefore, even cow **colostrum** contains much more important components. It is up to **40 times** more valuable substances in comparison with human. [source](https://deltamedical.cz/blog/post/jak-si-vybrat-kolostrum)  
   
 Several clinical studies demonstrate that bovine colostrum supplements help reduce **leaky gut** and it contains digestive **enzymes** that support healthy digestion. By helping to **heal** a leaky gut, colostrum is reported by many reviewers to help with their autoimmune conditions like arthritis and colitis. Is a supplement that is often very helpful for **allergy** symptoms and **histamine intolerance**.  
 
