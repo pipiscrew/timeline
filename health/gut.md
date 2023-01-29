@@ -146,12 +146,16 @@ In general, all over the internet there are con men, trying to [convince](https:
   * HIT: Histamine Intolerance  
 
 * Zonulin (stool)
-  * 15.0 – 107.0 ng/g  
+  * 15.0 – 107.0 ng/g   
+
+* Estradiol (blood)
+  * 10-50 pg/mL
 
 author results :  
 16/01/2023 : 183.8 ng/g  
 16/01/2023 : 16.7 U/ml  
 18/03/2022 : 12.6 U/ml  
+02/11/2021 : 33.184 pg/mL (origin given in 0.122 [nmol/l](https://en.fremitus.pl/estradiol-unit-converter-calculator/))  
 
 moreover on `Zonulin result` is a note suggesting [EnteroScan-GR](https://athenslab.gr/en/preventive-tests/enteroscan-intestinal-microbiome-tests).  
 * other [TrophoScan-GR](https://athenslab.gr/en/preventive-tests/trophoscan-food-intolerance-tests)
@@ -225,7 +229,7 @@ Initially searching for Lactobacillus plantarum 299v but due unavailability boug
 
 ingredients :  
 * Live probiotic cultures 50 mg
-* (Omega3) Alpha-linolenic acid ([ALA](https://www.healthline.com/nutrition/3-types-of-omega-3)) 300mg (derived from chia seeds)
+* ([Omega3](https://pipiscrew.github.io/timeline/#/health/gut?id=histmanine)) Alpha-linolenic acid ([ALA](https://www.healthline.com/nutrition/3-types-of-omega-3)) 300mg (derived from chia seeds)
   * ALA precursor of EPA or DHA, chia seed oil is **not** a vegetable oil. Chia seeds are type of flowering plant, the extracted oil is rich in omega-3 fatty acids.
   * [proven](https://pipiscrew.github.io/timeline/#/health/inflammatory?id=omega-3) anti-inflammatory actions in inflammatory bowel disease, colitis, atopic dermatitis and epithelial cells.
 * Vitamin B1 0,22 mg  
@@ -289,6 +293,25 @@ find all together, on a product [Optibac - For Those On Antibiotics](https://www
 
 Optibac pill products :  
 For maximum potency **refrigerate** the product after opening. Do not remove the desiccant sachet from the glass jar and close the lid firmly after each use. 
+
+-----  
+
+## Colostrum  
+
+Provides the body with a **unique complex** of immune, growth factors, vitamins, minerals, enzymes, amino acids and other valuable components. Other mammals apart from humans born **without** immunity, therefore, even cow **colostrum** contains much more important components. It is up to **40 times** more valuable substances in comparison with human. [source](https://deltamedical.cz/blog/post/jak-si-vybrat-kolostrum)  
+  
+Several clinical studies demonstrate that bovine colostrum supplements help reduce **leaky gut** and it contains digestive **enzymes** that support healthy digestion. By helping to **heal** a leaky gut, colostrum is reported by many reviewers to help with their autoimmune conditions like arthritis and colitis. Is a supplement that is often very helpful for **allergy** symptoms and **histamine intolerance**.  
+
+> More than **20%** of the population in industrialized countries **suffer** from food intolerance or food allergy. [study](https://doi.org/10.3238%2Farztebl.2009.0359)  
+  
+Study showed that **colostrum** has additive benefits in reducing leaky gut for athletes. 8 people who were heavy exercisers received **zinc carnosine** alone or zinc carnosine plus **colostrum**. Those taking both the **zinc** and **colostrum** had greater improvements in gut permeability than those getting zinc only. [study](https://doi.org/10.3945/ajcn.116.134403)  
+  
+Helps improve skin health for conditions like wound healing and **eczema** also helps speed up wound healing by increasing the growth of skin cells called keratinocytes. [study](https://doi.org/10.3390%2Fijms19103059)  
+  
+
+> Prior to the advent of **antibiotics**, colostrum was **used** to help reduce infections, but this use was lost after the popularity of antibiotics. [source](https://colostrumresearch.org/colostrum-info/history-of-colostrum)  
+  
+People who have a true **milk allergy** should **avoid** colostrum.  
 
 -----  
 
