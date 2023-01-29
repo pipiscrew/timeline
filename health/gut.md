@@ -136,7 +136,7 @@ mysterious high prices :
 * [harmonelo - Tailor-made probiotics - 1500e for 6 months supply](https://href.li/?https://pro-biotika.harmonelo.shop/e-shop.php)
 * [Ladislav Kuzela - 300e for consultation](https://href.li/?https://www.kuzela.sk/)  
 
-In general, all over the internet there are con man, trying to [convince](https://www.youtube.com/watch?v=XajrAN3Y_0c) you that can solve your problem BEWARE!  
+In general, all over the internet there are con men, trying to [convince](https://www.youtube.com/watch?v=XajrAN3Y_0c) you that can solve your problem BEWARE!  
 
 ## DAO & Zonulin Ranges
 * DAO (blood)
@@ -304,7 +304,7 @@ The gastrointestinal tract harbours the **largest** population of **mast cells**
 
 `Mucosal mast cells` are a type of **immune** cell that are found in **mucous membranes** (`mucosa`), particularly in the lining of the **respiratory** and **gastrointestinal** tracts. Mast cells are a **key** part of the immune system and play a role in the body **response** to **allergens** and **infections**. Mucosal mast cells are activated when they **encounter** an allergen or pathogen, and they **release** histamine and other chemicals that help to **protect** against infection and **promote** inflammation. This helps to **protect** the body from harm and **promotes** the healing of damaged tissues.  
 
-> calicobrak said : Probiotics are very iffy. Some people do well with them, while some get worse. The idea is, if your **mucosal mast cells** (aka MMC) is messed up, taking probiotics, will make them **accumulate** in areas they should **not** be, making you **feel worse** (SIBO). Have to get your MMC working before probiotics. However, there are **many** other factors that can **contribute** to the development of SIBO, including changes in the gut **microbiome**, problems with the **muscles** in the intestine, and underlying conditions such as Crohn's disease or celiac disease.  
+> Probiotics are very iffy. Some people do well with them, while some get worse. The idea is, if your **mucosal mast cells** (aka MMC) is messed up, taking probiotics, will make them **accumulate** in areas they should **not** be, making you **feel worse** (SIBO). Have to get your MMC working before probiotics. However, there are **many** other factors that can **contribute** to the development of SIBO, including changes in the gut **microbiome**, problems with the **muscles** in the intestine, and underlying conditions such as Crohn's disease or celiac disease.  
 
 -----  
 
