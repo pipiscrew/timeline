@@ -433,7 +433,3 @@ author notes
 * Swallowing large amounts of methyl salicylate and hydrogen peroxide may also cause serious stomach and intestine symptoms. It can also lead to **changes** in the body **acid-base balance**. [source](https://www.mountsinai.org/health-library/poison/mouthwash-overdose)
 * A **genus** contains one or more **species**. Examples of common probiotic genera include Bifidobacterium and Lactobacillus. Species refer to a type of microorganism existing within a genus or family. For example, acidophilus is the name of a species within the Lactobacillus genus. Lastly, a probiotic **strain** is a genetic variant or subtype of a species. Different probiotic supplements which may both be labeled to contain 5 billion CFUs of Lactobacillus acidophilus may contain completely different strains. This is important! One strain of Lactobacillus acidophilus is not always therapeutically equal to another Lactobacillus acidophilus strain. Strain level matters when you are aiming for a specific therapeutic effect.
 * **MD Pimentel** ressearch on metabolic disease and gut microbiome [homepage](https://www.cedars-sinai.edu/research/labs/pimentel.html)  
-  
-  
-  
-[tryarmra.com](../assets/tryarmra_com.mp4 ':include :type=video')  
