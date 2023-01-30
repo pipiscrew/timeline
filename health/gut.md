@@ -49,6 +49,8 @@ Increased `dysbiosis` was associated with **elevation** of stool `calprotectin` 
 I can understand, that till now, some people, eat to insure that are not hungry.. You have to delete this from your dashboard and take care seriously what you add to your mouth... There is no special recipe, each person is different, you have to perform tests on your daily foods. From my understandings the following must be avoided on all situations : 
 * garlic
 * vinegar
+* salad dressings
+* mustard
 * tomato
 * chocolate (except small portions of [Milka](https://www.milka.be/) (ganze haselnusse / plain) or [Magnum](https://www.magnumicecream.com/us/en/flavors/icecream-bars/double-chocolate-ice-cream-bar.html))
 * ham
@@ -104,8 +106,9 @@ The following are discovered over the internet, all tried by myself, use it on y
 * (rebuild+detox) `Aloe vera` gel - 50mg x 3 times / day ([proven by](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2763764/))
 * (detox) `Activated vegetable carbon` 3x200mg x 3 times / day (max 2 weeks) - stool may turn black is harmless.
 * (rebuild) `probiotics` - four products, see at the end of the page
-* (rebuild) `CBD 10mg` - 15mg  x 2 times per day - 1 dose first thing in the monring, 1 dose last thing before bed.
-* (rebuild) `Propolis` - 240mg per day ([1ml](https://www.apivita.com/en/organic-propolis-solution-food-supplement-10-10-60-267.html)).  
+* (rebuild) `CBD 10mg` - 15mg x 2 times per day - 1 dose first thing in the monring, 1 dose last thing before bed.
+* (rebuild) `Propolis` - 240mg per day ([1ml](https://www.apivita.com/en/organic-propolis-solution-food-supplement-10-10-60-267.html)).
+* (rebuild+detox) `Colostrum` - 400mg x 2 times per day.  
 
 ps :  
 * **Coffee** aggravates the acidity, no good when subject has gut inflammation as **cannot heal**. Replace completely for **a month** (or at least 20 days) coffee with green tea (2 cups / day), I had tried also in the past but saw difference with this specific **Sencha** variant called **Satsuma** (Sencha Satsuma).. Strange I know!  
