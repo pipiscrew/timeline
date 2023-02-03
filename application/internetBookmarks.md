@@ -1,7 +1,7 @@
 ## scholar  
 * [Sci Hub](https://sci-hub.ru/) - download doi links
   * [1](https://sci-hub.st/)
-  * [2](https://sci-hub.se/)  - deactivated
+  * [2](https://sci-hub.se/) 
 * [LibGen](https://libgen.me/) - Collecting and cataloging scientific & technical ebooks 
 * [Library Genesis](https://libgen.is/)
 * [Freecomputerbooks](https://freecomputerbooks.com/)
@@ -118,6 +118,7 @@
 * [Dailymotion Downloader](https://freedownloadvideo.net/dailymotion-video-downloader) - ++ linkedin, reddit, ted, telegram, tiktok, vimeo, twitter, twitch, bitchute, rumble
 * [Reddit Videos](https://viddit.red/)
 * [Reddit Save](https://redditsave.com/)
+* [Unddit](https://www.unddit.com/) - Display removed (by mods) and deleted (by users) comments/posts for Reddit.
 * [Facebook Video Downloader](https://fbdown.net/)
 * (hyper-multi) - [youtube-dl](https://ytdl-org.github.io/youtube-dl/) &nbsp; ([supported sites](https://github.com/ytdl-org/youtube-dl/blob/master/docs/supportedsites.md))
   * [appears to have been abandoned](https://news.ycombinator.com/item?id=28289981)
