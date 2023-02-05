@@ -270,6 +270,7 @@ To find the profile currently is use navigate to `Help > Troubleshooting Informa
 * [Mozilla.Thunderbird](https://www.thunderbird.net/) - [all versions](https://archive.mozilla.org/pub/thunderbird/releases/)  
   * [HorlogeSkynet/thunderbird-user.js](https://github.com/HorlogeSkynet/thunderbird-user.js) [[2](https://www.privacy-handbuch.de/handbuch_31p.htm)] [[3](http://r-36.net/scm/privacy-haters/file/README.md.html)] [[4](https://codeberg.org/12bytes.org/thunderbird-user.js-supplement)]
   * [Proton Mail Bridge Thunderbird setup guide](https://proton.me/support/protonmail-bridge-clients-windows-thunderbird)
+* [SeaMonkey](https://www.seamonkey-project.org/releases/) - browser & email, uses the same Mozilla code as Firefox & Thunderbird.
 * [Betterbird](https://www.betterbird.eu/) - is a fine-tuned version of Mozilla Thunderbird
 * [Just Report It](https://justreport.it/) - Thunderbird & Outlook addon, report to spamcop & domain registrar
 * [Claws Mail](https://www.claws-mail.org/) - is an email client (and news reader) based on GTK+

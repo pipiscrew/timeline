@@ -57,7 +57,7 @@
 * read more about Teflon [here](https://pipiscrew.github.io/timeline/#/health/teflon).
 * air cook devices &nbsp;[[1](https://www.kotsovolos.gr/small-home-appliances/kitchen-appliances/fryers/261349-rohnson-air-fryer-r-2844-dual-cook)] &nbsp;[[2](https://www.saveit.gr/27618-izzy-ac2-green-oven-foyrnaki-rompot)]
 * Toaster with foil - substances from the foil transferred to the toast. 
-* check also espresso machine aluminum [boiler](https://pipiscrew.github.io/timeline/#/notes/whenatboiler).  
+* check also espresso machine the aluminum [boiler](https://pipiscrew.github.io/timeline/#/notes/whenatboiler).  
 
 &nbsp;
 ## coffee
