@@ -231,7 +231,7 @@ Initially searching for Lactobacillus plantarum 299v but due unavailability boug
 > Adhesion capacity to **mucus** and intestinal **epithelial cells** of strains of L. plantarum CECT 7527, CECT 7528 and CECT 7529 was compared with those of L. rhamnosus GG and L. plantarum 299V commercial strains. Strains L. plantarum CECT 7527, CECT 7528 and CECT 7529 showed four times higher adherence values to **mucus**.  [source](https://doi.org/10.1002/jsfa.6467)  
 
 ingredients :  
-* Live probiotic cultures 50 mg
+* Live probiotic cultures 50 mg (16,67 mg each)
 * ([Omega3](https://pipiscrew.github.io/timeline/#/health/gut?id=histmanine)) Alpha-linolenic acid ([ALA](https://www.healthline.com/nutrition/3-types-of-omega-3)) 300mg (derived from chia seeds)
   * ALA precursor of EPA or DHA, chia seed oil is **not** a vegetable oil. Chia seeds are type of flowering plant, the extracted oil is rich in omega-3 fatty acids.
   * [proven](https://pipiscrew.github.io/timeline/#/health/inflammatory?id=omega-3) anti-inflammatory actions in inflammatory bowel disease, colitis, atopic dermatitis and epithelial cells.
@@ -250,12 +250,12 @@ Multi-strain probiotic with prebiotic FOS, providing natural daily support for g
 
 ingredients :  
 * Live probiotic cultures 141 mg
-  * Lactobacillus rhamnosus Rosell-11
-  * Lactobacillus acidophilus/helveticus Rosell-52
-  * Bifidobacterium longum Rosell-175
-  * Bifidibacterium breve Rosell-70
-  * Bifidobacterium bifidum Rosell-71
-  * Lactococcus lactis Rosell-1058
+  * Lactobacillus rhamnosus Rosell-11 (82,6 mg)
+  * Lactobacillus acidophilus/helveticus Rosell-52 (29,4 mg)
+  * Bifidobacterium longum Rosell-175 (10,1 mg)
+  * Bifidibacterium breve Rosell-70 (8,2 mg)
+  * Bifidobacterium bifidum Rosell-71 (5,5 mg)
+  * Lactococcus lactis Rosell-1058 (5,2 mg)
 * (prebiotic) Fructooligosaccharides (aka FOS) 88mg  ([proven](https://www.researchgate.net/publication/258149706) suppress toxic bacteria [[2](https://www.savant-health.com/blogs/wellness/fos-in-probiotics-good-or-bad)])
 
 -----  
@@ -271,12 +271,29 @@ Multi-strain probiotic, an advanced, high strength daily supplement to complemen
 
 ingredients :  
 * Live probiotic cultures 161 mg
-  * Lactobacillus acidophilus NCFM
-  * Lactobacillus paracasei Lpc-37
-  * Bifidobacterium lactis Bi-07
-  * Bifidobacterium lactis Bl-04  
+  * Lactobacillus acidophilus NCFM (63,4 mg)
+  * Lactobacillus paracasei Lpc-37 (37,43 mg)
+  * Bifidobacterium lactis Bi-07 (31,14 mg)
+  * Bifidobacterium lactis Bl-04  (29,34 mg)  
 
 -----  
+
+## (probiotic) Optibac Everyday Max (Lactobacillus / Bifidobacterium strains)
+
+per capsule : 75 billion CFU (coloning forming units)  
+dose : 1-2 capsules per day  
+
+Anyone wanting a top quality, maximum strength good bacteria supplement for everyday use.
+
+* (UK) [product page](https://www.optibacprobiotics.com/uk/product/for-every-day-max-30-capsules) 
+
+ingredients :  
+* Live probiotic cultures 336 mg
+  * Lactobacillus acidophilus NCFM (147,24 mg)
+  * Bifidobacterium lactis Bl-04 (105,84 mg)
+  * Bifidobacterium lactis HN019 (83,01 mg)  
+
+-----   
 
 ## Optibac references
 

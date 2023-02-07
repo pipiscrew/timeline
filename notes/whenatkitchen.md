@@ -120,6 +120,9 @@ to be honest, forget about french press or bialetti moka, buy yourself an espres
       * if your shot pulls too fast it tastes under extracted.
     * Coffee running TOO SLOW (more than 35 seconds) = make the grind coarser  
       *  if your shot pulls too slowly it tastes over extracted.  
+* Water ingredients **calcium** and **magnesium** can have a **positive** impact on the extraction process and the flavor of the coffee, while high levels of sodium, potassium, chloride, sulfate, and hydrogen carbonate can lead to an **imbalanced** or off-flavor in the espresso. With this mineral **water synthesis** have great results :
+
+![img](../assets/espresso_water_synthesis.jpg)  
 
 ###  blade grinder bug  
 The small-sized coffee ground particles – called “fines” – will **over extract** some of the chemical compounds that cause **bitterness**, while the larger sized particles may remain **under extracted**.  [source](https://foodal.com/drinks-2/coffee/grinders/why-you-shouldnt-use-a-blade-grinder-for-your-coffee/)  [[instead buy burr grinder](https://www.amazon.co.uk/dp/B09W9N1ZWV/)]  
