@@ -52,6 +52,7 @@ git config --global credential.interactive never
 * [Active GitHub Forks](https://techgaun.github.io/active-forks/)
 * [Find latest GitHub fork of a project](https://useful-forks.github.io/)
 * [gitignore](https://github.com/github/gitignore) - collection of useful .gitignore templates  
+* [GrepAPP](https://grep.app/) - Search across a half million Git repos  
 
 ## misc
 * [Free for developers](https://free-for.dev/)

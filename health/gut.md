@@ -441,6 +441,58 @@ source
 
 -----  
 
+## Contact Dermatitis
+
+As the consumer products are **increasing** worldwide, the list of **potential** allergens that may induce an allergic `contact dermatitis` of the face continues to grow.  
+
+Contact dermatitis is a type of skin **inflammation** that occurs when the skin comes into direct contact with a substance that triggers an immune response. It is a type of skin **allergy** that is characterized by red, itchy, and swollen skin, and can range in severity from mild to severe.
+
+There are two main types of contact dermatitis:  
+* irritant contact dermatitis
+* allergic contact dermatitis  
+
+`Irritant contact dermatitis` is caused by direct damage to the skin from a substance, such as harsh chemicals or detergents. `Allergic contact dermatitis` is caused by an immune **reaction** to a substance, such as **nickel**.
+
+### Nickel 
+
+Common triggers for contact dermatitis include chemicals found in soaps, detergents, cosmetics, and fragrances, as well as certain metals, such as **nickel** and chromium, and plant products. [source](https://doi.org/10.1007/s40521-020-00262-y)  
+
+There is some evidence to suggest that exposure to high levels of **nickel**, either from airborne sources or from dietary sources, can contribute to the development of `leaky-gut` syndrome.  
+
+Nickel is a common allergen and can cause **inflammation** in some people. **Inhaling** airborne nickel from sources such as metalwork or nickel-plated **objects** can lead to lung irritation and can contribute to the development of a nickel allergy. Foods that are high in nickel, such as chocolate, soy products, and certain types of nuts, can also trigger allergic reactions.  
+
+Nickel allergy may develop at any age. Once developed, it tends to **persist** life-long. Is one of the commonest **sensitizers** all over the world. Nickel is **present** in most of the dietary items and food is considered to be a major source of nickel exposure for the general population. Nickel is a **ubiquitous** trace element and it occurs in soil, water, air.  
+
+The plant acquires its total quota of Nickel from the **soils**. Animal acquires nickel mostly from **plants** and from other animals. Human acquires nickel **both** from Plants and Animals. Most of the human food that comprises both plants and animals acquire their nutrition from **soil**; therefore, the nickel content of **food** is strongly influenced by the concentration of nickel in the soil. Is present in most of the dietary items of humans and an average diet supplies 300-600 μg of nickel to the human body per day. The amount of nickel in foods may **vary** considerably from place to place. [source](https://doi.org/10.4103%2F0019-5154.110846)  
+
+There is a connection between **nickel** and **aluminum foil** in the sense that nickel is sometimes used as a **coating** on aluminum foil. Aluminum foil is often coated with a **layer** of nickel to provide a barrier that prevents the aluminum from reacting with food and to improve its heat resistance. This makes the aluminum foil more durable and long-lasting, and can also help to prevent contamination of food with aluminum, which can be harmful in high amounts. **Cooking** food in aluminum foil can still lead to some aluminum **leaching** into the food, regardless of whether the foil is coated with nickel or not.  
+
+Nickel is a metal which is quite common in the rocks of the crust and, therefore, may be found in food and drinking water in which its presence may be of natural or anthropogenic origin.  
+
+The effects on human health when it is ingested in high amounts as a contaminant in food, include **effects on the gastrointestinal, hematological, neurological, and immune**. The **allergic reactions of the skin** in **people already sensitised to nickel** (for example by the wearing of jewellery) may be aggravated after exposure by the oral route. A campaign of national monitoring has identified 6 food groups with a rate of nickel to a higher level :  
+* Nuts: cashews, peanuts, walnuts, pistachios, macadamia nuts, almonds, hazelnuts...
+* Chocolate: chocolate powder, chocolate and derivatives.
+* Spices: for example, curry and paprika.
+* Oily seeds: hemp seed, pumpkin, poppy, flax, sunflower, chia, ...
+* Aromatic herbs: for example, oregano,
+* Beans dried: bean red, white and black.  
+
+**EFSA** (European FDA) concluded that the **oral** ingestion with food is probably the most **important** contribution to the overall exposure to nickel in the general population. Materials in contact with food can be an important additional **exposure** to nickel by the migration of this element in food or drinking water. Because of this, population it should avoid to use the instruments in a kitchen containing nickel to prepare acid food as this could ensure that the nickel migrates in the food.  
+
+A control campaign has shown that certain foods such as chocolate, nuts, oil seeds, dried beans and aromatic herbs have **concentrations** of nickel **higher** than others.  
+
+According to a risk assessment, based on consumption data and the value of toxicological relevance (acceptable daily intake 2.8 µg/kg bw) of EFSA, as well as the data of the control campaign, an **excessive** consumption of **chocolate** is to be avoided. In fact, **regular** consumption and repeated of chocolate could lead to an **exceeding** of the acceptable daily intake.  
+
+* (2020) GOV.Luxembourg - [Food Safety Authority](https://securite-alimentaire.public.lu/fr/professionnel/Denrees-alimentaires/Contaminants/Nickel.html)
+* (2020) EFSA - [Update of the risk assessment of nickel in food and drinking water](https://efsa.onlinelibrary.wiley.com/doi/full/10.2903/j.efsa.2020.6268)
+* (2019) EFSA - [Occurrence data of nickel in feed and animal exposure assessment](https://doi.org/10.2903/j.efsa.2019.5754)
+* (2015) EFSA - [Scientific Opinion on the risks to public health related to the presence of nickel in food and drinking water](https://doi.org/10.2903/j.efsa.2015.4002)
+* (2015) EFSA - [Scientific Opinion on the risks to animal and public health and the environment related to the presence of nickel in feed](https://doi.org/10.2903/j.efsa.2015.4074)
+* (2015) [Nickel Sensitization and Dietary Nickel are a Substantial Cause of Symptoms Provocation in Patients with Chronic Allergic-Like Dermatitis Syndromes](https://doi.org/10.2500/ar.2015.6.0109)  
+
+
+-----  
+
 ## Dr Jiwani  
 
 * [The Good, Bad & Ugly about Caffeine](https://getnaturopathic.com/confused-about-coffee-good-bad-ugly/) &nbsp;&nbsp; ([mirror](https://www.dropbox.com/s/93jq5lj6b03re2g/naturopathic_coffee.pdf?dl=1))
@@ -453,3 +505,4 @@ author notes
 * Swallowing large amounts of methyl salicylate and hydrogen peroxide may also cause serious stomach and intestine symptoms. It can also lead to **changes** in the body **acid-base balance**. [source](https://www.mountsinai.org/health-library/poison/mouthwash-overdose)
 * A **genus** contains one or more **species**. Examples of common probiotic genera include Bifidobacterium and Lactobacillus. Species refer to a type of microorganism existing within a genus or family. For example, acidophilus is the name of a species within the Lactobacillus genus. Lastly, a probiotic **strain** is a genetic variant or subtype of a species. Different probiotic supplements which may both be labeled to contain 5 billion CFUs of Lactobacillus acidophilus may contain completely different strains. This is important! One strain of Lactobacillus acidophilus is not always therapeutically equal to another Lactobacillus acidophilus strain. Strain level matters when you are aiming for a specific therapeutic effect.
 * **MD Pimentel** ressearch on metabolic disease and gut microbiome [homepage](https://www.cedars-sinai.edu/research/labs/pimentel.html)  
+* [Iron knife made from bacteria](https://www.youtube.com/watch?v=dhW4XFGQB4o)  
