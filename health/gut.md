@@ -455,7 +455,7 @@ There are two main types of contact dermatitis:
 
 ### Nickel 
 
-Common triggers for contact dermatitis include chemicals found in soaps, detergents, cosmetics, and fragrances, as well as certain metals, such as **nickel** and chromium, and plant products. [source](https://doi.org/10.1007/s40521-020-00262-y)  
+Common triggers for contact dermatitis include chemicals found in soaps, detergents, cosmetics, and fragrances, as well as certain metals, such as **nickel** and chromium, and plant products. [source](https://doi.org/10.1007/s40521-020-00262-y) &nbsp; [[mirror](https://www.dropbox.com/s/hcdml2vt6x5ws7g/Allergic%20Contact%20Dermatitis%20of%20the%20Face.pdf?dl=1)]  
 
 There is some evidence to suggest that exposure to high levels of **nickel**, either from airborne sources or from dietary sources, can contribute to the development of `leaky-gut` syndrome.  
 
