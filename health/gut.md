@@ -453,7 +453,7 @@ There are two main types of contact dermatitis:
 
 `Irritant contact dermatitis` is caused by direct damage to the skin from a substance, such as harsh chemicals or detergents. `Allergic contact dermatitis` is caused by an immune **reaction** to a substance, such as **nickel**.
 
-### Nickel 
+### Nickel (Ni)  
 
 Common triggers for contact dermatitis include chemicals found in soaps, detergents, cosmetics, and fragrances, as well as certain metals, such as **nickel** and chromium, and plant products. [source](https://doi.org/10.1007/s40521-020-00262-y) &nbsp; [[mirror](https://www.dropbox.com/s/hcdml2vt6x5ws7g/Allergic%20Contact%20Dermatitis%20of%20the%20Face.pdf?dl=1)]  
 
@@ -463,7 +463,7 @@ Nickel is a common allergen and can cause **inflammation** in some people. **Inh
 
 Nickel allergy may develop at any age. Once developed, it tends to **persist** life-long. Is one of the commonest **sensitizers** all over the world. Nickel is **present** in most of the dietary items and food is considered to be a major source of nickel exposure for the general population. Nickel is a **ubiquitous** trace element and it occurs in soil, water, air.  
 
-The plant acquires its total quota of Nickel from the **soils**. Animal acquires nickel mostly from **plants** and from other animals. Human acquires nickel **both** from Plants and Animals. Most of the human food that comprises both plants and animals acquire their nutrition from **soil**; therefore, the nickel content of **food** is strongly influenced by the concentration of nickel in the soil. Is present in most of the dietary items of humans and an average diet supplies 300-600 μg of nickel to the human body per day. The amount of nickel in foods may **vary** considerably from place to place. [source](https://doi.org/10.4103%2F0019-5154.110846)  
+The plant acquires its total quota of Nickel from the **soils**. Animal acquires nickel mostly from **plants** and from other animals. Human acquires nickel **both** from Plants and Animals. Most of the human food that comprises both plants and animals acquire their nutrition from **soil**; therefore, the nickel content of **food** is strongly influenced by the concentration of nickel in the soil. Is present in most of the dietary items of humans and an average diet supplies 300-600 μg of nickel to the human body per day. The amount of nickel in foods may **vary** considerably from place to place. [source](https://doi.org/10.4103%2F0019-5154.110846) &nbsp; [[mirror](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3667300/)]  
 
 There is a connection between **nickel** and **aluminum foil** in the sense that nickel is sometimes used as a **coating** on aluminum foil. Aluminum foil is often coated with a **layer** of nickel to provide a barrier that prevents the aluminum from reacting with food and to improve its heat resistance. This makes the aluminum foil more durable and long-lasting, and can also help to prevent contamination of food with aluminum, which can be harmful in high amounts. **Cooking** food in aluminum foil can still lead to some aluminum **leaching** into the food, regardless of whether the foil is coated with nickel or not.  
 
@@ -489,7 +489,17 @@ According to a risk assessment, based on consumption data and the value of toxic
 * (2015) EFSA - [Scientific Opinion on the risks to public health related to the presence of nickel in food and drinking water](https://doi.org/10.2903/j.efsa.2015.4002)
 * (2015) EFSA - [Scientific Opinion on the risks to animal and public health and the environment related to the presence of nickel in feed](https://doi.org/10.2903/j.efsa.2015.4074)
 * (2015) [Nickel Sensitization and Dietary Nickel are a Substantial Cause of Symptoms Provocation in Patients with Chronic Allergic-Like Dermatitis Syndromes](https://doi.org/10.2500/ar.2015.6.0109)  
+* ConsumerLab - [Can chocolate and cocoa powder cause eczema?](https://www.consumerlab.com/answers/can-chocolate-and-cocoa-powder-cause-eczema/chocolate-cocoa-eczema)  
 
+-----  
+
+## Bacillus subtilis (probiotic) blocks staph bacteria from colonizing people  
+
+The team screened more than 600 people and found **115** who had **S. aureus** in their gut, nose, or both. These were assigned at random to take either a **B. subtilis** probiotic or placebo daily for four weeks.  
+
+After **four weeks** of probiotic treatment, **S. aureus** in the stool, a proxy for gut S. aureus, **declined** by 97%. S. aureus in the nose declined by 65%. Between the effects on these two sites, the researchers estimated that probiotic treatment got **rid** of at least 95% of S. aureus in the human body. In the people getting **placebo** treatment, S. aureus numbers did **not** change in either the gut or nose. The team found no other changes in microbiome composition among people who took the probiotic. They also saw no differences in side effects between the treatment and placebo groups.  
+
+The results suggest that **B. subtilis** probiotics could safely **reduce** **S. aureus** colonization in the human body.  [source](https://www.nih.gov/news-events/nih-research-matters/probiotic-blocks-staph-bacteria-colonizing-people)  
 
 -----  
 
@@ -506,3 +516,4 @@ author notes
 * A **genus** contains one or more **species**. Examples of common probiotic genera include Bifidobacterium and Lactobacillus. Species refer to a type of microorganism existing within a genus or family. For example, acidophilus is the name of a species within the Lactobacillus genus. Lastly, a probiotic **strain** is a genetic variant or subtype of a species. Different probiotic supplements which may both be labeled to contain 5 billion CFUs of Lactobacillus acidophilus may contain completely different strains. This is important! One strain of Lactobacillus acidophilus is not always therapeutically equal to another Lactobacillus acidophilus strain. Strain level matters when you are aiming for a specific therapeutic effect.
 * **MD Pimentel** ressearch on metabolic disease and gut microbiome [homepage](https://www.cedars-sinai.edu/research/labs/pimentel.html)  
 * [Iron knife made from bacteria](https://www.youtube.com/watch?v=dhW4XFGQB4o)  
+9 [Periodic Table of Elements](https://pubchem.ncbi.nlm.nih.gov/periodic-table/)  

@@ -78,6 +78,7 @@
 * [webpagetopdf](https://webpagetopdf.com/) - convert a website to pdf
 * [web2pdfconvert](https://www.web2pdfconvert.com/) - convert a website to pdf  
 * [TinyWow](https://tinywow.com/) Tools That Solve Your Files Problem - pdf / xls / doc / images and other  
+* [pdfux](https://pdfux.com/) - PDF tools  
 
 
 ## videos
