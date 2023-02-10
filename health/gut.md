@@ -490,7 +490,8 @@ According to a risk assessment, based on consumption data and the value of toxic
 * (2015) EFSA - [Scientific Opinion on the risks to animal and public health and the environment related to the presence of nickel in feed](https://doi.org/10.2903/j.efsa.2015.4074)
 * (2015) [Nickel Sensitization and Dietary Nickel are a Substantial Cause of Symptoms Provocation in Patients with Chronic Allergic-Like Dermatitis Syndromes](https://doi.org/10.2500/ar.2015.6.0109)  
 * ConsumerLab - [Can chocolate and cocoa powder cause eczema?](https://www.consumerlab.com/answers/can-chocolate-and-cocoa-powder-cause-eczema/chocolate-cocoa-eczema)  
-* [High concentrations of cadmium and lead in dark chocolate](https://www.nytimes.com/2023/02/09/well/eat/dark-chocolate-metal-lead.html)  
+* (2023) [High concentrations of cadmium and lead in dark chocolate](https://www.nytimes.com/2023/02/09/well/eat/dark-chocolate-metal-lead.html)
+  * (US) You Sow - [Metrics by brand](https://www.asyousow.org/environmental-health/toxic-enforcement/toxic-chocolate#chocolate-tables)  
 
 -----  
 
