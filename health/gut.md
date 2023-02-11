@@ -376,6 +376,8 @@ Is a **protein** that regulates tight junctions. Research has shown that **highe
 
 `Zonulin` is a **modulator** of both **epithelial** and **endothelial** barrier functions and its role in health and disease remains an object of active research. Gut `dysbiosis` may cause the **release** of zonulin leading to the passage of **luminal** contents across the **epithelial** barrier causing the release of pro-inflammatory cytokines that themselves cause increased **permeability**. Depending on the host genetic makeup, activated T cells may **remain** within the GI tract, causing **chronic inflammatory disease** (CID) of the gut (IBD, IBS, CD, and EED). The effect of the zonulin **inhibitor** `larazotide` acetate in mitigating **inflammation** in human clinical trials **not** only confirms the **pathogenic** role of zonulin in many CIDs but also opens the possibility of **targeting** gut **permeability** in a variety of CIDs in which a pathogenic role for zonulin has been **proven**.  
 
+**Stool** zonulin measurement may be advantageous, compared to **serum** zonulin when assessing intestinal permeability, as **serum** zonulin may constitute secretion **not** only from intestinal cells, but also from **extraintestinal** tissues such as the liver, heart and brain [source](https://healthmatters.io/understand-blood-test-results/fecal-zonulin)  
+
 -----  
 
 ## Short-Chain Fatty Acids (SCFAs)
