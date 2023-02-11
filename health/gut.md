@@ -278,7 +278,7 @@ ingredients :
 
 -----  
 
-## (probiotic) Optibac Everyday Max (Lactobacillus / Bifidobacterium strains)
+## :star: :star: :star: (probiotic) Optibac Everyday Max (Lactobacillus / Bifidobacterium strains)
 
 per capsule : 75 billion CFU (coloning forming units)  
 dose : 1-2 capsules per day  
