@@ -43,4 +43,14 @@ In **1994**, a new **US** law is passed, **forbidding** the testing of dietary s
 
 * * *
 
-transcript by [https://www.imdb.com/title/tt8232232/](https://www.imdb.com/title/tt8232232/)
+transcript by [https://www.imdb.com/title/tt8232232/](https://www.imdb.com/title/tt8232232/)  
+
+-----------------  
+
+# How food affects the mind, as well as the body
+
+The story of **nutritional supplements** starts in **1912** when Casimir Funk, a Polish-American biochemist, proposed that unidentified organic substances were required in tiny amounts to maintain human health. It was a **revolutionary** idea. And he was correct. Along with macronutrients such as protein and carbohydrates, there were undiscovered components of foods—micronutrients. The **first vitamin** to be isolated and then synthesised in **1936** was thiamine or B1. Deficiency causes beriberi, a disease that can affect both the cardiovascular and the central nervous systems. The discovery prompted a race to isolate, characterise and manufacture vitamins and ultimately launched the supplement industry.   
+
+**Recommended daily allowances** (rdas) are little help, they were formulated **during** the **second world war** on the basis of the nutrients **needed** for the physical health of **troops**.  
+
+[source](https://www.economist.com/christmas-specials/2022/12/20/how-food-affects-the-mind-as-well-as-the-body)  

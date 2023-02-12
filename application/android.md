@@ -38,6 +38,8 @@
 * [unknown.FreeOTP+](https://play.google.com/store/apps/details?id=org.liberty.android.freeotpplus) - offers export
 * [wine](https://dl.winehq.org/wine-builds/android/)
 * [Relay for reddit](https://play.google.com/store/apps/details?id=free.reddit.news)
+* [Earthquake Network](https://play.google.com/store/apps/details?id=com.finazzi.distquake) - Is the only earthquake early warning system able to alert you **~15-30sec** before the seismic waves. [[homepage](https://sismo.app/)]
+
 
 ## webcam
 * [yoosee](https://play.google.com/store/apps/details?id=com.yoosee) - for IP cameras ex [gembird](https://gembird.com/item.aspx?id=11674). see also [iSpy](https://www.ispyconnect.com/camera/gembird) and global standard [ONVIF](https://www.onvif.org/)

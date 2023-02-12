@@ -72,6 +72,10 @@ easy to cook 5 days schedule :
 * fish (COD / tuna / salmon) fresh or frozen (~250gr-300gr) w/ cabbage
 * legumes (blackeye / lentils) (100gr)  
 
+the following should **not** be avoided : 
+* [butter](https://www.nutritionforhealthnz.com/post/butter-for-gut-health)
+* [olive oil](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9145083/)  
+
 when eat outside (max 2 days / week) preferred cuisines :
 * Asian
 * Vietnamese
