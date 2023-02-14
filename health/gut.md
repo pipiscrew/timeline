@@ -75,6 +75,7 @@ easy to cook 5 days schedule :
 the following should **not** be avoided : 
 * [butter](https://www.nutritionforhealthnz.com/post/butter-for-gut-health)
 * [olive oil](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9145083/)  
+* [red apple](https://www.liverdoctor.com/apples-can-heal-your-gut/)  
 
 when eat outside (max 2 days / week) preferred cuisines :
 * Asian
@@ -498,6 +499,9 @@ According to a risk assessment, based on consumption data and the value of toxic
 * ConsumerLab - [Can chocolate and cocoa powder cause eczema?](https://www.consumerlab.com/answers/can-chocolate-and-cocoa-powder-cause-eczema/chocolate-cocoa-eczema)  
 * (2023) [High concentrations of cadmium and lead in dark chocolate](https://www.nytimes.com/2023/02/09/well/eat/dark-chocolate-metal-lead.html)
   * (US) You Sow - [Metrics by brand](https://www.asyousow.org/environmental-health/toxic-enforcement/toxic-chocolate#chocolate-tables)  
+* (2023) - [The effects of pyrethroids on the mitochondria](https://doi.org/10.1016/B978-0-323-88462-4.00019-5)
+* (2023) - [The effect of mercury on the mitochondria](https://doi.org/10.1016/B978-0-323-88462-4.00017-1)
+* (2023) - [The effect of aluminum on mitochondrial dysfunctions](https://doi.org/10.1016/B978-0-323-88462-4.00007-9) &nbsp; [[mirror](https://www.dropbox.com/s/rz29hzjsontinew/Mitochondrial%20Intoxication.pdf?dl=1)]  
 
 -----  
 

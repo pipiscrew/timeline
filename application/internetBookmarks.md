@@ -2,6 +2,8 @@
 * [Sci Hub](https://sci-hub.ru/) - download doi links
   * [1](https://sci-hub.st/)
   * [2](https://sci-hub.se/) 
+  * [3](https://sci-hub.41610.org/)
+* [OAmg](https://oa.mg/) - Search over 200 million research papers
 * [LibGen](https://libgen.me/) - Collecting and cataloging scientific & technical ebooks 
 * [Library Genesis](https://libgen.is/)
 * [Freecomputerbooks](https://freecomputerbooks.com/)
