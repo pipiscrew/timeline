@@ -364,6 +364,14 @@ The small intestine is a tube-like organ that is part of the digestive system an
 
 -----  
 
+## Glutamine
+
+ Is an amino acid that is involved in a number of **important** functions in the body, including supporting the health of the **intestinal** lining. The **cells** that make up the lining of the intestines **use** glutamine as a **primary** source of energy, and it is also involved in the **production** of mucus, which helps to **protect** the lining from damage.  
+
+Research suggests that glutamine may have a **beneficial** effect on the health of the intestinal lining. For example, some studies have found that supplementing with glutamine can help to improve the **integrity** of the intestinal barrier and **reduce** inflammation in the gut. This may be particularly helpful for people with conditions such as inflammatory bowel disease (IBD), irritable bowel syndrome (IBS), or `leaky-gut` syndrome.  
+
+-----  
+
 ## Zonulin
 
 Is a **protein** that regulates tight junctions. Research has shown that **higher** levels of this protein may **loosen** tight junctions and **increase** intestinal **permeability**.  
@@ -382,6 +390,9 @@ Is a **protein** that regulates tight junctions. Research has shown that **highe
 `Zonulin` is a **modulator** of both **epithelial** and **endothelial** barrier functions and its role in health and disease remains an object of active research. Gut `dysbiosis` may cause the **release** of zonulin leading to the passage of **luminal** contents across the **epithelial** barrier causing the release of pro-inflammatory cytokines that themselves cause increased **permeability**. Depending on the host genetic makeup, activated T cells may **remain** within the GI tract, causing **chronic inflammatory disease** (CID) of the gut (IBD, IBS, CD, and EED). The effect of the zonulin **inhibitor** `larazotide` acetate in mitigating **inflammation** in human clinical trials **not** only confirms the **pathogenic** role of zonulin in many CIDs but also opens the possibility of **targeting** gut **permeability** in a variety of CIDs in which a pathogenic role for zonulin has been **proven**.  
 
 **Stool** zonulin measurement may be advantageous, compared to **serum** zonulin when assessing intestinal permeability, as **serum** zonulin may constitute secretion **not** only from intestinal cells, but also from **extraintestinal** tissues such as the liver, heart and brain [source](https://healthmatters.io/understand-blood-test-results/fecal-zonulin)  
+
+* (2020) - [Blurring the picture in leaky gut research: how shortcomings of zonulin as a biomarker mislead the field of intestinal permeability](http://dx.doi.org/10.1136/gutjnl-2020-323026)
+* (2019) - [Serum zonulin as a marker of intestinal mucosal barrier function: May not be what it seems](https://doi.org/10.1371%2Fjournal.pone.0210728)  
 
 -----  
 
@@ -522,10 +533,31 @@ The results suggest that **B. subtilis** probiotics could safely **reduce** **S.
 
 -----  
 
+## Acidity
+
+`Yogurt` has acidity due to the presence of **lactic acid**, which is **produced** by bacteria during the **fermentation** process. Yogurt is made by adding **live** bacteria cultures (such as **Lactobacillus** bulgaricus and **Streptococcus** thermophilus) to milk. These bacteria **consume** the natural sugars in the milk (lactose) and produce **lactic acid** as a byproduct.  
+
+The lactic acid produced by the bacteria in yogurt gives it a tangy flavor and **lowers** its pH, **making** it more acidic. The acidity of yogurt not only contributes to its flavor but also helps to **preserve** the product and inhibits the growth of **harmful** bacteria.  
+
+It's important to note that the level of acidity in yogurt can vary depending on the fermentation time, temperature, and the specific strains of bacteria used.  
+
+`Mustard` has acidity due to the presence of **vinegar** or other acidic ingredients (lemon juice or citric acid). The main ingredients in mustard are mustard seeds, vinegar, and water, with additional flavorings added in some varieties.  
+
+`Coffee` has acidity due to the presence of **organic acids**, such as **chlorogenic acid** and **quinic acid**, which are **naturally** occurring compounds found in coffee beans.  
+
+When coffee is **brewed**, the **organic acids** in the beans are extracted along with other flavor compounds.  
+
+The level of acidity in coffee can vary depending on several factors, such as the **roast level**, the **brewing** method, and the type of coffee bean. **Lighter** roasts tend to have **higher** acidity levels than **darker** roasts, and some brewing methods, such as drip brewing or pour-over brewing, can also result in a **more** acidic cup of coffee.  
+
+**Espresso** tends to be **less** acidic than **French** press coffee. This is because espresso is brewed using a **high-pressure** extraction method, which results in a faster and more **efficient** extraction of the coffee compounds. Since the extraction time is so short, the overall acidity level in espresso is often **lower than** in French press coffee.  
+
+-----  
+
 author notes  
 * **κολονοσκόπηση** ελέγχεται όλο το μήκος του παχέος εντέρου, κατά την **ορθοσκόπηση** ελέγχονται τα τελευταία 15-20εκ. [source](https://dr-athanasopoulos.gr/exetaseis/orthoskopisi/)
 * Swallowing large amounts of methyl salicylate and hydrogen peroxide may also cause serious stomach and intestine symptoms. It can also lead to **changes** in the body **acid-base balance**. [source](https://www.mountsinai.org/health-library/poison/mouthwash-overdose)
 * A **genus** contains one or more **species**. Examples of common probiotic genera include Bifidobacterium and Lactobacillus. Species refer to a type of microorganism existing within a genus or family. For example, acidophilus is the name of a species within the Lactobacillus genus. Lastly, a probiotic **strain** is a genetic variant or subtype of a species. Different probiotic supplements which may both be labeled to contain 5 billion CFUs of Lactobacillus acidophilus may contain completely different strains. This is important! One strain of Lactobacillus acidophilus is not always therapeutically equal to another Lactobacillus acidophilus strain. Strain level matters when you are aiming for a specific therapeutic effect.
 * **MD Pimentel** ressearch on metabolic disease and gut microbiome [homepage](https://www.cedars-sinai.edu/research/labs/pimentel.html)  
 * [Iron knife made from bacteria](https://www.youtube.com/watch?v=dhW4XFGQB4o)  
-9 [Periodic Table of Elements](https://pubchem.ncbi.nlm.nih.gov/periodic-table/)  
+* [Periodic Table of Elements](https://pubchem.ncbi.nlm.nih.gov/periodic-table/)  
+* [Associations between types and sources of dietary carbohydrates and cardiovascular disease risk](https://bmcmedicine.biomedcentral.com/articles/10.1186/s12916-022-02712-7)

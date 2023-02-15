@@ -103,11 +103,14 @@ to be honest, forget about french press or bialetti moka, buy yourself an espres
 ## krups suggestion
 **​Arabica** coffee offers the best taste and is naturally low in caffeine. Experiment with different types, mixtures, and degrees of roasting to find what works best for you. In general, the darker the roasting, the more pronounced the taste of coffee. Delicate roasting gives a rich aroma, and the result is a delicate coffee with a full flavor-for true connoisseurs! Quality coffee should only be roasted gently so that its true richness, softness and completeness stand out. **Avoid** too **dark** roasted grains, they are more **oily** and can **clog** the device. Check that there are no small stones between the grains that could damage the device at the same time. Never use instant or ground coffee.  
 
+
 * [How to Brew the Perfect Cup of Coffee, According to Science](https://theconversation.com/how-to-make-the-perfect-cup-of-coffee-with-a-little-help-from-science-129398)  
 
 ![img](../assets/terrible_espresso.jpg)  
 
 > In order to brew a **good** espresso, it is important to make sure that the **handle** (also known as the portafilter) **is full**. This means that the handle should be filled with the right amount of ground coffee, and the coffee should be evenly distributed and tamped down before brewing.  
+
+> The flavors in espresso derive from roughly 2,000 different compounds that are extracted from the coffee grounds during brewing. [source](https://arstechnica.com/science/2020/01/the-math-of-brewing-a-better-espresso/)  
 
 ### coffee not good ?
 * use [burr grinder](https://www.homegrounds.co/coffee-grind-chart/) (not blade grinder) [sample](https://coffeetechniciansguild.org/blog/2018/8/14/selecting-a-burr-type-for-an-espresso-grinder)

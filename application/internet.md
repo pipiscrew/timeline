@@ -117,6 +117,7 @@ test browser [permissions](https://permission.site/).
   * [AdGuard AdBlocker MV3 Experimental](https://chrome.google.com/webstore/detail/adguard-adblocker-mv3-exp/apjcbfpjihpedihablmalmbbhjpklbdf)
   * [Ghostery](https://www.ghostery.com/) - Block Ads, Stop Trackers, and Speed Up Websites [firefox](https://addons.mozilla.org/en-US/firefox/addon/ghostery/) / [chrome](https://chrome.google.com/webstore/detail/ghostery-%E2%80%93-privacy-ad-blo/mlomiejdfkolichcflejclcbmpeaniij)
   * [magnolia.Bypass Paywalls Clean](https://gitlab.com/magnolia1234/bypass-paywalls-chrome-clean/-/issues/45) - Allows you to read articles from websites that implement a paywall. [chrome](https://gitlab.com/magnolia1234/bypass-paywalls-chrome-clean) / [firefox](https://gitlab.com/magnolia1234/bypass-paywalls-firefox-clean)
+    * [Use only 'uBlock Origin' and the filters by magnolia1234 repo](https://www.ghacks.net/2023/02/13/mozilla-removes-bypass-paywalls-clean-extension-from-its-add-ons-repository/)
     * [how to](https://www.youtube.com/channel/UCeDuSy0mmE-3bEDJVINA3-g/videos)
       * [Disable Cookies](https://chrome.google.com/webstore/detail/disable-cookies/lkmjmficaoifggpfapbffkggecbleang)
       * [I don't care about cookies](https://chrome.google.com/webstore/detail/i-dont-care-about-cookies/fihnjjcciajhdojfnbdddfaoknhalnja)

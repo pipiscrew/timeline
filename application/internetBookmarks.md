@@ -17,6 +17,9 @@
 * (greek) [National Archive of PhD Theses](https://www.didaktorika.gr/eadd/?locale=en)  
 * (greek) [bibliographic records](https://opac.seab.gr/*eng)
 * [Z-Library](https://z-lib.org/) - 6.5m ebooks
+  * [Hydra-Mode](https://torrentfreak.com/z-library-returns-on-the-clearnet-in-full-hydra-mode-230213/)
+  * [2](https://z-lib.is/)
+  * [giving each user a secret URL](https://arstechnica.com/tech-policy/2023/02/z-library-returns-aims-to-avoid-seizures-by-giving-each-user-a-secret-url/) &nbsp; [[2](https://singlelogin.me/)]
 * [Pirate Library Mirror](http://pilimi.org/) - Z-Library offline mirror
 * [Gutenberg](https://www.gutenberg.org/) - plain ebooks
 * [Morioh](https://morioh.com/topics) - Social network for programmers and developers
@@ -35,6 +38,7 @@
 * [Search Millions Manuals](https://manualsrepo.com)
 * [Libble](https://www.libble.eu/) - manuals
 * [Cheatography](https://cheatography.com/) - a collection of over 5000 reference cheat sheets  
+* [paperlist](https://paperlist.io/) - Read and share research papers  
 
 
 ## translators
@@ -339,6 +343,7 @@
 * [Slashdot](https://slashdot.org/)
 * [Business Insider](https://www.businessinsider.com/)  
 * [BellMedia.BNNBloomberg](https://www.bnnbloomberg.ca/) - Canadian
+* [nbcnews](https://www.nbcnews.com)
 * (IT) [Gizmodo](https://gizmodo.com/)
 * (IT) [ZDNet](https://www.zdnet.com)
 * (IT) [Sophos.Naked Security](https://nakedsecurity.sophos.com)

@@ -13,3 +13,4 @@
 * [Music Theory Cheat Sheet](https://muted.io/cheat-sheet/) [[2](https://muted.io/piano-chords/)]
 * [GPT-3 DaVinci-003](https://editor.drawthedots.com/)
 * [FlatIO - collaborative music editing tool](https://flat.io/)  
+* [Peel](https://peel.fm/) - Drum machine in your browser

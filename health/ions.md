@@ -210,6 +210,11 @@ Most air filters will have a light that goes on when the air flow is partially b
 ### do it alone
 * [Smartairfilters - How to Make a DIY Air Purifier](https://smartairfilters.com/en/blog/how-to-make-diy-air-purifier/)  
 * [Dynomight - A DIY air purifier that's better than a box-fan](https://dynomight.net/better-DIY-air-purifier.html)
+* (2023) [DIY air filter for polluted cities](https://particlecounting.tumblr.com/post/55483627230/how-to-make-a-diy-air-purifier)
+  * [Fan](https://item.jd.com/829933.html)
+  * [Air Tester - Dylos DC1100 Pro Air Quality Monitor ](http://dylosproducts.com/ornodcproair.html)
+    * [amazon](https://www.amazon.com/dp/B004AWEG0Y)
+  * [test video](https://particlecounting.tumblr.com/post/55491154130/diy-air-outlet-test-heres-test-1-is-the-air)
 * [Make An Ioniser](http://www.bigclive.com/ioniser.htm)
 	* [EEVblog Electronics Community Forum](https://www.eevblog.com/forum/projects/negative-ions-anions-room-generators/)
 
