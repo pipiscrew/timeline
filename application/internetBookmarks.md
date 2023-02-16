@@ -231,6 +231,8 @@
 * [you](https://you.com/) - developers search faster  
 * [Search all eBay sites at once](https://globalesearch.com/)  
 * [perplexity](https://www.perplexity.ai/) - Chat Interface to Search Engine  
+* [GigaBrain - A Reddit Search Engine](https://thegigabrain.com/)
+* [Reddit Search](https://redditsearch.xyz/) -  via Google Search  
 
 ## virus scan
 * [google.virus total](https://www.virustotal.com/)

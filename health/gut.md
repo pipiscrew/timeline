@@ -561,3 +561,4 @@ author notes
 * [Iron knife made from bacteria](https://www.youtube.com/watch?v=dhW4XFGQB4o)  
 * [Periodic Table of Elements](https://pubchem.ncbi.nlm.nih.gov/periodic-table/)  
 * [Associations between types and sources of dietary carbohydrates and cardiovascular disease risk](https://bmcmedicine.biomedcentral.com/articles/10.1186/s12916-022-02712-7)
+* [Australia - Simulation could help explain nutrients’ impact on gut](https://www.sydney.edu.au/news-opinion/news/2023/02/14/simulation-could-help-explain-nutrients--impact-on-gut.html)
