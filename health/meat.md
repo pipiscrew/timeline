@@ -116,9 +116,32 @@ Meanwhile, between your **breakfast** and **dinner** you can have **snacks** fro
 
 Attention with the **fruits**, one per day (have 20-30% sugar).
 
-Invest in your health with an [indoor garden](https://clickandgrow.com/)
+Invest in your health with an [indoor garden](https://clickandgrow.com/)  
 
-----------
+----------  
+
+* Chicken 3x200 = 600gr or more but NO LESS!
+* Pork 4x200 = 800gr or more but NO LESS!
+* Pork 3x100 = 300gr or 600gr (dinner) or more but NO LESS!  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; —————————  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1.1kg or 1.4kg  
+—————————  
+1700gr or 2kg  
+* 3xCABBAGE  
+* 2x6eggs = 12eggs  
+
+----------  
+
+
+Leaving meat to **thaw** at **room** temperature or on the kitchen counter can allow bacteria to **grow** and increase the risk of foodborne illness. However, thawing meat in the **refrigerator** overnight (8-12 hours) is a **safe** and effective way to thaw meat without allowing it to reach temperatures that are conducive to bacterial growth.  
+
+When you thaw meat in the refrigerator, the meat stays at a safe temperature (below 4.4c) and **remains** cold enough to **prevent** the growth of harmful bacteria. It may take longer than other thawing methods, but it is the **safest way** to thaw meat.  
+
+If you don't have **time** to thaw meat in the refrigerator, you can also use the cold water method or the microwave method to thaw meat more quickly. However, it's important to follow safe food handling practices when using these methods to avoid the risk of foodborne illness.  
+
+To thaw meat using the cold water method, place the meat in a leak-proof plastic bag and submerge it in cold water, changing the water every 30 minutes until the meat is thawed. To thaw meat in the microwave, use the defrost setting and follow the microwave directions.  
+
+----------  
 
 credits @ Boris [BG]  
 

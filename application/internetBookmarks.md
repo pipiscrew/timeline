@@ -116,6 +116,7 @@
 
 ## video rip
 * [9xbuddy](https://9xbuddy.org/) - add **9x** infront of domain => **9x**youtube.com/watch?v=p5IO-IJSVnQ &nbsp;&nbsp;&nbsp;([subs](https://savesubs.com/))
+* [InCaptions](https://incaptions.com/) - Search in YouTube Captions
 * [VidsWatch](https://www.vidswatch.com/) - add **magic** to domain => you**magic**tube.com/watch?v=p5IO-IJSVnQ
 * [y2mate](https://www.y2mate.com) - add **pp** at the end => youtube**pp**.com/watch?v=p5IO-IJSVnQ
 * [hooktube](https://www.hooktube.com) - add **hook** to domain => **hook**tube.com/watch?v=Oflegc79QB4
