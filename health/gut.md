@@ -574,10 +574,10 @@ The level of acidity in coffee can vary depending on several factors, such as th
 
 ### Coffee roast levels
 
-* Light roast: coffee beans tend to have a **higher acidity** level than darker roasts, with a bright, tangy flavor profile. The acidity is often described as "crisp" or "citrusy."  
-* Medium roast: coffee beans have a **moderate acidity** level, with a balanced flavor profile that is neither too acidic nor too bitter. The acidity is often described as "smooth" or "mellow."  
-* Dark roast: coffee beans have a **low acidity** level, with a bold, rich flavor profile that is often described as "smoky" or "bittersweet." The acidity is often masked by the roast flavor.  
-* French roast: coffee beans have an **even lower acidity** level than dark roast, with a very bold, smoky flavor profile and a slightly oily texture. The acidity is almost completely masked by the roast flavor.  
+* Light : coffee beans tend to have a **higher acidity** level than darker roasts, with a bright, tangy flavor profile. The acidity is often described as "crisp" or "citrusy."  
+* Medium : coffee beans have a **moderate acidity** level, with a balanced flavor profile that is neither too acidic nor too bitter. The acidity is often described as "smooth" or "mellow."  
+* Dark : coffee beans have a **low acidity** level, with a bold, rich flavor profile that is often described as "smoky" or "bittersweet." The acidity is often masked by the roast flavor.  
+* French : coffee beans have an **even lower acidity** level than dark roast, with a very bold, smoky flavor profile and a slightly oily texture. The acidity is almost completely masked by the roast flavor.  
 
 -----  
 
