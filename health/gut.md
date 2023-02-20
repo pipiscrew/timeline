@@ -553,14 +553,14 @@ The level of acidity in coffee can vary depending on several factors, such as th
 
 ### Coffee variants
 
-* Brazilian coffee: Low acidity *(Mellow, nutty, subtle hints of chocolate and caramel)*
-* Sumatran (Indonesian) coffee: Low to medium acidity *(Earthy, full-bodied, low to medium acidity, notes of cedar, tobacco, and dark chocolate)*
-* Jamaican Blue Mountain coffee: Low to medium acidity *(Smooth, low to medium acidity, notes of chocolate, nuts, and floral tones)*
-* Colombian coffee: Medium to high acidity *(Balanced, mild, notes of chocolate, caramel, and nuts)*
-* Guatemalan coffee: Medium to high acidity *(Complex, bright acidity, notes of chocolate, citrus, and floral tones)*
-* Ethiopian coffee: High acidity *(Fruity, floral, wine-like acidity, notes of blueberry, raspberry, and jasmine)*
-* Kenyan coffee: High acidity *(Bright, complex, wine-like acidity, notes of black currant, citrus, and spice)*
-* Costa Rican coffee: High acidity *(Bright, clean, high acidity, notes of citrus, honey, and brown sugar)*  
+* **Brazilian** : **Low** acidity *(Mellow, nutty, subtle hints of chocolate and caramel)*
+* **Sumatran** (Indonesian) : **Low** to medium acidity *(Earthy, full-bodied, low to medium acidity, notes of cedar, tobacco, and dark chocolate)*
+* **Jamaican** Blue Mountain : **Low** to medium acidity *(Smooth, low to medium acidity, notes of chocolate, nuts, and floral tones)*
+* **Colombian** : **Medium** to high acidity *(Balanced, mild, notes of chocolate, caramel, and nuts)*
+* **Guatemalan** : **Medium** to high acidity *(Complex, bright acidity, notes of chocolate, citrus, and floral tones)*
+* **Ethiopian** : **High** acidity *(Fruity, floral, wine-like acidity, notes of blueberry, raspberry, and jasmine)*
+* **Kenyan** : **High** acidity *(Bright, complex, wine-like acidity, notes of black currant, citrus, and spice)*
+* **Costa Rican** : **High** acidity *(Bright, clean, high acidity, notes of citrus, honey, and brown sugar)*  
 
 **Brazilian** coffee beans that have a smooth, nutty flavor with a low acidity level. Is often used in blends with other coffee varieties to add body and depth to the flavor profile.  
 
