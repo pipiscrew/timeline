@@ -553,14 +553,14 @@ The level of acidity in coffee can vary depending on several factors, such as th
 
 ### Coffee variants
 
-* **Brazilian** : **Low** acidity *(Mellow, nutty, subtle hints of chocolate and caramel)*
-* **Sumatran** (Indonesian) : **Low** to medium acidity *(Earthy, full-bodied, low to medium acidity, notes of cedar, tobacco, and dark chocolate)*
-* **Jamaican** Blue Mountain : **Low** to medium acidity *(Smooth, low to medium acidity, notes of chocolate, nuts, and floral tones)*
-* **Colombian** : **Medium** to high acidity *(Balanced, mild, notes of chocolate, caramel, and nuts)*
-* **Guatemalan** : **Medium** to high acidity *(Complex, bright acidity, notes of chocolate, citrus, and floral tones)*
-* **Ethiopian** : **High** acidity *(Fruity, floral, wine-like acidity, notes of blueberry, raspberry, and jasmine)*
-* **Kenyan** : **High** acidity *(Bright, complex, wine-like acidity, notes of black currant, citrus, and spice)*
-* **Costa Rican** : **High** acidity *(Bright, clean, high acidity, notes of citrus, honey, and brown sugar)*  
+* Brazilian : **Low** acidity *(Mellow, nutty, subtle hints of chocolate and caramel)*
+* Sumatran (Indonesian) : **Low** to medium acidity *(Earthy, full-bodied, low to medium acidity, notes of cedar, tobacco, and dark chocolate)*
+* Jamaican Blue Mountain : **Low** to medium acidity *(Smooth, low to medium acidity, notes of chocolate, nuts, and floral tones)*
+* Colombian : **Medium** to high acidity *(Balanced, mild, notes of chocolate, caramel, and nuts)*
+* Guatemalan : **Medium** to high acidity *(Complex, bright acidity, notes of chocolate, citrus, and floral tones)*
+* Ethiopian : **High** acidity *(Fruity, floral, wine-like acidity, notes of blueberry, raspberry, and jasmine)*
+* Kenyan : **High** acidity *(Bright, complex, wine-like acidity, notes of black currant, citrus, and spice)*
+* Costa Rican : **High** acidity *(Bright, clean, high acidity, notes of citrus, honey, and brown sugar)*  
 
 **Brazilian** coffee beans that have a smooth, nutty flavor with a low acidity level. Is often used in blends with other coffee varieties to add body and depth to the flavor profile.  
 
@@ -571,6 +571,13 @@ The level of acidity in coffee can vary depending on several factors, such as th
 **Arabica** coffee is primarily grown in Latin America, particularly in Brazil, Colombia, and Ethiopia. It is also grown in other regions such as Central America, Africa, and Asia. Arabica coffee accounts for approximately 60% of the world's coffee production.  
 
 **Robusta** coffee is primarily grown in Africa, particularly in countries such as Uganda, Ivory Coast, and Cameroon. It is also grown in other regions such as Asia and Brazil. Robusta coffee accounts for approximately 40% of the world's coffee production.  It has a stronger and more bitter flavor than Arabica.  
+
+### Coffee roast levels
+
+* Light roast: coffee beans tend to have a **higher acidity** level than darker roasts, with a bright, tangy flavor profile. The acidity is often described as "crisp" or "citrusy."  
+* Medium roast: coffee beans have a **moderate acidity** level, with a balanced flavor profile that is neither too acidic nor too bitter. The acidity is often described as "smooth" or "mellow."  
+* Dark roast: coffee beans have a **low acidity** level, with a bold, rich flavor profile that is often described as "smoky" or "bittersweet." The acidity is often masked by the roast flavor.  
+* French roast: coffee beans have an **even lower acidity** level than dark roast, with a very bold, smoky flavor profile and a slightly oily texture. The acidity is almost completely masked by the roast flavor.  
 
 -----  
 
