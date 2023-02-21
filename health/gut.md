@@ -98,7 +98,7 @@ those cuisines don't have garlic or tomatoes in their plates....
 
 for cereal & bread, choose only whole wheat.
 * the mutligrain bread, is made by white floor and include grains.
-* the whole wheat bread is made by wholemeal.
+* the whole wheat bread is made by wholemeal.  
 
 ## medicines
 
@@ -113,7 +113,8 @@ The following are discovered over the internet, all tried by myself, use it on y
 * (rebuild) `probiotics` - four products, see at the end of the page
 * (rebuild) `CBD 10mg` - 15mg x 2 times per day - 1 dose first thing in the monring, 1 dose last thing before bed.
 * (rebuild) `Propolis` - 240mg per day ([1ml](https://www.apivita.com/en/organic-propolis-solution-food-supplement-10-10-60-267.html)).
-* (rebuild+detox) `Colostrum` - 400mg x 2 times per day.  
+* (rebuild+detox) `Colostrum` - 400mg x 2 times per day.
+* (detox) `Zeolite Clinoptilolite` - 4 drops per day (as [product](https://thegoodinside.com/shop/product/pure-body))  
 
 ps :  
 * **Coffee** aggravates the acidity, no good when subject has gut inflammation as **cannot heal**. Replace completely for **a month** (or at least 20 days) coffee with green tea (2 cups / day), I had tried also in the past but saw difference with this specific **Sencha** variant called **Satsuma** (Sencha Satsuma).. Strange I know!  
