@@ -591,3 +591,5 @@ author notes
 * [Periodic Table of Elements](https://pubchem.ncbi.nlm.nih.gov/periodic-table/)  
 * [Associations between types and sources of dietary carbohydrates and cardiovascular disease risk](https://bmcmedicine.biomedcentral.com/articles/10.1186/s12916-022-02712-7)
 * [Australia - Simulation could help explain nutrients’ impact on gut](https://www.sydney.edu.au/news-opinion/news/2023/02/14/simulation-could-help-explain-nutrients--impact-on-gut.html)
+* FEB 2023 [Northumbria University.Quorn mycoprotein](https://www.northumbria.ac.uk/about-us/news-events/news/quorns-mycoprotein-may-protect-against-bowel-cancer/)
+* [Ενδοσκοπική Κάψουλα](https://www.hygeia.gr/endoskopiki-kapsoyla-i-monadiki-mi-epemvatiki-methodos-apeikonisis-kai-diereynisis-toy-leptoy-enteroy-2) &nbsp; [[2](https://www.advanced-endoscopy.gr/?p=48)] &nbsp; [[producer](https://www.medtronic.com/covidien/en-us/products/capsule-endoscopy/pillcam-sb3-system.html)]
