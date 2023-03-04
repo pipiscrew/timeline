@@ -232,3 +232,4 @@ The more [disturbance](http://www.photographers-resource.co.uk/locations/nature/
 
 * 04/2021 - [Researchers develop microbial treatment to rid farms of odors](https://www.youtube.com/watch?v=_Yr1_FkbnS8)  
 * 06/2022 - [Contra Wirecutter on the IKEA air purifier](https://dynomight.net/ikea-purifier/)
+* 03/2023 - [HEPA Filter FAQ](https://itsairborne.com/hepa-filter-faq-4bcf084cb64e)

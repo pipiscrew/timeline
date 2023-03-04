@@ -8,6 +8,7 @@
 * [Beacon](https://github.com/imperviousinc/beacon) - decentralized
 * [ungoogled](https://github.com/Eloston/ungoogled-chromium) -- sans integration with Google
   * [bin mirror](https://chromium.woolyss.com/#windows-64-bit) ([ref](https://github.com/Eloston/ungoogled-chromium/issues/1519#issuecomment-852119889))
+* [Thorium](https://thorium.rocks/) - 8-40% performance improvement over vanilla Chromium
 * [Marmaduke](https://github.com/mtslzr/homebrew-marmaduke-chromium) -- homebrew tap
 * [Hibbiki](https://github.com/Hibbiki/chromium-win64) -- homebrew tap
 * [Google Chrome Offline](https://google.com/intl/en/chrome/?standalone=1) -- warning fingertips

@@ -77,6 +77,8 @@ the following should **not** be avoided :
 * [olive oil](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9145083/)  
 * [red apple](https://www.liverdoctor.com/apples-can-heal-your-gut/)  
 
+[meat cooking flow](https://youtu.be/3p_Zz_JvGyE)  
+
 when eat outside (max 2 days / week) preferred cuisines :
 * Asian
 * Vietnamese
@@ -593,3 +595,4 @@ author notes
 * [Australia - Simulation could help explain nutrients’ impact on gut](https://www.sydney.edu.au/news-opinion/news/2023/02/14/simulation-could-help-explain-nutrients--impact-on-gut.html)
 * FEB 2023 [Northumbria University.Quorn mycoprotein](https://www.northumbria.ac.uk/about-us/news-events/news/quorns-mycoprotein-may-protect-against-bowel-cancer/)
 * [Ενδοσκοπική Κάψουλα](https://www.hygeia.gr/endoskopiki-kapsoyla-i-monadiki-mi-epemvatiki-methodos-apeikonisis-kai-diereynisis-toy-leptoy-enteroy-2) &nbsp; [[2](https://www.advanced-endoscopy.gr/?p=48)] &nbsp; [[producer](https://www.medtronic.com/covidien/en-us/products/capsule-endoscopy/pillcam-sb3-system.html)]
+* FEB 2023 [NYTimes - The Wild World Inside Your Gut](https://www.nytimes.com/interactive/2023/02/22/well/eat/gut-microbiome-health.html)

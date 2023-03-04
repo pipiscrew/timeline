@@ -5,6 +5,7 @@
 * Music Player - [rhmsoft.Pulsar](https://play.google.com/store/apps/details?id=com.rhmsoft.pulsar)  
 * Music Player - [Musicolet](https://krosbits.in/musicolet/)  
 * Browser - [Fulguris](https://github.com/Slion/Fulguris)
+* Browser - [Kiwi Browser](https://kiwibrowser.com/) - suppports chrome extensions on mobile
 * Messenger- [Delta Chat](https://delta.chat/en/) - works over e-mail no server involved
 * QR - [SimpleAct.Quickmark](http://quickmark.com.tw/En/basic/index.asp) (gplay deprecated)  
 * GPS - [TomTom Navigation](https://play.google.com/store/apps/details?id=com.tomtom.gplay.navapp) - supports offline maps / can used also for pedestrian route (adjust at settings > routing > route type)  
