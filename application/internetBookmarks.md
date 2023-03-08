@@ -71,6 +71,7 @@
 * [CleverPDF](https://www.cleverpdf.com) - the best for (optimize) compress PDF
 * (client side) [BulkResize photos](https://bulkresizephotos.com/en)
 * (client side) [Photopea](https://www.photopea.com/) - Online Photoshop
+* [Lunapic](https://www8.lunapic.com/editor/) - online photo editor
 * (russian) [Yandex.Disk](https://disk.yandex.com/) - Store files online
 * [shelf.gg - A Pastebin for Resources](https://shelf.gg/)
 * [PrivateBin](https://privatebin.info/) - paste online
@@ -124,6 +125,7 @@
 * [YouTube Transcript](https://youtubetranscript.com/) - get subtitles
 * [SoundCloud Downloader](https://sclouddownloader.net/)
 * [Dailymotion Downloader](https://freedownloadvideo.net/dailymotion-video-downloader) - ++ linkedin, reddit, ted, telegram, tiktok, vimeo, twitter, twitch, bitchute, rumble
+* [Instagram Downloader](https://snapinsta.app/)
 * [Reddit Videos](https://viddit.red/)
 * [Reddit Save](https://redditsave.com/)
 * [Unddit](https://www.unddit.com/) - Display removed (by mods) and deleted (by users) comments/posts for Reddit.
@@ -138,6 +140,7 @@
 * (multi) [Savido](https://www.savido.net/)
 * (multi) [9xbuddy](https://9xbuddy.org/)
 * (multi) [savevideo](http://savevideo.me/)
+* (multi) [Free social media video downloader](https://vidll.net/)
 * [Tikinsta](https://tikinsta.net/) - downloader without watermark
 * [HyperDebrid](https://hyperdebrid.net/)  
 * [A2Converter](https://a2converter.com/youtube-downloader/) - YouTube Converter and Downloader MP4 / MP3  
@@ -411,3 +414,7 @@
 * @b6ynpz9QK7ej5xP @skaigr @MegaTvOfficial @ANT159694954 @kathariDinami @CKastamonitis @lampros_paschos @prime @Tvnea @Makeleio_gr @ERTglobal @StarChannelGr @alphatvgreece @opentvgr @MakedoniaTV @pronewsgr @pitsirikos @NewsItFeed @ekathimerini
 * @guardiannews @Reuters @arstechnica @BBCBreaking @cnnbrk @bsindia @disclosetv @BusinessInsider @BNNBloomberg @nytimes @BuzzFeedNews @drvandanashiva @enikos_gr @News247gr @iefimerida @tovimagr @newsbeast @ethnosgr @ToProtoThema @to10gr @Lawandordergr
 * @Flashgr_ @zougla_online @newsbombgr @aixmigr @Newsgr1 @capitalgr @toxrima @fimesgr @euro2day_gr @newmoneygr @parapolitika @matrix24gr @parapolitika @FortuneGreece @tribunegr @HellasNow @usay_gr @analystgr @PressPublica @epixeirein @parataxiMETA  
+
+## report incident to mass media
+* ireport#cnn.com
+* YourQuestions#bbc.co.uk
