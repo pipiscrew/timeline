@@ -5,6 +5,7 @@
 * Splitter and Joiner - [EZSoft.MP3 Splitter and Joiner](http://www.ezsoftmagic.com/mp3splitter_joiner.htm)  
 * Recorder - [Abyssmedia.i-Sound WMA MP3 Recorder](https://www.abyssmedia.com/mp3recorder/)  
 * Editor - [Cool Edit v2.1](https://www.filehorse.com/download-cool-edit-pro/) 
+* Editor - [Audacity](https://www.audacityteam.org/) - free crossplatform
 * Digital audio workstation - [Ardour](https://ardour.org/)   
 
 ## ID3 Tags

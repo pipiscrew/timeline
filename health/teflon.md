@@ -6,6 +6,7 @@ for reference, nowadays statistics :
 * In 2020, an estimated **1,806,590 new cases** of cancer will be diagnosed **only in US**. [soure](https://www.cancer.gov/about-cancer/understanding/statistics)
 * Almost **10 Million people** world wide, die from cancer annually. [source](https://ourworldindata.org/cancer)
 * [PFAS in the US Population](https://www.atsdr.cdc.gov/pfas/health-effects/us-population.html)  
+* [«Αιώνια Ρύπανση»: Η ανεπανόρθωτη βλάβη των PFAS και η Ελλάδα που δεν θέλει να ξέρει](https://www.reportersunited.gr/10499/forever-pollution/)  
 
 It's important to remember that Teflon was developed and marketed decades ago, nowadays, with more knowledge and studies, the **concerns** have been **raised** and it's important to be aware of the potential risks and take precautions when using Teflon-coated cookware, such as using them on low to medium heat and avoiding preheating empty pans or better not using it at all.  
 
@@ -19,6 +20,8 @@ Real story [The Lawyer Who Became DuPont’s Worst Nightmare](https://www.nytime
 `PFOA` is a chemical compound that is used as a processing aid in the production of some types of fluoropolymers, including Teflon (PTFE). It is not used as a coating on cookware, but it is used in the **manufacturing process** to make some types of non-stick coating, such as Teflon. PFOA is considered as a persistent organic **pollutant** due to its potential **health** and environmental effects, and it has been **phased out** of use by many manufacturers.  
 
 `PTFE`, on the other hand, is the chemical compound that is used to **make** `Teflon`, a brand of non-stick **coating**. PTFE is a synthetic fluoropolymer that is **applied** to the **surface** of cookware to create a non-stick coating. Is controversial material due to the potential health risks associated with inhaling fumes produced when the Teflon coated pans are overheated.  
+
+`PFOA` and `PFOS` are members of a chemical group called per- and polyfluoroalkyl substances (aka `PFAS`).  
 
 -----  
 

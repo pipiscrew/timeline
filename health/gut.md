@@ -117,6 +117,7 @@ The following are discovered over the internet, all tried by myself, use it on y
 * (rebuild) `Propolis` - 240mg per day ([1ml](https://www.apivita.com/en/organic-propolis-solution-food-supplement-10-10-60-267.html)).
 * (rebuild+detox) `Colostrum` - 400mg x 2 times per day.
 * (detox) `Zeolite Clinoptilolite` - 4 drops per day (as [product](https://thegoodinside.com/shop/product/pure-body))  
+* (rebuilt) `PepZinGI` - Patented Zinc-Carnosine (as [product](https://www.pepzingi.com/)) - TBA  
 
 ps :  
 * **Coffee** aggravates the acidity, no good when subject has gut inflammation as **cannot heal**. Replace completely for **a month** (or at least 20 days) coffee with green tea (2 cups / day), I had tried also in the past but saw difference with this specific **Sencha** variant called **Satsuma** (Sencha Satsuma).. Strange I know!  
@@ -597,3 +598,4 @@ author notes
 * [Ενδοσκοπική Κάψουλα](https://www.hygeia.gr/endoskopiki-kapsoyla-i-monadiki-mi-epemvatiki-methodos-apeikonisis-kai-diereynisis-toy-leptoy-enteroy-2) &nbsp; [[2](https://www.advanced-endoscopy.gr/?p=48)] &nbsp; [[producer](https://www.medtronic.com/covidien/en-us/products/capsule-endoscopy/pillcam-sb3-system.html)]
 * FEB 2023 [NYTimes - The Wild World Inside Your Gut](https://www.nytimes.com/interactive/2023/02/22/well/eat/gut-microbiome-health.html)
 * MAR 2023 [Fifteen things to know about human gut microbiota](https://www.irishtimes.com/health/your-wellness/2023/03/05/fifteen-things-to-know-about-your-gut/)
+* JUL 2021 [How to Optimize Your Brain-Body Function & Health](https://www.youtube.com/watch?v=rW9QKc-iFoY) explaining [Gut-microbiota-targeted diets modulate human immune status](https://doi.org/10.1016/j.cell.2021.06.019)  
