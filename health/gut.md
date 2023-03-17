@@ -315,7 +315,7 @@ ingredients :
 
 <details>
 <summary>
-Optibac references2</summary>
+Optibac references</summary>
 <br/>
 <div style="margin-left:20px">
 
