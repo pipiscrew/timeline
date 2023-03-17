@@ -106,7 +106,7 @@ for cereal & bread, choose only whole wheat.
 
   
 <details>
-<summary> just for the history8</summary>
+<summary> just for the history9</summary>
 
   
 For starters, start ASAP getting `PREBIOTIC` of type `Psyllium` (always prefer capsule no powder) - 30min before lunch..  
@@ -254,9 +254,8 @@ ingredients :
 * ([Omega3](https://pipiscrew.github.io/timeline/#/health/gut?id=histmanine)) Alpha-linolenic acid ([ALA](https://www.healthline.com/nutrition/3-types-of-omega-3)) 300mg (derived from chia seeds)
   * ALA precursor of EPA or DHA, chia seed oil is **not** a vegetable oil. Chia seeds are type of flowering plant, the extracted oil is rich in omega-3 fatty acids.
   * [proven](https://pipiscrew.github.io/timeline/#/health/inflammatory?id=omega-3) anti-inflammatory actions in inflammatory bowel disease, colitis, atopic dermatitis and epithelial cells.
-* Vitamin B1 0,22 mg  </details>  
+* Vitamin B1 0,22 mg</details>  
 
-  
 <details>
 <summary>
   :star: :star: :star: (probiotic) Optibac Everyday (Lactobacillus / Bifidobacterium / Lactococcus strains)</summary>
@@ -276,9 +275,8 @@ ingredients :
   * Bifidibacterium breve Rosell-70 (8,2 mg)
   * Bifidobacterium bifidum Rosell-71 (5,5 mg)
   * Lactococcus lactis Rosell-1058 (5,2 mg)
-* (prebiotic) Fructooligosaccharides (aka FOS) 88mg  ([proven](https://www.researchgate.net/publication/258149706) suppress toxic bacteria [[2](https://www.savant-health.com/blogs/wellness/fos-in-probiotics-good-or-bad)]) </details>
+* (prebiotic) Fructooligosaccharides (aka FOS) 88mg  ([proven](https://www.researchgate.net/publication/258149706) suppress toxic bacteria [[2](https://www.savant-health.com/blogs/wellness/fos-in-probiotics-good-or-bad)])</details>
 
-   
 <details>
 <summary>
  (probiotic) Optibac Everyday Extra (Lactobacillus / Bifidobacterium strains)</summary>
@@ -295,7 +293,7 @@ ingredients :
   * Lactobacillus acidophilus NCFM (63,4 mg)
   * Lactobacillus paracasei Lpc-37 (37,43 mg)
   * Bifidobacterium lactis Bi-07 (31,14 mg)
-  * Bifidobacterium lactis Bl-04  (29,34 mg)  </details>
+  * Bifidobacterium lactis Bl-04  (29,34 mg)</details>
 
   
 <details>
@@ -315,7 +313,6 @@ ingredients :
   * Bifidobacterium lactis Bl-04 (105,84 mg)
   * Bifidobacterium lactis HN019 (83,01 mg)</details>
 
-  
 <details>
 <summary>
 Optibac references</summary>
@@ -335,7 +332,7 @@ find all together, on a product [Optibac - For Those On Antibiotics](https://www
 [Optibac - probiotics database](https://www.optibacprobiotics.com/uk/professionals/probiotics-database)  
 
 Optibac pill products :  
-For maximum potency **refrigerate** the product after opening. Do not remove the desiccant sachet from the glass jar and close the lid firmly after each use.  </details>
+For maximum potency **refrigerate** the product after opening. Do not remove the desiccant sachet from the glass jar and close the lid firmly after each use.</details>
 
 -----  
 
