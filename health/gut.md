@@ -107,7 +107,7 @@ for cereal & bread, choose only whole wheat.
 misc  
 
 <details>
-<summary>  just for the history3  </summary>  
+<summary>  just for the history3 </summary>  
     
 For starters, start ASAP getting `PREBIOTIC` of type `Psyllium` (always prefer capsule no powder) - 30min before lunch..  
 
