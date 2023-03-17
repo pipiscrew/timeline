@@ -129,7 +129,7 @@ The following are discovered over the internet, all tried by myself, use it on y
 ### probiotics
 
 <details>
-<summary> (probiotic) Alflorex (Bifidobacterium longum 35624)</summary>
+<summary> Alflorex (Bifidobacterium longum 35624)</summary>
 <br/>
 <div style="margin-left:20px">
 per capsule : 1 billion CFU (coloning forming units)  
@@ -165,7 +165,7 @@ each capsule contains :
 </div></details>
 
 <details>
-<summary> (probiotic) Natural Factors - Travel Biotic (Bifidobacterium longum BB536)</summary>
+<summary> Natural Factors - Travel Biotic (Bifidobacterium longum BB536)</summary>
 <br/>
 <div style="margin-left:20px">
 per capsule : 10 billion CFU (coloning forming units)  
@@ -181,7 +181,7 @@ Today, different medicinal substances, yoghurts and other dairy products are spe
 
 <details>
 <summary> 
-  :star: :star: :star: (probiotic) Optibac For Cholesterol (Lactobacillus plantarum CECT 7527 / 7528 / 7529)</summary>
+  :star: :star: :star: Optibac For Cholesterol (Lactobacillus plantarum CECT 7527 / 7528 / 7529)</summary>
 <br/>
 <div style="margin-left:20px">
 per sachet : 1.2 billion CFU (coloning forming units)  
@@ -202,7 +202,7 @@ ingredients :
 
 <details>
 <summary>
-  :star: :star: :star: (probiotic) Optibac Everyday (Lactobacillus / Bifidobacterium / Lactococcus strains)</summary>
+  :star: :star: :star: Optibac Everyday (Lactobacillus / Bifidobacterium / Lactococcus strains)</summary>
 <br/>
 <div style="margin-left:20px">
 per capsule : 5 billion CFU (coloning forming units)  
@@ -224,7 +224,7 @@ ingredients :
 
 <details>
 <summary>
- (probiotic) Optibac Everyday Extra (Lactobacillus / Bifidobacterium strains)</summary>
+ Optibac Everyday Extra (Lactobacillus / Bifidobacterium strains)</summary>
 <br/>
 <div style="margin-left:20px">
 per capsule : 20 billion CFU (coloning forming units)  
@@ -243,7 +243,7 @@ ingredients :
 
   
 <details>
-<summary> :star: :star: :star: (probiotic) Optibac Everyday Max (Lactobacillus / Bifidobacterium strains)</summary>
+<summary> :star: :star: :star: Optibac Everyday Max (Lactobacillus / Bifidobacterium strains)</summary>
 <br/>
 <div style="margin-left:20px">
 per capsule : 75 billion CFU (coloning forming units)  
