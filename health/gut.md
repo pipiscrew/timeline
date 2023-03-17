@@ -106,8 +106,9 @@ for cereal & bread, choose only whole wheat.
 
   
 <details>
-<summary> just for the history94</summary>
+<summary> just for the history95</summary>
 
+  
 <div style="margin-left:20px">
 For starters, start ASAP getting `PREBIOTIC` of type `Psyllium` (always prefer capsule no powder) - 30min before lunch..  
 
@@ -184,7 +185,6 @@ calicobrak suggests to make [GIMAP](https://www.diagnosticsolutionslab.com/tests
 
 <details>
 <summary> (probiotic) Alflorex (Bifidobacterium longum 35624)</summary>
-
   
 per capsule : 1 billion CFU (coloning forming units)  
 dose : strictly one capsule per day  
