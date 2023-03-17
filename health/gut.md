@@ -105,9 +105,10 @@ for cereal & bread, choose only whole wheat.
 ## medicines
   
 <details>
-<summary> just for the history6</summary>
+<summary> just for the history7</summary>
 
   
+<p>
 For starters, start ASAP getting `PREBIOTIC` of type `Psyllium` (always prefer capsule no powder) - 30min before lunch..  
 
 The following are discovered over the internet, all tried by myself, use it on your own risk...  
@@ -180,8 +181,9 @@ moreover on `Zonulin result` is a note suggesting [EnteroScan-GR](https://athens
 * other [Microbiome Diet & Therapy-GR](https://athenslab.gr/en/blog/gut-microbiota/microbiome-diet)
 * other [costs](https://eshop.athenslab.gr/exetaseis-prolipsis/enteroscan-elegxos-enterikou-mikroviomatos) see 'Δείγμα Απάντησης' or 'Τι Περιλαμβάνει'.  
 
-calicobrak suggests to make [GIMAP](https://www.diagnosticsolutionslab.com/tests/gi-map) examination.  </details>
+calicobrak suggests to make [GIMAP](https://www.diagnosticsolutionslab.com/tests/gi-map) examination.</p>  </details>
 
+  
 <details>
 <summary> (probiotic) Alflorex (Bifidobacterium longum 35624)  </summary>
 
