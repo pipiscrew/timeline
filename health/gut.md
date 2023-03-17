@@ -103,11 +103,9 @@ for cereal & bread, choose only whole wheat.
 * the whole wheat bread is made by wholemeal.  
 
 ## medicines
-
-misc  
-
+  
 <details>
-<summary>  just for the history5 </summary>
+<summary> just for the history5</summary>
 
   
 For starters, start ASAP getting `PREBIOTIC` of type `Psyllium` (always prefer capsule no powder) - 30min before lunch..  
@@ -295,12 +293,12 @@ ingredients :
   * Lactobacillus acidophilus NCFM (63,4 mg)
   * Lactobacillus paracasei Lpc-37 (37,43 mg)
   * Bifidobacterium lactis Bi-07 (31,14 mg)
-  * Bifidobacterium lactis Bl-04  (29,34 mg)  </details>  
+  * Bifidobacterium lactis Bl-04  (29,34 mg)  </details>
 
   
 <details>
-<summary> 
-  :star: :star: :star: (probiotic) Optibac Everyday Max (Lactobacillus / Bifidobacterium strains)</summary>
+<summary> :star: :star: :star: (probiotic) Optibac Everyday Max (Lactobacillus / Bifidobacterium strains)</summary>
+
   
 per capsule : 75 billion CFU (coloning forming units)  
 dose : 1-2 capsules per day  
