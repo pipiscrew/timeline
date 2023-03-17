@@ -107,8 +107,9 @@ for cereal & bread, choose only whole wheat.
 misc  
 
 <details>
-<summary>  just for the history4 </summary>  
-    
+<summary>  just for the history4 </summary>
+
+  
 For starters, start ASAP getting `PREBIOTIC` of type `Psyllium` (always prefer capsule no powder) - 30min before lunch..  
 
 The following are discovered over the internet, all tried by myself, use it on your own risk...  
@@ -294,7 +295,7 @@ ingredients :
   * Lactobacillus acidophilus NCFM (63,4 mg)
   * Lactobacillus paracasei Lpc-37 (37,43 mg)
   * Bifidobacterium lactis Bi-07 (31,14 mg)
-  * Bifidobacterium lactis Bl-04  (29,34 mg)  </details>
+  * Bifidobacterium lactis Bl-04  (29,34 mg)  </details>  
 
   
 <details>
@@ -312,7 +313,7 @@ ingredients :
 * Live probiotic cultures 336 mg
   * Lactobacillus acidophilus NCFM (147,24 mg)
   * Bifidobacterium lactis Bl-04 (105,84 mg)
-  * Bifidobacterium lactis HN019 (83,01 mg)   </details>
+  * Bifidobacterium lactis HN019 (83,01 mg)   </details>  
 
   
 <details>
