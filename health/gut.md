@@ -212,9 +212,8 @@ each capsule contains :
 > (2018) Bifidobacterium longum (including 35624) strains originally isolated from human **vaginal microbiota**  &nbsp;&nbsp;  [source](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5912743/)  
 
 -----  
-
-## (probiotic) Natural Factors - Travel Biotic (Bifidobacterium longum BB536)  
-
+<details>
+<summary> (probiotic) Natural Factors - Travel Biotic (Bifidobacterium longum BB536)</summary>
 per capsule : 10 billion CFU (coloning forming units)  
 dose : 1-6 capsules per day  
 
@@ -224,7 +223,7 @@ Today, different medicinal substances, yoghurts and other dairy products are spe
 
 * (CA) [product page](https://naturalfactors.com/products/travelbiotic-bb536-probiotic) - domain created 1996  
 * [ISURA verified](https://isura.ca/)  
-* [iHerb page](https://iherb.com/pr/natural-factors-travel-biotic-bb536-10-billion-60-vegetarian-capsules/71125)  
+* [iHerb page](https://iherb.com/pr/natural-factors-travel-biotic-bb536-10-billion-60-vegetarian-capsules/71125)  </details>
 
 -----  
 
