@@ -121,66 +121,8 @@ The following are discovered over the internet, all tried by myself, use it on y
 * (rebuild) `CBD 10mg` - 15mg x 2 times per day - 1 dose first thing in the monring, 1 dose last thing before bed.
 * (rebuild) `Propolis` - 240mg per day ([1ml](https://www.apivita.com/en/organic-propolis-solution-food-supplement-10-10-60-267.html)).
 * (rebuild+detox) `Colostrum` - 400mg x 2 times per day.
-* (detox) `Zeolite Clinoptilolite` - 4 drops per day (as [product](https://thegoodinside.com/shop/product/pure-body))</div></details>
+* (detox) `Zeolite Clinoptilolite` - 4 drops per day (as [product](https://thegoodinside.com/shop/product/pure-body))  
 
-(rebuild) `PepZinGI` - 2 capsules per day - patented Zinc-Carnosine (as [product](https://www.pepzingi.com/))  
-
-ps :  
-* **Coffee** aggravates the acidity, no good when subject has gut inflammation as **cannot heal**. Replace completely for **a month** (or at least 20 days) coffee with green tea (2 cups / day), I had tried also in the past but saw difference with this specific **Sencha** variant called **Satsuma** (Sencha Satsuma).. Strange I know!  
-
-In case of `PROBIOTICS` and the subject is with `histamine intolerance` the following found through internet :   
-* Number of `strains` may be reduced, specific some Lactobacillus strains can be beneficial, but they produce enough histamine that may cause trouble for those with histamine intolerance.
-* Finally the Lactobacillus strains must be avoided due **histamine-producing** (found in most yogurts and fermented foods) are :   
-  * Lactobacillus casei
-  * Lactobacillus reuteri
-  * Lactobacillus bulgaricus [source](https://www.bulletproof.com/supplements/dietary-supplements/what-are-probiotics/)  
-* this [supplement](https://www.seekinghealth.com/products/probiota-histaminx-60-capsules) includes only those
-  * Bifidobacterium bifidum & BB536 & 35624
-  * Lactobacillus salivarius
-  * Lactobacillus plantarum
-  * Bifidobacterium lactis
-  * Bifidobacterium breve  
-
-> All people must follow the 12h fasting (example 8pm - 8am) every day. Because when gut is empty, allowing to start cleansing processes.  [source](https://old.reddit.com/r/GutHealth/comments/y1hlza/what_people_should_know_about_detoxification/) &nbsp;&nbsp;([mirror](https://www.pipiscrew.com/threads/49249/))  
-
-
-Links :  
-* [Maximilian Kohler extended research](https://github.com/MaximilianKohler/HumanMicrobiome/wiki/Probiotic-Guide)
-* [reddit - HistamineIntolerance](https://old.reddit.com/r/HistamineIntolerance/)
-* [reddit - GutHealth](http://old.reddit.com/r/GutHealth/)
-* [reddit - Leaky Gut](http://old.reddit.com/r/LeakyGutSyndrome/)  
-
-mysterious high prices :  
-* [harmonelo - Tailor-made probiotics - 1500e for 6 months supply](https://href.li/?https://pro-biotika.harmonelo.shop/e-shop.php)
-* [Ladislav Kuzela - 300e for consultation](https://href.li/?https://www.kuzela.sk/)  
-
-In general, all over the internet there are con men, trying to [convince](https://www.youtube.com/watch?v=XajrAN3Y_0c) you that can solve your problem BEWARE!  
-
-## DAO & Zonulin Ranges
-* DAO (blood)
-  * < 3.0 U/ml: high probability of HIT
-  * 3.1-10.0 U/ml: moderate HIT probability
-  * \> 10.0 U/ml: low probability of HIT (the normal is 20 to 40 U/ml)  
-  * HIT: Histamine Intolerance  
-
-* Zonulin (stool)
-  * 15.0 – 107.0 ng/g   
-
-* Estradiol (blood)
-  * 10-50 pg/mL
-
-author results :  
-16/01/2023 : 183.8 ng/g  
-16/01/2023 : 16.7 U/ml  
-18/03/2022 : 12.6 U/ml  
-02/11/2021 : 33.184 pg/mL (origin given in 0.122 [nmol/l](https://en.fremitus.pl/estradiol-unit-converter-calculator/))  
-
-moreover on `Zonulin result` is a note suggesting [EnteroScan-GR](https://athenslab.gr/en/preventive-tests/enteroscan-intestinal-microbiome-tests).  
-* other [TrophoScan-GR](https://athenslab.gr/en/preventive-tests/trophoscan-food-intolerance-tests)
-* other [Microbiome Diet & Therapy-GR](https://athenslab.gr/en/blog/gut-microbiota/microbiome-diet)
-* other [costs](https://eshop.athenslab.gr/exetaseis-prolipsis/enteroscan-elegxos-enterikou-mikroviomatos) see 'Δείγμα Απάντησης' or 'Τι Περιλαμβάνει'.  
-
-calicobrak suggests to make [GIMAP](https://www.diagnosticsolutionslab.com/tests/gi-map) examination.  
 
 -----  
 
@@ -337,6 +279,66 @@ find all together, on a product [Optibac - For Those On Antibiotics](https://www
 
 Optibac pill products :  
 For maximum potency **refrigerate** the product after opening. Do not remove the desiccant sachet from the glass jar and close the lid firmly after each use.</div></details>
+</div></details>
+
+(rebuild) `PepZinGI` - 2 capsules per day - patented Zinc-Carnosine (as [product](https://www.pepzingi.com/))  
+
+ps :  
+* **Coffee** aggravates the acidity, no good when subject has gut inflammation as **cannot heal**. Replace completely for **a month** (or at least 20 days) coffee with green tea (2 cups / day), I had tried also in the past but saw difference with this specific **Sencha** variant called **Satsuma** (Sencha Satsuma).. Strange I know!  
+
+In case of `PROBIOTICS` and the subject is with `histamine intolerance` the following found through internet :   
+* Number of `strains` may be reduced, specific some Lactobacillus strains can be beneficial, but they produce enough histamine that may cause trouble for those with histamine intolerance.
+* Finally the Lactobacillus strains must be avoided due **histamine-producing** (found in most yogurts and fermented foods) are :   
+  * Lactobacillus casei
+  * Lactobacillus reuteri
+  * Lactobacillus bulgaricus [source](https://www.bulletproof.com/supplements/dietary-supplements/what-are-probiotics/)  
+* this [supplement](https://www.seekinghealth.com/products/probiota-histaminx-60-capsules) includes only those
+  * Bifidobacterium bifidum & BB536 & 35624
+  * Lactobacillus salivarius
+  * Lactobacillus plantarum
+  * Bifidobacterium lactis
+  * Bifidobacterium breve  
+
+> All people must follow the 12h fasting (example 8pm - 8am) every day. Because when gut is empty, allowing to start cleansing processes.  [source](https://old.reddit.com/r/GutHealth/comments/y1hlza/what_people_should_know_about_detoxification/) &nbsp;&nbsp;([mirror](https://www.pipiscrew.com/threads/49249/))  
+
+
+Links :  
+* [Maximilian Kohler extended research](https://github.com/MaximilianKohler/HumanMicrobiome/wiki/Probiotic-Guide)
+* [reddit - HistamineIntolerance](https://old.reddit.com/r/HistamineIntolerance/)
+* [reddit - GutHealth](http://old.reddit.com/r/GutHealth/)
+* [reddit - Leaky Gut](http://old.reddit.com/r/LeakyGutSyndrome/)  
+
+mysterious high prices :  
+* [harmonelo - Tailor-made probiotics - 1500e for 6 months supply](https://href.li/?https://pro-biotika.harmonelo.shop/e-shop.php)
+* [Ladislav Kuzela - 300e for consultation](https://href.li/?https://www.kuzela.sk/)  
+
+In general, all over the internet there are con men, trying to [convince](https://www.youtube.com/watch?v=XajrAN3Y_0c) you that can solve your problem BEWARE!  
+
+## DAO & Zonulin Ranges
+* DAO (blood)
+  * < 3.0 U/ml: high probability of HIT
+  * 3.1-10.0 U/ml: moderate HIT probability
+  * \> 10.0 U/ml: low probability of HIT (the normal is 20 to 40 U/ml)  
+  * HIT: Histamine Intolerance  
+
+* Zonulin (stool)
+  * 15.0 – 107.0 ng/g   
+
+* Estradiol (blood)
+  * 10-50 pg/mL
+
+author results :  
+16/01/2023 : 183.8 ng/g  
+16/01/2023 : 16.7 U/ml  
+18/03/2022 : 12.6 U/ml  
+02/11/2021 : 33.184 pg/mL (origin given in 0.122 [nmol/l](https://en.fremitus.pl/estradiol-unit-converter-calculator/))  
+
+moreover on `Zonulin result` is a note suggesting [EnteroScan-GR](https://athenslab.gr/en/preventive-tests/enteroscan-intestinal-microbiome-tests).  
+* other [TrophoScan-GR](https://athenslab.gr/en/preventive-tests/trophoscan-food-intolerance-tests)
+* other [Microbiome Diet & Therapy-GR](https://athenslab.gr/en/blog/gut-microbiota/microbiome-diet)
+* other [costs](https://eshop.athenslab.gr/exetaseis-prolipsis/enteroscan-elegxos-enterikou-mikroviomatos) see 'Δείγμα Απάντησης' or 'Τι Περιλαμβάνει'.  
+
+calicobrak suggests to make [GIMAP](https://www.diagnosticsolutionslab.com/tests/gi-map) examination.  
 
 -----  
 
