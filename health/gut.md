@@ -104,6 +104,10 @@ for cereal & bread, choose only whole wheat.
 
 ## medicines
 
+misc </summary>
+
+<details>
+<summary>  just for the history  </summary>
 For starters, start ASAP getting `PREBIOTIC` of type `Psyllium` (always prefer capsule no powder) - 30min before lunch..
 
 The following are discovered over the internet, all tried by myself, use it on your own risk...  
@@ -116,8 +120,10 @@ The following are discovered over the internet, all tried by myself, use it on y
 * (rebuild) `CBD 10mg` - 15mg x 2 times per day - 1 dose first thing in the monring, 1 dose last thing before bed.
 * (rebuild) `Propolis` - 240mg per day ([1ml](https://www.apivita.com/en/organic-propolis-solution-food-supplement-10-10-60-267.html)).
 * (rebuild+detox) `Colostrum` - 400mg x 2 times per day.
-* (detox) `Zeolite Clinoptilolite` - 4 drops per day (as [product](https://thegoodinside.com/shop/product/pure-body))  
-* (rebuild) `PepZinGI` - 2 capsules per day - patented Zinc-Carnosine (as [product](https://www.pepzingi.com/))  
+* (detox) `Zeolite Clinoptilolite` - 4 drops per day (as [product](https://thegoodinside.com/shop/product/pure-body))    </details>
+  
+  
+(rebuild) `PepZinGI` - 2 capsules per day - patented Zinc-Carnosine (as [product](https://www.pepzingi.com/))  
 
 ps :  
 * **Coffee** aggravates the acidity, no good when subject has gut inflammation as **cannot heal**. Replace completely for **a month** (or at least 20 days) coffee with green tea (2 cups / day), I had tried also in the past but saw difference with this specific **Sencha** variant called **Satsuma** (Sencha Satsuma).. Strange I know!  
@@ -174,12 +180,11 @@ moreover on `Zonulin result` is a note suggesting [EnteroScan-GR](https://athens
 * other [Microbiome Diet & Therapy-GR](https://athenslab.gr/en/blog/gut-microbiota/microbiome-diet)
 * other [costs](https://eshop.athenslab.gr/exetaseis-prolipsis/enteroscan-elegxos-enterikou-mikroviomatos) see 'Δείγμα Απάντησης' or 'Τι Περιλαμβάνει'.  
 
-calicobrak suggests to make [GIMAP](https://www.diagnosticsolutionslab.com/tests/gi-map) examination.  
+calicobrak suggests to make [GIMAP](https://www.diagnosticsolutionslab.com/tests/gi-map) examination.  </details>
 
------  
-
-## (probiotic) Alflorex (Bifidobacterium longum 35624)  
-
+<details>
+<summary> (probiotic) Alflorex (Bifidobacterium longum 35624)  </summary>
+  
 per capsule : 1 billion CFU (coloning forming units)  
 dose : strictly one capsule per day  
 
@@ -209,11 +214,12 @@ each capsule contains :
 * E464 Hydroxypropyl methyl cellulose
 * E470b Magnesium Stearate  
 
-> (2018) Bifidobacterium longum (including 35624) strains originally isolated from human **vaginal microbiota**  &nbsp;&nbsp;  [source](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5912743/)  
+> (2018) Bifidobacterium longum (including 35624) strains originally isolated from human **vaginal microbiota**  &nbsp;&nbsp;  [source](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5912743/)  </details>
 
------  
+  
 <details>
 <summary> (probiotic) Natural Factors - Travel Biotic (Bifidobacterium longum BB536)</summary>
+  
 per capsule : 10 billion CFU (coloning forming units)  
 dose : 1-6 capsules per day  
 
@@ -225,10 +231,10 @@ Today, different medicinal substances, yoghurts and other dairy products are spe
 * [ISURA verified](https://isura.ca/)  
 * [iHerb page](https://iherb.com/pr/natural-factors-travel-biotic-bb536-10-billion-60-vegetarian-capsules/71125)  </details>
 
------  
-
-## :star: :star: :star: (probiotic) Optibac For Cholesterol (Lactobacillus plantarum CECT 7527 / 7528 / 7529)
-
+<details>
+<summary> 
+## :star: :star: :star: (probiotic) Optibac For Cholesterol (Lactobacillus plantarum CECT 7527 / 7528 / 7529)</summary>
+  
 per sachet : 1.2 billion CFU (coloning forming units)  
 dose : 1 per day  
 
@@ -244,10 +250,12 @@ ingredients :
   * ALA precursor of EPA or DHA, chia seed oil is **not** a vegetable oil. Chia seeds are type of flowering plant, the extracted oil is rich in omega-3 fatty acids.
   * [proven](https://pipiscrew.github.io/timeline/#/health/inflammatory?id=omega-3) anti-inflammatory actions in inflammatory bowel disease, colitis, atopic dermatitis and epithelial cells.
 * Vitamin B1 0,22 mg  
+ </details>
 
------  
-
-## :star: :star: :star: (probiotic) Optibac Everyday (Lactobacillus / Bifidobacterium / Lactococcus strains)
+  
+<details>
+<summary>
+## :star: :star: :star: (probiotic) Optibac Everyday (Lactobacillus / Bifidobacterium / Lactococcus strains)</summary>
 
 per capsule : 5 billion CFU (coloning forming units)  
 dose : 1-2 capsules per day  
@@ -264,12 +272,13 @@ ingredients :
   * Bifidibacterium breve Rosell-70 (8,2 mg)
   * Bifidobacterium bifidum Rosell-71 (5,5 mg)
   * Lactococcus lactis Rosell-1058 (5,2 mg)
-* (prebiotic) Fructooligosaccharides (aka FOS) 88mg  ([proven](https://www.researchgate.net/publication/258149706) suppress toxic bacteria [[2](https://www.savant-health.com/blogs/wellness/fos-in-probiotics-good-or-bad)])
+* (prebiotic) Fructooligosaccharides (aka FOS) 88mg  ([proven](https://www.researchgate.net/publication/258149706) suppress toxic bacteria [[2](https://www.savant-health.com/blogs/wellness/fos-in-probiotics-good-or-bad)]) </details>
 
------  
-
-## (probiotic) Optibac Everyday Extra (Lactobacillus / Bifidobacterium strains)
-
+   
+<details>
+<summary>
+## (probiotic) Optibac Everyday Extra (Lactobacillus / Bifidobacterium strains)</summary>
+  
 per capsule : 20 billion CFU (coloning forming units)  
 dose : 1-2 capsules per day  
 
@@ -282,12 +291,13 @@ ingredients :
   * Lactobacillus acidophilus NCFM (63,4 mg)
   * Lactobacillus paracasei Lpc-37 (37,43 mg)
   * Bifidobacterium lactis Bi-07 (31,14 mg)
-  * Bifidobacterium lactis Bl-04  (29,34 mg)  
+  * Bifidobacterium lactis Bl-04  (29,34 mg)   </details>
 
------  
-
-## :star: :star: :star: (probiotic) Optibac Everyday Max (Lactobacillus / Bifidobacterium strains)
-
+  
+<details>
+<summary>
+## :star: :star: :star: (probiotic) Optibac Everyday Max (Lactobacillus / Bifidobacterium strains)</summary>
+  
 per capsule : 75 billion CFU (coloning forming units)  
 dose : 1-2 capsules per day  
 
@@ -299,11 +309,12 @@ ingredients :
 * Live probiotic cultures 336 mg
   * Lactobacillus acidophilus NCFM (147,24 mg)
   * Bifidobacterium lactis Bl-04 (105,84 mg)
-  * Bifidobacterium lactis HN019 (83,01 mg)  
+  * Bifidobacterium lactis HN019 (83,01 mg)   </details>
 
------   
-
-## Optibac references
+  
+<details>
+<summary>
+## Optibac references</summary>
 
 [Optibac - probiotics help with eczema](https://www.optibacprobiotics.com/uk/professionals/latest-research/general-health/do-probiotics-help-with-eczema)  
 
@@ -320,7 +331,7 @@ find all together, on a product [Optibac - For Those On Antibiotics](https://www
 [Optibac - probiotics database](https://www.optibacprobiotics.com/uk/professionals/probiotics-database)  
 
 Optibac pill products :  
-For maximum potency **refrigerate** the product after opening. Do not remove the desiccant sachet from the glass jar and close the lid firmly after each use. 
+For maximum potency **refrigerate** the product after opening. Do not remove the desiccant sachet from the glass jar and close the lid firmly after each use.  </details>
 
 -----  
 
