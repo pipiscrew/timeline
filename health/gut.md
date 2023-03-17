@@ -106,7 +106,7 @@ for cereal & bread, choose only whole wheat.
 
   
 <details>
-<summary> just for the history92</summary>
+<summary> just for the history93</summary>
 
   
 For starters, start ASAP getting `PREBIOTIC` of type `Psyllium` (always prefer capsule no powder) - 30min before lunch..  
@@ -121,9 +121,8 @@ The following are discovered over the internet, all tried by myself, use it on y
 * (rebuild) `CBD 10mg` - 15mg x 2 times per day - 1 dose first thing in the monring, 1 dose last thing before bed.
 * (rebuild) `Propolis` - 240mg per day ([1ml](https://www.apivita.com/en/organic-propolis-solution-food-supplement-10-10-60-267.html)).
 * (rebuild+detox) `Colostrum` - 400mg x 2 times per day.
-* (detox) `Zeolite Clinoptilolite` - 4 drops per day (as [product](https://thegoodinside.com/shop/product/pure-body))  </details>
+* (detox) `Zeolite Clinoptilolite` - 4 drops per day (as [product](https://thegoodinside.com/shop/product/pure-body))</details>
 
-  
 (rebuild) `PepZinGI` - 2 capsules per day - patented Zinc-Carnosine (as [product](https://www.pepzingi.com/))  
 
 ps :  
@@ -231,7 +230,7 @@ Today, different medicinal substances, yoghurts and other dairy products are spe
 
 * (CA) [product page](https://naturalfactors.com/products/travelbiotic-bb536-probiotic) - domain created 1996  
 * [ISURA verified](https://isura.ca/)  
-* [iHerb page](https://iherb.com/pr/natural-factors-travel-biotic-bb536-10-billion-60-vegetarian-capsules/71125)  </details>
+* [iHerb page](https://iherb.com/pr/natural-factors-travel-biotic-bb536-10-billion-60-vegetarian-capsules/71125)</details>
 
 <details>
 <summary> 
