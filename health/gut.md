@@ -106,7 +106,7 @@ for cereal & bread, choose only whole wheat.
 
   
 <details>
-<summary> just for the history96</summary>
+<summary> only when no success with PepZinGI</summary>
 <br/>
 <div style="margin-left:20px">
 For starters, start ASAP getting `PREBIOTIC` of type `Psyllium` (always prefer capsule no powder) - 30min before lunch..  
@@ -180,11 +180,12 @@ moreover on `Zonulin result` is a note suggesting [EnteroScan-GR](https://athens
 * other [Microbiome Diet & Therapy-GR](https://athenslab.gr/en/blog/gut-microbiota/microbiome-diet)
 * other [costs](https://eshop.athenslab.gr/exetaseis-prolipsis/enteroscan-elegxos-enterikou-mikroviomatos) see 'Δείγμα Απάντησης' or 'Τι Περιλαμβάνει'.  
 
-calicobrak suggests to make [GIMAP](https://www.diagnosticsolutionslab.com/tests/gi-map) examination.</p></details>
+calicobrak suggests to make [GIMAP](https://www.diagnosticsolutionslab.com/tests/gi-map) examination.
 
 <details>
 <summary> (probiotic) Alflorex (Bifidobacterium longum 35624)</summary>
-  
+<br/>
+<div style="margin-left:20px">
 per capsule : 1 billion CFU (coloning forming units)  
 dose : strictly one capsule per day  
 
@@ -214,12 +215,13 @@ each capsule contains :
 * E464 Hydroxypropyl methyl cellulose
 * E470b Magnesium Stearate  
 
-> (2018) Bifidobacterium longum (including 35624) strains originally isolated from human **vaginal microbiota**  &nbsp;&nbsp;  [source](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5912743/)</details>
+> (2018) Bifidobacterium longum (including 35624) strains originally isolated from human **vaginal microbiota**  &nbsp;&nbsp;  [source](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5912743/)
+</div></details>
 
 <details>
 <summary> (probiotic) Natural Factors - Travel Biotic (Bifidobacterium longum BB536)</summary>
-
-  
+<br/>
+<div style="margin-left:20px">
 per capsule : 10 billion CFU (coloning forming units)  
 dose : 1-6 capsules per day  
 
@@ -229,13 +231,13 @@ Today, different medicinal substances, yoghurts and other dairy products are spe
 
 * (CA) [product page](https://naturalfactors.com/products/travelbiotic-bb536-probiotic) - domain created 1996  
 * [ISURA verified](https://isura.ca/)  
-* [iHerb page](https://iherb.com/pr/natural-factors-travel-biotic-bb536-10-billion-60-vegetarian-capsules/71125)
-</details>
+* [iHerb page](https://iherb.com/pr/natural-factors-travel-biotic-bb536-10-billion-60-vegetarian-capsules/71125)</div></details>
 
 <details>
 <summary> 
   :star: :star: :star: (probiotic) Optibac For Cholesterol (Lactobacillus plantarum CECT 7527 / 7528 / 7529)</summary>
-
+<br/>
+<div style="margin-left:20px">
 per sachet : 1.2 billion CFU (coloning forming units)  
 dose : 1 per day  
 
@@ -250,12 +252,13 @@ ingredients :
 * ([Omega3](https://pipiscrew.github.io/timeline/#/health/gut?id=histmanine)) Alpha-linolenic acid ([ALA](https://www.healthline.com/nutrition/3-types-of-omega-3)) 300mg (derived from chia seeds)
   * ALA precursor of EPA or DHA, chia seed oil is **not** a vegetable oil. Chia seeds are type of flowering plant, the extracted oil is rich in omega-3 fatty acids.
   * [proven](https://pipiscrew.github.io/timeline/#/health/inflammatory?id=omega-3) anti-inflammatory actions in inflammatory bowel disease, colitis, atopic dermatitis and epithelial cells.
-* Vitamin B1 0,22 mg</details>  
+* Vitamin B1 0,22 mg</div></details>  
 
 <details>
 <summary>
   :star: :star: :star: (probiotic) Optibac Everyday (Lactobacillus / Bifidobacterium / Lactococcus strains)</summary>
-
+<br/>
+<div style="margin-left:20px">
 per capsule : 5 billion CFU (coloning forming units)  
 dose : 1-2 capsules per day  
 
@@ -271,12 +274,13 @@ ingredients :
   * Bifidibacterium breve Rosell-70 (8,2 mg)
   * Bifidobacterium bifidum Rosell-71 (5,5 mg)
   * Lactococcus lactis Rosell-1058 (5,2 mg)
-* (prebiotic) Fructooligosaccharides (aka FOS) 88mg  ([proven](https://www.researchgate.net/publication/258149706) suppress toxic bacteria [[2](https://www.savant-health.com/blogs/wellness/fos-in-probiotics-good-or-bad)])</details>
+* (prebiotic) Fructooligosaccharides (aka FOS) 88mg  ([proven](https://www.researchgate.net/publication/258149706) suppress toxic bacteria [[2](https://www.savant-health.com/blogs/wellness/fos-in-probiotics-good-or-bad)])</div></details>
 
 <details>
 <summary>
  (probiotic) Optibac Everyday Extra (Lactobacillus / Bifidobacterium strains)</summary>
-  
+<br/>
+<div style="margin-left:20px">
 per capsule : 20 billion CFU (coloning forming units)  
 dose : 1-2 capsules per day  
 
@@ -289,13 +293,13 @@ ingredients :
   * Lactobacillus acidophilus NCFM (63,4 mg)
   * Lactobacillus paracasei Lpc-37 (37,43 mg)
   * Bifidobacterium lactis Bi-07 (31,14 mg)
-  * Bifidobacterium lactis Bl-04  (29,34 mg)</details>
+  * Bifidobacterium lactis Bl-04  (29,34 mg)</div></details>
 
   
 <details>
 <summary> :star: :star: :star: (probiotic) Optibac Everyday Max (Lactobacillus / Bifidobacterium strains)</summary>
-
-  
+<br/>
+<div style="margin-left:20px">
 per capsule : 75 billion CFU (coloning forming units)  
 dose : 1-2 capsules per day  
 
@@ -307,12 +311,13 @@ ingredients :
 * Live probiotic cultures 336 mg
   * Lactobacillus acidophilus NCFM (147,24 mg)
   * Bifidobacterium lactis Bl-04 (105,84 mg)
-  * Bifidobacterium lactis HN019 (83,01 mg)</details>
+  * Bifidobacterium lactis HN019 (83,01 mg)</div></details>
 
 <details>
 <summary>
 Optibac references</summary>
-  
+<br/>
+<div style="margin-left:20px">
 [Optibac - probiotics help with eczema](https://www.optibacprobiotics.com/uk/professionals/latest-research/general-health/do-probiotics-help-with-eczema)  
 
 ### Probiotics with antibiotics
@@ -328,7 +333,7 @@ find all together, on a product [Optibac - For Those On Antibiotics](https://www
 [Optibac - probiotics database](https://www.optibacprobiotics.com/uk/professionals/probiotics-database)  
 
 Optibac pill products :  
-For maximum potency **refrigerate** the product after opening. Do not remove the desiccant sachet from the glass jar and close the lid firmly after each use.</details>
+For maximum potency **refrigerate** the product after opening. Do not remove the desiccant sachet from the glass jar and close the lid firmly after each use.</div></details>
 
 -----  
 
