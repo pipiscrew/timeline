@@ -315,9 +315,10 @@ ingredients :
 
 <details>
 <summary>
-Optibac references</summary>
+Optibac references2</summary>
 <br/>
 <div style="margin-left:20px">
+
 [Optibac - probiotics help with eczema](https://www.optibacprobiotics.com/uk/professionals/latest-research/general-health/do-probiotics-help-with-eczema)  
 
 ### Probiotics with antibiotics
