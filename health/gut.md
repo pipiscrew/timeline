@@ -117,7 +117,7 @@ The following are discovered over the internet, all tried by myself, use it on y
 * (rebuild) `Quercetin` 500mg x 2 times / day ([suggested by](https://chriskresser.com/quercetin-heal-leaky-gut/)) - flavonoid found in high amounts in onions, kale and apples.
 * (rebuild+detox) `Aloe vera` gel - 50mg x 3 times / day ([proven by](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2763764/))
 * (detox) `Activated vegetable carbon` 3x200mg x 3 times / day (max 2 weeks) - stool may turn black is harmless.
-* (rebuild) `probiotics` - four products, see at the end of the page
+* (rebuild) `probiotics` - six products, see below
 * (rebuild) `CBD 10mg` - 15mg x 2 times per day - 1 dose first thing in the monring, 1 dose last thing before bed.
 * (rebuild) `Propolis` - 240mg per day ([1ml](https://www.apivita.com/en/organic-propolis-solution-food-supplement-10-10-60-267.html)).
 * (rebuild+detox) `Colostrum` - 400mg x 2 times per day.
