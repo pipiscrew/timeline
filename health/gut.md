@@ -106,9 +106,8 @@ for cereal & bread, choose only whole wheat.
 
   
 <details>
-<summary> just for the history95</summary>
-
-  
+<summary> just for the history96</summary>
+<br/>
 <div style="margin-left:20px">
 For starters, start ASAP getting `PREBIOTIC` of type `Psyllium` (always prefer capsule no powder) - 30min before lunch..  
 
@@ -236,7 +235,7 @@ Today, different medicinal substances, yoghurts and other dairy products are spe
 <details>
 <summary> 
   :star: :star: :star: (probiotic) Optibac For Cholesterol (Lactobacillus plantarum CECT 7527 / 7528 / 7529)</summary>
-  
+
 per sachet : 1.2 billion CFU (coloning forming units)  
 dose : 1 per day  
 
