@@ -106,7 +106,7 @@ for cereal & bread, choose only whole wheat.
 
   
 <details>
-<summary> just for the history9</summary>
+<summary> just for the history92</summary>
 
   
 For starters, start ASAP getting `PREBIOTIC` of type `Psyllium` (always prefer capsule no powder) - 30min before lunch..  
@@ -181,9 +181,8 @@ moreover on `Zonulin result` is a note suggesting [EnteroScan-GR](https://athens
 * other [Microbiome Diet & Therapy-GR](https://athenslab.gr/en/blog/gut-microbiota/microbiome-diet)
 * other [costs](https://eshop.athenslab.gr/exetaseis-prolipsis/enteroscan-elegxos-enterikou-mikroviomatos) see 'Δείγμα Απάντησης' or 'Τι Περιλαμβάνει'.  
 
-calicobrak suggests to make [GIMAP](https://www.diagnosticsolutionslab.com/tests/gi-map) examination.</p>  </details>
+calicobrak suggests to make [GIMAP](https://www.diagnosticsolutionslab.com/tests/gi-map) examination.</p></details>
 
-  
 <details>
 <summary> (probiotic) Alflorex (Bifidobacterium longum 35624)  </summary>
 
@@ -217,9 +216,8 @@ each capsule contains :
 * E464 Hydroxypropyl methyl cellulose
 * E470b Magnesium Stearate  
 
-> (2018) Bifidobacterium longum (including 35624) strains originally isolated from human **vaginal microbiota**  &nbsp;&nbsp;  [source](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5912743/)  </details>
+> (2018) Bifidobacterium longum (including 35624) strains originally isolated from human **vaginal microbiota**  &nbsp;&nbsp;  [source](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5912743/)</details>
 
-  
 <details>
 <summary> (probiotic) Natural Factors - Travel Biotic (Bifidobacterium longum BB536)</summary>
 
@@ -235,7 +233,6 @@ Today, different medicinal substances, yoghurts and other dairy products are spe
 * [ISURA verified](https://isura.ca/)  
 * [iHerb page](https://iherb.com/pr/natural-factors-travel-biotic-bb536-10-billion-60-vegetarian-capsules/71125)  </details>
 
-  
 <details>
 <summary> 
   :star: :star: :star: (probiotic) Optibac For Cholesterol (Lactobacillus plantarum CECT 7527 / 7528 / 7529)</summary>
