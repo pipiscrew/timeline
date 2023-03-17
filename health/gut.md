@@ -180,7 +180,9 @@ moreover on `Zonulin result` is a note suggesting [EnteroScan-GR](https://athens
 * other [Microbiome Diet & Therapy-GR](https://athenslab.gr/en/blog/gut-microbiota/microbiome-diet)
 * other [costs](https://eshop.athenslab.gr/exetaseis-prolipsis/enteroscan-elegxos-enterikou-mikroviomatos) see 'Δείγμα Απάντησης' or 'Τι Περιλαμβάνει'.  
 
-calicobrak suggests to make [GIMAP](https://www.diagnosticsolutionslab.com/tests/gi-map) examination.
+calicobrak suggests to make [GIMAP](https://www.diagnosticsolutionslab.com/tests/gi-map) examination.  
+
+-----  
 
 <details>
 <summary> (probiotic) Alflorex (Bifidobacterium longum 35624)</summary>
