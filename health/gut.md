@@ -104,11 +104,12 @@ for cereal & bread, choose only whole wheat.
 
 ## medicines
 
-misc
+misc  
 
 <details>
-<summary>  just for the history2  </summary>
-For starters, start ASAP getting `PREBIOTIC` of type `Psyllium` (always prefer capsule no powder) - 30min before lunch..
+<summary>  just for the history3  </summary>  
+    
+For starters, start ASAP getting `PREBIOTIC` of type `Psyllium` (always prefer capsule no powder) - 30min before lunch..  
 
 The following are discovered over the internet, all tried by myself, use it on your own risk...  
 * (rebuild) `L-Glutamine` 3g / day (or as [product](https://store.amymyersmd.com/products/leaky-gut-revive))
@@ -184,6 +185,7 @@ calicobrak suggests to make [GIMAP](https://www.diagnosticsolutionslab.com/tests
 
 <details>
 <summary> (probiotic) Alflorex (Bifidobacterium longum 35624)  </summary>
+
   
 per capsule : 1 billion CFU (coloning forming units)  
 dose : strictly one capsule per day  
@@ -250,8 +252,7 @@ ingredients :
 * ([Omega3](https://pipiscrew.github.io/timeline/#/health/gut?id=histmanine)) Alpha-linolenic acid ([ALA](https://www.healthline.com/nutrition/3-types-of-omega-3)) 300mg (derived from chia seeds)
   * ALA precursor of EPA or DHA, chia seed oil is **not** a vegetable oil. Chia seeds are type of flowering plant, the extracted oil is rich in omega-3 fatty acids.
   * [proven](https://pipiscrew.github.io/timeline/#/health/inflammatory?id=omega-3) anti-inflammatory actions in inflammatory bowel disease, colitis, atopic dermatitis and epithelial cells.
-* Vitamin B1 0,22 mg  
- </details>
+* Vitamin B1 0,22 mg  </details>  
 
   
 <details>
