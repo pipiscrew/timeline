@@ -126,6 +126,8 @@ The following are discovered over the internet, all tried by myself, use it on y
 
 -----  
 
+### probiotics
+
 <details>
 <summary> (probiotic) Alflorex (Bifidobacterium longum 35624)</summary>
 <br/>
