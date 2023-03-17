@@ -104,7 +104,7 @@ for cereal & bread, choose only whole wheat.
 
 ## medicines
 
-misc </summary>
+misc
 
 <details>
 <summary>  just for the history  </summary>
@@ -231,9 +231,10 @@ Today, different medicinal substances, yoghurts and other dairy products are spe
 * [ISURA verified](https://isura.ca/)  
 * [iHerb page](https://iherb.com/pr/natural-factors-travel-biotic-bb536-10-billion-60-vegetarian-capsules/71125)  </details>
 
+  
 <details>
 <summary> 
-## :star: :star: :star: (probiotic) Optibac For Cholesterol (Lactobacillus plantarum CECT 7527 / 7528 / 7529)</summary>
+  :star: :star: :star: (probiotic) Optibac For Cholesterol (Lactobacillus plantarum CECT 7527 / 7528 / 7529)</summary>
   
 per sachet : 1.2 billion CFU (coloning forming units)  
 dose : 1 per day  
@@ -255,7 +256,7 @@ ingredients :
   
 <details>
 <summary>
-## :star: :star: :star: (probiotic) Optibac Everyday (Lactobacillus / Bifidobacterium / Lactococcus strains)</summary>
+  :star: :star: :star: (probiotic) Optibac Everyday (Lactobacillus / Bifidobacterium / Lactococcus strains)</summary>
 
 per capsule : 5 billion CFU (coloning forming units)  
 dose : 1-2 capsules per day  
@@ -277,7 +278,7 @@ ingredients :
    
 <details>
 <summary>
-## (probiotic) Optibac Everyday Extra (Lactobacillus / Bifidobacterium strains)</summary>
+ (probiotic) Optibac Everyday Extra (Lactobacillus / Bifidobacterium strains)</summary>
   
 per capsule : 20 billion CFU (coloning forming units)  
 dose : 1-2 capsules per day  
@@ -296,7 +297,7 @@ ingredients :
   
 <details>
 <summary>
-## :star: :star: :star: (probiotic) Optibac Everyday Max (Lactobacillus / Bifidobacterium strains)</summary>
+  :star: :star: :star: (probiotic) Optibac Everyday Max (Lactobacillus / Bifidobacterium strains)</summary>
   
 per capsule : 75 billion CFU (coloning forming units)  
 dose : 1-2 capsules per day  
@@ -314,7 +315,7 @@ ingredients :
   
 <details>
 <summary>
-## Optibac references</summary>
+Optibac references</summary>
 
 [Optibac - probiotics help with eczema](https://www.optibacprobiotics.com/uk/professionals/latest-research/general-health/do-probiotics-help-with-eczema)  
 
