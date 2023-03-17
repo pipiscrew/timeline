@@ -221,6 +221,7 @@ each capsule contains :
   
 <details>
 <summary> (probiotic) Natural Factors - Travel Biotic (Bifidobacterium longum BB536)</summary>
+
   
 per capsule : 10 billion CFU (coloning forming units)  
 dose : 1-6 capsules per day  
@@ -293,11 +294,11 @@ ingredients :
   * Lactobacillus acidophilus NCFM (63,4 mg)
   * Lactobacillus paracasei Lpc-37 (37,43 mg)
   * Bifidobacterium lactis Bi-07 (31,14 mg)
-  * Bifidobacterium lactis Bl-04  (29,34 mg)   </details>
+  * Bifidobacterium lactis Bl-04  (29,34 mg)  </details>
 
   
 <details>
-<summary>
+<summary> 
   :star: :star: :star: (probiotic) Optibac Everyday Max (Lactobacillus / Bifidobacterium strains)</summary>
   
 per capsule : 75 billion CFU (coloning forming units)  
@@ -317,7 +318,7 @@ ingredients :
 <details>
 <summary>
 Optibac references</summary>
-
+  
 [Optibac - probiotics help with eczema](https://www.optibacprobiotics.com/uk/professionals/latest-research/general-health/do-probiotics-help-with-eczema)  
 
 ### Probiotics with antibiotics
