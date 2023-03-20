@@ -536,6 +536,9 @@ According to a risk assessment, based on consumption data and the value of toxic
 * (2023) - [The effects of pyrethroids on the mitochondria](https://doi.org/10.1016/B978-0-323-88462-4.00019-5)
 * (2023) - [The effect of mercury on the mitochondria](https://doi.org/10.1016/B978-0-323-88462-4.00017-1)
 * (2023) - [The effect of aluminum on mitochondrial dysfunctions](https://doi.org/10.1016/B978-0-323-88462-4.00007-9) &nbsp; [[mirror](https://www.dropbox.com/s/rz29hzjsontinew/Mitochondrial%20Intoxication.pdf?dl=1)]  
+* (2020) - [Hydrogen Peroxide Shields The Gut Lining From Bacteria](https://www.labroots.com/trending/microbiology/19394/hydrogen-peroxide-shields-gut-lining-bacteria)
+  * [edu](https://health.ucdavis.edu/news/headlines/hydrogen-peroxide-keeps-gut-bacteria-away-from-the-colon-lining-/2020/12)
+  * [cell](http://dx.doi.org/10.1016/j.chom.2020.10.009)  
 
 -----  
 
