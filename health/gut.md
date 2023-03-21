@@ -536,9 +536,6 @@ According to a risk assessment, based on consumption data and the value of toxic
 * (2023) - [The effects of pyrethroids on the mitochondria](https://doi.org/10.1016/B978-0-323-88462-4.00019-5)
 * (2023) - [The effect of mercury on the mitochondria](https://doi.org/10.1016/B978-0-323-88462-4.00017-1)
 * (2023) - [The effect of aluminum on mitochondrial dysfunctions](https://doi.org/10.1016/B978-0-323-88462-4.00007-9) &nbsp; [[mirror](https://www.dropbox.com/s/rz29hzjsontinew/Mitochondrial%20Intoxication.pdf?dl=1)]  
-* (2020) - [Hydrogen Peroxide Shields The Gut Lining From Bacteria](https://www.labroots.com/trending/microbiology/19394/hydrogen-peroxide-shields-gut-lining-bacteria)
-  * [edu](https://health.ucdavis.edu/news/headlines/hydrogen-peroxide-keeps-gut-bacteria-away-from-the-colon-lining-/2020/12)
-  * [cell](http://dx.doi.org/10.1016/j.chom.2020.10.009)  
 
 -----  
 
@@ -620,4 +617,7 @@ author notes
 * [Ενδοσκοπική Κάψουλα](https://www.hygeia.gr/endoskopiki-kapsoyla-i-monadiki-mi-epemvatiki-methodos-apeikonisis-kai-diereynisis-toy-leptoy-enteroy-2) &nbsp; [[2](https://www.advanced-endoscopy.gr/?p=48)] &nbsp; [[producer](https://www.medtronic.com/covidien/en-us/products/capsule-endoscopy/pillcam-sb3-system.html)]
 * FEB 2023 [NYTimes - The Wild World Inside Your Gut](https://www.nytimes.com/interactive/2023/02/22/well/eat/gut-microbiome-health.html)
 * MAR 2023 [Fifteen things to know about human gut microbiota](https://www.irishtimes.com/health/your-wellness/2023/03/05/fifteen-things-to-know-about-your-gut/)
-* JUL 2021 [How to Optimize Your Brain-Body Function & Health](https://www.youtube.com/watch?v=rW9QKc-iFoY) explaining [Gut-microbiota-targeted diets modulate human immune status](https://doi.org/10.1016/j.cell.2021.06.019)  
+* JUL 2021 [How to Optimize Your Brain-Body Function & Health](https://www.youtube.com/watch?v=rW9QKc-iFoY) explaining [Gut-microbiota-targeted diets modulate human immune status](https://doi.org/10.1016/j.cell.2021.06.019)
+* (2020) - [Hydrogen Peroxide Shields The Gut Lining From Bacteria](https://www.labroots.com/trending/microbiology/19394/hydrogen-peroxide-shields-gut-lining-bacteria)
+  * [edu](https://health.ucdavis.edu/news/headlines/hydrogen-peroxide-keeps-gut-bacteria-away-from-the-colon-lining-/2020/12)
+  * [cell](http://dx.doi.org/10.1016/j.chom.2020.10.009)  
