@@ -27,7 +27,7 @@ To start with specific profile, `chrome.exe --user-data-dir=c:\foo`
 * [Mozilla.Firefox](https://www.mozilla.org/en-US/firefox/all/#product-desktop-release) - [all versions](https://archive.mozilla.org/pub/firefox/releases/)
   * [Developer Edition](https://www.mozilla.org/en-US/firefox/developer/)
 * Unofficial windows, [IceCat](https://sites.google.com/view/icecat-win) for ultra privacy. The official Linux [here](https://www.gnu.org/software/gnuzilla/).
-* [LibreWolf](https://librewolf.net/) - focused on privacy, security and freedom.
+* [LibreWolf](https://librewolf.net/) - focused on privacy, security and freedom. [portable](https://gitlab.com/librewolf-community/browser/windows/-/releases)
 * [Pulse](https://pulsebrowser.app/) - Hyper minimalistic UI and built-in uBlock Origin.
 * [waterfox](https://www.waterfox.net/) - [waterfox web browser sold to System1](https://www.waterfox.net/blog/waterfox-has-joined-system1/)
 * [Dot Browser](https://www.dothq.co/) – privacy-conscious web browser
