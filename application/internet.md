@@ -42,6 +42,7 @@ To load temporary addon or to see what is loaded goto `about:debugging` ([ref](h
 
 [Qutebrowser](https://www.qutebrowser.org/) - A keyboard-driven, vim-like browser based on Python and Qt.  
 
+[AmIUnique](https://amiunique.org/) - see and compare you own fingerprint.  
 
 both **IceCat** & **Brave** & **Firefox w/ arkenfox** when restarted getting new fingerprint.  
 
@@ -55,9 +56,17 @@ Tested with :
   --
   * [WebRTC Local IP Leak Test](https://niespodd.github.io/webrtc-local-ip-leak/) - Chromium based browsers leak user local IP via WebRTC foundation attribute  
 
-test browser [permissions](https://permission.site/).
+test browser [permissions](https://permission.site/).  
 
-[See what JavaScript commands get injected through an in-app browser](https://krausefx.com/blog/announcing-inappbrowsercom-see-what-javascript-commands-get-executed-in-an-in-app-browser) [[2](https://inappbrowser.com/)]
+Firefox [config](https://support.mozilla.org/en-US/kb/firefox-protection-against-fingerprinting) :  
+> about:config > privacy.resistFingerprinting  
+
+Chrome start with 
+> chrome.exe --disable-reading-from-canvas  
+
+[See what JavaScript commands get injected through an in-app browser](https://krausefx.com/blog/announcing-inappbrowsercom-see-what-javascript-commands-get-executed-in-an-in-app-browser) [[2](https://inappbrowser.com/)]  
+
+[Web fingerprinting is worse than I thought](https://www.bitestring.com/posts/2023-03-19-web-fingerprinting-is-worse-than-I-thought.html)  
 
 
 ----------

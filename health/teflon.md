@@ -39,3 +39,5 @@ and also blood tests, for 'cookware' derived :
 * PFAS  
 
 `PFOA` can be measured in blood for years after exposure. PFOA levels **decline** in blood naturally by about half every 2-4 years, assuming there is no additional exposure. [source](https://www.health.ny.gov/environmental/investigations/hoosick/docs/pfoa_blood_sampling_q_and_a_9_2_16.pdf)  
+
+* [europarl.Removing ‘forever chemicals’ from everyday consumer products](https://www.europarl.europa.eu/doceo/document/E-9-2023-000898_EN.html) - Study which revealed that perfluorocarbons (PFC) as well as per- and polyfluoroalkyl substances (PFAS) are highly present in everyday consumer products.

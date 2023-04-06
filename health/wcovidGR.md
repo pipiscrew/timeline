@@ -52,6 +52,11 @@
 
 &nbsp;
 ## others
-17/09/2021 - [Μαρια Γιαννουλακη - το παιδί μου έχει σκλήρυνση κατά πλάκας](https://www.mixcloud.com/Focusfm/μαρια-γιαννουλακη-170921)  
-21/10/2021 - [ΚΥΠΡΟΣ με το δικηγόρο Αλέξη Στυλιανού - ΝΙΚΟΣ ΑΝΤΩΝΙΑΔΗΣ & ΔΗΜΗΤΡΗΣ ΠΟΝΤΙΚΑΣ](https://www.youtube.com/watch?v=Lq48wjPTDFM)  
-25/10/2021 - [Πώς η Pfizer ελέγχει, εκβιάζει όλες τις κυβερνήσεις της Δύσης](https://kanenazori.com/2021/10/25/i_pfizer_elegxei_ki_ekbiazei/)
+* 17/09/2021 - [Μαρια Γιαννουλακη - το παιδί μου έχει σκλήρυνση κατά πλάκας](https://www.mixcloud.com/Focusfm/μαρια-γιαννουλακη-170921)  
+* 21/10/2021 - [ΚΥΠΡΟΣ με το δικηγόρο Αλέξη Στυλιανού - ΝΙΚΟΣ ΑΝΤΩΝΙΑΔΗΣ & ΔΗΜΗΤΡΗΣ ΠΟΝΤΙΚΑΣ](https://www.youtube.com/watch?v=Lq48wjPTDFM)  
+* 25/10/2021 - [Πώς η Pfizer ελέγχει, εκβιάζει όλες τις κυβερνήσεις της Δύσης](https://kanenazori.com/2021/10/25/i_pfizer_elegxei_ki_ekbiazei/)
+
+## 2023
+* 10/03/2023 - [Nioland](https://rumble.com/c/NIOLAND) - ITA episodes  
+* 19/03/2023 - [Sponsored by Pfizer](https://twitter.com/wolsned/status/1637398474856472576)
+* 28/03/2023 - [ΠαΊκοπουλος εντολή για αυτόφωρο](https://youtu.be/RQZnm3iWHYo?t=51710)  
