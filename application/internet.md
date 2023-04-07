@@ -60,6 +60,7 @@ test browser [permissions](https://permission.site/).
 
 Firefox [config](https://support.mozilla.org/en-US/kb/firefox-protection-against-fingerprinting) :  
 > about:config > privacy.resistFingerprinting  
+> about:config > privacy.resistFingerprinting.autoDeclineNoUserInputCanvasPrompts  
 
 Chrome start with 
 > chrome.exe --disable-reading-from-canvas  
