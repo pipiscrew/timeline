@@ -141,9 +141,12 @@ If you don't have **time** to thaw meat in the refrigerator, you can also use th
 
 To thaw meat using the cold water method, place the meat in a leak-proof plastic bag and submerge it in cold water, changing the water every 30 minutes until the meat is thawed. To thaw meat in the microwave, use the defrost setting and follow the microwave directions.  
 
-----------  
+
 
 credits @ Boris [BG]  
 
+----------  
+
  
- [How to gain muscle mass on a vegan diet?](https://markmukhin.com/texts/vegan-diet101/)
+ * [How to gain muscle mass on a vegan diet?](https://markmukhin.com/texts/vegan-diet101/)
+ * [normal procedure undertaken by food processing facilities](https://old.reddit.com/r/Damnthatsinteresting/comments/12fhbst/injecting_meat_if_youve_not_seen_this_before_its/)

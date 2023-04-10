@@ -149,7 +149,7 @@
 ## video flix trend
 * [FlixTor](https://flixtor.to/) - can watch only new movies / episodes. Older than 3 months you must pay.
 * [ertFlix](https://www.ertflix.gr/)  
-* [stremio](https://www.stremio.com/)  
+* [stremio](https://www.stremio.com/)  must [install](https://torrentio.strem.fun/configure) via strem [protocol](stremio://torrentio.strem.fun/manifest.json) - paste into stremio search bar
 * [Tubi](https://tubi.tv/) - for non EU countries  
 * [35mm](https://35mm.online/) - Classic Polish films  
 * [sportLemonTV](https://sportlemons.net/) - Live Sport Streams  
@@ -294,6 +294,7 @@
 * [Quizizz](https://quizizz.com/)
 * [Kahoot!](https://kahoot.com/)
 * [TUD](https://dud-poll.inf.tu-dresden.de/)
+* [EasyPolls](https://www.easypolls.net)
 
 ## misc
 * [Earthquakes](https://www.emsc-csem.org/Earthquake/)

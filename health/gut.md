@@ -621,4 +621,5 @@ author notes
 * (2020) - [Hydrogen Peroxide Shields The Gut Lining From Bacteria](https://www.labroots.com/trending/microbiology/19394/hydrogen-peroxide-shields-gut-lining-bacteria)
   * [edu](https://health.ucdavis.edu/news/headlines/hydrogen-peroxide-keeps-gut-bacteria-away-from-the-colon-lining-/2020/12)
   * [cell](http://dx.doi.org/10.1016/j.chom.2020.10.009)  
-* MAR (2023) [Immune system cells in the gut linked to stress-induced depression](https://www.hopkinsmedicine.org/news/newsroom/news-releases/new-evidence-immune-system-cells-in-the-gut-linked-to-stress-induced-depression)
+* MAR 2023 [Immune system cells in the gut linked to stress-induced depression](https://www.hopkinsmedicine.org/news/newsroom/news-releases/new-evidence-immune-system-cells-in-the-gut-linked-to-stress-induced-depression)
+* JUN 2022 [Electromagnetic radiation within bacterial communities](https://newsvoice.se/2022/06/bacteria-olle-johansson/)
