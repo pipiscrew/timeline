@@ -53,6 +53,8 @@
 	* [articles](/health/articles.md)
 	* [supplement](/health/supplement.md)
 		* [vitamania](/health/supplementVitamania.md)
-	* [covid](/health/wcovid.md)
-	* [covidGR](/health/wcovidGR.md)
 	* [teflon](/health/teflon.md)
+* [Stories]
+	* [covid](/stories/wcovid.md)
+	* [covidGR](/stories/wcovidGR.md)
+	* [greece](/stories/greece.md)

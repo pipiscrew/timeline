@@ -19,6 +19,7 @@
 * [Unreal Commander](https://x-diesel.com/)
 * [Q-Dir](http://www.softwareok.com/?seite=freeware/Q-Dir)
 * [OneCommander](http://onecommander.com)  
+* [Double Commander](https://doublecmd.sourceforge.io/)  
 
 ## Compare
 * [Scooter.Beyond Compare](https://www.scootersoftware.com/)
