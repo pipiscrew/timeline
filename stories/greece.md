@@ -15,5 +15,4 @@
 ## 10/04/2023
 * Focus - Κοινοβουλευτική δικτατορία (Κων/νος Βαθιώτης, καθ. ποινικού δικαίου)
 > **Βενιζέλος** : δεν υπάρχει κανονικότητα σε κανένα επίπεδο, αλλάζει ο κόσμος λόγω AI και εγκληματικής κρίσης.  
-**Βορίδης** : σε δημοκρατικά πολιτεύματα νομοθετεί η βουλή και όχι ο δικαστής. [🎬 video](https://youtu.be/LeKg27J4124?t=577) / [radio](https://focusfm.gr/konstantinos-vathiotis-an-i-ypothesi-tzanerikoy-einai-stimeni-einai-i-apodeixi-oti-systima-psachnei-enan-elegchomeno-tsopani/)
-
+> **Βορίδης** : σε δημοκρατικά πολιτεύματα νομοθετεί η βουλή και όχι ο δικαστής. [🎬 video](https://youtu.be/LeKg27J4124?t=577) / [radio](https://focusfm.gr/konstantinos-vathiotis-an-i-ypothesi-tzanerikoy-einai-stimeni-einai-i-apodeixi-oti-systima-psachnei-enan-elegchomeno-tsopani/)  
