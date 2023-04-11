@@ -1,4 +1,9 @@
 ## 11/04/2023
+* [Πόσο ελληνικό είναι το αρνάκι του Πάσχα;](https://www.datajournalists.co.uk/2023/04/11/poso-elliniko-einai-to-arnaki-toy-pascha/)
+* [Ωραία τους έπαιξαν τους ρόλους τους ΟΛΟΙ… και οι ψηφίσαντες και οι… “διαμαρτυρόμενοι”](https://attikanea.info/%CE%BC%CF%80%CF%81%CE%AC%CE%B2%CE%BF-%CF%81%CE%B5-%CE%BF%CE%BB%CE%BF%CE%B9-%CF%88%CE%B7%CF%86%CE%B9%CF%83%CE%B1%CE%BD%CF%84%CE%B5%CF%83-%CE%BA%CE%B1%CE%B9-%CE%BC%CE%B7-%CF%80%CE%B1%CE%B9%CE%BE/)
+* [Τα πρώτα σημάδια κρίσης στην αγορά ακινήτων της Ευρώπης](https://www.kathimerini.gr/economy/562366996/ta-prota-simadia-krisis-stin-agora-akiniton-tis-eyropis/)
+* [Ηλίας Κασιδιάρης: Πειθαρχικός έλεγχος για τις αναρτήσεις μέσα από τη φυλακή](https://www.kathimerini.gr/politics/562368274/ilias-kasidiaris-peitharchikos-elegchos-gia-tis-anartiseis-mesa-apo-ti-fylaki/)
+* [Εκλογές: Γυναίκες το 42% στις λίστες ΠΑΣΟΚ](https://www.kathimerini.gr/politics/562366447/ekloges-gynaikes-to-42-stis-listes-pasok/)
 * [Πλαφόν στα επιτόκια: Οι ανακοινώσεις των τραπεζών – Μπαίνουν και τα κόκκινα στεγαστικά των funds](https://www.kathimerini.gr/economy/562368112/plafon-sta-epitokia-oi-anakoinoseis-ton-trapezon-mpainoyn-kai-ta-kokkina-stegastika-ton-funds/)
 * [Βενιζέλος κατά Τζανερρίκου: "Πρωτοφανές, προσπάθησε να επιβάλει την άποψή του"](https://radar.gr/article/venizelos-kata-tzanerrikou-protofanes-prospathise-na-epivalei-tin-apopsi-tou-syntagmatiki-i-rythmisi-gia-kasidiari)
 * [ITA - Οι παράνομοι μετανάστες ξεπέρασαν το 10% του πληθυσμού της χώρας, δηλαδή σχεδόν 5,5 εκατ. οι οποίοι είναι κυρίως Αφρικανοί](https://www.makeleio.gr/%ce%b5%cf%80%ce%b9%ce%ba%ce%b1%ce%b9%cf%81%ce%bf%cf%84%ce%b7%cf%84%ce%b1/%ce%97-%ce%99%ce%a4%ce%91%ce%9b%ce%99%ce%91-%ce%9a%ce%97%ce%a1%ce%a5%ce%9e%ce%95-%ce%9a%ce%91%ce%a4%ce%91%ce%a3%ce%a4%ce%91%ce%a3%ce%97-%ce%95%ce%9a%ce%a4%ce%91%ce%9a%ce%a4%ce%97%ce%a3-%ce%91%ce%9d/)
@@ -16,3 +21,23 @@
 * Focus - Κοινοβουλευτική δικτατορία (Κων/νος Βαθιώτης, καθ. ποινικού δικαίου)
 > **Βενιζέλος** : δεν υπάρχει κανονικότητα σε κανένα επίπεδο, αλλάζει ο κόσμος λόγω AI και εγκληματικής κρίσης.  
 > **Βορίδης** : σε δημοκρατικά πολιτεύματα νομοθετεί η βουλή και όχι ο δικαστής. [🎬 video](https://youtu.be/LeKg27J4124?t=577) / [radio](https://focusfm.gr/konstantinos-vathiotis-an-i-ypothesi-tzanerikoy-einai-stimeni-einai-i-apodeixi-oti-systima-psachnei-enan-elegchomeno-tsopani/)  
+* [Βάζουν λουκέτο σε άρθρα του Συντάγματος, με την ΝΤΡΟΠολογία Κασιδιάρη](https://attikanea.info/%CE%B2%CE%AC%CE%B6%CE%BF%CF%85%CE%BD-%CE%BB%CE%BF%CF%85%CE%BA%CE%AD%CF%84%CE%BF-%CF%83%CE%B5-%CE%AC%CF%81%CE%B8%CF%81%CE%B1-%CF%84%CE%BF%CF%85-%CF%83%CF%85%CE%BD%CF%84%CE%AC%CE%B3%CE%BC%CE%B1%CF%84/)
+* [Έτσι κάνουν νοθεία στις κάλπες](https://attikanea.info/%CF%83%CF%84%CE%BF%CE%B9%CF%87%CE%B5%CE%B9%CE%B1-%CF%83%CE%BF%CE%BA-%CE%B5%CF%84%CF%83%CE%B9-%CE%BA%CE%B1%CE%BD%CE%BF%CF%85%CE%BD-%CF%84%CE%B7%CE%BD-%CE%BD%CE%BF%CE%B8%CE%B5%CE%B9%CE%B1-1-8-%CE%B5/)
+
+## 09/04/2023
+* [Από την Olivetti στο ChatGPT](https://www.kathimerini.gr/opinion/562363075/apo-tin-olivetti-sto-chatgpt/)
+
+## 08/04/2023
+* [Η Διαθήκη του Άκη Τσοχατζόπουλο από τον τάφο, καίει Μητσοτάκη και ΠΑΣΟΚ](https://attikanea.info/%CE%B7-%CE%B4%CE%B9%CE%B1%CE%B8%CE%AE%CE%BA%CE%B7-%CF%84%CE%BF%CF%85-%CE%AC%CE%BA%CE%B7-%CF%84%CF%83%CE%BF%CF%87%CE%B1%CF%84%CE%B6%CF%8C%CF%80%CE%BF%CF%85%CE%BB%CE%BF-%CE%B1%CF%80%CF%8C-%CF%84%CE%BF/)
+* [10 φορές που ο ΣΥΡΙΖΑ είπε ότι «θα σκίσει το μνημόνιο»](https://www.athensvoice.gr/epikairotita/politiki-oikonomia/97392/10-fores-poy-o-syriza-eipe-oti-tha-skisei-mnimonio/)
+
+## 07/04/2023
+* [Αυγά από τη Βουλγαρία θα “έσπρωχναν” στην πασχαλιάτικη αγορά](https://www.makeleio.gr/%CE%B5%CF%80%CE%B9%CE%BA%CE%B1%CE%B9%CF%81%CE%BF%CF%84%CE%B7%CF%84%CE%B1/%CE%91%CF%85%CE%B3%CE%AC-%CE%B1%CF%80%CF%8C-%CF%84%CE%B7-%CE%92%CE%BF%CF%85%CE%BB%CE%B3%CE%B1%CF%81%CE%AF%CE%B1-%CE%B8%CE%B1-%CE%AD%CF%83%CF%80%CF%81%CF%89%CF%87%CE%BD%CE%B1%CE%BD-%CF%83%CF%84/)
+* [Στα 23 τρισ, δολάρια το συνολικό χρέος της Κίνας](https://www.kathimerini.gr/economy/562360675/sta-23-tris-dolaria-ektoxeythike-to-synoliko-chreos-tis-kinas/)
+
+## 06/04/2023
+* [Τριτοκοσμική χώρα η Ελλάδα με την σφραγίδα του Στέιτ Ντιπάρτμεντ](https://attikanea.info/%CF%84%CF%81%CE%B9%CF%84%CE%BF%CE%BA%CE%BF%CF%83%CE%BC%CE%B9%CE%BA%CE%AE-%CF%87%CF%8E%CF%81%CE%B1-%CE%B7-%CE%B5%CE%BB%CE%BB%CE%AC%CE%B4%CE%B1-%CE%BC%CE%B5-%CF%84%CE%B7%CE%BD-%CF%83%CF%86%CF%81%CE%B1/) [[2](https://www.state.gov/reports/2022-country-reports-on-human-rights-practices/greece/)]
+* [Νεοφεουδαρχία](https://attikanea.info/%CE%BD%CE%B5%CE%BF%CF%86%CE%B5%CE%BF%CF%85%CE%B4%CE%B1%CF%81%CF%87%CE%AF%CE%B1-%CE%B7-%CF%83%CE%BA%CE%BB%CE%B1%CE%B2%CE%BF%CF%80%CE%BF%CE%AF%CE%B7%CF%83%CE%B7-%CF%84%CF%89%CE%BD-%CE%BB%CE%B1%CF%8E/)
+
+## 01/04/2023
+* [Το Καρτέλ της Ομοσπονδιακής Τράπεζας - Οκτώ Οικογένειες Κατέχουν τις ΗΠΑ το BIS, το ΔΝΤ και την Παγκόσμια Τράπεζα](https://apollodoros.substack.com/p/bis-f38)
