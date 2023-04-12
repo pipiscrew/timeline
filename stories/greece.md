@@ -1,5 +1,6 @@
 ## 12/04/2023
-* [Γερμανία: Αξιωματούχοι κατάσχεσαν φορτηγό με μαγειρεμένες νυχτερίδες κοντά στα σύνορα με το Βέλγιο](https://www.kathimerini.gr/world/562369498/germania-axiomatoychoi-kataschesan-fortigo-me-mageiremenes-nychterides-konta-sta-synora-me-to-velgio/)
+* [Εύα Καϊλή - Αποφυλακίζεται με βραχιολάκι](https://www.kathimerini.gr/world/562369828/apofylakizetai-i-eya-kaili-me-vrachiolaki/)
+* [Γερμανία - Αξιωματούχοι κατάσχεσαν φορτηγό με μαγειρεμένες νυχτερίδες κοντά στα σύνορα με το Βέλγιο](https://www.kathimerini.gr/world/562369498/germania-axiomatoychoi-kataschesan-fortigo-me-mageiremenes-nychterides-konta-sta-synora-me-to-velgio/)
 * [Άδωνις - εξαπάτηση των κτηνοτρόφων με το Καλάθι του Πάσχα, έστησε καρτέλ](https://www.makeleio.gr/%ce%b5%ce%be%cf%89%cf%86%cf%85%ce%bb%ce%bb%ce%bf/%ce%9a%ce%a4%ce%97%ce%9d%ce%9f%ce%a4%ce%a1%ce%9f%ce%a6%ce%9f%ce%99-%ce%9a%ce%91%ce%99-%ce%9a%ce%a1%ce%95%ce%9f%ce%a0%ce%a9%ce%9b%ce%95%ce%a3-%ce%a3%ce%a6%ce%91%ce%96%ce%9f%ce%a5%ce%9d-%ce%a3/)
 * [Χρήστος Τζανερίκος - κυβερνητικοί παράγοντες του ζήτησαν να βοηθήσει στον αποκλεισμό του κόμματος ΕΛΛΗΝΕΣ](https://thepressproject.gr/o-tzanerikos-katangellei-oti-i-kyvernisi-tou-prosfere-antallagmata-an-apekleie-to-komma-kasidiari/) [[2](https://ellhnes.net/vomva-apo-christo-tzaneriko-mou-zitisan-na-kopso-tous-ellines-kai-na-me-ftiaxoun-se-arches-kyvernitikoi-paragontes-me-piesan/)]
   * [ΝΔ - Δεν υπήρξε καμία παρέμβαση από την κυβέρνηση στη Δικαιοσύνη](https://www.kathimerini.gr/politics/562369615/oikonomoy-gia-diloseis-tzanerikoy-den-ypirxe-kamia-paremvasi-apo-tin-kyvernisi-sti-dikaiosyni/)
@@ -12,6 +13,7 @@
 * [Ωραία τους έπαιξαν τους ρόλους τους ΟΛΟΙ… και οι ψηφίσαντες και οι… “διαμαρτυρόμενοι”](https://attikanea.info/%CE%BC%CF%80%CF%81%CE%AC%CE%B2%CE%BF-%CF%81%CE%B5-%CE%BF%CE%BB%CE%BF%CE%B9-%CF%88%CE%B7%CF%86%CE%B9%CF%83%CE%B1%CE%BD%CF%84%CE%B5%CF%83-%CE%BA%CE%B1%CE%B9-%CE%BC%CE%B7-%CF%80%CE%B1%CE%B9%CE%BE/)
 * [Τα πρώτα σημάδια κρίσης στην αγορά ακινήτων της Ευρώπης](https://www.kathimerini.gr/economy/562366996/ta-prota-simadia-krisis-stin-agora-akiniton-tis-eyropis/)
 * [Ηλίας Κασιδιάρης: Πειθαρχικός έλεγχος για τις αναρτήσεις μέσα από τη φυλακή](https://www.kathimerini.gr/politics/562368274/ilias-kasidiaris-peitharchikos-elegchos-gia-tis-anartiseis-mesa-apo-ti-fylaki/)
+  * [12/04] [Αναβλήθηκε το πειθαρχικό συμβούλιο για τις αναρτήσεις μέσα από τη φυλακή](https://www.kathimerini.gr/society/562369792/kasidiaris-anavlithike-to-peitharchiko-symvoylio-gia-tis-anartiseis-mesa-apo-ti-fylaki/)
 * [Εκλογές: Γυναίκες το 42% στις λίστες ΠΑΣΟΚ](https://www.kathimerini.gr/politics/562366447/ekloges-gynaikes-to-42-stis-listes-pasok/)
 * [Πλαφόν στα επιτόκια: Οι ανακοινώσεις των τραπεζών – Μπαίνουν και τα κόκκινα στεγαστικά των funds](https://www.kathimerini.gr/economy/562368112/plafon-sta-epitokia-oi-anakoinoseis-ton-trapezon-mpainoyn-kai-ta-kokkina-stegastika-ton-funds/)
 * [Βενιζέλος κατά Τζανερρίκου: "Πρωτοφανές, προσπάθησε να επιβάλει την άποψή του"](https://radar.gr/article/venizelos-kata-tzanerrikou-protofanes-prospathise-na-epivalei-tin-apopsi-tou-syntagmatiki-i-rythmisi-gia-kasidiari)
