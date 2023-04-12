@@ -51,4 +51,7 @@
 * [Νεοφεουδαρχία](https://attikanea.info/%CE%BD%CE%B5%CE%BF%CF%86%CE%B5%CE%BF%CF%85%CE%B4%CE%B1%CF%81%CF%87%CE%AF%CE%B1-%CE%B7-%CF%83%CE%BA%CE%BB%CE%B1%CE%B2%CE%BF%CF%80%CE%BF%CE%AF%CE%B7%CF%83%CE%B7-%CF%84%CF%89%CE%BD-%CE%BB%CE%B1%CF%8E/)
 
 ## 01/04/2023
-* [Το Καρτέλ της Ομοσπονδιακής Τράπεζας - Οκτώ Οικογένειες Κατέχουν τις ΗΠΑ το BIS, το ΔΝΤ και την Παγκόσμια Τράπεζα](https://apollodoros.substack.com/p/bis-f38)
+* [Το Καρτέλ της Ομοσπονδιακής Τράπεζας - Οκτώ Οικογένειες Κατέχουν τις ΗΠΑ το BIS, το ΔΝΤ και την Παγκόσμια Τράπεζα](https://apollodoros.substack.com/p/bis-f38)  
+
+
+από την ταινία 'Όλα είναι δρόμος` - [ΡΙΧΤO ΗΛΙΑ....ΗΛΙΑ ΡΙΧΤΟ...!!!!](https://www.youtube.com/watch?v=8saMzMeUoI0)  
