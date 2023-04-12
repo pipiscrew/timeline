@@ -1,3 +1,8 @@
+## 12/04/2023
+* [Άδωνις - εξαπάτηση των κτηνοτρόφων με το Καλάθι του Πάσχα, έστησε καρτέλ](https://www.makeleio.gr/%ce%b5%ce%be%cf%89%cf%86%cf%85%ce%bb%ce%bb%ce%bf/%ce%9a%ce%a4%ce%97%ce%9d%ce%9f%ce%a4%ce%a1%ce%9f%ce%a6%ce%9f%ce%99-%ce%9a%ce%91%ce%99-%ce%9a%ce%a1%ce%95%ce%9f%ce%a0%ce%a9%ce%9b%ce%95%ce%a3-%ce%a3%ce%a6%ce%91%ce%96%ce%9f%ce%a5%ce%9d-%ce%a3/)
+* [Χρήστος Τζανερίκος - κυβερνητικοί παράγοντες του ζήτησαν να βοηθήσει στον αποκλεισμό του κόμματος Κασιδιάρη](https://www.makeleio.gr/%ce%b5%ce%be%cf%89%cf%86%cf%85%ce%bb%ce%bb%ce%bf/%ce%92%ce%9f%ce%9c%ce%92%ce%91-%ce%9f-%ce%a4%ce%96%ce%91%ce%9d%ce%95%ce%a1%ce%99%ce%9a%ce%9f%ce%a3-%ce%a1%ce%99%ce%a7%ce%9d%ce%95%ce%99-%ce%a4%ce%97-%ce%9c%ce%91%ce%a6%ce%99%ce%91-%ce%a4%ce%9f%ce%a5/)
+* [Στο “μάτι” της ΑΑΔΕ τα Airbnb: Περισσότεροι από 73.000 φορολογούμενοι “εξαφάνισαν” εισοδήματα](https://www.kathimerini.gr/economy/562368799/idioktites-airbnb-xechasan-na-dilosoyn-102-ekat-eyro-enteinei-toys-elegchoys-i-aade/)
+
 ## 11/04/2023
 * [Πόσο ελληνικό είναι το αρνάκι του Πάσχα;](https://www.datajournalists.co.uk/2023/04/11/poso-elliniko-einai-to-arnaki-toy-pascha/)
 * [Ωραία τους έπαιξαν τους ρόλους τους ΟΛΟΙ… και οι ψηφίσαντες και οι… “διαμαρτυρόμενοι”](https://attikanea.info/%CE%BC%CF%80%CF%81%CE%AC%CE%B2%CE%BF-%CF%81%CE%B5-%CE%BF%CE%BB%CE%BF%CE%B9-%CF%88%CE%B7%CF%86%CE%B9%CF%83%CE%B1%CE%BD%CF%84%CE%B5%CF%83-%CE%BA%CE%B1%CE%B9-%CE%BC%CE%B7-%CF%80%CE%B1%CE%B9%CE%BE/)
@@ -32,7 +37,7 @@
 * [10 φορές που ο ΣΥΡΙΖΑ είπε ότι «θα σκίσει το μνημόνιο»](https://www.athensvoice.gr/epikairotita/politiki-oikonomia/97392/10-fores-poy-o-syriza-eipe-oti-tha-skisei-mnimonio/)
 
 ## 07/04/2023
-* [Αυγά από τη Βουλγαρία θα “έσπρωχναν” στην πασχαλιάτικη αγορά](https://www.makeleio.gr/%CE%B5%CF%80%CE%B9%CE%BA%CE%B1%CE%B9%CF%81%CE%BF%CF%84%CE%B7%CF%84%CE%B1/%CE%91%CF%85%CE%B3%CE%AC-%CE%B1%CF%80%CF%8C-%CF%84%CE%B7-%CE%92%CE%BF%CF%85%CE%BB%CE%B3%CE%B1%CF%81%CE%AF%CE%B1-%CE%B8%CE%B1-%CE%AD%CF%83%CF%80%CF%81%CF%89%CF%87%CE%BD%CE%B1%CE%BD-%CF%83%CF%84/)
+* [Αυγά από τη Βουλγαρία θα “έσπρωχναν” στην πασχαλιάτικη αγορά](https://www.in.gr/2023/04/07/greece/sdoe-katesxese-300-000-ayga-voulgarias-pou-tha-ta-vaftizan-ellinika-gia-pasxa/)
 * [Στα 23 τρισ, δολάρια το συνολικό χρέος της Κίνας](https://www.kathimerini.gr/economy/562360675/sta-23-tris-dolaria-ektoxeythike-to-synoliko-chreos-tis-kinas/)
 
 ## 06/04/2023
