@@ -1,6 +1,10 @@
 ## 12/04/2023
+* [Γερμανία: Αξιωματούχοι κατάσχεσαν φορτηγό με μαγειρεμένες νυχτερίδες κοντά στα σύνορα με το Βέλγιο](https://www.kathimerini.gr/world/562369498/germania-axiomatoychoi-kataschesan-fortigo-me-mageiremenes-nychterides-konta-sta-synora-me-to-velgio/)
 * [Άδωνις - εξαπάτηση των κτηνοτρόφων με το Καλάθι του Πάσχα, έστησε καρτέλ](https://www.makeleio.gr/%ce%b5%ce%be%cf%89%cf%86%cf%85%ce%bb%ce%bb%ce%bf/%ce%9a%ce%a4%ce%97%ce%9d%ce%9f%ce%a4%ce%a1%ce%9f%ce%a6%ce%9f%ce%99-%ce%9a%ce%91%ce%99-%ce%9a%ce%a1%ce%95%ce%9f%ce%a0%ce%a9%ce%9b%ce%95%ce%a3-%ce%a3%ce%a6%ce%91%ce%96%ce%9f%ce%a5%ce%9d-%ce%a3/)
-* [Χρήστος Τζανερίκος - κυβερνητικοί παράγοντες του ζήτησαν να βοηθήσει στον αποκλεισμό του κόμματος Κασιδιάρη](https://www.makeleio.gr/%ce%b5%ce%be%cf%89%cf%86%cf%85%ce%bb%ce%bb%ce%bf/%ce%92%ce%9f%ce%9c%ce%92%ce%91-%ce%9f-%ce%a4%ce%96%ce%91%ce%9d%ce%95%ce%a1%ce%99%ce%9a%ce%9f%ce%a3-%ce%a1%ce%99%ce%a7%ce%9d%ce%95%ce%99-%ce%a4%ce%97-%ce%9c%ce%91%ce%a6%ce%99%ce%91-%ce%a4%ce%9f%ce%a5/)
+* [Χρήστος Τζανερίκος - κυβερνητικοί παράγοντες του ζήτησαν να βοηθήσει στον αποκλεισμό του κόμματος ΕΛΛΗΝΕΣ](https://thepressproject.gr/o-tzanerikos-katangellei-oti-i-kyvernisi-tou-prosfere-antallagmata-an-apekleie-to-komma-kasidiari/) [[2](https://ellhnes.net/vomva-apo-christo-tzaneriko-mou-zitisan-na-kopso-tous-ellines-kai-na-me-ftiaxoun-se-arches-kyvernitikoi-paragontes-me-piesan/)]
+  * [ΝΔ - Δεν υπήρξε καμία παρέμβαση από την κυβέρνηση στη Δικαιοσύνη](https://www.kathimerini.gr/politics/562369615/oikonomoy-gia-diloseis-tzanerikoy-den-ypirxe-kamia-paremvasi-apo-tin-kyvernisi-sti-dikaiosyni/)
+  * [ΣΥΡΙΖΑ - Ο Μητσοτάκης δεν μπορεί να κάνει τον ανήξερο](https://www.kathimerini.gr/politics/562369606/o-syriza-gia-diloseis-tzanerrikoy-o-k-mitsotakis-den-mporei-na-kanei-ton-anixero/)
+  * [Τζανερίκος - Υποστηρίζει ότι είχε και άλλη συνάντηση με κυβερνητικό παράγοντα](https://www.kathimerini.gr/society/562369423/christos-tzanerikos-ypostirizei-oti-eiche-synantisi-kai-me-allon-kyvernitiko-paragonta/)
 * [Στο “μάτι” της ΑΑΔΕ τα Airbnb: Περισσότεροι από 73.000 φορολογούμενοι “εξαφάνισαν” εισοδήματα](https://www.kathimerini.gr/economy/562368799/idioktites-airbnb-xechasan-na-dilosoyn-102-ekat-eyro-enteinei-toys-elegchoys-i-aade/)
 
 ## 11/04/2023
