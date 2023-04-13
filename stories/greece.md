@@ -1,5 +1,10 @@
 ## 13/04/2023
+* [🎬 Άδωνις - καλάθι πάσχα - 80% μπήκαν μέσα φέτος οι κτηνοτρόφοι](https://www.youtube.com/watch?v=pfXwwgJMO6U)
+* [🎬 Μετέωρα: Η μαγευτική θέα](https://youtu.be/nrriN711tno)
+* [Χατζηκωστής - Κυπριακό - Μητσοτάκης πίεζε τον Αναστασιάδη να σταματήσει τις εξορύξεις κατ' εντολήν των ΗΠΑ](https://ellhnes.net/o-mitsotakis-pieze-ton-anastasiadi-na-stamatisei-tis-exoryxeis-kat-entolin-ton-ipa-vomves-chatzikosti-gia-ton-ypogeio-rolo-tou-prothypourgou-sto-kypriako/)
+* [Bill Gates και George Soros - ηλιακή γεωμηχανική – Διαφωνούν οι επιστήμονες](https://attikanea.info/%CF%87%CE%B1%CE%BC%CF%8C%CF%82-%CE%BC%CE%B5-%CF%84%CE%B7%CE%BD-%CE%B7%CE%BB%CE%B9%CE%B1%CE%BA%CE%AE-%CE%B3%CE%B5%CF%89%CE%BC%CE%B7%CF%87%CE%B1%CE%BD%CE%B9%CE%BA%CE%AE-%CF%84%CE%B7%CE%BD-%CF%80%CF%81/)
 * [Ξ. Κοντιάδης (καθ. Δημοσίου Δικαίου και Κοινωνικής Διοίκησης) - για Τζανερίκο, να παρέμβει ο εισαγγελέας του ΑΠ](https://www.makeleio.gr/%ce%b5%cf%80%ce%b9%ce%ba%ce%b1%ce%b9%cf%81%ce%bf%cf%84%ce%b7%cf%84%ce%b1/%ce%9e-%ce%9a%ce%bf%ce%bd%cf%84%ce%b9%ce%ac%ce%b4%ce%b7%cf%82-k%ce%b1%ce%ba%ce%bf%cf%85%cf%81%ce%b3%ce%b7%ce%bc%ce%b1%cf%84%ce%b9%ce%ba%ce%ad%cf%82-%cf%80%cf%81%ce%ac%ce%be%ce%b5%ce%b9%cf%82-%ce%bf/)
+  * [Επιχείρησαν να «δέσουν» τον Τζανερίκο με το μοντέλο xΣακελλαροπούλου»](https://www.newsbreak.gr/kurios-maximos/458552/epicheirisan-na-desoyn-ton-tzaneriko-me-to-montelo-sakellaropoyloy/)
 
 ## 12/04/2023
 * [Τραμπ - Το προσωπικό του δικαστηρίου έκλαιγε όταν με συνέλαβαν](https://www.ieidiseis.gr/kosmos/193441/tramp-to-prosopiko-tou-dikastiriou-eklaige-otan-me-synelavan)
