@@ -1,3 +1,6 @@
+## 13/04/2023
+* [Ξ. Κοντιάδης (καθ. Δημοσίου Δικαίου και Κοινωνικής Διοίκησης) - για Τζανερίκο, να παρέμβει ο εισαγγελέας του ΑΠ](https://www.makeleio.gr/%ce%b5%cf%80%ce%b9%ce%ba%ce%b1%ce%b9%cf%81%ce%bf%cf%84%ce%b7%cf%84%ce%b1/%ce%9e-%ce%9a%ce%bf%ce%bd%cf%84%ce%b9%ce%ac%ce%b4%ce%b7%cf%82-k%ce%b1%ce%ba%ce%bf%cf%85%cf%81%ce%b3%ce%b7%ce%bc%ce%b1%cf%84%ce%b9%ce%ba%ce%ad%cf%82-%cf%80%cf%81%ce%ac%ce%be%ce%b5%ce%b9%cf%82-%ce%bf/)
+
 ## 12/04/2023
 * [Τραμπ - Το προσωπικό του δικαστηρίου έκλαιγε όταν με συνέλαβαν](https://www.ieidiseis.gr/kosmos/193441/tramp-to-prosopiko-tou-dikastiriou-eklaige-otan-me-synelavan)
 * [Μύκονος - Έχτιζαν και τις παραλίες](https://www.ieidiseis.gr/ellada/193454/mykonos-to-megaleio-sou-extizan-kai-tis-paralies-7-syllipseis-fotografies)
