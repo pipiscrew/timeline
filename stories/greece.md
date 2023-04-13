@@ -1,4 +1,6 @@
 ## 13/04/2023
+* [🎬 Καζάνι που βράζει η Γαλλία](https://www.documentonews.gr/article/kazani-poy-vrazei-i-gallia-neo-kyma-diadiloseon-kata-toy-syntaxiodotikoy-makron-videos/)
+* [Υπουργός Πολιτισμού Λίνα Μενδώνη - Μ. Πέμπτη - Διορίζει «δικούς της» σε πέντε Μουσεία](https://www.documentonews.gr/article/proklisi-mendoni-ena-mina-prin-tis-ekloges-diorizei-dikoys-tis-sta-pente-megala-moyseia-tis-xoras/)
 * [🎬 Άδωνις - καλάθι πάσχα - 80% μπήκαν μέσα φέτος οι κτηνοτρόφοι](https://www.youtube.com/watch?v=pfXwwgJMO6U)
 * [🎬 Μετέωρα: Η μαγευτική θέα](https://youtu.be/nrriN711tno)
 * [Χατζηκωστής - Κυπριακό - Μητσοτάκης πίεζε τον Αναστασιάδη να σταματήσει τις εξορύξεις κατ' εντολήν των ΗΠΑ](https://ellhnes.net/o-mitsotakis-pieze-ton-anastasiadi-na-stamatisei-tis-exoryxeis-kat-entolin-ton-ipa-vomves-chatzikosti-gia-ton-ypogeio-rolo-tou-prothypourgou-sto-kypriako/)
