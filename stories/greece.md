@@ -1,4 +1,7 @@
 ## 14/04/2023
+* [Τσούνης - Οι σχέσεις ΗΠΑ / Ελλάδας είναι ισχυρότερες από ποτέ](https://www.businessnews.gr/kosmos/item/261986-tsoynis-oi-sxeseis-ipa-elladas-einai-isxyroteres-apo-pote)
+* [Οίκος ανοχής και επισήμως](https://attikanea.info/%CF%87%CF%89%CF%81%CE%AF%CF%82-%CF%84%CE%AD%CE%BB%CE%BF%CF%82-%CF%86%CF%81%CE%B9%CE%BA%CE%B7-%CE%BA%CE%B1%CE%B9-%CE%B1%CF%80%CE%BF%CE%BA%CE%B1%CE%BB%CF%85%CF%88%CE%B5%CE%B9%CF%83-%CF%80%CE%BF%CF%85/)
+* [Η «εκκωφαντική σιωπή» Ντογιάκου](https://www.makeleio.gr/%ce%b5%cf%80%ce%b9%ce%ba%ce%b1%ce%b9%cf%81%ce%bf%cf%84%ce%b7%cf%84%ce%b1/%ce%97-%ce%b5%ce%ba%ce%ba%cf%89%cf%86%ce%b1%ce%bd%cf%84%ce%b9%ce%ba%ce%ae-%cf%83%ce%b9%cf%89%cf%80%ce%ae-%ce%9d%cf%84%ce%bf%ce%b3%ce%b9%ce%ac%ce%ba%ce%bf%cf%85-%ce%b3%ce%b9%ce%b1-%cf%84/)
 * [Γεραπετρίτης - Η συνάντηση με Τζανερίκο έγινε απολύτως φανερά - Δεν ετέθη ποτέ ζήτημα ανταλλαγών](https://www.kathimerini.gr/politics/562373947/gerapetritis-i-synantisi-me-tzaneriko-egine-apolytos-fanera-den-etethi-pote-zitima-antallagon/)
 * [LIBE - Νέο ευρωπαϊκό ανακοινωθέν κατά Μητσοτάκη](https://www.documentonews.gr/article/neo-eyropaiko-rapisma-kata-mitsotaki-apo-tin-epitropi-libe/)
 * [Το κόμμα ΕΛΛΗΝΕΣ θα ξεζουμιστει και θα πεταχτει σαν στημενη λεμονοκουπα](https://attikanea.info/%CF%83%CF%87%CE%BF%CE%BB%CE%B9%CE%BF-%CE%B3%CE%B9%CE%B1-%CF%80%CE%BF%CE%BB%CF%85-%CF%88%CE%B1%CE%B3%CE%BC%CE%B5%CE%BD%CE%BF%CF%85%CF%82-%CF%80%CF%81%CE%BF%CE%BC%CE%B5%CE%BB%CE%B5%CF%84%CE%B7%CE%BC/)
