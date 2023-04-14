@@ -1,3 +1,6 @@
+## 14/04/2023
+* [Το κόμμα ΕΛΛΗΝΕΣ θα ξεζουμιστει και θα πεταχτει σαν στημενη λεμονοκουπα](https://attikanea.info/%CF%83%CF%87%CE%BF%CE%BB%CE%B9%CE%BF-%CE%B3%CE%B9%CE%B1-%CF%80%CE%BF%CE%BB%CF%85-%CF%88%CE%B1%CE%B3%CE%BC%CE%B5%CE%BD%CE%BF%CF%85%CF%82-%CF%80%CF%81%CE%BF%CE%BC%CE%B5%CE%BB%CE%B5%CF%84%CE%B7%CE%BC/)
+
 ## 13/04/2023
 * [🎬 Καζάνι που βράζει η Γαλλία](https://www.documentonews.gr/article/kazani-poy-vrazei-i-gallia-neo-kyma-diadiloseon-kata-toy-syntaxiodotikoy-makron-videos/)
 * [Υπουργός Πολιτισμού Λίνα Μενδώνη - Μ. Πέμπτη - Διορίζει «δικούς της» σε πέντε Μουσεία](https://www.documentonews.gr/article/proklisi-mendoni-ena-mina-prin-tis-ekloges-diorizei-dikoys-tis-sta-pente-megala-moyseia-tis-xoras/)
