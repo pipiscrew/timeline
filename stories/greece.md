@@ -1,4 +1,5 @@
 ## 14/04/2023
+* [Pentagon Leaks - Με φυλάκιση ως και 10 έτη ανά έγγραφο που διέρρευσε κινδυνεύει ο 21χρονος](https://www.ieidiseis.gr/kosmos/193739/pentagon-leaks-sto-dikastirio-tis-vostonis-o-21xronos-ethnofrouros-ti-katigories-antimetopizei)
 * [Τσούνης - Οι σχέσεις ΗΠΑ / Ελλάδας είναι ισχυρότερες από ποτέ](https://www.businessnews.gr/kosmos/item/261986-tsoynis-oi-sxeseis-ipa-elladas-einai-isxyroteres-apo-pote)
 * [Οίκος ανοχής και επισήμως](https://attikanea.info/%CF%87%CF%89%CF%81%CE%AF%CF%82-%CF%84%CE%AD%CE%BB%CE%BF%CF%82-%CF%86%CF%81%CE%B9%CE%BA%CE%B7-%CE%BA%CE%B1%CE%B9-%CE%B1%CF%80%CE%BF%CE%BA%CE%B1%CE%BB%CF%85%CF%88%CE%B5%CE%B9%CF%83-%CF%80%CE%BF%CF%85/)
 * [Η «εκκωφαντική σιωπή» Ντογιάκου](https://www.makeleio.gr/%ce%b5%cf%80%ce%b9%ce%ba%ce%b1%ce%b9%cf%81%ce%bf%cf%84%ce%b7%cf%84%ce%b1/%ce%97-%ce%b5%ce%ba%ce%ba%cf%89%cf%86%ce%b1%ce%bd%cf%84%ce%b9%ce%ba%ce%ae-%cf%83%ce%b9%cf%89%cf%80%ce%ae-%ce%9d%cf%84%ce%bf%ce%b3%ce%b9%ce%ac%ce%ba%ce%bf%cf%85-%ce%b3%ce%b9%ce%b1-%cf%84/)
