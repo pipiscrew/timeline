@@ -1,8 +1,8 @@
 ## 15/04/2023
 * [🎬 D3O - The real-life Iron Man material](https://youtube.com/shorts/q3gvl1UiO4U?feature=share)
-* [🎬 I Drove Around California For A Month, it Was A Disaster](https://www.youtube.com/watch?v=qVsxOMUzeJk)
+* [🎬 I Drove Around California For A Month, It Was A Disaster](https://www.youtube.com/watch?v=qVsxOMUzeJk)
 * [Ιαπωνία - Καπνογόνο εναντίον του πρωθυπουργού σε ομιλία του](https://www.kathimerini.gr/world/562374667/iaponia-kapnogono-enantion-toy-prothypoyrgoy-se-omilia-toy/)
-* [600k Έλληνες έχουν γίνει μετανάστες από 2010-2021](https://www.makeleio.gr/%ce%b5%ce%be%cf%89%cf%86%cf%85%ce%bb%ce%bb%ce%bf/%ce%a7%ce%a9%ce%a1%ce%91-%ce%93%ce%95%ce%a1%ce%9f%ce%9d%ce%a4%ce%a9%ce%9d-%ce%97-%ce%95%ce%9b%ce%9b%ce%91%ce%94%ce%91-%ce%91%ce%94%ce%95%ce%99%ce%91%ce%96%ce%95%ce%99-%ce%97-%ce%a7%ce%a9%ce%a1%ce%91/)
+* [600k Έλληνες έχουν γίνει μετανάστες μεταξύ 2010-2021](https://www.makeleio.gr/%ce%b5%ce%be%cf%89%cf%86%cf%85%ce%bb%ce%bb%ce%bf/%ce%a7%ce%a9%ce%a1%ce%91-%ce%93%ce%95%ce%a1%ce%9f%ce%9d%ce%a4%ce%a9%ce%9d-%ce%97-%ce%95%ce%9b%ce%9b%ce%91%ce%94%ce%91-%ce%91%ce%94%ce%95%ce%99%ce%91%ce%96%ce%95%ce%99-%ce%97-%ce%a7%ce%a9%ce%a1%ce%91/)
 
 ## 14/04/2023
 * [Pentagon Leaks - Με φυλάκιση ως και /10 έτη ανά έγγραφο/ που διέρρευσε κινδυνεύει ο 21χρονος](https://www.ieidiseis.gr/kosmos/193739/pentagon-leaks-sto-dikastirio-tis-vostonis-o-21xronos-ethnofrouros-ti-katigories-antimetopizei)
@@ -26,7 +26,6 @@
 ## 12/04/2023
 * [Τραμπ - Το προσωπικό του δικαστηρίου έκλαιγε όταν με συνέλαβαν](https://www.ieidiseis.gr/kosmos/193441/tramp-to-prosopiko-tou-dikastiriou-eklaige-otan-me-synelavan)
 * [Μύκονος - Έχτιζαν και τις παραλίες](https://www.ieidiseis.gr/ellada/193454/mykonos-to-megaleio-sou-extizan-kai-tis-paralies-7-syllipseis-fotografies)
-* [Το πειθαρχικό του ΔΣΑ καλεί Άδωνη για εξηγήσεις σχετικά με τον δικηγόρο του Κασιδιάρη](https://www.documentonews.gr/article/vomva-apo-verveso-to-peitharxiko-toy-dsa-kalei-adoni-gia-exigiseis-sxetika-me-ton-dikigoro-toy-kasidiari/)
 * [Οι αποκαλύψεις για ταύτιση ΕΥΠ και Predator πνίγουν την κυβέρνηση](https://www.documentonews.gr/article/eyp-predator-oikonomoy/)
 * [Εύα Καϊλή - Αποφυλακίζεται με βραχιολάκι](https://www.kathimerini.gr/world/562369828/apofylakizetai-i-eya-kaili-me-vrachiolaki/)
 * [Γερμανία - Αξιωματούχοι κατάσχεσαν φορτηγό με μαγειρεμένες νυχτερίδες κοντά στα σύνορα με το Βέλγιο](https://www.kathimerini.gr/world/562369498/germania-axiomatoychoi-kataschesan-fortigo-me-mageiremenes-nychterides-konta-sta-synora-me-to-velgio/)
@@ -48,6 +47,7 @@
 * [Ωραία τους έπαιξαν τους ρόλους τους ΟΛΟΙ… και οι ψηφίσαντες και οι… “διαμαρτυρόμενοι”](https://attikanea.info/%CE%BC%CF%80%CF%81%CE%AC%CE%B2%CE%BF-%CF%81%CE%B5-%CE%BF%CE%BB%CE%BF%CE%B9-%CF%88%CE%B7%CF%86%CE%B9%CF%83%CE%B1%CE%BD%CF%84%CE%B5%CF%83-%CE%BA%CE%B1%CE%B9-%CE%BC%CE%B7-%CF%80%CE%B1%CE%B9%CE%BE/)
 * [Τα πρώτα σημάδια κρίσης στην αγορά ακινήτων της Ευρώπης](https://www.kathimerini.gr/economy/562366996/ta-prota-simadia-krisis-stin-agora-akiniton-tis-eyropis/)
 * [Ηλίας Κασιδιάρης: Πειθαρχικός έλεγχος για τις αναρτήσεις μέσα από τη φυλακή](https://www.kathimerini.gr/politics/562368274/ilias-kasidiaris-peitharchikos-elegchos-gia-tis-anartiseis-mesa-apo-ti-fylaki/)
+  * [12/04] [Το πειθαρχικό του ΔΣΑ καλεί Άδωνη για εξηγήσεις σχετικά με τον δικηγόρο του Κασιδιάρη](https://www.documentonews.gr/article/vomva-apo-verveso-to-peitharxiko-toy-dsa-kalei-adoni-gia-exigiseis-sxetika-me-ton-dikigoro-toy-kasidiari/)
   * [12/04] [Αναβλήθηκε το πειθαρχικό συμβούλιο για τις αναρτήσεις μέσα από τη φυλακή](https://www.kathimerini.gr/society/562369792/kasidiaris-anavlithike-to-peitharchiko-symvoylio-gia-tis-anartiseis-mesa-apo-ti-fylaki/)
 * [Εκλογές: Γυναίκες το 42% στις λίστες ΠΑΣΟΚ](https://www.kathimerini.gr/politics/562366447/ekloges-gynaikes-to-42-stis-listes-pasok/)
 * [Πλαφόν στα επιτόκια: Οι ανακοινώσεις των τραπεζών – Μπαίνουν και τα κόκκινα στεγαστικά των funds](https://www.kathimerini.gr/economy/562368112/plafon-sta-epitokia-oi-anakoinoseis-ton-trapezon-mpainoyn-kai-ta-kokkina-stegastika-ton-funds/)
