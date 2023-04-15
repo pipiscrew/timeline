@@ -230,6 +230,7 @@ The sequence is :
 * [Ratiborus Digital Activation](https://nsaneforums.com/topic/317565-w10-digital-activation-program-v11-portable-ratiborus/) - windows (not for Enterprise edition)
 * [Office 2013-2021 C2R](https://free.appnee.com/office-2013-2021-c2r-install/) - downloader, installer, remover
 * [Office Unistaller](https://appnee.com/office-uninstall/)
+* [Microsoft Windows 10](https://www.techworm.net/2022/08/download-windows-10-iso.html)
 
 ## Games
 * [Internet Archive.LTSC 2019](https://archive.org/details/win-10.-ltsc-2019.x-64.lite.v-2107-ik)
