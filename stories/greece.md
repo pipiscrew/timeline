@@ -1,4 +1,5 @@
 ## 15/04/2023
+* [Η Κίνα καλεί την Γερμανία να στηρίξει την «ειρηνική επανένωση» με την Ταϊβάν](https://www.pronews.gr/kosmos/diethnis-politiki/i-kina-kalei-tin-germania-na-stiriksei-tin-eiriniki-epanenosi-me-tin-taivan/)
 * [Γαλλία - Ο Μακρόν υπέγραψε τον νόμο για την αύξηση συνταξιοδότησης κατά δύο χρόνια](https://www.kathimerini.gr/world/562374760/gallia-o-makron-ypegrapse-ton-nomo-gia-ti-metarrythmisi-toy-syntaxiodotikoy/)
 * [Ιαπωνία - Καπνογόνο εναντίον του πρωθυπουργού σε ομιλία του](https://www.kathimerini.gr/world/562374667/iaponia-kapnogono-enantion-toy-prothypoyrgoy-se-omilia-toy/)
 * [600k Έλληνες έχουν γίνει μετανάστες μεταξύ 2010-2021](https://www.makeleio.gr/%ce%b5%ce%be%cf%89%cf%86%cf%85%ce%bb%ce%bb%ce%bf/%ce%a7%ce%a9%ce%a1%ce%91-%ce%93%ce%95%ce%a1%ce%9f%ce%9d%ce%a4%ce%a9%ce%9d-%ce%97-%ce%95%ce%9b%ce%9b%ce%91%ce%94%ce%91-%ce%91%ce%94%ce%95%ce%99%ce%91%ce%96%ce%95%ce%99-%ce%97-%ce%a7%ce%a9%ce%a1%ce%91/)
@@ -6,6 +7,11 @@
 * [🎬 I Drove Around California For A Month, It Was A Disaster](https://www.youtube.com/watch?v=qVsxOMUzeJk)
 
 ## 14/04/2023
+* [Άδωνις - Με τόσα προβλήματα βρίσκετε χρόνο να πάτε διακοπές](https://www.pronews.gr/pronews-tv/o-a-georgiadis-tin-leei-stous-polites-me-tosa-provlimata-vriskete-xrono-na-pate-diakopes-xairomai/)
+* [Bill Gates - Κάναμε λάθος – Τα Covid19 εμβόλια ήταν εξαιρετικά επικίνδυνα](https://www.pronews.gr/ygeia/ola-mataia-i-eilikrinis-omologia-tou-mpil-gkeits-gia-ton-emvoliasmo-vinteo/)
+  * [15/04] [Pfizer/BioNTech: Νέες αποκαλυπτικές μελέτες δείχνουν ότι απέκρυπταν στοιχεία](https://www.pronews.gr/ygeia/pfizer-biontech-nees-apoaklyptikes-meletes-deixnoun-oti-apekryptan-stoixeia-i-apodosi-tou-emvoliou-den-antexe/)
+  * [Κίνα - Τζορτζ Γκάο - Δεν υπάρχουν αποδείξεις για την προέλευση του Covid-19 από τα ζώα](https://www.pronews.gr/ygeia/anthropino-daxtylo-deixnei-proin-ypeythynos-cdc-den-yparxoun-apodeikseis-gia-tin-proeleysi-tou-covid-19-apo-ta-zoa/)
+* [Μητσοτάκης - Μετά τις εκλογές θα πάμε με την Τουρκία στο Δικαστήριο της Χάγης για την οριοθέτηση των θαλασσίων ζωνών](https://www.pronews.gr/elliniki-politiki/k-mitsotakis-meta-tis-ekloges-tha-pame-me-tin-tourkia-sto-dikastirio-tis-xagis-gia-tin-oriothetisi-ton-thalassion-zonon/)
 * [Pentagon Leaks - Με φυλάκιση ως και /10 έτη ανά έγγραφο/ που διέρρευσε κινδυνεύει ο 21χρονος](https://www.ieidiseis.gr/kosmos/193739/pentagon-leaks-sto-dikastirio-tis-vostonis-o-21xronos-ethnofrouros-ti-katigories-antimetopizei)
 * [Τσούνης - Οι σχέσεις ΗΠΑ / Ελλάδας είναι ισχυρότερες από ποτέ](https://www.businessnews.gr/kosmos/item/261986-tsoynis-oi-sxeseis-ipa-elladas-einai-isxyroteres-apo-pote)
 * [Οίκος ανοχής και επισήμως](https://attikanea.info/%CF%87%CF%89%CF%81%CE%AF%CF%82-%CF%84%CE%AD%CE%BB%CE%BF%CF%82-%CF%86%CF%81%CE%B9%CE%BA%CE%B7-%CE%BA%CE%B1%CE%B9-%CE%B1%CF%80%CE%BF%CE%BA%CE%B1%CE%BB%CF%85%CF%88%CE%B5%CE%B9%CF%83-%CF%80%CE%BF%CF%85/)
@@ -15,6 +21,8 @@
 * [Το κόμμα ΕΛΛΗΝΕΣ θα ξεζουμιστει και θα πεταχτει σαν στημενη λεμονοκουπα](https://attikanea.info/%CF%83%CF%87%CE%BF%CE%BB%CE%B9%CE%BF-%CE%B3%CE%B9%CE%B1-%CF%80%CE%BF%CE%BB%CF%85-%CF%88%CE%B1%CE%B3%CE%BC%CE%B5%CE%BD%CE%BF%CF%85%CF%82-%CF%80%CF%81%CE%BF%CE%BC%CE%B5%CE%BB%CE%B5%CF%84%CE%B7%CE%BC/)
 
 ## 13/04/2023
+* [20.000 Αμερικανοί αναπτύχθηκαν στην Πολωνία για εμπλοκή στην Ουκρανία εναντίον των ρωσικών δυνάμεων](https://www.pronews.gr/amyna-asfaleia/tass-20-000-amerikanoi-anaptyxthikan-stin-polonia-gia-emploki-stin-oukrania-enantion-ton-rosikon-dynameon/)
+* [Τζανερίκος - Το Α2 είχε αποφασίσει κατά των πλειστηριασμών και η κυβέρνηση το έστειλε στην Ολομέλεια για να εγκριθεί](https://www.pronews.gr/elliniki-politiki/giati-theloun-tin-olomeleia-tou-ap-ithelan-na-apofygoun-paromoio-fiasko-opos-me-tin-apofasi-tou-a2-kata-tis-arpagis-ton-spition-apo-ta-funds/)
 * [🎬 Καζάνι που βράζει η Γαλλία](https://www.documentonews.gr/article/kazani-poy-vrazei-i-gallia-neo-kyma-diadiloseon-kata-toy-syntaxiodotikoy-makron-videos/)
 * [Υπουργός Πολιτισμού Λίνα Μενδώνη - Μ. Πέμπτη - Διορίζει «δικούς της» σε πέντε Μουσεία](https://www.documentonews.gr/article/proklisi-mendoni-ena-mina-prin-tis-ekloges-diorizei-dikoys-tis-sta-pente-megala-moyseia-tis-xoras/)
 * [🎬 Μετέωρα - Η μαγευτική θέα](https://youtu.be/nrriN711tno)
