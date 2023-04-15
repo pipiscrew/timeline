@@ -1,3 +1,7 @@
+## 15/04/2023
+* [Ιαπωνία - «Καπνογόνο» εναντίον του πρωθυπουργού σε ομιλία του](https://www.kathimerini.gr/world/562374667/iaponia-kapnogono-enantion-toy-prothypoyrgoy-se-omilia-toy/)
+* [600k Έλληνες έχουν γίνει μετανάστες από 2010-2021](https://www.makeleio.gr/%ce%b5%ce%be%cf%89%cf%86%cf%85%ce%bb%ce%bb%ce%bf/%ce%a7%ce%a9%ce%a1%ce%91-%ce%93%ce%95%ce%a1%ce%9f%ce%9d%ce%a4%ce%a9%ce%9d-%ce%97-%ce%95%ce%9b%ce%9b%ce%91%ce%94%ce%91-%ce%91%ce%94%ce%95%ce%99%ce%91%ce%96%ce%95%ce%99-%ce%97-%ce%a7%ce%a9%ce%a1%ce%91/)
+
 ## 14/04/2023
 * [Pentagon Leaks - Με φυλάκιση ως και 10 έτη ανά έγγραφο που διέρρευσε κινδυνεύει ο 21χρονος](https://www.ieidiseis.gr/kosmos/193739/pentagon-leaks-sto-dikastirio-tis-vostonis-o-21xronos-ethnofrouros-ti-katigories-antimetopizei)
 * [Τσούνης - Οι σχέσεις ΗΠΑ / Ελλάδας είναι ισχυρότερες από ποτέ](https://www.businessnews.gr/kosmos/item/261986-tsoynis-oi-sxeseis-ipa-elladas-einai-isxyroteres-apo-pote)
