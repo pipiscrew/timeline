@@ -123,6 +123,7 @@
 
 ## CD
 * [AnyBurn](http://www.anyburn.com/)
+* [ImgBurn](https://www.imgburn.com/)
 * [UltraISO](https://www.ultraiso.com/)
 * [Opti Drive Control](https://www.optidrivecontrol.com/) (testing optical drives and media)
 * [Nero.InfoTool](https://download.cnet.com/Nero-InfoTool/3000-2086_4-75454325.html) (shows features of installed drives)
