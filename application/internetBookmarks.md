@@ -266,6 +266,7 @@
 * [portable4pc](https://portable4pc.com/)
 * [Releaselog](http://www.rlslog.net/)  
 * [musicforum](https://musicforum.club/)
+* [mazterize](https://www.mazterize.com/)
 
 ## games
 * [JavaScript NES emulator](https://jsnes.fir.sh/)

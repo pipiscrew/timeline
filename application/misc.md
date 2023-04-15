@@ -134,8 +134,8 @@
 * for flat folder list `dir /ad /b /on /s` [explained](https://stackoverflow.com/a/49002126)
 
 ## Protect
-* Protect - [XenCare.SoftLock](https://download.cnet.com/XenCare-SoftLock/3000-10435_4-10881665.html) - Doesnt allow to install new program but allow data file modification
-* Protect - [VoodooShield](https://voodooshield.com/) - Any software that was not allowed is blocked
+* [XenCare.SoftLock](https://download.cnet.com/XenCare-SoftLock/3000-10435_4-10881665.html) - Doesnt allow to install new program but allow data file modification
+* [VoodooShield](https://voodooshield.com/) - Any software that was not allowed is blocked
 
 ## Misc
 * Quick Launcher - [RK Launcher](https://download.cnet.com/RK-Launcher/3000-2344_4-10915464.html)
@@ -231,9 +231,9 @@ The sequence is :
 * [Office 2013-2021 C2R](https://free.appnee.com/office-2013-2021-c2r-install/) - downloader, installer, remover
 * [Office Unistaller](https://appnee.com/office-uninstall/)
 * [Microsoft Windows 10](https://www.techworm.net/2022/08/download-windows-10-iso.html)
+  * * [Internet Archive.LTSC 2019](https://archive.org/details/win-10.-ltsc-2019.x-64.lite.v-2107-ik)
 
 ## Games
-* [Internet Archive.LTSC 2019](https://archive.org/details/win-10.-ltsc-2019.x-64.lite.v-2107-ik)
 * [eXoDOS](http://exodos.the-eye.us/)
 * [Open Source Game Clones](https://osgameclones.com/)
 * [Superfrog Remake](https://www.lithiumdream.com/)  
