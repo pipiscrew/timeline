@@ -1,4 +1,8 @@
 ## 16/04/2023
+* [Πολωνία - Η απαγόρευση στις εισαγωγές ουκρανικών σιτηρών και τροφίμων](https://www.kathimerini.gr/world/562375357/polonia-i-apagoreysi-stis-eisagoges-oykranikon-sitiron-kai-trofimon-tha-ischysei-kai-gia-ti-diametakomisi-toys/)
+* [Μητσοτάκης - Ήρθε η ώρα να ασχοληθούμε με το αρνί και το κοκορέτσι](https://www.pronews.gr/elliniki-politiki/provocateur/k-mitsotakis-irthe-i-ora-na-asxolithoume-me-to-arni-kai-to-kokoretsi-vinteo/)
+* [Τσίπρας - τσούγκρισε αυγά με ναύτες – «Τα τζούφια μου δίνετε;](https://www.pronews.gr/elliniki-politiki/provocateur/o-a-tsipras-tsougkrise-ayga-me-naytes-ta-tzoufia-mou-dinete-vinteo/)
+* [Τουρκία - Ερντογάν - Οι πολίτες δεν μπορούν να αγοράσουν ούτε κρέας](https://www.makeleio.gr/%ce%b5%cf%80%ce%b9%ce%ba%ce%b1%ce%b9%cf%81%ce%bf%cf%84%ce%b7%cf%84%ce%b1/%ce%9f-%cf%80%ce%bb%ce%b7%ce%b8%cf%89%cf%81%ce%b9%cf%83%ce%bc%cf%8c%cf%82-%ce%b3%ce%ba%cf%81%ce%b5%ce%bc%ce%af%ce%b6%ce%b5%ce%b9-%cf%84%ce%bf%ce%bd-%ce%95%cf%81%ce%bd%cf%84%ce%bf%ce%b3%ce%ac%ce%bd/)
 * [Viber - AI Chat & Create](https://www.businessnews.gr/epixeiriseis/item/261756-rakuten-viber-epistrateyei-tin-texniti-noimosyni-gia-tis-diakopes-tou-pasxa)
 * [Νέα Μάκρη - Δημοπράτηση αντιπλημμυρικών έργων, ύψους 60 εκατ. ευρώ](https://www.businessnews.gr/oikonomia/item/261761-dimopratisi-antiplimmyrikon-ergon-sti-nea-makri-ypsous-60-ekat-evro)
 * [Κύπρος - «Επεσαν» όλες οι ιστοσελίδες υπουργείων και κυβερνητικών υπηρεσιών](https://www.businessnews.gr/kosmos/item/261768-epesan-oles-oi-istoselides-ypourgeion-kai-kyvernitikon-ypiresion-stin-kypro)
