@@ -1,3 +1,7 @@
+## 16/04/2023
+* [Υπουργοί Εξωτερικών G7 - Προς επιτάχυνση της ανανεώσιμης ενέργειας](https://www.businessnews.gr/kosmos/item/262021-ypourgoi-eksoterikon-g7-pros-epitaxynsi-tis-ananeosimis-energeias-anakoinothen)
+* [O νέος Κλιματικός Κανονισμός που ψηφίστηκε πριν από ένα μήνα - Το πείραμα των «κοινοβίων» στην Αυστραλία](https://www.pronews.gr/oikonomia/diethnis-oikonomia/erxontai-skoteina-xronia-pos-tha-arpaksoun-ta-spitia-ton-ellinon-logo-klimatikis-allagis-to-peirama-ton-koinovion-stin-aystralia/)
+
 ## 15/04/2023
 * [Με TikTokers, YouTubers και περιοδείες «τρέχει» ο Μητσοτάκης](https://www.pronews.gr/elliniki-politiki/provocateur/me-tic-tokers-youtubers-kai-periodeies-trexei-na-mazepsei-tous-aposyspeiromenous-psifoforous-o-k-mitsotakis/)
 * [Τουρκία - εξέδωσε ΝΟΤΑΜ, καταγγέλλει την Ελλάδα ότι «παραβιάζει το καθεστώς αποστρατιωτικοποίησης» στο Αιγαίο](https://www.makeleio.gr/%ce%b5%cf%80%ce%b9%ce%ba%ce%b1%ce%b9%cf%81%ce%bf%cf%84%ce%b7%cf%84%ce%b1/%ce%a0%ce%b5%cf%81%ce%af%ce%b5%cf%81%ce%b3%ce%b7-%ce%b1%ce%b4%cf%81%ce%ac%ce%bd%ce%b5%ce%b9%ce%b1-%ce%b1%cf%80%cf%8c-%cf%84%ce%b7%ce%bd-%ce%95%ce%bb%ce%bb%ce%b7%ce%bd%ce%b9%ce%ba/)
