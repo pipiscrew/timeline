@@ -1,9 +1,9 @@
 ## 16/04/2023
 * [Viber - AI Chat & Create](https://www.businessnews.gr/epixeiriseis/item/261756-rakuten-viber-epistrateyei-tin-texniti-noimosyni-gia-tis-diakopes-tou-pasxa)
-* [Δημοπράτηση αντιπλημμυρικών έργων στη Νέα Μάκρη, ύψους 60 εκατ. ευρώ](https://www.businessnews.gr/oikonomia/item/261761-dimopratisi-antiplimmyrikon-ergon-sti-nea-makri-ypsous-60-ekat-evro)
-* [«Επεσαν» όλες οι ιστοσελίδες υπουργείων και κυβερνητικών υπηρεσιών στην Κύπρο](https://www.businessnews.gr/kosmos/item/261768-epesan-oles-oi-istoselides-ypourgeion-kai-kyvernitikon-ypiresion-stin-kypro)
-* [Κατεβάζει τον πήχη για παγκόσμια ανάπτυξη το ΔΝΤ](https://www.businessnews.gr/kosmos/item/261779-katevazei-ton-pixi-gia-pagkosmia-anaptyksi-to-dnt)
-* [ Εξώδικο στον Άδωνι Γεωργιάδη από ΑΚΚΕΛ και ΝΕΑ ΠΟΛΙΤΙΚΗ - Διεκδικούν αποζημιώσεις των κτηνοτρόφων](https://www.businessnews.gr/politiki/item/261771-eksodiko-ston-adoni-georgiadi-apo-akkel-kai-nea-politiki)
+* [Νέα Μάκρη - Δημοπράτηση αντιπλημμυρικών έργων, ύψους 60 εκατ. ευρώ](https://www.businessnews.gr/oikonomia/item/261761-dimopratisi-antiplimmyrikon-ergon-sti-nea-makri-ypsous-60-ekat-evro)
+* [Κύπρος - «Επεσαν» όλες οι ιστοσελίδες υπουργείων και κυβερνητικών υπηρεσιών](https://www.businessnews.gr/kosmos/item/261768-epesan-oles-oi-istoselides-ypourgeion-kai-kyvernitikon-ypiresion-stin-kypro)
+* [ΔΝΤ - Κατεβάζει τον πήχη για παγκόσμια ανάπτυξη](https://www.businessnews.gr/kosmos/item/261779-katevazei-ton-pixi-gia-pagkosmia-anaptyksi-to-dnt)
+* [Άδωνις - Εξώδικο από ΑΚΚΕΛ και ΝΕΑ ΠΟΛΙΤΙΚΗ - Διεκδικούν αποζημιώσεις των κτηνοτρόφων](https://www.businessnews.gr/politiki/item/261771-eksodiko-ston-adoni-georgiadi-apo-akkel-kai-nea-politiki)
 * [Υπουργοί Εξωτερικών G7 - Προς επιτάχυνση της ανανεώσιμης ενέργειας](https://www.businessnews.gr/kosmos/item/262021-ypourgoi-eksoterikon-g7-pros-epitaxynsi-tis-ananeosimis-energeias-anakoinothen)
 * [O νέος Κλιματικός Κανονισμός που ψηφίστηκε πριν από ένα μήνα - Το πείραμα των «κοινοβίων» στην Αυστραλία](https://www.pronews.gr/oikonomia/diethnis-oikonomia/erxontai-skoteina-xronia-pos-tha-arpaksoun-ta-spitia-ton-ellinon-logo-klimatikis-allagis-to-peirama-ton-koinovion-stin-aystralia/)
 
