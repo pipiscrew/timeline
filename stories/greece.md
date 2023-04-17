@@ -1,5 +1,6 @@
 ## 17/04/2023
 * [Εκλογοδικείο - Τινάζεται στον αέρα η αντισυνταγματική τροπολογία για το μπλόκο στο εθνικό κόμμα Έλληνες](https://www.bankingnews.gr/politiki/articles/674069/panepistimiakoi-kathigites-tinazoun-ston-aera-tin-antisyntagmatiki-tropologia-gia-to-eklogiko-bloko-sto-ethniko-komma-ellines) ([source](https://www.tanea.gr/print/2023/04/14/politics/to-eklogodikeio-tha-apofasisei-gia-to-komma-kasidiari/))
+  * [Την Τρίτη ο Τζανερίκος «ανατινάζει» το Μαξίμου με τον εισαγγελέα του ΑΠ σε ρόλο παρατηρητή](https://attikanea.info/%CF%84%CE%B7%CE%BD-%CF%84%CF%81%CE%AF%CF%84%CE%B7-%CE%BF-%CF%84%CE%B6%CE%B1%CE%BD%CE%B5%CF%81%CE%AF%CE%BA%CE%BF%CF%82-%CE%B1%CE%BD%CE%B1%CF%84%CE%B9%CE%BD%CE%AC%CE%B6%CE%B5%CE%B9-%CF%84/)
 * [Υπουργοί Εξωτερικών G7 - Σκληρή στάση απέναντι σε Κίνα, Ρωσία και Βόρεια Κορέα](https://www.kathimerini.gr/world/562375726/ypoyrgoi-exoterikon-g7-skliri-stasi-apenanti-se-kina-rosia-kai-voreia-korea/)
 * [Κρήτη - Ένοπλη ληστεία σε ζαχαροπλαστείο – Σύντροφος της υπαλλήλου ο δράστης](https://www.pronews.gr/amyna-asfaleia/esoteriki-asfaleia/enopli-listeia-se-zaxaroplasteio-sto-irakleio-syntrofos-tis-ypallilou-o-drastis/)
 * [Σε λίγο θα εμφανίσουν την Εύα Καϊλή κάτι σαν θύμα](https://www.ieidiseis.gr/parapolitika/193913/to-plyntirio-tis-eyas)
