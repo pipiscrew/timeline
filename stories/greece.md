@@ -1,4 +1,6 @@
 ## 17/04/2023
+* [Αυστραλία - Ρομπότ με 3D εκτυπωτή επιδιορθώνει όργανα μέσα στο ανθρώπινο σώμα](https://www.ieidiseis.gr/kosmos/193937/afstralia-rompot-me-3d-ektypoti-epidiorthonei-organa-mesa-sto-anthropino-soma)
+* [Βόρεια Καρολίνα - μούρη με μούρη με αρκούδα](https://www.pronews.gr/perivallon/den-pisteye-sta-matia-tou-andras-stis-ipa-epese-mouri-me-mouri-me-arkouda-ton-episkefthike-sti-veranta-tou-vinteo/)
 * [Oregon - Έκλυση επικίνδυνου υγρού στον πυθμένα της θάλασσας](https://attikanea.info/%CE%B7%CF%80%CE%B1-%CF%80%CE%B1%CE%BD%CE%B9%CE%BA%CF%8C%CF%82-%CF%83%CF%84%CE%BF-oregon-%CF%80%CF%81%CE%BF%CE%AC%CE%B3%CE%B3%CE%B5%CE%BB%CE%BF%CF%82-%CF%84%CE%B5%CF%81%CE%AC%CF%83%CF%84%CE%B9%CE%BF/)
 * [Άνγκελα Μέρκελ - θα τιμηθεί στην υψηλότερη τιμή του γερμανικού κράτους](https://www.pronews.gr/kosmos/eyropaiki-enosi/i-proin-kagkelarios-a-merkel-tha-timithei-me-ton-megalostayro-tou-tagmatos-opos-kapote-o-x-kol-kai-o-k-antenaouer/)
 * [Εκλογοδικείο - Τινάζεται στον αέρα η αντισυνταγματική τροπολογία για το μπλόκο στο εθνικό κόμμα Έλληνες](https://www.bankingnews.gr/politiki/articles/674069/panepistimiakoi-kathigites-tinazoun-ston-aera-tin-antisyntagmatiki-tropologia-gia-to-eklogiko-bloko-sto-ethniko-komma-ellines) ([source](https://www.tanea.gr/print/2023/04/14/politics/to-eklogodikeio-tha-apofasisei-gia-to-komma-kasidiari/))
