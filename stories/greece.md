@@ -1,3 +1,9 @@
+## 17/04/2023
+* [Υπουργοί Εξωτερικών G7 - Σκληρή στάση απέναντι σε Κίνα, Ρωσία και Βόρεια Κορέα](https://www.kathimerini.gr/world/562375726/ypoyrgoi-exoterikon-g7-skliri-stasi-apenanti-se-kina-rosia-kai-voreia-korea/)
+* [Κρήτη - Ένοπλη ληστεία σε ζαχαροπλαστείο – Σύντροφος της υπαλλήλου ο δράστης](https://www.pronews.gr/amyna-asfaleia/esoteriki-asfaleia/enopli-listeia-se-zaxaroplasteio-sto-irakleio-syntrofos-tis-ypallilou-o-drastis/)
+* [Σε λίγο θα εμφανίσουν την Εύα Καϊλή κάτι σαν θύμα](https://www.ieidiseis.gr/parapolitika/193913/to-plyntirio-tis-eyas)
+* [Τρομακτικές οι παγκόσμιες συνέπειες από μια χρεοκοπία των ΗΠΑ](https://www.makeleio.gr/%ce%b5%cf%80%ce%b9%ce%ba%ce%b1%ce%b9%cf%81%ce%bf%cf%84%ce%b7%cf%84%ce%b1/%ce%a4%cf%81%ce%bf%ce%bc%ce%b1%ce%ba%cf%84%ce%b9%ce%ba%ce%ad%cf%82-%ce%bf%ce%b9-%cf%80%ce%b1%ce%b3%ce%ba%cf%8c%cf%83%ce%bc%ce%b9%ce%b5%cf%82-%cf%83%cf%85%ce%bd%ce%ad%cf%80%ce%b5%ce%b9%ce%b5%cf%82/)
+
 ## 16/04/2023
 * [Πολωνία - Η απαγόρευση στις εισαγωγές ουκρανικών σιτηρών και τροφίμων](https://www.kathimerini.gr/world/562375357/polonia-i-apagoreysi-stis-eisagoges-oykranikon-sitiron-kai-trofimon-tha-ischysei-kai-gia-ti-diametakomisi-toys/)
 * [Μητσοτάκης - Ήρθε η ώρα να ασχοληθούμε με το αρνί και το κοκορέτσι](https://www.pronews.gr/elliniki-politiki/provocateur/k-mitsotakis-irthe-i-ora-na-asxolithoume-me-to-arni-kai-to-kokoretsi-vinteo/)
