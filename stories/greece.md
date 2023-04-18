@@ -1,4 +1,6 @@
 ## 18/04/2023
+* [Κυβέρνηση, επίορκοι δικαστές, προεξοφλούν ότι οι ΕΛΛΗΝΕΣ θα κοπούν](https://attikanea.info/%CE%BA%CF%85%CE%B2%CE%AD%CF%81%CE%BD%CE%B7%CF%83%CE%B7-%CE%B5%CF%80%CE%AF%CE%BF%CF%81%CE%BA%CE%BF%CE%B9-%CE%B4%CE%B9%CE%BA%CE%B1%CF%83%CF%84%CE%AD%CF%82-%CF%80%CF%81%CE%BF%CE%B5%CE%BE%CE%BF%CF%86/)
+* [Λαγκάρντ - Δεν είναι δυνατόν οι ΗΠΑ να χρεοκοπήσουν](https://www.businessnews.gr/kosmos/item/262035-lagkarnt-den-einai-dynaton-oi-ipa-na-xreokopisoun)
 * [Σλοβακία - Απαγορεύει την εισαγωγή σιτηρών απο την Ουκρανία](https://www.businessnews.gr/oikonomia/item/262090-slovakia-apagoreyei-tin-eisagogi-sitiron-apo-tin-oukrania-epikriseis-apo-tin-ee)
 * [Japan - τοξικό κρέας δελφινιού με 97.5 φορές υψηλότερα επίπεδα υδραργύρου](https://www.kathimerini.gr/life/environment/562376194/synagermos-stin-iaponia-gia-toxiko-kreas-delfinioy-me-ekatontaplasia-epipeda-ydrargyroy/)
 * [Πάρτι απευθείας αναθέσεων στον Δήμο Αγίων Αναργύρων](https://www.documentonews.gr/article/parti-apeytheias-anatheseon-ston-dimo-agion-anargyron-kamateroy/)
