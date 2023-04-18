@@ -1,3 +1,13 @@
+## 18/04/2023
+* [Σλοβακία - Απαγορεύει την εισαγωγή σιτηρών απο την Ουκρανία](https://www.businessnews.gr/oikonomia/item/262090-slovakia-apagoreyei-tin-eisagogi-sitiron-apo-tin-oukrania-epikriseis-apo-tin-ee)
+* [Japan - τοξικό κρέας δελφινιού με 97.5 φορές υψηλότερα επίπεδα υδραργύρου](https://www.kathimerini.gr/life/environment/562376194/synagermos-stin-iaponia-gia-toxiko-kreas-delfinioy-me-ekatontaplasia-epipeda-ydrargyroy/)
+* [Πάρτι απευθείας αναθέσεων στον Δήμο Αγίων Αναργύρων](https://www.documentonews.gr/article/parti-apeytheias-anatheseon-ston-dimo-agion-anargyron-kamateroy/)
+* [🎬 Φερνουν ξενο γαλα και μας εχουν για πεταμα](https://www.makeleio.gr/%ce%b5%ce%be%cf%89%cf%86%cf%85%ce%bb%ce%bb%ce%bf/%ce%9a%ce%a5%ce%92%ce%95%ce%a1%ce%9d%ce%97%ce%a3%ce%97-%ce%95%ce%93%ce%9a%ce%9b%ce%97%ce%9c%ce%91%ce%a4%ce%99%ce%a9%ce%9d-%ce%97-%ce%95%ce%9a%ce%a4%ce%95%ce%9b%ce%95%ce%a3%ce%97/)
+* [Moderna - Έγγραφο καταγράφει όλες τις παρενέργειες του Covid-19 εμβολίου](https://www.pronews.gr/ygeia/sok-eggrafo-katagrafei-oles-tis-parenergeies-tou-emvoliou-tis-moderna-kata-covid-19-mesa-se-13-695-selides/)
+* [🎬 Tiktok User - Πώς ο Μητσοτάκης έκανε την Ελλάδα "παράδειγμα προς μίμηση"](https://www.tiktok.com/@christos_rokos/video/7222169431437298970)
+* [Apple - Λάνσαρε λογαριασμούς ταμιευτηρίου με επιτόκιο 4,15% σε συνεργασία με την Goldman Sachs ](https://www.businessnews.gr/epixeiriseis/item/262080-apple-lansarei-ypiresia-apotamiefsis-me-epitokio-4-15-se-synergasia-me-tin-goldman-sachs)
+* [Το Σίδνεϊ δεν είναι πια η πιο πολυπληθής πόλη της Αυστραλίας](https://www.kathimerini.gr/world/562376188/aystralia-to-sidnei-den-einai-pia-i-pio-polyplithis-poli-logo-klepsias/)
+
 ## 17/04/2023
 * [Intrum Hellas](https://www.eauction.gr/) - [Η πρωταγωνίστρια των πλειστηριασμών, υπερδιπλασίασε τα κέρδη της το 2022 ](https://www.businessnews.gr/epixeiriseis/item/262051-intrum-hellas-i-protagonistria-ton-pleistiriasmon-yperdiplasiase-ta-kerdi-tis-to-2022)
 * [Μια Χούφτα Εταιρείες Ελέγχουν την Παγκόσμια Προπαγάνδα](https://attikanea.info/%CE%BC%CE%B9%CE%B1-%CF%87%CE%BF%CF%8D%CF%86%CF%84%CE%B1-%CE%B5%CF%84%CE%B1%CE%B9%CF%81%CE%B5%CE%AF%CE%B5%CF%82-%CE%B5%CE%BB%CE%AD%CE%B3%CF%87%CE%BF%CF%85%CE%BD-%CF%84%CE%B7%CE%BD-%CF%80%CE%B1%CE%B3/)
