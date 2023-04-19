@@ -1,7 +1,7 @@
 ## 19/04/2023
 * [Μαραντόνα - Στο εδώλιο 8 άτομα για τον θάνατό του, κατηγορούνται για ανθρωποκτονία](https://www.pronews.gr/athlitismos/diethnes-podosfairo/marantona-sto-edolio-8-atoma-gia-ton-thanato-tou-katigorountai-gia-anthropoktonia-me-prothesi/)
 * [myΔΕΗ - Πρόσβαση από παντού σε όλα όσα χρειάζεται ο πελάτης](https://www.documentonews.gr/article/mydeh-o-neos-psifiakos-kosmos-tis-deh/)
-* [Ηλία Κασιδιάρης - Πειθαρχικό συμβούλιο - Αύριο αναμένεται να συνεδριάσει](https://www.kathimerini.gr/society/562377373/anartiseis-elegchoi-kai-kampania-apo-to-keli-ti-apantaei-stin-k-to-youtube-gia-to-kanali-kasidiari/)
+* [Ηλίας Κασιδιάρης - Πειθαρχικό συμβούλιο - Αύριο αναμένεται να συνεδριάσει](https://www.kathimerini.gr/society/562377373/anartiseis-elegchoi-kai-kampania-apo-to-keli-ti-apantaei-stin-k-to-youtube-gia-to-kanali-kasidiari/)
 * [Fox News - Πληρώνει αποζημίωση 787,5 εκατ. δολαρίων για ψευδείς ειδήσεις](https://www.businessnews.gr/epixeiriseis/media-news/item/262160-fox-news-plironei-apozimiosi-787-5-ekat-dolarion-gia-psevdeis-eidiseis-stis-amerikanikes-ekloges)
 * [Καναδάς - Απεργούν 155.000 δημόσιοι υπάλληλοι για καλύτερους μισθούς](https://www.businessnews.gr/kosmos/item/262162-kanadas-apergoyn-155-000-dimosioi-ypalliloi-gia-kalyterous-misthoys)
 * [ΟΗΕ - Οι Ινδοί θα είναι περισσότεροι από τους Κινέζους στα μέσα του 2023](https://www.businessnews.gr/kosmos/item/262168-oie-oi-indoi-tha-einai-perissoteroi-apo-tous-kinezous-sta-mesa-tou-2023)
