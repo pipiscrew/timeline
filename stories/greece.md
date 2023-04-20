@@ -1,6 +1,6 @@
 ## 20/04/2023
 * [Κασιδιάρης - φέρεται διατεθειμένος να θυσιαστεί για ένα νέο ΕΑΝ](https://www.pronews.gr/elliniki-politiki/xoris-i-kasidiari-o-eklogikos-agonas-tis-ethnikistikis-deksias/)
-* [Σέριφος - Γιατρός περιγράφει τις τραγικές συνθήκες και παραιτήθηκε](https://www.pronews.gr/koinonia/serifos-giatros-dilose-tin-paraitisi-tou-kataggellontas-ypostelexosi-kai-tragikes-synthikes/)
+* [Σέριφος - Γιατρός περιγράφει τις τραγικές συνθήκες και παραιτήτε](https://www.pronews.gr/koinonia/serifos-giatros-dilose-tin-paraitisi-tou-kataggellontas-ypostelexosi-kai-tragikes-synthikes/)
 * [Κίνα - Παγκόσμια ανησυχία για την ανάπτυξη της, στην Ανταρκτική](https://www.makeleio.gr/%ce%b5%cf%80%ce%b9%ce%ba%ce%b1%ce%b9%cf%81%ce%bf%cf%84%ce%b7%cf%84%ce%b1/%ce%a0%ce%b1%ce%b3%ce%ba%cf%8c%cf%83%ce%bc%ce%b9%ce%b1-%ce%b1%ce%bd%ce%b7%cf%83%cf%85%cf%87%ce%af%ce%b1-%ce%b3%ce%b9%ce%b1-%cf%84%ce%b7%ce%bd-%ce%b1%ce%bd%ce%ac%cf%80%cf%84%cf%85%ce%be%ce%b7-%cf%84/)
 * [Νικολόπουλος & Βασιλειάδης - Κατέθεσαν μήνυση για την δωροδοκία του Τζανερίκου](https://www.pronews.gr/elliniki-politiki/minysi-n-nikolopoulou-n-vasileiadi-gia-varia-kakourgimata-kata-k-mitsotaki-g-gerapetriti-k-l-p-stin-ypothesi-x-tzanerikou/) [[pdf](https://www.pronews.gr/wp-content/uploads/2023/04/20/%CE%BC%CE%B7%CC%81%CE%BD%CF%85%CF%83%CE%B7.pdf)]
 * [Εβραίοι - Η αορατοποίηση μιας ελληνικής κοινότητας](https://www.kathimerini.gr/society/562380229/poy-einai-oi-evraioi-i-aoratopoiisi-mias-ellinikis-koinotitas/)
