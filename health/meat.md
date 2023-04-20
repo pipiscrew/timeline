@@ -130,6 +130,8 @@ Invest in your health with an [indoor garden](https://clickandgrow.com/)
 * 3xCABBAGE  
 * 2x6eggs = 12eggs  
 
+[video - elementary - how to](https://www.youtube.com/watch?v=BQA_RTqwV6g)  
+
 ----------  
 
 
