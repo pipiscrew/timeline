@@ -16,4 +16,4 @@ The **human nervous system** is in essence an **electrical system** that through
 
  
 
-more about [EMF](https://www.pipiscrew.com/2019/07/electromagnetic-waves/)..
+more about [EMF](https://www.pipiscrew.com/threads/electromagnetic-waves.12018)..
