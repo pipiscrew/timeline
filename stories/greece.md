@@ -1,5 +1,6 @@
 ## 20/04/2023
-* [Hotel King George - Βενιζέλος, Γεραπετρίτης και Κατρούγκαλος για τις μετεκλογικές συνεργασίες](https://www.ieidiseis.gr/politiki/194305/kyklos-ideon-ti-eipan-venizelos-gerapetritis-kai-katroygkalos-gia-tis-meteklogikes-synergasies)
+* [Σουμάχερ - Αγωγή καταθέτει η οικογένειά του](https://www.ieidiseis.gr/kosmos/194315/salos-me-ti-synentefksi-tou-mikael-soumaxer-pou-dimiourgithike-meso-texnitis-noimosynis-agogi-katathetei-i-oikogeneia-tou)
+* [🎬 Hotel King George - Βενιζέλος, Γεραπετρίτης και Κατρούγκαλος για τις μετεκλογικές συνεργασίες](https://www.ieidiseis.gr/politiki/194305/kyklos-ideon-ti-eipan-venizelos-gerapetritis-kai-katroygkalos-gia-tis-meteklogikes-synergasies)
 
 ## 19/04/2023
 * [Δωδώνη - Νέα προϊόντα, συνέργειες με τη ΔΕΛΤΑ και στο βάθος εξαγορές](https://www.kathimerini.gr/economy/562373395/dodoni-nea-proionta-synergeies-me-ti-delta-kai-sto-vathos-exagores/)
