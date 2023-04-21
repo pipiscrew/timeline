@@ -1,3 +1,8 @@
+## 21/04/2023
+* [Τυχερά παίγνια - €95,6 εκατ. την ημέρα τα πονταρίσματα στην Ελλάδα - Το 75% μέσω διαδικτύου](https://www.businessnews.gr/oikonomia/item/262350-tyxera-paignia-rekor-esodon-to-a-dimino-2023-pontaran-95-6-ekat-evro-tin-imera-oi-ellines)
+* [Τσουναμι Παραιτησεων Γιατρων Στα Νησια](https://www.makeleio.gr/%ce%b5%ce%be%cf%89%cf%86%cf%85%ce%bb%ce%bb%ce%bf/%ce%a4%ce%a3%ce%9f%ce%a5%ce%9d%ce%91%ce%9c%ce%99-%ce%a0%ce%91%ce%a1%ce%91%ce%99%ce%a4%ce%97%ce%a3%ce%95%ce%a9%ce%9d-%ce%93%ce%99%ce%91%ce%a4%ce%a1%ce%a9%ce%9d-%ce%a3%ce%a4%ce%91-%ce%9d%ce%97%ce%a3/)
+* [Καϊλη - την έχουν σε xxx στιγμές μέσω Predator](https://www.makeleio.gr/%CE%B5%CE%BE%CF%89%CF%86%CF%85%CE%BB%CE%BB%CE%BF/%CE%9C%CE%91%CE%A7%CE%99%CE%9C%CE%9F-%CE%9C%CE%91%CE%9A%CE%95%CE%9B%CE%95%CE%99%CE%9F-%CE%9C%CE%95-%CE%A4%CE%A1%CE%9F%CE%9C%CE%95%CE%A1%CE%95%CE%A3-%CE%91%CE%A0%CE%9F%CE%9A%CE%91%CE%9B%CE%A5%CE%A8/)
+
 ## 20/04/2023
 * [🎬 Ιταλία - 50.000 θύματα στις δυνάμεις της αστυνομίας από παρενέργειες του εμβολίου](https://attikanea.info/%CE%B9%CF%84%CE%B1%CE%BB%CE%AF%CE%B1-50-000-%CE%B8%CF%8D%CE%BC%CE%B1%CF%84%CE%B1-%CF%83%CF%84%CE%B9%CF%82-%CE%B4%CF%85%CE%BD%CE%AC%CE%BC%CE%B5%CE%B9%CF%82-%CF%84%CE%B7%CF%82-%CE%B1%CF%83/)
   * [Φάουτσι - πρώην επικεφαλής αποκαλύπτει το σκοτεινό ρόλο του](https://attikanea.info/%CE%BF-%CF%80%CF%81%CF%8E%CE%B7%CE%BD-%CE%B5%CF%80%CE%B9%CE%BA%CE%B5%CF%86%CE%B1%CE%BB%CE%AE%CF%82-%CF%84%CF%89%CE%BD-%CF%85%CF%80%CE%B7%CF%81%CE%B5%CF%83%CE%B9%CF%8E%CE%BD-%CF%80%CE%BB%CE%B7%CF%81/)
@@ -16,7 +21,7 @@
 * [Εβραίοι - Η αορατοποίηση μιας ελληνικής κοινότητας](https://www.kathimerini.gr/society/562380229/poy-einai-oi-evraioi-i-aoratopoiisi-mias-ellinikis-koinotitas/)
 * [ΕΛ.ΑΣ - εξιχνίασε μεγάλη εγκληματική οργάνωση στην οποία εμπλέκονται και αστυνομικοί](https://www.pronews.gr/amyna-asfaleia/i-el-as-eksixniase-megali-egklimatiki-organosi-stin-opoia-emplekontai-kai-astynomikoi-taytopoiithikan-60-atoma/)
 * [Ταϊλάνδη - Τοξικό νέφος](https://www.pronews.gr/perivallon/sto-kokkino-i-atmosfairiki-rypansi-stin-tailandi-toksiko-nefos-esteile-sto-nosokomeio-24-ekat-anthropous/)
-* [🎬 Μακρόν - του πέταξαν αυγό στο πρόσωπο](https://www.pronews.gr/kosmos/i-katakraygi-stis-emfaniseis-tou-einai-emfanis-eksorgismenoi-galloi-petaksan-aygo-sto-prosopo-tou-e-makron-vinteo/)
+* [🎬 Μακρόν - του πέταξαν αυγό στο πρόσωπο](https://www.pronews.gr/kosmos/i-katakraygi-stis-emfaniseis-tou-einai-emfanis-eksorgismenoi-galloi-petaksan-aygo-sto-prosopo-tou-e-makron-vinteo/) [[2](https://www.reddit.com/r/Damnthatsinteresting/comments/12soyhw/french_president_emmanuel_macron_hit_with_an_egg/)]
 * [Σουμάχερ - Αγωγή καταθέτει η οικογένειά του](https://www.ieidiseis.gr/kosmos/194315/salos-me-ti-synentefksi-tou-mikael-soumaxer-pou-dimiourgithike-meso-texnitis-noimosynis-agogi-katathetei-i-oikogeneia-tou)
 * [🎬 Hotel King George - Βενιζέλος, Γεραπετρίτης και Κατρούγκαλος για τις μετεκλογικές συνεργασίες](https://www.ieidiseis.gr/politiki/194305/kyklos-ideon-ti-eipan-venizelos-gerapetritis-kai-katroygkalos-gia-tis-meteklogikes-synergasies)
 
