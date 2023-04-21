@@ -1,4 +1,5 @@
 ## 21/04/2023
+* [Laskaridis - Πιάστηκε στη Βενετία πλοίο Έλληνα μεγαλοεφοπλιστή με 850 κιλά κοκαΐνης](https://www.ieidiseis.gr/kosmos/194489/tradewinds-piastike-sti-venetia-ploio-ellina-megaloefoplisti-me-850-kila-kokainis)
 * [Τυχερά παίγνια - €95,6 εκατ. την ημέρα τα πονταρίσματα στην Ελλάδα - Το 75% μέσω διαδικτύου](https://www.businessnews.gr/oikonomia/item/262350-tyxera-paignia-rekor-esodon-to-a-dimino-2023-pontaran-95-6-ekat-evro-tin-imera-oi-ellines)
 * [Τσουναμι Παραιτησεων Γιατρων Στα Νησια](https://www.makeleio.gr/%ce%b5%ce%be%cf%89%cf%86%cf%85%ce%bb%ce%bb%ce%bf/%ce%a4%ce%a3%ce%9f%ce%a5%ce%9d%ce%91%ce%9c%ce%99-%ce%a0%ce%91%ce%a1%ce%91%ce%99%ce%a4%ce%97%ce%a3%ce%95%ce%a9%ce%9d-%ce%93%ce%99%ce%91%ce%a4%ce%a1%ce%a9%ce%9d-%ce%a3%ce%a4%ce%91-%ce%9d%ce%97%ce%a3/)
 * [Καϊλη - την έχουν σε xxx στιγμές μέσω Predator](https://www.makeleio.gr/%CE%B5%CE%BE%CF%89%CF%86%CF%85%CE%BB%CE%BB%CE%BF/%CE%9C%CE%91%CE%A7%CE%99%CE%9C%CE%9F-%CE%9C%CE%91%CE%9A%CE%95%CE%9B%CE%95%CE%99%CE%9F-%CE%9C%CE%95-%CE%A4%CE%A1%CE%9F%CE%9C%CE%95%CE%A1%CE%95%CE%A3-%CE%91%CE%A0%CE%9F%CE%9A%CE%91%CE%9B%CE%A5%CE%A8/)
