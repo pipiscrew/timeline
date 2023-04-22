@@ -60,10 +60,13 @@
 * [ADB AppControl](https://adbappcontrol.com)
 * [wine](https://dl.winehq.org/wine-builds/android/) - emulator for windowsXP on android &nbsp;&nbsp; [howto](https://www.makeuseof.com/tag/run-windows-apps-android/) &nbsp;&nbsp; [xda winRT apps](https://forum.xda-developers.com/t/desktop-apps-ported-to-windows-rt.2092348/#post-36534446)  
 
+
+* Remove Android System WebView
 ```
 /*
 See what JavaScript commands get injected through an in-app browser
-krausefx.com/blog/https://announcing-inappbrowsercom-see-what-javascript-commands-get-executed-in-an-in-app-browser
+https://krausefx.com/blog/announcing-inappbrowsercom-see-what-javascript-commands-get-executed-in-an-in-app-browser
+
 https://inappbrowser.com/
 
 or better remove the /android system web view/ via ADB :
@@ -72,5 +75,6 @@ or better remove the /android system web view/ via ADB :
 adb shell
 pm uninstall --user 0 com.google.android.webview
 
-warning : dont remove other default apps, first search on XDA, a guy telling me that on XIAOMI if u remove the default antiv the phone stuck on bootloop
+warning : dont remove other default apps, first search on XDA, a guy saying that on XIAOMI if u remove the default antiv the phone stuck on bootloop
 ```
+* [How to Hide Root from Apps](https://drfone.wondershare.com/root/hide-root-from-apps.html)
