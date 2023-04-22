@@ -1,4 +1,9 @@
 ## 22/04/2023
+* [Βαρυποινίτες ζουν τον μύθο τους στις ελληνικές φυλακές](https://www.datajournalists.co.uk/2023/04/22/varypoinites-zoyn-ton-mytho-toys-stis-ellinikes-fylakes/)
+* [modRNA](https://attikanea.info/%CE%B1%CF%80%CE%BF%CE%BA%CE%AC%CE%BB%CF%85%CF%88%CE%B7-%CE%B4%CE%BF%CF%8D%CF%81%CE%B5%CE%B9%CE%BF%CF%82-%CE%AF%CF%80%CF%80%CE%BF%CF%82-%CE%B7-%CF%84%CE%B5%CF%87%CE%BD%CE%BF%CE%BB%CE%BF%CE%B3%CE%AF/)
+* [🎬 Βασίλης Σπύρου - συνταγματολόγος για εκλογές](https://attikanea.info/%CF%80%CE%BF%CE%BB%CF%85%CE%B2%CF%8C%CE%BB%CE%BF-%CF%83%CF%85%CE%B3%CE%BA%CE%BB%CE%BF%CE%BD%CE%B9%CF%83%CF%84%CE%B9%CE%BA%CF%8E%CE%BD-%CE%B1%CF%80%CE%BF%CE%BA%CE%B1%CE%BB%CF%8D%CF%88%CE%B5%CF%89%CE%BD/)
+  * [🎬 Σουφλή - Αν Δεν Υπηρχε Δικτατορια](https://attikanea.info/%CF%8C%CF%83%CE%B1-%CE%B5%CE%B9%CF%80%CF%8E%CE%B8%CE%B7%CE%BA%CE%B1%CE%BD-%CF%83%CF%84%CE%B7%CE%BD-%CE%B5%CE%BA%CF%80%CE%BF%CE%BC%CF%80%CE%AE-%CE%BC%CE%B5-%CF%84%CE%BF%CE%BD-%CE%B2%CE%B1%CF%83%CE%AF/)
+* [Πήγε να βουτήξει στα παγωμένα νερά](https://twitter.com/ClownWorld_/status/1649552120990019587)
 * [Κύπρος - 63 χρονος έχασε 30k σε παράνομο καζίνο και κατήγγειλε τους ιδιοκτήτες](https://www.makeleio.gr/%ce%b5%cf%80%ce%b9%ce%ba%ce%b1%ce%b9%cf%81%ce%bf%cf%84%ce%b7%cf%84%ce%b1/%ce%9a%cf%8d%cf%80%cf%81%ce%bf%cf%82-63%cf%87%cf%81%ce%bf%ce%bd%ce%bf%cf%82-%ce%ad%cf%87%ce%b1%cf%83%ce%b5-30-000-%ce%b5%cf%85%cf%81%cf%8e-%cf%83%ce%b5-%cf%80%ce%b1%cf%81%ce%ac%ce%bd%ce%bf%ce%bc/)
 * [🎬 Μητσοτάκης - Δήλωση για την προκήρυξη εθνικών εκλογών](https://www.facebook.com/watch/?v=160403470299955)
   * [Προκήρυξε εκλογές και έκανε σεισμό sto Twitter](https://www.makeleio.gr/%ce%b5%cf%80%ce%b9%ce%ba%ce%b1%ce%b9%cf%81%ce%bf%cf%84%ce%b7%cf%84%ce%b1/%ce%a0%cf%81%ce%bf%ce%ba%ce%ae%cf%81%cf%85%ce%be%ce%b5-%ce%b5%ce%ba%ce%bb%ce%bf%ce%b3%ce%ad%cf%82-%ce%ba%ce%b1%ce%b9-%ce%ad%ce%ba%ce%b1%ce%bd%ce%b5-%cf%83%ce%b5%ce%b9%cf%83%ce%bc%cf%8c/)
