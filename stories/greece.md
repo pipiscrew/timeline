@@ -1,3 +1,7 @@
+## 22/04/2023
+* [Μητσοτάκης - Προκήρυξε εκλογές και έκανε σεισμό sto Twitter](https://www.makeleio.gr/%ce%b5%cf%80%ce%b9%ce%ba%ce%b1%ce%b9%cf%81%ce%bf%cf%84%ce%b7%cf%84%ce%b1/%ce%a0%cf%81%ce%bf%ce%ba%ce%ae%cf%81%cf%85%ce%be%ce%b5-%ce%b5%ce%ba%ce%bb%ce%bf%ce%b3%ce%ad%cf%82-%ce%ba%ce%b1%ce%b9-%ce%ad%ce%ba%ce%b1%ce%bd%ce%b5-%cf%83%ce%b5%ce%b9%cf%83%ce%bc%cf%8c/)
+* [Κανελλοπουλος - Αίτηση για επαναλειτουργία του «ΕΑΝ» από τον αρχηγό του κόμματος Κασιδιάρη](https://www.makeleio.gr/%ce%b5%cf%80%ce%b9%ce%ba%ce%b1%ce%b9%cf%81%ce%bf%cf%84%ce%b7%cf%84%ce%b1/%ce%91%ce%bd-%ce%9a%ce%b1%ce%bd%ce%b5%ce%bb%ce%bb%ce%bf%cf%80%ce%bf%cf%85%ce%bb%ce%bf%cf%82-%ce%91%ce%af%cf%84%ce%b7%cf%83%ce%b7-%ce%b3%ce%b9%ce%b1-%ce%b5%cf%80%ce%b1%ce%bd%ce%b1%ce%bb%ce%b5%ce%b9/) `το είχε πει η [Σούφλη](https://vk.com/id545972803)`
+
 ## 21/04/2023
 * [Αστέρια Γλυφάδας](https://youtu.be/G9hxKlgp-LU)
 * [Νetflix - Η πλατφόρμα έκλεισε τα σχόλια για να γλιτώσει το «κράξιμο»](https://www.pronews.gr/politismos/kinimatografos/pagkosmia-katakraygi-gia-tin-mayri-kleopatra-tou-netflix-i-platforma-ekleise-ta-sxolia-gia-na-glitosei-to-kraksimo/)
