@@ -4,6 +4,8 @@
 * [Άρχισαν τα μνημόσυνα για τα μουσεία](https://www.documentonews.gr/article/arxisan-ta-mnimosyna-gia-ta-moyseia/)
 * [Νέα Ζηλανδία - Σεισμός 7,1 Ρίχτερ στα νησιά Κερμαντέκ](https://www.documentonews.gr/article/nea-zilandia-seismos-7-1-rixter-sta-nisia-kermantek/)
 * [Ισπανία - Απρίλιος με 40c](https://www.ieidiseis.gr/kosmos/194902/anev-proigoumenou-kyma-kaysona-stin-ispania-aprilios-me-40aria)
+* [Σωτήρης Ρίζος - πρώην πρόεδρος του ΣτΕ - Αντισυνταγματική η διάταξη απαγόρευσης του κόμματος Κασιδιάρη](https://www.ieidiseis.gr/parapolitika/194874/vomva-apo-proin-proedro-tou-ste-antisyntagmatiki-i-diataksi-apagorefsis-tou-kommatos-kasidiari)
+* [Πανελλήνιος Ιατρικός Σύλλογος - για τους γιατρούς της άγονης γραμμής](https://www.makeleio.gr/%ce%b5%cf%80%ce%b9%ce%ba%ce%b1%ce%b9%cf%81%ce%bf%cf%84%ce%b7%cf%84%ce%b1/sos-%ce%b1%cf%80%cf%8c-%cf%84%ce%bf%ce%bd-%ce%a0%ce%b1%ce%bd%ce%b5%ce%bb%ce%bb%ce%ae%ce%bd%ce%b9%ce%bf-%ce%99%ce%b1%cf%84%cf%81%ce%b9%ce%ba%cf%8c-%ce%a3%cf%8d%ce%bb%ce%bb%ce%bf%ce%b3%ce%bf-%ce%b3/)
 
 ## 23/04/2023
 * [Όταν ο εφοπλιστής Λασκαρίδης δήλωνε πως έχει χεσμένο τον πρωθυπουργό](https://youtu.be/ziZeqIgttgI?t=38)
