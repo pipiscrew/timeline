@@ -1,7 +1,11 @@
 ## 24/04/2023
+* [Τσίπρας - στην Κω](https://www.facebook.com/watch/?v=965418861489998)
+* [🎬 Μητσοτάκης - στο Αιγάλεω](https://www.youtube.com/watch?v=jy2zUTlEdI8)
+* [Πέδρο Ρίπολ - Ο γιατρός που σώζει καριέρες](https://www.kathimerini.gr/athletics/562386349/o-giatros-poy-sozei-karieres/)
 * [Eκλογές λάσπης](https://attikanea.info/e%CE%BA%CE%BB%CE%BF%CE%B3%CE%AD%CF%82-%CE%BB%CE%AC%CF%83%CF%80%CE%B7%CF%82-%CE%BA%CE%B1%CE%B9-%CE%BD%CE%BF%CE%B8%CE%B5%CE%AF%CE%B1%CF%82-%CE%B1%CF%80%CE%BF%CF%83%CF%84%CE%B1%CF%83%CE%AF%CE%B1%CF%82/)
 * [Μητσοτάκης και οι «σοφοί» σύμβουλοι και υπουργοί του](https://www.makeleio.gr/%ce%b5%ce%be%cf%89%cf%86%cf%85%ce%bb%ce%bb%ce%bf/%ce%9f-%ce%94%ce%a9%ce%94%ce%95%ce%9a%ce%91%ce%9b%ce%9f%ce%93%ce%9f%ce%a3-%ce%a4%ce%9f%ce%a5-%ce%9a%ce%91%ce%a4%ce%91%ce%a3%ce%a4%ce%a1%ce%9f%ce%a6%ce%95%ce%91-%ce%9f%ce%99%ce%9a%ce%9f/)
 * [Νίκος Σειραγάκης - Παρέμβαση Αρείου Πάγου για την επιστροφή του παιδεραστή στη φυλακή](https://www.grtimes.gr/ellada/seiragakis-anairesi-toy-voyleymatos-apofylakisis-zita-i-anteisaggeleas)
+  * [Η εισαγγελία ζητεί την αναίρεση αποφυλάκισης του παιδεραστή](https://www.kathimerini.gr/society/562386313/ypothesi-seiragaki-i-eisaggelia-zita-tin-anairesi-apofylakisis-toy-paiderasti/)
 * [ΕΟΦ - Εμβόλια κορονοϊού - 63 θάνατοι στην Ελλάδα από παρενέργειες και 1.633 προβλήματα υγείας](https://www.ieidiseis.gr/ygeia/194915/emvolia-koronoioy-eof-63-thanatoi-stin-ellada-apo-parenergeies-kai-1-633-provlimata-ygeias)
   * [ΕΟΦ - Ποιες είναι οι παρενέργειες](https://www.ieidiseis.gr/ygeia/194919/poies-einai-oi-parenergeies-apo-ta-emvolia-kata-tou-koronoioy-anakoinosi-eof)
   * [Τα εμβόλια με θανατηφόρο έκβαση](https://www.ieidiseis.gr/ygeia/194922/afto-einai-to-emvolio-kata-tou-koronoioy-me-tis-perissoteres-parenergeies-stin-ellada)
@@ -16,6 +20,7 @@
 * [🎬 Όταν ο εφοπλιστής Λασκαρίδης δήλωνε πως έχει χεσμένο τον πρωθυπουργό](https://youtu.be/ziZeqIgttgI?t=38)
 * [Διαρροή λυμάτων στον Θερμαϊκό κόλπο](https://www.pronews.gr/perivallon/fysi/diarroi-lymaton-ston-thermaiko-kolpo-dysosmia-kai-eikones-ntropis-vinteo/)
 * [Βαρουφάκης - Αν κλείσουν οι τράπεζες, υπάρχει το... σχέδιο "Δήμητρα" αν η χώρα αντέχει να πάει στη δραχμή](https://www.businessnews.gr/politiki/item/262472-varoufakis-an-kleisoun-oi-trapezes-yparxei-to-sxedio-dimitra-vid)
+  * [🎬 Βαρουφάκης - live](https://youtu.be/QeR0vL9FDvg?t=1840)
 
 ## 22/04/2023
 * [Βαρυποινίτες ζουν τον μύθο τους στις ελληνικές φυλακές](https://www.datajournalists.co.uk/2023/04/22/varypoinites-zoyn-ton-mytho-toys-stis-ellinikes-fylakes/)
