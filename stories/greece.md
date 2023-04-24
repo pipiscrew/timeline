@@ -1,3 +1,6 @@
+## 24/04/2023
+* [🎬 Chios me Nino Episode 01](https://www.youtube.com/watch?v=x0rg5z8f7p8)
+
 ## 23/04/2023
 * [Όταν ο εφοπλιστής Λασκαρίδης δήλωνε πως έχει χεσμένο τον πρωθυπουργό](https://youtu.be/ziZeqIgttgI?t=38)
 * [Διαρροή λυμάτων στον Θερμαϊκό κόλπο](https://www.pronews.gr/perivallon/fysi/diarroi-lymaton-ston-thermaiko-kolpo-dysosmia-kai-eikones-ntropis-vinteo/)
