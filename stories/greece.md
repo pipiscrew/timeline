@@ -1,4 +1,6 @@
 ## 24/04/2023
+* [Η Ελλάς παραιτείται σιωπηρώς από τα δικαιώματά της στα νησιά του Αιγαίου](https://attikanea.info/%CE%B7-%CE%B5%CE%BB%CE%BB%CE%AC%CF%82-%CF%80%CE%B1%CF%81%CE%B1%CE%B9%CF%84%CE%B5%CE%AF%CF%84%CE%B1%CE%B9-%CF%83%CE%B9%CF%89%CF%80%CE%B7%CF%81%CF%8E%CF%82-%CE%B1%CF%80%CF%8C-%CF%84%CE%B1-%CE%B4%CE%B9/)
+* [Ευρωπαϊκή Ένωση - Εξετάζει την άρση πατεντών σε υγειονομικές κρίσεις](https://www.ieidiseis.gr/ygeia/194958/arsi-patenton-se-ygeionomikes-kriseis-osa-eksetazei-i-ee)
 * [Δημήτρης Λιότσιος - πραγματογνώμονας για την πυρκαγιά στο Μάτι - Κάποιες στιγμές ένιωθα σαν να ήμουν εγώ κατηγορούμενος](https://www.kathimerini.gr/society/562383745/kapoies-stigmes-eniotha-san-na-imoyn-ego-katigoroymenos/)
 * [Τσίπρας - στην Κω](https://www.facebook.com/watch/?v=965418861489998)
 * [🎬 Μητσοτάκης - στο Αιγάλεω](https://www.youtube.com/watch?v=jy2zUTlEdI8)
