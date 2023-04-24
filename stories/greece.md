@@ -1,11 +1,12 @@
 ## 24/04/2023
+* [Eκλογές λάσπης](https://attikanea.info/e%CE%BA%CE%BB%CE%BF%CE%B3%CE%AD%CF%82-%CE%BB%CE%AC%CF%83%CF%80%CE%B7%CF%82-%CE%BA%CE%B1%CE%B9-%CE%BD%CE%BF%CE%B8%CE%B5%CE%AF%CE%B1%CF%82-%CE%B1%CF%80%CE%BF%CF%83%CF%84%CE%B1%CF%83%CE%AF%CE%B1%CF%82/)
 * [Μητσοτάκης και οι «σοφοί» σύμβουλοι και υπουργοί του](https://www.makeleio.gr/%ce%b5%ce%be%cf%89%cf%86%cf%85%ce%bb%ce%bb%ce%bf/%ce%9f-%ce%94%ce%a9%ce%94%ce%95%ce%9a%ce%91%ce%9b%ce%9f%ce%93%ce%9f%ce%a3-%ce%a4%ce%9f%ce%a5-%ce%9a%ce%91%ce%a4%ce%91%ce%a3%ce%a4%ce%a1%ce%9f%ce%a6%ce%95%ce%91-%ce%9f%ce%99%ce%9a%ce%9f/)
 * [Νίκος Σειραγάκης - Παρέμβαση Αρείου Πάγου για την επιστροφή του παιδεραστή στη φυλακή](https://www.grtimes.gr/ellada/seiragakis-anairesi-toy-voyleymatos-apofylakisis-zita-i-anteisaggeleas)
 * [ΕΟΦ - Εμβόλια κορονοϊού - 63 θάνατοι στην Ελλάδα από παρενέργειες και 1.633 προβλήματα υγείας](https://www.ieidiseis.gr/ygeia/194915/emvolia-koronoioy-eof-63-thanatoi-stin-ellada-apo-parenergeies-kai-1-633-provlimata-ygeias)
   * [ΕΟΦ - Ποιες είναι οι παρενέργειες](https://www.ieidiseis.gr/ygeia/194919/poies-einai-oi-parenergeies-apo-ta-emvolia-kata-tou-koronoioy-anakoinosi-eof)
+  * [Τα εμβόλια με θανατηφόρο έκβαση](https://www.ieidiseis.gr/ygeia/194922/afto-einai-to-emvolio-kata-tou-koronoioy-me-tis-perissoteres-parenergeies-stin-ellada)
 * [🎬 Chios me Nino Episode 01](https://www.youtube.com/watch?v=x0rg5z8f7p8)
 * [Οι φάκελοι για 22 δικαστές – φαντάσματα](https://www.kathimerini.gr/society/562384729/oi-fakeloi-gia-22-dikastes-fantasmata/)
-* [Άρχισαν τα μνημόσυνα για τα μουσεία](https://www.documentonews.gr/article/arxisan-ta-mnimosyna-gia-ta-moyseia/)
 * [Νέα Ζηλανδία - Σεισμός 7,1 Ρίχτερ στα νησιά Κερμαντέκ](https://www.documentonews.gr/article/nea-zilandia-seismos-7-1-rixter-sta-nisia-kermantek/)
 * [Ισπανία - Απρίλιος με 40c](https://www.ieidiseis.gr/kosmos/194902/anev-proigoumenou-kyma-kaysona-stin-ispania-aprilios-me-40aria)
 * [Σωτήρης Ρίζος - πρώην πρόεδρος του ΣτΕ - Αντισυνταγματική η διάταξη απαγόρευσης του κόμματος Κασιδιάρη](https://www.ieidiseis.gr/parapolitika/194874/vomva-apo-proin-proedro-tou-ste-antisyntagmatiki-i-diataksi-apagorefsis-tou-kommatos-kasidiari)
