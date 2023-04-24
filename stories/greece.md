@@ -1,5 +1,9 @@
 ## 24/04/2023
 * [🎬 Chios me Nino Episode 01](https://www.youtube.com/watch?v=x0rg5z8f7p8)
+* [Οι φάκελοι για 22 δικαστές – φαντάσματα](https://www.kathimerini.gr/society/562384729/oi-fakeloi-gia-22-dikastes-fantasmata/)
+* [Άρχισαν τα μνημόσυνα για τα μουσεία](https://www.documentonews.gr/article/arxisan-ta-mnimosyna-gia-ta-moyseia/)
+* [Νέα Ζηλανδία - Σεισμός 7,1 Ρίχτερ στα νησιά Κερμαντέκ](https://www.documentonews.gr/article/nea-zilandia-seismos-7-1-rixter-sta-nisia-kermantek/)
+* [Ισπανία - Απρίλιος με 40c](https://www.ieidiseis.gr/kosmos/194902/anev-proigoumenou-kyma-kaysona-stin-ispania-aprilios-me-40aria)
 
 ## 23/04/2023
 * [Όταν ο εφοπλιστής Λασκαρίδης δήλωνε πως έχει χεσμένο τον πρωθυπουργό](https://youtu.be/ziZeqIgttgI?t=38)
