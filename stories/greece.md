@@ -15,6 +15,7 @@
 * [🎬 Όταν ο εφοπλιστής Λασκαρίδης δήλωνε πως έχει χεσμένο τον πρωθυπουργό](https://youtu.be/ziZeqIgttgI?t=38)
 * [Διαρροή λυμάτων στον Θερμαϊκό κόλπο](https://www.pronews.gr/perivallon/fysi/diarroi-lymaton-ston-thermaiko-kolpo-dysosmia-kai-eikones-ntropis-vinteo/)
 * [Βαρουφάκης - Αν κλείσουν οι τράπεζες, υπάρχει το... σχέδιο "Δήμητρα" αν η χώρα αντέχει να πάει στη δραχμή](https://www.businessnews.gr/politiki/item/262472-varoufakis-an-kleisoun-oi-trapezes-yparxei-to-sxedio-dimitra-vid)
+
 ## 22/04/2023
 * [Βαρυποινίτες ζουν τον μύθο τους στις ελληνικές φυλακές](https://www.datajournalists.co.uk/2023/04/22/varypoinites-zoyn-ton-mytho-toys-stis-ellinikes-fylakes/)
 * [modRNA](https://attikanea.info/%CE%B1%CF%80%CE%BF%CE%BA%CE%AC%CE%BB%CF%85%CF%88%CE%B7-%CE%B4%CE%BF%CF%8D%CF%81%CE%B5%CE%B9%CE%BF%CF%82-%CE%AF%CF%80%CF%80%CE%BF%CF%82-%CE%B7-%CF%84%CE%B5%CF%87%CE%BD%CE%BF%CE%BB%CE%BF%CE%B3%CE%AF/)
