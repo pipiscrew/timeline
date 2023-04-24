@@ -1,4 +1,7 @@
 ## 24/04/2023
+* [Μητσοτάκης και οι «σοφοί» σύμβουλοι και υπουργοί του](https://www.makeleio.gr/%ce%b5%ce%be%cf%89%cf%86%cf%85%ce%bb%ce%bb%ce%bf/%ce%9f-%ce%94%ce%a9%ce%94%ce%95%ce%9a%ce%91%ce%9b%ce%9f%ce%93%ce%9f%ce%a3-%ce%a4%ce%9f%ce%a5-%ce%9a%ce%91%ce%a4%ce%91%ce%a3%ce%a4%ce%a1%ce%9f%ce%a6%ce%95%ce%91-%ce%9f%ce%99%ce%9a%ce%9f/)
+* [Νίκος Σειραγάκης - Παρέμβαση Αρείου Πάγου για την επιστροφή του παιδεραστή στη φυλακή](https://www.grtimes.gr/ellada/seiragakis-anairesi-toy-voyleymatos-apofylakisis-zita-i-anteisaggeleas)
+* [ΕΟΦ - Εμβόλια κορονοϊού - 63 θάνατοι στην Ελλάδα από παρενέργειες και 1.633 προβλήματα υγείας](https://www.ieidiseis.gr/ygeia/194915/emvolia-koronoioy-eof-63-thanatoi-stin-ellada-apo-parenergeies-kai-1-633-provlimata-ygeias)
 * [🎬 Chios me Nino Episode 01](https://www.youtube.com/watch?v=x0rg5z8f7p8)
 * [Οι φάκελοι για 22 δικαστές – φαντάσματα](https://www.kathimerini.gr/society/562384729/oi-fakeloi-gia-22-dikastes-fantasmata/)
 * [Άρχισαν τα μνημόσυνα για τα μουσεία](https://www.documentonews.gr/article/arxisan-ta-mnimosyna-gia-ta-moyseia/)
@@ -8,7 +11,7 @@
 * [Πανελλήνιος Ιατρικός Σύλλογος - για τους γιατρούς της άγονης γραμμής](https://www.makeleio.gr/%ce%b5%cf%80%ce%b9%ce%ba%ce%b1%ce%b9%cf%81%ce%bf%cf%84%ce%b7%cf%84%ce%b1/sos-%ce%b1%cf%80%cf%8c-%cf%84%ce%bf%ce%bd-%ce%a0%ce%b1%ce%bd%ce%b5%ce%bb%ce%bb%ce%ae%ce%bd%ce%b9%ce%bf-%ce%99%ce%b1%cf%84%cf%81%ce%b9%ce%ba%cf%8c-%ce%a3%cf%8d%ce%bb%ce%bb%ce%bf%ce%b3%ce%bf-%ce%b3/)
 
 ## 23/04/2023
-* [Όταν ο εφοπλιστής Λασκαρίδης δήλωνε πως έχει χεσμένο τον πρωθυπουργό](https://youtu.be/ziZeqIgttgI?t=38)
+* [🎬 Όταν ο εφοπλιστής Λασκαρίδης δήλωνε πως έχει χεσμένο τον πρωθυπουργό](https://youtu.be/ziZeqIgttgI?t=38)
 * [Διαρροή λυμάτων στον Θερμαϊκό κόλπο](https://www.pronews.gr/perivallon/fysi/diarroi-lymaton-ston-thermaiko-kolpo-dysosmia-kai-eikones-ntropis-vinteo/)
 * [Βαρουφάκης - Αν κλείσουν οι τράπεζες, υπάρχει το... σχέδιο "Δήμητρα" αν η χώρα αντέχει να πάει στη δραχμή](https://www.businessnews.gr/politiki/item/262472-varoufakis-an-kleisoun-oi-trapezes-yparxei-to-sxedio-dimitra-vid)
 ## 22/04/2023
