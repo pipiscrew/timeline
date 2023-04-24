@@ -2,6 +2,7 @@
 * [Μητσοτάκης και οι «σοφοί» σύμβουλοι και υπουργοί του](https://www.makeleio.gr/%ce%b5%ce%be%cf%89%cf%86%cf%85%ce%bb%ce%bb%ce%bf/%ce%9f-%ce%94%ce%a9%ce%94%ce%95%ce%9a%ce%91%ce%9b%ce%9f%ce%93%ce%9f%ce%a3-%ce%a4%ce%9f%ce%a5-%ce%9a%ce%91%ce%a4%ce%91%ce%a3%ce%a4%ce%a1%ce%9f%ce%a6%ce%95%ce%91-%ce%9f%ce%99%ce%9a%ce%9f/)
 * [Νίκος Σειραγάκης - Παρέμβαση Αρείου Πάγου για την επιστροφή του παιδεραστή στη φυλακή](https://www.grtimes.gr/ellada/seiragakis-anairesi-toy-voyleymatos-apofylakisis-zita-i-anteisaggeleas)
 * [ΕΟΦ - Εμβόλια κορονοϊού - 63 θάνατοι στην Ελλάδα από παρενέργειες και 1.633 προβλήματα υγείας](https://www.ieidiseis.gr/ygeia/194915/emvolia-koronoioy-eof-63-thanatoi-stin-ellada-apo-parenergeies-kai-1-633-provlimata-ygeias)
+  * [ΕΟΦ - Ποιες είναι οι παρενέργειες](https://www.ieidiseis.gr/ygeia/194919/poies-einai-oi-parenergeies-apo-ta-emvolia-kata-tou-koronoioy-anakoinosi-eof)
 * [🎬 Chios me Nino Episode 01](https://www.youtube.com/watch?v=x0rg5z8f7p8)
 * [Οι φάκελοι για 22 δικαστές – φαντάσματα](https://www.kathimerini.gr/society/562384729/oi-fakeloi-gia-22-dikastes-fantasmata/)
 * [Άρχισαν τα μνημόσυνα για τα μουσεία](https://www.documentonews.gr/article/arxisan-ta-mnimosyna-gia-ta-moyseia/)
