@@ -1,4 +1,5 @@
 ## 24/04/2023
+* [Δημήτρης Λιότσιος - πραγματογνώμονας για την πυρκαγιά στο Μάτι - Κάποιες στιγμές ένιωθα σαν να ήμουν εγώ κατηγορούμενος](https://www.kathimerini.gr/society/562383745/kapoies-stigmes-eniotha-san-na-imoyn-ego-katigoroymenos/)
 * [Τσίπρας - στην Κω](https://www.facebook.com/watch/?v=965418861489998)
 * [🎬 Μητσοτάκης - στο Αιγάλεω](https://www.youtube.com/watch?v=jy2zUTlEdI8)
 * [Πέδρο Ρίπολ - Ο γιατρός που σώζει καριέρες](https://www.kathimerini.gr/athletics/562386349/o-giatros-poy-sozei-karieres/)
@@ -9,6 +10,8 @@
 * [ΕΟΦ - Εμβόλια κορονοϊού - 63 θάνατοι στην Ελλάδα από παρενέργειες και 1.633 προβλήματα υγείας](https://www.ieidiseis.gr/ygeia/194915/emvolia-koronoioy-eof-63-thanatoi-stin-ellada-apo-parenergeies-kai-1-633-provlimata-ygeias)
   * [ΕΟΦ - Ποιες είναι οι παρενέργειες](https://www.ieidiseis.gr/ygeia/194919/poies-einai-oi-parenergeies-apo-ta-emvolia-kata-tou-koronoioy-anakoinosi-eof)
   * [Τα εμβόλια με θανατηφόρο έκβαση](https://www.ieidiseis.gr/ygeia/194922/afto-einai-to-emvolio-kata-tou-koronoioy-me-tis-perissoteres-parenergeies-stin-ellada)
+  * [Ποια αυτοάνοσα νοσήματα «ξύπνησε» το εμβόλιο κατά του κορονοϊού](https://www.ieidiseis.gr/ygeia/194939/poia-aftoanosa-nosimata-ksypnise-to-emvolio-kata-tou-koronoioy)
+  * [Οι κυβερνήσεις παραπλάνησαν τις γυναίκες για τα mRNA εμβόλια](https://attikanea.info/%CE%BF%CE%B9-%CE%BA%CF%85%CE%B2%CE%B5%CF%81%CE%BD%CE%AE%CF%83%CE%B5%CE%B9%CF%82-%CF%80%CE%B1%CF%81%CE%B1%CF%80%CE%BB%CE%AC%CE%BD%CE%B7%CF%83%CE%B1%CE%BD-%CF%84%CE%B9%CF%82-%CE%B3%CF%85%CE%BD%CE%B1/)
 * [🎬 Chios me Nino Episode 01](https://www.youtube.com/watch?v=x0rg5z8f7p8)
 * [Οι φάκελοι για 22 δικαστές – φαντάσματα](https://www.kathimerini.gr/society/562384729/oi-fakeloi-gia-22-dikastes-fantasmata/)
 * [Νέα Ζηλανδία - Σεισμός 7,1 Ρίχτερ στα νησιά Κερμαντέκ](https://www.documentonews.gr/article/nea-zilandia-seismos-7-1-rixter-sta-nisia-kermantek/)
