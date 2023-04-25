@@ -1,4 +1,7 @@
 ## 25/04/2023
+* [H Λιθουανία νομιμοποίησε την επαναπροώθηση μεταναστών από συνοριοφύλακες](https://www.kathimerini.gr/world/562387993/h-lithoyania-nomimopoiise-tin-epanaproothisi-metanaston-apo-synoriofylakes/)
+* [Η τηλεργασία βλάπτει σοβαρά την καριέρα των νέων εργαζομένων](https://www.kathimerini.gr/world/562387399/i-tilergasia-vlaptei-sovara-tin-kariera-ton-neon-ergazomenon/)
+* [1,1 τρισ. φεύγει από τις ευρωπαϊκές τράπεζες - Επιστρέφουν στην ΕΚΤ τα φθηνά δάνεια της πανδημίας](https://www.kathimerini.gr/economy/562384234/1-1-tris-feygei-apo-tis-eyropaikes-trapezes/)
 * [Ενοπλοι Στο Σουδαν Κατελαβαν Εργαστηριο Με Δειγματα Μολυσματικων Ασθενειων](https://www.ieidiseis.gr/kosmos/195054/ixise-synagermo-o-pou-gia-to-soudan-viologikos-kindynos-gia-molysmatikoys-ioys)
 * [Σε Κέρκυρα και Ρόδο η εφαρμογή της Uber](https://www.businessnews.gr/epixeiriseis/item/262601-se-kerkyra-kai-rodo-i-efarmogi-tis-uber)
 * [Τουρκία - Νέα πρόκληση - Προεκλογικό σποτ του Ερντογάν παρουσιάζει ελληνικά εδάφη ως τουρκικά](https://www.ieidiseis.gr/kosmos/195033/tourkia-nea-proklisi-proeklogiko-spot-tou-erntogan-parousiazei-ellinika-edafi-os-tourkika)
@@ -11,8 +14,10 @@
 * [Καστελλόριζο - 4χρονο παιδί μεταφέρθηκε στην Τουρκία για περίθαλψη, λόγω βλάβης... στο τηλεφωνικό κέντρο του νοσοκομείου Ρόδου](https://www.dimokratiki.gr/24-04-2023/epestrepse-sto-kastellorizo-o-mikros-poy-metaferthike-stin-toyrkia-gia-iatriki-perithalpsi-sygkinitiki-anartisi-toy-patera/)
 * [Μύκονος - Ξηλώνουν άρον άρον μετά την κατακραυγή](https://www.kathimerini.gr/society/562386763/mykono-xilonoyn-aron-aron-meta-tin-katakraygi/)
 * [Εύα Καϊλή - Στο στόχαστρο νέας έρευνας για την περίοδο μεταξύ 2014 και 2020](https://www.ieidiseis.gr/politiki/195040/syziteitai-i-arsi-asylias-tis-eyas-kaili-ti-apanta-o-dikigoros-tis)
+  * [Εύα Καϊλή - Αρνείται την κατηγορία](https://www.kathimerini.gr/politics/562388077/arneitai-i-eya-kaili-tin-katigoria-toy-politico-gia-mizes/)
 * [Εθνικό Κόμμα Έλληνες - με υποψήφιο βουλευτή τον Ηλία Κασιδιάρη](https://www.makeleio.gr/%ce%b5%ce%be%cf%89%cf%86%cf%85%ce%bb%ce%bb%ce%bf/%ce%9f%ce%9b%ce%91-%ce%93%ce%99%ce%91-%ce%9f%ce%9b%ce%91-%ce%9f-%ce%9a%ce%91%ce%a3%ce%99%ce%94%ce%99%ce%91%ce%a1%ce%97%ce%a3-%ce%a0%ce%91%ce%95%ce%99-%ce%a3%ce%a4%ce%9f%ce%9d-%ce%91%ce%a1%ce%95/)
   * [Το σχίσμα Κανελλόπουλου - Κασιδιάρη ανοίγει τον δρόμο προς τις εκλογές για το κόμμα «ΕΑΝ»](https://www.ieidiseis.gr/ellada/195016/to-sxisma-kanellopoulou-kasidiari-anoigei-ton-dromo-pros-tis-ekloges-2023-gia-to-komma-ean)
+  * [Ντου απο Παντου](https://www.makeleio.gr/%ce%b5%cf%80%ce%b9%ce%ba%ce%b1%ce%b9%cf%81%ce%bf%cf%84%ce%b7%cf%84%ce%b1/%ce%9c%ce%91%ce%9a%ce%95%ce%9b%ce%95%ce%99%ce%9f-%ce%91%ce%a0%ce%9f%ce%9a%ce%9b%ce%95%ce%99%ce%a3%ce%a4%ce%99%ce%9a%ce%9f-%ce%9d%ce%a4%ce%9f%ce%a5-%ce%91%ce%a0%ce%9f-%ce%a0%ce%91%ce%9d%ce%a4%ce%9f/)
   * [Έρχονται τα πάνω κάτω](https://attikanea.info/%CE%AD%CF%81%CF%87%CE%BF%CE%BD%CF%84%CE%B1%CE%B9-%CF%84%CE%B1-%CF%80%CE%AC%CE%BD%CF%89-%CE%BA%CE%AC%CF%84%CF%89-%CF%81%CE%B1%CE%B3%CE%B4%CE%B1%CE%AF%CE%B5%CF%82-%CE%B5%CE%BE%CE%B5%CE%BB%CE%AF%CE%BE/)
 
 ## 24/04/2023
