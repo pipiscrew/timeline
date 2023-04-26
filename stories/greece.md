@@ -20,9 +20,10 @@
   * [Κασιδιάρης - Η δικηγόρος του στο Open](https://youtu.be/tgbgJEjW47k?t=7)
   * [Κασιδιάρης - Θα είναι υποψήφιος με τους «Έλληνες»](https://twitter.com/KinhmaEllhnes/status/1651087473370333184)
   * [Ποιος είναι ο Δημήτρης Χατζηλιάδης](https://www.ieidiseis.gr/politiki/195188/poios-einai-o-neos-proedros-tou-kommatos-kasidiari-dimitris-xatziliadis)
-  * [Ντογιάκος στο Φόρουμ Δελφών](https://www.businessnews.gr/ellada/item/262729-dogiakos-sto-foroum-delfon-ti-eipe-gia-kasidiari-ypoklopes-kai-paraitisi-tzanerikou)
-  > Ο Δικαστής δεν πατάει στο δάπεδο, που πατάει όλος ο κόσμος. Είναι πάνω στην έδρα και βρίσκεται μεταξύ Θεού και ανθρώπων. 
   * [Όποιος δεν επιτρέψει την κάθοδο του κόμματος, θα διαπράξει το κακούργημα](https://attikanea.info/%CE%BA%CE%AC%CE%B8%CE%BF%CE%B4%CE%BF%CF%82-%CE%BA%CE%B1%CF%83%CE%B9%CE%B4%CE%B9%CE%AC%CF%81%CE%B7-%CE%BA%CE%B1%CE%B9-%CF%80%CF%81%CF%8C%CE%BA%CE%BB%CE%B7%CF%83%CE%B7-%CF%83%CF%84%CE%BF%CF%85%CF%82/)
+  > Ντογιάκος : Ο Δικαστής δεν πατάει στο δάπεδο, που πατάει όλος ο κόσμος. Είναι πάνω στην έδρα και βρίσκεται μεταξύ Θεού και ανθρώπων.  [source](https://www.businessnews.gr/ellada/item/262729-dogiakos-sto-foroum-delfon-ti-eipe-gia-kasidiari-ypoklopes-kai-paraitisi-tzanerikou)
+
+  
 
 ## 25/04/2023
 * [H Λιθουανία νομιμοποίησε την επαναπροώθηση μεταναστών από συνοριοφύλακες](https://www.kathimerini.gr/world/562387993/h-lithoyania-nomimopoiise-tin-epanaproothisi-metanaston-apo-synoriofylakes/)
