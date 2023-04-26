@@ -1,3 +1,16 @@
+## 26/04/2023
+* [MediaMarket - ενοποίηση με την Public](https://www.makeleio.gr/%ce%b5%ce%be%cf%89%cf%86%cf%85%ce%bb%ce%bb%ce%bf/%ce%a4%ce%95%ce%9b%ce%9f%ce%a3-%ce%a4%ce%91-%ce%93%ce%95%ce%a1%ce%9c%ce%91%ce%9d%ce%99%ce%9a%ce%91-media-markt-%ce%91%ce%a0%ce%9f-%ce%a4%ce%97%ce%9d-%ce%95%ce%9b%ce%9b%ce%91%ce%94%ce%91-%ce%a0%ce%9f/)
+* [Ποιος είναι ο κρυφός καθοδηγητής της παρέμβασης Ρίζου για την τροπολογία Κασιδιάρη](https://attikanea.info/%CF%80%CE%BF%CE%B9%CE%BF%CF%82-%CE%B5%CE%AF%CE%BD%CE%B1%CE%B9-%CE%BF-%CE%BA%CF%81%CF%85%CF%86%CF%8C%CF%82-%CE%BA%CE%B1%CE%B8%CE%BF%CE%B4%CE%B7%CE%B3%CE%B7%CF%84%CE%AE%CF%82-%CF%84%CE%B7/)
+* [Πόσα κόμματα μπορεί να διαλύσει ο Μητσοτάκης;](https://www.ieidiseis.gr/parapolitika/194724/posa-kommata-borei-na-dialysei-o-mitsotakis)
+* [Κινεζική αντιπροσωπεία από την επαρχία Jiangsu, στο Εμποροβιομηχανικό Επιμελητήριο Πειραιά](https://www.grtimes.gr/oikonomia/kineziki-antiprosopeia-apo-tin-eparchia-jiangsu-sto-e)
+* [Δωδώνη - Τι ορίζει η συμφωνία με τον Βενέτη για επανεκκίνηση του brand](https://www.businessnews.gr/epixeiriseis/item/262637-pagota-dodoni-symfonia-beneti-me-trapezes-gia-epanekkinisi-tou-brand-stoxos-gia-12-nea-katastimata-stin-trietia)
+  * [Φούρνοι Βενέτη: 75η επέτειος με εξαγορές](https://www.businessnews.gr/epixeiriseis/item/262639-foyrnoi-veneti-75i-epeteios-me-eksagores-alla-kai-aixmes-gia-elliniko-dimosio-kai-antagonistes)
+* [🎬 Τσίπρας - πιο μαλάκας αποδείxθηκε, σε live, με μια τυχάρπαστη](https://youtu.be/ZMNMYN86RUY?t=22)
+* [Σαν σήμερα - 26 Απριλίου 1986 - Το πυρηνικό δυστύχημα του Τσερνόμπιλ](https://www.kathimerini.gr/istoria/562387936/san-simera-26-aprilioy-1986-to-pyriniko-dystychima-toy-tsernompil/)
+* [ΕΛΛΗΝΕΣ - νέος πρόεδρος απόστρατος Ταξίαρχος, Δημήτρης Χατζηλιάδης](https://ellhnes.net/anakoinosi-to-ethniko-komma-ellines-tha-symmetaschei-stis-ekloges-tis-21is-maiou-neos-proedros-o-taxiarchos-dimitrios-chatziliadis/)
+  * [Κασιδιάρης - Θα είναι υποψήφιος με τους «Έλληνες»](https://twitter.com/KinhmaEllhnes/status/1651087473370333184)
+  * [Ποιος είναι ο Δημήτρης Χατζηλιάδης](https://www.ieidiseis.gr/politiki/195188/poios-einai-o-neos-proedros-tou-kommatos-kasidiari-dimitris-xatziliadis)
+
 ## 25/04/2023
 * [H Λιθουανία νομιμοποίησε την επαναπροώθηση μεταναστών από συνοριοφύλακες](https://www.kathimerini.gr/world/562387993/h-lithoyania-nomimopoiise-tin-epanaproothisi-metanaston-apo-synoriofylakes/)
 * [Η τηλεργασία βλάπτει σοβαρά την καριέρα των νέων εργαζομένων](https://www.kathimerini.gr/world/562387399/i-tilergasia-vlaptei-sovara-tin-kariera-ton-neon-ergazomenon/)
@@ -51,6 +64,7 @@
 * [Διαρροή λυμάτων στον Θερμαϊκό κόλπο](https://www.pronews.gr/perivallon/fysi/diarroi-lymaton-ston-thermaiko-kolpo-dysosmia-kai-eikones-ntropis-vinteo/)
 * [Βαρουφάκης - Αν κλείσουν οι τράπεζες, υπάρχει το... σχέδιο "Δήμητρα" αν η χώρα αντέχει να πάει στη δραχμή](https://www.businessnews.gr/politiki/item/262472-varoufakis-an-kleisoun-oi-trapezes-yparxei-to-sxedio-dimitra-vid)
   * [🎬 Βαρουφάκης - live](https://youtu.be/QeR0vL9FDvg?t=1840)
+  * [26/04] [Βαρουφάκης για «Δήμητρα»: Δεν είναι νόμισμα, αλλά πλατφόρμα](https://www.businessnews.gr/politiki/item/262658-varoufakis-an-kleisoun-oi-trapezes-ta-xrimata-tou-kosmou-tha-einai-asfali-kai-eleythera-sto-dimitra)
 
 ## 22/04/2023
 * [Βαρυποινίτες ζουν τον μύθο τους στις ελληνικές φυλακές](https://www.datajournalists.co.uk/2023/04/22/varypoinites-zoyn-ton-mytho-toys-stis-ellinikes-fylakes/)
