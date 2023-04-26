@@ -1,15 +1,28 @@
 ## 26/04/2023
+* [Στο συρτάρι εκατοντάδες ΕΔΕ στην ΕΛ.ΑΣ του Θεοδωρικάκου](https://www.documentonews.gr/article/mixanismoi-sygkalypsis-stin-el-as-toy-theodorikakoy-ekatontades-ede-emeinan-sto-syrtari/)
+* [Ράμμος - ανακοίνωση για το σκανδάλο των υποκλοπών](https://www.documentonews.gr/article/xekathari-apantisi-rammoy-stoys-propilakismoys-toy-maximoy/)
+* [Έλενα Ακρίτα στη μήνυση Γεραπετρίτη - Be my guest, sweetheart](https://www.documentonews.gr/article/ti-apanta-i-elena-akrita-sti-minysi-gerapetriti/)
+* [ΟΤΕ - Αιτήσεις για το νέο πρόγραμμα εθελούσιας αποχώρησης](https://www.businessnews.gr/epixeiriseis/item/262685-ote-aitiseis-gia-to-neo-programma-etheloysias-apoxorisis)
+* [Νέα τσίχλα με μαστίχα, προβιοτικά και ψευδάργυρο](https://www.businessnews.gr/epixeiriseis/item/262704-aon-nea-tsixla-me-mastixa-proviotika-kai-psevdargyro)
+* [🎬 Μητσοτάκης - Η παρουσίαση του προγράμματος της ΝΔ](https://www.ieidiseis.gr/politiki/195271/live-streaming-i-parousiasi-tou-programmatos-tis-nd-apo-ton-kyriako-mitsotaki)
+  * [🎬 Διαψεύδει ο Βενιζέλος την κινδυνολογία Μητσοτάκη](https://twitter.com/nasoskook/status/1651234558266814467)
+  * [🎬 Ομιλία της ΠτΔ στην έναρξη του Φόρουμ των Δελφών](https://www.youtube.com/watch?v=t7CC4nmzNf0)
+* [Ελλάδα - Εκρηξη αιτήσεων για χρυσή βίζα](https://www.kathimerini.gr/economy/562389127/ekrixi-aitiseon-gia-chrysi-viza-giati-strefontai-stin-ellada-oi-xenoi/)
 * [MediaMarket - ενοποίηση με την Public](https://www.makeleio.gr/%ce%b5%ce%be%cf%89%cf%86%cf%85%ce%bb%ce%bb%ce%bf/%ce%a4%ce%95%ce%9b%ce%9f%ce%a3-%ce%a4%ce%91-%ce%93%ce%95%ce%a1%ce%9c%ce%91%ce%9d%ce%99%ce%9a%ce%91-media-markt-%ce%91%ce%a0%ce%9f-%ce%a4%ce%97%ce%9d-%ce%95%ce%9b%ce%9b%ce%91%ce%94%ce%91-%ce%a0%ce%9f/)
 * [Ποιος είναι ο κρυφός καθοδηγητής της παρέμβασης Ρίζου για την τροπολογία Κασιδιάρη](https://attikanea.info/%CF%80%CE%BF%CE%B9%CE%BF%CF%82-%CE%B5%CE%AF%CE%BD%CE%B1%CE%B9-%CE%BF-%CE%BA%CF%81%CF%85%CF%86%CF%8C%CF%82-%CE%BA%CE%B1%CE%B8%CE%BF%CE%B4%CE%B7%CE%B3%CE%B7%CF%84%CE%AE%CF%82-%CF%84%CE%B7/)
 * [Πόσα κόμματα μπορεί να διαλύσει ο Μητσοτάκης;](https://www.ieidiseis.gr/parapolitika/194724/posa-kommata-borei-na-dialysei-o-mitsotakis)
 * [Κινεζική αντιπροσωπεία από την επαρχία Jiangsu, στο Εμποροβιομηχανικό Επιμελητήριο Πειραιά](https://www.grtimes.gr/oikonomia/kineziki-antiprosopeia-apo-tin-eparchia-jiangsu-sto-e)
 * [Δωδώνη - Τι ορίζει η συμφωνία με τον Βενέτη για επανεκκίνηση του brand](https://www.businessnews.gr/epixeiriseis/item/262637-pagota-dodoni-symfonia-beneti-me-trapezes-gia-epanekkinisi-tou-brand-stoxos-gia-12-nea-katastimata-stin-trietia)
-  * [Φούρνοι Βενέτη: 75η επέτειος με εξαγορές](https://www.businessnews.gr/epixeiriseis/item/262639-foyrnoi-veneti-75i-epeteios-me-eksagores-alla-kai-aixmes-gia-elliniko-dimosio-kai-antagonistes)
+  * [Φούρνοι Βενέτη: 75η επέτειος με εξαγορές](https://*www.businessnews.gr/epixeiriseis/item/262639-foyrnoi-veneti-75i-epeteios-me-eksagores-alla-kai-aixmes-gia-elliniko-dimosio-kai-antagonistes)
 * [🎬 Τσίπρας - πιο μαλάκας αποδείxθηκε, σε live, με μια τυχάρπαστη](https://youtu.be/ZMNMYN86RUY?t=22)
 * [Σαν σήμερα - 26 Απριλίου 1986 - Το πυρηνικό δυστύχημα του Τσερνόμπιλ](https://www.kathimerini.gr/istoria/562387936/san-simera-26-aprilioy-1986-to-pyriniko-dystychima-toy-tsernompil/)
-* [ΕΛΛΗΝΕΣ - νέος πρόεδρος απόστρατος Ταξίαρχος, Δημήτρης Χατζηλιάδης](https://ellhnes.net/anakoinosi-to-ethniko-komma-ellines-tha-symmetaschei-stis-ekloges-tis-21is-maiou-neos-proedros-o-taxiarchos-dimitrios-chatziliadis/)
+* [ΕΛΛΗΝΕΣ - νέος πρόεδρος απόστρατος Ταξίαρχος, Δημήτρης Χατζηλιάδης](https://ellhnes.net/anakoinosi-to-ethniko-komma-ellines-tha-symmetaschei-stis-ekloges-tis-21is-maiou-neos-proedros-o-taxiarchos-dimitrios-chatziliadis/)*
+  * [Κασιδιάρης - Η δικηγόρος του στο Open](https://youtu.be/tgbgJEjW47k?t=7)
   * [Κασιδιάρης - Θα είναι υποψήφιος με τους «Έλληνες»](https://twitter.com/KinhmaEllhnes/status/1651087473370333184)
   * [Ποιος είναι ο Δημήτρης Χατζηλιάδης](https://www.ieidiseis.gr/politiki/195188/poios-einai-o-neos-proedros-tou-kommatos-kasidiari-dimitris-xatziliadis)
+  * [Ντογιάκος στο Φόρουμ Δελφών](https://www.businessnews.gr/ellada/item/262729-dogiakos-sto-foroum-delfon-ti-eipe-gia-kasidiari-ypoklopes-kai-paraitisi-tzanerikou)
+  > Ο Δικαστής δεν πατάει στο δάπεδο, που πατάει όλος ο κόσμος. Είναι πάνω στην έδρα και βρίσκεται μεταξύ Θεού και ανθρώπων. 
+  * [Όποιος δεν επιτρέψει την κάθοδο του κόμματος, θα διαπράξει το κακούργημα](https://attikanea.info/%CE%BA%CE%AC%CE%B8%CE%BF%CE%B4%CE%BF%CF%82-%CE%BA%CE%B1%CF%83%CE%B9%CE%B4%CE%B9%CE%AC%CF%81%CE%B7-%CE%BA%CE%B1%CE%B9-%CF%80%CF%81%CF%8C%CE%BA%CE%BB%CE%B7%CF%83%CE%B7-%CF%83%CF%84%CE%BF%CF%85%CF%82/)
 
 ## 25/04/2023
 * [H Λιθουανία νομιμοποίησε την επαναπροώθηση μεταναστών από συνοριοφύλακες](https://www.kathimerini.gr/world/562387993/h-lithoyania-nomimopoiise-tin-epanaproothisi-metanaston-apo-synoriofylakes/)
