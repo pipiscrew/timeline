@@ -1,9 +1,3 @@
-<script>
-window.$docsify = {
-  executeScript: true,
-};
-</script>
-
 <style>
  .hiME { display:none!important; }
 </style>
@@ -23,12 +17,11 @@ window.$docsify = {
 
 </script>
 
-
-<input id="txtSearch" onkeypress="SearchList(event);" placeholder="press enter to search">
+<center><input id="txtSearch" onkeypress="SearchList(event);" placeholder="press enter to search"></center>
 
 
 ## 27/04/2023
-* [13Κόπηκε από τον Αρειο Πάγο το κόμμα Εμφιετζόγλου - Μπογδάνου](https://www.kathimerini.gr/politics/562392091/kopike-apo-ton-areio-pago-to-komma-emfietzogloy-mpogdanoy/)
+* [43Κόπηκε από τον Αρειο Πάγο το κόμμα Εμφιετζόγλου - Μπογδάνου](https://www.kathimerini.gr/politics/562392091/kopike-apo-ton-areio-pago-to-komma-emfietzogloy-mpogdanoy/)
   * [Χουντική μεθόδευση του συστήματος Μητσοτάκη το κόψιμο Μπογδάνου στις εκλογές](https://www.ieidiseis.gr/politiki/195449/xountiki-methodefsi-tou-systimatos-mitsotaki-to-kopsimo-bogdanou-stis-ekloges-i-proti-antidrasi-tis-patriotikis-enosis)
   * [Καθεστωτική μεθόδευση](https://www.documentonews.gr/article/mploko-areioy-pagoy-sto-komma-emfietzogloy-mpogdanoy-gia-onomatoklopi-kai-sfeterismo-symvoloy/)
 * [Για πρώτη φορά αφαιρέθηκε σφαίρα από την κλειτορίδα γυναίκας](https://www.makeleio.gr/%ce%b5%cf%80%ce%b9%ce%ba%ce%b1%ce%b9%cf%81%ce%bf%cf%84%ce%b7%cf%84%ce%b1/%ce%a4%ce%99-%ce%a3%ce%97%ce%9c%ce%91%ce%94%ce%99-%ce%95%ce%99%ce%a7%ce%95-%ce%9f-%ce%a0%ce%9f%ce%a3%ce%a4%ce%97%ce%a3-%ce%93%ce%b9%ce%b1-%cf%80%cf%81%cf%8e%cf%84%ce%b7-%cf%86%ce%bf%cf%81%ce%ac/)
