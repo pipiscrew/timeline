@@ -2,6 +2,8 @@
 
 
 ## 27/04/2023
+* [More than 2500 kg of cocaine hidden in a container for bananas in the port of Hamburg](https://www.defencenet.ae/7061/more-than-2500-kg-of-cocaine-hidden-in-a-container-for-bananas-one-of-the-biggest-seizures-in-the-port-of-hamburg/)
+* [«Έλληνες Χριστιανοδημοκράτες» του Ν,Νικολόπουλου - Το θεωρούν «κέλυφος» του Η,Κασιδιάρη](https://www.pronews.gr/pronews-tv/enstasi-ston-areio-pago-gia-tin-symmetoxi-tou-kommatos-ellines-xristianodimokrates-tou-n-nikolopoulou-to-theoroun-kelyfos-tou-i-kasidiari/)
 * [Η απόφαση του Κασιδιάρη να είναι υποψήφιος](https://www.bankingnews.gr/politiki/articles/675642/giati-einai-sosti-i-apofasi-tou-ethnikoy-kommatos-ellines-na-katelthei-stis-ekloges-kai-tou-kasidiari-na-einai-ypopsifios)
 * [🎬 Βασίλης Σπύρου - Υπάρχουν 1.3 εκ. νεκροί που ψηφίζουν](https://www.facebook.com/100089041612548/videos/910798700153974/?t=72) [[2](https://attikanea.info/%CF%88n%CF%86i%CE%B6o%CF%85v-%CE%BA%CE%B1%CE%AF-%CE%BF%CE%B9-%CF%80%CE%B5%CE%B8%CE%B1%CE%BC%CE%B5%CE%BD%CE%BF%CE%B9-%CE%B2%CE%B1%CF%83%CE%B9%CE%BB%CE%B7%CF%83-%CF%83%CF%80%CF%85%CF%81%CE%BF/)]
 * [Για εμβόλια ΕΟΦ](https://attikanea.info/%CF%8C%CF%84%CE%B1%CE%BD-%CE%B4%CE%B5%CE%BD-%CE%BC%CF%80%CE%BF%CF%81%CE%B5%CE%AF%CF%82-%CE%AC%CE%BB%CE%BB%CE%BF-%CE%BD%CE%B1-%CE%BA%CF%81%CF%8D%CF%88%CE%B5%CE%B9%CF%82-%CF%84%CE%B7%CE%BD-%CE%B1%CE%BB/)
