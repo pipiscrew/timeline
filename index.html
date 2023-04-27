@@ -34,7 +34,7 @@
             
             const nodes = Array.from(document.querySelectorAll("article > ul > li"));
             nodes.forEach((i) => i.classList.remove("hiME"));
-            nodes.filter((i) => !i.textContent.toLowerCase().includes(e.target.value.toLowerCase()) && !i.textContent.toLowerCase().includes(e.target.value.toLowerCase().normalize('NFD').replace(/[\u0300-\u036f]/g, "")) ).forEach((i) => i.classList.add("hiME"));
+            nodes.filter((i) => !i.textContent.toLowerCase().normalize('NFD').replace(/[\u0300-\u036f]/g, "").includes(e.target.value.toLowerCase().normalize('NFD').replace(/[\u0300-\u036f]/g, "")) ).forEach((i) => i.classList.add("hiME"));
           }
         }
     
