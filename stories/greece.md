@@ -1,4 +1,7 @@
 ## 27/04/2023
+* [Κόπηκε από τον Αρειο Πάγο το κόμμα Εμφιετζόγλου - Μπογδάνου](https://www.kathimerini.gr/politics/562392091/kopike-apo-ton-areio-pago-to-komma-emfietzogloy-mpogdanoy/)
+  * [Χουντική μεθόδευση του συστήματος Μητσοτάκη το κόψιμο Μπογδάνου στις εκλογές](https://www.ieidiseis.gr/politiki/195449/xountiki-methodefsi-tou-systimatos-mitsotaki-to-kopsimo-bogdanou-stis-ekloges-i-proti-antidrasi-tis-patriotikis-enosis)
+  * [Καθεστωτική μεθόδευση](https://www.documentonews.gr/article/mploko-areioy-pagoy-sto-komma-emfietzogloy-mpogdanoy-gia-onomatoklopi-kai-sfeterismo-symvoloy/)
 * [Για πρώτη φορά αφαιρέθηκε σφαίρα από την κλειτορίδα γυναίκας](https://www.makeleio.gr/%ce%b5%cf%80%ce%b9%ce%ba%ce%b1%ce%b9%cf%81%ce%bf%cf%84%ce%b7%cf%84%ce%b1/%ce%a4%ce%99-%ce%a3%ce%97%ce%9c%ce%91%ce%94%ce%99-%ce%95%ce%99%ce%a7%ce%95-%ce%9f-%ce%a0%ce%9f%ce%a3%ce%a4%ce%97%ce%a3-%ce%93%ce%b9%ce%b1-%cf%80%cf%81%cf%8e%cf%84%ce%b7-%cf%86%ce%bf%cf%81%ce%ac/)
 * [Οι συλλήψεις πέφτουν βροχή στη Μύκονο! Άλλοι δύο εργάτες συνελήφθησαν για παράνομες εργασίες](https://www.makeleio.gr/%ce%b5%cf%80%ce%b9%ce%ba%ce%b1%ce%b9%cf%81%ce%bf%cf%84%ce%b7%cf%84%ce%b1/%ce%9f%ce%b9-%cf%83%cf%85%ce%bb%ce%bb%ce%ae%cf%88%ce%b5%ce%b9%cf%82-%cf%80%ce%ad%cf%86%cf%84%ce%bf%cf%85%ce%bd-%ce%b2%cf%81%ce%bf%cf%87%ce%ae-%cf%83%cf%84%ce%b7-%ce%9c%cf%8d%ce%ba%ce%bf%ce%bd%ce%bf/)
 * [Τι λες μωρή καριόλα; @Ντόρα Μπακογιάννη](https://www.tiktok.com/@dora_bakoyannis/video/7226620886349139227)
