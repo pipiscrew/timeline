@@ -17,7 +17,7 @@
 * [Goldman Sachs - Αγοράζει Εθνική, Πειραιώς και Alpha - Ουδέτερη για Eurobank](https://www.businessnews.gr/oikonomia/item/262760-goldman-sachs-agorazei-ethniki-peiraios-kai-alpha-oudeteri-gia-eurobank)
   * [Alpha Bank - Ανθεκτικές στα εξωγενή σοκ οι ελληνικές τράπεζες](https://www.businessnews.gr/epixeiriseis/trapezes/item/262759-papagaryfallou-alpha-bank-anthektikes-sta-eksogeni-sok-oi-ellinikes-trapezes)
 * [Εκλογές 2023 - Κατατέθηκαν 50 αιτήσεις συμμετοχής από κομμάτα και συνασπισμούς στον Άρειο Πάγο](https://www.businessnews.gr/politiki/item/262765-ekloges-2023-katatethikan-50-aitiseis-symmetoxis-apo-kommata-kai-synaspismoys-ston-areio-pago)
-* [Κίνα: Οι νέοι προσεύχονται για να βρουν δουλειά καθώς ανακάμπτει πανδημία του κορωνοϊού](https://www.kathimerini.gr/world/562391386/kina-oi-neoi-proseychontai-gia-na-vroyn-doyleia-oyres-stoys-naoys/)
+* [Κίνα - Οι νέοι προσεύχονται για να βρουν δουλειά καθώς ανακάμπτει πανδημία του κορωνοϊού](https://www.kathimerini.gr/world/562391386/kina-oi-neoi-proseychontai-gia-na-vroyn-doyleia-oyres-stoys-naoys/)
 > #haha - Υπάρχουν και άλλοι εχθροί της δημοκρατίας στη Σχολή Ευελπίδων; [source](https://www.ieidiseis.gr/parapolitika/195340/stenes-sxeseis-naziston-me-to-vathy-kratos-kathigitis-stin-evelpidon-o-proedros-tou-kommatos-kasidiari)
 
 ## 26/04/2023
