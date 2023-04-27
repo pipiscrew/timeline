@@ -28,23 +28,22 @@
     <script src="//cdn.jsdelivr.net/npm/docsify-darklight-theme@latest/dist/index.min.js"></script>
 
     <script>
-
-        function SearchList(e){
-    
+        function SearchList(e){    
           if (e.key === "Enter") {
             e.preventDefault();
             
-            const nodes = Array.from(document.querySelectorAll("li"));
+            const nodes = Array.from(document.querySelectorAll("article > ul > li"));
             nodes.forEach((i) => i.classList.remove("hiME"));
             nodes.filter((i) => !i.textContent.toLowerCase().includes(e.target.value.toLowerCase())).forEach((i) => i.classList.add("hiME"));
           }
         }
     
     </script>
-    
+
     <style>
         .hiME { display:none!important; }
-       </style>
+        .ceME { margin: auto; }
+    </style>
 </body>
 
 </html>
