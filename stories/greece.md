@@ -1,10 +1,12 @@
 <input id="txtSearch" onkeypress="SearchList(event);" class="ceME" placeholder="press enter to search">
 
 ## 28/04/2023
+* [Κασιδιαρης - Χαμογελαστος Οπως Παντα](https://www.makeleio.gr/%ce%b5%ce%be%cf%89%cf%86%cf%85%ce%bb%ce%bb%ce%bf/%ce%a3%ce%a4%ce%91-%ce%94%ce%99%ce%9a%ce%91%ce%a3%ce%a4%ce%97%ce%a1%ce%99%ce%91-%ce%a4%ce%97%ce%a3-%ce%95%ce%a5%ce%95%ce%9b%ce%a0%ce%99%ce%94%ce%a9%ce%9d-%ce%9f-%ce%9a%ce%91%ce%a3%ce%99%ce%94%ce%99/)
+* [Οι Δικηγόροι καλούν Δικαστές και Εισαγγελείς σε διάλογο περί απονομής δικαιοσύνης στην Ελλάδα](https://www.documentonews.gr/article/oi-dikigoroi-kaloyn-dikastes-kai-eisaggeleis-se-dialogo-peri-aponomis-dikaiosynis-stin-ellada/)
 * [Δικηγόρος Κασιδιάρη - Αποκλείεται ο Άρειος Πάγος να «κόψει» τους «Έλληνες» από τις εκλογές](https://www.ieidiseis.gr/politiki/195530/dikigoros-kasidiari-apokleietai-o-areios-pagos-na-kopsei-tous-ellines-apo-tis-ekloges)
 * [Γ´ Μονομελές Πλημμελειοδικείο - Αθώωση των Νίκο Μιχαλολιάκου, Ηλία Κασιδιάρη και Παναγιώτη Ηλιόπουλου για υπόθεση υποκίνησης ρατσιστικού μίσους](https://www.ieidiseis.gr/ellada/195542/diki-xrysis-avgis-oi-apofaseis-gia-mixaloliako-kasidiari-iliopoulo-gia-tin-ypothesi-ypokinisis-ratsistikoy-misous)
 * [🎬 Παγώνη - Δεν θα είμαι στο ψηφοδέλτιο](https://www.grtimes.gr/ellada/pagoni-den-tha-eimai-sto-psifodeltio-epikrateias-tis)
-* [Performance Technologies - Ανέλαβε ευρωπαϊκό έργο, 2 εκατ, ευρώ, στον τομέα Τεχνητής Νοημοσύνης](https://www.businessnews.gr/epixeiriseis/texnologia/item/262840-performance-technologies-anelave-evropaiko-ergo-2-ekat-evro-ston-tomea-texnitis-noimosynis)
+* [Performance Technologies - Ανέλαβε ευρωπαϊκό έργο, 2 εκατ. ευρώ, στον τομέα Τεχνητής Νοημοσύνης](https://www.businessnews.gr/epixeiriseis/texnologia/item/262840-performance-technologies-anelave-evropaiko-ergo-2-ekat-evro-ston-tomea-texnitis-noimosynis)
 
 ## 27/04/2023
 * [More than 2500 kg of cocaine hidden in a container for bananas in the port of Hamburg](https://www.defencenet.ae/7061/more-than-2500-kg-of-cocaine-hidden-in-a-container-for-bananas-one-of-the-biggest-seizures-in-the-port-of-hamburg/)
