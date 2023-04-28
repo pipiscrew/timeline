@@ -1,5 +1,10 @@
 <input id="txtSearch" onkeypress="SearchList(event);" class="ceME" placeholder="press enter to search">
 
+## 28/04/2023
+* [Δικηγόρος Κασιδιάρη - Αποκλείεται ο Άρειος Πάγος να «κόψει» τους «Έλληνες» από τις εκλογές](https://www.ieidiseis.gr/politiki/195530/dikigoros-kasidiari-apokleietai-o-areios-pagos-na-kopsei-tous-ellines-apo-tis-ekloges)
+* [Γ´ Μονομελές Πλημμελειοδικείο - Αθώωση των Νίκο Μιχαλολιάκου, Ηλία Κασιδιάρη και Παναγιώτη Ηλιόπουλου για υπόθεση υποκίνησης ρατσιστικού μίσους](https://www.ieidiseis.gr/ellada/195542/diki-xrysis-avgis-oi-apofaseis-gia-mixaloliako-kasidiari-iliopoulo-gia-tin-ypothesi-ypokinisis-ratsistikoy-misous)
+* [🎬 Παγώνη - Δεν θα είμαι στο ψηφοδέλτιο](https://www.grtimes.gr/ellada/pagoni-den-tha-eimai-sto-psifodeltio-epikrateias-tis)
+* [Performance Technologies - Ανέλαβε ευρωπαϊκό έργο, 2 εκατ, ευρώ, στον τομέα Τεχνητής Νοημοσύνης](https://www.businessnews.gr/epixeiriseis/texnologia/item/262840-performance-technologies-anelave-evropaiko-ergo-2-ekat-evro-ston-tomea-texnitis-noimosynis)
 
 ## 27/04/2023
 * [More than 2500 kg of cocaine hidden in a container for bananas in the port of Hamburg](https://www.defencenet.ae/7061/more-than-2500-kg-of-cocaine-hidden-in-a-container-for-bananas-one-of-the-biggest-seizures-in-the-port-of-hamburg/)
