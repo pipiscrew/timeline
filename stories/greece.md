@@ -1,9 +1,17 @@
 <input id="txtSearch" onkeypress="SearchList(event);" class="ceME" placeholder="press enter to search">
 
+## 29/04/2023
+* [Εθνικό Κόμμα Έλληνες - Αίτηση εξαίρεσης τριών μελών της σύνθεσης της Ολομέλειας](https://www.makeleio.gr/%ce%b5%ce%be%cf%89%cf%86%cf%85%ce%bb%ce%bb%ce%bf/%ce%9a%ce%99%ce%9d%ce%97%ce%a3%ce%97-%ce%9c%ce%91%ce%a4-%ce%91%ce%a0%ce%9f-%ce%a4%ce%9f%ce%9d-%ce%9a%ce%91%ce%a3%ce%99%ce%94%ce%99%ce%91%ce%a1%ce%97-%ce%91%ce%99%ce%a4%ce%97%ce%9c%ce%91-%ce%92/)
+* [ΣΦΕΕ - Αναχρονιστική η ευρωπαϊκή στρατηγική για το φάρμακο](https://www.businessnews.gr/epixeiriseis/item/262932-sfee-anaxronistiki-i-evropaiki-stratigiki-gia-to-farmako)
+* [Κυβέρνησις… Κανελλοπούλου ἐν ὄψει](https://attikanea.info/%CE%BA%CF%85%CE%B2%CE%AD%CF%81%CE%BD%CE%B7%CF%83%CE%B9%CF%82-%CE%BA%CE%B1%CE%BD%CE%B5%CE%BB%CE%BB%CE%BF%CF%80%CE%BF%CF%8D%CE%BB%CE%BF%CF%85-%E1%BC%90%CE%BD-%E1%BD%84%CF%88%CE%B5%CE%B9/)
+* [ΡΑΣ καλεί ΟΣΕ και Hellenic Train για το δυστύχημα στα Τέμπη](https://www.kathimerini.gr/society/562390606/ras-kalei-ose-kai-hellenic-train-gia-to-dystychima-sta-tempi/)
+* [«Σκαει Κανονι» και στην First Republic Bank](https://www.makeleio.gr/%ce%b5%cf%80%ce%b9%ce%ba%ce%b1%ce%b9%cf%81%ce%bf%cf%84%ce%b7%cf%84%ce%b1/%ce%a3%ce%9a%ce%91%ce%95%ce%99-%ce%9a%ce%91%ce%9d%ce%9f%ce%9d%ce%99-%ce%9a%ce%91%ce%99-%ce%a3%ce%a4%ce%97%ce%9d-first-republic-bank-%ce%97-%ce%a4%ce%a1%ce%99%ce%a4%ce%97-%ce%a5%ce%a0/)
+
 ## 28/04/2023
 * [Η Pfizer μοίραζε το 2021 πολλά χρήματα σε ιατρικούς συλλόγους για να προωθούν τα εμβόλια Covid-19!](https://www.pronews.gr/ygeia/i-pfizer-moiraze-to-2021-polla-xrimata-se-iatrikous-syllogous-gia-na-proothoun-ta-emvolia-covid-19/)
   * [ALS - από εμβόλιο](https://nikosantoniadis.tv/2023/04/29/%ce%b1%ce%bb%ce%bb%ce%bf-%ce%b5%ce%bd%ce%b1-%ce%b8%cf%85%ce%bc%ce%b1-%cf%84%cf%89%ce%bd-%ce%b4%ce%bf%ce%bb%ce%bf%cf%86%ce%bf%ce%bd%cf%89%ce%bd-%ce%b7-%ce%b4%ce%b9%ce%ac%ce%b3%ce%bd%cf%89%cf%83/)
-* [Γεραπετρίτης - Το Σάββατο το υπόμνημα της ΝΔ για το κόμμα Κασιδιάρη](https://www.grtimes.gr/ellada/gerapetritis-to-savvato-to-ypomnima-tis-nd-gia)
+  * [Ετοιμαζω Το Απολυτο Ρουα Ματ Για Το Πρωτοκολλο Του Μαζικου Εμβολιασμου](https://nikosantoniadis.tv/2023/04/29/%ce%b5%cf%84%ce%bf%ce%b9%ce%bc%ce%b1%ce%b6%cf%89-%cf%84%ce%bf-%ce%b1%cf%80%ce%bf%ce%bb%cf%85%cf%84%ce%bf-%cf%81%ce%bf%cf%85%ce%b1-%ce%bc%ce%b1%cf%84-%ce%b3%ce%b9%ce%b1-%cf%84%ce%bf-%cf%80%cf%81%cf%89/)
+* [Γεραπετρίτης - Το Σάββατο το υπόμνημα της ΝΔ για το κόμμα Κασιδιάρη](https://www.grtimes.gr/ellada/gerapetritis-to-savvato-to-ypomnima-tis-nd-gia) &nbsp; [υπόμνημα](https://www.kathimerini.gr/politics/562395916/komma-kasidiari-i-nd-katethese-ypomnima-ston-areio-pago/)
 * [Delphi Economic Forum - Fireside chat between PM Kyriakos Mitsotakis and Peter Spiegel](https://www.youtube.com/watch?v=0HUXIOj0-hU)
 * [Τσίπρας - Live στο Kontra24](https://www.facebook.com/tsiprasalexis/videos/704915071638398)
 * [🎬 Για να ξέρουμε τι έρχεται στην Ελλάδα - Συνεντευξη Σωτηρη Σωφιανοπουλου 1996](https://attikanea.info/%CE%B3%CE%B9%CE%B1-%CE%BD%CE%B1-%CE%BE%CE%AD%CF%81%CE%BF%CF%85%CE%BC%CE%B5-%CF%84%CE%B9-%CE%AD%CF%81%CF%87%CE%B5%CF%84%CE%B1%CE%B9-%CF%83%CF%84%CE%B7%CE%BD-%CE%B5%CE%BB%CE%BB%CE%AC%CE%B4%CE%B1/) [[2](https://youtu.be/iECvLxI080M)]
