@@ -2,6 +2,7 @@
 
 ## 28/04/2023
 * [Η Pfizer μοίραζε το 2021 πολλά χρήματα σε ιατρικούς συλλόγους για να προωθούν τα εμβόλια Covid-19!](https://www.pronews.gr/ygeia/i-pfizer-moiraze-to-2021-polla-xrimata-se-iatrikous-syllogous-gia-na-proothoun-ta-emvolia-covid-19/)
+  * [ALS - από εμβόλιο](https://nikosantoniadis.tv/2023/04/29/%ce%b1%ce%bb%ce%bb%ce%bf-%ce%b5%ce%bd%ce%b1-%ce%b8%cf%85%ce%bc%ce%b1-%cf%84%cf%89%ce%bd-%ce%b4%ce%bf%ce%bb%ce%bf%cf%86%ce%bf%ce%bd%cf%89%ce%bd-%ce%b7-%ce%b4%ce%b9%ce%ac%ce%b3%ce%bd%cf%89%cf%83/)
 * [Γεραπετρίτης - Το Σάββατο το υπόμνημα της ΝΔ για το κόμμα Κασιδιάρη](https://www.grtimes.gr/ellada/gerapetritis-to-savvato-to-ypomnima-tis-nd-gia)
 * [Delphi Economic Forum - Fireside chat between PM Kyriakos Mitsotakis and Peter Spiegel](https://www.youtube.com/watch?v=0HUXIOj0-hU)
 * [Τσίπρας - Live στο Kontra24](https://www.facebook.com/tsiprasalexis/videos/704915071638398)
