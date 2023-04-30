@@ -1,5 +1,13 @@
 <input id="txtSearch" onkeypress="SearchList(event);" class="ceME" placeholder="press enter to search">
 
+## 30/04/2023
+* [Χυδαία δήλωση Δένδια για την Κύπρο](https://www.youtube.com/watch?v=Moh4M3jK2WE)
+* [Η Πλεύση Ελευθερίας εμποδίζεται να καταθέσει ηλεκτρονικά τον συνδυασμό της](https://www.makeleio.gr/%ce%b5%cf%80%ce%b9%ce%ba%ce%b1%ce%b9%cf%81%ce%bf%cf%84%ce%b7%cf%84%ce%b1/%ce%96%cf%89%ce%ae-%ce%9a%cf%89%ce%bd%cf%83%cf%84%ce%b1%ce%bd%cf%84%ce%bf%cf%80%ce%bf%cf%8d%ce%bb%ce%bf%cf%85-%ce%97-%ce%a0%ce%bb%ce%b5%cf%8d%cf%83%ce%b7-%ce%95%ce%bb%ce%b5%cf%85%ce%b8%ce%b5/)
+> Κασιδιάρης - Η Κλάπα που με προφυλάκισε το 2014. Η τριάδα Κλάπα, Υφαντή, Κιουπτσίδου σε μυστική συνάντηση στου Παπάγου. [περισσοτερα](https://twitter.com/IliasKasidiaris/status/1652577363174014977)
+* [TikTok ο Μητσοτάκης](https://www.ieidiseis.gr/parapolitika/195779/to-ekane-ki-afto-pros-agra-psifon-apo-ti-neolaia-me-tiktok-o-mitsotakis)
+* [Μήπως χρειάζεται και δεύτερη εταιρεία για τα αποτελέσματα των εκλογών?](https://www.ieidiseis.gr/politiki/195796/fantasmata-pano-apo-tis-kalpes-tis-21is-maiou)
+* [Αλέξης Τσίπρας - «Κατεβαίνω στις Σέρρες για να μην ξεχαστεί το έγκλημα των Τεμπών»](https://www.ieidiseis.gr/politiki/195789/aleksis-tsipras-katevaino-stis-serres-gia-na-min-ksexastei-to-egklima-ton-tempon)
+
 ## 29/04/2023
 * [DJ - Διπλό προεκλογικό δώρο Πλεύρη στους κλινικάρχες](https://www.datajournalists.co.uk/2023/04/29/diplo-proeklogiko-doro-pleyri-stoys-klinikarches/)
 * [ΕΛΙΑΜΕΠ - Στο Ξεπουλημα Του Αιγαιου](https://attikanea.info/%CE%B1%CF%85%CF%84%CF%8C-%CE%B5%CE%AF%CE%BD%CE%B1%CE%B9-%CF%80%CE%BF%CE%BB%CF%8D-%CF%83%CE%BF%CE%B2%CE%B1%CF%81%CF%8C/)
