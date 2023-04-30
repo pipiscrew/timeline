@@ -1,8 +1,7 @@
 <input id="txtSearch" onkeypress="SearchList(event);" class="ceME" placeholder="press enter to search">
 
 ## 30/04/2023
-* [Ταχύτητα απονομής Δικαιοσύνης - Μία ακόμη θλιβερή πρωτιά](https://www.makeleio.gr/%ce%b5%cf%80%ce%b9%ce%ba%ce%b1%ce%b9%cf%81%ce%bf%cf%84%ce%b7%cf%84%ce%b1/%ce%9c%ce%af%ce%b1-%ce%b1%ce%ba%cf%8c%ce%bc%ce%b7-%ce%b8%ce%bb%ce%b9%ce%b2%ce%b5%cf%81%ce%ae-%cf%80%cf%81%cf%89%cf%84%ce%b9%ce%ac-%ce%a4%ce%b1%cf%87%cf%8d%cf%84%ce%b7%cf%84%ce%b1-%ce%b1%cf%80%ce%bf/)
-* [Απο Το Παραθυρο Μπαινει Το ΕΑΝ](https://www.makeleio.gr/%ce%b5%cf%80%ce%b9%ce%ba%ce%b1%ce%b9%cf%81%ce%bf%cf%84%ce%b7%cf%84%ce%b1/%ce%91%ce%a0%ce%9f-%ce%a4%ce%9f-%ce%a0%ce%91%ce%a1%ce%91%ce%98%ce%a5%ce%a1%ce%9f-%ce%9c%ce%a0%ce%91%ce%99%ce%9d%ce%95%ce%99-%ce%a4%ce%9f-%ce%9a%ce%9f%ce%9c%ce%9c%ce%91-%ce%9a%ce%91%ce%9d%ce%95%ce%9b/)
+* [Ελλάδα - Ταχύτητα απονομής Δικαιοσύνης - Μία ακόμη θλιβερή πρωτιά](https://www.makeleio.gr/%ce%b5%cf%80%ce%b9%ce%ba%ce%b1%ce%b9%cf%81%ce%bf%cf%84%ce%b7%cf%84%ce%b1/%ce%9c%ce%af%ce%b1-%ce%b1%ce%ba%cf%8c%ce%bc%ce%b7-%ce%b8%ce%bb%ce%b9%ce%b2%ce%b5%cf%81%ce%ae-%cf%80%cf%81%cf%89%cf%84%ce%b9%ce%ac-%ce%a4%ce%b1%cf%87%cf%8d%cf%84%ce%b7%cf%84%ce%b1-%ce%b1%cf%80%ce%bf/)
 * [Επίθεση με γιαούρτια στον Θάνο Πλεύρη](https://www.kathimerini.gr/politics/562396228/epithesi-me-giaoyrtia-ston-thano-pleyri/)
   * [Στο νοσοκομείο ο Πλεύρης με οίδημα στο μάτι](https://www.makeleio.gr/%ce%b5%cf%80%ce%b9%ce%ba%ce%b1%ce%b9%cf%81%ce%bf%cf%84%ce%b7%cf%84%ce%b1/%ce%a3%cf%84%ce%bf-%ce%bd%ce%bf%cf%83%ce%bf%ce%ba%ce%bf%ce%bc%ce%b5%ce%af%ce%bf-%ce%bf-%ce%a0%ce%bb%ce%b5%cf%8d%cf%81%ce%b7%cf%82-%ce%bc%ce%b5-%ce%bf%ce%af%ce%b4%ce%b7%ce%bc%ce%b1-%cf%83%cf%84%ce%bf/)
 * [Zaraleaks - Συνέντευξη με τον Γιάνη Βαρουφάκη](https://www.youtube.com/watch?v=_TPyXlU-GdM)
@@ -13,6 +12,7 @@
 * [Χυδαία δήλωση Δένδια για την Κύπρο](https://www.youtube.com/watch?v=Moh4M3jK2WE)
 * [Η /Πλεύση Ελευθερίας/ εμποδίζεται να καταθέσει ηλεκτρονικά τον συνδυασμό της](https://www.makeleio.gr/%ce%b5%cf%80%ce%b9%ce%ba%ce%b1%ce%b9%cf%81%ce%bf%cf%84%ce%b7%cf%84%ce%b1/%ce%96%cf%89%ce%ae-%ce%9a%cf%89%ce%bd%cf%83%cf%84%ce%b1%ce%bd%cf%84%ce%bf%cf%80%ce%bf%cf%8d%ce%bb%ce%bf%cf%85-%ce%97-%ce%a0%ce%bb%ce%b5%cf%8d%cf%83%ce%b7-%ce%95%ce%bb%ce%b5%cf%85%ce%b8%ce%b5/)
   * [Τα ίδια και για τους /Χριστιανοδημοκρατεσ/](https://www.makeleio.gr/%ce%b5%cf%80%ce%b9%ce%ba%ce%b1%ce%b9%cf%81%ce%bf%cf%84%ce%b7%cf%84%ce%b1/%ce%95%ce%9a%ce%9b%ce%9f%ce%93%ce%9f%ce%9c%ce%91%ce%93%ce%95%ce%99%ce%a1%ce%95%ce%9c%ce%91%ce%a4%ce%91-%ce%9d%ce%91%ce%96%ce%99%ce%a3%ce%a4%ce%99%ce%9a%ce%a9%ce%9d-%ce%9c%ce%95%ce%98%ce%9f%ce%94%ce%95/)
+  * [Απο Το Παραθυρο Μπαινει Το ΕΑΝ](https://www.makeleio.gr/%ce%b5%cf%80%ce%b9%ce%ba%ce%b1%ce%b9%cf%81%ce%bf%cf%84%ce%b7%cf%84%ce%b1/%ce%91%ce%a0%ce%9f-%ce%a4%ce%9f-%ce%a0%ce%91%ce%a1%ce%91%ce%98%ce%a5%ce%a1%ce%9f-%ce%9c%ce%a0%ce%91%ce%99%ce%9d%ce%95%ce%99-%ce%a4%ce%9f-%ce%9a%ce%9f%ce%9c%ce%9c%ce%91-%ce%9a%ce%91%ce%9d%ce%95%ce%9b/)
 * [Κασιδιάρης - Ζητεί να κριθούν αντισυνταγματικές οι τροπολογίες στην εκλογική νομοθεσία](https://www.kathimerini.gr/society/562396180/kasidiaris-zitei-na-krithoyn-antisyntagmatikes-oi-tropologies-stin-eklogiki-nomothesia/)
   * [Απορρίφθηκε η αίτηση του κόμματος Κασιδιάρη για εξαίρεση τριών αρεοπαγιτών. Η ανακήρυξη των κομμάτων αναμένεται το βράδυ της ερχόμενης Τρίτης, 2 Μαΐου 2023](https://www.ieidiseis.gr/ellada/195832/komma-kasidiari-omofoni-aporripsi-tis-aitisis-eksairesis-trion-dikaston-melon-tou-areiou-pagou)
   * [ΕΛΛΗΝΕΣ - Δελτίο Τύπου](https://ellhnes.net/deltio-typou-aitisi-exairesis-katethese-to-ethniko-komma-ellines)
