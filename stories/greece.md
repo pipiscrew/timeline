@@ -1,6 +1,12 @@
 <input id="txtSearch" onkeypress="SearchList(event);" class="ceME" placeholder="press enter to search">
 
 ## 30/04/2023
+* [Zaraleaks - Συνέντευξη με τον Γιάνη Βαρουφάκη](https://www.youtube.com/watch?v=_TPyXlU-GdM)
+* [Προχωρά το σχέδιο διάσωσης της First Republic](https://www.businessnews.gr/kosmos/item/262946-proxora-to-sxedio-diasosis-tis-first-republic)
+* [Η λέξη Pele προστέθηκε στο πορτογαλικό λεξικό ως συνώνυμο της αριστείας](https://www.grtimes.gr/athlitismos/i-lexi-pele-prostethike-sto-portogaliko-lexiko-os)
+* [Live η ομιλία του Αλέξη Τσίπρα στο Μενίδι](https://www.documentonews.gr/article/live-i-omilia-toy-alexi-tsipra-sto-menidi/)
+* [Ξενοδοχεία Ελληνοκυπρίων αγοράζονται στην Αμμόχωστο](https://www.kathimerini.gr/world/562395970/xenodocheia-ellinokyprion-agorazontai-stin-ammochosto/)
+* [Το χάπι για την άμβλωση νόμιμο και διαθέσιμο πλέον στην Ιαπωνία](https://www.kathimerini.gr/world/562395979/to-chapi-gia-tin-amvlosi-nomimo-kai-diathesimo-pleon-stin-iaponia/)
 * [Χυδαία δήλωση Δένδια για την Κύπρο](https://www.youtube.com/watch?v=Moh4M3jK2WE)
 * [Η Πλεύση Ελευθερίας εμποδίζεται να καταθέσει ηλεκτρονικά τον συνδυασμό της](https://www.makeleio.gr/%ce%b5%cf%80%ce%b9%ce%ba%ce%b1%ce%b9%cf%81%ce%bf%cf%84%ce%b7%cf%84%ce%b1/%ce%96%cf%89%ce%ae-%ce%9a%cf%89%ce%bd%cf%83%cf%84%ce%b1%ce%bd%cf%84%ce%bf%cf%80%ce%bf%cf%8d%ce%bb%ce%bf%cf%85-%ce%97-%ce%a0%ce%bb%ce%b5%cf%8d%cf%83%ce%b7-%ce%95%ce%bb%ce%b5%cf%85%ce%b8%ce%b5/)
 > Κασιδιάρης - Η Κλάπα που με προφυλάκισε το 2014. Η τριάδα Κλάπα, Υφαντή, Κιουπτσίδου σε μυστική συνάντηση στου Παπάγου. [περισσοτερα](https://twitter.com/IliasKasidiaris/status/1652577363174014977)
@@ -18,6 +24,7 @@
 * [«Σκαει Κανονι» και στην First Republic Bank](https://www.makeleio.gr/%ce%b5%cf%80%ce%b9%ce%ba%ce%b1%ce%b9%cf%81%ce%bf%cf%84%ce%b7%cf%84%ce%b1/%ce%a3%ce%9a%ce%91%ce%95%ce%99-%ce%9a%ce%91%ce%9d%ce%9f%ce%9d%ce%99-%ce%9a%ce%91%ce%99-%ce%a3%ce%a4%ce%97%ce%9d-first-republic-bank-%ce%97-%ce%a4%ce%a1%ce%99%ce%a4%ce%97-%ce%a5%ce%a0/)
 
 ## 28/04/2023
+* [To ChatGPT έδωσε καλύτερες συμβουλές σε ασθενείς απ' ό,τι οι γιατροί](https://www.businessnews.gr/epixeiriseis/texnologia/item/262918-erevna-to-chatgpt-edose-kalyteres-symvoules-se-astheneis-ap-o-ti-oi-giatroi)
 * [Η Pfizer μοίραζε το 2021 πολλά χρήματα σε ιατρικούς συλλόγους για να προωθούν τα εμβόλια Covid-19!](https://www.pronews.gr/ygeia/i-pfizer-moiraze-to-2021-polla-xrimata-se-iatrikous-syllogous-gia-na-proothoun-ta-emvolia-covid-19/)
   * [ALS - από εμβόλιο](https://nikosantoniadis.tv/2023/04/29/%ce%b1%ce%bb%ce%bb%ce%bf-%ce%b5%ce%bd%ce%b1-%ce%b8%cf%85%ce%bc%ce%b1-%cf%84%cf%89%ce%bd-%ce%b4%ce%bf%ce%bb%ce%bf%cf%86%ce%bf%ce%bd%cf%89%ce%bd-%ce%b7-%ce%b4%ce%b9%ce%ac%ce%b3%ce%bd%cf%89%cf%83/)
   * [Ετοιμαζω Το Απολυτο Ρουα Ματ Για Το Πρωτοκολλο Του Μαζικου Εμβολιασμου](https://nikosantoniadis.tv/2023/04/29/%ce%b5%cf%84%ce%bf%ce%b9%ce%bc%ce%b1%ce%b6%cf%89-%cf%84%ce%bf-%ce%b1%cf%80%ce%bf%ce%bb%cf%85%cf%84%ce%bf-%cf%81%ce%bf%cf%85%ce%b1-%ce%bc%ce%b1%cf%84-%ce%b3%ce%b9%ce%b1-%cf%84%ce%bf-%cf%80%cf%81%cf%89/)
