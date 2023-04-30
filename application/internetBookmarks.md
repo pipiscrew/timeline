@@ -152,7 +152,8 @@
 * [stremio](https://www.stremio.com/)  must [install](https://torrentio.strem.fun/configure) via strem [protocol](stremio://torrentio.strem.fun/manifest.json) - paste into stremio search bar
 * [Tubi](https://tubi.tv/) - for non EU countries  
 * [35mm](https://35mm.online/) - Classic Polish films  
-* [sportLemonTV](https://sportlemons.net/) - Live Sport Streams  
+* [sportLemonTV](https://sportlemons.net/) - Live Sport Streams
+* [livetvSX](https://livetv.sx/) - Live Sport Streams
 * [RealityPoint](http://realitypoint.com/Data/RealityPoint%20Media.html) [[2](http://realitypoint.com/Data/Desperate%20Housewives%20Season%201.html)]
 
 ## tv
