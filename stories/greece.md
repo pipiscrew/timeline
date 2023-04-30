@@ -4,7 +4,6 @@
 * [Zaraleaks - Συνέντευξη με τον Γιάνη Βαρουφάκη](https://www.youtube.com/watch?v=_TPyXlU-GdM)
 * [Προχωρά το σχέδιο διάσωσης της First Republic](https://www.businessnews.gr/kosmos/item/262946-proxora-to-sxedio-diasosis-tis-first-republic)
 * [Η λέξη Pele προστέθηκε στο πορτογαλικό λεξικό ως συνώνυμο της αριστείας](https://www.grtimes.gr/athlitismos/i-lexi-pele-prostethike-sto-portogaliko-lexiko-os)
-* [Live η ομιλία του Αλέξη Τσίπρα στο Μενίδι](https://www.documentonews.gr/article/live-i-omilia-toy-alexi-tsipra-sto-menidi/)
 * [Ξενοδοχεία Ελληνοκυπρίων αγοράζονται στην Αμμόχωστο](https://www.kathimerini.gr/world/562395970/xenodocheia-ellinokyprion-agorazontai-stin-ammochosto/)
 * [Το χάπι για την άμβλωση νόμιμο και διαθέσιμο πλέον στην Ιαπωνία](https://www.kathimerini.gr/world/562395979/to-chapi-gia-tin-amvlosi-nomimo-kai-diathesimo-pleon-stin-iaponia/)
 * [Χυδαία δήλωση Δένδια για την Κύπρο](https://www.youtube.com/watch?v=Moh4M3jK2WE)
