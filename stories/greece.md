@@ -1,6 +1,14 @@
 <input id="txtSearch" onkeypress="SearchList(event);" class="ceME" placeholder="press enter to search">
 
 ## 01/05/2023
+* [Η ωμή παρέμβαση της κυβέρνησης Μητσοτάκη καταργεί πάγιες Δικονομικές Αρχές](https://www.ieidiseis.gr/ellada/195936/omi-paremvasi-i-kyvernisi-mitsotaki-katargei-pagies-dikonomikes-arxes-akomi-kai-tou-areiou-pagou)
+* [Πεδίο μάχης την Πρωτομαγιά το Παρίσι](https://youtu.be/ePbbgn1eyU4)
+* [Χριστιανοδημοκρατες - Μηνυση και Αγωγη Κατα της Singular](https://www.makeleio.gr/%ce%b5%cf%80%ce%b9%ce%ba%ce%b1%ce%b9%cf%81%ce%bf%cf%84%ce%b7%cf%84%ce%b1/%ce%95%ce%9b%ce%9b%ce%97%ce%9d%ce%95%ce%a3-%ce%a7%ce%a1%ce%99%ce%a3%ce%a4%ce%99%ce%91%ce%9d%ce%9f%ce%94%ce%97%ce%9c%ce%91%ce%9a%ce%a1%ce%91%ce%a4%ce%95%ce%a3-%ce%9c%ce%97%ce%9d%ce%a5%ce%a3%ce%97/)
+* [Anazyle - την πολιτική παρτούζα](https://youtu.be/oICLPN4vySQ)
+* [Η Δύση ετοιμάζει διαμεσολάβηση στα ελληνοτουρκικά μετά τις εκλογές](https://www.grtimes.gr/diethni/dw-i-dysi-etoimazei-diamesolavisi-sta-ellinotoyrkika-meta)
+* [Παναγιώτης Παύλος - Πανεπιστήμιο του Όσλο - Μισέλληνες στο Ελληνικό πολιτικό σύστημα](https://youtu.be/VWCNtVy0qwk)
+* [Περίπου 69 εκατομμύρια θέσεις εργασίας θα δημιουργηθούν και 83 εκατομμύρια θα καταργηθούν μέχρι το 2027](https://www.businessnews.gr/kosmos/item/262978-to-pagkosmio-oikonomiko-foroum-provlepei-anakatatakseis-stin-agora-ergasias)
+  * [Τα επαγγέλματα που κινδυνεύουν](https://www.kathimerini.gr/economy/international/562396918/pagkosmio-oikonomiko-foroym-mia-stis-tesseris-theseis-ergasias-tha-allaxoyn-ta-epomena-chronia/)
 * [Καταγγελία Ανδρέα Ρεντζόπουλου για τον αποκλεισμό του κόμματός του](https://www.makeleio.gr/%ce%b5%cf%80%ce%b9%ce%ba%ce%b1%ce%b9%cf%81%ce%bf%cf%84%ce%b7%cf%84%ce%b1/%ce%9c%ce%b5%ce%b8%ce%bf%ce%b4%ce%b5%cf%8d%cf%83%ce%b5%ce%b9%cf%82-%ce%bf%cf%81%ce%b3%ce%ae%cf%82-%ce%9a%ce%b1%cf%84%ce%b1%ce%b3%ce%b3%ce%b5%ce%bb%ce%af%ce%b1-%ce%91%ce%bd%ce%b4%cf%81%ce%ad%ce%b1/)
 * [Κωνσταντοπούλου - «Επιχειρήθηκε ο αποκλεισμός της Πλεύσης Ελευθερίας από τις εκλογές»](https://www.ieidiseis.gr/politiki/195891/konstantopoylou-epixeirithike-o-apokleismos-tis-pleysis-eleftherias-apo-tis-ekloges)
 * [US - Κατέρρευσε η First Republic Bank - Στην JPMorgan περνούν οι καταθέσεις](https://www.kathimerini.gr/economy/international/562396513/ipa-katerreyse-i-first-republic-bank-stin-jpmorgan-pernoyn-oi-katatheseis/)
@@ -21,7 +29,7 @@
 * [Το χάπι για την άμβλωση νόμιμο και διαθέσιμο πλέον στην Ιαπωνία](https://www.kathimerini.gr/world/562395979/to-chapi-gia-tin-amvlosi-nomimo-kai-diathesimo-pleon-stin-iaponia/)
 * [Χυδαία δήλωση Δένδια για την Κύπρο](https://www.youtube.com/watch?v=Moh4M3jK2WE)
 * [Η /Πλεύση Ελευθερίας/ εμποδίζεται να καταθέσει ηλεκτρονικά τον συνδυασμό της](https://www.makeleio.gr/%ce%b5%cf%80%ce%b9%ce%ba%ce%b1%ce%b9%cf%81%ce%bf%cf%84%ce%b7%cf%84%ce%b1/%ce%96%cf%89%ce%ae-%ce%9a%cf%89%ce%bd%cf%83%cf%84%ce%b1%ce%bd%cf%84%ce%bf%cf%80%ce%bf%cf%8d%ce%bb%ce%bf%cf%85-%ce%97-%ce%a0%ce%bb%ce%b5%cf%8d%cf%83%ce%b7-%ce%95%ce%bb%ce%b5%cf%85%ce%b8%ce%b5/)
-  * [Τα ίδια και για τους /Χριστιανοδημοκρατεσ/](https://www.makeleio.gr/%ce%b5%cf%80%ce%b9%ce%ba%ce%b1%ce%b9%cf%81%ce%bf%cf%84%ce%b7%cf%84%ce%b1/%ce%95%ce%9a%ce%9b%ce%9f%ce%93%ce%9f%ce%9c%ce%91%ce%93%ce%95%ce%99%ce%a1%ce%95%ce%9c%ce%91%ce%a4%ce%91-%ce%9d%ce%91%ce%96%ce%99%ce%a3%ce%a4%ce%99%ce%9a%ce%a9%ce%9d-%ce%9c%ce%95%ce%98%ce%9f%ce%94%ce%95/)
+  * [Τα ίδια και για τους /Χριστιανοδημοκρατες/](https://www.makeleio.gr/%ce%b5%cf%80%ce%b9%ce%ba%ce%b1%ce%b9%cf%81%ce%bf%cf%84%ce%b7%cf%84%ce%b1/%ce%95%ce%9a%ce%9b%ce%9f%ce%93%ce%9f%ce%9c%ce%91%ce%93%ce%95%ce%99%ce%a1%ce%95%ce%9c%ce%91%ce%a4%ce%91-%ce%9d%ce%91%ce%96%ce%99%ce%a3%ce%a4%ce%99%ce%9a%ce%a9%ce%9d-%ce%9c%ce%95%ce%98%ce%9f%ce%94%ce%95/)
   * [Απο Το Παραθυρο Μπαινει Το ΕΑΝ](https://www.makeleio.gr/%ce%b5%cf%80%ce%b9%ce%ba%ce%b1%ce%b9%cf%81%ce%bf%cf%84%ce%b7%cf%84%ce%b1/%ce%91%ce%a0%ce%9f-%ce%a4%ce%9f-%ce%a0%ce%91%ce%a1%ce%91%ce%98%ce%a5%ce%a1%ce%9f-%ce%9c%ce%a0%ce%91%ce%99%ce%9d%ce%95%ce%99-%ce%a4%ce%9f-%ce%9a%ce%9f%ce%9c%ce%9c%ce%91-%ce%9a%ce%91%ce%9d%ce%95%ce%9b/)
   * [Θα είναι στις εκλογές η «Πλεύση Ελευθερίας»](https://www.pronews.gr/pronews-tv/apokleistikan-pleysi-eleytherias-kai-ellines-xristianodimokrates-giati-den-katatethikan-sosta-ta-mixanografika-tous-sto-systima-tou-ypes/)
 * [Κασιδιάρης - Ζητεί να κριθούν αντισυνταγματικές οι τροπολογίες στην εκλογική νομοθεσία](https://www.kathimerini.gr/society/562396180/kasidiaris-zitei-na-krithoyn-antisyntagmatikes-oi-tropologies-stin-eklogiki-nomothesia/)
