@@ -6,7 +6,7 @@
 * [Χριστιανοδημοκρατες - Μηνυση και Αγωγη Κατα της Singular](https://www.makeleio.gr/%ce%b5%cf%80%ce%b9%ce%ba%ce%b1%ce%b9%cf%81%ce%bf%cf%84%ce%b7%cf%84%ce%b1/%ce%95%ce%9b%ce%9b%ce%97%ce%9d%ce%95%ce%a3-%ce%a7%ce%a1%ce%99%ce%a3%ce%a4%ce%99%ce%91%ce%9d%ce%9f%ce%94%ce%97%ce%9c%ce%91%ce%9a%ce%a1%ce%91%ce%a4%ce%95%ce%a3-%ce%9c%ce%97%ce%9d%ce%a5%ce%a3%ce%97/)
 * [🎬 Analyze - την πολιτική παρτούζα](https://youtu.be/oICLPN4vySQ)
 * [Η Δύση ετοιμάζει διαμεσολάβηση στα ελληνοτουρκικά μετά τις εκλογές](https://www.grtimes.gr/diethni/dw-i-dysi-etoimazei-diamesolavisi-sta-ellinotoyrkika-meta)
-* [Παναγιώτης Παύλος - Πανεπιστήμιο του Όσλο - Μισέλληνες στο Ελληνικό πολιτικό σύστημα](https://youtu.be/VWCNtVy0qwk)
+* [🎬 Παναγιώτης Παύλος - Πανεπιστήμιο του Όσλο - Μισέλληνες στο Ελληνικό πολιτικό σύστημα](https://youtu.be/VWCNtVy0qwk)
 * [Περίπου 69 εκατομμύρια θέσεις εργασίας θα δημιουργηθούν και 83 εκατομμύρια θα καταργηθούν μέχρι το 2027](https://www.businessnews.gr/kosmos/item/262978-to-pagkosmio-oikonomiko-foroum-provlepei-anakatatakseis-stin-agora-ergasias)
   * [Τα επαγγέλματα που κινδυνεύουν](https://www.kathimerini.gr/economy/international/562396918/pagkosmio-oikonomiko-foroym-mia-stis-tesseris-theseis-ergasias-tha-allaxoyn-ta-epomena-chronia/)
 * [Καταγγελία Ανδρέα Ρεντζόπουλου για τον αποκλεισμό του κόμματός του](https://www.makeleio.gr/%ce%b5%cf%80%ce%b9%ce%ba%ce%b1%ce%b9%cf%81%ce%bf%cf%84%ce%b7%cf%84%ce%b1/%ce%9c%ce%b5%ce%b8%ce%bf%ce%b4%ce%b5%cf%8d%cf%83%ce%b5%ce%b9%cf%82-%ce%bf%cf%81%ce%b3%ce%ae%cf%82-%ce%9a%ce%b1%cf%84%ce%b1%ce%b3%ce%b3%ce%b5%ce%bb%ce%af%ce%b1-%ce%91%ce%bd%ce%b4%cf%81%ce%ad%ce%b1/)
