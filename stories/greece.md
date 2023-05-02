@@ -1,7 +1,22 @@
 <input id="txtSearch" onkeypress="SearchList(event);" class="ceME" placeholder="press enter to search">
 
+## 02/05/2023
+* [🎬 Μητσοτάκης - Καλύτερη Δημόσια Υγεία για όλους](https://www.ieidiseis.gr/politiki/196038/syzitisi-kyriakou-mitsotaki-me-polites-gia-tin-ygeia-live-streaming)
+* [ΣΚΑΪ - ως μαντείο των Δελφών προανήγγειλε τον αποκλεισμό του Εθνικού Κόμματος ΕΛΛΗΝΕΣ από τις εκλογές](https://twitter.com/IliasKasidiaris/status/1653377554806448130)
+  * [Προς απαγόρευση το κόμμα Κασιδιάρη από τις εκλογές](https://www.ieidiseis.gr/politiki/196051/kovetai-to-komma-kasidiari-apo-tis-ekloges-stis-8-oi-apofaseis-tou-ap)
+* [«Smart Υμηττός» με την υπογραφή αξιοπιστίας της Nova!](https://www.documentonews.gr/article/smart-ymittos-me-tin-ypografi-axiopistias-tis-nova/)
+* [RSF - Προ των πυλών η νέα παγκόσμια κατάταξη για την Ελευθερία του Τύπου](https://www.documentonews.gr/article/rsf-tin-tetarti-i-nea-pagkosmia-katataxi-gia-tin-eleytheria-toy-typoy-plirofories-gia-neo-elliniko-vaterlo/)
+* [Παραιτήθηκε από την Google ο «πατέρας» της τεχνητής νοημοσύνης - Οι ηχηρές προειδοποιήσεις](https://www.ieidiseis.gr/texnologia/196008/paraitithike-apo-tin-google-o-pateras-tis-texnitis-noimosynis-oi-ixires-proeidopoiiseis)
+* [Η Ινδία κατασκεύασε την ψηλότερη γέφυρα στον κόσμο](https://www.kathimerini.gr/world/562397938/i-india-kataskeyase-tin-psiloteri-gefyra-ston-kosmo-pio-psila-apo-ton-pyrgo-toy-aifel/)
+* [Biden - episode 08](https://twitter.com/Marka2free/status/1652801350609121283)
+* [Σήμερα οι αποφάσεις για Κανελλόπουλο - Κασιδιάρη](https://www.ieidiseis.gr/politiki/195971/o-areios-pagos-eksafanizei-ti-deksia-tis-deksias-simera-oi-apofaseis-gia-kanellopoulo-kasidiari)
+* [Τα εμβόλια Covid-19 δεν ήταν ποτέ ασφαλή για τις εγκύους – Συγγνώμη για τους νεκρούς, κάναμε λάθος](https://www.makeleio.gr/%ce%b5%cf%80%ce%b9%ce%ba%ce%b1%ce%b9%cf%81%ce%bf%cf%84%ce%b7%cf%84%ce%b1/%ce%9c%ce%95-%ce%95%ce%9d%ce%91-%ce%a3%ce%a5%ce%93%ce%9d%ce%a9%ce%9c%ce%97-%ce%9a%ce%91%ce%98%ce%91%ce%a1%ce%99%ce%a3%ce%95-%ce%97-pfizer-%ce%a4%ce%b1-%ce%b5%ce%bc%ce%b2%cf%8c%ce%bb%ce%b9/)
+  * [Nioland - Eμβόλια](https://attikanea.info/%CE%B5%CE%BC%CE%B2%CE%BF%CE%BB%CE%B9%CE%AC%CF%83%CF%84%CE%B7%CE%BA%CE%B1%CE%BD-%CE%BA%CE%B1%CE%BB%CE%AE-%CF%84%CE%B7-%CF%80%CE%AF%CF%83%CF%84%CE%B5%CE%B9-%CE%BC%CE%B5-%CE%AD%CE%BD%CE%B1-%CF%80%CE%B5/)
+* [Μπαράζ συγχωνεύσεων και εξαγορών στα τρόφιμα](https://www.kathimerini.gr/economy/562393687/mparaz-sygchoneyseon-kai-exagoron-sta-trofima/)
+
 ## 01/05/2023
 * [Η ωμή παρέμβαση της κυβέρνησης Μητσοτάκη καταργεί πάγιες Δικονομικές Αρχές](https://www.ieidiseis.gr/ellada/195936/omi-paremvasi-i-kyvernisi-mitsotaki-katargei-pagies-dikonomikes-arxes-akomi-kai-tou-areiou-pagou)
+  * [Κασιδιάρη – αν υπάρξει διχογνωμία, 5 με 5 wtf?](https://www.ieidiseis.gr/ellada/195952/ora-miden-gia-to-komma-kasidiari-simera-i-apofasi-tou-areiou-pagou)
 * [🎬 Πεδίο μάχης την Πρωτομαγιά το Παρίσι](https://youtu.be/ePbbgn1eyU4)
 * [Χριστιανοδημοκρατες - Μηνυση και Αγωγη Κατα της Singular](https://www.makeleio.gr/%ce%b5%cf%80%ce%b9%ce%ba%ce%b1%ce%b9%cf%81%ce%bf%cf%84%ce%b7%cf%84%ce%b1/%ce%95%ce%9b%ce%9b%ce%97%ce%9d%ce%95%ce%a3-%ce%a7%ce%a1%ce%99%ce%a3%ce%a4%ce%99%ce%91%ce%9d%ce%9f%ce%94%ce%97%ce%9c%ce%91%ce%9a%ce%a1%ce%91%ce%a4%ce%95%ce%a3-%ce%9c%ce%97%ce%9d%ce%a5%ce%a3%ce%97/)
 * [🎬 Analyze - την πολιτική παρτούζα](https://youtu.be/oICLPN4vySQ)
