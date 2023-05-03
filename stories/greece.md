@@ -1,16 +1,22 @@
 <input id="txtSearch" onkeypress="SearchList(event);" class="ceME" placeholder="press enter to search">
 
 ## 03/05/2023
+* [DJ - Η Ελλάδα πέταξε δεκάδες δισεκατομμύρια σε ακατάλληλα όπλα](https://www.datajournalists.co.uk/2023/05/03/i-ellada-petaxe-dekades-disekatommyria-se-akatallila-opla/)
+* [Μητσοτάκης - Στη νέα τετραετία ψηφιοποιούμε όλο το Δημόσιο](https://twitter.com/kmitsotakis/status/1653818092886331393?ref_src=twsrc%5Etfw)
+* [Καταγράφηκε για πρώτη φορά εγκεφαλικό κύμα στα χταπόδια - Προσομοιάζει με αυτό του ανθρώπινου εγκεφάλου](https://www.kathimerini.gr/life/science/562399873/katagrafike-gia-proti-fora-egkefaliko-kyma-sta-chtapodia-prosomoiazei-me-ayto-toy-anthropinoy-egkefaloy/)
 * [DW - Massive international police operation targets Italian mafia](https://www.youtube.com/watch?v=SgbVCo9UIh4)
 * [Πλοίο ελληνικών συμφερόντων δέσμευσαν οι Φρουροί της Επανάστασης στο Ιράν](https://www.makeleio.gr/%ce%b5%cf%80%ce%b9%ce%ba%ce%b1%ce%b9%cf%81%ce%bf%cf%84%ce%b7%cf%84%ce%b1/%ce%a0%ce%bb%ce%bf%ce%af%ce%bf-%ce%b5%ce%bb%ce%bb%ce%b7%ce%bd%ce%b9%ce%ba%cf%8e%ce%bd-%cf%83%cf%85%ce%bc%cf%86%ce%b5%cf%81%cf%8c%ce%bd%cf%84%cf%89%ce%bd-%ce%b4%ce%ad%cf%83%ce%bc%ce%b5%cf%85%cf%83/)
 * [Οπισθοχώρηση Γκάγκα μετά τον σάλο - «Άκυρο» στην εγκύκλιο για τις εφημερίες στα νοσοκομεία](https://www.ieidiseis.gr/ygeia/196211/opisthoxorisi-gagka-meta-ton-salo-akyro-stin-egkyklio-gia-tis-efimeries-sta-nosokomeia)
 * [«Kόβει» 7,800 θέσεις εργασίας λόγω τεχνητής νοημοσύνης η IBM](https://www.businessnews.gr/epixeiriseis/item/263118-kovei-7-800-theseis-ergasias-logo-texnitis-noimosynis-i-ibm)
 * [Μητσοτάκης για κόμμα Κασιδιάρη - «Υψώσαμε ανάχωμα Δημοκρατίας»](https://www.kathimerini.gr/politics/562399897/mitsotakis-apo-perama-i-anaptyxi-toy-naypigoepiskeyastikoy-kladoy-megali-proklisi-tis-epomenis-meras/)
+  * [Ανακοίνωση Κασιδιάρη μετά το μπλόκο του Αρείου Πάγου](https://www.kathimerini.gr/politics/562400467/ekloges-anakoinosi-kasidiari-meta-to-mploko-toy-areioy-pagoy/)
+  * [🎬 Ανακοίνωση Κασιδιάρη μετά το μπλόκο του Αρείου Πάγου](https://www.youtube.com/watch?v=ev0UVGq7nb8)
+  * [Η δικηγόρος του Ηλ. Κασιδιάρη, Β. Πανταζή](https://youtu.be/e5jQWvhp9PE?t=129)
 * [Εννέα στις δέκα επιχειρήσεις δεν βρίσκουν προσωπικό](https://www.kathimerini.gr/economy/562399270/ennea-stis-deka-epicheiriseis-den-vriskoyn-prosopiko/)
 * [Αναθεώρηση των κανόνων εισδοχής μεταναστών στην ΕΕ](https://www.documentonews.gr/article/diethnis-typos-o-mpainten-stelnei-1-500-stratiotes-sta-synora-me-to-mexiko-anatheorisi-ton-kanonon-eisdoxis-metanaston-stin-ee/)
 * [US - Ανεξέλεγκτο αυτοκίνητο καταλήγει πάνω σε αστυνομικό](https://youtu.be/DfE3y0P-US4)
 * [Εδώ δούλεψαν σαν σκλάβοι των ναζί](https://www.kathimerini.gr/society/562393327/edo-doylepsan-san-sklavoi-ton-nazi/)
-* [Πόλεμος στην Ουκρανία - Η ΕΕ θα διαθέσει 1 δισεκ, ευρώ για την παραγωγή οβίδων](https://www.kathimerini.gr/world/562399447/polemos-stin-oykrania-i-ee-tha-diathesei-1-disek-eyro-gia-tin-paragogi-ovidon/)
+* [Πόλεμος στην Ουκρανία - Η ΕΕ θα διαθέσει 1 δισεκ. ευρώ για την παραγωγή οβίδων](https://www.kathimerini.gr/world/562399447/polemos-stin-oykrania-i-ee-tha-diathesei-1-disek-eyro-gia-tin-paragogi-ovidon/)
 * [Τσαρλς Νταλάρα - Αν η Ελλάδα είχε χρεοκοπήσει θα κατέρρεε η ευρωζώνη](https://www.businessnews.gr/oikonomia/item/263071-tsarls-dalara-an-i-ellada-eixe-xreokopisei-tha-katerree-i-evrozoni)
 
 ## 02/05/2023
