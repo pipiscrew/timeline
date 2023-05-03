@@ -1,5 +1,18 @@
 <input id="txtSearch" onkeypress="SearchList(event);" class="ceME" placeholder="press enter to search">
 
+## 03/05/2023
+* [DW - Massive international police operation targets Italian mafia](https://www.youtube.com/watch?v=SgbVCo9UIh4)
+* [Πλοίο ελληνικών συμφερόντων δέσμευσαν οι Φρουροί της Επανάστασης στο Ιράν](https://www.makeleio.gr/%ce%b5%cf%80%ce%b9%ce%ba%ce%b1%ce%b9%cf%81%ce%bf%cf%84%ce%b7%cf%84%ce%b1/%ce%a0%ce%bb%ce%bf%ce%af%ce%bf-%ce%b5%ce%bb%ce%bb%ce%b7%ce%bd%ce%b9%ce%ba%cf%8e%ce%bd-%cf%83%cf%85%ce%bc%cf%86%ce%b5%cf%81%cf%8c%ce%bd%cf%84%cf%89%ce%bd-%ce%b4%ce%ad%cf%83%ce%bc%ce%b5%cf%85%cf%83/)
+* [Οπισθοχώρηση Γκάγκα μετά τον σάλο - «Άκυρο» στην εγκύκλιο για τις εφημερίες στα νοσοκομεία](https://www.ieidiseis.gr/ygeia/196211/opisthoxorisi-gagka-meta-ton-salo-akyro-stin-egkyklio-gia-tis-efimeries-sta-nosokomeia)
+* [«Kόβει» 7,800 θέσεις εργασίας λόγω τεχνητής νοημοσύνης η IBM](https://www.businessnews.gr/epixeiriseis/item/263118-kovei-7-800-theseis-ergasias-logo-texnitis-noimosynis-i-ibm)
+* [Μητσοτάκης για κόμμα Κασιδιάρη - «Υψώσαμε ανάχωμα Δημοκρατίας»](https://www.kathimerini.gr/politics/562399897/mitsotakis-apo-perama-i-anaptyxi-toy-naypigoepiskeyastikoy-kladoy-megali-proklisi-tis-epomenis-meras/)
+* [Εννέα στις δέκα επιχειρήσεις δεν βρίσκουν προσωπικό](https://www.kathimerini.gr/economy/562399270/ennea-stis-deka-epicheiriseis-den-vriskoyn-prosopiko/)
+* [Αναθεώρηση των κανόνων εισδοχής μεταναστών στην ΕΕ](https://www.documentonews.gr/article/diethnis-typos-o-mpainten-stelnei-1-500-stratiotes-sta-synora-me-to-mexiko-anatheorisi-ton-kanonon-eisdoxis-metanaston-stin-ee/)
+* [US - Ανεξέλεγκτο αυτοκίνητο καταλήγει πάνω σε αστυνομικό](https://youtu.be/DfE3y0P-US4)
+* [Εδώ δούλεψαν σαν σκλάβοι των ναζί](https://www.kathimerini.gr/society/562393327/edo-doylepsan-san-sklavoi-ton-nazi/)
+* [Πόλεμος στην Ουκρανία - Η ΕΕ θα διαθέσει 1 δισεκ, ευρώ για την παραγωγή οβίδων](https://www.kathimerini.gr/world/562399447/polemos-stin-oykrania-i-ee-tha-diathesei-1-disek-eyro-gia-tin-paragogi-ovidon/)
+* [Τσαρλς Νταλάρα - Αν η Ελλάδα είχε χρεοκοπήσει θα κατέρρεε η ευρωζώνη](https://www.businessnews.gr/oikonomia/item/263071-tsarls-dalara-an-i-ellada-eixe-xreokopisei-tha-katerree-i-evrozoni)
+
 ## 02/05/2023
 * [Παγώνη κατά Γκάγκα - Επικίνδυνη και εξευτελιστική για τους ασθενείς η τροπολογία του υπουργείου Υγείας](https://www.ieidiseis.gr/ellada/196068/pagoni-kata-gagka-epikindyni-kai-ekseftelistiki-gia-tous-astheneis-i-tropologia-tou-ypourgeiou-ygeias)
 * [Με πανό «υποδέχθηκαν» τον Μητσοτάκη σπουδαστές της δραματικής σχολής](https://www.documentonews.gr/article/me-pano-ypodexthikan-ton-mitsotaki-spoydastes-tis-dramatikis-sxolis-photos/)
@@ -12,6 +25,7 @@
   * [Αποκλείστηκε από τις εκλογές](https://www.ieidiseis.gr/politiki/196026/areios-pagos-stop-ston-kasidiari-nai-sto-ean-i-lista-ton-kommaton-pou-symmetexoun-stis-ekloges)
     * [O Aρειος Παγος Μπλοκαρε το Εθνικο Κομμα Ελληνεσ Με Ψηφους 9-1](https://www.makeleio.gr/%ce%b5%cf%80%ce%b9%ce%ba%ce%b1%ce%b9%cf%81%ce%bf%cf%84%ce%b7%cf%84%ce%b1/o-a%ce%a1%ce%95%ce%99%ce%9f%ce%a3-%ce%a0%ce%91%ce%93%ce%9f%ce%a3-%ce%9c%ce%a0%ce%9b%ce%9f%ce%9a%ce%91%ce%a1%ce%95-%ce%a4%ce%9f-%ce%95%ce%98%ce%9d%ce%99%ce%9a%ce%9f-%ce%9a%ce%9f%ce%9c%ce%9c%ce%91/)
     * [O Αρεοπαγίτης Φώτης Μουζάκης, ήταν ο ένας από τους 10 που μειοψήφησε](https://www.ieidiseis.gr/politiki/196085/to-skeptiko-tis-apofasis-tou-areiou-pagou-gia-to-mploko-sto-komma-kasidiari)
+    * [03/05] [Άρειος Πάγος - Το σκεπτικό για το μπλόκο στον Κασιδιάρη](https://www.businessnews.gr/politiki/item/263083-to-skeptiko-tou-ap-gia-mploko-se-kasidiari-parotrynei-stin-askisi-vias-den-sevetai-ti-dimokratia)
 * [«Smart Υμηττός» με την υπογραφή αξιοπιστίας της Nova!](https://www.documentonews.gr/article/smart-ymittos-me-tin-ypografi-axiopistias-tis-nova/)
 * [RSF - Προ των πυλών η νέα παγκόσμια κατάταξη για την Ελευθερία του Τύπου](https://www.documentonews.gr/article/rsf-tin-tetarti-i-nea-pagkosmia-katataxi-gia-tin-eleytheria-toy-typoy-plirofories-gia-neo-elliniko-vaterlo/)
 * [Παραιτήθηκε από την Google ο «πατέρας» της τεχνητής νοημοσύνης - Οι ηχηρές προειδοποιήσεις](https://www.ieidiseis.gr/texnologia/196008/paraitithike-apo-tin-google-o-pateras-tis-texnitis-noimosynis-oi-ixires-proeidopoiiseis)
