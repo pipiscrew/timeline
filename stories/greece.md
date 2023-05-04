@@ -1,6 +1,13 @@
 <input id="txtSearch" onkeypress="SearchList(event);" class="ceME" placeholder="press enter to search">
 
 ## 04/05/2023
+* [ΣΥΡΙΖΑ - Όθων Ηλιόπουλος](https://twitter.com/Greek_praitor/status/1654087849010946049) [[2](https://twitter.com/i/status/1654022058072854528)]
+* [US - «Σωσίβιο» αναζητά και η Western Alliance](https://www.businessnews.gr/epixeiriseis/item/263220-sosivio-anazita-kai-i-western-alliance)
+* [🎬 Κωνσταντοπούλου - «Δώσε ζωή στην Βουλή!»](https://www.grtimes.gr/ellada/konstantopoyloy-dose-zoi-stin-voyli-ti-eipothike-gia)
+* [Μητσοτάκης στην Κεφαλλονιά](https://twitter.com/theocha52630506/status/1654095202720661504)
+* [Ντογιάκος είχε προσφύγει στο Ευρωπαϊκό Δικαστήριο το 2017](https://attikanea.info/%CF%83%CE%B9%CE%B3%CE%AE-%CE%B1%CF%83%CF%85%CF%81%CE%BC%CE%AC%CF%84%CE%BF%CF%85-%CE%B1%CF%80%CF%8C-%CF%84%CE%BF%CE%BD-%CE%BD%CF%84%CE%BF%CE%B3%CE%B9%CE%AC%CE%BA%CE%BF-%CE%B3%CE%B9%CE%B1-%CF%84%CE%B7/)
+* [You can now use passkeys to sign into your Google Account](https://9to5google.com/2023/05/03/google-account-passkeys/)
+* [2030 - υπερηχητικό αεροπλάνο θα κάνει την απόσταση Ευρώπη - Αυστραλία σε λιγότερο από 5 ώρες](https://www.kathimerini.gr/economy/international/562402126/to-neo-yperichitiko-aeroplano-tha-kanei-tin-apostasi-eyropi-aystralia-se-5-ores/)
 * [Φιλέτο κοτόπουλου στο τηγάνι - 17 εύκολες, γρήγορες και οικονομικές συνταγές για κάθε μέρα](https://www.gastronomos.gr/syntages/fileto-kotopoyloy-sto-tigani-17-eykoles-grigores-kai-oikonomikes-syntages-gia-kathe-mera/194766/)
 * [Μητσοτάκης - Θα κερδίσουμε και τις 9 μονοεδρικές, ο χάρτης θα γίνει συνολικά γαλάζιος](https://www.businessnews.gr/politiki/item/263207-mitsotakis-tha-kerdisoume-kai-tis-9-monoedrikes)
 * [Νέα «λίστα Πέτσα» για προεκλογική χρηματοδότηση των ΜΜΕ από την κυβέρνηση Μητσοτάκη](https://www.documentonews.gr/article/nea-lista-petsa-gia-proeklogiki-xrimatodotisi-ton-mme-apo-tin-kyvernisi-mitsotaki/)
@@ -19,7 +26,7 @@
 * [🎬 Κρήτη - Βιασμός 17χρονου σε φυλακή ανηλίκων](https://www.ieidiseis.gr/ellada/196323/viasmos-17xronou-stin-kriti-sokaristiki-martyria-on-camera-me-viazan-kathe-vrady)
   * [Πειθαρχική έρευνα](https://www.ieidiseis.gr/ellada/196346/nea-ekseliksi-peitharxiki-erevna-gia-ti-sovari-ypothesi-viasmoy-17xronou-se-fylakes-anilikon)
 * [ΟΤΕ - Σε πρόγραμμα για την τεχνητή νοημοσύνη στα δίκτυα 5G και 6G](https://www.paron.gr/2023/05/03/techniti-noimosyni-sti-diacheirisi-diktyon-5g-kai-6g-me-ti-symvoli-toy-omiloy-ote/)
-* [Σοκαριστικό δημοσίευμα Αυστριακής εφημερίδας κατά της οικογένειας Μητσοτάκη!](https://attikanea.info/%CF%83%CE%BF%CE%BA%CE%B1%CF%81%CE%B9%CF%83%CF%84%CE%B9%CE%BA%CF%8C-%CE%B4%CE%B7%CE%BC%CE%BF%CF%83%CE%AF%CE%B5%CF%85%CE%BC%CE%B1-%CE%B1%CF%85%CF%83%CF%84%CF%81%CE%B9%CE%B1%CE%BA%CE%AE%CF%82-%CE%B5/)
+* [Σοκαριστικό δημοσίευμα Αυστριακής εφημερίδας κατά της οικογένειας Μητσοτάκη](https://attikanea.info/%CF%83%CE%BF%CE%BA%CE%B1%CF%81%CE%B9%CF%83%CF%84%CE%B9%CE%BA%CF%8C-%CE%B4%CE%B7%CE%BC%CE%BF%CF%83%CE%AF%CE%B5%CF%85%CE%BC%CE%B1-%CE%B1%CF%85%CF%83%CF%84%CF%81%CE%B9%CE%B1%CE%BA%CE%AE%CF%82-%CE%B5/)
 * [Τουρισμός με 75,000 κενές θέσεις εργασίας](https://www.documentonews.gr/article/toyrismos-me-75-000-kenes-theseis-ergasias/)
 * [Αργά ή γρήγορα ο Κασιδιάρης θα ανοίξει τα χαρτιά του](https://www.ieidiseis.gr/parapolitika/196303/arga-i-grigora-o-kasidiaris-tha-anoiksei-ta-xartia-tou)
   * [🎬 Βάσω Πανταζή - Η απόφαση αποκλεισμού Κασιδιάρη είχε ληφθεί πριν τη συνεδρίαση](https://www.ieidiseis.gr/politiki/196330/komma-kasidiari-i-apofasi-apokleismoy-eixe-lifthei-prin-ti-synedriasi-leei-i-dikigoros-tou)
