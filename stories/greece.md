@@ -1,6 +1,11 @@
 <input id="txtSearch" onkeypress="SearchList(event);" class="ceME" placeholder="press enter to search">
 
 ## 04/05/2023
+* [Νέα «λίστα Πέτσα» για προεκλογική χρηματοδότηση των ΜΜΕ από την κυβέρνηση Μητσοτάκη](https://www.documentonews.gr/article/nea-lista-petsa-gia-proeklogiki-xrimatodotisi-ton-mme-apo-tin-kyvernisi-mitsotaki/)
+* [Bloomberg - «Τα Γλυπτά του Παρθενώνα δεν είναι της Βρετανίας για να τα κρατά»](https://www.ieidiseis.gr/kosmos/196357/bloomberg-ta-glypta-tou-parthenona-den-einai-tis-vretanias-gia-na-ta-krata)
+* [Δύο επιθέσεις με drones σε διυλιστήρια πετρελαίου στη Ρωσία](https://www.makeleio.gr/%ce%b5%cf%80%ce%b9%ce%ba%ce%b1%ce%b9%cf%81%ce%bf%cf%84%ce%b7%cf%84%ce%b1/%ce%94%cf%8d%ce%bf-%ce%b5%cf%80%ce%b9%ce%b8%ce%ad%cf%83%ce%b5%ce%b9%cf%82-%ce%bc%ce%b5-drones-%cf%83%ce%b5-%ce%b4%ce%b9%cf%85%ce%bb%ce%b9%cf%83%cf%84%ce%ae%cf%81%ce%b9%ce%b1-%cf%80%ce%b5%cf%84%cf%81/)
+* [DJ - Το χρυσό fund του Ευρωκοινοβουλίου και ο Παπαδημούλης](https://www.reportersunited.gr/10932/fund-evrokoinovoulio-papadimoulis/)
+* [Εικόνα διάλυσης στα νοσοκομεία της Κεφαλονιάς - Ελλείψεις προσωπικού και ξαφνικές παραιτήσεις γιατρών](https://www.documentonews.gr/article/eikona-dialysis-sta-nosokomeia-tis-kefalonias-elleipseis-prosopikoy-kai-xafnikes-paraitiseis-giatron/)
 * [Πέτρος Κωστόπουλος - «Στο Ευρωκοινοβούλιο έπαιρνα διπλάσιο μισθό από τον Έλληνα πρωθυπουργό»](https://patkiout.gr/showbiz/petros-kostopoylos-sto-eyrokoinovoylio-epairna-diplasio-mistho-apo-ton-ellina-prothypoyrgo/)
 * [US - Φόβοι για νέες καταρρεύσεις τραπεζών λίγα 24ωρα μετά την εξαγορά της First Republic από τη JPMorgan](https://www.makeleio.gr/%ce%b5%cf%80%ce%b9%ce%ba%ce%b1%ce%b9%cf%81%ce%bf%cf%84%ce%b7%cf%84%ce%b1/%ce%97%ce%a0%ce%91-%ce%a6%cf%8c%ce%b2%ce%bf%ce%b9-%ce%b3%ce%b9%ce%b1-%ce%bd%ce%ad%ce%b5%cf%82-%ce%ba%ce%b1%cf%84%ce%b1%cf%81%cf%81%ce%b5%cf%8d%cf%83%ce%b5%ce%b9%cf%82-%cf%84%cf%81%ce%b1%cf%80%ce%b5/)
 * [Σε υψηλό 26 ετών έχουν σκαρφαλώσει οι τιμές του ελαιολάδου](https://www.makeleio.gr/%ce%b5%cf%80%ce%b9%ce%ba%ce%b1%ce%b9%cf%81%ce%bf%cf%84%ce%b7%cf%84%ce%b1/%ce%a3%ce%b5-%cf%85%cf%88%ce%b7%ce%bb%cf%8c-26-%ce%b5%cf%84%cf%8e%ce%bd-%ce%ad%cf%87%ce%bf%cf%85%ce%bd-%cf%83%ce%ba%ce%b1%cf%81%cf%86%ce%b1%ce%bb%cf%8e%cf%83%ce%b5%ce%b9-%ce%bf%ce%b9-%cf%84%ce%b9/)
