@@ -2,7 +2,7 @@
 
 ## 04/05/2023
 * [Φιλέτο κοτόπουλου στο τηγάνι - 17 εύκολες, γρήγορες και οικονομικές συνταγές για κάθε μέρα](https://www.gastronomos.gr/syntages/fileto-kotopoyloy-sto-tigani-17-eykoles-grigores-kai-oikonomikes-syntages-gia-kathe-mera/194766/)
-* [Μητσοτάκης - Θα κερδίσουμε και τις 9 μονοεδρικές, χάρτης θα γίνει συνολικά γαλάζιος](https://www.businessnews.gr/politiki/item/263207-mitsotakis-tha-kerdisoume-kai-tis-9-monoedrikes)
+* [Μητσοτάκης - Θα κερδίσουμε και τις 9 μονοεδρικές, ο χάρτης θα γίνει συνολικά γαλάζιος](https://www.businessnews.gr/politiki/item/263207-mitsotakis-tha-kerdisoume-kai-tis-9-monoedrikes)
 * [Νέα «λίστα Πέτσα» για προεκλογική χρηματοδότηση των ΜΜΕ από την κυβέρνηση Μητσοτάκη](https://www.documentonews.gr/article/nea-lista-petsa-gia-proeklogiki-xrimatodotisi-ton-mme-apo-tin-kyvernisi-mitsotaki/)
 * [Bloomberg - «Τα Γλυπτά του Παρθενώνα δεν είναι της Βρετανίας για να τα κρατά»](https://www.ieidiseis.gr/kosmos/196357/bloomberg-ta-glypta-tou-parthenona-den-einai-tis-vretanias-gia-na-ta-krata)
 * [Δύο επιθέσεις με drones σε διυλιστήρια πετρελαίου στη Ρωσία](https://www.makeleio.gr/%ce%b5%cf%80%ce%b9%ce%ba%ce%b1%ce%b9%cf%81%ce%bf%cf%84%ce%b7%cf%84%ce%b1/%ce%94%cf%8d%ce%bf-%ce%b5%cf%80%ce%b9%ce%b8%ce%ad%cf%83%ce%b5%ce%b9%cf%82-%ce%bc%ce%b5-drones-%cf%83%ce%b5-%ce%b4%ce%b9%cf%85%ce%bb%ce%b9%cf%83%cf%84%ce%ae%cf%81%ce%b9%ce%b1-%cf%80%ce%b5%cf%84%cf%81/)
@@ -23,7 +23,7 @@
 * [Τουρισμός με 75,000 κενές θέσεις εργασίας](https://www.documentonews.gr/article/toyrismos-me-75-000-kenes-theseis-ergasias/)
 * [Αργά ή γρήγορα ο Κασιδιάρης θα ανοίξει τα χαρτιά του](https://www.ieidiseis.gr/parapolitika/196303/arga-i-grigora-o-kasidiaris-tha-anoiksei-ta-xartia-tou)
   * [🎬 Βάσω Πανταζή - Η απόφαση αποκλεισμού Κασιδιάρη είχε ληφθεί πριν τη συνεδρίαση](https://www.ieidiseis.gr/politiki/196330/komma-kasidiari-i-apofasi-apokleismoy-eixe-lifthei-prin-ti-synedriasi-leei-i-dikigoros-tou)
-* [H Ελλάδα 17η στην Ευρώπη σε αναλογία Ι,Χ, ανά 1,000 κατοίκους](https://www.ieidiseis.gr/auto-moto/196310/h-ellada-17i-stin-evropi-se-analogia-i-x-ana-1-000-katoikous)
+* [H Ελλάδα 17η στην Ευρώπη σε αναλογία Ι.Χ. ανά 1000 κατοίκους](https://www.ieidiseis.gr/auto-moto/196310/h-ellada-17i-stin-evropi-se-analogia-i-x-ana-1-000-katoikous)
 
 ## 03/05/2023
 * [Βαρουφάκης - Να ξεριζώσουμε και να ξαναχτίσουμε από νηπιαγωγείο μέχρι πανεπιστήμιο](https://www.kathimerini.gr/politics/562400695/varoyfakis-na-xerizosoyme-kai-na-xanachtisoyme-apo-nipiagogeio-mechri-panepistimio/)
