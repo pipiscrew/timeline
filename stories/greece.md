@@ -1,6 +1,11 @@
 <input id="txtSearch" onkeypress="SearchList(event);" class="ceME" placeholder="press enter to search">
 
 ## 04/05/2023
+* [Λερναία Υδρα οι αυθαιρεσίες στα νησιά - 22 συλλήψεις σε ένα τριήμερο σε Μύκονο, Ρόδο, Μήλο και Φολέγανδρο](https://www.kathimerini.gr/society/562401649/lernaia-ydra-oi-aythairesies-sta-nisia/)
+* [Ερντογάν σε ψηφοφόρους - «Δεν θα θυσιάσετε τον ηγέτη σας για λίγα κρεμμύδια και λίγες πατάτες»](https://www.kathimerini.gr/world/562402315/erntogan-se-psifoforoys-den-tha-thysiasete-ton-igeti-sas-gia-liga-kremmydia-kai-liges-patates/)
+* [Νέο «χαράτσι» 150 ευρώ για κάθε μη στειρωμένο κατοικίδιο](https://www.ieidiseis.gr/ellada/196417/neo-xaratsi-150-evro-gia-kathe-mi-steiromeno-katoikidio)
+* [Η συνέντευξη του Αλέξη Τσίπρα στον Νίκο Χατζηνικολάου](https://www.ieidiseis.gr/politiki/196420/live-streaming-i-synentefksi-tou-aleksi-tsipra-ston-niko-xatzinikolaou)
+* [Σε υπερδιέγερση ο εγκέφαλος όταν πεθαίνουμε, νέα συγκλονιστική μελέτη](https://www.ieidiseis.gr/ygeia/196413/se-yperdiegersi-o-egkefalos-otan-pethainoume-nea-sygklonistiki-meleti)
 * [ΣΥΡΙΖΑ - Όθων Ηλιόπουλος](https://twitter.com/Greek_praitor/status/1654087849010946049) [[2](https://twitter.com/i/status/1654022058072854528)]
 * [US - «Σωσίβιο» αναζητά και η Western Alliance](https://www.businessnews.gr/epixeiriseis/item/263220-sosivio-anazita-kai-i-western-alliance)
 * [🎬 Κωνσταντοπούλου - «Δώσε ζωή στην Βουλή!»](https://www.grtimes.gr/ellada/konstantopoyloy-dose-zoi-stin-voyli-ti-eipothike-gia)
