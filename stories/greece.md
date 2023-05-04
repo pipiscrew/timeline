@@ -18,11 +18,11 @@
   * [Χειροπέδες σε 22χρονο για τον βιασμό τουρίστριας από την Φινλανδία](https://www.kathimerini.gr/society/562401481/chania-cheiropedes-se-22chrono-gia-ton-viasmo-toyristrias-apo-tin-finlandia/)
 * [🎬 Κρήτη - Βιασμός 17χρονου σε φυλακή ανηλίκων](https://www.ieidiseis.gr/ellada/196323/viasmos-17xronou-stin-kriti-sokaristiki-martyria-on-camera-me-viazan-kathe-vrady)
   * [Πειθαρχική έρευνα](https://www.ieidiseis.gr/ellada/196346/nea-ekseliksi-peitharxiki-erevna-gia-ti-sovari-ypothesi-viasmoy-17xronou-se-fylakes-anilikon)
-* [🎬 Βάσω Πανταζή - Η απόφαση αποκλεισμού Κασιδιάρη είχε ληφθεί πριν τη συνεδρίαση](https://www.ieidiseis.gr/politiki/196330/komma-kasidiari-i-apofasi-apokleismoy-eixe-lifthei-prin-ti-synedriasi-leei-i-dikigoros-tou)
 * [ΟΤΕ - Σε πρόγραμμα για την τεχνητή νοημοσύνη στα δίκτυα 5G και 6G](https://www.paron.gr/2023/05/03/techniti-noimosyni-sti-diacheirisi-diktyon-5g-kai-6g-me-ti-symvoli-toy-omiloy-ote/)
 * [Σοκαριστικό δημοσίευμα Αυστριακής εφημερίδας κατά της οικογένειας Μητσοτάκη!](https://attikanea.info/%CF%83%CE%BF%CE%BA%CE%B1%CF%81%CE%B9%CF%83%CF%84%CE%B9%CE%BA%CF%8C-%CE%B4%CE%B7%CE%BC%CE%BF%CF%83%CE%AF%CE%B5%CF%85%CE%BC%CE%B1-%CE%B1%CF%85%CF%83%CF%84%CF%81%CE%B9%CE%B1%CE%BA%CE%AE%CF%82-%CE%B5/)
 * [Τουρισμός με 75,000 κενές θέσεις εργασίας](https://www.documentonews.gr/article/toyrismos-me-75-000-kenes-theseis-ergasias/)
 * [Αργά ή γρήγορα ο Κασιδιάρης θα ανοίξει τα χαρτιά του](https://www.ieidiseis.gr/parapolitika/196303/arga-i-grigora-o-kasidiaris-tha-anoiksei-ta-xartia-tou)
+  * [🎬 Βάσω Πανταζή - Η απόφαση αποκλεισμού Κασιδιάρη είχε ληφθεί πριν τη συνεδρίαση](https://www.ieidiseis.gr/politiki/196330/komma-kasidiari-i-apofasi-apokleismoy-eixe-lifthei-prin-ti-synedriasi-leei-i-dikigoros-tou)
 * [H Ελλάδα 17η στην Ευρώπη σε αναλογία Ι,Χ, ανά 1,000 κατοίκους](https://www.ieidiseis.gr/auto-moto/196310/h-ellada-17i-stin-evropi-se-analogia-i-x-ana-1-000-katoikous)
 
 ## 03/05/2023
