@@ -1,5 +1,9 @@
 <input id="txtSearch" onkeypress="SearchList(event);" class="ceME" placeholder="press enter to search">
 
+## 05/05/2023
+* [TR - Κιλιτσντάρογλου - «Ο Ερντογάν δεν έχει κάνει τίποτα για τα νησιά τα οποία «κατέχει παράνομα η Ελλάδα»»](https://www.ieidiseis.gr/kosmos/196502/epimenei-o-kilitsntaroglou-gia-apostratiotikopoiisi-ton-nision-o-erntogan-den-exei-kanei-tipota)
+* [Ο πρωθυπουργός της Αυστραλίας ζητά αποφυλάκιση του Τζούλιαν Ασάνζ (wikileaks) - «Φτάνει πια»](https://www.documentonews.gr/article/o-prothypoyrgos-tis-aystralias-zita-apofylakisi-toy-tzoylian-asanz-ftanei-pia/)
+
 ## 04/05/2023
 * [🎬 Η ΕΡΤ παρουσίασε AI παρουσιαστή](https://www.makeleio.gr/%ce%b5%cf%80%ce%b9%ce%ba%ce%b1%ce%b9%cf%81%ce%bf%cf%84%ce%b7%cf%84%ce%b1/%ce%97-%ce%95%ce%a1%ce%a4-%cf%80%ce%b1%cf%81%ce%bf%cf%85%cf%83%ce%af%ce%b1%cf%83%ce%b5-%cf%84%ce%bf%ce%bd-%cf%80%ce%b1%cf%81%ce%bf%cf%85%cf%83%ce%b9%ce%b1%cf%83%cf%84%ce%ae-%cf%80%ce%bf%cf%85-%ce%bb/)
 * [Οι Ρωσοι Επληξαν Το Αρχηγειο Του Ουκρανικου Ναυτικου στην Οδησσο ως Αντιποινα](https://www.makeleio.gr/%ce%b5%cf%80%ce%b9%ce%ba%ce%b1%ce%b9%cf%81%ce%bf%cf%84%ce%b7%cf%84%ce%b1/%ce%9f%ce%99-%ce%a1%ce%a9%ce%a3%ce%9f%ce%99-%ce%95%ce%a0%ce%9b%ce%97%ce%9e%ce%91%ce%9d-%ce%a4%ce%9f-%ce%91%ce%a1%ce%a7%ce%97%ce%93%ce%95%ce%99%ce%9f-%ce%a4%ce%9f%ce%a5-%ce%9f%ce%a5%ce%9a%ce%a1%ce%91/)
