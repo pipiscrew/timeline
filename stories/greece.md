@@ -1,5 +1,10 @@
 <input id="txtSearch" onkeypress="SearchList(event);" class="ceME" placeholder="press enter to search">
 
+## 06/05/2023
+* [🎬 Ρουμανία - διοργάνωσαν αγώνες… χαστουκιού σε οπίσθια!](https://www.makeleio.gr/%ce%b5%cf%80%ce%b9%ce%ba%ce%b1%ce%b9%cf%81%ce%bf%cf%84%ce%b7%cf%84%ce%b1/%ce%a4%ce%b9-%ce%ac%ce%bb%ce%bb%ce%bf-%ce%b8%ce%b1-%ce%b4%ce%bf%cf%8d%ce%bc%ce%b5-%ce%a3%cf%84%ce%b7-%ce%a1%ce%bf%cf%85%ce%bc%ce%b1%ce%bd%ce%af%ce%b1-%ce%b4%ce%b9%ce%bf%cf%81%ce%b3%ce%ac%ce%bd%cf%89/)
+* [CIA - Το Κιεβο Κανει Οτι Του Λεει Η Ουασινγκτον](https://www.makeleio.gr/%ce%b5%ce%be%cf%89%cf%86%cf%85%ce%bb%ce%bb%ce%bf/%ce%a4%ce%9f-%ce%9a%ce%99%ce%95%ce%92%ce%9f-%ce%9a%ce%91%ce%9d%ce%95%ce%99-%ce%9f%ce%a4%ce%99-%ce%a4%ce%9f%ce%a5-%ce%9b%ce%95%ce%9d%ce%95-%ce%97-%ce%95%ce%9d%ce%a4%ce%9f%ce%9b%ce%97-%ce%94%ce%9f/)
+* [Μασούτης - Εξαγοράζει τα σούπερ μάρκετ Τερζής Ιωάννης και κάνει το δεύτερο βήμα στην Πελοπόννησο](https://www.businessnews.gr/epixeiriseis/lianemporio/item/263331-masoytis-eksagorazei-ta-soyper-market-terzis-ioannis-kai-kanei-to-deytero-vima-stin-peloponniso)
+
 ## 05/05/2023
 * [Κάρυστος - Εντοπίστηκαν μέλη ανθρώπινου σκελετού κοντά σε παραλία](https://www.makeleio.gr/%ce%b5%cf%80%ce%b9%ce%ba%ce%b1%ce%b9%cf%81%ce%bf%cf%84%ce%b7%cf%84%ce%b1/%ce%9a%ce%ac%cf%81%cf%85%cf%83%cf%84%ce%bf%cf%82-%ce%95%ce%bd%cf%84%ce%bf%cf%80%ce%af%cf%83%cf%84%ce%b7%ce%ba%ce%b1%ce%bd-%ce%bc%ce%ad%ce%bb%ce%b7-%ce%b1%ce%bd%ce%b8%cf%81%cf%8e%cf%80%ce%b9%ce%bd/)
 * [🎬 Πανικός από φωτιά στο μετρό του Λονδίνου - Επιβάτες έσπασαν παράθυρα βαγονιών](https://www.ieidiseis.gr/kosmos/196634/panikos-apo-fotia-sto-metro-tou-londinou-epivates-espasan-parathyra-vagonion-vinteo)
