@@ -1,6 +1,8 @@
 <input id="txtSearch" onkeypress="SearchList(event);" class="ceME" placeholder="press enter to search">
 
 ## 06/05/2023
+* [Handelsblatt - Η Ελλάδα πρωτοπόρος στη μείωση του χρέους](https://www.kathimerini.gr/economy/562407574/handelsblatt-i-ellada-protoporos-sti-meiosi-toy-chreoys/)
+* [🎬 (2009) - Μήπως σώσουμε κανά Έλληνα](https://www.facebook.com/cristostsiartas/posts/10152797077844732/) &nbsp; [[2](https://attikanea.info/%CE%BC%CE%AE%CF%80%CF%89%CF%82-%CF%83%CF%8E%CF%83%CE%BF%CF%85%CE%BC%CE%B5-%CE%BA%CE%B1%CE%BD%CE%AC-%CE%AD%CE%BB%CE%BB%CE%B7%CE%BD%CE%B1-%CE%BD%CE%B1-%CE%BC%CE%B7%CE%BD-%CF%88%CE%B7%CF%86%CE%AF%CF%83/)]
 * [Κασιδιάρης - Η ανησυχία της ΝΔ μετά το μήνυμά του είναι τέτοια που έβαλε τον Άδωνι Γεωργιάδη να πει «δεν θα πρέπει θα τον ακούν»](https://www.pronews.gr/elliniki-politiki/provocateur/megali-anisyxia-prokalese-sti-nd-to-diaggelma-kasidiari-gia-katapsifisi-nd-kai-pasok-evgalan-akoma-kai-ton-a-georgiadi-na-apantisei/)
   * [🎬 Tweet Adoni - Για το αποκλεισμό του κόμματος Κασιδιάρη από τις Εκλογές](https://twitter.com/AdonisGeorgiadi/status/1654715089218330625)
 * [🎬 US - Σατανίστρια σκίζει την Βίβλο](https://www.makeleio.gr/%ce%b5%cf%80%ce%b9%ce%ba%ce%b1%ce%b9%cf%81%ce%bf%cf%84%ce%b7%cf%84%ce%b1/%ce%a3%ce%b1%cf%84%ce%b1%ce%bd%ce%af%cf%83%cf%84%cf%81%ce%b9%ce%b1-%cf%83%ce%ba%ce%af%ce%b6%ce%b5%ce%b9-%cf%84%ce%b7%ce%bd-%ce%92%ce%af%ce%b2%ce%bb%ce%bf-%ce%a3%cf%85%ce%b3%ce%ba%ce%bb%ce%bf/)
