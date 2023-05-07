@@ -1,6 +1,9 @@
 <input id="txtSearch" onkeypress="SearchList(event);" class="ceME" placeholder="press enter to search">
 
 ## 07/05/2023
+* [🎬 Γιατρός ανακάλυψε αράχνη στο αυτί μιας γυναίκας](https://www.makeleio.gr/%ce%b5%cf%80%ce%b9%ce%ba%ce%b1%ce%b9%cf%81%ce%bf%cf%84%ce%b7%cf%84%ce%b1/%ce%92%ce%af%ce%bd%cf%84%ce%b5%ce%bf-%cf%83%ce%bf%ce%ba-%ce%93%ce%b9%ce%b1%cf%84%cf%81%cf%8c%cf%82-%ce%b1%ce%bd%ce%b1%ce%ba%ce%ac%ce%bb%cf%85%cf%88%ce%b5-%ce%b1%cf%81%ce%ac%cf%87%ce%bd%ce%b7-%cf%83/)
+* [Στα πρόθυρα χρεοκοπίας οι ΗΠΑ - προειδοποιεί η Γέλεν](https://www.documentonews.gr/article/sta-prothyra-xreokopias-oi-hpa-eimaste-me-to-pistoli-ston-krotafo-proeidopoiei-i-gelen/)
+* [Καρατζαφέρης - πιάστηκε με Offshore](https://edolio5.blogspot.com/2023/05/2-offshore-65000000.html)
 * [Ένωση Δικαστών και Εισαγγελέων - Θολό το τοπίο σε θέματα Δικαιοσύνης](https://www.ieidiseis.gr/ellada/196789/enosi-dikaston-kai-eisaggeleon-tholo-to-topio-se-themata-dikaiosynis)
 * [Ουκρανία - Η Ρωσία συνεχίζει τις πυραυλικές επιθέσεις](https://www.documentonews.gr/article/oykrania-h-rosia-synexizei-tis-pyraylikes-epitheseis/)
 * [Σύριζα - Την παραπομπή Μητσοτάκη στο Ειδικό Δικαστήριο για το σκάνδαλο των Υποκλοπών ζητεί ο Όλγα Γεροβασίλη](https://www.makeleio.gr/%ce%b5%cf%80%ce%b9%ce%ba%ce%b1%ce%b9%cf%81%ce%bf%cf%84%ce%b7%cf%84%ce%b1/%ce%a4%ce%b7%ce%bd-%cf%80%ce%b1%cf%81%ce%b1%cf%80%ce%bf%ce%bc%cf%80%ce%ae-%ce%9c%ce%b7%cf%84%cf%83%ce%bf%cf%84%ce%ac%ce%ba%ce%b7-%cf%83%cf%84%ce%bf-%ce%95%ce%b9%ce%b4%ce%b9%ce%ba%cf%8c-%ce%94%ce%b9/)
