@@ -1,6 +1,14 @@
 <input id="txtSearch" onkeypress="SearchList(event);" class="ceME" placeholder="press enter to search">
 
+## 07/05/2023
+* [Ένωση Δικαστών και Εισαγγελέων - Θολό το τοπίο σε θέματα Δικαιοσύνης](https://www.ieidiseis.gr/ellada/196789/enosi-dikaston-kai-eisaggeleon-tholo-to-topio-se-themata-dikaiosynis)
+* [Ουκρανία - Η Ρωσία συνεχίζει τις πυραυλικές επιθέσεις](https://www.documentonews.gr/article/oykrania-h-rosia-synexizei-tis-pyraylikes-epitheseis/)
+* [Σύριζα - Την παραπομπή Μητσοτάκη στο Ειδικό Δικαστήριο για το σκάνδαλο των Υποκλοπών ζητεί ο Όλγα Γεροβασίλη](https://www.makeleio.gr/%ce%b5%cf%80%ce%b9%ce%ba%ce%b1%ce%b9%cf%81%ce%bf%cf%84%ce%b7%cf%84%ce%b1/%ce%a4%ce%b7%ce%bd-%cf%80%ce%b1%cf%81%ce%b1%cf%80%ce%bf%ce%bc%cf%80%ce%ae-%ce%9c%ce%b7%cf%84%cf%83%ce%bf%cf%84%ce%ac%ce%ba%ce%b7-%cf%83%cf%84%ce%bf-%ce%95%ce%b9%ce%b4%ce%b9%ce%ba%cf%8c-%ce%94%ce%b9/)
+* [Handelsblatt - Η Ελλάδα πρωτοπόρος στη μείωση του χρέους](https://www.kathimerini.gr/economy/562407574/handelsblatt-i-ellada-protoporos-sti-meiosi-toy-chreoys/)
+
 ## 06/05/2023
+* [Ουκρανία - Η Ρωσία συνεχίζει τις πυραυλικές επιθέσεις](https://www.documentonews.gr/article/oykrania-h-rosia-synexizei-tis-pyraylikes-epitheseis/)
+* [Σύριζα - Την παραπομπή Μητσοτάκη στο Ειδικό Δικαστήριο για το σκάνδαλο των Υποκλοπών ζητεί ο Όλγα Γεροβασίλη](https://www.makeleio.gr/%ce%b5%cf%80%ce%b9%ce%ba%ce%b1%ce%b9%cf%81%ce%bf%cf%84%ce%b7%cf%84%ce%b1/%ce%a4%ce%b7%ce%bd-%cf%80%ce%b1%cf%81%ce%b1%cf%80%ce%bf%ce%bc%cf%80%ce%ae-%ce%9c%ce%b7%cf%84%cf%83%ce%bf%cf%84%ce%ac%ce%ba%ce%b7-%cf%83%cf%84%ce%bf-%ce%95%ce%b9%ce%b4%ce%b9%ce%ba%cf%8c-%ce%94%ce%b9/)
 * [Handelsblatt - Η Ελλάδα πρωτοπόρος στη μείωση του χρέους](https://www.kathimerini.gr/economy/562407574/handelsblatt-i-ellada-protoporos-sti-meiosi-toy-chreoys/)
 * [🎬 (2009) - Μήπως σώσουμε κανά Έλληνα](https://www.facebook.com/cristostsiartas/posts/10152797077844732/) &nbsp; [[2](https://attikanea.info/%CE%BC%CE%AE%CF%80%CF%89%CF%82-%CF%83%CF%8E%CF%83%CE%BF%CF%85%CE%BC%CE%B5-%CE%BA%CE%B1%CE%BD%CE%AC-%CE%AD%CE%BB%CE%BB%CE%B7%CE%BD%CE%B1-%CE%BD%CE%B1-%CE%BC%CE%B7%CE%BD-%CF%88%CE%B7%CF%86%CE%AF%CF%83/)]
 * [Κασιδιάρης - Η ανησυχία της ΝΔ μετά το μήνυμά του είναι τέτοια που έβαλε τον Άδωνι Γεωργιάδη να πει «δεν θα πρέπει θα τον ακούν»](https://www.pronews.gr/elliniki-politiki/provocateur/megali-anisyxia-prokalese-sti-nd-to-diaggelma-kasidiari-gia-katapsifisi-nd-kai-pasok-evgalan-akoma-kai-ton-a-georgiadi-na-apantisei/)
