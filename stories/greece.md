@@ -6,6 +6,7 @@
 * [Καρατζαφέρης - πιάστηκε με Offshore](https://edolio5.blogspot.com/2023/05/2-offshore-65000000.html)
 * [Ένωση Δικαστών και Εισαγγελέων - Θολό το τοπίο σε θέματα Δικαιοσύνης](https://www.ieidiseis.gr/ellada/196789/enosi-dikaston-kai-eisaggeleon-tholo-to-topio-se-themata-dikaiosynis)
 * [Ουκρανία - Η Ρωσία συνεχίζει τις πυραυλικές επιθέσεις](https://www.documentonews.gr/article/oykrania-h-rosia-synexizei-tis-pyraylikes-epitheseis/)
+  * [IAEA για τον πυρηνικό σταθμό – «Κίνδυνος σοβαρού δυστυχήματος»](https://www.kathimerini.gr/world/562407634/zaporizia-nea-proeidopoiisi-apo-iaea-gia-ton-pyriniko-stathmo-kindynos-sovaroy-dystychimatos/)
 * [Σύριζα - Την παραπομπή Μητσοτάκη στο Ειδικό Δικαστήριο για το σκάνδαλο των Υποκλοπών ζητεί ο Όλγα Γεροβασίλη](https://www.makeleio.gr/%ce%b5%cf%80%ce%b9%ce%ba%ce%b1%ce%b9%cf%81%ce%bf%cf%84%ce%b7%cf%84%ce%b1/%ce%a4%ce%b7%ce%bd-%cf%80%ce%b1%cf%81%ce%b1%cf%80%ce%bf%ce%bc%cf%80%ce%ae-%ce%9c%ce%b7%cf%84%cf%83%ce%bf%cf%84%ce%ac%ce%ba%ce%b7-%cf%83%cf%84%ce%bf-%ce%95%ce%b9%ce%b4%ce%b9%ce%ba%cf%8c-%ce%94%ce%b9/)
 * [Handelsblatt - Η Ελλάδα πρωτοπόρος στη μείωση του χρέους](https://www.kathimerini.gr/economy/562407574/handelsblatt-i-ellada-protoporos-sti-meiosi-toy-chreoys/)
 
