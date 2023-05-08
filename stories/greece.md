@@ -1,7 +1,8 @@
 <input id="txtSearch" onkeypress="SearchList(event);" class="ceME" placeholder="press enter to search">
 
 ## 08/05/2023
-* [Κατρούγκαλος μετά την αποκάλυψη του documentonews,gr για το Γενικό Λογιστήριο - «Ένα ακόμη fake news της ΝΔ καταρρέει»](https://www.documentonews.gr/article/katroygkalos-meta-tin-apokalypsi-toy-documentonews-gr-gia-to-geniko-logistirio-ena-akomi-fake-news-tis-nd-katarreei/)
+* [Οι μεγαλύτερες πολυεθνικές στην Ελλάδα](https://www.businessnews.gr/business-news-magazine/item/262380-oi-megalyteres-polyethnikes-stin-ellada-ta-paidia-ton-kolosson)
+* [Κατρούγκαλος μετά την αποκάλυψη του documentonews για το Γενικό Λογιστήριο - «Ένα ακόμη fake news της ΝΔ καταρρέει»](https://www.documentonews.gr/article/katroygkalos-meta-tin-apokalypsi-toy-documentonews-gr-gia-to-geniko-logistirio-ena-akomi-fake-news-tis-nd-katarreei/)
 * [Στέψη Καρόλου - The Dark Prince Crowned On The Triple 6th Day Of May](https://www.bitchute.com/video/muzCCiF8oHdU/) &nbsp; [[tweet](https://twitter.com/TheSun/status/1654903854599917569)]
 * [Μετά την κατακραυγή για το πρωθυπουργικό αεροσκάφος ο Μητσοτάκης πήρε και το αεροπλάνο της γραμμής](https://www.documentonews.gr/article/meta-tin-katakraygi-gia-to-prothypoyrgiko-aeroskafos-o-mitsotakis-pire-kai-to-aeroplano-tis-grammis/)
 * [FDA - Ανακαλούνται παρτίδες self test κορονοϊού, δίνουν λάθος αποτελέσματα](https://www.makeleio.gr/%ce%b5%cf%80%ce%b9%ce%ba%ce%b1%ce%b9%cf%81%ce%bf%cf%84%ce%b7%cf%84%ce%b1/fda-%ce%91%ce%bd%ce%b1%ce%ba%ce%b1%ce%bb%ce%bf%cf%8d%ce%bd%cf%84%ce%b1%ce%b9-%cf%80%ce%b1%cf%81%cf%84%ce%af%ce%b4%ce%b5%cf%82-self-test-%ce%ba%ce%bf%cf%81%ce%bf%ce%bd%ce%bf%cf%8a%ce%bf%cf%8d-%ce%b4/)
