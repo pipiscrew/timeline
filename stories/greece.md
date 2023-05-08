@@ -1,6 +1,10 @@
 <input id="txtSearch" onkeypress="SearchList(event);" class="ceME" placeholder="press enter to search">
 
 ## 08/05/2023
+* [Τροχαία - 24,712 κλήσεις από 30 Απριλίου έως 6 Μαΐου](https://www.kathimerini.gr/society/562408774/trochaia-24-712-kliseis-apo-30-aprilioy-eos-6-ma-oy/)
+* [Daily Mail - βάζει την Ελλάδα πρώτη που μπορεί να φύγei από την ΕΕ](https://www.ieidiseis.gr/ellada/196959/i-daily-mail-vazei-tin-ellada-proti-se-mia-omada-xoron-pou-borei-na-fygoun-apo-tin-ee-deyteri-i-italia)
+>  Η πιο πρόσφατη **δημοσκόπηση** του μπλοκ για τη στάση των κρατών μελών τον Φεβρουάριο του 2023 έδειξε ότι η Ελλάδα είναι η πιο **αντιευρωπαϊκή** χώρα. Ο πληθυσμός δήλωσε ότι δεν εμπιστεύεται την ΕΕ, το **υψηλότερο** ποσοστό από **κάθε** άλλο κράτος μέλος.
+* [Ρωσία - Φουντώνει το κύμα φυγής επιστημόνων - Ελεγχόμενες έρευνες και κατηγορίες για κατασκοπεία](https://www.kathimerini.gr/world/562408786/rosia-foyntonei-to-kyma-fygis-epistimonon-elegchomenes-ereynes-kai-katigories-gia-kataskopeia/)
 * [Ομόλογα 5 δισ, δολαρίων εκδίδει η Apple](https://www.businessnews.gr/epixeiriseis/item/263446-omologa-5-dis-dolarion-ekdidei-i-apple)
 * [Οι μεγαλύτερες πολυεθνικές στην Ελλάδα](https://www.businessnews.gr/business-news-magazine/item/262380-oi-megalyteres-polyethnikes-stin-ellada-ta-paidia-ton-kolosson)
 * [Κατρούγκαλος μετά την αποκάλυψη του documentonews για το Γενικό Λογιστήριο - «Ένα ακόμη fake news της ΝΔ καταρρέει»](https://www.documentonews.gr/article/katroygkalos-meta-tin-apokalypsi-toy-documentonews-gr-gia-to-geniko-logistirio-ena-akomi-fake-news-tis-nd-katarreei/)
