@@ -45,7 +45,7 @@
 ## 07/05/2023
 * [Γέμισε το αεροδρόμιο Ατατούρκ με 1,7 εκατομμύρια υποστηρικτές του Ερντογάν στην Κωνσταντινούπολη](https://www.ieidiseis.gr/kosmos/196837/gemise-to-aerodromio-atatoyrk-me-1-7-ekatommyria-ypostiriktes-tou-o-erntogan-stin-konstantinoypoli)
 * [🎬 Γιατρός ανακάλυψε αράχνη στο αυτί μιας γυναίκας](https://www.makeleio.gr/%ce%b5%cf%80%ce%b9%ce%ba%ce%b1%ce%b9%cf%81%ce%bf%cf%84%ce%b7%cf%84%ce%b1/%ce%92%ce%af%ce%bd%cf%84%ce%b5%ce%bf-%cf%83%ce%bf%ce%ba-%ce%93%ce%b9%ce%b1%cf%84%cf%81%cf%8c%cf%82-%ce%b1%ce%bd%ce%b1%ce%ba%ce%ac%ce%bb%cf%85%cf%88%ce%b5-%ce%b1%cf%81%ce%ac%cf%87%ce%bd%ce%b7-%cf%83/)
-* [Στα πρόθυρα χρεοκοπίας οι ΗΠΑ - προειδοποιεί η Γέλεν](https://www.documentonews.gr/article/sta-prothyra-xreokopias-oi-hpa-eimaste-me-to-pistoli-ston-krotafo-proeidopoiei-i-gelen/)
+* [⚡ US - Στα πρόθυρα χρεοκοπίας οι ΗΠΑ - προειδοποιεί η Γέλεν](https://www.documentonews.gr/article/sta-prothyra-xreokopias-oi-hpa-eimaste-me-to-pistoli-ston-krotafo-proeidopoiei-i-gelen/)
 * [Καρατζαφέρης - πιάστηκε με Offshore](https://edolio5.blogspot.com/2023/05/2-offshore-65000000.html)
 * [Ένωση Δικαστών και Εισαγγελέων - Θολό το τοπίο σε θέματα Δικαιοσύνης](https://www.ieidiseis.gr/ellada/196789/enosi-dikaston-kai-eisaggeleon-tholo-to-topio-se-themata-dikaiosynis)
 * [Ουκρανία - Η Ρωσία συνεχίζει τις πυραυλικές επιθέσεις](https://www.documentonews.gr/article/oykrania-h-rosia-synexizei-tis-pyraylikes-epitheseis/)
