@@ -1,6 +1,15 @@
 <input id="txtSearch" onkeypress="SearchList(event);" class="ceME" placeholder="press enter to search">
 
 ## 08/05/2023
+* [Πέθανε ο αδερφός του Στάθη Ψάλτη, Γιάννης Ρώτας](https://www.ieidiseis.gr/ellada/196985/pethane-o-aderfos-tou-stathi-psalti-giannis-rotas)
+* [Επιπλέον 1 εκατ, ευρώ επιχορήγηση για τη ραδιοτηλεοπτική προβολή των κομμάτων&nbsp;](https://www.kathimerini.gr/politics/562408921/epipleon-1-ekat-eyro-epichorigisi-gia-ti-radiotileoptiki-provoli-ton-kommaton/)
+* [Εκλογές - Δημοσκόπηση Alco](https://www.grtimes.gr/politiki/dimoskopisi-alco-sto-6-6-i-diafora-nd)
+* [Κέρκυρα - Υποχώρησε το οδόστρωμα και «κατάπιε» φορτηγό](https://www.makeleio.gr/%ce%b5%cf%80%ce%b9%ce%ba%ce%b1%ce%b9%cf%81%ce%bf%cf%84%ce%b7%cf%84%ce%b1/%ce%9a%ce%ad%cf%81%ce%ba%cf%85%cf%81%ce%b1-%ce%a5%cf%80%ce%bf%cf%87%cf%8e%cf%81%ce%b7%cf%83%ce%b5-%cf%84%ce%bf-%ce%bf%ce%b4%cf%8c%cf%83%cf%84%cf%81%cf%89%ce%bc%ce%b1-%ce%ba%ce%b1%ce%b9-%ce%ba/)
+* [US - Tupperware - Συμφωνία με την επενδυτική Moelis &amp; Co, για διάσωση από τη χρεοκοπία](https://www.businessnews.gr/epixeiriseis/item/263451-tupperware-symfonia-me-tin-ependytiki-moelis-co-gia-diasosi-apo-ti-xreokopia)
+* [🎬 ΝΔ - Ψέμα στο ψέμα για την ανύπαρκτη έρευνα του Γενικού Λογιστηρίου](https://www.documentonews.gr/article/psema-sto-psema-apo-ton-skertso-gia-tin-anyparkti-ereyna-toy-genikoy-logistirioy-toy-kratoys/)
+* [Δήμος Νεάπολης-Συκεών - Έκλεψαν… ολόκληρη μονάδα κλιματισμού από δημοτικό κτίριο-Κατατέθηκε μήνυση](https://www.grtimes.gr/ellada/dimos-neapolis-sykeon-eklepsan-olokliri-monada-klimatismoy-apo)
+* [Αλέξης Τσίπρας στην πλατεία της Λαμίας](https://www.ieidiseis.gr/politiki/196958/live-o-aleksis-tsipras-stin-plateia-laoy-tis-lamias)
+* [Θερμοκρασίες ρεκόρ σε Βιετνάμ και Λάος - Ο υδράργυρος άγγιξε τους 44,2 βαθμούς Κελσίου](https://www.ieidiseis.gr/kosmos/196967/thermokrasies-rekor-se-vietnam-kai-laos-o-ydrargyros-aggikse-tous-44-2-vathmoys-kelsiou)
 * [Τροχαία - 24,712 κλήσεις από 30 Απριλίου έως 6 Μαΐου](https://www.kathimerini.gr/society/562408774/trochaia-24-712-kliseis-apo-30-aprilioy-eos-6-ma-oy/)
 * [Daily Mail - βάζει την Ελλάδα πρώτη που μπορεί να φύγei από την ΕΕ](https://www.ieidiseis.gr/ellada/196959/i-daily-mail-vazei-tin-ellada-proti-se-mia-omada-xoron-pou-borei-na-fygoun-apo-tin-ee-deyteri-i-italia)
 >  Η πιο πρόσφατη **δημοσκόπηση** τον Φεβρουάριο του 2023 έδειξε ότι η Ελλάδα είναι η πιο **αντιευρωπαϊκή** χώρα. Ο πληθυσμός δήλωσε ότι δεν εμπιστεύεται την ΕΕ, το **υψηλότερο** ποσοστό από **κάθε** άλλο κράτος μέλος.
@@ -42,11 +51,8 @@
 * [Ουκρανία - Η Ρωσία συνεχίζει τις πυραυλικές επιθέσεις](https://www.documentonews.gr/article/oykrania-h-rosia-synexizei-tis-pyraylikes-epitheseis/)
   * [IAEA για τον πυρηνικό σταθμό – «Κίνδυνος σοβαρού δυστυχήματος»](https://www.kathimerini.gr/world/562407634/zaporizia-nea-proeidopoiisi-apo-iaea-gia-ton-pyriniko-stathmo-kindynos-sovaroy-dystychimatos/)
 * [Σύριζα - Την παραπομπή Μητσοτάκη στο Ειδικό Δικαστήριο για το σκάνδαλο των Υποκλοπών ζητεί ο Όλγα Γεροβασίλη](https://www.makeleio.gr/%ce%b5%cf%80%ce%b9%ce%ba%ce%b1%ce%b9%cf%81%ce%bf%cf%84%ce%b7%cf%84%ce%b1/%ce%a4%ce%b7%ce%bd-%cf%80%ce%b1%cf%81%ce%b1%cf%80%ce%bf%ce%bc%cf%80%ce%ae-%ce%9c%ce%b7%cf%84%cf%83%ce%bf%cf%84%ce%ac%ce%ba%ce%b7-%cf%83%cf%84%ce%bf-%ce%95%ce%b9%ce%b4%ce%b9%ce%ba%cf%8c-%ce%94%ce%b9/)
-* [Handelsblatt - Η Ελλάδα πρωτοπόρος στη μείωση του χρέους](https://www.kathimerini.gr/economy/562407574/handelsblatt-i-ellada-protoporos-sti-meiosi-toy-chreoys/)
 
 ## 06/05/2023
-* [Ουκρανία - Η Ρωσία συνεχίζει τις πυραυλικές επιθέσεις](https://www.documentonews.gr/article/oykrania-h-rosia-synexizei-tis-pyraylikes-epitheseis/)
-* [Σύριζα - Την παραπομπή Μητσοτάκη στο Ειδικό Δικαστήριο για το σκάνδαλο των Υποκλοπών ζητεί ο Όλγα Γεροβασίλη](https://www.makeleio.gr/%ce%b5%cf%80%ce%b9%ce%ba%ce%b1%ce%b9%cf%81%ce%bf%cf%84%ce%b7%cf%84%ce%b1/%ce%a4%ce%b7%ce%bd-%cf%80%ce%b1%cf%81%ce%b1%cf%80%ce%bf%ce%bc%cf%80%ce%ae-%ce%9c%ce%b7%cf%84%cf%83%ce%bf%cf%84%ce%ac%ce%ba%ce%b7-%cf%83%cf%84%ce%bf-%ce%95%ce%b9%ce%b4%ce%b9%ce%ba%cf%8c-%ce%94%ce%b9/)
 * [Handelsblatt - Η Ελλάδα πρωτοπόρος στη μείωση του χρέους](https://www.kathimerini.gr/economy/562407574/handelsblatt-i-ellada-protoporos-sti-meiosi-toy-chreoys/)
 * [🎬 (2009) - Μήπως σώσουμε κανά Έλληνα](https://www.facebook.com/cristostsiartas/posts/10152797077844732/) &nbsp; [[2](https://attikanea.info/%CE%BC%CE%AE%CF%80%CF%89%CF%82-%CF%83%CF%8E%CF%83%CE%BF%CF%85%CE%BC%CE%B5-%CE%BA%CE%B1%CE%BD%CE%AC-%CE%AD%CE%BB%CE%BB%CE%B7%CE%BD%CE%B1-%CE%BD%CE%B1-%CE%BC%CE%B7%CE%BD-%CF%88%CE%B7%CF%86%CE%AF%CF%83/)]
 * [Κασιδιάρης - Η ανησυχία της ΝΔ μετά το μήνυμά του είναι τέτοια που έβαλε τον Άδωνι Γεωργιάδη να πει «δεν θα πρέπει θα τον ακούν»](https://www.pronews.gr/elliniki-politiki/provocateur/megali-anisyxia-prokalese-sti-nd-to-diaggelma-kasidiari-gia-katapsifisi-nd-kai-pasok-evgalan-akoma-kai-ton-a-georgiadi-na-apantisei/)
