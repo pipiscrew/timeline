@@ -1,6 +1,7 @@
 <input id="txtSearch" onkeypress="SearchList(event);" class="ceME" placeholder="press enter to search">
 
 ## 08/05/2023
+* [Αναλαμβανει η Europol Το Σκανδαλο Των Υποκλοπων - Μετα Το Αιτημα Της Pega](https://www.makeleio.gr/%ce%b5%ce%be%cf%89%cf%86%cf%85%ce%bb%ce%bb%ce%bf/%ce%91%ce%9d%ce%91%ce%9b%ce%91%ce%9c%ce%92%ce%91%ce%9d%ce%95%ce%99-%ce%97-europol-%ce%a4%ce%9f-%ce%a3%ce%9a%ce%91%ce%9d%ce%94%ce%91%ce%9b%ce%9f-%ce%a4%ce%a9%ce%9d-%ce%a5%ce%a0%ce%9f%ce%9a%ce%9b%ce%9f/)
 * [ΓΣΕΕ - Μηνύει τον CEO της NOS Insurance για την ομιλία του σε εργαζομένους](https://www.businessnews.gr/epixeiriseis/item/263430-gsee-minyei-ton-ceo-tis-nos-insurance-gia-tin-omilia-tou-se-ergazomenous)
 * [Εξώδικο νοσοκομειακών γιατρών στην Γκάγκα για «σκανδαλώδη προκήρυξη θέσεων Συντονιστών Διευθυντών»](https://www.documentonews.gr/article/exodiko-nosokomeiakon-giatron-stin-gkagka-gia-skandalodi-prokiryxi-theseon-syntoniston-dieythynton/)
 * [Γερμανία - Καρδιολόγος συνελήφθη ως ύποπτος για δύο ανθρωποκτονίες](https://www.makeleio.gr/%ce%b5%cf%80%ce%b9%ce%ba%ce%b1%ce%b9%cf%81%ce%bf%cf%84%ce%b7%cf%84%ce%b1/%ce%93%ce%b5%cf%81%ce%bc%ce%b1%ce%bd%ce%af%ce%b1-%ce%9a%ce%b1%cf%81%ce%b4%ce%b9%ce%bf%ce%bb%cf%8c%ce%b3%ce%bf%cf%82-%cf%83%cf%85%ce%bd%ce%b5%ce%bb%ce%ae%cf%86%ce%b8%ce%b7-%cf%89%cf%82-%cf%8d%cf%80/)
