@@ -1,6 +1,7 @@
 <input id="txtSearch" onkeypress="SearchList(event);" class="ceME" placeholder="press enter to search">
 
 ## 08/05/2023
+* [Ομόλογα 5 δισ, δολαρίων εκδίδει η Apple](https://www.businessnews.gr/epixeiriseis/item/263446-omologa-5-dis-dolarion-ekdidei-i-apple)
 * [Οι μεγαλύτερες πολυεθνικές στην Ελλάδα](https://www.businessnews.gr/business-news-magazine/item/262380-oi-megalyteres-polyethnikes-stin-ellada-ta-paidia-ton-kolosson)
 * [Κατρούγκαλος μετά την αποκάλυψη του documentonews για το Γενικό Λογιστήριο - «Ένα ακόμη fake news της ΝΔ καταρρέει»](https://www.documentonews.gr/article/katroygkalos-meta-tin-apokalypsi-toy-documentonews-gr-gia-to-geniko-logistirio-ena-akomi-fake-news-tis-nd-katarreei/)
 * [Στέψη Καρόλου - The Dark Prince Crowned On The Triple 6th Day Of May](https://www.bitchute.com/video/muzCCiF8oHdU/) &nbsp; [[tweet](https://twitter.com/TheSun/status/1654903854599917569)]
