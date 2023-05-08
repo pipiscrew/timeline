@@ -17,8 +17,8 @@
 * [Υπό κατάληψη η Λέσχη του ΑΠΘ](https://www.grtimes.gr/ellada/ypo-katalipsi-i-leschi-toy-apth-foto)
 * [Le Monde για στην κυβέρνηση Μητσοτάκη και τα Τέμπη](https://www.documentonews.gr/article/arthro-rapisma-apo-ti-le-monde-diplomatique-stin-kyvernisi-mitsotaki-gia-tin-tragodia-sta-tempi/)
 * [🎬 Μητσοτάκης στον ΑΝΤ1](https://www.facebook.com/kyriakosmitsotakis/videos/1573816926432413/?t=1505)
-  * [Τσίπρας - Ο Ανδρουλάκης αφήνει ανοιχτό το ενδεχόμενο συνεργασίας με τον Μητσοτάκη](https://www.ieidiseis.gr/politiki/196857/live-i-synentefksi-tou-aleksi-tsipra-sto-open)
 * [🎬 Τσίπρας στο Open](https://www.facebook.com/tsiprasalexis/videos/541148548227820/?t=61)
+  * [Τσίπρας - Ο Ανδρουλάκης αφήνει ανοιχτό το ενδεχόμενο συνεργασίας με τον Μητσοτάκη](https://www.ieidiseis.gr/politiki/196857/live-i-synentefksi-tou-aleksi-tsipra-sto-open)
 * [Εμπαιγμός από το Πρωτοδικείο Πειραιά - Ώρες άφαντη η έδρα σε δίκη στις φυλακες Κορυδαλλού](https://www.documentonews.gr/article/empaigmos-apo-to-protodikeio-peiraia-ores-afanti-i-edra-se-diki-stis-fylakes-korydalloy/)
 * [Σαν σήμερα - 8 Μαΐου 1945 - Τελειώνει ο Β ́ Παγκόσμιος Πόλεμος στην Ευρώπη](https://www.kathimerini.gr/istoria/562403944/san-simera-8-ma-oy-1945-teleionei-o-v-pagkosmios-polemos-stin-eyropi/) &nbsp; [[2](https://www.kathimerini.gr/wp-content/uploads/2023/05/8-5.jpg)]
 * [21 συνταγές της μισής ώρας για σπιτικό φαγητό](https://www.gastronomos.gr/syntages/sto-pi-kai-fi-21-syntages-tis-misis-oras-gia-spitiko-fagito/201787/)
