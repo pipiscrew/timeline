@@ -1,6 +1,8 @@
 <input id="txtSearch" onkeypress="SearchList(event);" class="ceME" placeholder="press enter to search">
 
 ## 08/05/2023
+* [🎬 Μητσοτάκης στην Άρτα](https://youtu.be/ey7LJK4lMVQ)
+* [Επίθεση με σμήνος drone εξαπέλυσε η Ρωσία - 5 τραυματίες στο Κίεβο, καταστράφηκε αποθήκη στην Οδησσό](https://www.ieidiseis.gr/kosmos/196983/epithesi-me-sminos-drone-eksapelyse-i-rosia-5-travmaties-sto-kievo-katastrafike-apothiki-stin-odisso)
 * [Πέθανε ο αδερφός του Στάθη Ψάλτη, Γιάννης Ρώτας](https://www.ieidiseis.gr/ellada/196985/pethane-o-aderfos-tou-stathi-psalti-giannis-rotas)
 * [Επιπλέον 1 εκατ, ευρώ επιχορήγηση για τη ραδιοτηλεοπτική προβολή των κομμάτων&nbsp;](https://www.kathimerini.gr/politics/562408921/epipleon-1-ekat-eyro-epichorigisi-gia-ti-radiotileoptiki-provoli-ton-kommaton/)
 * [Εκλογές - Δημοσκόπηση Alco](https://www.grtimes.gr/politiki/dimoskopisi-alco-sto-6-6-i-diafora-nd)
