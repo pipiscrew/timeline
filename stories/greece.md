@@ -1,6 +1,22 @@
 <input id="txtSearch" onkeypress="SearchList(event);" class="ceME" placeholder="press enter to search">
 
+## 08/05/2023
+* [🎬 Πως Συνδεεται Με Τη Δολοφονια Καραιβαζ Και Τη Δικογραφια Για Τη Greek Mafia](https://www.makeleio.gr/%ce%b5%ce%be%cf%89%cf%86%cf%85%ce%bb%ce%bb%ce%bf/%ce%97-%ce%9a%ce%91%ce%9c%ce%9f%ce%a1%ce%91-%ce%a4%ce%9f%ce%a5-%ce%91%ce%a1%ce%a7%ce%99%ce%9c%ce%91%ce%a6%ce%99%ce%9f%ce%96%ce%9f%ce%a5-%ce%94%ce%97%ce%9c%ce%97%ce%a4%ce%a1%ce%99%ce%91%ce%94%ce%97/)
+* [🎬 Το εγκαταλελειμμένο εργοστάσιο της ΙΖΟΛΑ στη Θήβα -Κατασκεύαζε 800.000 ηλεκτρικές συσκευές ετησίως](https://ieriplektani.blogspot.com/2023/05/800000.html)
+* [Reporters United - Υποκλοπές - Πιερρακάκης - Λαβράνος στο ακουστικό τους](https://www.reportersunited.gr/11019/pierrakakis-lavranos-ypoklopes/)
+* [ΑΠΘ - Φοιτητές κατασκεύασαν τον ταχύτερο επεξεργαστή Τεχνητής Νοημοσύνης στον κόσμο με τη χρήση φωτός](https://www.grtimes.gr/ellada/apth-foitites-kataskeyasan-ton-tachytero-epexergasti-technitis-noimosynis)
+* [Υπό κατάληψη η Λέσχη του ΑΠΘ](https://www.grtimes.gr/ellada/ypo-katalipsi-i-leschi-toy-apth-foto)
+* [Le Monde για στην κυβέρνηση Μητσοτάκη για τα Τέμπη](https://www.documentonews.gr/article/arthro-rapisma-apo-ti-le-monde-diplomatique-stin-kyvernisi-mitsotaki-gia-tin-tragodia-sta-tempi/)
+* [🎬 Μητσοτάκης στον ΑΝΤ1](https://www.facebook.com/kyriakosmitsotakis/videos/1573816926432413/?t=1505)
+  * [Τσίπρας - Ο Ανδρουλάκης αφήνει ανοιχτό το ενδεχόμενο συνεργασίας με τον Μητσοτάκη](https://www.ieidiseis.gr/politiki/196857/live-i-synentefksi-tou-aleksi-tsipra-sto-open)
+* [🎬 Τσίπρας στο Open](https://www.facebook.com/tsiprasalexis/videos/541148548227820/?t=61)
+* [Εμπαιγμός από το Πρωτοδικείο Πειραιά - Ώρες άφαντη η έδρα σε δίκη στις φυλακες Κορυδαλλού](https://www.documentonews.gr/article/empaigmos-apo-to-protodikeio-peiraia-ores-afanti-i-edra-se-diki-stis-fylakes-korydalloy/)
+* [Σαν σήμερα - 8 Μαΐου 1945 - Τελειώνει ο Β ́ Παγκόσμιος Πόλεμος στην Ευρώπη](https://www.kathimerini.gr/istoria/562403944/san-simera-8-ma-oy-1945-teleionei-o-v-pagkosmios-polemos-stin-eyropi/)
+* [21 συνταγές της μισής ώρας για σπιτικό φαγητό](https://www.gastronomos.gr/syntages/sto-pi-kai-fi-21-syntages-tis-misis-oras-gia-spitiko-fagito/201787/)
+* [Γιατί δεν βρίσκουν εργαζομένους οι επιχειρήσεις](https://www.kathimerini.gr/economy/562406026/giati-den-vriskoyn-ergazomenoys-oi-epicheiriseis/)
+
 ## 07/05/2023
+* [Γέμισε το αεροδρόμιο Ατατούρκ με 1,7 εκατομμύρια υποστηρικτές του Ερντογάν στην Κωνσταντινούπολη](https://www.ieidiseis.gr/kosmos/196837/gemise-to-aerodromio-atatoyrk-me-1-7-ekatommyria-ypostiriktes-tou-o-erntogan-stin-konstantinoypoli)
 * [🎬 Γιατρός ανακάλυψε αράχνη στο αυτί μιας γυναίκας](https://www.makeleio.gr/%ce%b5%cf%80%ce%b9%ce%ba%ce%b1%ce%b9%cf%81%ce%bf%cf%84%ce%b7%cf%84%ce%b1/%ce%92%ce%af%ce%bd%cf%84%ce%b5%ce%bf-%cf%83%ce%bf%ce%ba-%ce%93%ce%b9%ce%b1%cf%84%cf%81%cf%8c%cf%82-%ce%b1%ce%bd%ce%b1%ce%ba%ce%ac%ce%bb%cf%85%cf%88%ce%b5-%ce%b1%cf%81%ce%ac%cf%87%ce%bd%ce%b7-%cf%83/)
 * [Στα πρόθυρα χρεοκοπίας οι ΗΠΑ - προειδοποιεί η Γέλεν](https://www.documentonews.gr/article/sta-prothyra-xreokopias-oi-hpa-eimaste-me-to-pistoli-ston-krotafo-proeidopoiei-i-gelen/)
 * [Καρατζαφέρης - πιάστηκε με Offshore](https://edolio5.blogspot.com/2023/05/2-offshore-65000000.html)
