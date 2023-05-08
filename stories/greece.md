@@ -6,7 +6,7 @@
 * [Reporters United - Υποκλοπές - Πιερρακάκης - Λαβράνος στο ακουστικό τους](https://www.reportersunited.gr/11019/pierrakakis-lavranos-ypoklopes/)
 * [ΑΠΘ - Φοιτητές κατασκεύασαν τον ταχύτερο επεξεργαστή Τεχνητής Νοημοσύνης στον κόσμο με τη χρήση φωτός](https://www.grtimes.gr/ellada/apth-foitites-kataskeyasan-ton-tachytero-epexergasti-technitis-noimosynis)
 * [Υπό κατάληψη η Λέσχη του ΑΠΘ](https://www.grtimes.gr/ellada/ypo-katalipsi-i-leschi-toy-apth-foto)
-* [Le Monde για στην κυβέρνηση Μητσοτάκη για τα Τέμπη](https://www.documentonews.gr/article/arthro-rapisma-apo-ti-le-monde-diplomatique-stin-kyvernisi-mitsotaki-gia-tin-tragodia-sta-tempi/)
+* [Le Monde για στην κυβέρνηση Μητσοτάκη και τα Τέμπη](https://www.documentonews.gr/article/arthro-rapisma-apo-ti-le-monde-diplomatique-stin-kyvernisi-mitsotaki-gia-tin-tragodia-sta-tempi/)
 * [🎬 Μητσοτάκης στον ΑΝΤ1](https://www.facebook.com/kyriakosmitsotakis/videos/1573816926432413/?t=1505)
   * [Τσίπρας - Ο Ανδρουλάκης αφήνει ανοιχτό το ενδεχόμενο συνεργασίας με τον Μητσοτάκη](https://www.ieidiseis.gr/politiki/196857/live-i-synentefksi-tou-aleksi-tsipra-sto-open)
 * [🎬 Τσίπρας στο Open](https://www.facebook.com/tsiprasalexis/videos/541148548227820/?t=61)
