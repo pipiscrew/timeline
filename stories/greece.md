@@ -1,6 +1,8 @@
 <input id="txtSearch" onkeypress="SearchList(event);" class="ceME" placeholder="press enter to search">
 
 ## 09/05/2023
+* [Συνελήφθη υπάλληλος νοσοκομείου - Έδινε «μαϊμού» πιστοποιητικά υγείας σε ιερόδουλες](https://www.ieidiseis.gr/ellada/197135/synelifthi-ypallilos-nosokomeiou-edine-maimoy-pistopoiitika-ygeias-se-ierodoules)
+* [⚡ PEGA και Γενικό Λογιστήριο διαλύουν την αξιοπιστία Μητσοτάκη](https://www.documentonews.gr/article/pega-kai-geniko-logistirio-dialyoyn-tin-axiopistia-mitsotaki/)
 * [DJ - Εισαγγελέας για «μαύρη τρύπα» 60 εκατομμύρια ευρώ στα ΕΛΤΑ](https://www.datajournalists.co.uk/2023/05/09/eisaggeleas-gia-mayri-trypa-60-ekat-eyro-sta-el-ta/)
 * [Intracom Defense - Πουλήθηκε στην Israel Aerospace Industries](https://www.businessnews.gr/epixeiriseis/item/263511-intracom-defense-poulithike-stin-israel-aerospace-industries)
 * [Εξετάσεις PISA 2023 - Παράνομη κρίθηκε η απεργία των εκπαιδευτικών](https://www.ieidiseis.gr/ellada/197122/eksetaseis-pisa-2023-paranomi-krithike-i-apergia-ton-ekpaideftikon)
