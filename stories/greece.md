@@ -3,7 +3,7 @@
 ## 09/05/2023
 * [DJ - Εισαγγελέας για «μαύρη τρύπα» 60 εκατομμύρια ευρώ στα ΕΛΤΑ](https://www.datajournalists.co.uk/2023/05/09/eisaggeleas-gia-mayri-trypa-60-ekat-eyro-sta-el-ta/)
 * [Intracom Defense - Πουλήθηκε στην Israel Aerospace Industries](https://www.businessnews.gr/epixeiriseis/item/263511-intracom-defense-poulithike-stin-israel-aerospace-industries)
-* [Εξετάσεις «PISA»2023 - Παράνομη κρίθηκε η απεργία των εκπαιδευτικών](https://www.ieidiseis.gr/ellada/197122/eksetaseis-pisa-2023-paranomi-krithike-i-apergia-ton-ekpaideftikon)
+* [Εξετάσεις PISA 2023 - Παράνομη κρίθηκε η απεργία των εκπαιδευτικών](https://www.ieidiseis.gr/ellada/197122/eksetaseis-pisa-2023-paranomi-krithike-i-apergia-ton-ekpaideftikon)
 * [Goldman Sachs - Κατηγορίες για σεξιστικές διακρίσεις - Θα καταβάλει 215 εκατ, δολ, στις εργαζόμενές της](https://www.kathimerini.gr/world/562410451/goldman-sachs-katigories-gia-sexistikes-diakriseis-tha-katavalei-215-ekat-dol-stis-ergazomenes-tis/)
 * [⚡ Εκλογές Νοθείας - Φοβερές καταγγελίες από τον διαχειριστή της ΑΜΚΕ Ισονομία Ζακ Πολυζοίδη](https://www.youtube.com/watch?v=alJBaoWegdA) &nbsp; [[2](https://pekoonline.com/isonomia_position_elections_2023/)]
 * [Ο Γιάνης Βαρουφάκης στο ΣΚΑΪ](https://www.youtube.com/watch?v=meZOW48pmLk)
