@@ -1,6 +1,10 @@
 <input id="txtSearch" onkeypress="SearchList(event);" class="ceME" placeholder="press enter to search">
 
 ## 09/05/2023
+* [Μέσω Ευρώπης τα πυρά Καραμανλή στην κυβέρνηση Μητσοτάκη](https://www.documentonews.gr/article/meso-eyropis-ta-pyra-karamanli-stin-kyvernisi-mitsotaki/)
+* [Bloomberg - Η Ιταλία προτίθεται να εγκαταλείψει τον κινεζικό «δρόμο του μεταξιού»](https://www.kathimerini.gr/economy/international/562410925/bloomberg-i-italia-protithetai-na-egkataleipsei-ton-kineziko-dromo-toy-metaxioy/)
+* [🎬 Ημέρα της Ευρώπης – Παρουσία Μητσοτάκη, Σαμαρά και Καραμανλή](https://www.kathimerini.gr/politics/562410907/live-i-ekdilosi-tis-nd-gia-tin-imera-tis-eyropis-paroysia-mitsotaki-samara-kai-karamanli/)
+* [🎬 Ομιλία του Αλέξη Τσίπρα στον Πειραιά](https://www.ieidiseis.gr/politiki/197167/live-streaming-i-omilia-tou-aleksi-tsipra-ston-peiraia)
 * [Le Monde κατά κυβέρνησης Μητσοτάκη](https://www.pronews.gr/elliniki-politiki/le-monde-kata-kyvernisis-mitsotaki-gia-to-egklima-ton-tempon-den-tha-apodothei-pote-dikaiosyni/)
 * [Ρουσφετιών συνέχεια από κυβέρνηση Μητσοτάκη - Διόρισαν στον ΟΣΕ εκτός ΑΣΕΠ την κόρη αρχισυνδικαλιστή της ΔΑΚΕ](https://www.documentonews.gr/article/roysfetion-synexeia-apo-kyvernisi-mitsotaki-diorisan-ektos-asep-tin-kori-arxisyndikalisti-tis-dake/)
 * [Θωμαΐτσα Πατρώνα - Πρόεδρος Εφετών ετ. - Η Δικαιοσύνη στη σέντρα](https://www.ieidiseis.gr/ellada/197140/proin-proedros-efeton-i-dikaiosyni-sti-sentra-gia-alli-mia-fora-kanivallizetai)
