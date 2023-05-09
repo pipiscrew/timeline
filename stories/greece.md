@@ -3,7 +3,7 @@
 ## 09/05/2023
 * [Bloomberg - Η Ιταλία προτίθεται να εγκαταλείψει τον κινεζικό «δρόμο του μεταξιού»](https://www.kathimerini.gr/economy/international/562410925/bloomberg-i-italia-protithetai-na-egkataleipsei-ton-kineziko-dromo-toy-metaxioy/)
 * [🎬 Ημέρα της Ευρώπης – Παρουσία Μητσοτάκη, Σαμαρά και Καραμανλή](https://www.kathimerini.gr/politics/562410907/live-i-ekdilosi-tis-nd-gia-tin-imera-tis-eyropis-paroysia-mitsotaki-samara-kai-karamanli/)
-  * [Μέσω Ευρώπης τα πυρά Καραμανλή στην κυβέρνηση Μητσοτάκη](https://www.documentonews.gr/article/meso-eyropis-ta-pyra-karamanli-stin-kyvernisi-mitsotaki/)
+  * [Πυρά Καραμανλή στην κυβέρνηση Μητσοτάκη](https://www.documentonews.gr/article/meso-eyropis-ta-pyra-karamanli-stin-kyvernisi-mitsotaki/)
 * [🎬 Ομιλία του Αλέξη Τσίπρα στον Πειραιά](https://www.ieidiseis.gr/politiki/197167/live-streaming-i-omilia-tou-aleksi-tsipra-ston-peiraia)
 * [Le Monde κατά κυβέρνησης Μητσοτάκη](https://www.pronews.gr/elliniki-politiki/le-monde-kata-kyvernisis-mitsotaki-gia-to-egklima-ton-tempon-den-tha-apodothei-pote-dikaiosyni/)
 * [Ρουσφετιών συνέχεια από κυβέρνηση Μητσοτάκη - Διόρισαν στον ΟΣΕ εκτός ΑΣΕΠ την κόρη αρχισυνδικαλιστή της ΔΑΚΕ](https://www.documentonews.gr/article/roysfetion-synexeia-apo-kyvernisi-mitsotaki-diorisan-ektos-asep-tin-kori-arxisyndikalisti-tis-dake/)
