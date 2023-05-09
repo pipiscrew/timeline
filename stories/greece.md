@@ -1,5 +1,12 @@
 <input id="txtSearch" onkeypress="SearchList(event);" class="ceME" placeholder="press enter to search">
 
+## 09/05/2023
+* [🎬 Η συνέντευξη του Αλέξη Τσίπρα στο Mega](https://www.documentonews.gr/article/live-h-synenteyxi-toy-alexi-tsipra-sto-mega/)
+* [Αντιδυτικό κρεσέντο Πούτιν - Θέλουν να μας καταστρέψουν - Ξέχασαν ποιος νίκησε τους Ναζί](https://www.kathimerini.gr/world/562409944/antidytiko-kresento-poytin-theloyn-na-mas-katastrepsoyn-xechasan-poios-nikise-toys-nazi/)
+* [Υποχρεωτική ψήφος - Τι θα γίνει αν δεν ψηφίσω στις εκλογές 2023](https://www.ieidiseis.gr/ellada/197047/ypoxreotiki-psifos-ti-tha-ginei-an-den-psifiso-stis-ekloges-2023)
+* [🎬 US - Μαθήτρια έριξε σπρέι πιπεριού σε καθηγητή γιατί της πήρε το κινητό](https://www.ieidiseis.gr/kosmos/197058/ipa-mathitria-erikse-sprei-piperioy-se-kathigiti-giati-tis-pire-to-kinito)
+* [Ενας Ενας Φευγουν… Και Αλλος Εισαγγελεας Δήλωσε Αποχη](https://nikosantoniadis.tv/2023/05/08/%ce%b5%ce%bd%ce%b1%cf%83-%ce%b5%ce%bd%ce%b1%cf%83-%cf%86%ce%b5%cf%85%ce%b3%ce%bf%cf%85%ce%bd-%ce%ba%ce%b1%ce%b9-%ce%b1%ce%bb%ce%bb%ce%bf%cf%83-%ce%b5%ce%b9%cf%83%ce%b1%ce%b3%ce%b3%ce%b5%ce%bb/)
+
 ## 08/05/2023
 * [Κτηματολόγιο - Πώς οι δηλώσεις ακινήτων από κληρονομιά και χρησικτησία](https://www.ieidiseis.gr/oikonomia/197000/ktimatologio-pos-oi-diloseis-akiniton-apo-klironomia-kai-xrisiktisia)
 * [O «μητσοτακισμός» πεθαίνει](https://traianou.gr/2023/05/o_mitsotakismos_pethainei.html)
@@ -30,6 +37,7 @@
   * [⚡ Σκάνδαλο υποκλοπών - Ψηφίστηκε η έκθεση-κόλαφος της PEGA για την κυβέρνηση Μητσοτάκη](https://www.documentonews.gr/article/skandalo-ypoklopon-psifistike-i-ekthesi-kolafos-tis-pega-gia-tin-kyvernisi-mitsotaki/) &nbsp; [[SophieintVeld](https://nitter.cz/SophieintVeld) + [Lenaers](https://nitter.cz/jeroen_lenaers)]
   * [ΣΥΡΙΖΑ για έκθεση PEGA - Κόλαφος για Μητσοτάκη](https://www.ieidiseis.gr/politiki/197007/syriza-gia-ekthesi-pega-kolafos-gia-mitsotaki-desmeyetai-na-symmorfothei-me-tis-systaseis)
   * [Όταν ο Σκέρτσος έσπευδε να υποβαθμίσει εκ των προτέρων την έκθεση της PEGA για τις υποκλοπές](https://www.documentonews.gr/article/otan-o-skertsos-espeyde-na-ypovathmisei-ek-ton-proteron-tin-ekthesi-tis-pega-gia-tis-ypoklopes/)
+  * [Ευρωκοινοβούλιο - Εγκρίθηκε η έκθεση της PEGA - Ανησυχίες για το Predator στην Ελλάδα](https://www.businessnews.gr/politiki/item/263474-evrokoinovoylio-egkrithike-i-ekthesi-tis-pega-anisyxies-gia-to-predator-stin-ellada) [[2](https://www.kathimerini.gr/world/562409038/e-e-i-ekthesi-tis-pega-gia-ti-chrisi-kataskopeytikoy-logismikoy/)]
 * [ΓΣΕΕ - Μηνύει τον CEO της NOS Insurance για την ομιλία του σε εργαζομένους](https://www.businessnews.gr/epixeiriseis/item/263430-gsee-minyei-ton-ceo-tis-nos-insurance-gia-tin-omilia-tou-se-ergazomenous)
 * [Εξώδικο νοσοκομειακών γιατρών στην Γκάγκα για «σκανδαλώδη προκήρυξη θέσεων Συντονιστών Διευθυντών»](https://www.documentonews.gr/article/exodiko-nosokomeiakon-giatron-stin-gkagka-gia-skandalodi-prokiryxi-theseon-syntoniston-dieythynton/)
 * [Γερμανία - Καρδιολόγος συνελήφθη ως ύποπτος για δύο ανθρωποκτονίες](https://www.makeleio.gr/%ce%b5%cf%80%ce%b9%ce%ba%ce%b1%ce%b9%cf%81%ce%bf%cf%84%ce%b7%cf%84%ce%b1/%ce%93%ce%b5%cf%81%ce%bc%ce%b1%ce%bd%ce%af%ce%b1-%ce%9a%ce%b1%cf%81%ce%b4%ce%b9%ce%bf%ce%bb%cf%8c%ce%b3%ce%bf%cf%82-%cf%83%cf%85%ce%bd%ce%b5%ce%bb%ce%ae%cf%86%ce%b8%ce%b7-%cf%89%cf%82-%cf%8d%cf%80/)
