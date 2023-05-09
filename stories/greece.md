@@ -1,6 +1,7 @@
 <input id="txtSearch" onkeypress="SearchList(event);" class="ceME" placeholder="press enter to search">
 
 ## 09/05/2023
+* [🎬 Όταν ο Σκέρτσος εμφάνιζε στον ΣΚΑΪ δήθεν έγγραφο του ΓΛΚ και ο Αυτιάς το έδειχνε στην κάμερα](https://www.documentonews.gr/article/otan-o-skertsos-emfanize-ston-skai-dithen-eggrafo-toy-glk-kai-o-aytias-to-edeixne-stin-kamera-video/)
 * [🎬 Η συνέντευξη του Αλέξη Τσίπρα στο Mega](https://www.documentonews.gr/article/live-h-synenteyxi-toy-alexi-tsipra-sto-mega/)
 * [Αντιδυτικό κρεσέντο Πούτιν - Θέλουν να μας καταστρέψουν - Ξέχασαν ποιος νίκησε τους Ναζί](https://www.kathimerini.gr/world/562409944/antidytiko-kresento-poytin-theloyn-na-mas-katastrepsoyn-xechasan-poios-nikise-toys-nazi/)
 * [Υποχρεωτική ψήφος - Τι θα γίνει αν δεν ψηφίσω στις εκλογές 2023](https://www.ieidiseis.gr/ellada/197047/ypoxreotiki-psifos-ti-tha-ginei-an-den-psifiso-stis-ekloges-2023)
