@@ -2,7 +2,7 @@
 
 ## 09/05/2023
 * [⚡ Εκλογές Νοθείας - Φοβερές καταγγελίες από τον διαχειριστή της ΑΜΚΕ Ισονομία Ζακ Πολυζοίδη](https://www.youtube.com/watch?v=alJBaoWegdA) &nbsp; [[2](https://pekoonline.com/isonomia_position_elections_2023/)]
-* [Ο Γιάνης Βαρουφάκης στο Skai](https://www.youtube.com/watch?v=meZOW48pmLk)
+* [Ο Γιάνης Βαρουφάκης στο ΣΚΑΪ](https://www.youtube.com/watch?v=meZOW48pmLk)
 * [⚡ Σκάνδαλο υποκλοπών - Ο «ελληνικός λόξιγκας» στην ψηφοφορία για την έκθεση της PEGA - «Καρφί» του Euractiv](https://www.documentonews.gr/article/skandalo-ypoklopon-o-ellinikos-loxigkas-stin-psifoforia-gia-tin-ekthesi-tis-pega-karfi-toy-euractiv/)
 * [Softone.IMPACT - Ολοκληρωμένη υπηρεσία για την Ηλεκτρονική Τιμολόγηση στο Δημόσιο](https://www.businessnews.gr/epixeiriseis/texnologia/item/263496-b2g-einvoicing-apo-tin-impact-olokliromeni-ypiresia-gia-tin-ilektroniki-timologisi-sto-dimosio)
 * [🎬 Όταν ο Σκέρτσος εμφάνιζε στον ΣΚΑΪ δήθεν έγγραφο του ΓΛΚ και ο Αυτιάς το έδειχνε στην κάμερα](https://www.documentonews.gr/article/otan-o-skertsos-emfanize-ston-skai-dithen-eggrafo-toy-glk-kai-o-aytias-to-edeixne-stin-kamera-video/)
