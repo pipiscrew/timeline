@@ -1,6 +1,9 @@
 <input id="txtSearch" onkeypress="SearchList(event);" class="ceME" placeholder="press enter to search">
 
 ## 09/05/2023
+* [Le Monde κατά κυβέρνησης Μητσοτάκη](https://www.pronews.gr/elliniki-politiki/le-monde-kata-kyvernisis-mitsotaki-gia-to-egklima-ton-tempon-den-tha-apodothei-pote-dikaiosyni/)
+* [Ρουσφετιών συνέχεια από κυβέρνηση Μητσοτάκη - Διόρισαν στον ΟΣΕ εκτός ΑΣΕΠ την κόρη αρχισυνδικαλιστή της ΔΑΚΕ](https://www.documentonews.gr/article/roysfetion-synexeia-apo-kyvernisi-mitsotaki-diorisan-ektos-asep-tin-kori-arxisyndikalisti-tis-dake/)
+* [Θωμαΐτσα Πατρώνα - Πρόεδρος Εφετών ετ. - Η Δικαιοσύνη στη σέντρα](https://www.ieidiseis.gr/ellada/197140/proin-proedros-efeton-i-dikaiosyni-sti-sentra-gia-alli-mia-fora-kanivallizetai)
 * [Συνελήφθη υπάλληλος νοσοκομείου - Έδινε «μαϊμού» πιστοποιητικά υγείας σε ιερόδουλες](https://www.ieidiseis.gr/ellada/197135/synelifthi-ypallilos-nosokomeiou-edine-maimoy-pistopoiitika-ygeias-se-ierodoules)
 * [⚡ PEGA και Γενικό Λογιστήριο διαλύουν την αξιοπιστία Μητσοτάκη](https://www.documentonews.gr/article/pega-kai-geniko-logistirio-dialyoyn-tin-axiopistia-mitsotaki/)
 * [DJ - Εισαγγελέας για «μαύρη τρύπα» 60 εκατομμύρια ευρώ στα ΕΛΤΑ](https://www.datajournalists.co.uk/2023/05/09/eisaggeleas-gia-mayri-trypa-60-ekat-eyro-sta-el-ta/)
