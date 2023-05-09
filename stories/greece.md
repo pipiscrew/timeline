@@ -14,7 +14,7 @@
 * [Intracom Defense - Πουλήθηκε στην Israel Aerospace Industries](https://www.businessnews.gr/epixeiriseis/item/263511-intracom-defense-poulithike-stin-israel-aerospace-industries)
 * [Εξετάσεις PISA 2023 - Παράνομη κρίθηκε η απεργία των εκπαιδευτικών](https://www.ieidiseis.gr/ellada/197122/eksetaseis-pisa-2023-paranomi-krithike-i-apergia-ton-ekpaideftikon)
 * [Goldman Sachs - Κατηγορίες για σεξιστικές διακρίσεις - Θα καταβάλει 215 εκατ, δολ, στις εργαζόμενές της](https://www.kathimerini.gr/world/562410451/goldman-sachs-katigories-gia-sexistikes-diakriseis-tha-katavalei-215-ekat-dol-stis-ergazomenes-tis/)
-* [⚡ Εκλογές Νοθείας - Φοβερές καταγγελίες από τον διαχειριστή της ΑΜΚΕ Ισονομία Ζακ Πολυζοίδη](https://www.youtube.com/watch?v=alJBaoWegdA) &nbsp; [[2](https://pekoonline.com/isonomia_position_elections_2023/)]
+* [⚡⚡ Εκλογές Νοθείας - Φοβερές καταγγελίες από τον διαχειριστή της ΑΜΚΕ Ισονομία Ζακ Πολυζοίδη](https://www.youtube.com/watch?v=alJBaoWegdA) &nbsp; [[2](https://pekoonline.com/isonomia_position_elections_2023/)]
 * [Ο Γιάνης Βαρουφάκης στο ΣΚΑΪ](https://www.youtube.com/watch?v=meZOW48pmLk)
 * [⚡ Σκάνδαλο υποκλοπών - Ο «ελληνικός λόξιγκας» στην ψηφοφορία για την έκθεση της PEGA - «Καρφί» του Euractiv](https://www.documentonews.gr/article/skandalo-ypoklopon-o-ellinikos-loxigkas-stin-psifoforia-gia-tin-ekthesi-tis-pega-karfi-toy-euractiv/)
 * [Softone.IMPACT - Ολοκληρωμένη υπηρεσία για την Ηλεκτρονική Τιμολόγηση στο Δημόσιο](https://www.businessnews.gr/epixeiriseis/texnologia/item/263496-b2g-einvoicing-apo-tin-impact-olokliromeni-ypiresia-gia-tin-ilektroniki-timologisi-sto-dimosio)
