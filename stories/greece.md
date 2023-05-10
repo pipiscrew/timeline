@@ -1,6 +1,8 @@
 <input id="txtSearch" onkeypress="SearchList(event);" class="ceME" placeholder="press enter to search">
 
 ## 10/05/2023
+* [Adoni - before VS after](https://attikanea.info/%CF%8C%CF%84%CE%B1%CE%BD-%CE%BF-%CE%BC%CF%80%CE%BF%CF%85%CE%BC%CF%80%CE%BF%CF%8D%CE%BA%CE%BF%CF%82-%CE%B4%CE%B5%CE%BD-%CE%B5%CE%AF%CF%87%CE%B5-%CF%80%CE%B1%CF%81%CE%B1%CF%86%CF%81%CE%BF%CE%BD/)
+* [Εύα Καϊλή - Πληρώνεται ακόμα από το Ευρωκοινοβούλιο - Θέλει να επιστρέψει στα καθήκοντά της](https://www.ieidiseis.gr/politiki/197273/i-eya-kaili-thelei-na-vgalei-to-vraxiolaki-kai-na-epistrepsei-sto-evrokoinovoylio)
 * [Nikos Antoniadis - live](https://www.youtube.com/watch?v=zlRb9_Fj26A)
 * [ΟΤΕ και Uni Systems αναλαμβάνουν έργο 53,2 εκατ, ευρώ για την Κοινωνία της Πληροφορίας](https://www.businessnews.gr/epixeiriseis/texnologia/item/263574-ote-kai-uni-systems-analamvanoun-ergo-53-2-ekat-evro-gia-tin-koinonia-tis-pliroforias)
 * [Google Chrome brings better AI to the browser with WebGPU](https://www.cnet.com/tech/computing/google-chrome-brings-better-ai-brains-to-the-web/)
