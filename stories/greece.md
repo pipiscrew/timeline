@@ -1,5 +1,11 @@
 <input id="txtSearch" onkeypress="SearchList(event);" class="ceME" placeholder="press enter to search">
 
+## 10/05/2023
+* [Nikos Antoniadis - live](https://www.youtube.com/watch?v=zlRb9_Fj26A)
+* [ΟΤΕ και Uni Systems αναλαμβάνουν έργο 53,2 εκατ, ευρώ για την Κοινωνία της Πληροφορίας](https://www.businessnews.gr/epixeiriseis/texnologia/item/263574-ote-kai-uni-systems-analamvanoun-ergo-53-2-ekat-evro-gia-tin-koinonia-tis-pliroforias)
+* [Google Chrome brings better AI to the browser with WebGPU](https://www.cnet.com/tech/computing/google-chrome-brings-better-ai-brains-to-the-web/)
+* [Ρεκόρ μηνύσεων έκανε ένας άνδρας στην πρώην σύζυγό του - Έφτασε τις 150 γιατί δεν τον αφήνει να βλέπει το παιδί](https://www.makeleio.gr/%ce%b5%cf%80%ce%b9%ce%ba%ce%b1%ce%b9%cf%81%ce%bf%cf%84%ce%b7%cf%84%ce%b1/%ce%a1%ce%b5%ce%ba%cf%8c%cf%81-%ce%bc%ce%b7%ce%bd%cf%8d%cf%83%ce%b5%cf%89%ce%bd-%ce%ad%ce%ba%ce%b1%ce%bd%ce%b5-%ce%ad%ce%bd%ce%b1%cf%82-%ce%ac%ce%bd%ce%b4%cf%81%ce%b1%cf%82-%cf%83%cf%84%ce%b7%ce%bd/)
+
 ## 09/05/2023
 * [Βρετανία - Για σεξουαλική παρενόχληση κατηγορείται ο πρόεδρος του βρετανικού κολοσσού Tesco](https://www.documentonews.gr/article/vretania-gia-sexoyaliki-parenoxlisi-katigoreitai-o-proedros-toy-vretanikoy-kolossoy-tesco/)
 * [Bloomberg - Η Ιταλία προτίθεται να εγκαταλείψει τον κινεζικό «δρόμο του μεταξιού»](https://www.kathimerini.gr/economy/international/562410925/bloomberg-i-italia-protithetai-na-egkataleipsei-ton-kineziko-dromo-toy-metaxioy/)
