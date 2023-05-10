@@ -1,6 +1,7 @@
 <input id="txtSearch" onkeypress="SearchList(event);" class="ceME" placeholder="press enter to search">
 
 ## 10/05/2023
+* [Zaraleaks - Καλπη Pass](https://www.youtube.com/watch?v=OAzS1NzJ4lM)
 * [(ΕΑΝ) Πάρις Κουρτζίδης - Κάνω Εκκληση](https://youtu.be/R7EkSsKXW7I)
 * [Microsoft - Activision - Στις επόμενες μέρες η έγκριση της ΕΕ στο deal των 69 δισ. δολαρίων](https://www.businessnews.gr/epixeiriseis/item/263602-microsoft-activision-stis-epomenes-meres-i-egkrisi-tis-ee-sto-deal-ton-69-dis-dolarion)
 * [ΦΕΚ - Αποτελέσματα εκλογών](https://www.ieidiseis.gr/politiki/197299/ekloges-2023-pio-noris-apo-pote-tha-mathoume-ta-apotelesmata-i-diadikasia)
@@ -34,7 +35,7 @@
 * [⚡⚡ Εκλογές Νοθείας - Φοβερές καταγγελίες από τον διαχειριστή της ΑΜΚΕ Ισονομία Ζακ Πολυζοίδη](https://www.youtube.com/watch?v=alJBaoWegdA) &nbsp; [[2](https://pekoonline.com/isonomia_position_elections_2023/)]
 * [Ο Γιάνης Βαρουφάκης στο ΣΚΑΪ](https://www.youtube.com/watch?v=meZOW48pmLk)
 * [⚡ Σκάνδαλο υποκλοπών - Ο «ελληνικός λόξιγκας» στην ψηφοφορία για την έκθεση της PEGA - «Καρφί» του Euractiv](https://www.documentonews.gr/article/skandalo-ypoklopon-o-ellinikos-loxigkas-stin-psifoforia-gia-tin-ekthesi-tis-pega-karfi-toy-euractiv/)
-* [Softone.IMPACT - Ολοκληρωμένη υπηρεσία για την Ηλεκτρονική Τιμολόγηση στο Δημόσιο](https://www.businessnews.gr/epixeiriseis/texnologia/item/263496-b2g-einvoicing-apo-tin-impact-olokliromeni-ypiresia-gia-tin-ilektroniki-timologisi-sto-dimosio)
+* [Softone.Impact - Ολοκληρωμένη υπηρεσία για την Ηλεκτρονική Τιμολόγηση στο Δημόσιο](https://www.businessnews.gr/epixeiriseis/texnologia/item/263496-b2g-einvoicing-apo-tin-impact-olokliromeni-ypiresia-gia-tin-ilektroniki-timologisi-sto-dimosio)
 * [🎬 Όταν ο Σκέρτσος εμφάνιζε στον ΣΚΑΪ δήθεν έγγραφο του ΓΛΚ και ο Αυτιάς το έδειχνε στην κάμερα](https://www.documentonews.gr/article/otan-o-skertsos-emfanize-ston-skai-dithen-eggrafo-toy-glk-kai-o-aytias-to-edeixne-stin-kamera-video/)
 * [🎬 Η συνέντευξη του Αλέξη Τσίπρα στο Mega](https://www.documentonews.gr/article/live-h-synenteyxi-toy-alexi-tsipra-sto-mega/)
 * [Αντιδυτικό κρεσέντο Πούτιν - Θέλουν να μας καταστρέψουν - Ξέχασαν ποιος νίκησε τους Ναζί](https://www.kathimerini.gr/world/562409944/antidytiko-kresento-poytin-theloyn-na-mas-katastrepsoyn-xechasan-poios-nikise-toys-nazi/)
