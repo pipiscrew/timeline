@@ -1,6 +1,7 @@
 <input id="txtSearch" onkeypress="SearchList(event);" class="ceME" placeholder="press enter to search">
 
 ## 10/05/2023
+* [Ξεσκεπάζοντας Τη Μεγάλη Επανεκκίνηση](https://apollodoros.substack.com/p/schwab-gates-wef)
 * [Zaraleaks - Καλπη Pass](https://www.youtube.com/watch?v=OAzS1NzJ4lM)
 * [(ΕΑΝ) Πάρις Κουρτζίδης - Κάνω Εκκληση](https://youtu.be/R7EkSsKXW7I)
 * [Microsoft - Activision - Στις επόμενες μέρες η έγκριση της ΕΕ στο deal των 69 δισ. δολαρίων](https://www.businessnews.gr/epixeiriseis/item/263602-microsoft-activision-stis-epomenes-meres-i-egkrisi-tis-ee-sto-deal-ton-69-dis-dolarion)
@@ -33,6 +34,7 @@
 * [Εξετάσεις PISA 2023 - Παράνομη κρίθηκε η απεργία των εκπαιδευτικών](https://www.ieidiseis.gr/ellada/197122/eksetaseis-pisa-2023-paranomi-krithike-i-apergia-ton-ekpaideftikon)
 * [Goldman Sachs - Κατηγορίες για σεξιστικές διακρίσεις - Θα καταβάλει 215 εκατ, δολ, στις εργαζόμενές της](https://www.kathimerini.gr/world/562410451/goldman-sachs-katigories-gia-sexistikes-diakriseis-tha-katavalei-215-ekat-dol-stis-ergazomenes-tis/)
 * [⚡⚡ Εκλογές Νοθείας - Φοβερές καταγγελίες από τον διαχειριστή της ΑΜΚΕ Ισονομία Ζακ Πολυζοίδη](https://www.youtube.com/watch?v=alJBaoWegdA) &nbsp; [[2](https://pekoonline.com/isonomia_position_elections_2023/)]
+  * [10/05] [Ισονομία στο AlertTV](https://youtu.be/RWXoK1ByFZw?t=1289)
 * [Ο Γιάνης Βαρουφάκης στο ΣΚΑΪ](https://www.youtube.com/watch?v=meZOW48pmLk)
 * [⚡ Σκάνδαλο υποκλοπών - Ο «ελληνικός λόξιγκας» στην ψηφοφορία για την έκθεση της PEGA - «Καρφί» του Euractiv](https://www.documentonews.gr/article/skandalo-ypoklopon-o-ellinikos-loxigkas-stin-psifoforia-gia-tin-ekthesi-tis-pega-karfi-toy-euractiv/)
 * [Softone.Impact - Ολοκληρωμένη υπηρεσία για την Ηλεκτρονική Τιμολόγηση στο Δημόσιο](https://www.businessnews.gr/epixeiriseis/texnologia/item/263496-b2g-einvoicing-apo-tin-impact-olokliromeni-ypiresia-gia-tin-ilektroniki-timologisi-sto-dimosio)
