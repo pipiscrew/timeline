@@ -1,9 +1,13 @@
 <input id="txtSearch" onkeypress="SearchList(event);" class="ceME" placeholder="press enter to search">
 
 ## 10/05/2023
+* [ΦΕΚ - Αποτελέσματα εκλογών](https://www.ieidiseis.gr/politiki/197299/ekloges-2023-pio-noris-apo-pote-tha-mathoume-ta-apotelesmata-i-diadikasia)
+* [Μαρκ Ζούκερμπεργκ - Χρυσός στο πρώτο του τουρνουά μπραζίλιαν ζίου ζίτσου](https://www.kathimerini.gr/life/technology/562412509/chrysos-o-mark-zoykermpergk-sto-proto-toy-toyrnoya-mprazilian-zioy-zitsoy/)
+* [Αυστραλία - Πρόταση θανάτωσης των καγκουρώ για να σωθούν από την πείνα - «Τρώνε μέχρι και χαρτί υγείας»](https://www.kathimerini.gr/world/562412701/aystralia-thanatonei-ta-kagkoyro-gia-na-ta-sosei-apo-tin-peina-trone-mechri-kai-charti-ygeias/)
 * [Επιτροπή Ανταγωνισμού - Εγκρίθηκε η εξαγορά της φαρμακευτικής GAP από την Innovis Pharma](https://www.businessnews.gr/epixeiriseis/item/263592-epitropi-antagonismoy-egkrithike-i-eksagora-tis-farmakeftikis-gap-apo-tin-innovis-pharma)
 * [Adoni - before VS after](https://attikanea.info/%CF%8C%CF%84%CE%B1%CE%BD-%CE%BF-%CE%BC%CF%80%CE%BF%CF%85%CE%BC%CF%80%CE%BF%CF%8D%CE%BA%CE%BF%CF%82-%CE%B4%CE%B5%CE%BD-%CE%B5%CE%AF%CF%87%CE%B5-%CF%80%CE%B1%CF%81%CE%B1%CF%86%CF%81%CE%BF%CE%BD/)
 * [Εύα Καϊλή - Πληρώνεται ακόμα από το Ευρωκοινοβούλιο - Θέλει να επιστρέψει στα καθήκοντά της](https://www.ieidiseis.gr/politiki/197273/i-eya-kaili-thelei-na-vgalei-to-vraxiolaki-kai-na-epistrepsei-sto-evrokoinovoylio)
+  * [Politico - Η Εύα Καϊλή θέλει πίσω τη δουλειά της στο Ευρωκοινοβούλιο](https://www.businessnews.gr/kosmos/item/263601-politico-i-eya-kaili-thelei-piso-ti-douleia-tis-sto-evrokoinovoylio)
 * [Nikos Antoniadis - live](https://www.youtube.com/watch?v=zlRb9_Fj26A)
 * [ΟΤΕ και Uni Systems αναλαμβάνουν έργο 53,2 εκατ, ευρώ για την Κοινωνία της Πληροφορίας](https://www.businessnews.gr/epixeiriseis/texnologia/item/263574-ote-kai-uni-systems-analamvanoun-ergo-53-2-ekat-evro-gia-tin-koinonia-tis-pliroforias)
 * [Google Chrome brings better AI to the browser with WebGPU](https://www.cnet.com/tech/computing/google-chrome-brings-better-ai-brains-to-the-web/)
