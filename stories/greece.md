@@ -1,6 +1,8 @@
 <input id="txtSearch" onkeypress="SearchList(event);" class="ceME" placeholder="press enter to search">
 
 ## 10/05/2023
+* [(ΕΑΝ) Πάρις Κουρτζίδης - Κάνω Εκκληση](https://youtu.be/R7EkSsKXW7I)
+* [Microsoft - Activision - Στις επόμενες μέρες η έγκριση της ΕΕ στο deal των 69 δισ. δολαρίων](https://www.businessnews.gr/epixeiriseis/item/263602-microsoft-activision-stis-epomenes-meres-i-egkrisi-tis-ee-sto-deal-ton-69-dis-dolarion)
 * [ΦΕΚ - Αποτελέσματα εκλογών](https://www.ieidiseis.gr/politiki/197299/ekloges-2023-pio-noris-apo-pote-tha-mathoume-ta-apotelesmata-i-diadikasia)
 * [Μαρκ Ζούκερμπεργκ - Χρυσός στο πρώτο του τουρνουά μπραζίλιαν ζίου ζίτσου](https://www.kathimerini.gr/life/technology/562412509/chrysos-o-mark-zoykermpergk-sto-proto-toy-toyrnoya-mprazilian-zioy-zitsoy/)
 * [Αυστραλία - Πρόταση θανάτωσης των καγκουρώ για να σωθούν από την πείνα - «Τρώνε μέχρι και χαρτί υγείας»](https://www.kathimerini.gr/world/562412701/aystralia-thanatonei-ta-kagkoyro-gia-na-ta-sosei-apo-tin-peina-trone-mechri-kai-charti-ygeias/)
