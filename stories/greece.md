@@ -1,6 +1,8 @@
 <input id="txtSearch" onkeypress="SearchList(event);" class="ceME" placeholder="press enter to search">
 
 ## 10/05/2023
+* [Φρένο από ΕΕ σε κινεζικές εξαγορές](https://www.kathimerini.gr/economy/562411783/freno-apo-e-e-se-kinezikes-exagores/)
+* [Συναγερμός στην Κινέτα - Συρμός του προαστιακού ακινητοποιήθηκε βγάζοντας καπνούς](https://www.ieidiseis.gr/ellada/197361/synagermos-stin-kineta-syrmos-tou-proastiakoy-akinitopoiithike-vgazontas-kapnoys)
 * [Ξεσκεπάζοντας Τη Μεγάλη Επανεκκίνηση](https://apollodoros.substack.com/p/schwab-gates-wef)
 * [Zaraleaks - Καλπη Pass](https://www.youtube.com/watch?v=OAzS1NzJ4lM)
 * [(ΕΑΝ) Πάρις Κουρτζίδης - Κάνω Εκκληση](https://youtu.be/R7EkSsKXW7I)
