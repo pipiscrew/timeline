@@ -1,25 +1,26 @@
 <input id="txtSearch" onkeypress="SearchList(event);" class="ceME" placeholder="press enter to search">
 
 ## 11/05/2023
-* [Ρόδος - Καταδίωξη σκάφους με αλλοδαπούς από το Λιμενικό!](https://www.makeleio.gr/%ce%b5%cf%80%ce%b9%ce%ba%ce%b1%ce%b9%cf%81%ce%bf%cf%84%ce%b7%cf%84%ce%b1/%ce%a1%cf%8c%ce%b4%ce%bf%cf%82-%ce%9a%ce%b1%cf%84%ce%b1%ce%b4%ce%af%cf%89%ce%be%ce%b7-%cf%83%ce%ba%ce%ac%cf%86%ce%bf%cf%85%cf%82-%ce%bc%ce%b5-%ce%b1%ce%bb%ce%bb%ce%bf%ce%b4%ce%b1%cf%80%ce%bf%cf%8d/)
 * [Φινλανδία - Κατάρρευση πεζογέφυρας τουλάχιστον 27 τραυματίες](https://www.grtimes.gr/diethni/katarreysi-pezogefyras-sti-finlandia-toylachiston-27-traymaties-oi)
 * [ΓΕΚ ΤΕΡΝΑ - Μεταβιβάστηκε του 51% της IRC Α,Ε, στην Hard Rock International](https://www.businessnews.gr/epixeiriseis/item/263680-gek-terna-metavivastike-tou-51-tis-irc-a-e-stin-hard-rock-international)
 * [Πώς βλέπω πόσα είναι τα ένσημά μου με κωδικούς taxinet](https://www.ieidiseis.gr/oikonomia/197506/pos-vlepo-posa-einai-ta-ensima-mou-me-kodikoys-taxinet)
-* [Αλέξη Τσίπρας - στη Λάρισα](https://www.documentonews.gr/article/h-omilia-toy-alexi-tsipra-sti-larisa-live/)
-* [Κυριάκος Μητσοτάκης - στον Βόλο](https://www.ieidiseis.gr/politiki/197513/live-streaming-o-kyriakos-mitsotakis-ston-volo)
+* [🎬 Αλέξη Τσίπρας - στη Λάρισα](https://www.documentonews.gr/article/h-omilia-toy-alexi-tsipra-sti-larisa-live/)
+* [🎬 Κυριάκος Μητσοτάκης - στον Βόλο](https://www.ieidiseis.gr/politiki/197513/live-streaming-o-kyriakos-mitsotakis-ston-volo)
 * [ΙΟΒΕ έρευνα - Διαψεύδει το δήθεν success story Μητσοτάκη για το εισόδημα των Ελλήνων](https://www.documentonews.gr/article/diapseydei-to-dithen-success-story-mitsotaki-ereyna-toy-iove/)
 * [CNN - Η Βρετανία έστειλε στο Κίεβο πυραύλους κρουζ μεγάλου βεληνεκούς - Απειλεί το Κρεμλίνο](https://www.kathimerini.gr/world/562414603/cnn-i-vretania-esteile-sto-kievo-pyrayloys-kroyz-megaloy-velinekoys-apeilei-to-kremlino/)
-* [Ρόδος - Επικεφαλής γνωστού beach bar μετέτρεψε την παραλία σε ταβέρνα](https://www.kathimerini.gr/society/562414066/rodos-epikefalis-gnostoy-beach-bar-metetrepse-tin-paralia-se-taverna/)
+* [Ρόδος - Καταδίωξη σκάφους με αλλοδαπούς από το Λιμενικό!](https://www.makeleio.gr/%ce%b5%cf%80%ce%b9%ce%ba%ce%b1%ce%b9%cf%81%ce%bf%cf%84%ce%b7%cf%84%ce%b1/%ce%a1%cf%8c%ce%b4%ce%bf%cf%82-%ce%9a%ce%b1%cf%84%ce%b1%ce%b4%ce%af%cf%89%ce%be%ce%b7-%cf%83%ce%ba%ce%ac%cf%86%ce%bf%cf%85%cf%82-%ce%bc%ce%b5-%ce%b1%ce%bb%ce%bb%ce%bf%ce%b4%ce%b1%cf%80%ce%bf%cf%8d/)
+  * [Επικεφαλής γνωστού beach bar μετέτρεψε την παραλία σε ταβέρνα](https://www.kathimerini.gr/society/562414066/rodos-epikefalis-gnostoy-beach-bar-metetrepse-tin-paralia-se-taverna/)
 * [Ο ΕΦΕΤ ανακαλεί αντικολλητικό ταψί από την αγορά](https://www.documentonews.gr/article/o-efet-anakalei-antikollitiko-tapsi-apo-tin-agora/)
 * [US - Σε υψηλό 14 ετών τα CDS για το ενδεχόμενο χρεοκοπίας, λόγω του χρέους](https://www.businessnews.gr/kosmos/item/263653-ipa-se-ypsilo-14-eton-ta-cds-gia-to-endexomeno-xreokopias-logo-tou-xreous)
 * [Βρυξέλλες προτιμούν την παραμονή του Ταγίπ Ερντογάν στην εξουσία](https://www.ieidiseis.gr/kosmos/197402/kai-omos-oi-vrykselles-protimoyn-tin-paramoni-tou-tagip-erntogan-stin-eksousia)
   * [Ο ηγέτης των Σερβοβόσνιων δήλωσε την υποστήριξή του στον Ερντογάν](https://www.ieidiseis.gr/kosmos/197399/o-igetis-ton-servovosnion-dilose-tin-ypostiriksi-tou-ston-erntogan)
-* [Stavros Kalenteridis - Σε ποιον ανήκουν και ποιος εκλέγει τους βουλευτές](https://youtu.be/TUNGGIW47RY)
+* [⚡ Stavros Kalenteridis - Σε ποιον ανήκουν και ποιος εκλέγει τους βουλευτές](https://youtu.be/TUNGGIW47RY)
 
 ## 10/05/2023
 * [Debate #myass](https://www.youtube.com/watch?v=R3olwxqyW-w)
   * [Αρπάχτηκαν εκτός κάμερας Τσίπρας – Κουτσούμπας](https://www.makeleio.gr/%CE%B5%CF%80%CE%B9%CE%BA%CE%B1%CE%B9%CF%81%CE%BF%CF%84%CE%B7%CF%84%CE%B1/%CE%91%CE%A0%CE%9F%CE%9A%CE%91%CE%9B%CE%A5%CE%A8%CE%97-%CE%91%CF%81%CF%80%CE%AC%CF%87%CF%84%CE%B7%CE%BA%CE%B1%CE%BD-%CE%B5%CE%BA%CF%84%CF%8C%CF%82-%CE%BA%CE%AC%CE%BC%CE%B5%CF%81%CE%B1%CF%82-%CE%A4/)
   * [Μητσοτάκης - Απάντησε στον Κουβαρά, ενώ τον ρώτησε ο Σρόιτερ](https://www.makeleio.gr/%CE%B5%CF%80%CE%B9%CE%BA%CE%B1%CE%B9%CF%81%CE%BF%CF%84%CE%B7%CF%84%CE%B1/%CE%95%CE%BA%CF%84%CF%8C%CF%82-%CE%B5%CE%B1%CF%85%CF%84%CE%BF%CF%8D-%CE%BF-%CE%9C%CE%B7%CF%84%CF%83%CE%BF%CF%84%CE%AC%CE%BA%CE%B7%CF%82-%CE%91%CF%80%CE%AC%CE%BD%CF%84%CE%B7%CF%83%CE%B5-%CF%83%CF%84-2/)
+  * [11/05] [🎬 Makeleio judgement (forward to 12:40)](https://rumble.com/v2n935w--11-5-2023-makeleio.gr.html)
 * [Ο πρωθυπουργός της Πολωνίας θέλει να επιβάλλεται η θανατική ποινή στους «βιαιότερους εγκληματίες»](https://www.makeleio.gr/%ce%b5%cf%80%ce%b9%ce%ba%ce%b1%ce%b9%cf%81%ce%bf%cf%84%ce%b7%cf%84%ce%b1/%ce%9f-%cf%80%cf%81%cf%89%ce%b8%cf%85%cf%80%ce%bf%cf%85%cf%81%ce%b3%cf%8c%cf%82-%cf%84%ce%b7%cf%82-%ce%a0%ce%bf%ce%bb%cf%89%ce%bd%ce%af%ce%b1%cf%82-%ce%b8%ce%ad%ce%bb%ce%b5%ce%b9-%ce%bd%ce%b1-%ce%b5/)
 * [Φρένο από ΕΕ σε κινεζικές εξαγορές](https://www.kathimerini.gr/economy/562411783/freno-apo-e-e-se-kinezikes-exagores/)
 * [Συναγερμός στην Κινέτα - Συρμός του προαστιακού ακινητοποιήθηκε βγάζοντας καπνούς](https://www.ieidiseis.gr/ellada/197361/synagermos-stin-kineta-syrmos-tou-proastiakoy-akinitopoiithike-vgazontas-kapnoys)
