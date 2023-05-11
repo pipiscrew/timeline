@@ -1,6 +1,14 @@
 <input id="txtSearch" onkeypress="SearchList(event);" class="ceME" placeholder="press enter to search">
 
 ## 11/05/2023
+* [Ρόδος - Καταδίωξη σκάφους με αλλοδαπούς από το Λιμενικό!](https://www.makeleio.gr/%ce%b5%cf%80%ce%b9%ce%ba%ce%b1%ce%b9%cf%81%ce%bf%cf%84%ce%b7%cf%84%ce%b1/%ce%a1%cf%8c%ce%b4%ce%bf%cf%82-%ce%9a%ce%b1%cf%84%ce%b1%ce%b4%ce%af%cf%89%ce%be%ce%b7-%cf%83%ce%ba%ce%ac%cf%86%ce%bf%cf%85%cf%82-%ce%bc%ce%b5-%ce%b1%ce%bb%ce%bb%ce%bf%ce%b4%ce%b1%cf%80%ce%bf%cf%8d/)
+* [Φινλανδία - Κατάρρευση πεζογέφυρας τουλάχιστον 27 τραυματίες](https://www.grtimes.gr/diethni/katarreysi-pezogefyras-sti-finlandia-toylachiston-27-traymaties-oi)
+* [ΓΕΚ ΤΕΡΝΑ - Μεταβιβάστηκε του 51% της IRC Α,Ε, στην Hard Rock International](https://www.businessnews.gr/epixeiriseis/item/263680-gek-terna-metavivastike-tou-51-tis-irc-a-e-stin-hard-rock-international)
+* [Πώς βλέπω πόσα είναι τα ένσημά μου με κωδικούς taxinet](https://www.ieidiseis.gr/oikonomia/197506/pos-vlepo-posa-einai-ta-ensima-mou-me-kodikoys-taxinet)
+* [Αλέξη Τσίπρας - στη Λάρισα](https://www.documentonews.gr/article/h-omilia-toy-alexi-tsipra-sti-larisa-live/)
+* [Κυριάκος Μητσοτάκης - στον Βόλο](https://www.ieidiseis.gr/politiki/197513/live-streaming-o-kyriakos-mitsotakis-ston-volo)
+* [ΙΟΒΕ έρευνα - Διαψεύδει το δήθεν success story Μητσοτάκη για το εισόδημα των Ελλήνων](https://www.documentonews.gr/article/diapseydei-to-dithen-success-story-mitsotaki-ereyna-toy-iove/)
+* [CNN - Η Βρετανία έστειλε στο Κίεβο πυραύλους κρουζ μεγάλου βεληνεκούς - Απειλεί το Κρεμλίνο](https://www.kathimerini.gr/world/562414603/cnn-i-vretania-esteile-sto-kievo-pyrayloys-kroyz-megaloy-velinekoys-apeilei-to-kremlino/)
 * [Ρόδος - Επικεφαλής γνωστού beach bar μετέτρεψε την παραλία σε ταβέρνα](https://www.kathimerini.gr/society/562414066/rodos-epikefalis-gnostoy-beach-bar-metetrepse-tin-paralia-se-taverna/)
 * [Ο ΕΦΕΤ ανακαλεί αντικολλητικό ταψί από την αγορά](https://www.documentonews.gr/article/o-efet-anakalei-antikollitiko-tapsi-apo-tin-agora/)
 * [US - Σε υψηλό 14 ετών τα CDS για το ενδεχόμενο χρεοκοπίας, λόγω του χρέους](https://www.businessnews.gr/kosmos/item/263653-ipa-se-ypsilo-14-eton-ta-cds-gia-to-endexomeno-xreokopias-logo-tou-xreous)
