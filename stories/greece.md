@@ -1,6 +1,18 @@
 <input id="txtSearch" onkeypress="SearchList(event);" class="ceME" placeholder="press enter to search">
 
+## 11/05/2023
+* [Ρόδος - Επικεφαλής γνωστού beach bar μετέτρεψε την παραλία σε ταβέρνα](https://www.kathimerini.gr/society/562414066/rodos-epikefalis-gnostoy-beach-bar-metetrepse-tin-paralia-se-taverna/)
+* [Ο ΕΦΕΤ ανακαλεί αντικολλητικό ταψί από την αγορά](https://www.documentonews.gr/article/o-efet-anakalei-antikollitiko-tapsi-apo-tin-agora/)
+* [US - Σε υψηλό 14 ετών τα CDS για το ενδεχόμενο χρεοκοπίας, λόγω του χρέους](https://www.businessnews.gr/kosmos/item/263653-ipa-se-ypsilo-14-eton-ta-cds-gia-to-endexomeno-xreokopias-logo-tou-xreous)
+* [Βρυξέλλες προτιμούν την παραμονή του Ταγίπ Ερντογάν στην εξουσία](https://www.ieidiseis.gr/kosmos/197402/kai-omos-oi-vrykselles-protimoyn-tin-paramoni-tou-tagip-erntogan-stin-eksousia)
+  * [Ο ηγέτης των Σερβοβόσνιων δήλωσε την υποστήριξή του στον Ερντογάν](https://www.ieidiseis.gr/kosmos/197399/o-igetis-ton-servovosnion-dilose-tin-ypostiriksi-tou-ston-erntogan)
+* [Stavros Kalenteridis- Σε ποιον ανήκουν και ποιος εκλέγει τους βουλευτές](https://youtu.be/TUNGGIW47RY)
+
 ## 10/05/2023
+* [Debate #myass](https://www.youtube.com/watch?v=R3olwxqyW-w)
+  * [Αρπάχτηκαν εκτός κάμερας Τσίπρας – Κουτσούμπας](https://www.makeleio.gr/%CE%B5%CF%80%CE%B9%CE%BA%CE%B1%CE%B9%CF%81%CE%BF%CF%84%CE%B7%CF%84%CE%B1/%CE%91%CE%A0%CE%9F%CE%9A%CE%91%CE%9B%CE%A5%CE%A8%CE%97-%CE%91%CF%81%CF%80%CE%AC%CF%87%CF%84%CE%B7%CE%BA%CE%B1%CE%BD-%CE%B5%CE%BA%CF%84%CF%8C%CF%82-%CE%BA%CE%AC%CE%BC%CE%B5%CF%81%CE%B1%CF%82-%CE%A4/)
+  * [Μητσοτάκης - Απάντησε στον Κουβαρά, ενώ τον ρώτησε ο Σρόιτερ](https://www.makeleio.gr/%CE%B5%CF%80%CE%B9%CE%BA%CE%B1%CE%B9%CF%81%CE%BF%CF%84%CE%B7%CF%84%CE%B1/%CE%95%CE%BA%CF%84%CF%8C%CF%82-%CE%B5%CE%B1%CF%85%CF%84%CE%BF%CF%8D-%CE%BF-%CE%9C%CE%B7%CF%84%CF%83%CE%BF%CF%84%CE%AC%CE%BA%CE%B7%CF%82-%CE%91%CF%80%CE%AC%CE%BD%CF%84%CE%B7%CF%83%CE%B5-%CF%83%CF%84-2/)
+* [Ο πρωθυπουργός της Πολωνίας θέλει να επιβάλλεται η θανατική ποινή στους «βιαιότερους εγκληματίες»](https://www.makeleio.gr/%ce%b5%cf%80%ce%b9%ce%ba%ce%b1%ce%b9%cf%81%ce%bf%cf%84%ce%b7%cf%84%ce%b1/%ce%9f-%cf%80%cf%81%cf%89%ce%b8%cf%85%cf%80%ce%bf%cf%85%cf%81%ce%b3%cf%8c%cf%82-%cf%84%ce%b7%cf%82-%ce%a0%ce%bf%ce%bb%cf%89%ce%bd%ce%af%ce%b1%cf%82-%ce%b8%ce%ad%ce%bb%ce%b5%ce%b9-%ce%bd%ce%b1-%ce%b5/)
 * [Φρένο από ΕΕ σε κινεζικές εξαγορές](https://www.kathimerini.gr/economy/562411783/freno-apo-e-e-se-kinezikes-exagores/)
 * [Συναγερμός στην Κινέτα - Συρμός του προαστιακού ακινητοποιήθηκε βγάζοντας καπνούς](https://www.ieidiseis.gr/ellada/197361/synagermos-stin-kineta-syrmos-tou-proastiakoy-akinitopoiithike-vgazontas-kapnoys)
 * [Ξεσκεπάζοντας Τη Μεγάλη Επανεκκίνηση](https://apollodoros.substack.com/p/schwab-gates-wef)
