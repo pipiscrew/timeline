@@ -6,7 +6,7 @@
 * [US - Σε υψηλό 14 ετών τα CDS για το ενδεχόμενο χρεοκοπίας, λόγω του χρέους](https://www.businessnews.gr/kosmos/item/263653-ipa-se-ypsilo-14-eton-ta-cds-gia-to-endexomeno-xreokopias-logo-tou-xreous)
 * [Βρυξέλλες προτιμούν την παραμονή του Ταγίπ Ερντογάν στην εξουσία](https://www.ieidiseis.gr/kosmos/197402/kai-omos-oi-vrykselles-protimoyn-tin-paramoni-tou-tagip-erntogan-stin-eksousia)
   * [Ο ηγέτης των Σερβοβόσνιων δήλωσε την υποστήριξή του στον Ερντογάν](https://www.ieidiseis.gr/kosmos/197399/o-igetis-ton-servovosnion-dilose-tin-ypostiriksi-tou-ston-erntogan)
-* [Stavros Kalenteridis- Σε ποιον ανήκουν και ποιος εκλέγει τους βουλευτές](https://youtu.be/TUNGGIW47RY)
+* [Stavros Kalenteridis - Σε ποιον ανήκουν και ποιος εκλέγει τους βουλευτές](https://youtu.be/TUNGGIW47RY)
 
 ## 10/05/2023
 * [Debate #myass](https://www.youtube.com/watch?v=R3olwxqyW-w)
