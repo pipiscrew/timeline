@@ -1,6 +1,9 @@
 <input id="txtSearch" onkeypress="SearchList(event);" class="ceME" placeholder="press enter to search">
 
 ## 12/05/2023
+* [Φάρσα - για βόμβα στα γραφεία της Νέας Δημοκρατίας](https://www.kathimerini.gr/society/562400509/farsa-to-tilefonima-gia-vomva-sta-grafeia-tis-neas-dimokratias/)
+  * [Φάρσα - στο PAOK Sports Arena](https://www.grtimes.gr/themata-grtimes/lixi-synagermoy-sto-paok-sports-arena-farsa-to)
+  * [Φάρσα - στην OPAP Arena](https://www.novasports.gr/sport/podosfairo/event/super-league-1/article/12882142/farsa-to-tilefonima-gia-vomva-stin-OPAP-Arena/)
 * [Πορτογαλία - Νόμιμη υπό όρους η υποβοηθούμενη αυτοκτονία](https://www.documentonews.gr/article/portogalia-nomimi-ypo-oroys-i-ypovoithoymeni-aytoktonia/)
 * [20 Χρόνια από το Έγκλημα της Ριζούπολης](https://youtu.be/le12wQ1WrWA?t=411)
 * [Σερβία - Μαζική αντικυβερνητική διαδήλωση στη Σερβία μετά τις αιματηρές επιθέσεις](https://www.documentonews.gr/article/servia-maziki-antikyvernitiki-diadilosi-sti-servia-meta-tis-aimatires-epitheseis/)
