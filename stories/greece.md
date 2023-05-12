@@ -1,5 +1,9 @@
 <input id="txtSearch" onkeypress="SearchList(event);" class="ceME" placeholder="press enter to search">
 
+## 12/05/2023
+* [DJ - Ελληνικό - Το μεγάλο φιάσκο από ψηλά](https://www.datajournalists.co.uk/2023/05/12/elliniko-to-megalo-fiasko-apo-psila/)
+* [Έλον Μασκ - Αποσύρεται από CEO του Twitter - Προσέλαβε νέο που θα αναλάβει σε έξι εβδομάδες](https://www.ieidiseis.gr/kosmos/197564/elon-mask-aposyretai-apo-ceo-tou-twitter-proselave-neo-pou-tha-analavei-se-eksi-evdomades)
+
 ## 11/05/2023
 * [🎬 AlertTV - Εκλογές με sex, ψέματα και εκβιασμούς - με guest Χίο](https://youtu.be/ann_-jvh4ko)
 * [Ιταλία - Εκτοξεύθηκαν οι τιμές των ζυμαρικών](https://www.kathimerini.gr/economy/international/562415203/italia-ektoxeythikan-oi-times-ton-zymarikon-synedriazei-i-epitropi-kriseon/)
