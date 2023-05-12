@@ -1,9 +1,13 @@
 <input id="txtSearch" onkeypress="SearchList(event);" class="ceME" placeholder="press enter to search">
 
 ## 12/05/2023
+* [Σε αντιεισαγγελέα του Αρείου Πάγου προήχθη ο Βασίλης Φλωρίδης](https://www.grtimes.gr/ellada/se-antieisaggelea-toy-areioy-pagoy-proichthi-o-vasilis)
+* [🎬 Κυριάκος Μητσοτάκης - σττη Ρόδο](https://youtu.be/PwHO4CXVWXU)
+* [🎬 Αλέξης Τσίπρας - στην Καβάλα](https://www.facebook.com/tsiprasalexis/videos/1817562362047141/)
+* [2018 - Πρέπει Να Γνωρίζεις Για Πόσα Εκατομμυρια Λαθροεισβολεων, Υπεγραψε Στο Μαρακεσ ο Αλεξης Τσιπρας](https://attikanea.info/%CF%80%CE%B1%CF%81%CE%B5-%CF%85%CF%80%CE%BF%CE%B3%CE%BB%CF%89%CF%83%CF%83%CE%B9%CE%BF-%CF%80%CF%81%CE%B9%CE%BD-%CF%84%CE%B7%CE%BD-%CE%B7%CE%BC%CE%B5%CF%81%CE%BF%CE%BC%CE%B7%CE%BD%CE%AF%CE%B1-%CF%84/)
+* [Η τεχνητή νοημοσύνη αλλάζει τη μηχανή αναζήτησης της Google](https://www.kathimerini.gr/economy/562415830/i-techniti-noimosyni-allazei-ti-michani-anazitisis-tis-google/)
 * [Μητσοτάκης - Ρόδος](https://www.kathimerini.gr/politics/562416823/mitsotakis-sta-apokalyptiria-tis-protomis-toy-dim-kremastinoy-sti-rodo/)
 > Μητσοτάκης μετέβη στο **νοσοκομείο της Ρόδου** για να παραστεί στα αποκαλυπτήρια προτομής του αείμνηστου υπουργού Υγείας
-
 * [Περικυκλωμένο από ΜΑΤ το Πολυτεχνείο - Δεν επιτρέπουν την είσοδο σε φοιτητές - Σε lock out προχώρησε η Πρυτανεία](https://www.documentonews.gr/article/perikyklomeno-apo-mat-to-polytexneio-den-epitrepoyn-tin-eisodo-se-foitites-se-lock-out-proxorise-i-prytaneia/)
 * [Θανατηφόρα νόσος των βοοειδών εντοπίστηκε στη νότια Ευρώπη - Πώς συνδέεται με την κλιματική αλλαγή](https://www.ieidiseis.gr/ygeia/197663/thanatifora-nosos-ton-vooeidon-entopistike-sti-notia-evropi-pos-syndeetai-me-tin-klimatiki-allagi)
 * [Nikos Antoniadis - Στην Υποδιευθυνση Ασφαλειας Αττικης η Δικογραφια Των Οργιων Του Εφετειου](https://nikosantoniadis.tv/2023/05/12/%cf%87%ce%bf%ce%bd%cf%84%cf%81%ce%b1%ce%b9%ce%bd%ce%b5%ce%b9-%cf%84%ce%bf-%cf%80%ce%b1%ce%b9%cf%87%ce%bd%ce%b9%ce%b4%ce%b9-%cf%83%cf%84%ce%b7%ce%bd-%cf%85%cf%80%ce%bf%ce%b4%ce%b9%ce%b5%cf%85%ce%b8/)
@@ -11,6 +15,9 @@
 * [Κρατικές ενισχύσεις - Η ΕΕ ενέκρινε 31 εκατ, ευρώ για στήριξη των Ελλήνων παραγωγών αγροτικών προϊόντων](https://www.businessnews.gr/oikonomia/item/263742-kratikes-enisxyseis-i-ee-enekrine-31-ekat-evro-gia-stiriksi-ton-ellinon-paragogon-agrotikon-proionton)
 * [Παρέμβαση Ρουβίκωνα στο ξενοδοχείο Zafolia - Καταγγέλλουν εργασιακό κάτεργο](https://www.documentonews.gr/article/paremvasi-royvikona-sto-xenodoxeio-zafolia-kataggelloyn-ergasiako-katergo/)
 * [Κύκλωμα έδινε «πέτσινα» διπλώματα σε πιλότους](https://www.ieidiseis.gr/ellada/197640/kykloma-edine-petsina-diplomata-se-pilotous-tous-estelnan-akoma-kai-sto-amman-tarifa-25-000-evro)
+  * [Δίπλωμα πιλότου με «λάδωμα» - Η Σχολή της Θεσσαλονίκης, τα τρύπια πουκάμισα και οι «μαύροι»](https://www.ieidiseis.gr/ellada/197678/diploma-pilotou-me-ladoma-i-sxoli-tis-thessalonikis-ta-trypia-poukamisa-kai-oi-mayroi)
+  * [Hi-tech κακοποιοί έδιναν «σκονάκια» σε εξεταζόμενους υποψήφιους πιλότους-5 συλλήψεις-Πώς δρούσαν](https://www.grtimes.gr/ellada/koinwnia/hi-tech-kakopoioi-edinan-skonakia-se-exetazomenoys-ypopsifioys)
+  * [🎬 Νέες αποκαλύψεις](https://www.grtimes.gr/ellada/nees-apokalypseis-gia-ti-symmoria-poy-evgaze-plasta)
 * [Τεχνολογική επανάσταση σε σούπερ μάρκετ-εστίαση - Ποιες αλλαγές ξεκλειδώνει προσεχώς το Ταμείο Ανάκαμψης](https://www.businessnews.gr/epixeiriseis/item/263682-texnologiki-epanastasi-se-soyper-market-estiasi-poies-allages-ksekleidonei-prosexos-to-tameio-anakampsis)
 * [Κρήτη - Σήμα κινδύνου από τους γιατρούς στο «Βενιζέλειο» - «Καμπανάκι» για τις κλίνες ΜΕΘ](https://www.documentonews.gr/article/kriti-sima-kindynoy-apo-toys-giatroys-sto-venizeleio-kampanaki-gia-tis-klines-meth/)
 * [🎬 Αλέξης Τσίπρας - στην Αλεξανδρούπολη](https://www.facebook.com/tsiprasalexis/videos/628384628819874/)
