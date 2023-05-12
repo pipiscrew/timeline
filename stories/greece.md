@@ -1,12 +1,12 @@
 <input id="txtSearch" onkeypress="SearchList(event);" class="ceME" placeholder="press enter to search">
 
 ## 11/05/2023
-* [AlertTV - Εκλογές - με guest Χίο](https://youtu.be/ann_-jvh4ko)
+* [🎬 AlertTV - Εκλογές - με guest Χίο](https://youtu.be/ann_-jvh4ko)
 * [Ιταλία - Εκτοξεύθηκαν οι τιμές των ζυμαρικών](https://www.kathimerini.gr/economy/international/562415203/italia-ektoxeythikan-oi-times-ton-zymarikon-synedriazei-i-epitropi-kriseon/)
 * [Φινλανδία - Κατάρρευση πεζογέφυρας τουλάχιστον 27 τραυματίες](https://www.grtimes.gr/diethni/katarreysi-pezogefyras-sti-finlandia-toylachiston-27-traymaties-oi)
 * [ΓΕΚ ΤΕΡΝΑ - Μεταβιβάστηκε του 51% της IRC Α,Ε, στην Hard Rock International](https://www.businessnews.gr/epixeiriseis/item/263680-gek-terna-metavivastike-tou-51-tis-irc-a-e-stin-hard-rock-international)
 * [Πώς βλέπω πόσα είναι τα ένσημά μου με κωδικούς taxinet](https://www.ieidiseis.gr/oikonomia/197506/pos-vlepo-posa-einai-ta-ensima-mou-me-kodikoys-taxinet)
-* [🎬 Αλέξη Τσίπρας - στη Λάρισα](https://www.documentonews.gr/article/h-omilia-toy-alexi-tsipra-sti-larisa-live/)
+* [🎬 Αλέξης Τσίπρας - στη Λάρισα](https://www.documentonews.gr/article/h-omilia-toy-alexi-tsipra-sti-larisa-live/)
 * [🎬 Κυριάκος Μητσοτάκης - στον Βόλο](https://www.ieidiseis.gr/politiki/197513/live-streaming-o-kyriakos-mitsotakis-ston-volo)
 * [ΙΟΒΕ έρευνα - Διαψεύδει το δήθεν success story Μητσοτάκη για το εισόδημα των Ελλήνων](https://www.documentonews.gr/article/diapseydei-to-dithen-success-story-mitsotaki-ereyna-toy-iove/)
 * [CNN - Η Βρετανία έστειλε στο Κίεβο πυραύλους κρουζ μεγάλου βεληνεκούς - Απειλεί το Κρεμλίνο](https://www.kathimerini.gr/world/562414603/cnn-i-vretania-esteile-sto-kievo-pyrayloys-kroyz-megaloy-velinekoys-apeilei-to-kremlino/)
