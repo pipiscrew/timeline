@@ -1,6 +1,8 @@
 <input id="txtSearch" onkeypress="SearchList(event);" class="ceME" placeholder="press enter to search">
 
 ## 12/05/2023
+* [Περικυκλωμένο από ΜΑΤ το Πολυτεχνείο - Δεν επιτρέπουν την είσοδο σε φοιτητές - Σε lock out προχώρησε η Πρυτανεία](https://www.documentonews.gr/article/perikyklomeno-apo-mat-to-polytexneio-den-epitrepoyn-tin-eisodo-se-foitites-se-lock-out-proxorise-i-prytaneia/)
+* [Θανατηφόρα νόσος των βοοειδών εντοπίστηκε στη νότια Ευρώπη - Πώς συνδέεται με την κλιματική αλλαγή](https://www.ieidiseis.gr/ygeia/197663/thanatifora-nosos-ton-vooeidon-entopistike-sti-notia-evropi-pos-syndeetai-me-tin-klimatiki-allagi)
 * [Nikos Antoniadis - Στην Υποδιευθυνση Ασφαλειας Αττικης η Δικογραφια Των Οργιων Του Εφετειου](https://nikosantoniadis.tv/2023/05/12/%cf%87%ce%bf%ce%bd%cf%84%cf%81%ce%b1%ce%b9%ce%bd%ce%b5%ce%b9-%cf%84%ce%bf-%cf%80%ce%b1%ce%b9%cf%87%ce%bd%ce%b9%ce%b4%ce%b9-%cf%83%cf%84%ce%b7%ce%bd-%cf%85%cf%80%ce%bf%ce%b4%ce%b9%ce%b5%cf%85%ce%b8/)
 * [Γραφείο στην Αθήνα ανοίγει ο ευρωπαϊκός όμιλος τεχνολογιών πληροφορικής Cegeka](https://www.insider.gr/epiheiriseis/274976/cegeka-grafeio-stin-athina-anoigei-o-eyropaikos-omilos-tehnologion-pliroforikis)
 * [Κρατικές ενισχύσεις - Η ΕΕ ενέκρινε 31 εκατ, ευρώ για στήριξη των Ελλήνων παραγωγών αγροτικών προϊόντων](https://www.businessnews.gr/oikonomia/item/263742-kratikes-enisxyseis-i-ee-enekrine-31-ekat-evro-gia-stiriksi-ton-ellinon-paragogon-agrotikon-proionton)
@@ -10,9 +12,9 @@
 * [Κρήτη - Σήμα κινδύνου από τους γιατρούς στο «Βενιζέλειο» - «Καμπανάκι» για τις κλίνες ΜΕΘ](https://www.documentonews.gr/article/kriti-sima-kindynoy-apo-toys-giatroys-sto-venizeleio-kampanaki-gia-tis-klines-meth/)
 * [🎬 Αλέξης Τσίπρας - στην Αλεξανδρούπολη](https://www.facebook.com/tsiprasalexis/videos/628384628819874/)
 * [ΕΕ - Υποθαλάσσιο καλώδιο ίντερνετ στη Μαύρη Θάλασσα - «Για την απεξάρτηση από τη Ρωσία»](https://www.kathimerini.gr/world/562416034/e-e-ypothalassio-kalodio-internet-sti-mayri-thalassa-gia-tin-apexartisi-apo-ti-rosia/)
-* [Μπριζόλα tomahawk με βούτυρο](https://www.gastronomos.gr/syntagh/mprizola-tomahawk-me-voytyro-miso-me-psita-ntomatinia-kai-salsa-verde-me-estragkon/202054/)
 * [DJ - Ελληνικό - Το μεγάλο φιάσκο από ψηλά](https://www.datajournalists.co.uk/2023/05/12/elliniko-to-megalo-fiasko-apo-psila/)
 * [Έλον Μασκ - Αποσύρεται από CEO του Twitter - Προσέλαβε νέο που θα αναλάβει σε έξι εβδομάδες](https://www.ieidiseis.gr/kosmos/197564/elon-mask-aposyretai-apo-ceo-tou-twitter-proselave-neo-pou-tha-analavei-se-eksi-evdomades)
+* [Μπριζόλα tomahawk με βούτυρο](https://www.gastronomos.gr/syntagh/mprizola-tomahawk-me-voytyro-miso-me-psita-ntomatinia-kai-salsa-verde-me-estragkon/202054/)
 
 ## 11/05/2023
 * [🎬 AlertTV - Εκλογές με sex, ψέματα και εκβιασμούς - με guest Χίο](https://youtu.be/ann_-jvh4ko)
