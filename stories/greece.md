@@ -1,6 +1,9 @@
 <input id="txtSearch" onkeypress="SearchList(event);" class="ceME" placeholder="press enter to search">
 
 ## 12/05/2023
+* [Μητσοτάκης - Ρόδος](https://www.kathimerini.gr/politics/562416823/mitsotakis-sta-apokalyptiria-tis-protomis-toy-dim-kremastinoy-sti-rodo/)
+> Μητσοτάκης μετέβη στο **νοσοκομείο της Ρόδου** για να παραστεί στα αποκαλυπτήρια προτομής του αείμνηστου υπουργού Υγείας
+
 * [Περικυκλωμένο από ΜΑΤ το Πολυτεχνείο - Δεν επιτρέπουν την είσοδο σε φοιτητές - Σε lock out προχώρησε η Πρυτανεία](https://www.documentonews.gr/article/perikyklomeno-apo-mat-to-polytexneio-den-epitrepoyn-tin-eisodo-se-foitites-se-lock-out-proxorise-i-prytaneia/)
 * [Θανατηφόρα νόσος των βοοειδών εντοπίστηκε στη νότια Ευρώπη - Πώς συνδέεται με την κλιματική αλλαγή](https://www.ieidiseis.gr/ygeia/197663/thanatifora-nosos-ton-vooeidon-entopistike-sti-notia-evropi-pos-syndeetai-me-tin-klimatiki-allagi)
 * [Nikos Antoniadis - Στην Υποδιευθυνση Ασφαλειας Αττικης η Δικογραφια Των Οργιων Του Εφετειου](https://nikosantoniadis.tv/2023/05/12/%cf%87%ce%bf%ce%bd%cf%84%cf%81%ce%b1%ce%b9%ce%bd%ce%b5%ce%b9-%cf%84%ce%bf-%cf%80%ce%b1%ce%b9%cf%87%ce%bd%ce%b9%ce%b4%ce%b9-%cf%83%cf%84%ce%b7%ce%bd-%cf%85%cf%80%ce%bf%ce%b4%ce%b9%ce%b5%cf%85%ce%b8/)
