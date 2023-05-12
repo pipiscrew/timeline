@@ -1,6 +1,7 @@
 <input id="txtSearch" onkeypress="SearchList(event);" class="ceME" placeholder="press enter to search">
 
 ## 12/05/2023
+* [Πορτογαλία - Νόμιμη υπό όρους η υποβοηθούμενη αυτοκτονία](https://www.documentonews.gr/article/portogalia-nomimi-ypo-oroys-i-ypovoithoymeni-aytoktonia/)
 * [20 Χρόνια από το Έγκλημα της Ριζούπολης](https://youtu.be/le12wQ1WrWA?t=411)
 * [Σερβία - Μαζική αντικυβερνητική διαδήλωση στη Σερβία μετά τις αιματηρές επιθέσεις](https://www.documentonews.gr/article/servia-maziki-antikyvernitiki-diadilosi-sti-servia-meta-tis-aimatires-epitheseis/)
 * [Συμπτώσεις - Τα «γαλάζια παιδιά» της ΝΔ, το Ευρωπαϊκό Λαϊκό Κόμμα και τα κονδύλια για επικοινωνία](https://www.ieidiseis.gr/politiki/197687/symptoseis-ta-galazia-paidia-tis-nd-evropaiko-laiko-komma-kai-ta-kondylia-gia-epikoinonia)
