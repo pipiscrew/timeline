@@ -1,7 +1,7 @@
 <input id="txtSearch" onkeypress="SearchList(event);" class="ceME" placeholder="press enter to search">
 
 ## 11/05/2023
-* [🎬 AlertTV - Εκλογές - με guest Χίο](https://youtu.be/ann_-jvh4ko)
+* [🎬 AlertTV - Εκλογές με sex, ψέματα και εκβιασμούς - με guest Χίο](https://youtu.be/ann_-jvh4ko)
 * [Ιταλία - Εκτοξεύθηκαν οι τιμές των ζυμαρικών](https://www.kathimerini.gr/economy/international/562415203/italia-ektoxeythikan-oi-times-ton-zymarikon-synedriazei-i-epitropi-kriseon/)
 * [Φινλανδία - Κατάρρευση πεζογέφυρας τουλάχιστον 27 τραυματίες](https://www.grtimes.gr/diethni/katarreysi-pezogefyras-sti-finlandia-toylachiston-27-traymaties-oi)
 * [ΓΕΚ ΤΕΡΝΑ - Μεταβιβάστηκε του 51% της IRC Α,Ε, στην Hard Rock International](https://www.businessnews.gr/epixeiriseis/item/263680-gek-terna-metavivastike-tou-51-tis-irc-a-e-stin-hard-rock-international)
