@@ -1,6 +1,9 @@
 <input id="txtSearch" onkeypress="SearchList(event);" class="ceME" placeholder="press enter to search">
 
 ## 12/05/2023
+* [20 Χρόνια από το Έγκλημα της Ριζούπολης](https://youtu.be/le12wQ1WrWA?t=411)
+* [Σερβία - Μαζική αντικυβερνητική διαδήλωση στη Σερβία μετά τις αιματηρές επιθέσεις](https://www.documentonews.gr/article/servia-maziki-antikyvernitiki-diadilosi-sti-servia-meta-tis-aimatires-epitheseis/)
+* [Συμπτώσεις - Τα «γαλάζια παιδιά» της ΝΔ, το Ευρωπαϊκό Λαϊκό Κόμμα και τα κονδύλια για επικοινωνία](https://www.ieidiseis.gr/politiki/197687/symptoseis-ta-galazia-paidia-tis-nd-evropaiko-laiko-komma-kai-ta-kondylia-gia-epikoinonia)
 * [Σε αντιεισαγγελέα του Αρείου Πάγου προήχθη ο Βασίλης Φλωρίδης](https://www.grtimes.gr/ellada/se-antieisaggelea-toy-areioy-pagoy-proichthi-o-vasilis)
 * [🎬 Κυριάκος Μητσοτάκης - σττη Ρόδο](https://youtu.be/PwHO4CXVWXU)
 * [🎬 Αλέξης Τσίπρας - στην Καβάλα](https://www.facebook.com/tsiprasalexis/videos/1817562362047141/)
@@ -24,6 +27,7 @@
 * [ΕΕ - Υποθαλάσσιο καλώδιο ίντερνετ στη Μαύρη Θάλασσα - «Για την απεξάρτηση από τη Ρωσία»](https://www.kathimerini.gr/world/562416034/e-e-ypothalassio-kalodio-internet-sti-mayri-thalassa-gia-tin-apexartisi-apo-ti-rosia/)
 * [DJ - Ελληνικό - Το μεγάλο φιάσκο από ψηλά](https://www.datajournalists.co.uk/2023/05/12/elliniko-to-megalo-fiasko-apo-psila/)
 * [Έλον Μασκ - Αποσύρεται από CEO του Twitter - Προσέλαβε νέο που θα αναλάβει σε έξι εβδομάδες](https://www.ieidiseis.gr/kosmos/197564/elon-mask-aposyretai-apo-ceo-tou-twitter-proselave-neo-pou-tha-analavei-se-eksi-evdomades)
+  * [Linda Yaccarino - Αυτή είναι η εκλεκτή CEO του Ελον Μασκ για το Twitter](https://www.ieidiseis.gr/epixeiriseis/197679/linda-yaccarino-afti-einai-i-nea-ceo-tou-twitter)
 * [Μπριζόλα tomahawk με βούτυρο](https://www.gastronomos.gr/syntagh/mprizola-tomahawk-me-voytyro-miso-me-psita-ntomatinia-kai-salsa-verde-me-estragkon/202054/)
 
 ## 11/05/2023
