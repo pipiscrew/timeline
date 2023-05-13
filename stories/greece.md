@@ -1,7 +1,10 @@
 <input id="txtSearch" onkeypress="SearchList(event);" class="ceME" placeholder="press enter to search">
 
 ## 13/05/2023
-* [Nikos Antoniadis - live](https://www.youtube.com/watch?v=kVmoT-49kPU)
+* [🎬 Zaraleaks - Συνέντευξη με τον Γιάνη Βαρουφάκη](https://www.youtube.com/watch?v=_TPyXlU-GdM)
+* [🎬 Nikos Antoniadis - live](https://www.youtube.com/watch?v=kVmoT-49kPU)
+  * [Ο Δικηγορος Warner Mendehall Απο Τις Η.Π.Α. Μιλαει Για Φονους Στα Νοσοκομεια](https://www.bitchute.com/video/2Q0yznib7Hzv/) &nbsp; [[mirror](https://nikosantoniadis.tv/2023/05/13/%ce%b4%ce%b5%ce%af%cf%84%ce%b5-%ce%b1%cf%85%cf%84%cf%8c-%ce%ba%ce%b1%ce%b9-%ce%b8%ce%b1-%cf%84%ce%b1-%cf%80%ce%bf%cf%8d%ce%bc%ce%b5-%ce%b1%cf%81%ce%b3%cf%8c%cf%84%ce%b5%cf%81%ce%b1-%ce%bf-%ce%b4/)]
+  * [Η κυβέρνηση του Ηνωμένου Βασιλείου κήρυξε «πληθυσμιακή έκτακτη ανάγκη»](https://attikanea.info/%CE%B7-%CE%BA%CF%85%CE%B2%CE%AD%CF%81%CE%BD%CE%B7%CF%83%CE%B7-%CF%84%CE%BF%CF%85-%CE%B7%CE%BD%CF%89%CE%BC%CE%AD%CE%BD%CE%BF%CF%85-%CE%B2%CE%B1%CF%83%CE%B9%CE%BB%CE%B5%CE%AF%CE%BF%CF%85-%CE%BA%CE%AE/)
 * [Τέμπη - Συγκέντρωση διαμαρτυρίας στις Σέρρες για την υποψηφιότητα Καραμανλή](https://www.ieidiseis.gr/ellada/197774/tempi-sygkentrosi-diamartyrias-stis-serres-gia-tin-ypopsifiotita-karamanli)
 * [Ανιψιος Δημητριαδη - Θα Βγαλω Τα Ροζ Βιντεο Με Την Μαρεβα](https://www.makeleio.gr/%ce%b5%ce%be%cf%89%cf%86%cf%85%ce%bb%ce%bb%ce%bf/%ce%98%ce%91-%ce%92%ce%93%ce%91%ce%9b%ce%a9-%ce%a4%ce%91-%ce%a1%ce%9f%ce%96-%ce%92%ce%99%ce%9d%ce%a4%ce%95%ce%9f-%ce%9c%ce%95-%ce%a4%ce%97%ce%9d-%ce%9c%ce%91%ce%a1%ce%95%ce%92%ce%91-%ce%a3%ce%a4/)
 * [Οι επτά Εισαγγελείς Εφετών που προάγονται στον βαθμό του Αντιεισαγγελέα Αρείου Πάγου](https://www.makeleio.gr/%ce%b5%cf%80%ce%b9%ce%ba%ce%b1%ce%b9%cf%81%ce%bf%cf%84%ce%b7%cf%84%ce%b1/%ce%9f%ce%b9-%ce%b5%cf%80%cf%84%ce%ac-%ce%95%ce%b9%cf%83%ce%b1%ce%b3%ce%b3%ce%b5%ce%bb%ce%b5%ce%af%cf%82-%ce%95%cf%86%ce%b5%cf%84%cf%8e%ce%bd-%cf%80%ce%bf%cf%85-%cf%80%cf%81%ce%bf%ce%ac%ce%b3%ce%bf/)
@@ -76,7 +79,7 @@
 * [Φρένο από ΕΕ σε κινεζικές εξαγορές](https://www.kathimerini.gr/economy/562411783/freno-apo-e-e-se-kinezikes-exagores/)
 * [Συναγερμός στην Κινέτα - Συρμός του προαστιακού ακινητοποιήθηκε βγάζοντας καπνούς](https://www.ieidiseis.gr/ellada/197361/synagermos-stin-kineta-syrmos-tou-proastiakoy-akinitopoiithike-vgazontas-kapnoys)
 * [Ξεσκεπάζοντας Τη Μεγάλη Επανεκκίνηση](https://apollodoros.substack.com/p/schwab-gates-wef)
-* [Zaraleaks - Καλπη Pass](https://www.youtube.com/watch?v=OAzS1NzJ4lM)
+* [🎬 Zaraleaks - Καλπη Pass](https://www.youtube.com/watch?v=OAzS1NzJ4lM)
 * [(ΕΑΝ) Πάρις Κουρτζίδης - Κάνω Εκκληση](https://youtu.be/R7EkSsKXW7I)
 * [Microsoft - Activision - Στις επόμενες μέρες η έγκριση της ΕΕ στο deal των 69 δισ. δολαρίων](https://www.businessnews.gr/epixeiriseis/item/263602-microsoft-activision-stis-epomenes-meres-i-egkrisi-tis-ee-sto-deal-ton-69-dis-dolarion)
 * [ΦΕΚ - Αποτελέσματα εκλογών](https://www.ieidiseis.gr/politiki/197299/ekloges-2023-pio-noris-apo-pote-tha-mathoume-ta-apotelesmata-i-diadikasia)
@@ -316,7 +319,7 @@
 * [Ελλάδα - Ταχύτητα απονομής Δικαιοσύνης - Μία ακόμη θλιβερή πρωτιά](https://www.makeleio.gr/%ce%b5%cf%80%ce%b9%ce%ba%ce%b1%ce%b9%cf%81%ce%bf%cf%84%ce%b7%cf%84%ce%b1/%ce%9c%ce%af%ce%b1-%ce%b1%ce%ba%cf%8c%ce%bc%ce%b7-%ce%b8%ce%bb%ce%b9%ce%b2%ce%b5%cf%81%ce%ae-%cf%80%cf%81%cf%89%cf%84%ce%b9%ce%ac-%ce%a4%ce%b1%cf%87%cf%8d%cf%84%ce%b7%cf%84%ce%b1-%ce%b1%cf%80%ce%bf/)
 * [Επίθεση με γιαούρτια στον Θάνο Πλεύρη](https://www.kathimerini.gr/politics/562396228/epithesi-me-giaoyrtia-ston-thano-pleyri/)
   * [Στο νοσοκομείο ο Πλεύρης με οίδημα στο μάτι](https://www.makeleio.gr/%ce%b5%cf%80%ce%b9%ce%ba%ce%b1%ce%b9%cf%81%ce%bf%cf%84%ce%b7%cf%84%ce%b1/%ce%a3%cf%84%ce%bf-%ce%bd%ce%bf%cf%83%ce%bf%ce%ba%ce%bf%ce%bc%ce%b5%ce%af%ce%bf-%ce%bf-%ce%a0%ce%bb%ce%b5%cf%8d%cf%81%ce%b7%cf%82-%ce%bc%ce%b5-%ce%bf%ce%af%ce%b4%ce%b7%ce%bc%ce%b1-%cf%83%cf%84%ce%bf/)
-* [Zaraleaks - Συνέντευξη με τον Γιάνη Βαρουφάκη](https://www.youtube.com/watch?v=_TPyXlU-GdM)
+* [🎬 Zaraleaks - Συνέντευξη με τον Γιάνη Βαρουφάκη](https://www.youtube.com/watch?v=_TPyXlU-GdM)
 * [US - Προχωρά το σχέδιο διάσωσης της First Republic](https://www.businessnews.gr/kosmos/item/262946-proxora-to-sxedio-diasosis-tis-first-republic)
 * [Η λέξη Pele προστέθηκε στο πορτογαλικό λεξικό ως συνώνυμο της αριστείας](https://www.grtimes.gr/athlitismos/i-lexi-pele-prostethike-sto-portogaliko-lexiko-os)
 * [Ξενοδοχεία Ελληνοκυπρίων αγοράζονται στην Αμμόχωστο](https://www.kathimerini.gr/world/562395970/xenodocheia-ellinokyprion-agorazontai-stin-ammochosto/)
