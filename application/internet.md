@@ -330,7 +330,8 @@ To find the profile currently is use navigate to `Help > Troubleshooting Informa
 
 ## share
 * [Rejetto.HFS](http://www.rejetto.com/hfs/) - Use it to send and receive files
-* [voidtools.Everything](https://www.voidtools.com/) - how to [enable HTTP server](https://www.voidtools.com/support/everything/http/)  
+* [voidtools.Everything](https://www.voidtools.com/) - how to [enable HTTP server](https://www.voidtools.com/support/everything/http/)
+  * [EverythingToolbar](https://github.com/srwi/EverythingToolbar)
 
 ## misc
 * [atkinsio.Bookmarks HTML Generator](https://github.com/atkinsio/bookmarks-html-generator)
