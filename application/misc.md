@@ -222,6 +222,15 @@ The sequence is :
 * [NCH.Voxal Voice Changer](https://www.nchsoftware.com/voicechanger/index.html) 
 * [Voicemod](https://www.voicemod.net/)
 * [ScreamingBee.MorphVox](https://screamingbee.com/)
+* [BinaryFortress.VoiceBot](https://www.voicebot.net/)
+
+## Text to speech 
+* [Windows10 build-in feature ( needs internet )](https://support.microsoft.com/en-us/windows/use-voice-typing-to-talk-instead-of-type-on-your-pc-fec94565-c4bd-329d-e59a-af033fa5689f)
+* [Nuance.Dragon](https://www.nuance.com/dragon.html)
+* [LilySpeech](https://lilyspeech.com/)
+* [BRSystems.Text-to-Speech](https://www.text-to-speech.us/)
+* [DeskShare.Dictation](https://www.deskshare.com/dictation.aspx)
+* [VovSoft.Speech to Text Converter](https://vovsoft.com/software/speech-to-text-converter/)
 
 ## Video
 * [SMPlayer](https://www.smplayer.info/)
@@ -303,6 +312,7 @@ goto a
 * merge text files
 ```
 copy /b file1.txt + file2.txt all.txt
+copy /b *.txt all.txt
 ```  
 
 * imagine is an automation where takes files from a dir, this batch 'watches' the dir and move the new part when needed
