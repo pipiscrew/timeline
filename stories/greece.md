@@ -8,7 +8,7 @@
 * [🎬 Αλέξης Τσίπρας - στo Βόλο](https://www.facebook.com/tsiprasalexis/videos/627669508920991/)
 * [🎬 Αλέξης Τσίπρας - στα Τρίκαλα](https://youtu.be/yp6RQK4-3Wo)
   * [Θερμή υποδοχή](https://twitter.com/atsipras/status/1657351456402427904)
-  * [Καταδίκη του δημοσιογράφου Γιώργου Παπαχρήστου για συκοφαντίες κατά του Αλέξη Τσίπρα](https://www.ieidiseis.gr/ellada/197771/katadiki-tou-dimosiografou-giorgou-papaxristou-gia-sykofanties-kata-tou-aleksi-tsipra)
+* [Καταδίκη του δημοσιογράφου Γιώργου Παπαχρήστου για συκοφαντίες κατά του Αλέξη Τσίπρα](https://www.ieidiseis.gr/ellada/197771/katadiki-tou-dimosiografou-giorgou-papaxristou-gia-sykofanties-kata-tou-aleksi-tsipra)
 * [G7 - Νέο σχέδιο για τα logistics, «ακλόνητη» στήριξη στην Ουκρανία](https://www.businessnews.gr/kosmos/item/263773-g7-neo-sxedio-gia-ta-logistics-akloniti-stiriksi-stin-oukrania)
   > Στόχος να μειωθεί η εξάρτηση από την Κίνα. Στα **40 δισ.** ευρώ η βοήθεια προς το **Κίεβο** για φέτος
   * [Γερμανία - Νέο πακέτο στρατιωτικής βοήθειας για την Ουκρανία ύψους 2,7 δισ, ευρώ](https://www.kathimerini.gr/world/562419049/germania-neo-paketo-stratiotikis-voitheias-gia-tin-oykrania-ypsoys-2-7-dis-eyro/)
