@@ -1,10 +1,12 @@
 <input id="txtSearch" onkeypress="SearchList(event);" class="ceME" placeholder="press enter to search">
 
 ## 13/05/2023
+* [Τέμπη - Συγκέντρωση διαμαρτυρίας στις Σέρρες για την υποψηφιότητα Καραμανλή](https://www.ieidiseis.gr/ellada/197774/tempi-sygkentrosi-diamartyrias-stis-serres-gia-tin-ypopsifiotita-karamanli)
 * [Ανιψιος Δημητριαδη - Θα Βγαλω Τα Ροζ Βιντεο Με Την Μαρεβα](https://www.makeleio.gr/%ce%b5%ce%be%cf%89%cf%86%cf%85%ce%bb%ce%bb%ce%bf/%ce%98%ce%91-%ce%92%ce%93%ce%91%ce%9b%ce%a9-%ce%a4%ce%91-%ce%a1%ce%9f%ce%96-%ce%92%ce%99%ce%9d%ce%a4%ce%95%ce%9f-%ce%9c%ce%95-%ce%a4%ce%97%ce%9d-%ce%9c%ce%91%ce%a1%ce%95%ce%92%ce%91-%ce%a3%ce%a4/)
 * [Οι επτά Εισαγγελείς Εφετών που προάγονται στον βαθμό του Αντιεισαγγελέα Αρείου Πάγου](https://www.makeleio.gr/%ce%b5%cf%80%ce%b9%ce%ba%ce%b1%ce%b9%cf%81%ce%bf%cf%84%ce%b7%cf%84%ce%b1/%ce%9f%ce%b9-%ce%b5%cf%80%cf%84%ce%ac-%ce%95%ce%b9%cf%83%ce%b1%ce%b3%ce%b3%ce%b5%ce%bb%ce%b5%ce%af%cf%82-%ce%95%cf%86%ce%b5%cf%84%cf%8e%ce%bd-%cf%80%ce%bf%cf%85-%cf%80%cf%81%ce%bf%ce%ac%ce%b3%ce%bf/)
 * [🎬 Αλέξης Τσίπρας - στα Τρίκαλα](https://youtu.be/yp6RQK4-3Wo)
   * [Θερμή υποδοχή](https://twitter.com/atsipras/status/1657351456402427904)
+  * [Καταδίκη του δημοσιογράφου Γιώργου Παπαχρήστου για συκοφαντίες κατά του Αλέξη Τσίπρα](https://www.ieidiseis.gr/ellada/197771/katadiki-tou-dimosiografou-giorgou-papaxristou-gia-sykofanties-kata-tou-aleksi-tsipra)
 * [G7 - Νέο σχέδιο για τα logistics, «ακλόνητη» στήριξη στην Ουκρανία](https://www.businessnews.gr/kosmos/item/263773-g7-neo-sxedio-gia-ta-logistics-akloniti-stiriksi-stin-oukrania)
   > Στόχος να μειωθεί η εξάρτηση από την Κίνα. Στα **40 δισ.** ευρώ η βοήθεια προς το **Κίεβο** για φέτος
   * [Γερμανία - Νέο πακέτο στρατιωτικής βοήθειας για την Ουκρανία ύψους 2,7 δισ, ευρώ](https://www.kathimerini.gr/world/562419049/germania-neo-paketo-stratiotikis-voitheias-gia-tin-oykrania-ypsoys-2-7-dis-eyro/)
@@ -64,6 +66,7 @@
 
 ## 10/05/2023
 * [Debate #myass](https://www.youtube.com/watch?v=R3olwxqyW-w)
+  * [για τα τηλεφωνήματα του Βαρουφάκη σε σενάριο επίθεσης](https://www.newsbeast.gr/weird/arthro/9655664/ntibeit-epiko-trolarisma-sto-twitter-gia-ta-tilefonimata-tou-varoufaki-se-senario-epithesis-ton-tourkon-ki-ti-a-kans-a-kaits-na-malois)
   * [Αρπάχτηκαν εκτός κάμερας Τσίπρας – Κουτσούμπας](https://www.makeleio.gr/%CE%B5%CF%80%CE%B9%CE%BA%CE%B1%CE%B9%CF%81%CE%BF%CF%84%CE%B7%CF%84%CE%B1/%CE%91%CE%A0%CE%9F%CE%9A%CE%91%CE%9B%CE%A5%CE%A8%CE%97-%CE%91%CF%81%CF%80%CE%AC%CF%87%CF%84%CE%B7%CE%BA%CE%B1%CE%BD-%CE%B5%CE%BA%CF%84%CF%8C%CF%82-%CE%BA%CE%AC%CE%BC%CE%B5%CF%81%CE%B1%CF%82-%CE%A4/)
   * [Μητσοτάκης - Απάντησε στον Κουβαρά, ενώ τον ρώτησε ο Σρόιτερ](https://www.makeleio.gr/%CE%B5%CF%80%CE%B9%CE%BA%CE%B1%CE%B9%CF%81%CE%BF%CF%84%CE%B7%CF%84%CE%B1/%CE%95%CE%BA%CF%84%CF%8C%CF%82-%CE%B5%CE%B1%CF%85%CF%84%CE%BF%CF%8D-%CE%BF-%CE%9C%CE%B7%CF%84%CF%83%CE%BF%CF%84%CE%AC%CE%BA%CE%B7%CF%82-%CE%91%CF%80%CE%AC%CE%BD%CF%84%CE%B7%CF%83%CE%B5-%CF%83%CF%84-2/)
   * [11/05] [🎬 Makeleio judgement (forward to 12:40)](https://rumble.com/v2n935w--11-5-2023-makeleio.gr.html)
