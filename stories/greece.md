@@ -4,6 +4,7 @@
 * [Ανιψιος Δημητριαδη - Θα Βγαλω Τα Ροζ Βιντεο Με Την Μαρεβα](https://www.makeleio.gr/%ce%b5%ce%be%cf%89%cf%86%cf%85%ce%bb%ce%bb%ce%bf/%ce%98%ce%91-%ce%92%ce%93%ce%91%ce%9b%ce%a9-%ce%a4%ce%91-%ce%a1%ce%9f%ce%96-%ce%92%ce%99%ce%9d%ce%a4%ce%95%ce%9f-%ce%9c%ce%95-%ce%a4%ce%97%ce%9d-%ce%9c%ce%91%ce%a1%ce%95%ce%92%ce%91-%ce%a3%ce%a4/)
 * [Οι επτά Εισαγγελείς Εφετών που προάγονται στον βαθμό του Αντιεισαγγελέα Αρείου Πάγου](https://www.makeleio.gr/%ce%b5%cf%80%ce%b9%ce%ba%ce%b1%ce%b9%cf%81%ce%bf%cf%84%ce%b7%cf%84%ce%b1/%ce%9f%ce%b9-%ce%b5%cf%80%cf%84%ce%ac-%ce%95%ce%b9%cf%83%ce%b1%ce%b3%ce%b3%ce%b5%ce%bb%ce%b5%ce%af%cf%82-%ce%95%cf%86%ce%b5%cf%84%cf%8e%ce%bd-%cf%80%ce%bf%cf%85-%cf%80%cf%81%ce%bf%ce%ac%ce%b3%ce%bf/)
 * [🎬 Αλέξης Τσίπρας - στα Τρίκαλα](https://youtu.be/yp6RQK4-3Wo)
+  * [Θερμή υποδοχή](https://twitter.com/atsipras/status/1657351456402427904)
 * [G7 - Νέο σχέδιο για τα logistics, «ακλόνητη» στήριξη στην Ουκρανία](https://www.businessnews.gr/kosmos/item/263773-g7-neo-sxedio-gia-ta-logistics-akloniti-stiriksi-stin-oukrania)
   > Στόχος να μειωθεί η εξάρτηση από την Κίνα. Στα **40 δισ.** ευρώ η βοήθεια προς το **Κίεβο** για φέτος
   * [Γερμανία - Νέο πακέτο στρατιωτικής βοήθειας για την Ουκρανία ύψους 2,7 δισ, ευρώ](https://www.kathimerini.gr/world/562419049/germania-neo-paketo-stratiotikis-voitheias-gia-tin-oykrania-ypsoys-2-7-dis-eyro/)
