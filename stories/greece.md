@@ -1,6 +1,11 @@
 <input id="txtSearch" onkeypress="SearchList(event);" class="ceME" placeholder="press enter to search">
 
 ## 14/05/2023
+* [🎬 Σέρρες - Μαζική συγκέντρωση αποδοκιμασίας στην υποψηφιότητα Καραμανλή](https://www.makeleio.gr/%ce%b5%cf%80%ce%b9%ce%ba%ce%b1%ce%b9%cf%81%ce%bf%cf%84%ce%b7%cf%84%ce%b1/%ce%a3%ce%ad%cf%81%cf%81%ce%b5%cf%82-%ce%9c%ce%b1%ce%b6%ce%b9%ce%ba%ce%ae-%cf%83%cf%85%ce%b3%ce%ba%ce%ad%ce%bd%cf%84%cf%81%cf%89%cf%83%ce%b7-%ce%b1%cf%80%ce%bf%ce%b4%ce%bf%ce%ba%ce%b9%ce%bc%ce%b1/)
+* [G7 και ΕΕ κόβουν εισαγωγές αερίου από ρωσικούς αγωγούς](https://www.businessnews.gr/kosmos/item/263793-g7-kai-ee-kovoun-eisagoges-aeriou-apo-rosikoys-agogoys)
+* [Στο Βερολίνο ο Ζελένσκι - «Μαζί θα φέρουμε την ειρήνη πίσω στην Ευρώπη»](https://www.kathimerini.gr/world/562419838/sto-verolino-o-zelenski-mazi-tha-feroyme-tin-eirini-piso-stin-eyropi/)
+* [🎬 Κυριάκος Μητσοτάκης - διακαναλική συνέντευξη του Κυριάκου Μητσοτάκη](https://youtu.be/1n-MViksGdw)
+* [Το Politico για τις σχέσεις της Greek Mafia με την ΕΛ,ΑΣ, και τα περιστατικά αστυνομικής βίας](https://www.ieidiseis.gr/ellada/197834/to-politico-gia-tis-sxeseis-tis-greek-mafia-me-tin-el-as-kai-ta-peristatika-astynomikis-vias)
 * [Τυρόπιτα σε φύλλο αέρος, με φέτα, μυζήθρα και γάλα](https://www.gastronomos.gr/syntagh/tyropita-se-fyllo-aeros-me-feta-myzithra-kai-gala/101795/)
 
 ## 13/05/2023
