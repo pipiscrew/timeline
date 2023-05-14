@@ -1,6 +1,8 @@
 <input id="txtSearch" onkeypress="SearchList(event);" class="ceME" placeholder="press enter to search">
 
 ## 14/05/2023
+* [Τουρκικές εκλογές - Τα ποσοστά Ερντογάν και Κιλιτσντάρογλου](https://www.kathimerini.gr/world/562420015/live-toyrkikes-ekloges-i-ora-tis-krisis-gia-ton-erntogan/)
+* [Mίσιγκαν - Ένα αγόρι έσωσε την αδελφή του από απαγωγέα χρησιμοποιώντας σφεντόνα](https://www.kathimerini.gr/world/562420039/misigkan-ena-agori-esose-tin-adelfi-toy-apo-apagogea-chrisimopoiontas-sfentona/)
 * [🎬 Σέρρες - Μαζική συγκέντρωση αποδοκιμασίας στην υποψηφιότητα Καραμανλή](https://www.makeleio.gr/%ce%b5%cf%80%ce%b9%ce%ba%ce%b1%ce%b9%cf%81%ce%bf%cf%84%ce%b7%cf%84%ce%b1/%ce%a3%ce%ad%cf%81%cf%81%ce%b5%cf%82-%ce%9c%ce%b1%ce%b6%ce%b9%ce%ba%ce%ae-%cf%83%cf%85%ce%b3%ce%ba%ce%ad%ce%bd%cf%84%cf%81%cf%89%cf%83%ce%b7-%ce%b1%cf%80%ce%bf%ce%b4%ce%bf%ce%ba%ce%b9%ce%bc%ce%b1/)
 * [G7 και ΕΕ κόβουν εισαγωγές αερίου από ρωσικούς αγωγούς](https://www.businessnews.gr/kosmos/item/263793-g7-kai-ee-kovoun-eisagoges-aeriou-apo-rosikoys-agogoys)
 * [Στο Βερολίνο ο Ζελένσκι - «Μαζί θα φέρουμε την ειρήνη πίσω στην Ευρώπη»](https://www.kathimerini.gr/world/562419838/sto-verolino-o-zelenski-mazi-tha-feroyme-tin-eirini-piso-stin-eyropi/)
