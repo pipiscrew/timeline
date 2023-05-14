@@ -5,11 +5,11 @@
 
 ## 13/05/2023
 * [Προαστιακός - Συρμός έπαθε βραχυκύκλωμα εν κινήσει](https://www.makeleio.gr/%ce%b5%cf%80%ce%b9%ce%ba%ce%b1%ce%b9%cf%81%ce%bf%cf%84%ce%b7%cf%84%ce%b1/%ce%9a%ce%91%ce%a4%ce%91%ce%93%ce%93%ce%95%ce%9b%ce%99%ce%91-%ce%a3%ce%9f%ce%9a-%ce%93%ce%99%ce%91-%ce%a4%ce%9f%ce%9d-%ce%a0%ce%a1%ce%9f%ce%91%ce%a3%ce%a4%ce%99%ce%91%ce%9a%ce%9f-%ce%a3%cf%85%cf%81/)
-* [Έκθεση Περιγράφει Πώς Μια Χούφτα Εταιρείες Παίρνουν Τον Έλεγχο Του Παγκόσμιου Εφοδιασμού Τροφίμων](https://attikanea.info/%CE%AD%CE%BA%CE%B8%CE%B5%CF%83%CE%B7-%CF%80%CE%B5%CF%81%CE%B9%CE%B3%CF%81%CE%AC%CF%86%CE%B5%CE%B9-%CE%BB%CE%B5%CF%80%CF%84%CE%BF%CE%BC%CE%B5%CF%81%CF%8E%CF%82-%CF%80%CF%8E%CF%82-%CE%BC%CE%B9%CE%B1/)
+* [⚡ Έκθεση Περιγράφει Πώς Μια Χούφτα Εταιρείες Παίρνουν Τον Έλεγχο Του Παγκόσμιου Εφοδιασμού Τροφίμων](https://attikanea.info/%CE%AD%CE%BA%CE%B8%CE%B5%CF%83%CE%B7-%CF%80%CE%B5%CF%81%CE%B9%CE%B3%CF%81%CE%AC%CF%86%CE%B5%CE%B9-%CE%BB%CE%B5%CF%80%CF%84%CE%BF%CE%BC%CE%B5%CF%81%CF%8E%CF%82-%CF%80%CF%8E%CF%82-%CE%BC%CE%B9%CE%B1/)
 * [🎬 Zaraleaks - Συνέντευξη με τον Δημήτρη Κουτσούμπα](https://www.youtube.com/watch?v=nWb6LUWaTLs)
 * [🎬 Nikos Antoniadis - live](https://www.youtube.com/watch?v=kVmoT-49kPU)
   * [US - Ο Δικηγορος Warner Mendehall Μιλαει Για Φονους Στα Νοσοκομεια](https://www.bitchute.com/video/2Q0yznib7Hzv/) &nbsp; [[mirror](https://nikosantoniadis.tv/2023/05/13/%ce%b4%ce%b5%ce%af%cf%84%ce%b5-%ce%b1%cf%85%cf%84%cf%8c-%ce%ba%ce%b1%ce%b9-%ce%b8%ce%b1-%cf%84%ce%b1-%cf%80%ce%bf%cf%8d%ce%bc%ce%b5-%ce%b1%cf%81%ce%b3%cf%8c%cf%84%ce%b5%cf%81%ce%b1-%ce%bf-%ce%b4/)]
-  * [Η κυβέρνηση του Ηνωμένου Βασιλείου κήρυξε «πληθυσμιακή έκτακτη ανάγκη»](https://attikanea.info/%CE%B7-%CE%BA%CF%85%CE%B2%CE%AD%CF%81%CE%BD%CE%B7%CF%83%CE%B7-%CF%84%CE%BF%CF%85-%CE%B7%CE%BD%CF%89%CE%BC%CE%AD%CE%BD%CE%BF%CF%85-%CE%B2%CE%B1%CF%83%CE%B9%CE%BB%CE%B5%CE%AF%CE%BF%CF%85-%CE%BA%CE%AE/)
+  * [⚡ Η κυβέρνηση του Ηνωμένου Βασιλείου κήρυξε «πληθυσμιακή έκτακτη ανάγκη»](https://attikanea.info/%CE%B7-%CE%BA%CF%85%CE%B2%CE%AD%CF%81%CE%BD%CE%B7%CF%83%CE%B7-%CF%84%CE%BF%CF%85-%CE%B7%CE%BD%CF%89%CE%BC%CE%AD%CE%BD%CE%BF%CF%85-%CE%B2%CE%B1%CF%83%CE%B9%CE%BB%CE%B5%CE%AF%CE%BF%CF%85-%CE%BA%CE%AE/)
 * [Τέμπη - Συγκέντρωση διαμαρτυρίας στις Σέρρες για την υποψηφιότητα Καραμανλή](https://www.ieidiseis.gr/ellada/197774/tempi-sygkentrosi-diamartyrias-stis-serres-gia-tin-ypopsifiotita-karamanli)
 * [Ανιψιος Δημητριαδη - Θα Βγαλω Τα Ροζ Βιντεο Με Την Μαρεβα](https://www.makeleio.gr/%ce%b5%ce%be%cf%89%cf%86%cf%85%ce%bb%ce%bb%ce%bf/%ce%98%ce%91-%ce%92%ce%93%ce%91%ce%9b%ce%a9-%ce%a4%ce%91-%ce%a1%ce%9f%ce%96-%ce%92%ce%99%ce%9d%ce%a4%ce%95%ce%9f-%ce%9c%ce%95-%ce%a4%ce%97%ce%9d-%ce%9c%ce%91%ce%a1%ce%95%ce%92%ce%91-%ce%a3%ce%a4/)
 * [Οι επτά Εισαγγελείς Εφετών που προάγονται στον βαθμό του Αντιεισαγγελέα Αρείου Πάγου](https://www.makeleio.gr/%ce%b5%cf%80%ce%b9%ce%ba%ce%b1%ce%b9%cf%81%ce%bf%cf%84%ce%b7%cf%84%ce%b1/%ce%9f%ce%b9-%ce%b5%cf%80%cf%84%ce%ac-%ce%95%ce%b9%cf%83%ce%b1%ce%b3%ce%b3%ce%b5%ce%bb%ce%b5%ce%af%cf%82-%ce%95%cf%86%ce%b5%cf%84%cf%8e%ce%bd-%cf%80%ce%bf%cf%85-%cf%80%cf%81%ce%bf%ce%ac%ce%b3%ce%bf/)
@@ -33,7 +33,7 @@
 * [Σε αντιεισαγγελέα του Αρείου Πάγου προήχθη ο Βασίλης Φλωρίδης](https://www.grtimes.gr/ellada/se-antieisaggelea-toy-areioy-pagoy-proichthi-o-vasilis)
 * [🎬 Κυριάκος Μητσοτάκης - σττη Ρόδο](https://youtu.be/PwHO4CXVWXU)
 * [🎬 Αλέξης Τσίπρας - στην Καβάλα](https://www.facebook.com/tsiprasalexis/videos/1817562362047141/)
-* [2018 - Πρέπει Να Γνωρίζεις Για Πόσα Εκατομμυρια Λαθροεισβολεων, Υπεγραψε Στο Μαρακεσ ο Αλεξης Τσιπρας](https://attikanea.info/%CF%80%CE%B1%CF%81%CE%B5-%CF%85%CF%80%CE%BF%CE%B3%CE%BB%CF%89%CF%83%CF%83%CE%B9%CE%BF-%CF%80%CF%81%CE%B9%CE%BD-%CF%84%CE%B7%CE%BD-%CE%B7%CE%BC%CE%B5%CF%81%CE%BF%CE%BC%CE%B7%CE%BD%CE%AF%CE%B1-%CF%84/)
+* [⚡ 2018 - Πρέπει Να Γνωρίζεις Για Πόσα Εκατομμυρια Λαθροεισβολεων, Υπεγραψε Στο Μαρακες ο Αλεξης Τσιπρας](https://attikanea.info/%CF%80%CE%B1%CF%81%CE%B5-%CF%85%CF%80%CE%BF%CE%B3%CE%BB%CF%89%CF%83%CF%83%CE%B9%CE%BF-%CF%80%CF%81%CE%B9%CE%BD-%CF%84%CE%B7%CE%BD-%CE%B7%CE%BC%CE%B5%CF%81%CE%BF%CE%BC%CE%B7%CE%BD%CE%AF%CE%B1-%CF%84/)
 * [Η τεχνητή νοημοσύνη αλλάζει τη μηχανή αναζήτησης της Google](https://www.kathimerini.gr/economy/562415830/i-techniti-noimosyni-allazei-ti-michani-anazitisis-tis-google/)
 * [Μητσοτάκης - Ρόδος](https://www.kathimerini.gr/politics/562416823/mitsotakis-sta-apokalyptiria-tis-protomis-toy-dim-kremastinoy-sti-rodo/)
 > Μητσοτάκης μετέβη στο **νοσοκομείο της Ρόδου** για να παραστεί στα αποκαλυπτήρια προτομής του αείμνηστου υπουργού Υγείας
