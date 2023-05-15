@@ -313,10 +313,10 @@ goto a
 copy /b file1.txt + file2.txt all.txt
 //or
 copy /b *.txt all.txt
-```  
-
-* merge text files
 ```
+
+* copy files with parent folder  
+```  
 when we have the c:\countries
 that contains 
 -greece
@@ -326,7 +326,7 @@ and if would like to 'mirror' only the *.txt files to c:\backup
 when we are at root c:\countries
 xcopy *.txt c:\backup /s
 --more superuser.com/a/829642 + technet.microsoft.com/en-us/library/bb491035.aspx
-```  
+```
 
 * imagine is an automation where takes files from a dir, this batch 'watches' the dir and move the new part when needed
 ```
@@ -358,7 +358,6 @@ goto hi
 :hend
 echo My Lord all the files processed!
 pause
-
-```  
+```
   
 * [horstmuc.The missing batch file operations](https://www.horstmuc.de/w32dial.htm)  
