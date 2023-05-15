@@ -223,6 +223,7 @@ The sequence is :
 * [Voicemod](https://www.voicemod.net/)
 * [ScreamingBee.MorphVox](https://screamingbee.com/)
 * [BinaryFortress.VoiceBot](https://www.voicebot.net/)
+* [Voice AI](https://voice.ai//)
 
 ## Text to speech 
 * [Windows10 build-in feature ( needs internet )](https://support.microsoft.com/en-us/windows/use-voice-typing-to-talk-instead-of-type-on-your-pc-fec94565-c4bd-329d-e59a-af033fa5689f)
