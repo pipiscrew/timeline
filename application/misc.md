@@ -337,7 +337,7 @@ set dest="E:\INPUTDATA\LOAD\"
 set src="E:\files_for_load\"
 set inprogress="E:\INPUTDATA\INPROGRESS\*.dat"
 
-:hi
+::hi (remove the double semicolon, add only one)
 if exist %dest%%file% (
 	echo file exists, files INPROGRESS now
 	dir %inprogress%  /s/b
@@ -355,7 +355,7 @@ timeout /t 30
 
 goto hi
 
-:hend
+::hend (remove the double semicolon, add only one)
 echo My Lord all the files processed!
 pause
 ```
