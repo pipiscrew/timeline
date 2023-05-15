@@ -315,7 +315,7 @@ copy /b file1.txt + file2.txt all.txt
 copy /b *.txt all.txt
 ```  
 
-* copy files with parent folder
+* copy files with parent folder  
 ```
 when we have the c:\countries
 that contains 
