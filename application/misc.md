@@ -316,7 +316,7 @@ copy /b *.txt all.txt
 ```
 
 * copy files with parent folder  
-```  
+```
 when we have the c:\countries
 that contains 
 -greece
