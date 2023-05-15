@@ -317,7 +317,7 @@ copy /b *.txt all.txt
 
 * copy files with parent folder
 ```
-if we have the c:\countries
+when we have the c:\countries
 that contains 
 -greece
 -czech
@@ -325,7 +325,7 @@ that contains
 and if would like to 'mirror' only the *.txt files to c:\backup
 when we are at root c:\countries
 xcopy *.txt c:\backup /s
---more https://superuser.com/a/829642 + http://technet.microsoft.com/en-us/library/bb491035.aspx
+--more superuser.com/a/829642 + technet.microsoft.com/en-us/library/bb491035.aspx
 ```  
 
 * imagine is an automation where takes files from a dir, this batch 'watches' the dir and move the new part when needed
