@@ -3,6 +3,7 @@
 ## 15/05/2023
 * [🎬 Αλέξης Τσίπρας - στα Ιωάννινα](https://www.youtube.com/watch?v=M--SmLFYQrk)
 * [Αυστρία - Η φωνή του Χίτλερ σόκαρε τους επιβάτες τρένου](https://www.kathimerini.gr/world/562421167/aystria-i-foni-toy-chitler-sokare-toys-epivates-trenoy/)
+* [🎬 Μαιευτήριο Έλενα - κατορθώματα ΝΔ](https://www.documentonews.gr/article/maieytirio-elena-idoy-ta-katorthomata-sas-kyrie-mitsotaki-photos-video/)
 * [🎬 Κυριάκος Μητσοτάκης - στο Ηράκλειο Κρήτης](https://www.youtube.com/watch?v=sX2_hROC9s4)
 * [🎬 Κυριάκος Μητσοτάκης - στο Ζωγράφου](https://www.youtube.com/watch?v=_Bo-3FNkWo8) - Clown καλός.
 * [Πόσο κοστίζουν οι προεκλογικές υποσχέσεις](https://www.kathimerini.gr/economy/562418416/poso-kostizoyn-oi-proeklogikes-yposcheseis/)
