@@ -1,6 +1,7 @@
 <input id="txtSearch" onkeypress="SearchList(event);" class="ceME" placeholder="press enter to search">
 
 ## 15/05/2023
+* [Vice Media - Υπέβαλε αίτημα πτώχευσης](https://www.businessnews.gr/epixeiriseis/media-news/item/263834-vice-media-ypevale-aitima-ptoxefsis-fortress-kai-soros-ypopsifioi-agorastes)
 * [Η ΕΕ κλείνει την πόρτα σε κινεζικά κεφάλαια](https://www.kathimerini.gr/economy/international/562418581/i-e-e-kleinei-tin-porta-se-kinezika-kefalaia/)
 * [Εκλογές στην Τουρκία - Νικητής ο Ερντογάν, αλλά όχι πρόεδρος - Όλα θα κριθούν στον β' γύρο](https://www.businessnews.gr/kosmos/item/263816-ekloges-stin-tourkia-nikitis-o-erntogan-alla-oxi-proedros-ola-tha-krithoyn-ston-v-gyro)
 * [«Τον νου σας, ρεμάλια»](https://www.documentonews.gr/article/ton-noy-sas-remalia/)
