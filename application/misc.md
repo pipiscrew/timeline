@@ -319,9 +319,9 @@ copy /b *.txt all.txt
 ```
 when we have the c:\countries
 that contains 
--greece
--czech
--netherleands
+greece
+czech
+netherleands
 and if would like to 'mirror' only the *.txt files to c:\backup
 when we are at root c:\countries
 xcopy *.txt c:\backup /s
