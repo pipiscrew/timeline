@@ -1,6 +1,7 @@
 <input id="txtSearch" onkeypress="SearchList(event);" class="ceME" placeholder="press enter to search">
 
 ## 15/05/2023
+* [🎬 Κυριάκος Μητσοτάκης - στο Ζωγράφου](https://www.youtube.com/watch?v=_Bo-3FNkWo8) - Clown καλός.
 * [Πόσο κοστίζουν οι προεκλογικές υποσχέσεις](https://www.kathimerini.gr/economy/562418416/poso-kostizoyn-oi-proeklogikes-yposcheseis/)
 * [Η&Μ - μπαίνει και στο επιχειρείν των καλλυντικών](https://www.businessnews.gr/epixeiriseis/item/263827-h-i-m-bainei-kai-sto-epixeirein-ton-kallyntikon)
 * [Singular Logic - Ίσως δεν χρειαστεί εκτίμηση στις 21:30 για τα αποτελέσματα των εκλογών](https://www.ieidiseis.gr/politiki/197964/singular-logic-isos-den-xreiastei-ektimisi-stis-21-30-gia-ta-apotelesmata-ton-eklogon)
