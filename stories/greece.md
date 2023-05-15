@@ -1,7 +1,14 @@
 <input id="txtSearch" onkeypress="SearchList(event);" class="ceME" placeholder="press enter to search">
 
 ## 15/05/2023
-* [Vice Media - Υπέβαλε αίτημα πτώχευσης](https://www.businessnews.gr/epixeiriseis/media-news/item/263834-vice-media-ypevale-aitima-ptoxefsis-fortress-kai-soros-ypopsifioi-agorastes)
+* [Πόσο κοστίζουν οι προεκλογικές υποσχέσεις](https://www.kathimerini.gr/economy/562418416/poso-kostizoyn-oi-proeklogikes-yposcheseis/)
+* [Η&Μ - μπαίνει και στο επιχειρείν των καλλυντικών](https://www.businessnews.gr/epixeiriseis/item/263827-h-i-m-bainei-kai-sto-epixeirein-ton-kallyntikon)
+* [Singular Logic - Ίσως δεν χρειαστεί εκτίμηση στις 21:30 για τα αποτελέσματα των εκλογών](https://www.ieidiseis.gr/politiki/197964/singular-logic-isos-den-xreiastei-ektimisi-stis-21-30-gia-ta-apotelesmata-ton-eklogon)
+* [Δωδώνη - Εθνική Τράπεζα και Ταμείο Ανάκαμψης χρηματοδοτούν επένδυση 18 εκατ, ευρώ](https://www.businessnews.gr/epixeiriseis/item/263843-dodoni-ethniki-trapeza-kai-tameio-anakampsis-xrimatodotoyn-ependysi-18-ekat-evro)
+* [🎬 Hawaii - Καρχαρίας - αρπάζει kayak με τα σαγόνια του](https://twitter.com/ABC/status/1657881970641195009)
+* [🎬 Αλέξης Τσίπρας - στην Ηγουμενίτσα](https://www.facebook.com/tsiprasalexis/videos/252295647350612/)
+* [US - Vice Media - Υπέβαλε αίτημα πτώχευσης](https://www.businessnews.gr/epixeiriseis/media-news/item/263834-vice-media-ypevale-aitima-ptoxefsis-fortress-kai-soros-ypopsifioi-agorastes)
+  * [Αίτημα πτώχευσης κατέθεσε η Vice Media](https://www.documentonews.gr/article/hpa-aitima-ptoxeysis-katethese-i-vice-media/)
 * [Η ΕΕ κλείνει την πόρτα σε κινεζικά κεφάλαια](https://www.kathimerini.gr/economy/international/562418581/i-e-e-kleinei-tin-porta-se-kinezika-kefalaia/)
 * [Εκλογές στην Τουρκία - Νικητής ο Ερντογάν, αλλά όχι πρόεδρος - Όλα θα κριθούν στον β' γύρο](https://www.businessnews.gr/kosmos/item/263816-ekloges-stin-tourkia-nikitis-o-erntogan-alla-oxi-proedros-ola-tha-krithoyn-ston-v-gyro)
 * [«Τον νου σας, ρεμάλια»](https://www.documentonews.gr/article/ton-noy-sas-remalia/)
