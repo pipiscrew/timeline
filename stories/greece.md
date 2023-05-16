@@ -1,8 +1,14 @@
 <input id="txtSearch" onkeypress="SearchList(event);" class="ceME" placeholder="press enter to search">
 
 ## 16/05/2023
+* [Nikos Antoniadis - Αυριο Το Μεσημέρι η Μηνυτηρια Αναφορα Του Στεφανου Χιου](https://www.facebook.com/permalink.php?story_fbid=199167389675189&id=100087457865931)
+* [🎬 Κυριάκος Μητσοτάκης - στον Χατζηνικολάου](https://youtu.be/jSJdNqdOnFw)
+  * [🎬 για δηλώσεις Ερντογάν](https://www.facebook.com/kyriakosmitsotakis/videos/3831060157126960)
+* [🎬 Αλέξης Τσίπρας - στη Θεσσαλονίκη](https://www.facebook.com/tsiprasalexis/videos/3474664659437558)
+* [🎬 Πρετεντέρης με Ράνια Τζίμα και Adoni](https://www.youtube.com/watch?v=Fnr41rXUPL0) &nbsp; [[2](https://youtu.be/WBQhTF0PU9I)]
 * [🎬 Αλέξης Τσίπρας - Διακαναλική συνέντευξη Τύπου στο Ζάππειο Μέγαρο](https://www.facebook.com/tsiprasalexis/videos/966297831220138)
 * [Intrakat - Υπογραφή δύο νέων συμβάσεων ύψους 25 εκατ, ευρώ για αντιπλημμυρικά έργα στην Αττική](https://www.ieidiseis.gr/epixeiriseis/198151/intrakat-ypografi-dyo-neon-symvaseon-ypsous-25-ekat-evro-gia-antiplimmyrika-erga-stin-attiki)
+  * [Intrakat - Διαιτητικό δικαστήριο επικύρωσε αποζημίωση 25,4 εκατ, ευρώ σε θυγατρική](https://www.businessnews.gr/epixeiriseis/item/263968-intrakat-diaititiko-dikastirio-epikyrose-apozimiosi-25-4-ekat-evro-se-thygatriki)
 * [Ανάπτυξη 0,1% για την ευρωζώνη το πρώτο τρίμηνο](https://www.businessnews.gr/kosmos/item/263928-anaptyksi-0-1-gia-tin-evrozoni-to-proto-trimino)
 * [Συνελήφθη με 3 εκατ, δολάρια ο πρόεδρος του Ανωτάτου Δικαστηρίου της Ουκρανίας](https://www.makeleio.gr/%ce%b5%cf%80%ce%b9%ce%ba%ce%b1%ce%b9%cf%81%ce%bf%cf%84%ce%b7%cf%84%ce%b1/%ce%a3%cf%85%ce%bd%ce%b5%ce%bb%ce%ae%cf%86%ce%b8%ce%b7-%ce%bc%ce%b5-3-%ce%b5%ce%ba%ce%b1%cf%84-%ce%b4%ce%bf%ce%bb%ce%ac%cf%81%ce%b9%ce%b1-%ce%bf-%cf%80%cf%81%cf%8c%ce%b5%ce%b4%cf%81%ce%bf%cf%82/)
 * [🎬 Στρατιώτες της Wagner μπαίνουν σε κτίρια στο Μπακχμούτ](https://twitter.com/RWApodcast/status/1655526653261488130?ref_src=twsrc%5Etfw)
