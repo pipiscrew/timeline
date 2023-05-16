@@ -795,7 +795,7 @@
 * [Έτσι κάνουν νοθεία στις κάλπες](https://attikanea.info/%CF%83%CF%84%CE%BF%CE%B9%CF%87%CE%B5%CE%B9%CE%B1-%CF%83%CE%BF%CE%BA-%CE%B5%CF%84%CF%83%CE%B9-%CE%BA%CE%B1%CE%BD%CE%BF%CF%85%CE%BD-%CF%84%CE%B7%CE%BD-%CE%BD%CE%BF%CE%B8%CE%B5%CE%B9%CE%B1-1-8-%CE%B5/)
 
 ## 09/04/2023
-* [Από την Olivetti στο ChatGPT](https://www.kathimerini.gr/opinion/562363075/apo-tin-olivetti-sto-chatgpt/)
+* [⚡ Από την Olivetti στο ChatGPT](https://www.kathimerini.gr/opinion/562363075/apo-tin-olivetti-sto-chatgpt/)
 
 ## 08/04/2023
 * [Η Διαθήκη του Άκη Τσοχατζόπουλο από τον τάφο, καίει Μητσοτάκη και ΠΑΣΟΚ](https://attikanea.info/%CE%B7-%CE%B4%CE%B9%CE%B1%CE%B8%CE%AE%CE%BA%CE%B7-%CF%84%CE%BF%CF%85-%CE%AC%CE%BA%CE%B7-%CF%84%CF%83%CE%BF%CF%87%CE%B1%CF%84%CE%B6%CF%8C%CF%80%CE%BF%CF%85%CE%BB%CE%BF-%CE%B1%CF%80%CF%8C-%CF%84%CE%BF/)
