@@ -1,10 +1,29 @@
 <input id="txtSearch" onkeypress="SearchList(event);" class="ceME" placeholder="press enter to search">
 
+## 16/05/2023
+* [Λαμβάνουν έκτακτα μέτρα οι αρμόδιες αρχές σε έξι νησιά που δεν είναι συνδεδεμένα με το ηπειρωτικό σύστημα ηλεκτρισμού](https://www.ieidiseis.gr/ellada/198100/ektakta-metra-gia-blak-aout-se-6-nisia-to-kalokairi-2023)
+* [Ο Μπακογιάννης πιστεύει πως στις ανασκαφές στην Ακαδημία Πλάτωνος θα βρει την «Πολιτεία» του Πλάτωνα!](https://www.ieidiseis.gr/parapolitika/198104/o-bakogiannis-pisteyei-pos-stis-anaskafes-stin-akadimia-platonos-tha-vrei-tin-politeia-tou-platona)
+* [Δεν μπαίνουμε σε συζήτηση με κόμμα που δεν θέλει Μητσοτάκη πρωθυπουργό, διαμηνύει ο Άδωνις,,,](https://www.ieidiseis.gr/parapolitika/198120/den-bainoume-me-syzitisi-me-komma-pou-den-thelei-mitsotaki-prothypourgo-diaminyei-o-adonis)
+* [Speedy (My Market) - Η επέκταση στην Αττική και η ευγενής άμιλλα με Wolt και E - food](https://www.businessnews.gr/epixeiriseis/item/263879-speedy-my-market-i-epektasi-stin-attiki-kai-i-evgenis-amilla-me-wolt-kai-e-food)
+* [Η BoxNow logistics partner της eBay για την Ελλάδα](https://www.businessnews.gr/epixeiriseis/item/263920-i-box-now-synergatis-tis-ebay-gia-tin-ellada)
+* [«Τους έχεις κάνει όλους μάγκες» - Οι διάλογοι του κυκλώματος που μοίραζε άδειες σε «αδιάβαστους» πιλότους](https://www.kathimerini.gr/society/562422490/toys-echeis-kanei-oloys-magkes-oi-dialogoi-toy-kyklomatos-poy-moiraze-adeies-se-adiavastoys-pilotoys/)
+* [Vodafone - Ο όμιλος ανακοίνωσε 11,000 απολύσεις](https://www.kathimerini.gr/economy/local/562422640/vodafone-o-omilos-anakoinose-11-000-apolyseis-den-aforoyn-tin-ellada/)
+  * [Αναστάτωση στη Vodafone Ελλάδος από τις απολύσεις που ανακοίνωσε ο βρετανικός όμιλος](https://www.businessnews.gr/epixeiriseis/item/263921-oi-apolyseis-pou-anakoinose-o-omilos-vodafone-den-aforoyn-tin-ellada-dilonoun-piges-tis-etairias)
+* [Πλάκα - Παράνομο μπαρ σε μνημείο](https://www.documentonews.gr/article/plaka-paranomo-mpar-se-mnimeio/)
+* [Σιγή ιχθύος για τη μεσαιωνική πόλη της Ρόδου](https://www.documentonews.gr/article/sigi-ixthyos-gia-ti-mesaioniki-poli-tis-rodoy/)
+* [🎬 Κυριάκος Μητσοτάκης - στο 2Night Show](https://www.ieidiseis.gr/politiki/198084/kyriakos-mitsotakis-rotao-tin-kori-mou-pos-sou-fanike-kai-mou-apanta-aftoi-eiste)
+* [🎬 Νέα Ζηλανδία - 6 νεκροί από φωτιά σε ξενοδοχείο](https://www.ieidiseis.gr/kosmos/198088/tragodia-sti-nea-zilandia-6-nekroi-apo-fotia-se-ksenodoxeio-arketoi-agnooymenoi)
+* [🎬 Βραζιλία - 14 χρονος - Κάρφωσε στιλό στη συμμαθήτρια του](https://www.ieidiseis.gr/kosmos/198103/vinteo-sok-sti-vrazilia-karfose-stilo-sto-prosopo-symmathitrias-giati-ton-koroidepse)
+
 ## 15/05/2023
+* [ΞΕΝΟΦΩΝ - Δημοσιεύτηκε στο ΦΕΚ η άδεια λειτουργίας του οργανισμού για τα πνευματικά δικαιώματα δημοσιογράφων](https://www.businessnews.gr/ellada/item/263892-ksenofon-dimosieytike-sto-fek-i-adeia-leitourgias-tou-organismoy-gia-ta-pnevmatika-dikaiomata-dimosiografon)
+* [Βλάβη καθήλωσε τον προαστιακό της Πάτρας](https://www.makeleio.gr/%ce%b5%cf%80%ce%b9%ce%ba%ce%b1%ce%b9%cf%81%ce%bf%cf%84%ce%b7%cf%84%ce%b1/%ce%92%ce%bb%ce%ac%ce%b2%ce%b7-%ce%ba%ce%b1%ce%b8%ce%ae%ce%bb%cf%89%cf%83%ce%b5-%cf%84%ce%bf%ce%bd-%cf%80%cf%81%ce%bf%ce%b1%cf%83%cf%84%ce%b9%ce%b1%ce%ba%cf%8c-%cf%84%ce%b7%cf%82-%ce%a0%ce%ac%cf%84/)
+  * [Αναστάτωση στον Προαστιακό - Έμεινε στη μέση του «πουθενά» με «κλειδωμένες» πόρτες](https://www.ieidiseis.gr/ellada/198096/anastatosi-ston-proastiako-emeine-sti-mesi-tou-pouthena-me-kleidomenes-portes)
 * [🎬 Αλέξης Τσίπρας - στα Ιωάννινα](https://www.youtube.com/watch?v=M--SmLFYQrk)
 * [Αυστρία - Η φωνή του Χίτλερ σόκαρε τους επιβάτες τρένου](https://www.kathimerini.gr/world/562421167/aystria-i-foni-toy-chitler-sokare-toys-epivates-trenoy/)
 * [🎬 Μαιευτήριο Έλενα - κατορθώματα ΝΔ](https://www.documentonews.gr/article/maieytirio-elena-idoy-ta-katorthomata-sas-kyrie-mitsotaki-photos-video/)
 * [🎬 Κυριάκος Μητσοτάκης - στο Ηράκλειο Κρήτης](https://www.youtube.com/watch?v=sX2_hROC9s4)
+  * [Με σωματικό έλεγχο και ακροβολισμένους άντρες της ΟΠΚΕ](https://www.makeleio.gr/%ce%b5%cf%80%ce%b9%ce%ba%ce%b1%ce%b9%cf%81%ce%bf%cf%84%ce%b7%cf%84%ce%b1/%ce%9f-%ce%9a%ce%9f%ce%a5%ce%9b%ce%97%ce%a3-%ce%a4%ce%97%ce%9d-%ce%95%ce%99%ce%94%ce%95-%ce%a4%ce%a1%ce%91%ce%9c%ce%a0-%ce%9c%ce%b5-%cf%83%cf%89%ce%bc%ce%b1%cf%84%ce%b9%ce%ba%cf%8c-%ce%ad/)
 * [🎬 Κυριάκος Μητσοτάκης - στο Ζωγράφου](https://www.youtube.com/watch?v=_Bo-3FNkWo8) - Clown καλός.
 * [Πόσο κοστίζουν οι προεκλογικές υποσχέσεις](https://www.kathimerini.gr/economy/562418416/poso-kostizoyn-oi-proeklogikes-yposcheseis/)
 * [Η&Μ - μπαίνει και στο επιχειρείν των καλλυντικών](https://www.businessnews.gr/epixeiriseis/item/263827-h-i-m-bainei-kai-sto-epixeirein-ton-kallyntikon)
