@@ -1,6 +1,12 @@
 <input id="txtSearch" onkeypress="SearchList(event);" class="ceME" placeholder="press enter to search">
 
 ## 16/05/2023
+* [🎬 Αλέξης Τσίπρας - Διακαναλική συνέντευξη Τύπου στο Ζάππειο Μέγαρο](https://www.facebook.com/tsiprasalexis/videos/966297831220138)
+* [Intrakat - Υπογραφή δύο νέων συμβάσεων ύψους 25 εκατ, ευρώ για αντιπλημμυρικά έργα στην Αττική](https://www.ieidiseis.gr/epixeiriseis/198151/intrakat-ypografi-dyo-neon-symvaseon-ypsous-25-ekat-evro-gia-antiplimmyrika-erga-stin-attiki)
+* [Ανάπτυξη 0,1% για την ευρωζώνη το πρώτο τρίμηνο](https://www.businessnews.gr/kosmos/item/263928-anaptyksi-0-1-gia-tin-evrozoni-to-proto-trimino)
+* [Συνελήφθη με 3 εκατ, δολάρια ο πρόεδρος του Ανωτάτου Δικαστηρίου της Ουκρανίας](https://www.makeleio.gr/%ce%b5%cf%80%ce%b9%ce%ba%ce%b1%ce%b9%cf%81%ce%bf%cf%84%ce%b7%cf%84%ce%b1/%ce%a3%cf%85%ce%bd%ce%b5%ce%bb%ce%ae%cf%86%ce%b8%ce%b7-%ce%bc%ce%b5-3-%ce%b5%ce%ba%ce%b1%cf%84-%ce%b4%ce%bf%ce%bb%ce%ac%cf%81%ce%b9%ce%b1-%ce%bf-%cf%80%cf%81%cf%8c%ce%b5%ce%b4%cf%81%ce%bf%cf%82/)
+* [🎬 Στρατιώτες της Wagner μπαίνουν σε κτίρια στο Μπακχμούτ](https://twitter.com/RWApodcast/status/1655526653261488130?ref_src=twsrc%5Etfw)
+* [Τουρισμός - Κρήτη - Λιγότερες οι ελλείψεις προσωπικού στη φετινή τουριστική σεζόν](https://www.grtimes.gr/ellada/toyrismos-aisiodoxa-minymata-apo-tin-kriti-ligoteres-oi)
 * [Λαμβάνουν έκτακτα μέτρα οι αρμόδιες αρχές σε έξι νησιά που δεν είναι συνδεδεμένα με το ηπειρωτικό σύστημα ηλεκτρισμού](https://www.ieidiseis.gr/ellada/198100/ektakta-metra-gia-blak-aout-se-6-nisia-to-kalokairi-2023)
 * [Ο Μπακογιάννης πιστεύει πως στις ανασκαφές στην Ακαδημία Πλάτωνος θα βρει την «Πολιτεία» του Πλάτωνα!](https://www.ieidiseis.gr/parapolitika/198104/o-bakogiannis-pisteyei-pos-stis-anaskafes-stin-akadimia-platonos-tha-vrei-tin-politeia-tou-platona)
 * [Δεν μπαίνουμε σε συζήτηση με κόμμα που δεν θέλει Μητσοτάκη πρωθυπουργό, διαμηνύει ο Άδωνις,,,](https://www.ieidiseis.gr/parapolitika/198120/den-bainoume-me-syzitisi-me-komma-pou-den-thelei-mitsotaki-prothypourgo-diaminyei-o-adonis)
@@ -13,7 +19,8 @@
 * [Σιγή ιχθύος για τη μεσαιωνική πόλη της Ρόδου](https://www.documentonews.gr/article/sigi-ixthyos-gia-ti-mesaioniki-poli-tis-rodoy/)
 * [🎬 Κυριάκος Μητσοτάκης - στο 2Night Show](https://www.ieidiseis.gr/politiki/198084/kyriakos-mitsotakis-rotao-tin-kori-mou-pos-sou-fanike-kai-mou-apanta-aftoi-eiste)
 * [🎬 Νέα Ζηλανδία - 6 νεκροί από φωτιά σε ξενοδοχείο](https://www.ieidiseis.gr/kosmos/198088/tragodia-sti-nea-zilandia-6-nekroi-apo-fotia-se-ksenodoxeio-arketoi-agnooymenoi)
-* [🎬 Βραζιλία - 14 χρονος - Κάρφωσε στιλό στη συμμαθήτρια του](https://www.ieidiseis.gr/kosmos/198103/vinteo-sok-sti-vrazilia-karfose-stilo-sto-prosopo-symmathitrias-giati-ton-koroidepse)
+* [🎬 Βραζιλία - 14 χρονος - Κάρφωσε στιλό στη συμμαθήτρια του επειδή γέλασε μαζί του](https://www.ieidiseis.gr/kosmos/198103/vinteo-sok-sti-vrazilia-karfose-stilo-sto-prosopo-symmathitrias-giati-ton-koroidepse)
+* [Στραπατσάδα με σπαράγγια](https://www.kathimerini.gr/k/gastronomos/562422466/strapatsada-me-sparaggia/)
 
 ## 15/05/2023
 * [ΞΕΝΟΦΩΝ - Δημοσιεύτηκε στο ΦΕΚ η άδεια λειτουργίας του οργανισμού για τα πνευματικά δικαιώματα δημοσιογράφων](https://www.businessnews.gr/ellada/item/263892-ksenofon-dimosieytike-sto-fek-i-adeia-leitourgias-tou-organismoy-gia-ta-pnevmatika-dikaiomata-dimosiografon)
