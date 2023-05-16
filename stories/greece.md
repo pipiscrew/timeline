@@ -1,6 +1,7 @@
 <input id="txtSearch" onkeypress="SearchList(event);" class="ceME" placeholder="press enter to search">
 
 ## 16/05/2023
+* [ΠτΔ - στην Ισλανδία για την Σύνοδο Αρχηγών Κρατών](https://www.grtimes.gr/ellada/koinwnia/sakellaropoyloy-na-epivevaiosoyme-ti-stirixi-stin-oykrania-meta)
 * [Nikos Antoniadis - Αυριο Το Μεσημέρι η Μηνυτηρια Αναφορα Του Στεφανου Χιου](https://www.facebook.com/permalink.php?story_fbid=199167389675189&id=100087457865931)
 * [🎬 Κυριάκος Μητσοτάκης - στον Χατζηνικολάου](https://youtu.be/jSJdNqdOnFw)
   * [🎬 για δηλώσεις Ερντογάν](https://www.facebook.com/kyriakosmitsotakis/videos/3831060157126960)
