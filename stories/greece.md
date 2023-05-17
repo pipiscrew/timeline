@@ -1,6 +1,8 @@
 <input id="txtSearch" onkeypress="SearchList(event);" class="ceME" placeholder="press enter to search">
 
 ## 17/05/2023
+* [🎬 Ηλίας Κασιδιάρης για τις εκλογές της 21ης Μαΐου](https://www.youtube.com/watch?v=XFRApHhZlss)
+* [Οι Primal Scream μαζί με τους Prodigy στο Release Athens](https://www.documentonews.gr/article/oi-primal-scream-mazi-me-toys-prodigy-sto-release-athens/)
 * [🎬 Γιάνης Βαρουφάκης - διακαναλική συνέντευξη](https://youtu.be/S456W-WclAQ)
 * [Apple - Νέα λειτουργία του iPhone θα δημιουργεί την ψηφιακή φωνή του χρήστη σε μόλις 15 λεπτά](https://www.kathimerini.gr/life/technology/562424488/apple-nea-leitoyrgia-toy-iphone-tha-dimioyrgei-tin-psifiaki-foni-toy-christi-se-molis-15-lepta/)
 * [DJ - Το βατερλό της ΧΡΩΠΕΙ και οι περίεργες αλλαγές στον διαγωνισμό](https://www.datajournalists.co.uk/2023/05/17/to-vaterlo-tis-chropei-kai-oi-perierges-allages-ston-diagonismo/)
