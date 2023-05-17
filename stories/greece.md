@@ -1,6 +1,7 @@
 <input id="txtSearch" onkeypress="SearchList(event);" class="ceME" placeholder="press enter to search">
 
 ## 17/05/2023
+* [Τσεχία - Η Πράγα ακυρώνει συμφωνίες της σοβιετικής περιόδου που επέτρεπαν τη δωρεάν χρήση γης από τη Ρωσία](https://www.kathimerini.gr/world/562425598/tsechia-i-praga-akyronei-symfonies-tis-sovietikis-periodoy-poy-epetrepan-ti-dorean-chrisi-gis-apo-ti-rosia/)
 * [🎬 Mission Impossible 7](https://www.kathimerini.gr/culture/cinema/562425157/mission-impossible-7-sto-neo-treiler-o-tom-kroyz-riskarei-ti-zoi-toy-xana-kai-xana/)
 * [To συνθετικό κρέας σήμερα είναι 25 φορές πιο επιβλαβές για το περιβάλλον από το βόειο](https://www.kathimerini.gr/life/environment/562425220/to-synthetiko-kreas-simera-einai-25-fores-pio-epivlaves-gia-to-perivallon-apo-to-voeio/)
 * [Φρένο στους πλειστηριασμούς των funds - Δικαστήριο ακύρωσε κατάσχεση πρώτης κατοικίας](https://www.makeleio.gr/%ce%b5%cf%80%ce%b9%ce%ba%ce%b1%ce%b9%cf%81%ce%bf%cf%84%ce%b7%cf%84%ce%b1/a%cf%80%cf%8c%cf%86%ce%b1%cf%83%ce%b7-%cf%86%cf%81%ce%ad%ce%bd%ce%bf-%cf%83%cf%84%ce%bf%cf%85%cf%82-%cf%80%ce%bb%ce%b5%ce%b9%cf%83%cf%84%ce%b7%cf%81%ce%b9%ce%b1%cf%83%ce%bc%ce%bf/)
