@@ -1,6 +1,16 @@
 <input id="txtSearch" onkeypress="SearchList(event);" class="ceME" placeholder="press enter to search">
 
 ## 17/05/2023
+* [Mission - Impossible 7](https://www.kathimerini.gr/culture/cinema/562425157/mission-impossible-7-sto-neo-treiler-o-tom-kroyz-riskarei-ti-zoi-toy-xana-kai-xana/)
+* [To συνθετικό κρέας σήμερα είναι 25 φορές πιο επιβλαβές για το περιβάλλον από το βόειο](https://www.kathimerini.gr/life/environment/562425220/to-synthetiko-kreas-simera-einai-25-fores-pio-epivlaves-gia-to-perivallon-apo-to-voeio/)
+* [Φρένο στους πλειστηριασμούς των funds - Δικαστήριο ακύρωσε κατάσχεση πρώτης κατοικίας](https://www.makeleio.gr/%ce%b5%cf%80%ce%b9%ce%ba%ce%b1%ce%b9%cf%81%ce%bf%cf%84%ce%b7%cf%84%ce%b1/a%cf%80%cf%8c%cf%86%ce%b1%cf%83%ce%b7-%cf%86%cf%81%ce%ad%ce%bd%ce%bf-%cf%83%cf%84%ce%bf%cf%85%cf%82-%cf%80%ce%bb%ce%b5%ce%b9%cf%83%cf%84%ce%b7%cf%81%ce%b9%ce%b1%cf%83%ce%bc%ce%bf/)
+* [Λέκτορας - κατηγορείται για διπλή δολοφονία με αρσενικό](https://www.makeleio.gr/%ce%b5%cf%80%ce%b9%ce%ba%ce%b1%ce%b9%cf%81%ce%bf%cf%84%ce%b7%cf%84%ce%b1/%ce%95%ce%b9%cf%83%ce%b1%ce%b3%ce%b3%ce%b5%ce%bb%ce%b9%ce%ba%ce%ae-%cf%80%cf%81%cf%8c%cf%84%ce%b1%cf%83%ce%b7-%ce%ba%cf%8c%ce%bb%ce%b1%cf%86%ce%bf%cf%82-%ce%96%ce%b7%cf%84%ce%ac-%ce%b5%ce%bd%ce%bf/)
+* [«Ο Μητσοτάκης έδωσε εντολή να μην παίξουν πλάνα στην ΕΡΤ» - Τι καταγγέλλει πατέρας που έχασε τον γιο του στα Τέμπη](https://www.makeleio.gr/%ce%b5%cf%80%ce%b9%ce%ba%ce%b1%ce%b9%cf%81%ce%bf%cf%84%ce%b7%cf%84%ce%b1/%ce%9f-%ce%9c%ce%b7%cf%84%cf%83%ce%bf%cf%84%ce%ac%ce%ba%ce%b7%cf%82-%ce%ad%ce%b4%cf%89%cf%83%ce%b5-%ce%b5%ce%bd%cf%84%ce%bf%ce%bb%ce%ae-%ce%bd%ce%b1-%ce%bc%ce%b7%ce%bd-%cf%80%ce%b1%ce%af%ce%be/)
+* [🎬 Κυριάκος Μητσοτάκης - στην Καστοριά](https://youtu.be/cmRbR471Oe8)
+* [🎬 Αλέξης Τσίπρας - στο Ηράκλειο Κρήτης](https://www.facebook.com/tsiprasalexis/videos/1265169734410155/)
+* [🎬 Νίκος Ανδρουλάκης στην Αθήνα](https://www.ieidiseis.gr/politiki/198356/live-i-omilia-tou-nikou-androulaki-stin-athina)
+* [🎬 Κουτσούμπας από Σύνταγμα](https://youtu.be/vfHH7biOrYI)
+* [🎬 ΤΣΙΠΡΑΤΑΚΕΣ](https://www.youtube.com/watch?v=4E1t_5CGxaY)
 * [🎬 Ηλίας Κασιδιάρης για τις εκλογές της 21ης Μαΐου](https://www.youtube.com/watch?v=XFRApHhZlss)
 * [Οι Primal Scream μαζί με τους Prodigy στο Release Athens](https://www.documentonews.gr/article/oi-primal-scream-mazi-me-toys-prodigy-sto-release-athens/)
 * [🎬 Γιάνης Βαρουφάκης - διακαναλική συνέντευξη](https://youtu.be/S456W-WclAQ)
