@@ -1,7 +1,7 @@
 <input id="txtSearch" onkeypress="SearchList(event);" class="ceME" placeholder="press enter to search">
 
 ## 17/05/2023
-* [Ο Γιάνης Βαρουφάκης - διακαναλική συνέντευξη](https://youtu.be/S456W-WclAQ)
+* [🎬 Γιάνης Βαρουφάκης - διακαναλική συνέντευξη](https://youtu.be/S456W-WclAQ)
 * [Apple - Νέα λειτουργία του iPhone θα δημιουργεί την ψηφιακή φωνή του χρήστη σε μόλις 15 λεπτά](https://www.kathimerini.gr/life/technology/562424488/apple-nea-leitoyrgia-toy-iphone-tha-dimioyrgei-tin-psifiaki-foni-toy-christi-se-molis-15-lepta/)
 * [DJ - Το βατερλό της ΧΡΩΠΕΙ και οι περίεργες αλλαγές στον διαγωνισμό](https://www.datajournalists.co.uk/2023/05/17/to-vaterlo-tis-chropei-kai-oi-perierges-allages-ston-diagonismo/)
 * [Πάτρα - ΚΕΠ - Έξαλλος άνδρας χτύπησε τον υπάλληλο](https://www.makeleio.gr/%ce%b5%cf%80%ce%b9%ce%ba%ce%b1%ce%b9%cf%81%ce%bf%cf%84%ce%b7%cf%84%ce%b1/%ce%a0%ce%ac%cf%84%cf%81%ce%b1-%ce%a7%ce%b1%ce%bc%cf%8c%cf%82-%cf%83%ce%b5-%ce%9a%ce%95%ce%a0-%ce%88%ce%be%ce%b1%ce%bb%ce%bb%ce%bf%cf%82-%ce%ac%ce%bd%ce%b4%cf%81%ce%b1%cf%82-%cf%87%cf%84%cf%8d/)
