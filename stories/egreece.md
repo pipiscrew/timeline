@@ -11,16 +11,16 @@
   * eΡαντεβού - [https://www.finddoctors.gov.gr/](https://www.finddoctors.gov.gr/)​
   * myHealth - [https://myhealth.gov.gr/](https://myhealth.gov.gr/)​
   * Προσωπικός Βοηθός για Άτομα με Αναπηρία - [https://prosopikosvoithos.gov.gr/](https://prosopikosvoithos.gov.gr/)​
+* ΕΦΚΑ (όλες οι υπηρεσίες) - [https://www.efka.gov.gr/](https://www.efka.gov.gr/)  
+  * Ένσημα στον ΕΦΚΑ - [https://www.efka.gov.gr/el/asphalismenoi/misthotoi/atomikos-logariasmos-asphalises](https://www.efka.gov.gr/el/asphalismenoi/misthotoi/atomikos-logariasmos-asphalises)​
+  * Ένσημα στο σύστημα ΑΤΛΑΣ - [https://www.atlas.gov.gr/ATLAS/Atlas/Login.aspx](https://www.atlas.gov.gr/ATLAS/Atlas/Login.aspx) (1994 μέχρι και το πρώτο τρίμηνο του 2016) [more](https://www.ieidiseis.gr/oikonomia/197506/pos-vlepo-posa-einai-ta-ensima-mou-me-kodikoys-taxinet)​
+  * Αποδεικτικό Ασφαλιστικής Ενημερότητας - [https://www.efka.gov.gr/el/apodeiktiko-asphalistikes-enemerotetas](https://www.efka.gov.gr/el/apodeiktiko-asphalistikes-enemerotetas)​
 * ΟΑΕΔ / ΔΥΠΑ - [https://eservices.oaed.gr/pls/apex/](https://eservices.oaed.gr/pls/apex/) - [https://www.dypa.gov.gr/](https://www.dypa.gov.gr/)  
 * ΑΣΕΠ - [https://www.asep.gr/asep/login/login.jsp](https://www.asep.gr/asep/login/login.jsp)  
 * MarketPass - [https://vouchers.gov.gr/](https://vouchers.gov.gr/)  
 * MyEyathPortal - [https://portal.eyath.gr](https://portal.eyath.gr) - μπορεί κανείς να δηλώνει όλες τις βλάβες ύδρευσης – αποχέτευσης [more](https://www.grtimes.gr/ellada/nees-e-ypiresies-apo-tin-eyath-sto-myeyathportal)  
 * Αλλάζω Θερμοσίφωνα - [https://allazothermosifona.gov.gr/](https://allazothermosifona.gov.gr/)  
 * Αλλάζω Συσκευή - [https://allazosyskevi.gov.gr/](https://allazosyskevi.gov.gr/)  
-* ΕΦΚΑ (όλες οι υπηρεσίες) - [https://www.efka.gov.gr/](https://www.efka.gov.gr/)  
-  * Ένσημα στον ΕΦΚΑ - [https://www.efka.gov.gr/el/asphalismenoi/misthotoi/atomikos-logariasmos-asphalises](https://www.efka.gov.gr/el/asphalismenoi/misthotoi/atomikos-logariasmos-asphalises)​
-  * Ένσημα στο σύστημα ΑΤΛΑΣ - [https://www.atlas.gov.gr/ATLAS/Atlas/Login.aspx](https://www.atlas.gov.gr/ATLAS/Atlas/Login.aspx) (1994 μέχρι και το πρώτο τρίμηνο του 2016) [more](https://www.ieidiseis.gr/oikonomia/197506/pos-vlepo-posa-einai-ta-ensima-mou-me-kodikoys-taxinet)​
-  * Αποδεικτικό Ασφαλιστικής Ενημερότητας - [https://www.efka.gov.gr/el/apodeiktiko-asphalistikes-enemerotetas](https://www.efka.gov.gr/el/apodeiktiko-asphalistikes-enemerotetas)​
 * myErgani - [https://myergani.gov.gr](https://myergani.gov.gr)  
 * Δικαστηρίων - ΟΣΔΔΥ - [https://www.solon.gov.gr/webcenter/portal/osddy](https://www.solon.gov.gr/webcenter/portal/osddy)  
 * Εθνικό Ποινικό Μητρώο - [https://www.ncris.gov.gr/](https://www.ncris.gov.gr/)  
