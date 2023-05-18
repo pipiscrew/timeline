@@ -72,7 +72,7 @@
   * Telematics - [https://telematics.oasa.gr/](https://telematics.oasa.gr/)
   * STASY (Statheres Sygkoinonies) - [https://stasy.gr](https://stasy.gr)
 * Ανοικτά δεδομένα - [https://data.gov.gr/](https://data.gov.gr/)
-* Αστυνομία - [https://www.astynomia.gr/](https://www.astynomia.gr/odigos-tou-politi/amesi-epikoinonia/) [[Καταγγελίες](https://www.gov.gr/org/astynomia/kataggelies)]
+* Αστυνομία - [https://www.astynomia.gr/](https://www.astynomia.gr/odigos-tou-politi/amesi-epikoinonia/) &nbsp; [[Καταγγελίες](https://www.gov.gr/org/astynomia/kataggelies)]
   * [Διεύθυνση Δίωξης Ηλεκτρονικού Εγκλήματος](https://cyberalert.gr/)
 * e-katanalotis - [https://e-katanalotis.gov.gr/](https://e-katanalotis.gov.gr/)
 
