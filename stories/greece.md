@@ -1,6 +1,7 @@
 <input id="txtSearch" onkeypress="SearchList(event);" class="ceME" placeholder="press enter to search">
 
 ## 18/05/2023
+* [US - Ένα λογιστικό σφάλμα έστειλε εξοπλισμό 3 δισ, δολαρίων προς την Ουκρανία](https://www.kathimerini.gr/world/562427428/ipa-logistiko-sfalma-3-dis-dolarion-gia-exoplismo-pros-tin-oykrania/)
 * [Financial Times - Greece economic revival is still a work in progress](https://www.ft.com/content/5a2c265f-58f2-424d-a16e-3f89d9fd18e6)
 * [Η πρώτη δικαίωση ανεμβολίαστου υγειονομικού στα δικαστήρια, Χαστουκι Για Τον Πλευρη](https://attikanea.info/%CE%B7-%CF%80%CF%81%CF%8E%CF%84%CE%B7-%CE%B4%CE%B9%CE%BA%CE%B1%CE%AF%CF%89%CF%83%CE%B7-%CE%B1%CE%BD%CE%B5%CE%BC%CE%B2%CE%BF%CE%BB%CE%AF%CE%B1%CF%83%CF%84%CE%BF%CF%85-%CF%85%CE%B3%CE%B5%CE%B9%CE%BF/)
 * [Space Hellas - Πρώτος συνεργάτης της Cisco στην Ελλάδα, με παροχή υπηρεσιών PLS-Support](https://www.businessnews.gr/epixeiriseis/item/264130-space-hellas-protos-synergatis-tis-cisco-stin-ellada-me-paroxi-ypiresion-pls-support)
