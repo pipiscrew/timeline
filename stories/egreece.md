@@ -17,7 +17,6 @@
   * [Εθνικό Μητρώο Ιατρών](https://pis.gr/%CE%B5%CE%B8%CE%BD%CE%B9%CE%BA%CF%8C-%CE%BC%CE%B7%CF%84%CF%81%CF%8E%CE%BF-%CE%B9%CE%B1%CF%84%CF%81%CF%8E%CE%BD/?page_id=106802) [[2](https://wp.me/PbqZra-rMC)]
   * Εθνικό Μητρώο Αιμοδοτών (ΕΜΑ) - [https://blooddonorregistry.gr/](https://blooddonorregistry.gr/)
   * Εθνικό Κέντρο Αιμοδοσίας (ΕΚΕΑ) - [http://ekea.gr/](http://ekea.gr/)
-  * Επίδομα Γέννησης - [https://www.epidomagennisis.gr/](https://www.epidomagennisis.gr/)  
   * Υπουργείο Υγείας - [https://www.gov.gr/upourgeia/upourgeio-ugeias](https://www.gov.gr/upourgeia/upourgeio-ugeias)  
     * 1η ΥΠΕ - Αττική - [https://www.1dype.gov.gr/](https://www.1dype.gov.gr/?page_id=1095)
     * 2η ΥΠΕ - Πειραιώς & Αιγαίου - [https://www.2dype.gov.gr/](https://www.2dype.gov.gr/contact/thlefwna-epikoinwnias)
@@ -27,6 +26,7 @@
   * Ελληνικό Ινστιτούτο Παστέρ - [https://www.pasteur.gr/](https://www.pasteur.gr/) - Διεθνές Κέντρο Βιοϊατρικής Έρευνας Με Κοινωνική Αποστολή
   * IIBEAA - [http://www.bioacademy.gr/](http://www.bioacademy.gr/) - Ίδρυμα Ιατροβιολογικών Ερευνών
   * ΕΦΕΤ - [https://www.efet.gr/](https://www.efet.gr/) - Ενιαίος Φορέας Ελέγχου Τροφίμων
+  * Επίδομα Γέννησης - [https://www.epidomagennisis.gr/](https://www.epidomagennisis.gr/)  
 * ΕΦΚΑ (όλες οι υπηρεσίες) - [https://www.efka.gov.gr/](https://www.efka.gov.gr/)  
   * Ένσημα στον ΕΦΚΑ - [https://www.efka.gov.gr/el/asphalismenoi/misthotoi/atomikos-logariasmos-asphalises](https://www.efka.gov.gr/el/asphalismenoi/misthotoi/atomikos-logariasmos-asphalises)​
   * Ένσημα στο σύστημα ΑΤΛΑΣ - [https://www.atlas.gov.gr/ATLAS/Atlas/Login.aspx](https://www.atlas.gov.gr/ATLAS/Atlas/Login.aspx) (1994 μέχρι και το πρώτο τρίμηνο του 2016) [more](https://www.ieidiseis.gr/oikonomia/197506/pos-vlepo-posa-einai-ta-ensima-mou-me-kodikoys-taxinet)​
