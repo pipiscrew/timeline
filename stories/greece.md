@@ -1,6 +1,12 @@
 <input id="txtSearch" onkeypress="SearchList(event);" class="ceME" placeholder="press enter to search">
 
 ## 18/05/2023
+* [Ημαθία - Αφαίρεσαν ηλεκτρικές συσκευές, αντικείμενα και εργαλεία αξίας 18,000 ευρώ από επιχείρηση&nbsp;](https://www.grtimes.gr/ellada/koinwnia/imathia-afairesan-ilektrikes-syskeyes-antikeimena-kai-ergaleia-axias)
+* [Σκάνδαλο υποκλοπών - Ο Adoni παραδέχθηκε τις παρακολουθήσεις και «κάρφωσε» τον Μητσοτάκη ως υπεύθυνο](https://www.documentonews.gr/article/skandalo-ypoklopon-o-adonis-paradexthike-tis-parakoloythiseis-kai-karfose-ton-mitsotaki-os-ypeythyno-video/)
+  * [Άδωνης Γεωργιάδης - Εκτέλεση Μητσοτάκη](https://www.documentonews.gr/article/adonis-georgiadis-ektelesi-mitsotaki/)
+* [DJ - Τέμπη - Συγνώμη γαμπρέ, η ΤΕΡΝΑ φυλάει τα ρούχα της](https://www.reportersunited.gr/11072/tempi-terna-gerapetritis/)
+* [Η Γενική Γραμματεία Εμπορίου και Προστασίας Καταναλωτή του υπουργείου Ανάπτυξης επέβαλε πρόστιμα συνολικού ύψους 140k ευρώ σε δύο εταιρείες](https://www.businessnews.gr/epixeiriseis/item/264113-prostima-140-000-evro-se-dyo-etaireies-gia-paravaseis-peri-prostasias-tou-katanaloti)
+* [Μαρία Βερούχη - Νέα γενική διευθύντρια στην Edenred Ελλάδας](https://www.businessnews.gr/prosopa/item/264115-maria-veroyxi-nea-geniki-diefthyntria-stin-edenred-elladas)
 * [Το κόλπο για να κρατάτε τη σκόνη μακριά από τα έπιπλα](https://www.makeleio.gr/%ce%b5%cf%80%ce%b9%ce%ba%ce%b1%ce%b9%cf%81%ce%bf%cf%84%ce%b7%cf%84%ce%b1/%ce%a4%ce%bf-%ce%ba%cf%8c%ce%bb%cf%80%ce%bf-%ce%b3%ce%b9%ce%b1-%ce%bd%ce%b1-%ce%ba%cf%81%ce%b1%cf%84%ce%ac%cf%84%ce%b5-%cf%84%ce%b7-%cf%83%ce%ba%cf%8c%ce%bd%ce%b7-%ce%bc%ce%b1%ce%ba%cf%81%ce%b9%ce%ac/)
 * [«Λάδι» έβγαλαν τον Κασιδιάρη για τις προεκλογικές ομιλίες μίσους μέσα από τη φυλακή](https://www.documentonews.gr/article/ladi-evgalan-ton-kasidiari-gia-tis-proeklogikes-omilies-misoys-mesa-apo-ti-fylaki/)
   * [ΑΗ απόφαση της φυλακής - «Δεν παραβίασε κάποια εντολή ο Ηλίας Κασιδιάρης»](https://www.makeleio.gr/%ce%b5%cf%80%ce%b9%ce%ba%ce%b1%ce%b9%cf%81%ce%bf%cf%84%ce%b7%cf%84%ce%b1/%ce%97-%ce%b1%cf%80%cf%8c%cf%86%ce%b1%cf%83%ce%b7-%cf%84%ce%b7%cf%82-%cf%86%cf%85%ce%bb%ce%b1%ce%ba%ce%ae%cf%82-%ce%94%ce%b5%ce%bd-%cf%80%ce%b1%cf%81%ce%b1%ce%b2%ce%af%ce%b1%cf%83%ce%b5-%ce%ba/)
@@ -8,6 +14,7 @@
 * [Νέα αγωγή στην Κεραμέως επειδή δεν πληρώνει κοινόχρηστα στην πολυκατοικίας που μένει - Στα 4k ευρώ το χρέος της](https://www.documentonews.gr/article/nea-agogi-stin-kerameos-epeidi-den-plironei-koinoxrista-sta-4-513-16-eyro-to-xreos-tis/)
 * [Τη δική του «Singular Logic» στήνει ο ΣΥΡΙΖΑ για τα εκλογικά αποτελέσματα](https://www.ieidiseis.gr/politiki/198427/ti-diki-tou-singular-logic-stinei-o-syriza-gia-ta-eklogika-apotelesmata)
   * [ΣΥΡΙΖΑ - Ενεργοποιεί μηχανισμό συλλογής και επαλήθευσης των αποτελεσμάτων των εκλογών](https://www.businessnews.gr/politiki/item/264099-syriza-energopoiei-mixanismo-syllogis-kai-epalithefsis-ton-apotelesmaton-ton-eklogon)
+  * [Και ξαφνικά, ο ΣΥΡΙΖΑ...](https://attikanea.info/%CE%BA%CE%B1%CE%B9-%CE%BE%CE%B1%CF%86%CE%BD%CE%B9%CE%BA%CE%AC-%CE%BF-%CF%83%CF%85%CF%81%CE%B9%CE%B6%CE%B1-%CE%B1%CE%BD%CE%B1%CE%BA%CE%B1%CE%BB%CF%85%CF%88%CE%B5-%CF%84%CE%B7-%CE%B4%CE%B5%CE%B4%CE%BF/)
 * [Φυτοφάρμακα - Είναι απαγορευμένα και τοξικά, αλλά τα… εξάγουμε](https://www.kathimerini.gr/society/562425775/fytofarmaka-einai-apagoreymena-kai-toxika-alla-ta-exagoyme/)
 * [Η Ελλάδα στις κάλπες - 7 Ιουλίου 2019 - Η ΝΔ στον δρόμο για την επιστροφή στην εξουσία](https://www.kathimerini.gr/istoria/562414711/i-ellada-stis-kalpes-7-ioylioy-2019-i-n-d-ston-dromo-gia-tin-epistrofi-stin-exoysia/)
   * [20 Σεπτεμβρίου 2015 - Το «παλιό» και το «νέο»](https://www.kathimerini.gr/istoria/562414552/i-ellada-stis-kalpes-20-septemvrioy-2015-to-palio-kai-to-neo/)
@@ -26,6 +33,7 @@
   * [18 Οκτωβρίου 1981 - Ο Α. Παπανδρέου και το «ραντεβού με την Ιστορία»](https://www.kathimerini.gr/istoria/562401907/na-min-dimosieytei-i-ellada-stis-kalpes-18-oktovrioy-1981-o-a-papandreoy-kai-to-rantevoy-me-tin-istoria/)
   * [20 Νοεμβρίου 1977 - Ο Κων. Καραμανλής απέναντι στο αίτημα της «αλλαγής»](https://www.kathimerini.gr/istoria/562400005/na-min-dimosieytei-i-ellada-stis-kalpes-20-noemvrioy-1977-o-kon-karamanlis-apenanti-sto-aitima-tis-allagis/)
   * [17 Νοεμβρίου 1974 - «Καραμανλής ή τανκς»](https://www.kathimerini.gr/istoria/562398301/na-min-dimosieytei-i-ellada-stis-kalpes-17-noemvrioy-1974-karamanlis-i-tanks/)
+* [Πίτσα με κρεμμύδια και τυριά (χωρίς σάλτσα ντομάτας)](https://www.gastronomos.gr/syntagh/kremmydopitsa/52839/)
 
 ## 17/05/2023
 * [Τσεχία - Η Πράγα ακυρώνει συμφωνίες της σοβιετικής περιόδου που επέτρεπαν τη δωρεάν χρήση γης από τη Ρωσία](https://www.kathimerini.gr/world/562425598/tsechia-i-praga-akyronei-symfonies-tis-sovietikis-periodoy-poy-epetrepan-ti-dorean-chrisi-gis-apo-ti-rosia/)
