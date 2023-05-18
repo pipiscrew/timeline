@@ -1,7 +1,8 @@
 ## Login with TaxisNET
 
 * Θυρίδα πολίτη - [https://my.gov.gr/](https://my.gov.gr/)  
-* Υπεύθυνη Δήλωση, Εξουσιοδότηση, Ψηφιακή Βεβαίωση Εγγράφου κτλ. - [https://docs.gov.gr/](https://docs.gov.gr/) \[[2](https://www.gov.gr/ipiresies/polites-kai-kathemerinoteta/psephiaka-eggrapha-gov-gr/psephiake-bebaiose-eggraphou)\]  
+* `Ραντεβού στην Εφορία` - [https://www1.aade.gr/saadekef/gappointments](https://www1.aade.gr/saadekef/gappointments)
+* Υπεύθυνη Δήλωση, Εξουσιοδότηση, `Ψηφιακή Βεβαίωση Εγγράφου` κτλ. - [https://docs.gov.gr/](https://docs.gov.gr/) \[[2](https://www.gov.gr/ipiresies/polites-kai-kathemerinoteta/psephiaka-eggrapha-gov-gr/psephiake-bebaiose-eggraphou)\]  
 * Wallet (όλα τα δημόσια έγγραφα στο κινητό σας) - [https://wallet.gov.gr/](https://wallet.gov.gr/)  
 * Δι@ύγεια - [https://diavgeia.gov.gr/](https://diavgeia.gov.gr/)  
 * Αδειών Οδήγησης - Αδειών Κυκλοφορίας - [https://drivers-vehicles.services.gov.gr/login](https://drivers-vehicles.services.gov.gr/login)  
@@ -44,7 +45,7 @@
 
 * [https://www.gov.gr/](https://www.gov.gr/)
 * [https://www.aade.gr/](https://www.aade.gr/)
-* [https://myaade.gov.gr/](https://myaade.gov.gr/)
+* [https://myaade.gov.gr/](https://myaade.gov.gr/) - `Τα αιτήματα μου`
 * Οδηγός του Πολίτη [https://1555.gov.gr/](https://1555.gov.gr/)
 * [e-EFKA](https://www.efka.gov.gr/el/yperesies-poy-parechontai-apokleistika-elektronika)
 

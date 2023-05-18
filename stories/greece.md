@@ -1,6 +1,7 @@
 <input id="txtSearch" onkeypress="SearchList(event);" class="ceME" placeholder="press enter to search">
 
 ## 18/05/2023
+* [ΟΝΕΧ και CISCO δημιουργούν το Ναυπηγείο του μέλλοντος στην Ελευσίνα](https://www.grtimes.gr/ellada/onech-kai-cisco-dimioyrgoyn-to-naypigeio-toy-mellontos)
 * [Ημαθία - Αφαίρεσαν ηλεκτρικές συσκευές, αντικείμενα και εργαλεία αξίας 18,000 ευρώ από επιχείρηση&nbsp;](https://www.grtimes.gr/ellada/koinwnia/imathia-afairesan-ilektrikes-syskeyes-antikeimena-kai-ergaleia-axias)
 * [Σκάνδαλο υποκλοπών - Ο Adoni παραδέχθηκε τις παρακολουθήσεις και «κάρφωσε» τον Μητσοτάκη ως υπεύθυνο](https://www.documentonews.gr/article/skandalo-ypoklopon-o-adonis-paradexthike-tis-parakoloythiseis-kai-karfose-ton-mitsotaki-os-ypeythyno-video/)
   * [Άδωνης Γεωργιάδης - Εκτέλεση Μητσοτάκη](https://www.documentonews.gr/article/adonis-georgiadis-ektelesi-mitsotaki/)
