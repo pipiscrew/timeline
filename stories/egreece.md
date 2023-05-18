@@ -1,5 +1,3 @@
-## Login with TaxisNET
-
 * [TaxisNET](https://www.gsis.gr/)
   * `Ραντεβού` - [https://www1.aade.gr/saadekef/gappointments](https://www1.aade.gr/saadekef/gappointments)
 * Υπεύθυνη Δήλωση, Εξουσιοδότηση, `Ψηφιακή Βεβαίωση Εγγράφου` κτλ. - [https://docs.gov.gr/](https://docs.gov.gr/) \[[2](https://www.gov.gr/ipiresies/polites-kai-kathemerinoteta/psephiaka-eggrapha-gov-gr/psephiake-bebaiose-eggraphou)\]  
