@@ -1,5 +1,5 @@
 ## Login with TaxisNET
-  
+
 * Θυρίδα πολίτη - [https://my.gov.gr/](https://my.gov.gr/)  
 * Υπεύθυνη Δήλωση, Εξουσιοδότηση, Ψηφιακή Βεβαίωση Εγγράφου κτλ. - [https://docs.gov.gr/](https://docs.gov.gr/) \[[2](https://www.gov.gr/ipiresies/polites-kai-kathemerinoteta/psephiaka-eggrapha-gov-gr/psephiake-bebaiose-eggraphou)\]  
 * Wallet (όλα τα δημόσια έγγραφα στο κινητό σας) - [https://wallet.gov.gr/](https://wallet.gov.gr/)  
@@ -36,8 +36,9 @@
 * Επίδομα Γέννησης - [https://www.epidomagennisis.gr/](https://www.epidomagennisis.gr/)  
 * Υπουργείο Ανάπτυξης & Επενδύσεων - [https://www.mindev.gov.gr/](https://www.mindev.gov.gr/)  
 * Υπουργείο Εθνικής Άμυνας - [https://www.stratologia.gr/](https://www.stratologia.gr/)  
-* Υπουργείο Μετανάστευσης και Ασύλου - [https://migration.gov.gr/](https://migration.gov.gr/)  
+* Υπουργείο Μετανάστευσης και Ασύλου - [https://migration.gov.gr/](https://migration.gov.gr/)
 
+---
   
 βρείτε όλες τις υπηρεσίες :  
 
