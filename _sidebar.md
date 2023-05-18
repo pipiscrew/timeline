@@ -58,3 +58,4 @@
 	* [covid](/stories/wcovid.md)
 	* [covidGR](/stories/wcovidGR.md)
 	* [greece](/stories/greece.md)
+	* [eGreece](/stories/egreece.md)

@@ -1,7 +1,13 @@
 <input id="txtSearch" onkeypress="SearchList(event);" class="ceME" placeholder="press enter to search">
 
 ## 18/05/2023
+* [Το κόλπο για να κρατάτε τη σκόνη μακριά από τα έπιπλα](https://www.makeleio.gr/%ce%b5%cf%80%ce%b9%ce%ba%ce%b1%ce%b9%cf%81%ce%bf%cf%84%ce%b7%cf%84%ce%b1/%ce%a4%ce%bf-%ce%ba%cf%8c%ce%bb%cf%80%ce%bf-%ce%b3%ce%b9%ce%b1-%ce%bd%ce%b1-%ce%ba%cf%81%ce%b1%cf%84%ce%ac%cf%84%ce%b5-%cf%84%ce%b7-%cf%83%ce%ba%cf%8c%ce%bd%ce%b7-%ce%bc%ce%b1%ce%ba%cf%81%ce%b9%ce%ac/)
+* [«Λάδι» έβγαλαν τον Κασιδιάρη για τις προεκλογικές ομιλίες μίσους μέσα από τη φυλακή](https://www.documentonews.gr/article/ladi-evgalan-ton-kasidiari-gia-tis-proeklogikes-omilies-misoys-mesa-apo-ti-fylaki/)
+  * [ΑΗ απόφαση της φυλακής - «Δεν παραβίασε κάποια εντολή ο Ηλίας Κασιδιάρης»](https://www.makeleio.gr/%ce%b5%cf%80%ce%b9%ce%ba%ce%b1%ce%b9%cf%81%ce%bf%cf%84%ce%b7%cf%84%ce%b1/%ce%97-%ce%b1%cf%80%cf%8c%cf%86%ce%b1%cf%83%ce%b7-%cf%84%ce%b7%cf%82-%cf%86%cf%85%ce%bb%ce%b1%ce%ba%ce%ae%cf%82-%ce%94%ce%b5%ce%bd-%cf%80%ce%b1%cf%81%ce%b1%ce%b2%ce%af%ce%b1%cf%83%ce%b5-%ce%ba/)
+* [Συμφωνία Tamares Telecom και Grid Telecom για υποθαλάσσιο καλωδιακό σύστημα που θα συνδέει την Ευρώπη με τη Μέση Ανατολή](https://www.ieidiseis.gr/epixeiriseis/198448/symfonia-tamares-telecom-kai-grid-telecom-gia-ypothalassio-kalodiako-systima-pou-tha-syndeei-tin-evropi-me-ti-mesi-anatoli)
+* [Νέα αγωγή στην Κεραμέως επειδή δεν πληρώνει κοινόχρηστα στην πολυκατοικίας που μένει - Στα 4k ευρώ το χρέος της](https://www.documentonews.gr/article/nea-agogi-stin-kerameos-epeidi-den-plironei-koinoxrista-sta-4-513-16-eyro-to-xreos-tis/)
 * [Τη δική του «Singular Logic» στήνει ο ΣΥΡΙΖΑ για τα εκλογικά αποτελέσματα](https://www.ieidiseis.gr/politiki/198427/ti-diki-tou-singular-logic-stinei-o-syriza-gia-ta-eklogika-apotelesmata)
+  * [ΣΥΡΙΖΑ - Ενεργοποιεί μηχανισμό συλλογής και επαλήθευσης των αποτελεσμάτων των εκλογών](https://www.businessnews.gr/politiki/item/264099-syriza-energopoiei-mixanismo-syllogis-kai-epalithefsis-ton-apotelesmaton-ton-eklogon)
 * [Φυτοφάρμακα - Είναι απαγορευμένα και τοξικά, αλλά τα… εξάγουμε](https://www.kathimerini.gr/society/562425775/fytofarmaka-einai-apagoreymena-kai-toxika-alla-ta-exagoyme/)
 * [Η Ελλάδα στις κάλπες - 7 Ιουλίου 2019 - Η ΝΔ στον δρόμο για την επιστροφή στην εξουσία](https://www.kathimerini.gr/istoria/562414711/i-ellada-stis-kalpes-7-ioylioy-2019-i-n-d-ston-dromo-gia-tin-epistrofi-stin-exoysia/)
   * [20 Σεπτεμβρίου 2015 - Το «παλιό» και το «νέο»](https://www.kathimerini.gr/istoria/562414552/i-ellada-stis-kalpes-20-septemvrioy-2015-to-palio-kai-to-neo/)
