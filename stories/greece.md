@@ -1,9 +1,16 @@
 <input id="txtSearch" onkeypress="SearchList(event);" class="ceME" placeholder="press enter to search">
 
 ## 18/05/2023
+* [Financial Times - Greece economic revival is still a work in progress](https://www.ft.com/content/5a2c265f-58f2-424d-a16e-3f89d9fd18e6)
+* [Η πρώτη δικαίωση ανεμβολίαστου υγειονομικού στα δικαστήρια, Χαστουκι Για Τον Πλευρη](https://attikanea.info/%CE%B7-%CF%80%CF%81%CF%8E%CF%84%CE%B7-%CE%B4%CE%B9%CE%BA%CE%B1%CE%AF%CF%89%CF%83%CE%B7-%CE%B1%CE%BD%CE%B5%CE%BC%CE%B2%CE%BF%CE%BB%CE%AF%CE%B1%CF%83%CF%84%CE%BF%CF%85-%CF%85%CE%B3%CE%B5%CE%B9%CE%BF/)
+* [Space Hellas - Πρώτος συνεργάτης της Cisco στην Ελλάδα, με παροχή υπηρεσιών PLS-Support](https://www.businessnews.gr/epixeiriseis/item/264130-space-hellas-protos-synergatis-tis-cisco-stin-ellada-me-paroxi-ypiresion-pls-support)
+* [EllinikaHoaxes - Εξώδικο από την Αυγή - «Θα απολογηθούν στη δικαιοσύνη» λέει ο Βαξεβάνης](https://www.documentonews.gr/article/ellinikahoaxes-exodiko-apo-tin-aygi-tha-apologithoyn-sti-dikaiosyni-leei-o-vaxevanis/)
+* [🎬 Κυριάκος Μητσοτάκης - στη Θεσσαλονίκη](https://youtu.be/LZESVi-r47k)
+* [Κίνα - stand up κωμικός - Το αστείο του κόστισε 2 εκατομμύρια δολάρια](https://www.kathimerini.gr/world/562425292/to-asteio-poy-kostise-2-ekatommyria-dolaria/)
 * [Φινλανδία - Περισσότεροι από 1,100 Ρώσοι έχουν ζητήσει πολιτικό άσυλο για να αποφύγουν την επιστράτευση](https://www.kathimerini.gr/world/562427239/finlandia-perissoteroi-apo-1-000-rosoi-echoyn-zitisei-politiko-asylo-gia-na-apofygoyn-tin-epistrateysi/)
 * [Ισπανία - Αποκαλύφθηκε νέο είδος δεινόσαυρου με την ονομασία «Protathlitis cinctorrensis»](https://www.kathimerini.gr/world/562427308/ispania-apokalyfthike-neo-eidos-deinosayroy-me-tin-onomasia-protathlitis-cinctorrensis/)
 * [Ιταλία - Καταστροφικές πλημμύρες με εννέα νεκρούς - 13,000 εγκατέλειψαν τα σπίτια τους](https://www.kathimerini.gr/world/562427287/italia-katastrofikes-plimmyres-me-ennea-nekroys-13-000-egkateleipsan-ta-spitia-toys/)
+  * [Στους 14 οι νεκροί από τις πλημμύρες - 20 χιλιάδες άστεγοι](https://www.ieidiseis.gr/kosmos/198512/eikones-apokalypsis-stin-italia-stous-14-oi-nekroi-apo-tis-plimmyres-20-xiliades-astegoi)
 * [ΟΝΕΧ και CISCO δημιουργούν το Ναυπηγείο του μέλλοντος στην Ελευσίνα](https://www.grtimes.gr/ellada/onech-kai-cisco-dimioyrgoyn-to-naypigeio-toy-mellontos)
 * [Ημαθία - Αφαίρεσαν ηλεκτρικές συσκευές, αντικείμενα και εργαλεία αξίας 18,000 ευρώ από επιχείρηση&nbsp;](https://www.grtimes.gr/ellada/koinwnia/imathia-afairesan-ilektrikes-syskeyes-antikeimena-kai-ergaleia-axias)
 * [Σκάνδαλο υποκλοπών - Ο Adoni παραδέχθηκε τις παρακολουθήσεις και «κάρφωσε» τον Μητσοτάκη ως υπεύθυνο](https://www.documentonews.gr/article/skandalo-ypoklopon-o-adonis-paradexthike-tis-parakoloythiseis-kai-karfose-ton-mitsotaki-os-ypeythyno-video/)
@@ -38,6 +45,7 @@
   * [20 Νοεμβρίου 1977 - Ο Κων. Καραμανλής απέναντι στο αίτημα της «αλλαγής»](https://www.kathimerini.gr/istoria/562400005/na-min-dimosieytei-i-ellada-stis-kalpes-20-noemvrioy-1977-o-kon-karamanlis-apenanti-sto-aitima-tis-allagis/)
   * [17 Νοεμβρίου 1974 - «Καραμανλής ή τανκς»](https://www.kathimerini.gr/istoria/562398301/na-min-dimosieytei-i-ellada-stis-kalpes-17-noemvrioy-1974-karamanlis-i-tanks/)
 * [Πίτσα με κρεμμύδια και τυριά (χωρίς σάλτσα ντομάτας)](https://www.gastronomos.gr/syntagh/kremmydopitsa/52839/)
+* [23 συνταγές για να μην τρώμε κάθε μέρα την ίδια ομελέτα](https://www.gastronomos.gr/syntages/23-syntages-gia-na-min-trome-kathe-mera-tin-idia-omeleta/203434/)
 
 ## 17/05/2023
 * [Τσεχία - Η Πράγα ακυρώνει συμφωνίες της σοβιετικής περιόδου που επέτρεπαν τη δωρεάν χρήση γης από τη Ρωσία](https://www.kathimerini.gr/world/562425598/tsechia-i-praga-akyronei-symfonies-tis-sovietikis-periodoy-poy-epetrepan-ti-dorean-chrisi-gis-apo-ti-rosia/)
