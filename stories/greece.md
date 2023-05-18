@@ -1,6 +1,9 @@
 <input id="txtSearch" onkeypress="SearchList(event);" class="ceME" placeholder="press enter to search">
 
 ## 18/05/2023
+* [Φινλανδία - Περισσότεροι από 1,100 Ρώσοι έχουν ζητήσει πολιτικό άσυλο για να αποφύγουν την επιστράτευση](https://www.kathimerini.gr/world/562427239/finlandia-perissoteroi-apo-1-000-rosoi-echoyn-zitisei-politiko-asylo-gia-na-apofygoyn-tin-epistrateysi/)
+* [Ισπανία - Αποκαλύφθηκε νέο είδος δεινόσαυρου με την ονομασία «Protathlitis cinctorrensis»](https://www.kathimerini.gr/world/562427308/ispania-apokalyfthike-neo-eidos-deinosayroy-me-tin-onomasia-protathlitis-cinctorrensis/)
+* [Ιταλία - Καταστροφικές πλημμύρες με εννέα νεκρούς - 13,000 εγκατέλειψαν τα σπίτια τους](https://www.kathimerini.gr/world/562427287/italia-katastrofikes-plimmyres-me-ennea-nekroys-13-000-egkateleipsan-ta-spitia-toys/)
 * [ΟΝΕΧ και CISCO δημιουργούν το Ναυπηγείο του μέλλοντος στην Ελευσίνα](https://www.grtimes.gr/ellada/onech-kai-cisco-dimioyrgoyn-to-naypigeio-toy-mellontos)
 * [Ημαθία - Αφαίρεσαν ηλεκτρικές συσκευές, αντικείμενα και εργαλεία αξίας 18,000 ευρώ από επιχείρηση&nbsp;](https://www.grtimes.gr/ellada/koinwnia/imathia-afairesan-ilektrikes-syskeyes-antikeimena-kai-ergaleia-axias)
 * [Σκάνδαλο υποκλοπών - Ο Adoni παραδέχθηκε τις παρακολουθήσεις και «κάρφωσε» τον Μητσοτάκη ως υπεύθυνο](https://www.documentonews.gr/article/skandalo-ypoklopon-o-adonis-paradexthike-tis-parakoloythiseis-kai-karfose-ton-mitsotaki-os-ypeythyno-video/)
