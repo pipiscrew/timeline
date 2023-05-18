@@ -45,7 +45,7 @@
 
 * [https://www.gov.gr/](https://www.gov.gr/)
 * [https://www.aade.gr/](https://www.aade.gr/)
-* [https://myaade.gov.gr/](https://myaade.gov.gr/) - `Τα αιτήματα μου`
+* [https://myaade.gov.gr/](https://myaade.gov.gr/) - `Τα αιτήματά μου`
 * Οδηγός του Πολίτη [https://1555.gov.gr/](https://1555.gov.gr/)
 * [e-EFKA](https://www.efka.gov.gr/el/yperesies-poy-parechontai-apokleistika-elektronika)
 
