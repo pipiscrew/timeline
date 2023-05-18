@@ -26,6 +26,7 @@
   * ΕΟΔΥ - [https://eody.gov.gr/](https://eody.gov.gr/) - Εθνικός Οργανισμός Δημόσιας Υγείας
   * Ελληνικό Ινστιτούτο Παστέρ - [https://www.pasteur.gr/](https://www.pasteur.gr/) - Διεθνές Κέντρο Βιοϊατρικής Έρευνας Με Κοινωνική Αποστολή
   * IIBEAA - [http://www.bioacademy.gr/](http://www.bioacademy.gr/) - Ίδρυμα Ιατροβιολογικών Ερευνών
+  * ΕΦΕΤ - [https://www.efet.gr/](https://www.efet.gr/) - Ενιαίος Φορέας Ελέγχου Τροφίμων
 * ΕΦΚΑ (όλες οι υπηρεσίες) - [https://www.efka.gov.gr/](https://www.efka.gov.gr/)  
   * Ένσημα στον ΕΦΚΑ - [https://www.efka.gov.gr/el/asphalismenoi/misthotoi/atomikos-logariasmos-asphalises](https://www.efka.gov.gr/el/asphalismenoi/misthotoi/atomikos-logariasmos-asphalises)​
   * Ένσημα στο σύστημα ΑΤΛΑΣ - [https://www.atlas.gov.gr/ATLAS/Atlas/Login.aspx](https://www.atlas.gov.gr/ATLAS/Atlas/Login.aspx) (1994 μέχρι και το πρώτο τρίμηνο του 2016) [more](https://www.ieidiseis.gr/oikonomia/197506/pos-vlepo-posa-einai-ta-ensima-mou-me-kodikoys-taxinet)​
@@ -51,6 +52,7 @@
 * Κινούμαι Ηλεκτρικά - [https://kinoumeilektrika.gov.gr/](https://kinoumeilektrika.gov.gr/) ή [https://kinoumeilektrika2.gov.gr/](https://kinoumeilektrika2.gov.gr/)  
 * Ταμείο Επικουρικής Κεφαλαιοποιητικής Ασφάλισης - [https://myteka.gov.gr/](https://myteka.gov.gr/) ή [https://teka.gov.gr/](https://teka.gov.gr/)
 * Επίθεώρηση Εργασίας - [https://www.hli.gov.gr/](https://www.hli.gov.gr/)
+* Υπουργείο Εργασίας - [https://ypergasias.gov.gr/](https://ypergasias.gov.gr/)
 * Υπουργείο Ανάπτυξης & Επενδύσεων - [https://www.mindev.gov.gr/](https://www.mindev.gov.gr/)
 * Υπουργείο Εθνικής Άμυνας - [https://www.stratologia.gr/](https://www.stratologia.gr/)
 * Υπουργείο Μετανάστευσης και Ασύλου - [https://migration.gov.gr/](https://migration.gov.gr/)
@@ -62,13 +64,16 @@
 * ΕΛΣΤΑΤ - [https://www.statistics.gr/](https://www.statistics.gr/) - Ελληνική Στατιστική Αρχή
 * ΕΚΚΕ - [https://www.ekke.gr/](https://www.ekke.gr/) - Εθνικό Κέντρο Κοινωνικών Ερευνών
 * EETT - [https://www.eett.gr/](https://www.eett.gr/) - Εθνική Επιτροπή Τηλεπικοινωνιών & Ταχυδρομείων
-  * [Συνήγορος του Πολίτη](https://www.gsis.gr/polites-epiheiriseis/stoiheia-politon-kai-ex-apostaseos-exypiretisi/mySynigoroslive)
+  * [Συνήγορος του Καταναλωτή](https://www.synigoroskatanaloti.gr/)
+    * [Ευρωπαϊκό Κέντρο Καταναλωτή](https://www.eccgreece.gr/)
+  * [Συνήγορος του Πολίτη](https://www.gsis.gr/polites-epiheiriseis/stoiheia-politon-kai-ex-apostaseos-exypiretisi/mySynigoroslive) ή [https://www.synigoros.gr/](https://www.synigoros.gr/)
 * OASA - [https://www.oasa.gr/](https://www.oasa.gr/)
   * Athena Card - [https://www.athenacard.gr](https://www.athenacard.gr)
   * Telematics - [https://telematics.oasa.gr/](https://telematics.oasa.gr/)
   * STASY (Statheres Sygkoinonies) - [https://stasy.gr](https://stasy.gr)
 * Ανοικτά δεδομένα - [https://data.gov.gr/](https://data.gov.gr/)
 * Αστυνομία - [https://www.astynomia.gr/](https://www.astynomia.gr/odigos-tou-politi/amesi-epikoinonia/) [[Καταγγελίες](https://www.gov.gr/org/astynomia/kataggelies)]
+  * [Διεύθυνση Δίωξης Ηλεκτρονικού Εγκλήματος](https://cyberalert.gr/)
 * e-katanalotis - [https://e-katanalotis.gov.gr/](https://e-katanalotis.gov.gr/)
 
 
