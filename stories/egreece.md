@@ -60,7 +60,7 @@
 * ΕΣΠΑ - [https://www.epiteliki-ergasias.gov.gr/](https://www.epiteliki-ergasias.gov.gr/)
 * ΟΠΕΚΑ - [https://opeka.gr](https://opeka.gr) - Οργανισμός Προνοιακών Επιδομάτων και Κοινωνικής Αλληλεγγύης
 * ΕΛΣΤΑΤ - [https://www.statistics.gr/](https://www.statistics.gr/) - Ελληνική Στατιστική Αρχή
-* ΕΚΚΕ - [https://www.ekke.gr/](https://www.ekke.gr/) - Ερευνητικό κέντρο που θεραπεύει τις κοινωνικές επιστήμες
+* ΕΚΚΕ - [https://www.ekke.gr/](https://www.ekke.gr/) - Εθνικό Κέντρο Κοινωνικών Ερευνών
 * EETT - [https://www.eett.gr/](https://www.eett.gr/) - Εθνική Επιτροπή Τηλεπικοινωνιών & Ταχυδρομείων
   * [Συνήγορος του Πολίτη](https://www.gsis.gr/polites-epiheiriseis/stoiheia-politon-kai-ex-apostaseos-exypiretisi/mySynigoroslive)
 * OASA - [https://www.oasa.gr/](https://www.oasa.gr/)
