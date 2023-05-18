@@ -1,3 +1,5 @@
+# Only digitally yours!
+
 * [TaxisNET](https://www.gsis.gr/)
   * `Ραντεβού` - [https://www1.aade.gr/saadekef/gappointments](https://www1.aade.gr/saadekef/gappointments)
 * Υπεύθυνη Δήλωση, Εξουσιοδότηση, `Ψηφιακή Βεβαίωση Εγγράφου` κτλ. - [https://docs.gov.gr/](https://docs.gov.gr/) \[[2](https://www.gov.gr/ipiresies/polites-kai-kathemerinoteta/psephiaka-eggrapha-gov-gr/psephiake-bebaiose-eggraphou)\]  
@@ -32,10 +34,7 @@
 * myErgani - [https://myergani.gov.gr](https://myergani.gov.gr) ή [https://eservices.yeka.gr](https://eservices.yeka.gr)
 * ΟΑΕΔ / ΔΥΠΑ - [https://eservices.oaed.gr/pls/apex/](https://eservices.oaed.gr/pls/apex/) - [https://www.dypa.gov.gr/](https://www.dypa.gov.gr/)  
 * ΑΣΕΠ - [https://www.asep.gr/asep/login/login.jsp](https://www.asep.gr/asep/login/login.jsp)  
-* MarketPass - [https://vouchers.gov.gr/](https://vouchers.gov.gr/)  
 * MyEyathPortal - [https://portal.eyath.gr](https://portal.eyath.gr) - μπορεί κανείς να δηλώνει όλες τις βλάβες ύδρευσης – αποχέτευσης [more](https://www.grtimes.gr/ellada/nees-e-ypiresies-apo-tin-eyath-sto-myeyathportal)  
-* Αλλάζω Θερμοσίφωνα - [https://allazothermosifona.gov.gr/](https://allazothermosifona.gov.gr/)  
-* Αλλάζω Συσκευή - [https://allazosyskevi.gov.gr/](https://allazosyskevi.gov.gr/)  
 * Δικαστηρίων - ΟΣΔΔΥ - [https://www.solon.gov.gr/webcenter/portal/osddy](https://www.solon.gov.gr/webcenter/portal/osddy)  
 * Εθνικό Ποινικό Μητρώο - [https://www.ncris.gov.gr/](https://www.ncris.gov.gr/)  
 * Γενικό Εμπορικό Μητρώο - [https://services.businessportal.gr/welcome/loginForm](https://services.businessportal.gr/welcome/loginForm) 
@@ -43,11 +42,9 @@
 * Κτηματολόγιο - [https://ktimatologio.gov.gr/](https://ktimatologio.gov.gr/) ή [https://www.ktimanet.gr/Declaration/](https://www.ktimanet.gr/Declaration/)  
   * Θέαση - [https://maps.gov.gr/gis/map/](https://maps.gov.gr/gis/map/)​
 * Ermis - [http://www.ermis.gov.gr/](http://www.ermis.gov.gr/)  
-* Εξοικονομώ 2021 - [https://exoikonomo2021.gov.gr/](https://exoikonomo2021.gov.gr/)  
 * Απόδημοι - Αιτήσεις Εκλογέων Εξωτερικού - [https://apodimoi.gov.gr/](https://apodimoi.gov.gr/)  
   * Εκλογικοί Κατάλογοι Ετεροδημοτών - [https://aitiseis.eterodimotes.gov.gr/](https://aitiseis.eterodimotes.gov.gr/) 
   * Μάθε που ψηφίζεις - [https://mpp.ypes.gov.gr/](https://mpp.ypes.gov.gr/)
-* Κινούμαι Ηλεκτρικά - [https://kinoumeilektrika.gov.gr/](https://kinoumeilektrika.gov.gr/) ή [https://kinoumeilektrika2.gov.gr/](https://kinoumeilektrika2.gov.gr/)  
 * Ταμείο Επικουρικής Κεφαλαιοποιητικής Ασφάλισης - [https://myteka.gov.gr/](https://myteka.gov.gr/) ή [https://teka.gov.gr/](https://teka.gov.gr/)
 * Επίθεώρηση Εργασίας - [https://www.hli.gov.gr/](https://www.hli.gov.gr/)
 * Υπουργείο Εργασίας - [https://ypergasias.gov.gr/](https://ypergasias.gov.gr/)
@@ -69,11 +66,15 @@
   * Athena Card - [https://www.athenacard.gr](https://www.athenacard.gr)
   * Telematics - [https://telematics.oasa.gr/](https://telematics.oasa.gr/)
   * STASY (Statheres Sygkoinonies) - [https://stasy.gr](https://stasy.gr)
-* Ανοικτά δεδομένα - [https://data.gov.gr/](https://data.gov.gr/)
 * Αστυνομία - [https://www.astynomia.gr/](https://www.astynomia.gr/odigos-tou-politi/amesi-epikoinonia/) &nbsp; [[Καταγγελίες](https://www.gov.gr/org/astynomia/kataggelies)]
   * Διεύθυνση Δίωξης Ηλεκτρονικού Εγκλήματος - [https://cyberalert.gr/](https://cyberalert.gr/)
+* Ανοικτά δεδομένα - [https://data.gov.gr/](https://data.gov.gr/)
 * e-katanalotis - [https://e-katanalotis.gov.gr/](https://e-katanalotis.gov.gr/)
-
+  * MarketPass - [https://vouchers.gov.gr/](https://vouchers.gov.gr/)  
+  * Αλλάζω Θερμοσίφωνα - [https://allazothermosifona.gov.gr/](https://allazothermosifona.gov.gr/)  
+  * Αλλάζω Συσκευή - [https://allazosyskevi.gov.gr/](https://allazosyskevi.gov.gr/)  
+  * Εξοικονομώ 2021 - [https://exoikonomo2021.gov.gr/](https://exoikonomo2021.gov.gr/)  
+  * Κινούμαι Ηλεκτρικά - [https://kinoumeilektrika.gov.gr/](https://kinoumeilektrika.gov.gr/) ή [https://kinoumeilektrika2.gov.gr/](https://kinoumeilektrika2.gov.gr/)  
 
 ---
   
