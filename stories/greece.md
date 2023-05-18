@@ -16,7 +16,7 @@
   * [ΣΥΡΙΖΑ - Ενεργοποιεί μηχανισμό συλλογής και επαλήθευσης των αποτελεσμάτων των εκλογών](https://www.businessnews.gr/politiki/item/264099-syriza-energopoiei-mixanismo-syllogis-kai-epalithefsis-ton-apotelesmaton-ton-eklogon)
   * [Και ξαφνικά, ο ΣΥΡΙΖΑ...](https://attikanea.info/%CE%BA%CE%B1%CE%B9-%CE%BE%CE%B1%CF%86%CE%BD%CE%B9%CE%BA%CE%AC-%CE%BF-%CF%83%CF%85%CF%81%CE%B9%CE%B6%CE%B1-%CE%B1%CE%BD%CE%B1%CE%BA%CE%B1%CE%BB%CF%85%CF%88%CE%B5-%CF%84%CE%B7-%CE%B4%CE%B5%CE%B4%CE%BF/)
 * [Φυτοφάρμακα - Είναι απαγορευμένα και τοξικά, αλλά τα… εξάγουμε](https://www.kathimerini.gr/society/562425775/fytofarmaka-einai-apagoreymena-kai-toxika-alla-ta-exagoyme/)
-* [Η Ελλάδα στις κάλπες - 7 Ιουλίου 2019 - Η ΝΔ στον δρόμο για την επιστροφή στην εξουσία](https://www.kathimerini.gr/istoria/562414711/i-ellada-stis-kalpes-7-ioylioy-2019-i-n-d-ston-dromo-gia-tin-epistrofi-stin-exoysia/)
+* [⚡ Kathimerini presents - Η Ελλάδα στις κάλπες - 7 Ιουλίου 2019 - Η ΝΔ στον δρόμο για την επιστροφή στην εξουσία](https://www.kathimerini.gr/istoria/562414711/i-ellada-stis-kalpes-7-ioylioy-2019-i-n-d-ston-dromo-gia-tin-epistrofi-stin-exoysia/)
   * [20 Σεπτεμβρίου 2015 - Το «παλιό» και το «νέο»](https://www.kathimerini.gr/istoria/562414552/i-ellada-stis-kalpes-20-septemvrioy-2015-to-palio-kai-to-neo/)
     * [25 Ιανουαρίου 2015 - Η Αριστερά στον δρόμο προς την εξουσία](https://www.kathimerini.gr/istoria/562414399/i-ellada-stis-kalpes-25-ianoyarioy-2015-i-aristera-ston-dromo-pros-tin-exoysia/)
   * [17 Ιουνίου 2012 - Η γέννηση ενός νέου διπολισμού](https://www.kathimerini.gr/istoria/562414225/i-ellada-stis-kalpes-17-ioynioy-2012-i-gennisi-enos-neoy-dipolismoy/)
