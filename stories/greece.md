@@ -1,5 +1,26 @@
 <input id="txtSearch" onkeypress="SearchList(event);" class="ceME" placeholder="press enter to search">
 
+## 18/05/2023
+* [Τη δική του «Singular Logic» στήνει ο ΣΥΡΙΖΑ για τα εκλογικά αποτελέσματα](https://www.ieidiseis.gr/politiki/198427/ti-diki-tou-singular-logic-stinei-o-syriza-gia-ta-eklogika-apotelesmata)
+* [Φυτοφάρμακα - Είναι απαγορευμένα και τοξικά, αλλά τα… εξάγουμε](https://www.kathimerini.gr/society/562425775/fytofarmaka-einai-apagoreymena-kai-toxika-alla-ta-exagoyme/)
+* [Η Ελλάδα στις κάλπες - 7 Ιουλίου 2019 - Η ΝΔ στον δρόμο για την επιστροφή στην εξουσία](https://www.kathimerini.gr/istoria/562414711/i-ellada-stis-kalpes-7-ioylioy-2019-i-n-d-ston-dromo-gia-tin-epistrofi-stin-exoysia/)
+  * [20 Σεπτεμβρίου 2015 - Το «παλιό» και το «νέο»](https://www.kathimerini.gr/istoria/562414552/i-ellada-stis-kalpes-20-septemvrioy-2015-to-palio-kai-to-neo/)
+    * [25 Ιανουαρίου 2015 - Η Αριστερά στον δρόμο προς την εξουσία](https://www.kathimerini.gr/istoria/562414399/i-ellada-stis-kalpes-25-ianoyarioy-2015-i-aristera-ston-dromo-pros-tin-exoysia/)
+  * [17 Ιουνίου 2012 - Η γέννηση ενός νέου διπολισμού](https://www.kathimerini.gr/istoria/562414225/i-ellada-stis-kalpes-17-ioynioy-2012-i-gennisi-enos-neoy-dipolismoy/)
+    * [6 Mαΐου 2012 - Η σύγκρουση «μνημόνιο - αντιμνημόνιο»](https://www.kathimerini.gr/istoria/562412659/i-ellada-stis-kalpes-6-ma-oy-2012-i-sygkroysi-mnimonio-antimnimonio/)
+  * [4 Οκτωβρίου 2009 - «Δύο δύσκολα χρόνια» ή «Ένα καλύτερο μέλλον»;](https://www.kathimerini.gr/istoria/562412389/i-ellada-stis-kalpes-4-oktovrioy-2009-dyo-dyskola-chronia-i-ena-kalytero-mellon/)
+  * [16 Σεπτεμβρίου 2007 - Αναμέτρηση με φόντο τα πύρινα μέτωπα](https://www.kathimerini.gr/istoria/562412191/i-ellada-stis-kalpes-16-septemvrioy-2007-anametrisi-me-fonto-ta-pyrina-metopa/)
+  * [7 Μαρτίου 2004 - Ένας Καραμανλής και ένας Παπανδρέου ξανά αντιμέτωποι σε εκλογές](https://www.kathimerini.gr/istoria/562410481/i-ellada-stis-kalpes-7-martioy-2004-enas-karamanlis-kai-enas-papandreoy-xana-antimetopoi-se-ekloges/)
+  * [9 Απριλίου 2000 - «Το μεγάλο ντέρμπι» με το Χρηματιστήριο στα ύψη](https://www.kathimerini.gr/istoria/562410259/i-ellada-stis-kalpes-9-aprilioy-2000-to-megalo-ntermpi-me-to-chrimatistirio-sta-ypsi/)
+  * [22 Σεπτεμβρίου 1996 - «Οι εκλογές του καναπέ»](https://www.kathimerini.gr/istoria/562410139/i-ellada-stis-kalpes-22-septemvrioy-1996-oi-ekloges-toy-kanape/)
+  * [10 Οκτωβρίου 1993 - Από το «Σκοπιανό» στην επιστροφή του Α, Παπανδρέου στην εξουσία](https://www.kathimerini.gr/istoria/562404079/i-ellada-stis-kalpes-10-oktovrioy-1993-apo-to-skopiano-stin-epistrofi-toy-a-papandreoy-stin-exoysia/)
+  * [8 Απριλίου 1990 - ΝΔ - Με στόχο την πολυπόθητη αυτοδυναμία](https://www.kathimerini.gr/istoria/562403890/i-ellada-stis-kalpes-8-aprilioy-1990-n-d-me-stocho-tin-polypothiti-aytodynamia/)
+  * [18 Ιουνίου 1989 - Με αίτημα την «κάθαρση»](https://www.kathimerini.gr/istoria/562403686/i-ellada-stis-kalpes-18-ioynioy-1989-me-aitima-tin-katharsi/)
+  * [2 Ιουνίου 1985 - Αναμέτρηση σε κλίμα πρωτοφανούς πόλωσης](https://www.kathimerini.gr/istoria/562402033/na-min-dimosieytei-i-ellada-stis-kalpes-2-ioynioy-1985-anametrisi-se-klima-protofanoys-polosis/)
+  * [18 Οκτωβρίου 1981 - Ο Α. Παπανδρέου και το «ραντεβού με την Ιστορία»](https://www.kathimerini.gr/istoria/562401907/na-min-dimosieytei-i-ellada-stis-kalpes-18-oktovrioy-1981-o-a-papandreoy-kai-to-rantevoy-me-tin-istoria/)
+  * [20 Νοεμβρίου 1977 - Ο Κων. Καραμανλής απέναντι στο αίτημα της «αλλαγής»](https://www.kathimerini.gr/istoria/562400005/na-min-dimosieytei-i-ellada-stis-kalpes-20-noemvrioy-1977-o-kon-karamanlis-apenanti-sto-aitima-tis-allagis/)
+  * [17 Νοεμβρίου 1974 - «Καραμανλής ή τανκς»](https://www.kathimerini.gr/istoria/562398301/na-min-dimosieytei-i-ellada-stis-kalpes-17-noemvrioy-1974-karamanlis-i-tanks/)
+
 ## 17/05/2023
 * [Τσεχία - Η Πράγα ακυρώνει συμφωνίες της σοβιετικής περιόδου που επέτρεπαν τη δωρεάν χρήση γης από τη Ρωσία](https://www.kathimerini.gr/world/562425598/tsechia-i-praga-akyronei-symfonies-tis-sovietikis-periodoy-poy-epetrepan-ti-dorean-chrisi-gis-apo-ti-rosia/)
 * [🎬 Mission Impossible 7](https://www.kathimerini.gr/culture/cinema/562425157/mission-impossible-7-sto-neo-treiler-o-tom-kroyz-riskarei-ti-zoi-toy-xana-kai-xana/)
