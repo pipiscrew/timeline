@@ -64,16 +64,16 @@
 * ΕΛΣΤΑΤ - [https://www.statistics.gr/](https://www.statistics.gr/) - Ελληνική Στατιστική Αρχή
 * ΕΚΚΕ - [https://www.ekke.gr/](https://www.ekke.gr/) - Εθνικό Κέντρο Κοινωνικών Ερευνών
 * EETT - [https://www.eett.gr/](https://www.eett.gr/) - Εθνική Επιτροπή Τηλεπικοινωνιών & Ταχυδρομείων
-  * [Συνήγορος του Καταναλωτή](https://www.synigoroskatanaloti.gr/)
-    * [Ευρωπαϊκό Κέντρο Καταναλωτή](https://www.eccgreece.gr/)
-  * [Συνήγορος του Πολίτη](https://www.gsis.gr/polites-epiheiriseis/stoiheia-politon-kai-ex-apostaseos-exypiretisi/mySynigoroslive) ή [https://www.synigoros.gr/](https://www.synigoros.gr/)
+  * Συνήγορος του Καταναλωτή - [https://www.synigoroskatanaloti.gr/](https://www.synigoroskatanaloti.gr/)
+    * Ευρωπαϊκό Κέντρο Καταναλωτή - [https://www.eccgreece.gr/](https://www.eccgreece.gr/)
+  * Συνήγορος του Πολίτη - [https://www.synigoros.gr/](https://www.synigoros.gr/) [[2](https://www.gsis.gr/polites-epiheiriseis/stoiheia-politon-kai-ex-apostaseos-exypiretisi/mySynigoroslive)]
 * OASA - [https://www.oasa.gr/](https://www.oasa.gr/)
   * Athena Card - [https://www.athenacard.gr](https://www.athenacard.gr)
   * Telematics - [https://telematics.oasa.gr/](https://telematics.oasa.gr/)
   * STASY (Statheres Sygkoinonies) - [https://stasy.gr](https://stasy.gr)
 * Ανοικτά δεδομένα - [https://data.gov.gr/](https://data.gov.gr/)
 * Αστυνομία - [https://www.astynomia.gr/](https://www.astynomia.gr/odigos-tou-politi/amesi-epikoinonia/) &nbsp; [[Καταγγελίες](https://www.gov.gr/org/astynomia/kataggelies)]
-  * [Διεύθυνση Δίωξης Ηλεκτρονικού Εγκλήματος](https://cyberalert.gr/)
+  * Διεύθυνση Δίωξης Ηλεκτρονικού Εγκλήματος - [https://cyberalert.gr/](https://cyberalert.gr/)
 * e-katanalotis - [https://e-katanalotis.gov.gr/](https://e-katanalotis.gov.gr/)
 
 
