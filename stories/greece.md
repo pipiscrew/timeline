@@ -1,8 +1,13 @@
 <input id="txtSearch" onkeypress="SearchList(event);" class="ceME" placeholder="press enter to search">
 
 ## 19/05/2023
+* [Της είπε να σταματήσει να πίνει και του… έχωσε μπουκέτο - Συνελήφθη 33χρονη](https://www.makeleio.gr/%ce%b5%cf%80%ce%b9%ce%ba%ce%b1%ce%b9%cf%81%ce%bf%cf%84%ce%b7%cf%84%ce%b1/%ce%a4%ce%b7%cf%82-%ce%b5%ce%af%cf%80%ce%b5-%ce%bd%ce%b1-%cf%83%cf%84%ce%b1%ce%bc%ce%b1%cf%84%ce%ae%cf%83%ce%b5%ce%b9-%ce%bd%ce%b1-%cf%80%ce%af%ce%bd%ce%b5%ce%b9-%ce%ba%ce%b1%ce%b9-%cf%84%ce%bf%cf%85/)
+* [Hyundai Pony - Επιστρέφει δριμύτερο μετά από 50 χρόνια στην Ιταλία](https://www.ieidiseis.gr/auto-moto/198623/hyundai-pony-epistrefei-drimytero-meta-apo-50-xronia-stin-italia)
+* [Wall Street Journal - για Μητσοτάκη - Οι υποκλοπές, το κράτος δικαίου και η ελευθερία του Τύπου](https://www.documentonews.gr/article/wall-street-journal-arthro-kolafos-gia-mitsotaki-oi-ypoklopes-to-kratos-dikaioy-kai-i-eleytheria-toy-typoy/)
+* [New York Times - Η Ελλάδα υποστηρίζει ότι δεν πετάει μετανάστες στη θάλασσα αλλά πιάστηκε επ’ αυτοφώρω](https://www.documentonews.gr/article/apokalypsi-new-york-times-h-ellada-ypostirizei-oti-den-petaei-metanastes-sti-thalassa-alla-piastike-ep-aytoforo/)
 * [Κως - Στο εδώλιο του Εφετείου στρατιωτικός που κατηγορείται για πλαστογραφία σε βάρος του Δημοσίου](https://www.dikastiko.gr/eidhsh/kos-sto-edolio-toy-efeteioy-stratiotikos-poy-katigoreitai-gia-plastografia-se-varos-toy-dimosioy/)
 * [🎬 Nikos Antoniadis - Η Καταντια Των Ολιγων Εισαγγελεων](hhttps://youtu.be/aLGYKVqPsnU)
+  * [Δεν ντρέπεσαι καθόλου, αντεισαγγελίσκε](https://nikosantoniadis.tv/2023/05/19/%ce%bf%ce%b9-%ce%b1%cf%87%cf%81%ce%b5%ce%b9%ce%bf%ce%b9-%cf%84%ce%bf%cf%85-%ce%ba%cf%84%ce%b9%cf%81%ce%b9%ce%bf%cf%85-16/)
 * [Agrolact.OMHROS Dairy Industry - Εξαγόρασε από τη ΔΕΛΤΑ εγκατάσταση σταθμού γάλακτος](https://www.businessnews.gr/epixeiriseis/item/264174-omiros-eksagorase-apo-ti-delta-egkatastasi-stathmoy-galaktos-sti-sidyni-ksanthis)
 * [Πως η Αποχη, Θα Σωσει Την Ελλαδα](https://attikanea.info/s-o-s-%CE%B5%CE%BA%CE%BB%CE%BF%CE%B3%CE%B5%CF%83-2023-%CF%8C%CE%BB%CE%B1-%CE%B5%CE%AF%CE%BD%CE%B1%CE%B9-%CF%83%CF%84%CE%B7%CE%BC%CE%AD%CE%BD%CE%B1-%CE%BA%CE%B9-%CE%B1%CF%80%CE%BB%CE%AC/) [[2](https://panagiotistraianou.substack.com/p/0a7)]
   * [Παρέμβαση Στέιτ Ντιπάρτμεντ στις εκλογές](https://www.newsbreak.gr/politiki/469113/aggeliaforos-kyriakos-prothymos-alexis-paremvasi-steit-ntipartment-ekloges/)
@@ -13,6 +18,7 @@
 * [Η «μεγάλη κούρσα» διαδοχής για τον κολοσσό της BlackRock](https://www.kathimerini.gr/economy/562426267/i-megali-koyrsa-diadochis-gia-ton-kolosso-tis-blackrock/)
 * [🎬 2016 - YOLO υποψήφιος φοιτητής](https://www.youtube.com/watch?v=mTRs89ZAMgU)
   * [Οτινάναι - πανελλήνιες](https://youtu.be/0kUz5O7j5c8?t=204)
+* [Μακαρονάδα με σπαράγγια](https://www.gastronomos.gr/syntagh/makaronada-me-sparaggia/51326/)
 
 ## 18/05/2023
 * [🎬 Αλέξης Τσίπρας - στο Σύνταγμα](https://www.facebook.com/tsiprasalexis/videos/607334911342633)
