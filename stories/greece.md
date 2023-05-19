@@ -4,10 +4,11 @@
 * [Agrolact.OMHROS Dairy Industry - Εξαγόρασε από τη ΔΕΛΤΑ εγκατάσταση σταθμού γάλακτος](https://www.businessnews.gr/epixeiriseis/item/264174-omiros-eksagorase-apo-ti-delta-egkatastasi-stathmoy-galaktos-sti-sidyni-ksanthis)
 * [Πως η Αποχη, Θα Σωσει Την Ελλαδα](https://attikanea.info/s-o-s-%CE%B5%CE%BA%CE%BB%CE%BF%CE%B3%CE%B5%CF%83-2023-%CF%8C%CE%BB%CE%B1-%CE%B5%CE%AF%CE%BD%CE%B1%CE%B9-%CF%83%CF%84%CE%B7%CE%BC%CE%AD%CE%BD%CE%B1-%CE%BA%CE%B9-%CE%B1%CF%80%CE%BB%CE%AC/) [[2](https://panagiotistraianou.substack.com/p/0a7)]
   * [Παρέμβαση Στέιτ Ντιπάρτμεντ στις εκλογές](https://www.newsbreak.gr/politiki/469113/aggeliaforos-kyriakos-prothymos-alexis-paremvasi-steit-ntipartment-ekloges/)
-* [🎬 Κυριάκος Μητσοτάκης - στον ΣΚΑΪ](https://www.facebook.com/kyriakosmitsotakis/videos/6398755866849754/)
+* [🎬 Αλέξης Τσίπρας - στον ΣΚΑΪ στην εκπομπή της Σκορδά](https://www.facebook.com/tsiprasalexis/videos/636283741685797)
+* [🎬 Κυριάκος Μητσοτάκης - στον ΣΚΑΪ στην εκπομπή «Σήμερα»](https://www.facebook.com/kyriakosmitsotakis/videos/6398755866849754/)
 * [Χαλάνδρι -  καταδίωξη δύο αυτοκινήτων που δεν σταμάτησαν για έλεγχο](https://www.documentonews.gr/article/xalandri-kinimatografiki-katadioxi-dyo-aytokiniton-poy-den-stamatisan-gia-elegxo-treis-prosagoges-video/)
 * [Η «μεγάλη κούρσα» διαδοχής για τον κολοσσό της BlackRock](https://www.kathimerini.gr/economy/562426267/i-megali-koyrsa-diadochis-gia-ton-kolosso-tis-blackrock/)
-* [2016 - YOLO υποψήφιος φοιτητής](https://www.youtube.com/watch?v=mTRs89ZAMgU)
+* [🎬 2016 - YOLO υποψήφιος φοιτητής](https://www.youtube.com/watch?v=mTRs89ZAMgU)
   * [Οτινάναι - πανελλήνιες](https://youtu.be/0kUz5O7j5c8?t=204)
 
 ## 18/05/2023
