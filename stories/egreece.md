@@ -116,6 +116,6 @@
   * [Υπουργείο Υποδομών και Μεταφορών](https://www.gov.gr/upourgeia/upourgeio-upodomon-kai-metaphoron)
   * [Υπουργείο Ψηφιακής Διακυβέρνησης](https://www.gov.gr/upourgeia/upourgeio-psephiakes-diakuberneses)
 
-  ---
+---
 
-  * [Σε ριζικό λίφτινγκ στα πληροφοριακά συστήματα Τaxis, Taxisnet και Elenxis προχωρά η ΑΑΔΕ](https://www.dikaiologitika.gr/eidhseis/oikonomia/429537/aade-erxetai-neo-taxisnet-ti-allazei)
+  * [19/05/2023] [Σε ριζικό λίφτινγκ στα πληροφοριακά συστήματα Τaxis, Taxisnet και Elenxis προχωρά η ΑΑΔΕ](https://www.dikaiologitika.gr/eidhseis/oikonomia/429537/aade-erxetai-neo-taxisnet-ti-allazei)
