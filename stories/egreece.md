@@ -1,8 +1,7 @@
 # Only digitally yours!
 
 * [TaxisNET](https://www.gsis.gr/)
-  * `Αίτημα` - [https://myaade.gov.gr/](https://myaade.gov.gr/)
-  * `Ραντεβού` - [https://www1.aade.gr/saadekef/gappointments](https://www1.aade.gr/saadekef/gappointments)
+  * Αιτήματα και Ραντεβού - [https://myaade.gov.gr/](https://myaade.gov.gr/) [[2](https://www1.aade.gr/saadekef/gappointmentι)]
 * Υπεύθυνη Δήλωση, Εξουσιοδότηση, `Ψηφιακή Βεβαίωση Εγγράφου` κτλ. - [https://docs.gov.gr/](https://docs.gov.gr/) \[[2](https://www.gov.gr/ipiresies/polites-kai-kathemerinoteta/psephiaka-eggrapha-gov-gr/psephiake-bebaiose-eggraphou)\]  
   * Ιστορικό εγγράφων (Θυρίδα πολίτη) - [https://my.gov.gr/](https://my.gov.gr/)  
 * Wallet (όλα τα δημόσια έγγραφα στο κινητό σας) - [https://wallet.gov.gr/](https://wallet.gov.gr/)  
