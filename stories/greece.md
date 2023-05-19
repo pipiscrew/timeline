@@ -2,9 +2,13 @@
 
 ## 19/05/2023
 * [Εκλογες 2023 - Μετα Τον Κασιδιαρη Δινει Γραμμη Και Ο Μπαρμπαρουσης](https://www.makeleio.gr/%ce%b5%cf%80%ce%b9%ce%ba%ce%b1%ce%b9%cf%81%ce%bf%cf%84%ce%b7%cf%84%ce%b1/%ce%95%ce%9a%ce%9b%ce%9f%ce%93%ce%95%ce%a3-2023-%ce%9c%ce%95%ce%a4%ce%91-%ce%a4%ce%9f%ce%9d-%ce%9a%ce%91%ce%a3%ce%99%ce%94%ce%99%ce%91%ce%a1%ce%97-%ce%94%ce%99%ce%9d%ce%95%ce%99-%ce%93%ce%a1%ce%91/)
+  * ⚡ [🎬 Ν. Καραχάλιος - θα πρέπει να ψηφίσουν μεγάλα κόμματα και στατιστικά](https://youtu.be/o_Yd-Gsw3pY?t=1574)
   * [Πάνω από 10,000 αιωνόβιοι μεταξύ 110 και 116 ετών βρίσκονται στους εκλογικούς καταλόγους](https://www.makeleio.gr/%ce%b5%cf%80%ce%b9%ce%ba%ce%b1%ce%b9%cf%81%ce%bf%cf%84%ce%b7%cf%84%ce%b1/%ce%95%ce%ba%ce%bb%ce%bf%ce%b3%ce%ad%cf%82-2023-%ce%a0%ce%ac%ce%bd%cf%89-%ce%b1%cf%80%cf%8c-10-000-%ce%b1%ce%b9%cf%89%ce%bd%cf%8c%ce%b2%ce%b9%ce%bf%ce%b9-%ce%bc%ce%b5%cf%84%ce%b1%ce%be%cf%8d-110/)
   * [DJ - Πόσο κοστίζουν οι κάλπες 2023](https://www.datajournalists.co.uk/2023/05/19/poso-kostizoyn-oi-kalpes-2023/)
   * [Ψηφίζουν το Σάββατο οι Έλληνες του εξωτερικού](https://www.businessnews.gr/politiki/item/264208-psifizoun-to-savvato-oi-ellines-tou-eksoterikoy)
+  * [Παρέμβαση Στέιτ Ντιπάρτμεντ στις εκλογές](https://www.newsbreak.gr/politiki/469113/aggeliaforos-kyriakos-prothymos-alexis-paremvasi-steit-ntipartment-ekloges/)
+  * [🎬 Συγκλονιστικές αποκαλύψεις του Ν. Καραχάλιου για το λογισμικό της Singular Logic](https://www.youtube.com/watch?v=1d2_yOJWWW0)
+  * ?? [Πως η Αποχη, Θα Σωσει Την Ελλαδα](https://attikanea.info/s-o-s-%CE%B5%CE%BA%CE%BB%CE%BF%CE%B3%CE%B5%CF%83-2023-%CF%8C%CE%BB%CE%B1-%CE%B5%CE%AF%CE%BD%CE%B1%CE%B9-%CF%83%CF%84%CE%B7%CE%BC%CE%AD%CE%BD%CE%B1-%CE%BA%CE%B9-%CE%B1%CF%80%CE%BB%CE%AC/) [[2](https://panagiotistraianou.substack.com/p/0a7)]
 * [Βρετανία - Παραιτείται ο πρόεδρος των Tesco έπειτα από τις καταγγελίες για σεξουαλική παρενόχληση](https://www.documentonews.gr/article/vretania-paraiteitai-o-proedros-ton-tesco-epeita-apo-tis-kataggelies-gia-sexoyaliki-parenoxlisi/)
 * [🎬 Δημήτρης Κουτσούμπας - στον Πειραιά](https://youtu.be/gydccTovbc8)
 * [🎬 Κυριάκος Μητσοτάκης - στο Θησείο](https://youtu.be/TvdWX34u1tg)
@@ -19,9 +23,6 @@
 * [🎬 Nikos Antoniadis - Η Καταντια Των Ολιγων Εισαγγελεων](hhttps://youtu.be/aLGYKVqPsnU)
   * [Δεν ντρέπεσαι καθόλου, αντεισαγγελίσκε](https://nikosantoniadis.tv/2023/05/19/%ce%bf%ce%b9-%ce%b1%cf%87%cf%81%ce%b5%ce%b9%ce%bf%ce%b9-%cf%84%ce%bf%cf%85-%ce%ba%cf%84%ce%b9%cf%81%ce%b9%ce%bf%cf%85-16/)
 * [Agrolact.OMHROS Dairy Industry - Εξαγόρασε από τη ΔΕΛΤΑ εγκατάσταση σταθμού γάλακτος](https://www.businessnews.gr/epixeiriseis/item/264174-omiros-eksagorase-apo-ti-delta-egkatastasi-stathmoy-galaktos-sti-sidyni-ksanthis)
-* [Πως η Αποχη, Θα Σωσει Την Ελλαδα](https://attikanea.info/s-o-s-%CE%B5%CE%BA%CE%BB%CE%BF%CE%B3%CE%B5%CF%83-2023-%CF%8C%CE%BB%CE%B1-%CE%B5%CE%AF%CE%BD%CE%B1%CE%B9-%CF%83%CF%84%CE%B7%CE%BC%CE%AD%CE%BD%CE%B1-%CE%BA%CE%B9-%CE%B1%CF%80%CE%BB%CE%AC/) [[2](https://panagiotistraianou.substack.com/p/0a7)]
-  * [Παρέμβαση Στέιτ Ντιπάρτμεντ στις εκλογές](https://www.newsbreak.gr/politiki/469113/aggeliaforos-kyriakos-prothymos-alexis-paremvasi-steit-ntipartment-ekloges/)
-  * [🎬 Συγκλονιστικές αποκαλύψεις του Ν. Καραχάλιου για το λογισμικό της Singular Logic](https://www.youtube.com/watch?v=1d2_yOJWWW0)
 * [🎬 Αλέξης Τσίπρας - στον ΣΚΑΪ στην εκπομπή της Σκορδά](https://www.facebook.com/tsiprasalexis/videos/636283741685797)
 * [🎬 Κυριάκος Μητσοτάκης - στον ΣΚΑΪ στην εκπομπή «Σήμερα»](https://www.facebook.com/kyriakosmitsotakis/videos/6398755866849754/)
 * [Χαλάνδρι -  καταδίωξη δύο αυτοκινήτων που δεν σταμάτησαν για έλεγχο](https://www.documentonews.gr/article/xalandri-kinimatografiki-katadioxi-dyo-aytokiniton-poy-den-stamatisan-gia-elegxo-treis-prosagoges-video/)
