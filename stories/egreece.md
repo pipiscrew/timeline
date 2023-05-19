@@ -27,6 +27,7 @@
   * IIBEAA - [http://www.bioacademy.gr/](http://www.bioacademy.gr/) - Ίδρυμα Ιατροβιολογικών Ερευνών
   * ΕΦΕΤ - [https://www.efet.gr/](https://www.efet.gr/) - Ενιαίος Φορέας Ελέγχου Τροφίμων
   * Επίδομα Γέννησης - [https://www.epidomagennisis.gr/](https://www.epidomagennisis.gr/)  
+  * [Καταγγελία Περιστατικού στην διεύθυνση Εσωτερικών Υποθέσεων της Ελληνικής Αστυνομίας](https://www.astynomia.gr/elliniki-astynomia/eidikes-ypiresies/diefthynsi-esoterikon-ypotheseon-d-e-y/)
 * ΕΦΚΑ (όλες οι υπηρεσίες) - [https://www.efka.gov.gr/](https://www.efka.gov.gr/)  
   * Ένσημα στον ΕΦΚΑ - [https://www.efka.gov.gr/el/asphalismenoi/misthotoi/atomikos-logariasmos-asphalises](https://www.efka.gov.gr/el/asphalismenoi/misthotoi/atomikos-logariasmos-asphalises)​
   * Ένσημα στο σύστημα ΑΤΛΑΣ - [https://www.atlas.gov.gr/ATLAS/Atlas/Login.aspx](https://www.atlas.gov.gr/ATLAS/Atlas/Login.aspx) (1994 μέχρι και το πρώτο τρίμηνο του 2016) [more](https://www.ieidiseis.gr/oikonomia/197506/pos-vlepo-posa-einai-ta-ensima-mou-me-kodikoys-taxinet)​
