@@ -39,6 +39,8 @@
 * Εθνικό Ποινικό Μητρώο - [https://www.ncris.gov.gr/](https://www.ncris.gov.gr/)  
 * Γενικό Εμπορικό Μητρώο - [https://services.businessportal.gr/welcome/loginForm](https://services.businessportal.gr/welcome/loginForm) 
 * Απογραφή - [https://hr.apografi.gov.gr/login](https://hr.apografi.gov.gr/login)  
+* myPROPERTY - [https://myproperty.aade.gov.gr/](https://myproperty.aade.gov.gr/)
+* my Digital Accounting and Tax Application - [https://www.aade.gr/mydata](https://www.aade.gr/mydata)
 * Κτηματολόγιο - [https://ktimatologio.gov.gr/](https://ktimatologio.gov.gr/) ή [https://www.ktimanet.gr/Declaration/](https://www.ktimanet.gr/Declaration/)  
   * Θέαση - [https://maps.gov.gr/gis/map/](https://maps.gov.gr/gis/map/)​
 * Ermis - [http://www.ermis.gov.gr/](http://www.ermis.gov.gr/)  
@@ -113,3 +115,7 @@
   * [Υπουργείο Υγείας](https://www.gov.gr/upourgeia/upourgeio-ugeias)
   * [Υπουργείο Υποδομών και Μεταφορών](https://www.gov.gr/upourgeia/upourgeio-upodomon-kai-metaphoron)
   * [Υπουργείο Ψηφιακής Διακυβέρνησης](https://www.gov.gr/upourgeia/upourgeio-psephiakes-diakuberneses)
+
+  ---
+
+  * [Σε ριζικό λίφτινγκ στα πληροφοριακά συστήματα Τaxis, Taxisnet και Elenxis προχωρά η ΑΑΔΕ](https://www.dikaiologitika.gr/eidhseis/oikonomia/429537/aade-erxetai-neo-taxisnet-ti-allazei)
