@@ -1,9 +1,11 @@
 <input id="txtSearch" onkeypress="SearchList(event);" class="ceME" placeholder="press enter to search">
 
 ## 19/05/2023
+* [🎬 Nikos Antoniadis - Η Καταντια Των Ολιγων Εισαγγελεων](hhttps://youtu.be/aLGYKVqPsnU)
 * [Agrolact.OMHROS Dairy Industry - Εξαγόρασε από τη ΔΕΛΤΑ εγκατάσταση σταθμού γάλακτος](https://www.businessnews.gr/epixeiriseis/item/264174-omiros-eksagorase-apo-ti-delta-egkatastasi-stathmoy-galaktos-sti-sidyni-ksanthis)
 * [Πως η Αποχη, Θα Σωσει Την Ελλαδα](https://attikanea.info/s-o-s-%CE%B5%CE%BA%CE%BB%CE%BF%CE%B3%CE%B5%CF%83-2023-%CF%8C%CE%BB%CE%B1-%CE%B5%CE%AF%CE%BD%CE%B1%CE%B9-%CF%83%CF%84%CE%B7%CE%BC%CE%AD%CE%BD%CE%B1-%CE%BA%CE%B9-%CE%B1%CF%80%CE%BB%CE%AC/) [[2](https://panagiotistraianou.substack.com/p/0a7)]
   * [Παρέμβαση Στέιτ Ντιπάρτμεντ στις εκλογές](https://www.newsbreak.gr/politiki/469113/aggeliaforos-kyriakos-prothymos-alexis-paremvasi-steit-ntipartment-ekloges/)
+  * [Συγκλονιστικές αποκαλύψεις του Ν. Καραχάλιου για το λογισμικό της Singular Logic](https://www.youtube.com/watch?v=1d2_yOJWWW0)
 * [🎬 Αλέξης Τσίπρας - στον ΣΚΑΪ στην εκπομπή της Σκορδά](https://www.facebook.com/tsiprasalexis/videos/636283741685797)
 * [🎬 Κυριάκος Μητσοτάκης - στον ΣΚΑΪ στην εκπομπή «Σήμερα»](https://www.facebook.com/kyriakosmitsotakis/videos/6398755866849754/)
 * [Χαλάνδρι -  καταδίωξη δύο αυτοκινήτων που δεν σταμάτησαν για έλεγχο](https://www.documentonews.gr/article/xalandri-kinimatografiki-katadioxi-dyo-aytokiniton-poy-den-stamatisan-gia-elegxo-treis-prosagoges-video/)
