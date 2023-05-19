@@ -1,6 +1,7 @@
 # Only digitally yours!
 
 * [TaxisNET](https://www.gsis.gr/)
+  * `Αίτημα` - [https://myaade.gov.gr/](https://myaade.gov.gr/)
   * `Ραντεβού` - [https://www1.aade.gr/saadekef/gappointments](https://www1.aade.gr/saadekef/gappointments)
 * Υπεύθυνη Δήλωση, Εξουσιοδότηση, `Ψηφιακή Βεβαίωση Εγγράφου` κτλ. - [https://docs.gov.gr/](https://docs.gov.gr/) \[[2](https://www.gov.gr/ipiresies/polites-kai-kathemerinoteta/psephiaka-eggrapha-gov-gr/psephiake-bebaiose-eggraphou)\]  
   * Ιστορικό εγγράφων (Θυρίδα πολίτη) - [https://my.gov.gr/](https://my.gov.gr/)  
@@ -82,7 +83,6 @@
 
 * [https://www.gov.gr/](https://www.gov.gr/)
 * [https://www.aade.gr/](https://www.aade.gr/)
-* [https://myaade.gov.gr/](https://myaade.gov.gr/) - `Τα αιτήματά μου`
 * Οδηγός του Πολίτη [https://1555.gov.gr/](https://1555.gov.gr/) ή [Περιφέρεια Αττικής](https://www.pattikis.gr/)
 * [e-EFKA](https://www.efka.gov.gr/el/yperesies-poy-parechontai-apokleistika-elektronika)
 
