@@ -40,7 +40,7 @@
 * Εθνικό Ποινικό Μητρώο - [https://www.ncris.gov.gr/](https://www.ncris.gov.gr/)  
 * Γενικό Εμπορικό Μητρώο - [https://services.businessportal.gr/welcome/loginForm](https://services.businessportal.gr/welcome/loginForm) 
 * Απογραφή - [https://hr.apografi.gov.gr/login](https://hr.apografi.gov.gr/login)  
-* myPROPERTY - [https://myproperty.aade.gov.gr/](https://myproperty.aade.gov.gr/)
+* myProperty - [https://myproperty.aade.gov.gr/](https://myproperty.aade.gov.gr/)
 * my Digital Accounting and Tax Application - [https://www.aade.gr/mydata](https://www.aade.gr/mydata)
 * Κτηματολόγιο - [https://ktimatologio.gov.gr/](https://ktimatologio.gov.gr/) ή [https://www.ktimanet.gr/Declaration/](https://www.ktimanet.gr/Declaration/)  
   * Θέαση - [https://maps.gov.gr/gis/map/](https://maps.gov.gr/gis/map/)​
