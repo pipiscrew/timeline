@@ -1,8 +1,8 @@
 # Only digitally yours!
 
 * [TaxisNET](https://www.gsis.gr/)
-  * Αιτήματα και Ραντεβού - [https://myaade.gov.gr/](https://myaade.gov.gr/) [[2](https://www1.aade.gr/saadekef/gappointmentι)]
-* Υπεύθυνη Δήλωση, Εξουσιοδότηση, `Ψηφιακή Βεβαίωση Εγγράφου` κτλ. - [https://docs.gov.gr/](https://docs.gov.gr/) \[[2](https://www.gov.gr/ipiresies/polites-kai-kathemerinoteta/psephiaka-eggrapha-gov-gr/psephiake-bebaiose-eggraphou)\]  
+  * Αιτήματα και Ραντεβού - [https://myaade.gov.gr/](https://myaade.gov.gr/) &nbsp; [[2](https://www1.aade.gr/saadekef/gappointments)]
+* Υπεύθυνη Δήλωση, Εξουσιοδότηση, `Ψηφιακή Βεβαίωση Εγγράφου` κτλ. - [https://docs.gov.gr/](https://docs.gov.gr/) &nbsp; [[2](https://www.gov.gr/ipiresies/polites-kai-kathemerinoteta/psephiaka-eggrapha-gov-gr/psephiake-bebaiose-eggraphou)]  
   * Ιστορικό εγγράφων (Θυρίδα πολίτη) - [https://my.gov.gr/](https://my.gov.gr/)  
 * Wallet (όλα τα δημόσια έγγραφα στο κινητό σας) - [https://wallet.gov.gr/](https://wallet.gov.gr/)  
 * Δι@ύγεια - [https://diavgeia.gov.gr/](https://diavgeia.gov.gr/)  
@@ -14,7 +14,7 @@
   * myHealth - [https://myhealth.gov.gr/](https://myhealth.gov.gr/)​
   * Προσωπικός Βοηθός για Άτομα με Αναπηρία - [https://prosopikosvoithos.gov.gr/](https://prosopikosvoithos.gov.gr/)​
   * Εθνική Πύλη Αναπηρίας - [https://epan.gov.gr/](https://epan.gov.gr/)
-  * [Εθνικό Μητρώο Ιατρών](https://pis.gr/%CE%B5%CE%B8%CE%BD%CE%B9%CE%BA%CF%8C-%CE%BC%CE%B7%CF%84%CF%81%CF%8E%CE%BF-%CE%B9%CE%B1%CF%84%CF%81%CF%8E%CE%BD/?page_id=106802) [[2](https://wp.me/PbqZra-rMC)]
+  * [Εθνικό Μητρώο Ιατρών](https://pis.gr/%CE%B5%CE%B8%CE%BD%CE%B9%CE%BA%CF%8C-%CE%BC%CE%B7%CF%84%CF%81%CF%8E%CE%BF-%CE%B9%CE%B1%CF%84%CF%81%CF%8E%CE%BD/?page_id=106802) &nbsp; [[2](https://wp.me/PbqZra-rMC)]
   * Εθνικό Μητρώο Αιμοδοτών (ΕΜΑ) - [https://blooddonorregistry.gr/](https://blooddonorregistry.gr/)
   * Εθνικό Κέντρο Αιμοδοσίας (ΕΚΕΑ) - [http://ekea.gr/](http://ekea.gr/)
   * Υπουργείο Υγείας - [https://www.gov.gr/upourgeia/upourgeio-ugeias](https://www.gov.gr/upourgeia/upourgeio-ugeias)  
@@ -61,7 +61,7 @@
 * EETT - [https://www.eett.gr/](https://www.eett.gr/) - Εθνική Επιτροπή Τηλεπικοινωνιών & Ταχυδρομείων
   * Συνήγορος του Καταναλωτή - [https://www.synigoroskatanaloti.gr/](https://www.synigoroskatanaloti.gr/)
     * Ευρωπαϊκό Κέντρο Καταναλωτή - [https://www.eccgreece.gr/](https://www.eccgreece.gr/)
-  * Συνήγορος του Πολίτη - [https://www.synigoros.gr/](https://www.synigoros.gr/) [[2](https://www.gsis.gr/polites-epiheiriseis/stoiheia-politon-kai-ex-apostaseos-exypiretisi/mySynigoroslive)]
+  * Συνήγορος του Πολίτη - [https://www.synigoros.gr/](https://www.synigoros.gr/) &nbsp; [[2](https://www.gsis.gr/polites-epiheiriseis/stoiheia-politon-kai-ex-apostaseos-exypiretisi/mySynigoroslive)]
 * OASA - [https://www.oasa.gr/](https://www.oasa.gr/)
   * Athena Card - [https://www.athenacard.gr](https://www.athenacard.gr)
   * Telematics - [https://telematics.oasa.gr/](https://telematics.oasa.gr/)
