@@ -1,5 +1,11 @@
 <input id="txtSearch" onkeypress="SearchList(event);" class="ceME" placeholder="press enter to search">
 
+## 20/05/2023
+* [🎬 Adoni episode 999999999999999](https://www.youtube.com/watch?v=COTYdPoFhBQ)
+* [🎬 Ray Dalio - How to Prepare For The Changing World Order](https://www.youtube.com/watch?v=GDuXvOs0d_k)
+* [Γιατί τα πτηνά και το τραγούδι τους ωφελούν την ψυχική μας υγεία](https://www.kathimerini.gr/life/health/562428529/giati-ta-ptina-kai-to-tragoydi-toys-ofeloyn-tin-psychiki-mas-ygeia/)
+* [Πάνω από 1,5 δισ, ευρώ ο τζίρος της «χρυσής βίζας»](https://www.kathimerini.gr/economy/562426123/pano-apo-1-5-dis-eyro-o-tziros-tis-chrysis-vizas/)
+
 ## 19/05/2023
 * [Εκλογες 2023 - Μετα Τον Κασιδιαρη Δινει Γραμμη Και Ο Μπαρμπαρουσης](https://www.makeleio.gr/%ce%b5%cf%80%ce%b9%ce%ba%ce%b1%ce%b9%cf%81%ce%bf%cf%84%ce%b7%cf%84%ce%b1/%ce%95%ce%9a%ce%9b%ce%9f%ce%93%ce%95%ce%a3-2023-%ce%9c%ce%95%ce%a4%ce%91-%ce%a4%ce%9f%ce%9d-%ce%9a%ce%91%ce%a3%ce%99%ce%94%ce%99%ce%91%ce%a1%ce%97-%ce%94%ce%99%ce%9d%ce%95%ce%99-%ce%93%ce%a1%ce%91/)
   * ⚡ [🎬 Ν. Καραχάλιος - θα πρέπει να ψηφίσουν μεγάλα κόμματα και στατιστικά](https://youtu.be/o_Yd-Gsw3pY?t=1574)
