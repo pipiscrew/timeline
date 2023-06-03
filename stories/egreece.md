@@ -125,4 +125,4 @@
 
   * [19/05/2023] [Σε ριζικό λίφτινγκ στα πληροφοριακά συστήματα Τaxis, Taxisnet και Elenxis προχωρά η ΑΑΔΕ](https://www.dikaiologitika.gr/eidhseis/oikonomia/429537/aade-erxetai-neo-taxisnet-ti-allazei)
   * [03/06/2023] [Εκπαιδευτικό υλικό για το δημοτικό σχολείο](http://emathima.gr/)
-  * [03/06/2023] [Πώς πληρώνεται ο ΕΝΦΙΑ ηλεκτρονικά](https://www.ieidiseis.gr/oikonomia/200216/pos-plironetai-o-enfia-ilektronika-pos-vgazete-pistopoiitiko-sto-gov-gr) [[2](Πώς πληρώνεται ο ΕΝΦΙΑ μέσω ebanking)]
+  * [03/06/2023] [Πώς πληρώνεται ο ΕΝΦΙΑ ηλεκτρονικά](https://www.ieidiseis.gr/oikonomia/200216/pos-plironetai-o-enfia-ilektronika-pos-vgazete-pistopoiitiko-sto-gov-gr)
