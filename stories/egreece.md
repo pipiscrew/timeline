@@ -33,7 +33,7 @@
   * Ένσημα στον ΕΦΚΑ - [https://www.efka.gov.gr/el/asphalismenoi/misthotoi/atomikos-logariasmos-asphalises](https://www.efka.gov.gr/el/asphalismenoi/misthotoi/atomikos-logariasmos-asphalises)​
   * Ένσημα στο σύστημα ΑΤΛΑΣ - [https://www.atlas.gov.gr/ATLAS/Atlas/Login.aspx](https://www.atlas.gov.gr/ATLAS/Atlas/Login.aspx) (1994 μέχρι και το πρώτο τρίμηνο του 2016) [more](https://www.ieidiseis.gr/oikonomia/197506/pos-vlepo-posa-einai-ta-ensima-mou-me-kodikoys-taxinet)​
   * Αποδεικτικό Ασφαλιστικής Ενημερότητας - [https://www.efka.gov.gr/el/apodeiktiko-asphalistikes-enemerotetas](https://www.efka.gov.gr/el/apodeiktiko-asphalistikes-enemerotetas)​
-* Εθνική Αρχή Διαφάνειας - [https://aead.gr/](https://aead.gr/)
+* Καταγγελία στην Εθνική Αρχή Διαφάνειας - [https://aead.gr/](https://aead.gr/)
 * myErgani - [https://myergani.gov.gr](https://myergani.gov.gr) ή [https://eservices.yeka.gr](https://eservices.yeka.gr)
 * ΟΑΕΔ / ΔΥΠΑ - [https://eservices.oaed.gr/pls/apex/](https://eservices.oaed.gr/pls/apex/) - [https://www.dypa.gov.gr/](https://www.dypa.gov.gr/)  
 * ΑΣΕΠ - [https://www.asep.gr/asep/login/login.jsp](https://www.asep.gr/asep/login/login.jsp)  

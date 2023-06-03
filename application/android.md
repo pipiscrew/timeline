@@ -70,6 +70,8 @@ https://krausefx.com/blog/announcing-inappbrowsercom-see-what-javascript-command
 https://inappbrowser.com/
 
 or better remove the /android system web view/ via ADB :
+
+If the device is shown as unauthorized, go to the developer options on the phone and click "Revoke USB debugging authorization"
 */
 
 adb shell
