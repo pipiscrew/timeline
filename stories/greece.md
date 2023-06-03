@@ -1,6 +1,9 @@
 <input id="txtSearch" onkeypress="SearchList(event);" class="ceME" placeholder="press enter to search">
 
 ## 03/06/2023
+* [Εκλογές 25ης Ιουνίου - Δήλωσαν συμμετοχή 44 κόμματα](https://www.businessnews.gr/politiki/item/265250-ekloges-25is-iouniou-dilosan-symmetoxi-44-kommata-anamenetai-elegxos-apo-areio-pago)
+* [ΠΑΣΟΚ - Υπόμνημα στον ΑΠ για εμποδιστεί η νέα απόπειρα καθόδου Κασιδιάρη στις εκλογές](https://www.businessnews.gr/politiki/item/265256-pasok-ypomnima-ston-ap-gia-empodistei-i-nea-apopeira-kathodou-kasidiari-stis-ekloges)
+  * [Δήλωση του Ηλία Κασιδιάρη για την κάθοδό του στις εκλογές με το κόμμα «Έλληνες για την Πατρίδα και την Ελευθερία»](https://www.zougla.gr/politiki/article/ekloges-2023-o-ilias-kasidiaris-dilose-ksana-tous-elines-ston-ario-pago)
 * [Πέθανε ο Θεόδωρος Πάγκαλος](https://www.kathimerini.gr/politics/562449466/pethane-o-theodoros-pagkalos/)
   * [🎬 Όταν ο Πάγκαλος απάντησε σε δημοσιογράφο - Δεν γαμιέσαι και εσύ πρωί, πρωί](https://youtu.be/cglzLpLKfno)
 * [WiBUS - Πιλοτικό πρόγραμμα για δωρεάν WiFi σε λεωφορεία της Αθήνας](https://www.businessnews.gr/epixeiriseis/item/264991-wibus-pilotiko-programma-gia-dorean-wifi-se-leoforeia-tis-athinas)
