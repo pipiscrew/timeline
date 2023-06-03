@@ -8,6 +8,7 @@
 * Δι@ύγεια - [https://diavgeia.gov.gr/](https://diavgeia.gov.gr/)  
 * Αδειών Οδήγησης - Αδειών Κυκλοφορίας - [https://drivers-vehicles.services.gov.gr/login](https://drivers-vehicles.services.gov.gr/login)  
 * ΕΟΠΠΥ (Φάκελος Ασφάλισης Υγείας - Φάρμακα Υψηλού Κόστους) - [https://www.eopyy.gov.gr/](https://www.eopyy.gov.gr/)
+  * 1535 - Ραντεβού σε Δημόσια Νοσοκομεία - [https://www.1535.gr/](https://www.1535.gr/)
   * [Αναζήτηση Παρόχου Υγείας](https://www.eopyy.gov.gr/suppliers/-1/-1/ALL/ALL)
   * (eHealth) Προσωπικός Ιατρός / Άυλη Συνταντογράφηση / Ραντεβού - [https://www.e-syntagografisi.gr/p-rv/p](https://www.e-syntagografisi.gr/p-rv/p)  
   * eΡαντεβού - [https://www.finddoctors.gov.gr/](https://www.finddoctors.gov.gr/)​
@@ -32,6 +33,7 @@
   * Ένσημα στον ΕΦΚΑ - [https://www.efka.gov.gr/el/asphalismenoi/misthotoi/atomikos-logariasmos-asphalises](https://www.efka.gov.gr/el/asphalismenoi/misthotoi/atomikos-logariasmos-asphalises)​
   * Ένσημα στο σύστημα ΑΤΛΑΣ - [https://www.atlas.gov.gr/ATLAS/Atlas/Login.aspx](https://www.atlas.gov.gr/ATLAS/Atlas/Login.aspx) (1994 μέχρι και το πρώτο τρίμηνο του 2016) [more](https://www.ieidiseis.gr/oikonomia/197506/pos-vlepo-posa-einai-ta-ensima-mou-me-kodikoys-taxinet)​
   * Αποδεικτικό Ασφαλιστικής Ενημερότητας - [https://www.efka.gov.gr/el/apodeiktiko-asphalistikes-enemerotetas](https://www.efka.gov.gr/el/apodeiktiko-asphalistikes-enemerotetas)​
+* Εθνική Αρχή Διαφάνειας - [https://aead.gr/](https://aead.gr/)
 * myErgani - [https://myergani.gov.gr](https://myergani.gov.gr) ή [https://eservices.yeka.gr](https://eservices.yeka.gr)
 * ΟΑΕΔ / ΔΥΠΑ - [https://eservices.oaed.gr/pls/apex/](https://eservices.oaed.gr/pls/apex/) - [https://www.dypa.gov.gr/](https://www.dypa.gov.gr/)  
 * ΑΣΕΠ - [https://www.asep.gr/asep/login/login.jsp](https://www.asep.gr/asep/login/login.jsp)  
@@ -79,6 +81,7 @@
   * Εξοικονομώ 2021 - [https://exoikonomo2021.gov.gr/](https://exoikonomo2021.gov.gr/)  
   * Κινούμαι Ηλεκτρικά - [https://kinoumeilektrika.gov.gr/](https://kinoumeilektrika.gov.gr/) ή [https://kinoumeilektrika2.gov.gr/](https://kinoumeilektrika2.gov.gr/)  
 * Εκλογές - [https://ekloges.ypes.gr/](https://ekloges.ypes.gr/)
+* ΠΑΚΟΕ - [https://www.pakoe.gr](https://www.pakoe.gr) - Πανελλήνιο Κέντρο Οικολογικών Ερευνών 
 
 ---
   
@@ -121,3 +124,5 @@
 ---
 
   * [19/05/2023] [Σε ριζικό λίφτινγκ στα πληροφοριακά συστήματα Τaxis, Taxisnet και Elenxis προχωρά η ΑΑΔΕ](https://www.dikaiologitika.gr/eidhseis/oikonomia/429537/aade-erxetai-neo-taxisnet-ti-allazei)
+  * [03/06/2023] [Εκπαιδευτικό υλικό για το δημοτικό σχολείο](http://emathima.gr/)
+  * [03/06/2023] [Πώς πληρώνεται ο ΕΝΦΙΑ ηλεκτρονικά](https://www.ieidiseis.gr/oikonomia/200216/pos-plironetai-o-enfia-ilektronika-pos-vgazete-pistopoiitiko-sto-gov-gr) [[2](Πώς πληρώνεται ο ΕΝΦΙΑ μέσω ebanking)]
