@@ -8,7 +8,7 @@
 * [Αττική - Οι επτά ακατάλληλες για κολύμπι παραλίες](https://www.kathimerini.gr/society/562451062/attiki-oi-epta-akatalliles-gia-kolympi-paralies/)
 * [Nintendo - «Λουκέτο» στο eshop της Ρωσίας](https://www.businessnews.gr/epixeiriseis/texnologia/item/265087-nintendo-louketo-sto-eshop-tis-rosias)
 * [Πειθαρχική δίωξη σε γυναικολόγο για πλαστές χρεώσεις στον ΕΟΠΥΥ](https://www.ertnews.gr/video/peitharxiki-dioksi-se-gynaikologo-gia-plastes-xreoseis-ston-eopyy/)
-* [Βρετανια - Οι Κλοπες αυξηθηκαν κατα 31% και κλειδωσαν τα τυρια και το κρεας](https://www.makeleio.gr/%CE%B5%CE%BE%CF%89%CF%86%CF%85%CE%BB%CE%BB%CE%BF/%CE%97-%CE%A0%CE%95%CE%99%CE%9D%CE%91-%CE%A6%CE%95%CE%A1%CE%9D%CE%95%CE%99-%CE%9B%CE%9F%CE%A5%CE%9A%CE%95%CE%A4%CE%91-%CE%A3%CE%A4%CE%91-%CE%A6%CE%91%CE%93%CE%97%CE%A4%CE%91-%CE%9F%CE%99-%CE%9A/)
+* [Βρετανια - Οι κλοπες αυξηθηκαν κατα 31%, κλειδωσαν τα τυρια και το κρεας](https://www.makeleio.gr/%CE%B5%CE%BE%CF%89%CF%86%CF%85%CE%BB%CE%BB%CE%BF/%CE%97-%CE%A0%CE%95%CE%99%CE%9D%CE%91-%CE%A6%CE%95%CE%A1%CE%9D%CE%95%CE%99-%CE%9B%CE%9F%CE%A5%CE%9A%CE%95%CE%A4%CE%91-%CE%A3%CE%A4%CE%91-%CE%A6%CE%91%CE%93%CE%97%CE%A4%CE%91-%CE%9F%CE%99-%CE%9A/)
 * [Εταιρείες φυτοφαρμάκων απέκρυψαν μελέτες τοξικότητας - Με την πλάτη στον τοίχο η Ευρώπη](https://www.ieidiseis.gr/kosmos/200564/etaireies-fytofarmakon-apekrypsan-meletes-toksikotitas-me-tin-plati-ston-toixo-i-evropi)
 * [Αύξηση εξαγωγών της ΜΕΒΓΑΛ στις ΗΠΑ με ισχυρό «χαρτί» τη βιολογική φέτα](https://www.kathimerini.gr/economy/562450537/ayxisi-exagogon-tis-mevgal-stis-ipa-me-ischyro-charti-ti-viologiki-feta/)
 * [RARBG - Οριστικό «λουκέτο» για την ιστοσελίδα torrent](https://www.ieidiseis.gr/texnologia/200397/rarbg-oristiko-louketo-gia-tin-istoselida-torrent)
