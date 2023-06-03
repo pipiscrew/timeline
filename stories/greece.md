@@ -42,7 +42,7 @@
 * ⚡ [Πρωτοφανείς εξελίξεις στη Δικαιοσύνη - Γιατί παραιτήθηκαν 23 Αρεοπαγίτες από την Ένωση Δικαστών και Εισαγγελέων](https://www.ieidiseis.gr/ellada/199766/maziki-apoxorisi-23-areopagiton-apo-tin-enosi-dikaston-kai-eisaggeleon-gia-diamartyria)
 * [Πινοσετ, Τσιπρας και δημοψηφισματα](https://www.makeleio.gr/%CE%B5%CE%BE%CF%89%CF%86%CF%85%CE%BB%CE%BB%CE%BF/%CE%A0%CE%99%CE%9D%CE%9F%CE%A3%CE%95%CE%A4-%CE%A4%CE%A3%CE%99%CE%A0%CE%A1%CE%91%CE%A3-%CE%9A%CE%91%CE%99-%CE%94%CE%97%CE%9C%CE%9F%CE%A8%CE%97%CE%A6%CE%99%CE%A3%CE%9C%CE%91%CE%A4%CE%91-%CE%9F/)
 * [🎬 Βορίδης - Θα πάμε σε τρίτες κάλπες](https://www.megatv.com?p=1070792)
-* [28 Μαΐου 1979 – Η υπογραφή της ένταξης της Ελλάδας στην ΕΟΚ](https://www.kathimerini.gr/istoria/562428868/san-simera-28-ma-oy-1979-i-ypografi-tis-entaxis-tis-elladas-stin-eok/)
+* [28 Μαΐου 1979 – Η υπογραφή της ένταξης της Ελλάδας στην ΕΟΚ](https://www.kathimerini.gr/istoria/562428868/san-simera-28-ma-oy-1979-i-ypografi-tis-entaxis-tis-elladas-stin-eok/) &nbsp; [[Παπαναστασίου ad](https://www.youtube.com/watch?v=5B0viuGwNwU)]
 * [Ζουμερό φιλέτο κοτόπουλο με σπιτική σάλτσα σίζαρ](https://www.gastronomos.gr/syntagh/zoymero-fileto-kotopoylo-me-spitiki-saltsa-sizar/143873/)
 * [Kοτόπουλο σουφλέ](https://www.gastronomos.gr/syntagh/to-kotopoylo-poy-perissepse-ginetai-soyfle/205938/)
 * [Τσιζκέικ ρεβανί](https://www.kathimerini.gr/k/gastronomos/562449577/tsizkeik-revani-vima-vima/)
