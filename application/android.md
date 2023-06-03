@@ -79,4 +79,5 @@ pm uninstall --user 0 com.google.android.webview
 
 warning : dont remove other default apps, first search on XDA, a guy saying that on XIAOMI if u remove the default antiv the phone stuck on bootloop
 ```
-* [How to Hide Root from Apps](https://drfone.wondershare.com/root/hide-root-from-apps.html)
+* [How to Hide Root from Apps (no tested)](https://drfone.wondershare.com/root/hide-root-from-apps.html)
+* [android - setup an OS v6.0 device from scratch](https://www.pipiscrew.com/threads/android-setup-an-os-v6-0-device-from-scratch.77483/#post-76351)
