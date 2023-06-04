@@ -36,6 +36,7 @@
 * Καταγγελία στην Εθνική Αρχή Διαφάνειας - [https://aead.gr/](https://aead.gr/)
 * myErgani - [https://myergani.gov.gr](https://myergani.gov.gr) ή [https://eservices.yeka.gr](https://eservices.yeka.gr)
 * ΟΑΕΔ / ΔΥΠΑ - [https://eservices.oaed.gr/pls/apex/](https://eservices.oaed.gr/pls/apex/) - [https://www.dypa.gov.gr/](https://www.dypa.gov.gr/)  
+  * Προγράμματα κοινωνικού τουρισμού (ΔΥΠΑ) - [https://www.gov.gr/ipiresies/ergasia-kai-asphalise/apozemioseis-kai-parokhes/koinonikos-tourismos](https://www.gov.gr/ipiresies/ergasia-kai-asphalise/apozemioseis-kai-parokhes/koinonikos-tourismos)
 * ΑΣΕΠ - [https://www.asep.gr/asep/login/login.jsp](https://www.asep.gr/asep/login/login.jsp)  
 * MyEyathPortal - [https://portal.eyath.gr](https://portal.eyath.gr) - μπορεί κανείς να δηλώνει όλες τις βλάβες ύδρευσης – αποχέτευσης [more](https://www.grtimes.gr/ellada/nees-e-ypiresies-apo-tin-eyath-sto-myeyathportal)  
 * Δικαστηρίων - ΟΣΔΔΥ - [https://www.solon.gov.gr/webcenter/portal/osddy](https://www.solon.gov.gr/webcenter/portal/osddy)  
@@ -83,6 +84,7 @@
 * Εκλογές - [https://ekloges.ypes.gr/](https://ekloges.ypes.gr/)
 * ΠΑΚΟΕ - [https://www.pakoe.gr](https://www.pakoe.gr) - Πανελλήνιο Κέντρο Οικολογικών Ερευνών
 * Ινστιτούτο Εκπαιδευτικής Πολιτικής (ΙΕΠ) - [http://iep.edu.gr](http://iep.edu.gr)
+* Κέντρο Προστασίας Δασών και Φυσικού Περιβάλλοντος - [https://www.fireman.gr/](https://www.fireman.gr/)
 
 ---
   

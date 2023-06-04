@@ -1,6 +1,23 @@
 <input id="txtSearch" onkeypress="SearchList(event);" class="ceME" placeholder="press enter to search">
 
+## 04/06/2023
+* [Μέχρι και ισόβια κάθειρξη για όσους μπαίνουν στη ΛΕΑ](https://www.makeleio.gr/%ce%b5%cf%80%ce%b9%ce%ba%ce%b1%ce%b9%cf%81%ce%bf%cf%84%ce%b7%cf%84%ce%b1/%ce%9f%ce%a1%ce%99%ce%a3%ce%a4%ce%99%ce%9a%ce%9f-%ce%9c%ce%ad%cf%87%cf%81%ce%b9-%ce%ba%ce%b1%ce%b9-%ce%b9%cf%83%cf%8c%ce%b2%ce%b9%ce%b1-%ce%ba%ce%ac%ce%b8%ce%b5%ce%b9%cf%81%ce%be%ce%b7-%ce%b3%ce%b9/)
+* [Άκης Τσελέντης - 3,000 ευρώ το μήνα παίρνει ο υπάλληλος που αλλάζει τα ποτήρια με το νερό στη Βουλή](https://www.makeleio.gr/%ce%b5%cf%80%ce%b9%ce%ba%ce%b1%ce%b9%cf%81%ce%bf%cf%84%ce%b7%cf%84%ce%b1/%ce%86%ce%ba%ce%b7%cf%82-%ce%a4%cf%83%ce%b5%ce%bb%ce%ad%ce%bd%cf%84%ce%b7%cf%82-3-000-%ce%b5%cf%85%cf%81%cf%8e-%cf%84%ce%bf-%ce%bc%ce%ae%ce%bd%ce%b1-%cf%80%ce%b1%ce%af%cf%81%ce%bd%ce%b5%ce%b9/)
+* [Ανακαλύφτηκε νέο αντιβιοτικό μέσω της τεχνητής νοημοσύνης που εξουδετερώνει υπερβακτήριο](https://www.makeleio.gr/%ce%b5%cf%80%ce%b9%ce%ba%ce%b1%ce%b9%cf%81%ce%bf%cf%84%ce%b7%cf%84%ce%b1/%ce%91%ce%bd%ce%b1%ce%ba%ce%b1%ce%bb%cf%8d%cf%86%cf%84%ce%b7%ce%ba%ce%b5-%ce%bd%ce%ad%ce%bf-%ce%b1%ce%bd%cf%84%ce%b9%ce%b2%ce%b9%ce%bf%cf%84%ce%b9%ce%ba%cf%8c-%ce%bc%ce%ad%cf%83%cf%89-%cf%84%ce%b7/)
+* [Chips και μπάρες εντόμων για ανθρώπους από το Πανεπιστήμιο Θεσσαλίας](https://www.makeleio.gr/%ce%b5%cf%80%ce%b9%ce%ba%ce%b1%ce%b9%cf%81%ce%bf%cf%84%ce%b7%cf%84%ce%b1/%ce%9d%ce%91-%ce%a4%ce%91-%ce%a6%ce%91%ce%a4%ce%95-%ce%95%ce%a3%ce%95%ce%99%ce%a3-%ce%9c%ce%91%ce%93%ce%9a%ce%95%ce%a3-chips-%ce%ba%ce%b1%ce%b9-%ce%bc%cf%80%ce%ac%cf%81%ce%b5%cf%82-%ce%b5%ce%bd/)
+* [Desulfovibrio - Αυτά είναι τα βακτήρια που προκαλούν τη νόσο του Πάρκινσον](https://www.makeleio.gr/%ce%b5%cf%80%ce%b9%ce%ba%ce%b1%ce%b9%cf%81%ce%bf%cf%84%ce%b7%cf%84%ce%b1/desulfovibrio-%ce%91%cf%85%cf%84%ce%ac-%ce%b5%ce%af%ce%bd%ce%b1%ce%b9-%cf%84%ce%b1-%ce%b2%ce%b1%ce%ba%cf%84%ce%ae%cf%81%ce%b9%ce%b1-%cf%80%ce%bf%cf%85-%cf%80%cf%81%ce%bf%ce%ba%ce%b1%ce%bb%ce%bf%cf%8d/)
+* [Indiana Jones and the Dial of Destiny](https://youtu.be/ZfVYgWYaHmE)
+* [RoboTire - Ένα ρομπότ που αλλάζει ελαστικά](https://youtu.be/XkCtHBqpOIk)
+* [Ζέτα Μακρυπούλια - Έξαλλη κατά SkyExpress](https://www.ieidiseis.gr/showbiz/200910/zeta-makrypoylia-eksalli-kata-aeroporikis-etaireias-giati-den-taksidepse-sti-samo)
+* [Ένταξη Σουηδίας στο ΝΑΤΟ - Τριμερής με τη συμμετοχή Τουρκίας και Φινλανδίας στις 12 Ιουνίου](https://www.kathimerini.gr/world/562455319/entaxi-soyidias-sto-nato-trimeris-me-ti-symmetochi-toyrkias-kai-finlandias-stis-12-ioynioy/)
+* [🎬 Η Κύπρος χάνεται - Στοιχεία για τον πληθυσμό](https://www.youtube.com/watch?v=ogzbxVR8i4c)
+* [Μπισκότα με μπανάνα και βρώμη](https://www.shape.gr/diatrofi-adynatisma/sosti-diatrofi/ftiakse-monh-soy-mpiskota-me-mpanana-kai-brwmh/)
+* [Μουστοκούλουρα με τζίντζερ](https://www.gastronomos.gr/syntagh/moystokoyloyra-me-tzintzer/185290/)
+
 ## 03/06/2023
+* [🎬 Zaraleaks - Κυβερνηση Του Βουνου](https://www.youtube.com/watch?v=lgab-XzyqM4)
+* [🎬 Zaraleaks - Με Τον Κυριακο Για Τον Σοσιαλισμο](https://www.youtube.com/watch?v=EJ9aryXhDBg)
+  * [Ax Karamanlhs fans](https://www.youtube.com/watch?v=BYed3jpB380)
 * [Εισαγγελείς - Όχι στην αύξηση των Ευρωπαίων Εντεταλμένων Εισαγγελέων στην Αθήνα](https://www.ieidiseis.gr/ellada/200739/eisaggeleis-oxi-stin-ayksisi-ton-evropaion-entetalmenon-eisaggeleon-stin-athina)
 * [Ρόδος - Κτηματολόγιο - Υπάλληλος πιάστηκε στα χέρια με πολίτη, του πέταξε κάδρο](https://www.ieidiseis.gr/ellada/200733/aimatiro-epeisodio-se-ypiresia-sti-rodo-ypallilos-piastike-sta-xeria-me-politi-tou-petakse-kadro)
 * [Ινδία - Επιβατικό τρένο συγκρούστηκε με εμπορικό και εκτροχιάστηκε - Τουλάχιστον 50 νεκροί](https://www.ieidiseis.gr/kosmos/200748/tragodia-stin-india-epivatiko-treno-sygkroystike-me-emporiko-kai-ektroxiastike-toulaxiston-50-nekroi)
