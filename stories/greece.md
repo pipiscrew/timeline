@@ -1,6 +1,8 @@
 <input id="txtSearch" onkeypress="SearchList(event);" class="ceME" placeholder="press enter to search">
 
 ## 05/06/2023
+* [Καναδάς - Οι πυρκαγιές έκαψαν περισσότερα από 27 εκατομμύρια στρέμματα το 2023](https://www.grtimes.gr/diethni/kanadas-oi-pyrkagies-ekapsan-perissotera-apo-27-ekatommyria)
+* [Νότια Αφρική - Νέα στοιχεία για την εξέλιξη του ανθρώπου ίσως ανατρέψουν όσα γνωρίζαμε](https://www.kathimerini.gr/life/science/562455910/notia-afriki-nea-stoicheia-gia-tin-exelixi-toy-anthropoy-isos-anatrepsoyn-osa-gnorizame/)
 * [Focus w/ guest Chios - Έχουν συμφωνήσει να ξεπουλήσουν το Αιγαίο](https://www.youtube.com/watch?v=M2cFfRPGp34)
 * [Εκτόξευση κατά 50% των εγκεφαλικών - 1 στους 4 αναμένεται πλέον να το πάθει στην ζωή του](https://www.makeleio.gr/%ce%b5%cf%80%ce%b9%ce%ba%ce%b1%ce%b9%cf%81%ce%bf%cf%84%ce%b7%cf%84%ce%b1/%ce%95%ce%ba%cf%84%cf%8c%ce%be%ce%b5%cf%85%cf%83%ce%b7-%ce%ba%ce%b1%cf%84%ce%ac-50-%cf%84%cf%89%ce%bd-%ce%b5%ce%b3%ce%ba%ce%b5%cf%86%ce%b1%ce%bb%ce%b9%ce%ba%cf%8e%ce%bd-1-%cf%83%cf%84%ce%bf%cf%85/)
 * [WHO - Ο εμβολιασμός με mRNA του Covid-19 μπορεί να προκαλέσει σκλήρυνση κατά πλάκας](https://attikanea.info/%CE%B6%CF%89%CF%84%CE%B9%CE%BA%CE%AE%CF%82-%CF%83%CE%B7%CE%BC%CE%B1%CF%83%CE%AF%CE%B1%CF%82-%CE%BF-%CE%B5%CE%BC%CE%B2%CE%BF%CE%BB%CE%B9%CE%B1%CF%83%CE%BC%CF%8C%CF%82-%CE%BC%CE%B5-mrna-%CF%84/)
