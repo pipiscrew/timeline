@@ -1,5 +1,19 @@
 <input id="txtSearch" onkeypress="SearchList(event);" class="ceME" placeholder="press enter to search">
 
+## 06/06/2023
+* [DJ - Στα άδυτα της Μεγάλης Στοάς της Ελλάδος](https://www.datajournalists.co.uk/2023/06/06/sta-adyta-tis-megalis-stoas-tis-ellados/)
+* [Η ΕΕ αποσύρει τα έκτακτα μέτρα στην αγορά ηλεκτρισμού - Τι σημαίνει η απόφαση για την Ελλάδα](https://www.kathimerini.gr/economy/local/562456495/i-e-e-aposyrei-ta-ektakta-metra-stin-agora-ilektrismoy-ti-simainei-i-apofasi-gia-tin-ellada/)
+* [Der Spiegel - Υπαρκτός ο κίνδυνος τουρκικής χρεoκοπίας](https://www.kathimerini.gr/economy/international/562456525/der-spiegel-yparktos-o-kindynos-toyrkikis-chreokopias/)
+* [Ρόδος - Νέες συλλήψεις για παράνομες ξαπλώστρες και πέργκολες σε παραλίες](https://www.kathimerini.gr/society/562456045/rodos-nees-syllipseis-gia-paranomes-xaplostres-kai-pergkoles-se-paralies/)
+  * [Τα «πριγκιπάτα» της Ρόδου (Λίνδος & Αγάθη etc)](https://www.kathimerini.gr/society/562452676/ta-prigkipata-tis-rodoy/)
+* [Η Κίνα ξεκίνησε γεώτρηση 10,000 μέτρων στον φλοιό της Γης](https://www.kathimerini.gr/world/562456015/i-kina-xekinise-geotrisi-10-000-metron-ston-floio-tis-gis/)
+* [Estée Lauder - Πτώση πωλήσεων 18% για την ελληνική θυγατρική](https://www.businessnews.gr/epixeiriseis/item/265333-estee-lauder-ptosi-poliseon-18-gia-tin-elliniki-thygatriki)
+* [Air Serbia - Ενώνει το Βελιγράδι με την Κρήτη πάνω από τέσσερις φορές την εβδομάδα](https://www.businessnews.gr/epixeiriseis/item/265332-air-serbia-enonei-to-veligradi-me-tin-kriti-pano-apo-tesseris-fores-tin-evdomada)
+* [🎬 Ουκρανία - Ανατίναξαν υδροηλεκτρικό φράγμα στη Χερσώνα -Τεράστιος όγκος νερού ρέει ανεξέλεγκτος](https://www.ieidiseis.gr/kosmos/201070/synagermos-sti-xersona-anatinaxthike-megalo-fragma-reoun-terasties-posotites-neroy-vinteo)
+  * [Βρετανός ΥΠΕΞ - Η έκρηξη στο ουκρανικό φράγμα είναι αποτέλεσμα της ρωσικής εισβολής](https://www.businessnews.gr/kosmos/item/265349-vretanos-ypeks-i-ekriksi-sto-oukraniko-fragma-einai-apotelesma-tis-rosikis-eisvolis)
+* [🎬 Politico για το νέο «στόρι» της Εύας Καϊλή - Δηλώνει θύμα της εταιρείας Pegasus για τις υποκλοπές](https://www.ieidiseis.gr/politiki/201079/to-politico-gia-to-neo-story-tis-eyas-kaili-dilonei-thyma-tis-etaireias-pegasus-gia-tis-ypoklopes)
+  * [Εισαγγελέας Βελγίου για Καϊλή - Ζήτησε προνόμια που δεν απέκτησε](https://www.businessnews.gr/politiki/item/265337-eisaggeleas-velgiou-gia-kaili-zitise-pronomia-pou-den-apektise)
+
 ## 05/06/2023
 * [Καναδάς - Οι πυρκαγιές έκαψαν περισσότερα από 27 εκατομμύρια στρέμματα το 2023](https://www.grtimes.gr/diethni/kanadas-oi-pyrkagies-ekapsan-perissotera-apo-27-ekatommyria)
 * [Νότια Αφρική - Νέα στοιχεία για την εξέλιξη του ανθρώπου ίσως ανατρέψουν όσα γνωρίζαμε](https://www.kathimerini.gr/life/science/562455910/notia-afriki-nea-stoicheia-gia-tin-exelixi-toy-anthropoy-isos-anatrepsoyn-osa-gnorizame/)
