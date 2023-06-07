@@ -1,6 +1,8 @@
 <input id="txtSearch" onkeypress="SearchList(event);" class="ceME" placeholder="press enter to search">
 
 ## 06/06/2023
+* [Συνελήφθη Αλβανός μεγαλέμπορος ναρκωτικών στη Γλυφάδα - Τζίρος 250 εκατ, ευρώ σε ένα 10μηνο](https://www.businessnews.gr/ellada/item/265380-synelifthi-megalemporos-narkotikon-sti-glyfada-tziros-250-ekat-evro-se-ena-10mino)
+* [Καταγγελία ότι εκπαιδευτικός ξέσπασε σε κλάματα μετά την αξιολόγηση του Συμβούλου Εκπαίδευσης](https://www.documentonews.gr/article/kataggelia-oti-ekpaideytikos-xespase-se-klamata-meta-tin-axiologisi-toy-symvoyloy-ekpaideysis-axiologiti/)
 * [DJ - Στα άδυτα της Μεγάλης Στοάς της Ελλάδος](https://www.datajournalists.co.uk/2023/06/06/sta-adyta-tis-megalis-stoas-tis-ellados/)
 * [Η ΕΕ αποσύρει τα έκτακτα μέτρα στην αγορά ηλεκτρισμού - Τι σημαίνει η απόφαση για την Ελλάδα](https://www.kathimerini.gr/economy/local/562456495/i-e-e-aposyrei-ta-ektakta-metra-stin-agora-ilektrismoy-ti-simainei-i-apofasi-gia-tin-ellada/)
 * [Der Spiegel - Υπαρκτός ο κίνδυνος τουρκικής χρεoκοπίας](https://www.kathimerini.gr/economy/international/562456525/der-spiegel-yparktos-o-kindynos-toyrkikis-chreokopias/)
