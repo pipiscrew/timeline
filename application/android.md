@@ -85,6 +85,8 @@ logcat device when is on USB debugging mode
 /*
 https://support.honeywellaidc.com/s/article/Android-How-to-use-adb-logcat  
 https://kb.vmware.com/s/article/2960948
+
+download ADB - https://www.mediafire.com/file/2cw7d3a6tg4arbb/adb.zip/file
 */
 
 adb logcat –d > filename.txt
