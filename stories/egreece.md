@@ -40,6 +40,7 @@
 * ΑΣΕΠ - [https://www.asep.gr/asep/login/login.jsp](https://www.asep.gr/asep/login/login.jsp)  
 * MyEyathPortal - [https://portal.eyath.gr](https://portal.eyath.gr) - μπορεί κανείς να δηλώνει όλες τις βλάβες ύδρευσης – αποχέτευσης [more](https://www.grtimes.gr/ellada/nees-e-ypiresies-apo-tin-eyath-sto-myeyathportal)  
 * Δικαστηρίων - ΟΣΔΔΥ - [https://www.solon.gov.gr/webcenter/portal/osddy](https://www.solon.gov.gr/webcenter/portal/osddy)  
+* Άρειος Πάγος - [http://www.areiospagos.gr/](http://www.areiospagos.gr/)
 * Εθνικό Ποινικό Μητρώο - [https://www.ncris.gov.gr/](https://www.ncris.gov.gr/)  
 * Γενικό Εμπορικό Μητρώο - [https://services.businessportal.gr/welcome/loginForm](https://services.businessportal.gr/welcome/loginForm) 
 * Απογραφή - [https://hr.apografi.gov.gr/login](https://hr.apografi.gov.gr/login)  

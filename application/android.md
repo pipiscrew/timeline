@@ -1,5 +1,5 @@
 * Mail - [K-9 Mail](https://play.google.com/store/apps/details?id=com.fsck.k9) / [FairEmail](https://f-droid.org/en/packages/eu.faircode.email/)  
-* Firewall - [NetGuard](https://play.google.com/store/apps/details?id=eu.faircode.netguard)  
+* Firewall - [NetGuard](https://play.google.com/store/apps/details?id=eu.faircode.netguard)  (how block [domains](https://github.com/M66B/NetGuard/blob/master/ADBLOCKING.md))
 * Launcher - [Evie](https://m.apkpure.com/evie-launcher/is.shortcut) (gplay deprecated)  
 * Scanner - [CamScanner](https://play.google.com/store/apps/details?id=com.intsig.camscanner)  
 * Music Player - [rhmsoft.Pulsar](https://play.google.com/store/apps/details?id=com.rhmsoft.pulsar)  
@@ -79,5 +79,16 @@ pm uninstall --user 0 com.google.android.webview
 
 warning : dont remove other default apps, first search on XDA, a guy saying that on XIAOMI if u remove the default antiv the phone stuck on bootloop
 ```
+
+logcat device when is on USB debugging mode
+```
+/*
+https://support.honeywellaidc.com/s/article/Android-How-to-use-adb-logcat  
+https://kb.vmware.com/s/article/2960948
+*/
+
+adb logcat –d > filename.txt
+```
+
 * [How to Hide Root from Apps (no tested)](https://drfone.wondershare.com/root/hide-root-from-apps.html)
 * [android - setup an OS v6.0 device from scratch](https://www.pipiscrew.com/threads/android-setup-an-os-v6-0-device-from-scratch.77483/#post-76351)

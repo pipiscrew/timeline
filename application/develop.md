@@ -23,6 +23,7 @@
 * [Fill Database](http://filldb.info/) - Dummy Data for MYSQL Database  
 * [DbGate](https://github.com/dbgate/dbgate) - Database manager for MySQL, PostgreSQL, SQL Server, MongoDB, SQLite and others. Runs under Windows, Linux, Mac or as web application  
 * [DBeaver](https://dbeaver.io/) - (JRE) MySQL, PostgreSQL, SQLite, Oracle, DB2, SQL Server, Sybase, MS Access, Teradata, Firebird, Apache Hive, Phoenix, Presto++  
+* [MDB Viewer Plus](http://www.alexnolan.net/software/mdb_viewer_plus.htm)
 
 ## git
 * [git minimal](https://www.nuget.org/packages/Git-Windows-Minimal/) - Git-Bash, Git-Gui, PERL, Python, and Tcl are excluded. Download rename it to rar, copy the **tools** folder. Add to environment path the **cmd** folder. Behind firewall ? whitelist @ **g**it-http-fetch.exe **g**it-http-push.exe **g**it-remote-https.exe exist @ mingw64\bin.  Use the following :  
@@ -66,6 +67,7 @@ git config --global credential.interactive never
 * [bitrix24](https://www.bitrix24.com/) - collaborate  
 * [WinAPI Search](https://dennisbabkin.com/winapisearch/)  
 * [PuTTY + PuTTY Key Generator](https://www.puttygen.com/download-putty) - ref [SuperPuTTY](https://www.puttygen.com/superputty) (frontend to provide tabbed PuTTY)
+* [Decrypt MD5, SHA1, MySQL, NTLM, SHA256, SHA512 hashes](https://hashes.com/en/decrypt/hash) [2](https://crackstation.net/)
 
 ## web templates
 * https://themeforest.net
