@@ -45,7 +45,7 @@
 * Γενικό Εμπορικό Μητρώο - [https://services.businessportal.gr/welcome/loginForm](https://services.businessportal.gr/welcome/loginForm) 
 * Απογραφή - [https://hr.apografi.gov.gr/login](https://hr.apografi.gov.gr/login)  
 * myProperty - [https://myproperty.aade.gov.gr/](https://myproperty.aade.gov.gr/)
-* my Digital Accounting and Tax Application - [https://www.aade.gr/mydata](https://www.aade.gr/mydata)
+* myData - [https://www.aade.gr/mydata](https://www.aade.gr/mydata) [[2](https://mydata.aade.gov.gr/)] - my Digital Accounting and Tax Application
 * Κτηματολόγιο - [https://ktimatologio.gov.gr/](https://ktimatologio.gov.gr/) ή [https://www.ktimanet.gr/Declaration/](https://www.ktimanet.gr/Declaration/)  
   * Θέαση - [https://maps.gov.gr/gis/map/](https://maps.gov.gr/gis/map/)​
 * Ermis - [http://www.ermis.gov.gr/](http://www.ermis.gov.gr/)  
