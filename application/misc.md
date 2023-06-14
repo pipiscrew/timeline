@@ -238,11 +238,14 @@ The sequence is :
 
 ## Activators
 * [KMS_VL_ALL_AIO](https://github.com/abbodi1406/KMS_VL_ALL_AIO) - windows & office (supports Enterprise edition)
+* [awesome windows privacy](https://github.com/TemporalAgent7/awesome-windows-privacy)
+  * [Win10BloatRemover](https://github.com/Fs00/Win10BloatRemover)
 * [Ratiborus Digital Activation](https://nsaneforums.com/topic/317565-w10-digital-activation-program-v11-portable-ratiborus/) - windows (not for Enterprise edition)
 * [Office 2013-2021 C2R](https://free.appnee.com/office-2013-2021-c2r-install/) - downloader, installer, remover
 * [Office Unistaller](https://appnee.com/office-uninstall/)
 * [Microsoft Windows 10](https://www.techworm.net/2022/08/download-windows-10-iso.html)
   * [Internet Archive.LTSC 2019](https://archive.org/details/win-10.-ltsc-2019.x-64.lite.v-2107-ik)
+  * [adguard](https://files.rg-adguard.net/)
   * [VC++ Redistributable 2015-2022](https://learn.microsoft.com/en-US/cpp/windows/latest-supported-vc-redist)
 
 ## Games
