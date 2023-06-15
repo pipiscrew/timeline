@@ -186,6 +186,7 @@
 
 ## develop
 * [CyberChef](https://gchq.github.io/CyberChef/) - Cyber Swiss Army Knife
+* [Decrypt MD5, SHA1, MySQL, NTLM, SHA256, SHA512 hashes](https://hashes.com/en/decrypt/hash) [[2](https://crackstation.net/)]
 * [Batch Speed](https://batchspeed.com/) - Bulk speed test multiple urls using Google's Page Speed checker
 * [Hoppscotch (aka Postwoman)](https://hoppscotch.io/) - API request builder
 	* regex

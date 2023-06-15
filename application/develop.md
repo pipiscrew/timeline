@@ -67,7 +67,6 @@ git config --global credential.interactive never
 * [bitrix24](https://www.bitrix24.com/) - collaborate  
 * [WinAPI Search](https://dennisbabkin.com/winapisearch/)  
 * [PuTTY + PuTTY Key Generator](https://www.puttygen.com/download-putty) - ref [SuperPuTTY](https://www.puttygen.com/superputty) (frontend to provide tabbed PuTTY)
-* [Decrypt MD5, SHA1, MySQL, NTLM, SHA256, SHA512 hashes](https://hashes.com/en/decrypt/hash) [2](https://crackstation.net/)
 
 ## web templates
 * https://themeforest.net
@@ -80,8 +79,6 @@ git config --global credential.interactive never
      * https://www.elegantthemes.com/
      * https://themify.me/
   
-&nbsp;
-
 ## SQL Server Express
 * [2008R2x64 with SP2](https://www.microsoft.com/en-us/download/details.aspx?id=30438)
 
