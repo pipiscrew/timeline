@@ -78,7 +78,7 @@ git config --global credential.interactive never
      * https://templatic.com/
      * https://www.elegantthemes.com/
      * https://themify.me/
-  
+
 ## SQL Server Express
 * [2008R2x64 with SP2](https://www.microsoft.com/en-us/download/details.aspx?id=30438)
 
