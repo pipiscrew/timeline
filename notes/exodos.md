@@ -1,6 +1,6 @@
 ## eXoDOS
 
-Is an attempt to catalog, obtain, and make playable every game developed for the DOS and PC Booter platform. This pack includes 7,200 DOS games.  
+Is an attempt to catalog, obtain, and make playable every game developed for the DOS and PC Booter platform. This pack includes 7,200 DOS games.  ([reference](https://wiki.retro-exo.com/))  
 
 * [source](https://www.retro-exo.com/exodos.html)  
 * [mirror](https://archive.org/details/exov5_2)
