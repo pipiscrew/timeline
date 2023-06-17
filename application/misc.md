@@ -119,7 +119,8 @@
 * [FreeFileSync](https://freefilesync.org/)
 * [pureSync](https://www.puresync.net/)
 * [Cobian](https://www.cobiansoft.com/)
-* [rclone](https://rclone.org/)  
+* [rclone](https://rclone.org/)
+* sync folders with `xcopy "c:\folder1" "d:\folder1" /s/e/d`
 
 ## CD
 * [AnyBurn](http://www.anyburn.com/)
@@ -175,7 +176,8 @@
 * [NAPS2](https://www.naps2.com/) - scan documents to PDF and more  
 * [PDFtk](https://www.pdflabs.com/tools/pdftk-the-pdf-toolkit/) - merge and split  
 * [GraphStudioNext](https://github.com/cplussharp/graph-studio-next) - tool for developers to build and test DirectShow Graphs  
-* [GetWindowText](http://www.softwareok.com/?seite=Microsoft/GetWindowText) - read non selectable 'window texts' and contents  
+* [GetWindowText](http://www.softwareok.com/?seite=Microsoft/GetWindowText) - read non selectable 'window texts' and contents
+* [WinNTSetup] - personalize your Windows setup before installing it 
 
 ## Capture
 * [OBS Studio](https://obsproject.com/) - screen capture and broadcasting  
