@@ -177,7 +177,8 @@
 * [PDFtk](https://www.pdflabs.com/tools/pdftk-the-pdf-toolkit/) - merge and split  
 * [GraphStudioNext](https://github.com/cplussharp/graph-studio-next) - tool for developers to build and test DirectShow Graphs  
 * [GetWindowText](http://www.softwareok.com/?seite=Microsoft/GetWindowText) - read non selectable 'window texts' and contents
-* [WinNTSetup] - personalize your Windows setup before installing it 
+* [WinNTSetup] - personalize your Windows setup before installing it
+* [Torrent File Editor](https://github.com/torrent-file-editor/torrent-file-editor)
 
 ## Capture
 * [OBS Studio](https://obsproject.com/) - screen capture and broadcasting  
