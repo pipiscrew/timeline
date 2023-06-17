@@ -7213,7 +7213,7 @@ files included :
 The focus of the main project is on games & MPC CD-ROMs. Includes 1,138 Windows 3x games..  
 
 * [reference](https://www.retro-exo.com/win3x.html)  
-* [mirror](https://archive.org/details/exowin3x_202107)
+* [mirror](https://archive.org/details/exowin3x_202107) [[2](https://archive.org/details/eXoWin3x)]
 
 files included :
 
