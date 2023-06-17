@@ -16,6 +16,7 @@
 	* [amiga](/notes/amiga.md)
 	* [amiga TOSEC](/notes/amiga_tosec.md)
 	* [eXoDOS](/notes/exodos.md)
+	* [steam](/notes/steam.md)
 	* [music](/notes/music.md)
 	* [wp2heroku](/notes/wp2heroku.md)
 	* when at  
