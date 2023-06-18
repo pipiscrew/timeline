@@ -75,7 +75,8 @@
 * (russian) [Yandex.Disk](https://disk.yandex.com/) - Store files online
 * [shelf.gg - A Pastebin for Resources](https://shelf.gg/)
 * [PrivateBin](https://privatebin.info/) - paste online
-	* [2] (https://bin.nixnet.services/)
+	* [2](https://bin.nixnet.services/)
+	* [3](https://privatebin.rinuploads.org/) 
 * [telegra](https://telegra.ph/) - paste online
 * [ArchiveBox - Your own personal internet archive](https://archivebox.io/)
   * [2](https://github.com/ArchiveBox/ArchiveBox)
