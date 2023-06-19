@@ -11,3 +11,18 @@ Once the game published the developers afterwards releasing **DLC** (DownLoadabl
 To play **online** you must have till the **latest** DLC package released. You can play online either by paying the game either download it as trialware by [here](https://thepiratebay.org/search.php?q=user:liluser) or [here](https://cs.rin.ru/) or [here](https://se7en.ws/?lang=en) the last one has `game launcher` (on any available update asking you to download).
 
 The trialware versions are not always enabled for online gamming. There are two technics, the first one enables [LAN](https://gitlab.com/Mr_Goldberg/goldberg_emulator) game and the second the [online](https://hl2go.com/downloads/dedicated-servers/srcds/revemu-latest-version-linux-windows/) game.
+
+---
+
+Adding money to your wallet through gift card  
+* Top right - Account details > Add funds to your wallet > `Redeem a steam wallet code`
+
+[illustrated](https://www.mygiftcardsupply.com/how-to-redeem-your-steam-gift-card/)
+
+---
+
+Is not downloading content?  
+* Top left - Steam > Settings > Downloads > set another `download region`
+  * you can try also `clear cache`
+
+[illustrated](https://youtu.be/RSSQhcE3si4?t=142)
