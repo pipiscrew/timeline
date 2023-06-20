@@ -33,3 +33,18 @@ Is not downloading content?
 [illustrated](https://youtu.be/RSSQhcE3si4?t=142)
 
 ---
+
+## Left 4 Dead 2 - Access **homebrew** servers 
+
+* launch the game from STEAM
+* on the main menu > Options > Keyboard/Mouse > `Enable Developer Console` 
+* return back to main menu by pressing ESC
+* hit tilde `~`
+* a new dialog will open
+* type `openserverbrowser` and hit enter > go to **CUSTOM** tab > sort by players column
+* finally press right click on chosen > `connect to server`
+
+some servers :
+* https://www.play-alliance.com/
+* https://zozo.gg/
+* https://core-ss.org/
