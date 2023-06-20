@@ -191,7 +191,7 @@ The boring answer is “it depends on your filter,” but here are three much mo
 So assumming that the air purifier company writes change the filter every 6 months  
 -Is that six months in Sweden or China?
 
-HEPAs get **black really quick**, yet they remain effective for long after.In other words, **color** is essentially **useless** for detecting when a HEPA needs to be **replaced**. The best method is to test **air flow**.
+HEPAs get **black really quick**, yet they remain effective for long after. In other words, **color** is essentially **useless** for detecting when a HEPA needs to be **replaced**. The best method is to test **air flow**.  
 
 In the following conditions, filter may be replaced:
 
@@ -211,10 +211,15 @@ Most air filters will have a light that goes on when the air flow is partially b
 * [Smartairfilters - How to Make a DIY Air Purifier](https://smartairfilters.com/en/blog/how-to-make-diy-air-purifier/)  
 * [Dynomight - A DIY air purifier that's better than a box-fan](https://dynomight.net/better-DIY-air-purifier.html)
 * (2023) [DIY air filter for polluted cities](https://particlecounting.tumblr.com/post/55483627230/how-to-make-a-diy-air-purifier)
-  * [Fan](https://item.jd.com/829933.html)
+  * [Fan](https://item.jd.com/829933.html) (50w - 370 x 310 x 100mm)
   * [Air Tester - Dylos DC1100 Pro Air Quality Monitor ](http://dylosproducts.com/ornodcproair.html)
     * [amazon](https://www.amazon.com/dp/B004AWEG0Y)
   * [test video](https://particlecounting.tumblr.com/post/55491154130/diy-air-outlet-test-heres-test-1-is-the-air)
+* [Smoke Air Filter (box-fan) for $150](https://www.outsideonline.com/outdoor-gear/gear-news/get-outside-tour-upcoming-events/)
+  * [Corsi-Rosenthal Box](https://aghealth.ucdavis.edu/news/corsi-rosenthal-box-diy-box-fan-air-filter-covid-19-and-wildfire-smoke)
+    * [video - How to make a 4-filter DIY Air Purifier with a round fan](https://www.youtube.com/watch?v=37DxuVFt1Qo)
+	* [video - I built my own air 4-filter](https://www.washingtonpost.com/health/2023/01/13/air-filter-diy-covid/)
+* [DIY Twin Window Fan Air Filter](http://www.air-purifier-power.com/windowfanfilter080515.html) - [[2]](http://www.air-purifier-power.com/doityourselfhepadyi120510.html) &nbsp; `Discolored HEPAs which do not show slowed air velocity still work fine.`
 * [Make An Ioniser](http://www.bigclive.com/ioniser.htm)
 	* [EEVblog Electronics Community Forum](https://www.eevblog.com/forum/projects/negative-ions-anions-room-generators/)
 

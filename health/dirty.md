@@ -24,11 +24,15 @@ more about [EMF](https://www.pipiscrew.com/threads/electromagnetic-waves.12018).
 
 **Static electricity**, which builds up inside your home when the rooms are **dry**, actually attracts dust and makes it cling stubbornly to surfaces. Install a humidifier. [source](https://www.bobvila.com/articles/how-to-get-rid-of-dust#install-a-humidifier)  
 
-**Humidifiers** add moisture to the air when it is too dry. Humidifiers in the wintertime to combat the dryness of winter air.
+**Humidifiers** add moisture to the air when it is too dry. Humidifiers in the wintertime to combat the dryness of winter air. Ideal values :  
+* humidity 40 - 60%
+* temprature 19 - 25°C
 
 **Dehumidifier** take moisture out of the air when it is too humid. Dehumidifiers are used during the spring and summer. 
 
-To determine the **humidity level** in your home pick up a **hygrometer** is cheap, you can find it at a home improvement store. Below 50% use humidifier above 50% use dehumidifier. [source](https://burkholders-hvac.com/humidifiers-vs-dehumidifiers/)
+**Moisture** (aka humidity) levels above 70% are considered high, high levels of moisture may facilitate the **growth** of biological organisms in the environment.  
+
+To determine the **humidity level** in your home pick up a **hygrometer** is cheap, you can find it at a home improvement store. Below 50% use humidifier above 50% use dehumidifier. [source](https://burkholders-hvac.com/humidifiers-vs-dehumidifiers/)  
 
 ![img](../assets/humidity.jpg)
 
