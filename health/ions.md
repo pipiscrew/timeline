@@ -264,4 +264,7 @@ To determine the **humidity level** in your home pick up a **hygrometer** is che
 
 ---
 
-**Dust** is a problem for multiple reasons: Tiny particles of skin, dirt, pollen, and dander can coat the surfaces of your furniture and walls, and as gross as it sounds they can also fill your **lungs**, which is why dust is often the underlying cause of **allergies**.
+**Dust** is a problem for multiple reasons: Tiny particles of skin, dirt, pollen, and dander can coat the surfaces of your furniture and walls, and as gross as it sounds they can also fill your **lungs**, which is why dust is often the underlying cause of **allergies**.  
+
+Can use an air purifier and humidifier together at the same time?  
+When used together, can complement each other functions. The **air purifier** helps remove pollutants from the air, including those that may be present in the **humidifier** water reservoir or introduced during the humidification process. This ensures that the air released by the **humidifier** is cleaner and healthier. Additionally, the **humidifier** helps maintain optimal humidity levels, which can enhance the effectiveness of the air purifier in capturing airborne particles.  
