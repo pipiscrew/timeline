@@ -10,7 +10,12 @@ Once the game published the developers afterwards releasing **DLC** (DownLoadabl
 
 To play **online** you must have till the **latest** DLC package released. You can play online either by paying the game either download it as trialware by [here](https://thepiratebay.org/search.php?q=user:liluser) or [here](https://cs.rin.ru/) or [here](https://se7en.ws/?lang=en) the last one has `game launcher` (on any available update asking you to download).
 
-The trialware versions are not always enabled for online gamming. There are two technics, the first one enables [LAN](https://gitlab.com/Mr_Goldberg/goldberg_emulator) game and the second the [online](https://hl2go.com/downloads/dedicated-servers/srcds/revemu-latest-version-linux-windows/) game.
+The trialware versions are not always enabled for online gamming. There are two technics, the first one enables [LAN](https://gitlab.com/Mr_Goldberg/goldberg_emulator) game and the second the [online](https://hl2go.com/downloads/dedicated-servers/srcds/revemu-latest-version-linux-windows/) game.  
+
+Keys :  
+* `y` or `u` - in game, opens the chat window.
+* `c` - while holding it and talk transmit to other player what you say.
+   * altenrative option is to go Top left - Steam > Settings > Broadcast > Record my microphonem thats is always on, no need to pressing `c`.
 
 ---
 
@@ -26,3 +31,5 @@ Is not downloading content?
   * you can try also `clear cache`
 
 [illustrated](https://youtu.be/RSSQhcE3si4?t=142)
+
+---
