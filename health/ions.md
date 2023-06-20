@@ -241,7 +241,7 @@ The more [disturbance](http://www.photographers-resource.co.uk/locations/nature/
 
 ---
 
-## Humidifiers vs Dehumidifiers
+## humidifiers vs dehumidifiers
 
 **Static electricity**, which builds up inside your home when the rooms are **dry**, actually attracts dust and makes it cling stubbornly to surfaces. Install a humidifier. [source](https://www.bobvila.com/articles/how-to-get-rid-of-dust#install-a-humidifier)  
 
