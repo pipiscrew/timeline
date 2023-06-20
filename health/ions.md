@@ -255,10 +255,10 @@ The more [disturbance](http://www.photographers-resource.co.uk/locations/nature/
 
 **Maintaining** an appropriate level of moisture is important for comfort and **health**. Dry air, which has low moisture content, can cause :  
 
-* Dry skin and **irritation**: Low humidity can lead to dry, itchy skin, chapped lips, and dry nasal passages.
-* **Respiratory** problems: Dry air can irritate the respiratory system and exacerbate conditions like allergies, asthma, and sinus congestion.
-* Increased susceptibility to **infections**: Dry air may contribute to a higher risk of respiratory infections and make individuals more susceptible to colds, flu, and other respiratory illnesses.
-* **Static** electricity: Low humidity can lead to static electricity buildup, resulting in annoying shocks and clinging clothes.  
+* **Dry skin and irritation**: Low humidity can lead to dry, itchy skin, chapped lips, and dry nasal passages.
+* **Respiratory problems**: Dry air can irritate the respiratory system and exacerbate conditions like allergies, asthma, and sinus congestion.
+* **Increased susceptibility to infections**: Dry air may contribute to a higher risk of respiratory infections and make individuals more susceptible to colds, flu, and other respiratory illnesses.
+* **Static electricity**: Low humidity can lead to static electricity buildup, resulting in annoying shocks and clinging clothes.  
 
 **Moisture** (aka humidity) levels above 70% are considered high, high levels of moisture may facilitate the **growth** of biological organisms in the environment.  
 
