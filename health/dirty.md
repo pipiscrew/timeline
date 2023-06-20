@@ -20,28 +20,4 @@ more about [EMF](https://www.pipiscrew.com/threads/electromagnetic-waves.12018).
 
 ---
 
-## Humidifiers vs Dehumidifiers
-
-**Static electricity**, which builds up inside your home when the rooms are **dry**, actually attracts dust and makes it cling stubbornly to surfaces. Install a humidifier. [source](https://www.bobvila.com/articles/how-to-get-rid-of-dust#install-a-humidifier)  
-
-`Humidifiers` add moisture to the air when it is too dry. Humidifiers in the wintertime to combat the dryness of winter air. **Ideal combination** :  
-* humidity 40 - 60%
-* temperature 19 - 25°C
-
-`Dehumidifier` take moisture out of the air when it is too humid. Dehumidifiers are used during the spring and summer. 
-
-**Moisture** (aka humidity) levels above 70% are considered high, high levels of moisture may facilitate the **growth** of biological organisms in the environment.  
-
-To determine the **humidity level** in your home pick up a **hygrometer** is cheap, you can find it at a home improvement store. Below 50% use humidifier above 50% use dehumidifier. [source](https://burkholders-hvac.com/humidifiers-vs-dehumidifiers/)  
-
-![img](../assets/humidity.jpg)
-
-**Dry air** equals with more **infections**. [video - Humidifiers using 3% hydrogen peroxide](https://youtu.be/uCo5s9mg77o) &nbsp; [[2](https://airlucent.com/hydrogen-peroxide-air-purifier/)]
-
-* (2020) [Might hydrogen peroxide reduce the hospitalization rate](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7308628/)
-* (2014) [Evaluating the virucidal efficacy of hydrogen peroxide vapour (HPV)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7132520/) - Virucidal for structurally distinct viruses dried on surfaces
-
----
-
-**Dust** is a problem for multiple reasons: Tiny particles of skin, dirt, pollen, and dander can coat the surfaces of your furniture and walls, and as gross as it sounds they can also fill your **lungs**, which is why dust is often the underlying cause of **allergies**.
-
+read for [Static electricity](https://pipiscrew.github.io/timeline/#/health/ions?id=humidifiers-vs-dehumidifiers)
