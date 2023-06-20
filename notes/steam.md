@@ -34,7 +34,7 @@ Is not downloading content?
 
 ---
 
-## Left 4 Dead 2 - Access **homebrew** servers 
+## Left 4 Dead 2 - homebrew servers 
 
 * launch the game from STEAM
 * on the main menu > Options > Keyboard/Mouse > `Enable Developer Console` 
