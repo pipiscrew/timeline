@@ -249,7 +249,16 @@ The more [disturbance](http://www.photographers-resource.co.uk/locations/nature/
 * humidity 40 - 60%
 * temperature 19 - 25°C
 
-`Dehumidifier` take moisture out of the air when it is too humid. Dehumidifiers are used during the spring and summer. 
+`Dehumidifier` take moisture out of the air when it is too humid. Dehumidifiers are used during the spring and summer.  
+
+**Increasing moisture** it means increasing the amount of **water vapor** present in the air compared to the maximum amount the air can **hold** at a specific **temperature**.  
+
+**Maintaining** an appropriate level of moisture is important for comfort and **health**. Dry air, which has low moisture content, can cause :  
+
+* Dry skin and **irritation**: Low humidity can lead to dry, itchy skin, chapped lips, and dry nasal passages.
+* **Respiratory** problems: Dry air can irritate the respiratory system and exacerbate conditions like allergies, asthma, and sinus congestion.
+* Increased susceptibility to **infections**: Dry air may contribute to a higher risk of respiratory infections and make individuals more susceptible to colds, flu, and other respiratory illnesses.
+* **Static** electricity: Low humidity can lead to static electricity buildup, resulting in annoying shocks and clinging clothes.  
 
 **Moisture** (aka humidity) levels above 70% are considered high, high levels of moisture may facilitate the **growth** of biological organisms in the environment.  
 
@@ -266,5 +275,5 @@ To determine the **humidity level** in your home pick up a **hygrometer** is che
 
 **Dust** is a problem for multiple reasons: Tiny particles of skin, dirt, pollen, and dander can coat the surfaces of your furniture and walls, and as gross as it sounds they can also fill your **lungs**, which is why dust is often the underlying cause of **allergies**.  
 
-Can use an air purifier and humidifier together at the same time?  
-When used together, can complement each other functions. The **air purifier** helps remove pollutants from the air, including those that may be present in the **humidifier** water reservoir or introduced during the humidification process. This ensures that the air released by the **humidifier** is cleaner and healthier. Additionally, the **humidifier** helps maintain optimal humidity levels, which can enhance the effectiveness of the air purifier in capturing airborne particles.  
+Q: Can use an air purifier and humidifier together at the same time?  
+A: When used together, can complement each other functions. The **air purifier** helps remove pollutants from the air, including those that may be present in the **humidifier** water reservoir or introduced during the humidification process. This ensures that the air released by the **humidifier** is cleaner and healthier. Additionally, the **humidifier** helps maintain optimal humidity levels, which can enhance the effectiveness of the air purifier in capturing airborne particles.  
