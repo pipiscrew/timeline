@@ -44,7 +44,7 @@ some servers :
 * https://zozo.gg/
 * https://core-ss.org/
 
-#$# misc
+### misc
 
 keys :  
 * `y` or `u` - in game, opens the chat window.
