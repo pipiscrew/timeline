@@ -12,11 +12,6 @@ To play **online** you must have till the **latest** DLC package released. You c
 
 The trialware versions are not always enabled for online gamming. There are two technics, the first one enables [LAN](https://gitlab.com/Mr_Goldberg/goldberg_emulator) game and the second the [online](https://hl2go.com/downloads/dedicated-servers/srcds/revemu-latest-version-linux-windows/) game.  
 
-Keys :  
-* `y` or `u` - in game, opens the chat window.
-* `c` - while holding it and talk transmit to other player what you say.
-   * altenrative option is to go Top left - Steam > Settings > Broadcast > Record my microphonem thats is always on, no need to pressing `c`.
-
 ---
 
 Adding money to your wallet through gift card  
@@ -42,9 +37,16 @@ Is not downloading content?
 * hit tilde `~`
 * a new dialog will open
 * type `openserverbrowser` and hit enter > go to **CUSTOM** tab > sort by players column
-* finally press right click on chosen > `connect to server`
+* finally press right click on chosen > `connect to server` &nbsp; [[source](https://gamefaqs.gamespot.com/boards/960510-left-4-dead-2/52324192)]
 
 some servers :
 * https://www.play-alliance.com/
 * https://zozo.gg/
 * https://core-ss.org/
+
+#$# misc
+
+keys :  
+* `y` or `u` - in game, opens the chat window.
+* `c` - while holding it and talk transmit to other player what you say.
+   * altenrative option is to go Top left - Steam > Settings > Broadcast > Record my microphonem thats is always on, no need to pressing `c`.
