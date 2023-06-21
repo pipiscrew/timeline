@@ -77,6 +77,16 @@ If the device is shown as unauthorized, go to the developer options on the phone
 adb shell
 pm uninstall --user 0 com.google.android.webview
 
+warning on androidOS v6 - removed the webview seems that is a conflict when open the SMS (due MMS) :
+E WebViewFactory: Chromium WebView package does not exist
+E WebViewFactory: android.webkit.WebViewFactory$MissingWebViewPackageException: android.content.pm.PackageManager$NameNotFoundException: com.google.android.webview
+E AndroidRuntime: FATAL EXCEPTION: main
+E AndroidRuntime: Process: com.android.mms
+E AndroidRuntime: android.util.AndroidRuntimeException: android.webkit.WebViewFactory$MissingWebViewPackageException: android.content.pm.PackageManager$NameNotFoundException: com.google.android.webview
+
+solution : reinstall the webview (armeabi-v7a) by https://is.gd/a6hBWT
+
+
 warning : dont remove other default apps, first search on XDA, a guy saying that on XIAOMI if u remove the default antiv the phone stuck on bootloop
 ```
 

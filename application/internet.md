@@ -240,7 +240,10 @@ To disable multiple running processes of the browser, you can set `browser.tabs.
 
 ## Firewall
 * [TinyWall](https://tinywall.pados.hu/)
-* [Malwarebytes.WFC](https://www.binisoft.org/wfc) - use `log window` for more options. (ex binisoft as trial.
+* [Malwarebytes.WFC](https://www.binisoft.org/wfc) - use `log window` for more options. (ex binisoft as trial).
+  * before install delete all rules exist through Control Panel
+  * after you have to `allow` the `DNS client (svhost.exe)`
+  * at `Rules Panel` make sure always the `Display` combo set to `All rules`, some sniffy apps adding direct, only `Inbound` rules..
 * [portmaster](https://safing.io/) - cross platform
 * [Evorim.Firewall](https://www.evorim.com/en/free-firewall)
 * [simplewall](https://www.henrypp.org/product/simplewall)

@@ -39,9 +39,8 @@ some servers :
 * https://zozo.gg/
 * https://core-ss.org/
 
-### misc
+### hotkeys
 
-keys :  
 * `y` or `u` - in game, opens the chat window.
 * `c` - while holding it and talk transmits, to other players what you saying.
    * altenrative option is to go Top left - Steam > Settings > Broadcast > Record my microphonem thats is always on, no need to pressing `c`.
