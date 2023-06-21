@@ -12,24 +12,19 @@ To play **online** you must have till the **latest** DLC package released. You c
 
 The trialware versions are not always enabled for online gamming. There are two technics, the first one enables [LAN](https://gitlab.com/Mr_Goldberg/goldberg_emulator) game and the second the [online](https://hl2go.com/downloads/dedicated-servers/srcds/revemu-latest-version-linux-windows/) game.  
 
----
-
-Adding money to your wallet through gift card  
+## adding money to your wallet through gift card  
 * Top right - Account details > Add funds to your wallet > `Redeem a steam wallet code`
+* or Top left - Steam > Settings > Account > Add funds
 
 [illustrated](https://www.mygiftcardsupply.com/how-to-redeem-your-steam-gift-card/)
 
----
-
-Is not downloading content?  
+## is not downloading content?  
 * Top left - Steam > Settings > Downloads > set another `download region`
   * you can try also `clear cache`
 
 [illustrated](https://youtu.be/RSSQhcE3si4?t=142)
 
----
-
-## Left 4 Dead 2 - homebrew servers 
+## left 4 dead 2 - homebrew servers 
 
 * launch the game from STEAM
 * on the main menu > Options > Keyboard/Mouse > `Enable Developer Console` 
