@@ -2323,7 +2323,7 @@
   * [Beeper – All Your Chats in One App](https://beeperhq.com/)
   * [Il2cpp-modder – Generate DLL injection projects for hacking Unity games](https://github.com/juanmjacobs/il2cpp-modder)
   * [RHEL is now free for up to 16 production servers](https://arstechnica.com/gadgets/2021/01/centos-is-gone-but-rhel-is-now-free-for-up-to-16-production-servers/)
-  * [[Unity Asset] Obfuscator](https://assetstore.unity.com/packages/tools/utilities/obfuscator-48919)
+  * [Unity Asset Obfuscator](https://assetstore.unity.com/packages/tools/utilities/obfuscator-48919)
   * [ZuccNet – Encrypted Facebook Messaging](https://github.com/tomquirk/zuccnet)
   * [Linux and Powershell](https://matteoguadrini.github.io/posts/linux-and-powershell/)
   * [Purism.Librem - take back control and protect your private information](https://puri.sm/)
