@@ -245,9 +245,15 @@ The more [disturbance](http://www.photographers-resource.co.uk/locations/nature/
 
 **Static electricity**, which builds up inside your home when the rooms are **dry**, actually attracts dust and makes it cling stubbornly to surfaces. Install a humidifier. [source](https://www.bobvila.com/articles/how-to-get-rid-of-dust#install-a-humidifier)  
 
-`Humidifiers` add moisture to the air when it is too dry. Humidifiers in the wintertime to combat the dryness of winter air. **Ideal combination** :  
-* humidity 40 - 60%
-* temperature 19 - 25°C
+`Humidifiers` add moisture to the air when it is too dry. Humidifiers in the wintertime to combat the dryness of winter air.  
+
+| type              | humidity | temperature  |
+| ----------------- | -------- | ------------ |
+| Ideal combination | 40 - 60% | 19 - 25°C    |
+| Neutral           | 30 - 39% | 15 - 18,9°C  |
+| Neutral           | 61 - 70% |  25,1 - 30°C |
+| no good           |  < 30%   |  < 15°C      |
+| no good           |  > 70%   |  > 30°C      |
 
 `Dehumidifier` take moisture out of the air when it is too humid. Dehumidifiers are used during the spring and summer.  
 
