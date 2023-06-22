@@ -247,13 +247,13 @@ The more [disturbance](http://www.photographers-resource.co.uk/locations/nature/
 
 `Humidifiers` add moisture to the air when it is too dry. Humidifiers in the wintertime to combat the dryness of winter air.  
 
-| type              | humidity | temperature  |
-| ----------------- | -------- | ------------ |
-| Ideal combination | 40 - 60% | 19 - 25°C    |
-| Neutral           | 30 - 39% | 15 - 18,9°C  |
-| Neutral           | 61 - 70% |  25,1 - 30°C |
-| no good           |  < 30%   |  < 15°C      |
-| no good           |  > 70%   |  > 30°C      |
+| type    | temperature | humidity |
+| ------- | ----------- | -------- |
+| ideal   | 19 - 25°C   | 40 - 60% |
+| neutral | 15 - 18,9°C | 30 - 39% |
+| neutral | 25,1 - 30°C | 61 - 70% |
+| bad     | < 15°C      | < 30%    |
+| bad     | \> 30°C     | \> 70%   |
 
 `Dehumidifier` take moisture out of the air when it is too humid. Dehumidifiers are used during the spring and summer.  
 
