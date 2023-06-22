@@ -1,5 +1,8 @@
 <input id="txtSearch" onkeypress="SearchList(event);" class="ceME" placeholder="press enter to search">
 
+## 22/06/2023
+* [🎬 Zaraleaks - Μικρη Χωρα Μεγαλα Εγκληματα](https://www.youtube.com/watch?v=Ma3tKk3vdZk)
+
 ## 06/06/2023
 * [Συνελήφθη Αλβανός μεγαλέμπορος ναρκωτικών στη Γλυφάδα - Τζίρος 250 εκατ, ευρώ σε ένα 10μηνο](https://www.businessnews.gr/ellada/item/265380-synelifthi-megalemporos-narkotikon-sti-glyfada-tziros-250-ekat-evro-se-ena-10mino)
 * [Καταγγελία ότι εκπαιδευτικός ξέσπασε σε κλάματα μετά την αξιολόγηση του Συμβούλου Εκπαίδευσης](https://www.documentonews.gr/article/kataggelia-oti-ekpaideytikos-xespase-se-klamata-meta-tin-axiologisi-toy-symvoyloy-ekpaideysis-axiologiti/)
