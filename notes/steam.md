@@ -42,7 +42,7 @@ official [discussions](https://steamcommunity.com/app/550/discussions/)
 * finally press right click on chosen > `connect to server` &nbsp; [[source](https://gamefaqs.gamespot.com/boards/960510-left-4-dead-2/52324192)]
 
 ### enable lobby connect list
-once the user `join` a group (example [The Dandy Ones](https://steamcommunity.com/groups/TheDandyOnes)) then this list appears 
+once the user `joins` a group (example [The Dandy Ones](https://steamcommunity.com/groups/TheDandyOnes)) then this list appears on main menu (lobby)  
 
 ![img](../assets/l4d2_lobby_servers.jpg)
 
