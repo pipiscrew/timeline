@@ -42,11 +42,11 @@ official [discussions](https://steamcommunity.com/app/550/discussions/)
 * finally press right click on chosen > `connect to server` &nbsp; [[source](https://gamefaqs.gamespot.com/boards/960510-left-4-dead-2/52324192)]
 
 ### enable lobby connect list
-once the user `joins` a group (example [The Dandy Ones](https://steamcommunity.com/groups/TheDandyOnes)) then this list appears on main menu (lobby)  
+once the user `joins` a group (example [The Dandy Ones](https://steamcommunity.com/groups/TheDandyOnes)) then, this list appears on main menu (aka lobby)  
 
 ![img](../assets/l4d2_lobby_servers.jpg)
 
-some [community](https://steamcommunity.com/search/groups/#text=L4D2+group+servers) servers.
+some [community](https://steamcommunity.com/search/groups/#text=L4D2+group+servers) groups.
 
 ### server things
 * [old - server side - steam gtoup settings](https://pricklytech.wordpress.com/2008/12/17/left-4-dead-steam-group-server-settings/)
