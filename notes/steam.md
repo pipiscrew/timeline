@@ -59,3 +59,10 @@ some [community](https://steamcommunity.com/search/groups/#text=L4D2+group+serve
 * `y` or `u` - in game, opens the chat window.
 * `c` - while holding it and talk transmits, to other players what you saying.
    * altenrative option is to go Top left - Steam > Settings > Broadcast > Record my microphonem thats is always on, no need to pressing `c`.
+
+### misc
+
+* [VRF / Valve Resource Format](https://github.com/SteamDatabase/ValveResourceFormat)
+  * CLI Decompiler - File data viewer, decompiler and a playground for testing new formats and features.
+  * GUI Viewer - A vpk archive viewer and extractor. Also supports viewing resources such as sounds, textures, models, maps, and much more.
+  * Library - Provides public API to parse resource files and some helpers.
