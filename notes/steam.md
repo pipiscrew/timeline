@@ -41,15 +41,14 @@ official [discussions](https://steamcommunity.com/app/550/discussions/)
 * type `openserverbrowser` and hit enter > go to **CUSTOM** tab > sort by players column
 * finally press right click on chosen > `connect to server` &nbsp; [[source](https://gamefaqs.gamespot.com/boards/960510-left-4-dead-2/52324192)]
 
-some servers :
-* [Community](https://steamcommunity.com/search/groups/#text=L4D2+group+servers)
-
-
 ### enable lobby connect list
 once the user `join` a group (example [The Dandy Ones](https://steamcommunity.com/groups/TheDandyOnes)) then this list appears 
 
 ![img](../assets/l4d2_lobby_servers.jpg)
 
+some [community](https://steamcommunity.com/search/groups/#text=L4D2+group+servers) servers.
+
+### server things
 * [old - server side - steam gtoup settings](https://pricklytech.wordpress.com/2008/12/17/left-4-dead-steam-group-server-settings/)
 * [old - command - sv_allow_lobby_connect_only](https://commands.gg/l4d2/sv-allow-lobby-connect-only)
 * [create a server](https://steamcommunity.com/sharedfiles/filedetails/?id=276173458)
