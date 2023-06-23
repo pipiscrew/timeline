@@ -24,7 +24,14 @@ The trialware versions are not always enabled for online gamming. There are two 
 
 [illustrated](https://youtu.be/RSSQhcE3si4?t=142)
 
+## enable to download content from homebrew servers (optional)
+
+* launch the game from STEAM
+* on the main menu > Options > Multiplayer > Custom Server Content = Allow all
+
 ## left 4 dead 2 - homebrew servers 
+
+official [discussions](https://steamcommunity.com/app/550/discussions/)
 
 * launch the game from STEAM
 * on the main menu > Options > Keyboard/Mouse > `Enable Developer Console` 
@@ -35,9 +42,18 @@ The trialware versions are not always enabled for online gamming. There are two 
 * finally press right click on chosen > `connect to server` &nbsp; [[source](https://gamefaqs.gamespot.com/boards/960510-left-4-dead-2/52324192)]
 
 some servers :
-* https://www.play-alliance.com/
-* https://zozo.gg/
-* https://core-ss.org/
+* [Community](https://steamcommunity.com/search/groups/#text=L4D2+group+servers)
+
+
+### enable lobby connect list
+once the user `join` a group (example [The Dandy Ones](https://steamcommunity.com/groups/TheDandyOnes)) then this list appears 
+
+![img](../assets/l4d2_lobby_servers.jpg)
+
+* [old - server side - steam gtoup settings](https://pricklytech.wordpress.com/2008/12/17/left-4-dead-steam-group-server-settings/)
+* [old - command - sv_allow_lobby_connect_only](https://commands.gg/l4d2/sv-allow-lobby-connect-only)
+* [create a server](https://steamcommunity.com/sharedfiles/filedetails/?id=276173458)
+* [find & join a sever](https://steamcommunity.com/sharedfiles/filedetails/?id=573020642)
 
 ### hotkeys
 

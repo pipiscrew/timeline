@@ -58,7 +58,7 @@
 * [Funduc.Search and Replace](https://www.funduc.com/search_replace.htm)  (search inside files also offers replace)
 * [AstroGrep](http://astrogrep.sourceforge.net/)  
     * [more](https://www.slant.co/topics/5541/~gui-grep-implementations-for-windows)
-* search content of files via dos `findstr /msi test *` [[more](https://docs.microsoft.com/en-us/windows-server/administration/windows-commands/findstr)] [[use of and/or](https://superuser.com/a/909130)]
+* search content of files via dos `findstr /msi test *` [[search w/ space](https://stackoverflow.com/a/9789585)] [[more](https://docs.microsoft.com/en-us/windows-server/administration/windows-commands/findstr)] [[use of and/or](https://superuser.com/a/909130)]
 
 ## Text Editors
 * [Notepad++](https://notepad-plus-plus.org/)
@@ -249,6 +249,7 @@ The sequence is :
 * [LiteOS](https://archive.org/details/@liteos)
   * [Microsoft Windows 10](https://www.techworm.net/2022/08/download-windows-10-iso.html)
     * [Internet Archive.LTSC 2019](https://archive.org/details/win-10.-ltsc-2019.x-64.lite.v-2107-ik)
+	* [Tiny11-NTDEV](https://archive.org/details/tiny-11-NTDEV)
   * [adguard](https://files.rg-adguard.net/)
   * [VC++ Redistributable 2015-2022](https://learn.microsoft.com/en-US/cpp/windows/latest-supported-vc-redist)
 
