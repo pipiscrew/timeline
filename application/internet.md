@@ -344,4 +344,5 @@ To find the profile currently is use navigate to `Help > Troubleshooting Informa
   * [FlashPatch](https://github.com/darktohka/FlashPatch) - modifies the Flash Player installation, making it possible to play flash files &nbsp; ([adobe.setup Firefox/Chrome](https://www.flash.cn/flashplayer/3400192/install_flash_player_ppapi_cn.exe)) &nbsp; ([adobe.setup activeX](https://www.flash.cn/flashplayer/3400192/install_flash_player_ax_cn.exe))
 * [ContaCam](https://www.contaware.com/contacam.html) - webcam recording and motion detection  
 * [q](https://github.com/natesales/q) - DNS client with support for UDP, TCP, DoT, DoH, DoQ and ODoH  
-* [Tired of Paywalls and Login Screens](www.thisischip.com/)  
+* [Tired of Paywalls and Login Screens](www.thisischip.com/)
+* [How much time will it take to Upload?](https://downloadtimecalculator.com/Upload-Time-Calculator.html)

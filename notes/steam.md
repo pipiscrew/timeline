@@ -62,6 +62,7 @@ some [community](https://steamcommunity.com/search/groups/#text=L4D2+group+serve
 
 ### misc
 
+* [Cheat Codes](https://www.liveabout.com/left-4-dead-2-cheats-pc-3401984) - `sv_cheats 1`
 * [VRF / Valve Resource Format](https://github.com/SteamDatabase/ValveResourceFormat)
   * CLI Decompiler - File data viewer, decompiler and a playground for testing new formats and features.
   * GUI Viewer - A vpk archive viewer and extractor. Also supports viewing resources such as sounds, textures, models, maps, and much more.
