@@ -54,6 +54,12 @@ some [community](https://steamcommunity.com/search/groups/#text=L4D2+group+serve
 * [create a server](https://steamcommunity.com/sharedfiles/filedetails/?id=276173458)
 * [find & join a sever](https://steamcommunity.com/sharedfiles/filedetails/?id=573020642)
 
+### skip intro video
+
+enter `-novid` in launch parameters  
+
+![img](../assets/l4d2_novid.jpg)
+
 ### hotkeys
 
 * `y` or `u` - in game, opens the chat window.
