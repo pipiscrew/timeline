@@ -179,6 +179,7 @@
 * [GetWindowText](http://www.softwareok.com/?seite=Microsoft/GetWindowText) - read non selectable 'window texts' and contents
 * [WinNTSetup] - personalize your Windows setup before installing it
 * [Torrent File Editor](https://github.com/torrent-file-editor/torrent-file-editor)
+* [FreeArc](https://www.softpedia.com/get/PORTABLE-SOFTWARE/Compression-Tools/FreeArc-Portable.shtml)
 
 ## Capture
 * [OBS Studio](https://obsproject.com/) - screen capture and broadcasting  
