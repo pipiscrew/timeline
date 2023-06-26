@@ -171,6 +171,7 @@
 * [Driver Store Explorer](https://github.com/lostindark/DriverStoreExplorer)
 * [Qalculate!](https://qalculate.github.io/) - the ultimate desktop calculator
 * [Emsisoft - Ransomware Decryption Tools](https://emsisoft.com/ransomware-decryption-tools/)  
+* [avast - Ransomware Decryption Tools](https://www.avast.com/ransomware-decryption-tools)
 * [Windhawk](https://windhawk.net/) - customization marketplace  
 * [Crawlee](https://crawlee.dev/) - is a web scraping and browser automation library  
 * [NAPS2](https://www.naps2.com/) - scan documents to PDF and more  

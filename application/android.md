@@ -60,6 +60,7 @@
 * [ADB AppControl](https://adbappcontrol.com)
 * [wine](https://dl.winehq.org/wine-builds/android/) - emulator for windowsXP on android &nbsp;&nbsp; [howto](https://www.makeuseof.com/tag/run-windows-apps-android/) &nbsp;&nbsp; [xda winRT apps](https://forum.xda-developers.com/t/desktop-apps-ported-to-windows-rt.2092348/#post-36534446)  
 * [H96 - Android box](https://www.h96tvbox.com/firmware-download/)
+* [Eruda - Console for mobile browsers](https://eruda.liriliri.io/)
 
 Remove Android System WebView
 ```
