@@ -29,6 +29,9 @@ The trialware versions are not always enabled for online gamming. There are two 
 * launch the game from STEAM
 * on the main menu > Options > Multiplayer > Custom Server Content = Allow all
 
+## at statup - open to library tab
+* Top left - Steam > Settings > Interface > Start Up Location = Library
+
 ## left 4 dead 2 - homebrew servers 
 
 official [discussions](https://steamcommunity.com/app/550/discussions/)
@@ -46,7 +49,9 @@ once the user `joins` a group (example [The Dandy Ones](https://steamcommunity.c
 
 ![img](../assets/l4d2_lobby_servers.jpg)
 
-some [community](https://steamcommunity.com/search/groups/#text=L4D2+group+servers) groups.
+some [community](https://steamcommunity.com/search/groups/#text=L4D2+group+servers) groups.  
+
+if you have unwanted Steam Group Servers listed and don't know how to get rid of them see [here](https://steamcommunity.com/sharedfiles/filedetails/?id=652510755).
 
 ### server things
 * [old - server side - steam gtoup settings](https://pricklytech.wordpress.com/2008/12/17/left-4-dead-steam-group-server-settings/)

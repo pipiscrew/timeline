@@ -249,9 +249,9 @@ The more [disturbance](http://www.photographers-resource.co.uk/locations/nature/
 
 | type    | temperature | humidity |
 | ------- | ----------- | -------- |
-| neutral | 15 - 18,9°C | 30 - 39% |
+| good    | 15 - 18,9°C | 30 - 39% |
 | ideal   | 19 - 25°C   | 40 - 60% |
-| neutral | 25,1 - 30°C | 61 - 70% |
+| good    | 25,1 - 30°C | 61 - 70% |
 | neutral | < 15°C      | < 30%    |
 | neutral | \> 30°C     | \> 70%   |
 
