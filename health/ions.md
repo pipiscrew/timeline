@@ -246,7 +246,7 @@ What we do know is that the **macrophage** takes up air pollutants. These partic
 
 There’s also an increasing move toward **electric cars**. That in itself won't eliminate the problem, however, because the air pollution doesn't just come from diesel and petrol exhausts. It also comes from car **tires** and **brake** dust. For instance, the levels of PM 2.5 particulates on the London Underground, which runs on electric trains, are particularly **high**. Also, in the winter, **wood** burners contribute to much **higher** levels of PM 2.5 particulates.
 
-It’s estimated that over **90 percent** of the world population lives in areas where the concentrations of PM 2.5 air pollutants are **higher** than the WHO recommended level of 5 micrograms per meter cubed. [source](https://www.wired.com/story/charles-swanton-air-pollution-disease-deaths-cancer/) &nbsp; [[2](https://cleanmalaysia.com/2017/08/24/air-pollution-worse-think/)]
+It’s estimated that over **90 percent** of the world population lives in areas where the concentrations of PM 2.5 air pollutants are **higher** than the WHO recommended level of 5 micrograms per meter cubed. [source](https://href.li/?https://www.wired.com/story/charles-swanton-air-pollution-disease-deaths-cancer/) &nbsp; [[2](https://cleanmalaysia.com/2017/08/24/air-pollution-worse-think/)]
 
 ---
 
