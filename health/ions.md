@@ -239,6 +239,15 @@ The more [disturbance](http://www.photographers-resource.co.uk/locations/nature/
 * 06/2022 - [Contra Wirecutter on the IKEA air purifier](https://dynomight.net/ikea-purifier/)
 * 03/2023 - [HEPA Filter FAQ](https://itsairborne.com/hepa-filter-faq-4bcf084cb64e)
 
+### air pollution is worse than you think
+Traditionally, we thought that chemicals in the environment caused cancer by **mutating** DNA. It turns out the air pollution doesn’t mutate DNA. Instead, it creates an **inflammatory** response in a white cell called a **macrophage**. This cell releases an inflammatory **mediator** that can turn certain cells (those with a particular cancer-causing mutation) in the breathing apparatus of the lung into a cancer stem cell. In other words, the cancer-causing mutation and the air pollution work together in the right cell at the wrong time to initiate a cancer.
+
+What we do know is that the **macrophage** takes up air pollutants. These particular particles are so **large** that they can't be **digested** by the cell. Instead, they **remain** in the cell until it **dies**. Because of this, throughout its life, the cell releases a sort of **SOS** signal—inflammatory **mediators** that communicate with **other** cells. This causes **chronic** long-term inflammation, which we speculate may be the central **cause** for the underlying pathologies associated with pollution, leading to **damage** for example, to the pancreas or type-two diabetes, or damage to blood vessels, which results in strokes and heart attacks.
+
+There’s also an increasing move toward **electric cars**. That in itself won't eliminate the problem, however, because the air pollution doesn't just come from diesel and petrol exhausts. It also comes from car **tires** and **brake** dust. For instance, the levels of PM 2.5 particulates on the London Underground, which runs on electric trains, are particularly **high**. Also, in the winter, **wood** burners contribute to much **higher** levels of PM 2.5 particulates.
+
+It’s estimated that over **90 percent** of the world population lives in areas where the concentrations of PM 2.5 air pollutants are **higher** than the WHO recommended level of 5 micrograms per meter cubed. [source](https://www.wired.com/story/charles-swanton-air-pollution-disease-deaths-cancer/) &nbsp; [[2](https://cleanmalaysia.com/2017/08/24/air-pollution-worse-think/)]
+
 ---
 
 ## humidifiers vs dehumidifiers
@@ -279,7 +288,7 @@ To determine the **humidity level** in your home pick up a **hygrometer** is che
 
 ---
 
-**Dust** is a problem for multiple reasons: Tiny particles of skin, dirt, pollen, and dander can coat the surfaces of your furniture and walls, and as gross as it sounds they can also fill your **lungs**, which is why dust is often the underlying cause of **allergies**.  
+**Dust** is a problem for multiple reasons: Tiny particles of skin, dirt, pollen, and dander can coat the surfaces of your furniture and walls, and as gross as it sounds they can also fill your **lungs**, which is why dust is often the underlying cause of **allergies**. [[more - Tips For Better Indoor Air Quality](http://dylosproducts.com/tiforbeinair.html)]
 
 Q: Can use an air purifier and humidifier together at the same time?  
 A: When used together, can complement each other functions. The **air purifier** helps remove pollutants from the air, including those that may be present in the **humidifier** water reservoir or introduced during the humidification process. This ensures that the air released by the **humidifier** is cleaner and healthier. Additionally, the **humidifier** helps maintain optimal humidity levels, which can enhance the effectiveness of the air purifier in capturing airborne particles.  

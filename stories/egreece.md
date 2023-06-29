@@ -37,6 +37,7 @@
 * myErgani - [https://myergani.gov.gr](https://myergani.gov.gr) ή [https://eservices.yeka.gr](https://eservices.yeka.gr)
 * ΟΑΕΔ / ΔΥΠΑ - [https://eservices.oaed.gr/pls/apex/](https://eservices.oaed.gr/pls/apex/) - [https://www.dypa.gov.gr/](https://www.dypa.gov.gr/)  
   * Προγράμματα κοινωνικού τουρισμού (ΔΥΠΑ) - [https://www.gov.gr/ipiresies/ergasia-kai-asphalise/apozemioseis-kai-parokhes/koinonikos-tourismos](https://www.gov.gr/ipiresies/ergasia-kai-asphalise/apozemioseis-kai-parokhes/koinonikos-tourismos)
+  * Πρόγραμμα «Σπίτι μου» - [https://www.dypa.gov.gr/spitimou](https://www.dypa.gov.gr/spitimou)
 * ΑΣΕΠ - [https://www.asep.gr/asep/login/login.jsp](https://www.asep.gr/asep/login/login.jsp)  
 * MyEyathPortal - [https://portal.eyath.gr](https://portal.eyath.gr) - μπορεί κανείς να δηλώνει όλες τις βλάβες ύδρευσης – αποχέτευσης [more](https://www.grtimes.gr/ellada/nees-e-ypiresies-apo-tin-eyath-sto-myeyathportal)  
 * Δικαστηρίων - ΟΣΔΔΥ - [https://www.solon.gov.gr/webcenter/portal/osddy](https://www.solon.gov.gr/webcenter/portal/osddy)  
