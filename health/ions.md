@@ -223,6 +223,14 @@ Most air filters will have a light that goes on when the air flow is partially b
 * [Make An Ioniser](http://www.bigclive.com/ioniser.htm)
 	* [EEVblog Electronics Community Forum](https://www.eevblog.com/forum/projects/negative-ions-anions-room-generators/)
 
+#### pm explained
+When using an air meter to measure PM (Particulate Matter) in **microns**.
+
+The most commonly used classification for PM is based on the aerodynamic diameter of the **particles**. The micrometer (µm) is the unit of measurement used for particle **size**. Common PM size categories:
+
+* **PM10**: Particles with an aerodynamic diameter of 10 micrometers or smaller. These particles include dust, pollen, mold spores, and larger particles that are visible to the **naked eye**.
+* **PM2.5**: Particles with an aerodynamic diameter of 2.5 micrometers or smaller. This category includes fine particles such as combustion particles, organic compounds, and smaller dust particles. PM2.5 is often associated with haze and can penetrate deep into the respiratory system.
+
 ### fountain
 
 The more [disturbance](http://www.photographers-resource.co.uk/locations/nature/Waterfalls/Waterfall_health.htm) there is in the water the more you find **produced**, so while a garden pond fountain or stream may produce some, the more impressive the waterfall is, the more likely it is that you will feel the affect. Some people are able to feel this affect directly while it affects everyone who is nearby although they may not be able to feel it directly. In some European countries, some institutions like hospitals are required to ionize their air. 
