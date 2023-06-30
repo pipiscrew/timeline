@@ -214,6 +214,8 @@ Most air filters will have a light that goes on when the air flow is partially b
   * [Fan](https://item.jd.com/829933.html) (50w - 370 x 310 x 100mm)
   * [Air Tester - Dylos DC1100 Pro Air Quality Monitor ](http://dylosproducts.com/ornodcproair.html)
     * [amazon](https://www.amazon.com/dp/B004AWEG0Y)
+    * [alternative - IQAir - Air Quality Monitor](https://www.iqair.com/us/air-quality-monitors)
+    * [alternative - qingping - Air Monitor Lite](https://www.qingping.co/air-monitor-lite/overview)
   * [test video](https://particlecounting.tumblr.com/post/55491154130/diy-air-outlet-test-heres-test-1-is-the-air)
 * [Smoke Air Filter (box-fan) for $150](https://www.outsideonline.com/outdoor-gear/gear-news/get-outside-tour-upcoming-events/)
   * [Corsi-Rosenthal Box](https://aghealth.ucdavis.edu/news/corsi-rosenthal-box-diy-box-fan-air-filter-covid-19-and-wildfire-smoke)
