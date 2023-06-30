@@ -215,7 +215,8 @@ Most air filters will have a light that goes on when the air flow is partially b
   * [Air Tester - Dylos DC1100 Pro Air Quality Monitor ](http://dylosproducts.com/ornodcproair.html)
     * [amazon](https://www.amazon.com/dp/B004AWEG0Y)
     * [alternative - IQAir - Air Quality Monitor](https://www.iqair.com/us/air-quality-monitors)
-    * [alternative - qingping - Air Monitor Lite](https://www.qingping.co/air-monitor-lite/overview)
+    * [alternative - xiaomi.qingping - Air Monitor Lite](https://www.qingping.co/air-monitor-lite/overview)
+      * In priority sequence (incl suggested values) : PM2.5 under 5 ug/m3 (or μg/m3) (WHO says 10 ug/m3), next you try to keep your CO2 < 1000 ppm, and thirdly you try and keep your TVOC <500 ppb. [[source](https://www.reddit.com/r/AirQuality/comments/14kxbyq/maintaining_healthy_co2_levels_while_sleeping/)] &nbsp; [[explained](https://i.imgur.com/nsdjvhg.png)]
   * [test video](https://particlecounting.tumblr.com/post/55491154130/diy-air-outlet-test-heres-test-1-is-the-air)
 * [Smoke Air Filter (box-fan) for $150](https://www.outsideonline.com/outdoor-gear/gear-news/get-outside-tour-upcoming-events/)
   * [Corsi-Rosenthal Box](https://aghealth.ucdavis.edu/news/corsi-rosenthal-box-diy-box-fan-air-filter-covid-19-and-wildfire-smoke)
