@@ -214,9 +214,6 @@ Most air filters will have a light that goes on when the air flow is partially b
   * [Fan](https://item.jd.com/829933.html) (50w - 370 x 310 x 100mm)
   * [Air Tester - Dylos DC1100 Pro Air Quality Monitor ](http://dylosproducts.com/ornodcproair.html)
     * [amazon](https://www.amazon.com/dp/B004AWEG0Y)
-    * [alternative - IQAir - Air Quality Monitor](https://www.iqair.com/us/air-quality-monitors)
-    * [alternative - xiaomi.qingping - Air Monitor Lite](https://www.qingping.co/air-monitor-lite/overview)
-      * In priority sequence (incl suggested values) : PM2.5 under 5 ug/m3 (or μg/m3) (WHO says 10 ug/m3), next you try to keep your CO2 < 1000 ppm, and thirdly you try and keep your TVOC <500 ppb. [[source](https://www.reddit.com/r/AirQuality/comments/14kxbyq/maintaining_healthy_co2_levels_while_sleeping/)] &nbsp; [[explained](https://i.imgur.com/nsdjvhg.png)]
   * [test video](https://particlecounting.tumblr.com/post/55491154130/diy-air-outlet-test-heres-test-1-is-the-air)
 * [Smoke Air Filter (box-fan) for $150](https://www.outsideonline.com/outdoor-gear/gear-news/get-outside-tour-upcoming-events/)
   * [Corsi-Rosenthal Box](https://aghealth.ucdavis.edu/news/corsi-rosenthal-box-diy-box-fan-air-filter-covid-19-and-wildfire-smoke)
@@ -226,13 +223,37 @@ Most air filters will have a light that goes on when the air flow is partially b
 * [Make An Ioniser](http://www.bigclive.com/ioniser.htm)
 	* [EEVblog Electronics Community Forum](https://www.eevblog.com/forum/projects/negative-ions-anions-room-generators/)
 
+### air monitors
+* [CH] [IQAir AirVisual Pro - Air Quality Monitor](https://www.iqair.com/us/air-quality-monitors)
+* [US] [Elitech.Temtop M10 - Air Quality Tester](https://temtopus.com/products/temtop-m10-air-quality-detector-professional-formaldehyde-tvoc-pm2-5-monitor-air-quality-meter) &nbsp; [[elitech](https://www.elitecheu.com/products/temtop-m10-air-quality-monitor)] &nbsp; [[amazon](https://www.amazon.de/dp/B07DTM97SY)] - [🎬 review](https://www.youtube.com/watch?v=WjgI2VG7deM) - product [made in China](https://m.media-amazon.com/images/I/71TEbTvelOL.jpg) - avoid the vertical models - [🎬 Six Air Quality Monitor Comparisons](https://www.youtube.com/watch?v=K3-Yvhk0C8o)
+* [CN] [xiaomi.Qingping - Air Monitor Lite](https://www.qingping.co/air-monitor-lite/overview) &nbsp; [[amazon](https://www.amazon.de/dp/B092HK4BB1)] - see negative reviews, users reported 'noisy fan'
+  * In priority sequence (incl suggested values) : PM2.5 under 5 ug/m3 (or μg/m3) (WHO says 10 ug/m3), next you try to keep your CO2 < 1000 ppm, and thirdly you try and keep your TVOC <500 ppb. [[source](https://www.reddit.com/r/AirQuality/comments/14kxbyq/maintaining_healthy_co2_levels_while_sleeping/)] &nbsp; [[explained](https://i.imgur.com/nsdjvhg.png)]
+
+#### meaning & prioritized order by potential health risks :
+* **PM2.5**: Particulate Matter 2.5 micrometers or smaller (PM2.5) remains at the highest priority due to its ability to penetrate deep into the lungs and its significant health implications.
+* **AQI**: The Air Quality Index (AQI) provides an overall assessment of air quality, considering multiple pollutants. It helps individuals understand the current air quality conditions and make informed decisions.
+* **CO2**: Carbon dioxide (CO2) monitoring is important for assessing indoor air quality and ventilation effectiveness. Elevated CO2 levels may indicate inadequate ventilation, potentially leading to discomfort and reduced cognitive function.
+* **TVOC**: Total Volatile Organic Compounds (TVOC) measurement is crucial for assessing the collective concentration of various VOCs. Elevated TVOC levels can indicate poor indoor air quality and potential health risks.
+* **PM10**: Particulate Matter 10 micrometers or smaller (PM10) represents larger particles and can contribute to respiratory and cardiovascular issues. While PM2.5 is of greater concern, monitoring PM10 levels provides additional information about overall particulate pollution.
+* **HCHO**: Formaldehyde (HCHO) monitoring is still important, but it has a relatively lower priority compared to the other measurements listed. Formaldehyde emissions are not as widespread as particulate matter or VOCs, although it can have health implications.
+
 #### pm explained
 When using an air meter to measure PM (Particulate Matter) in **microns**.
 
 The most commonly used classification for PM is based on the aerodynamic diameter of the **particles**. The micrometer (µm) is the unit of measurement used for particle **size**. Common PM size categories:
 
-* **PM10**: Particles with an aerodynamic diameter of 10 micrometers or smaller. These particles include dust, pollen, mold spores, and larger particles that are visible to the **naked eye**.
-* **PM2.5**: Particles with an aerodynamic diameter of 2.5 micrometers or smaller. This category includes fine particles such as combustion particles, organic compounds, and smaller dust particles. PM2.5 is often associated with haze and can penetrate deep into the respiratory system.
+* **PM10**: Particles with an aerodynamic diameter of 10 micrometers or smaller. These particles include dust, pollen, mold spores, and larger particles that are visible to the **naked eye**. Particulates including :
+  * **Dust and Soil**: Wind erosion of dust and soil, particularly in arid or dry regions, can generate PM10 particles. Construction sites, unpaved roads, and agricultural activities are common sources.
+  * **Pollen and Biological Particles**: Pollen grains from trees, grasses, and other plants, as well as spores from molds and fungi, can contribute to PM10 levels, especially during pollen seasons.
+  * **Industrial and Construction Activities**: Dust and particulate emissions from industrial processes, construction sites, mining operations, and material handling can release PM10 particles.
+  * **Road Dust**: Traffic movement on unpaved roads or poorly maintained paved roads can generate dust, contributing to PM10 levels in the vicinity.
+  **Crushing and Grinding Operations**: Activities such as crushing rocks, grinding operations, or crushing and processing of minerals can generate PM10 particulates.
+* **PM2.5**: Particles with an aerodynamic diameter of 2.5 micrometers or smaller. This category includes fine particles such as combustion particles, organic compounds, and smaller dust particles. PM2.5 is often associated with haze and can penetrate deep into the respiratory system. Particulates including :
+  * **Combustion Processes**: PM2.5 particles can be emitted from combustion processes, including the burning of fossil fuels in vehicles, power plants, and industrial facilities.
+  * **Vehicle Emissions**: Exhaust emissions from cars, trucks, and other motor vehicles are significant sources of PM2.5 particles, especially from diesel engines.
+  * **Industrial Emissions**: Industrial activities such as manufacturing, construction, and mining can release PM2.5 particles into the air, especially if they involve processes that generate dust, smoke, or fumes.
+  * **Residential Sources**: Activities like cooking, burning wood or biomass fuels for heating or cooking, and tobacco smoke can contribute to PM2.5 emissions indoors and outdoors.
+  * **Wildfires**: Smoke from wildfires is a major source of PM2.5 particles, and it can travel long distances, affecting air quality in surrounding regions.
 
 ### fountain
 
