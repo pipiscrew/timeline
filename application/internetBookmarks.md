@@ -416,11 +416,45 @@
 * [nosleep](https://nosleep.page/) - Prevent your computer sleeping with just a webpage  
 * https://spaceinbrowser.com/ - travel in space in your browser  
 
-## news media twitter
-* @b6ynpz9QK7ej5xP @skaigr @MegaTvOfficial @ANT159694954 @kathariDinami @CKastamonitis @lampros_paschos @prime @Tvnea @Makeleio_gr @ERTglobal @StarChannelGr @alphatvgreece @opentvgr @MakedoniaTV @pronewsgr @pitsirikos @NewsItFeed @ekathimerini
-* @guardiannews @Reuters @arstechnica @BBCBreaking @cnnbrk @bsindia @disclosetv @BusinessInsider @BNNBloomberg @nytimes @BuzzFeedNews @drvandanashiva @enikos_gr @News247gr @iefimerida @tovimagr @newsbeast @ethnosgr @ToProtoThema @to10gr @Lawandordergr
-* @Flashgr_ @zougla_online @newsbombgr @aixmigr @Newsgr1 @capitalgr @toxrima @fimesgr @euro2day_gr @newmoneygr @parapolitika @matrix24gr @parapolitika @FortuneGreece @tribunegr @HellasNow @usay_gr @analystgr @PressPublica @epixeirein @parataxiMETA  
-
-## report incident to mass media
-* ireport#cnn.com
-* YourQuestions#bbc.co.uk
+## price comparison websites
+* EMEA
+	* [AT] [preisjaeger](https://www.preisjaeger.at)
+		* [geizhals](https://geizhals.at/)
+	* [BG] [pazaruvaj](https://www.pazaruvaj.com)
+	* [CZ] [seznam.zbozi](https://www.zbozi.cz/)
+		* [heureka](https://www.heureka.cz/)
+		* [srovnanicen](https://www.srovnanicen.cz/)
+	* [DE] [idealo](https://www.idealo.de/)
+		* [geizhals](https://geizhals.de/)
+		* [guenstiger](https://www.guenstiger.de/)
+		* [billiger](https://www.billiger.de/)
+	* [GR] [skroutz](https://www.skroutz.gr/)
+		* [bestprice](https://www.bestprice.gr/)
+	* [HU] [arukereso](https://www.arukereso.hu)
+		* [argep](https://www.argep.hu)
+	* [HR] [jeftinije](https://www.jeftinije.hr)
+	* [IL] [zap](https://www.zap.co.il)
+	* [IT] [idealo](https://www.idealo.it/)
+		* [trovaprezzi](https://www.trovaprezzi.it/)
+	* [NL] [beslist](https://www.beslist.nl)
+		* [kieskeurig](https://www.kieskeurig.nl)
+		* [tweakers](https://tweakers.net)
+	* [PL] [skapiec](https://www.skapiec.pl)
+	* [PT] [kuantokusta](https://www.kuantokusta.pt)
+	* [RO] [compari](https://www.compari.ro)
+	* [RS] [idealno](https://www.idealno.rs)
+	* [SE] [pricerunner](https://www.pricerunner.se)
+	* [TR] [akakce](https://www.akakce.com)
+	* [UA] [hotline](https://hotline.ua)
+		* [ek](https://ek.ua)
+		* [fua](https://f.ua)
+	* [UK] [idealo](https://www.idealo.co.uk)
+		* [pricerunner](https://www.pricerunner.com/)
+* APAC
+	* [AU] [myshopping](https://www.myshopping.com.au)
+	* [ID] [zap](https://www.pricebook.co.id)
+	* [IN] [smartprix](https://www.smartprix.com)
+	* [JP] [aucfan](https://aucfan.com)
+		* [kakaku](https://kakaku.com)
+	* [MY] [shopee](https://shopee.com.my)
+	* [NZ] [priceme](https://www.priceme.co.nz) - your country is not listed? see more [here](https://www.similarweb.com/top-websites/e-commerce-and-shopping/price-comparison/)
