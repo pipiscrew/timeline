@@ -222,8 +222,11 @@ Most air filters will have a light that goes on when the air flow is partially b
 * [DIY Twin Window Fan Air Filter](http://www.air-purifier-power.com/windowfanfilter080515.html) - [[2]](http://www.air-purifier-power.com/doityourselfhepadyi120510.html) &nbsp; `Discolored HEPAs which do not show slowed air velocity still work fine.`
 * [Make An Ioniser](http://www.bigclive.com/ioniser.htm)
 	* [EEVblog Electronics Community Forum](https://www.eevblog.com/forum/projects/negative-ions-anions-room-generators/)
+* [Levoit Core 300S - Air Purifier](https://levoit.com/products/core-300s-smart-true-hepa-air-purifier) - best on US - [🎬 review](https://www.youtube.com/watch?v=ZvMYcocWfYo)
 
 ### air monitors
+* [TH] [DIY - AirGradient One - Air Quality Monitor](https://www.airgradient.com/shop/)
+* [SE] [w/o screen - HibouAir Particle & CO2 Sensor](https://www.hibouair.com)
 * [CH] [IQAir AirVisual Pro - Air Quality Monitor](https://www.iqair.com/us/air-quality-monitors)
 * [US] [Elitech.Temtop M10 - Air Quality Tester](https://temtopus.com/products/temtop-m10-air-quality-detector-professional-formaldehyde-tvoc-pm2-5-monitor-air-quality-meter) &nbsp; [[elitech](https://www.elitecheu.com/products/temtop-m10-air-quality-monitor)] &nbsp; [[amazon](https://www.amazon.de/dp/B07DTM97SY)] - [🎬 review](https://www.youtube.com/watch?v=WjgI2VG7deM) - product [made in China](https://m.media-amazon.com/images/I/71TEbTvelOL.jpg) - avoid the vertical models - [🎬 Six Air Quality Monitor Comparisons](https://www.youtube.com/watch?v=K3-Yvhk0C8o)
 * [CN] [xiaomi.Qingping - Air Monitor Lite](https://www.qingping.co/air-monitor-lite/overview) &nbsp; [[amazon](https://www.amazon.de/dp/B092HK4BB1)] - see negative reviews, users reported 'noisy fan'
