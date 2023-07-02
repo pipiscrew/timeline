@@ -421,6 +421,7 @@
 	* [AT] [preisjaeger](https://www.preisjaeger.at)
 		* [geizhals](https://geizhals.at/)
 	* [BG] [pazaruvaj](https://www.pazaruvaj.com)
+	* [CH] [techstudio](https://techstudio.ch)
 	* [CZ] [seznam.zbozi](https://www.zbozi.cz/)
 		* [heureka](https://www.heureka.cz/)
 		* [srovnanicen](https://www.srovnanicen.cz/)
