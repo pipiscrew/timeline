@@ -222,7 +222,7 @@ Most air filters will have a light that goes on when the air flow is partially b
 * [DIY Twin Window Fan Air Filter](http://www.air-purifier-power.com/windowfanfilter080515.html) - [[2]](http://www.air-purifier-power.com/doityourselfhepadyi120510.html) &nbsp; `Discolored HEPAs which do not show slowed air velocity still work fine.`
 * [Make An Ioniser](http://www.bigclive.com/ioniser.htm)
 	* [EEVblog Electronics Community Forum](https://www.eevblog.com/forum/projects/negative-ions-anions-room-generators/)
-* [Levoit Core 300S - Air Purifier](https://levoit.com/products/core-300s-smart-true-hepa-air-purifier) - best on US - [🎬 review](https://www.youtube.com/watch?v=ZvMYcocWfYo)
+* [Levoit Core 300S - Air Purifier](https://levoit.com/products/core-300s-smart-true-hepa-air-purifier) - best on US - [🎬 review](https://www.youtube.com/watch?v=ZvMYcocWfYo) - [power consumption](https://www.alza.cz/levoit-core300s-smart-d6809253.htm?o=3#recenze) : Low-6W; Medium-10W; High-22W
 
 ### air monitors
 * [TH] [DIY - AirGradient One - Air Quality Monitor](https://www.airgradient.com/shop/)
