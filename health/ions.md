@@ -240,6 +240,10 @@ Most air filters will have a light that goes on when the air flow is partially b
 * **PM10**: Particulate Matter 10 micrometers or smaller (PM10) represents larger particles and can contribute to respiratory and cardiovascular issues. While PM2.5 is of greater concern, monitoring PM10 levels provides additional information about overall particulate pollution.
 * **HCHO**: Formaldehyde (HCHO) monitoring is still important, but it has a relatively lower priority compared to the other measurements listed. Formaldehyde emissions are not as widespread as particulate matter or VOCs, although it can have health implications.
 
+#### filters explained
+* **HEPA** capture and trap PM2.5 and PM10.
+* **Activated Carbon** adsorbing and trapping odors, volatile organic compounds (VOCs), and some harmful gases like formaldehyde, ammonia, and certain chemicals.
+
 #### pm explained
 When using an air meter to measure PM (Particulate Matter) in **microns**.
 
