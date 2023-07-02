@@ -78,3 +78,4 @@ enter `-novid` in launch parameters
   * CLI Decompiler - File data viewer, decompiler and a playground for testing new formats and features.
   * GUI Viewer - A vpk archive viewer and extractor. Also supports viewing resources such as sounds, textures, models, maps, and much more.
   * Library - Provides public API to parse resource files and some helpers.
+* install custom map - User, either double click the .vpk file and auto installed either copy the .vpk file to `C:\SteamLibrary\steamapps\common\Left 4 Dead 2\left4dead2\addons`. The [.vpk](https://www.gamemaps.com/details/26998) is something like archive and is also an extractor called [GCFScape](https://developer.valvesoftware.com/wiki/GCFScape). 
