@@ -436,6 +436,7 @@
 	* [HR] [jeftinije](https://www.jeftinije.hr)
 	* [IL] [zap](https://www.zap.co.il)
 	* [IT] [idealo](https://www.idealo.it/)
+		* [kelkoo] (https://www.kelkoo.it/)
 		* [trovaprezzi](https://www.trovaprezzi.it/)
 	* [NL] [beslist](https://www.beslist.nl)
 		* [kieskeurig](https://www.kieskeurig.nl)
