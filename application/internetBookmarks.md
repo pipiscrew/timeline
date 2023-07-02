@@ -416,7 +416,7 @@
 * [nosleep](https://nosleep.page/) - Prevent your computer sleeping with just a webpage  
 * https://spaceinbrowser.com/ - travel in space in your browser  
 
-## price comparison websites
+## price comparison
 * EMEA
 	* [AT] [preisjaeger](https://www.preisjaeger.at)
 		* [geizhals](https://geizhals.at/)
@@ -445,6 +445,7 @@
 	* [RS] [idealno](https://www.idealno.rs)
 	* [SE] [pricerunner](https://www.pricerunner.se)
 	* [TR] [akakce](https://www.akakce.com)
+		* [epey](https://www.epey.com)
 	* [UA] [hotline](https://hotline.ua)
 		* [ek](https://ek.ua)
 		* [fua](https://f.ua)
