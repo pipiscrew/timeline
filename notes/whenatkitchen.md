@@ -151,3 +151,11 @@ This technique is called nappuccino. This is why several companies have nap room
 ## first day lunch
 * 2 eggs with broccoli
 * yogurt with 1 slice cherries jam
+
+## laundry
+
+![img](../assets/laundry.jpg)
+
+* I - 'Pre wash' - never use this
+* II - 'Main wash'
+* Flower symbol - 'Fabric softener' more [here](https://www.reco.shop/blogs/reco-blog/what-are-the-3-compartments-in-a-washing-machine-drawer).

@@ -2,6 +2,7 @@
 * [CodeSector.Direct Folders](https://www.codesector.com/directfolders) - Useful functionality **ClickSwitch**.
 * [PinMe!](https://forum.tuts4you.com/files/file/2125-pinme/)
 * [NTWind.Visual Subst](https://www.ntwind.com/software/visual-subst.html) - Mount folder as drive
+* [WinArchiver](https://www.winarchiver.com/) - virtual drive can mount ZIP, RAR, 7Z, and other archives as virtual drive instantly
 * [Sysinternals.Autoruns for Windows](https://docs.microsoft.com/en-gb/sysinternals/downloads/autoruns)
 * [3D model file thumbnails for Windows Explorer](https://github.com/EYHN/space-thumbnails)  
 
@@ -38,6 +39,7 @@
 ## Dos
 * [dosbox](https://www.dosbox.com/) - x86 emulator with DOS
   * [DOSBox-X](https://dosbox-x.com/wiki/DOSBox%E2%80%90X%E2%80%99s-Feature-Highlights) - fork of dosbox with added features
+  * [vDosPlus](http://www.vdosplus.org/)
 * [ScummVM](https://www.scummvm.org) - replaces the executables shipped with the DOS games, allowing you to play them on systems for which they were never designed
 * [86box](https://86box.net/) - low level x86 emulator that runs older operating systems and software
 * [cmder](https://cmder.net/)
