@@ -331,3 +331,5 @@ To determine the **humidity level** in your home pick up a **hygrometer** is che
 
 Q: Can use an air purifier and humidifier together at the same time?  
 A: When used together, can complement each other functions. The **air purifier** helps remove pollutants from the air, including those that may be present in the **humidifier** water reservoir or introduced during the humidification process. This ensures that the air released by the **humidifier** is cleaner and healthier. Additionally, the **humidifier** helps maintain optimal humidity levels, which can enhance the effectiveness of the air purifier in capturing airborne particles.  
+
+It is possible that the air quality **sensor** in the **air purifier** detected an increase in humidity levels or the release of particles (such as mineral dust or allergens) due to the operation of the **humidifier**. As a result, the air **purifier** automatically starts working to filter out any **impurities** that may have been introduced into the air during **humidification**. By using both an air purifier and an air humidifier together, you can **achieve** cleaner and more comfortable air in your environment.
