@@ -68,6 +68,7 @@ enter `-novid` in launch parameters
 ### hotkeys
 
 * `y` or `u` - in game, opens the chat window.
+* `q` or `12345` - to quick switch item.
 * `c` - while holding it and talk transmits, to other players what you saying.
    * altenrative option is to go Top left - Steam > Settings > Broadcast > Record my microphone thats is always on, no need to pressing `c`.
 
