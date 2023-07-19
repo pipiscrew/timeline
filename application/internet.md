@@ -113,6 +113,7 @@ Chrome start with
     * [powerman/user-overrides.js](https://gist.github.com/powerman/b90f3a63fa2f3583d3e89b2468f95388) - alternative user-overrides.js.
   * [pyllyukko](https://github.com/pyllyukko/user.js/)
   * [narsil](https://git.nixnet.services/Narsil/desktop_user.js)
+  * [Betterfox](https://github.com/yokoffing/Betterfox)
 
 #### Addons
 

@@ -24,6 +24,7 @@
 * [DbGate](https://github.com/dbgate/dbgate) - Database manager for MySQL, PostgreSQL, SQL Server, MongoDB, SQLite and others. Runs under Windows, Linux, Mac or as web application  
 * [DBeaver](https://dbeaver.io/) - (JRE) MySQL, PostgreSQL, SQLite, Oracle, DB2, SQL Server, Sybase, MS Access, Teradata, Firebird, Apache Hive, Phoenix, Presto++  
 * [MDB Viewer Plus](http://www.alexnolan.net/software/mdb_viewer_plus.htm)
+* [NPOI](https://github.com/nissl-lab/npoi) - read/write Office formats without Microsoft Office installed. No COM+, no interop (v2.5.6 is framework)
 
 ## git
 * [git minimal](https://www.nuget.org/packages/Git-Windows-Minimal/) - Git-Bash, Git-Gui, PERL, Python, and Tcl are excluded. Download rename it to rar, copy the **tools** folder. Add to environment path the **cmd** folder. Behind firewall ? whitelist @ **g**it-http-fetch.exe **g**it-http-push.exe **g**it-remote-https.exe exist @ mingw64\bin.  Use the following :  
