@@ -88,6 +88,8 @@
 * Ινστιτούτο Εκπαιδευτικής Πολιτικής (ΙΕΠ) - [http://iep.edu.gr](http://iep.edu.gr)
 * Κέντρο Προστασίας Δασών και Φυσικού Περιβάλλοντος - [https://www.fireman.gr/](https://www.fireman.gr/)
 * Know Your Customer (eGov-KYC) - [https://www.gov.gr/en/upourgeia/upourgeio-psephiakes-diakuberneses/psephiakes-diakuberneses/kyc](https://www.gov.gr/en/upourgeia/upourgeio-psephiakes-diakuberneses/psephiakes-diakuberneses/kyc) - Πρόληψη της νομιμοποίησης εσόδων από παράνομες δραστηριότητες  (Anti Money Laundering - AML)
+* SupportGOV Αποθετήριο Επικοινωνίας - [https://support.gov.gr/](https://support.gov.gr/)
+  * Αποθετήριο Απαντήσεων & Εγγράφων - [https://www.patt.gov.gr/psifiaki_exipiretisi/psifiakes_apothetirio/](https://www.patt.gov.gr/psifiaki_exipiretisi/psifiakes_apothetirio/)
 
 ---
   
