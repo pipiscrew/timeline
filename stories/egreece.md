@@ -87,9 +87,11 @@
 * ΠΑΚΟΕ - [https://www.pakoe.gr](https://www.pakoe.gr) - Πανελλήνιο Κέντρο Οικολογικών Ερευνών
 * Ινστιτούτο Εκπαιδευτικής Πολιτικής (ΙΕΠ) - [http://iep.edu.gr](http://iep.edu.gr)
 * Κέντρο Προστασίας Δασών και Φυσικού Περιβάλλοντος - [https://www.fireman.gr/](https://www.fireman.gr/)
-* Know Your Customer (eGov-KYC) - [https://www.gov.gr/en/upourgeia/upourgeio-psephiakes-diakuberneses/psephiakes-diakuberneses/kyc](https://www.gov.gr/en/upourgeia/upourgeio-psephiakes-diakuberneses/psephiakes-diakuberneses/kyc) - Πρόληψη της νομιμοποίησης εσόδων από παράνομες δραστηριότητες  (Anti Money Laundering - AML)
+* Know Your Customer (eGov-KYC) - [https://www.gov.gr/en/upourgeia/upourgeio-psephiakes-diakuberneses/kyc](https://www.gov.gr/en/upourgeia/upourgeio-psephiakes-diakuberneses/psephiakes-diakuberneses/kyc) - Anti Money Laundering
 * SupportGOV Αποθετήριο Επικοινωνίας - [https://support.gov.gr/](https://support.gov.gr/)
   * Αποθετήριο Απαντήσεων & Εγγράφων - [https://www.patt.gov.gr/psifiaki_exipiretisi/psifiakes_apothetirio/](https://www.patt.gov.gr/psifiaki_exipiretisi/psifiakes_apothetirio/)
+* Ηλεκτρονική επισημείωση της Χάγης (e-Apostille) - [https://e-apostille.gov.gr/](https://e-apostille.gov.gr/)
+
 
 ---
   
@@ -131,6 +133,7 @@
 
 ---
 
-  * [19/05/2023] [Σε ριζικό λίφτινγκ στα πληροφοριακά συστήματα Τaxis, Taxisnet και Elenxis προχωρά η ΑΑΔΕ](https://www.dikaiologitika.gr/eidhseis/oikonomia/429537/aade-erxetai-neo-taxisnet-ti-allazei)
-  * [03/06/2023] [Εκπαιδευτικό υλικό για το δημοτικό σχολείο](http://emathima.gr/)
-  * [03/06/2023] [Πώς πληρώνεται ο ΕΝΦΙΑ ηλεκτρονικά](https://www.ieidiseis.gr/oikonomia/200216/pos-plironetai-o-enfia-ilektronika-pos-vgazete-pistopoiitiko-sto-gov-gr)
+* [19/05/2023] [Σε ριζικό λίφτινγκ στα πληροφοριακά συστήματα Τaxis, Taxisnet και Elenxis προχωρά η ΑΑΔΕ](https://www.dikaiologitika.gr/eidhseis/oikonomia/429537/aade-erxetai-neo-taxisnet-ti-allazei)
+* [03/06/2023] [Εκπαιδευτικό υλικό για το δημοτικό σχολείο](http://emathima.gr/)
+* [03/06/2023] [Πώς πληρώνεται ο ΕΝΦΙΑ ηλεκτρονικά](https://www.ieidiseis.gr/oikonomia/200216/pos-plironetai-o-enfia-ilektronika-pos-vgazete-pistopoiitiko-sto-gov-gr)
+* [find latest news about GOV](https://mindigital.gr/archives/category/deltia-typou-anakoinoseis)
