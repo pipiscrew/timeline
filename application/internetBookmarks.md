@@ -435,6 +435,7 @@
 		* [argep](https://www.argep.hu)
 	* [HR] [jeftinije](https://www.jeftinije.hr)
 	* [IL] [zap](https://www.zap.co.il)
+		* [wisebuy](https://www.wisebuy.co.il)
 	* [IT] [idealo](https://www.idealo.it/)
 		* [kelkoo](https://www.kelkoo.it/)
 		* [trovaprezzi](https://www.trovaprezzi.it/)
