@@ -10,6 +10,9 @@
 * [WinPE 10-8 Sergei Strelec](https://sergeistrelec.name/winpe-10-8-sergei-strelec-english/219-winpe-10-8-sergei-strelec-x86x64native-x86-20221207-english-version.html)
 * [Win10PE SE](http://win10se.cwcodes.net/)
 * [LSoft.Active Boot Disk](https://www.lsoft.net/bootdisk/)
+* [Medicat](https://medicatusb.com/)
+* [Ventoy](https://www.ventoy.net/en/index.html) - create boot menu from isos
+* [Easy2Boot](https://www.ventoy.net/en/index.html) - 3 different multiboot menu systems based on grub4dos, grubfm and Ventoy
 
 ## Commanders
 * [Altap Salamander](https://www.altap.cz/)  
@@ -71,6 +74,7 @@
 	* [MarkdownViewer++](https://github.com/nea/MarkdownViewerPlusPlus)  
 	* [BetterMultiSelection](https://github.com/dail8859/BetterMultiSelection)
 	* [BigFiles](https://github.com/superolmo/BigFiles)  
+* [notepad3](https://www.rizonesoft.com/downloads/notepad3/) - supports selection  > compress blank
 * [MarkdownPad 2](http://markdownpad.com/)
 * [Markdown Monster](https://markdownmonster.west-wind.com/)
   * [2](https://github.com/RickStrahl/MarkdownMonster)
@@ -183,6 +187,7 @@
 * [WinNTSetup] - personalize your Windows setup before installing it
 * [Torrent File Editor](https://github.com/torrent-file-editor/torrent-file-editor)
 * [FreeArc](https://www.softpedia.com/get/PORTABLE-SOFTWARE/Compression-Tools/FreeArc-Portable.shtml)
+* [MiTeC.Task Manager](http://www.mitec.cz/tmx.html)
 
 ## Capture
 * [OBS Studio](https://obsproject.com/) - screen capture and broadcasting  

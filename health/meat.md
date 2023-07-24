@@ -17,7 +17,9 @@ Therefore the best and **safest meet** is the **less fatty**.
 
 > Fats exist into meat and are not visible by naked eye  (you do not have to see the fat, to be there)  
 
-Meat **500gr / day** for **5 days / week** is acceptable
+Meat **500gr / day** for **5 days / week** is acceptable..  
+
+Find your grams with [Dietary Reference Intakes Calculator for Healthcare Professionals](https://www.nal.usda.gov/fnic/dri-calculator/).
 
 ----------
 
