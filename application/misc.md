@@ -337,7 +337,7 @@ copy /b *.txt all.txt
 ```
 @echo off
 
-### :hi
+:hi
 
 tasklist /fi "ImageName eq PR0SVER.EXE" /FI "USERNAME eq %username%" /fo csv 2>NUL | find /I "PR0SVER.EXE">NUL
 
