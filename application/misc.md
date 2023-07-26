@@ -333,7 +333,7 @@ copy /b file1.txt + file2.txt all.txt
 copy /b *.txt all.txt
 ```
 
-* when preocess does not exist, make an action
+* when process does not exist, make an action
 ```
 @echo off
 
