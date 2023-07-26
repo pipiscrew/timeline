@@ -335,6 +335,7 @@ copy /b *.txt all.txt
 
 * when preocess does not exist, make an action
 ```
+/*
 @echo off
 
 :hi
@@ -358,6 +359,7 @@ goto hi
 :hend
 echo My Lord all the files processed!
 pause
+*/
 ```
 
 * copy files with parent folder  
