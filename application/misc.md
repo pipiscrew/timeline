@@ -334,11 +334,10 @@ copy /b *.txt all.txt
 ```
 
 * when preocess does not exist, make an action
-```csharp
-/*
+```
 @echo off
 
-:hi
+\:hi
 
 tasklist /fi "ImageName eq PR0SVER.EXE" /FI "USERNAME eq %username%" /fo csv 2>NUL | find /I "PR0SVER.EXE">NUL
 
@@ -359,7 +358,6 @@ goto hi
 :hend
 echo My Lord all the files processed!
 pause
-*/
 ```
 
 * copy files with parent folder  
