@@ -333,6 +333,33 @@ copy /b file1.txt + file2.txt all.txt
 copy /b *.txt all.txt
 ```
 
+* when preocess does not exist, make an action
+```
+@echo off
+
+:hi
+
+tasklist /fi "ImageName eq PR0SVER.EXE" /FI "USERNAME eq %username%" /fo csv 2>NUL | find /I "PR0SVER.EXE">NUL
+
+if NOT "%ERRORLEVEL%"=="0" (
+
+//https://gist.github.com/simply-coded/4fa36df80d91f1c365a9f2ef02f1b036
+//https://duckduckgo.com/?q=vbs+CDO.Message
+cscript //nologo sendEmail.vbs \
+
+goto hend
+
+)
+
+timeout /t 30
+ 
+goto hi
+
+:hend
+echo My Lord all the files processed!
+pause
+```
+
 * copy files with parent folder  
 ```
 when we have the c:\countries

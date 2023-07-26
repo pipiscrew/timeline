@@ -75,6 +75,7 @@ enter `-novid` in launch parameters
 ### misc
 
 * [hand weapons](https://imgur.com/a/8FBIe1K) & [all weapons](https://left4dead.fandom.com/wiki/Weapons)
+* [10 tricks for survivors](https://www.youtube.com/watch?v=AEWIe3YRq7Y)
 * [Cheat Codes](https://www.liveabout.com/left-4-dead-2-cheats-pc-3401984) - `sv_cheats 1`
 * [VRF / Valve Resource Format](https://github.com/SteamDatabase/ValveResourceFormat)
   * CLI Decompiler - File data viewer, decompiler and a playground for testing new formats and features.
