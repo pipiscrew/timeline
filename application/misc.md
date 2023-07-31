@@ -333,11 +333,47 @@ copy /b file1.txt + file2.txt all.txt
 copy /b *.txt all.txt
 ```
 
+* use of export to file then read by to screen
+```
+@echo off
+ 
+echo Started %DATE% %TIME%
+ 
+for %%f in (*.sql) do (
+
+if %%f==y.sql (
+echo 'y.sql' found, please execute it via SQL DEVELOPER then continue here by 'x.sql'
+pause
+exit
+)
+
+if %%f==x.sql (
+echo 'x.sql' found, please execute it via SQL DEVELOPER then continue here by 'z.sql'
+pause
+exit
+)
+
+    echo **Executing %%f...
+    ::log to file
+    echo exit | C:\sqldeveloper\sqldeveloper\bin\sql.exe -s xxxx/##password###@xxxx.com:1000/XXXXX @%~dp0%%f > %~dp0%%f.log
+    ::read log file to screen
+    type %~dp0%%f.log
+    echo:
+    echo **Script %%f execution complete.
+    echo:
+    echo:
+    ::timeout is case user want to break the execute, if the previous script failed
+    timeout /t 5
+)
+
+echo Master finished...
+```
+
 * when process does not exist, make an action
 ```
 @echo off
 
- :hi
+:hi
 
 tasklist /fi "ImageName eq PR0SVER.EXE" /FI "USERNAME eq %username%" /fo csv 2>NUL | find /I "PR0SVER.EXE">NUL
 
