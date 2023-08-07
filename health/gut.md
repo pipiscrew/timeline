@@ -549,6 +549,20 @@ The results suggest that **B. subtilis** probiotics could safely **reduce** **S.
 
 -----  
 
+## Omega3
+Research shows omega-3 **improve** the diversity of your gut bacteria, which is key to your overall health. The **Lachnospiraceae bacteria** family (often associated with **reduced inflammation** and reduced risk of obesity) has been linked to omega-3.  
+
+It’s also worth noting that, in animal studies, omega-3 fatty acids seem to **reduce gut inflammation and permeability**, which suggests they are useful for helping manage conditions like **leaky gut** or IBD.  
+
+Although you might see them used interchangeably, omega 3 and fish oil aren’t one and the same. Omega 3 are specific types of fatty acids (ALA, EPA, DHA) while fish oil comes from the tissue of fish and has other nutrients besides the two out of the three omega-3 fatty acids (EPA and DHA) it contains. [source](https://flore.com/blogs/learn/omega-3-for-gut-health)  
+
+Studies claim omega-3 fatty acids found in fish oil can reduce or **prevent** the rise in **leukotriene B4**, which lowers the inflammation in your gut. A small study with 11 men with mild to moderate UC tested this.  [source](https://www.webmd.com/ibd-crohns-disease/ulcerative-colitis/fish-oil-ulcerative-colitis)  
+
+**US - Food and Drug Administration - Impact of Omega-3 Fatty Acids on the Gut Microbiota**  
+omega-3 fatty acids, and immunity helps to **maintain** the intestinal **wall integrity** and interacts with host immune cells. Finally, human and animal studies have highlighted the ability of omega-3 PUFAs to influence the gut–brain axis, acting through gut microbiota composition.   [source](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5751248/) &nbsp; [home](https://ods.od.nih.gov/factsheets/Omega3FattyAcids-Consumer/) 
+
+-----  
+
 ## Dr Jiwani  
 
 * [The Good, Bad & Ugly about Caffeine](https://getnaturopathic.com/confused-about-coffee-good-bad-ugly/) &nbsp;&nbsp; ([mirror](https://www.dropbox.com/s/93jq5lj6b03re2g/naturopathic_coffee.pdf?dl=1))

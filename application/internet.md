@@ -266,8 +266,11 @@ To disable multiple running processes of the browser, you can set `browser.tabs.
 * [TeamViewer](https://www.teamviewer.com/) - Control, manage, monitor, and repair computers
 * [Rustdesk](https://rustdesk.com/) - TeamViewer alternative
 * [mRemoteNG](https://mremoteng.org/) - RDP connections manager (make always off, on each connection the `Cache Bitmap`)
+* [sysinternals.Remote Desktop Connection Manager](https://learn.microsoft.com/en-us/sysinternals/downloads/rdcman)
 * (discontinued) [Microsoft.Remote Desktop Connection Manager](https://filehippo.com/download_remote_desktop_connection_manager/) - RDP connections manager
 * [GetScreen](https://getscreen.me/)  
+
+> In RDP, to display active connections, use either [query session](https://learn.microsoft.com/en-us/windows-server/administration/windows-commands/query-session) and or [qwinsta](https://learn.microsoft.com/en-us/windows-server/administration/windows-commands/qwinsta)
 
 ## KVM  
 * [Microsoft.Garage Mouse without Borders](https://www.microsoft.com/en-us/download/details.aspx?id=35460) - Control computers from a single mouse and keyboard  
