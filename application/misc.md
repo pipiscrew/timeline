@@ -105,6 +105,7 @@
 * [CLCL - clipboard caching](https://www.nakka.com/soft/clcl/index_eng.html)
 * [texter - preset acronyms to be replaced with text](https://github.com/adampash/texter/tree/master/Releases/0.6)
 * [mouse jiggler - prevent sleep](https://github.com/cerebrate/mousejiggler)
+* [Ditto](https://ditto-cp.sourceforge.io/) - extension to the standard windows clipboard
 * [Clipdiary](http://clipdiary.com/)
 * [Jitbit - Macro](https://www.jitbit.com/macro-recorder/)
 * [Winautomation - Macro](https://www.winautomation.com/)
@@ -188,6 +189,7 @@
 * [Torrent File Editor](https://github.com/torrent-file-editor/torrent-file-editor)
 * [FreeArc](https://www.softpedia.com/get/PORTABLE-SOFTWARE/Compression-Tools/FreeArc-Portable.shtml)
 * [MiTeC.Task Manager](http://www.mitec.cz/tmx.html)
+* [Nirsoft.CredentialsFileView](https://www.nirsoft.net/utils/credentials_file_view.html) - view the passwords stored at Windows Credentials Manager
 
 ## Capture
 * [OBS Studio](https://obsproject.com/) - screen capture and broadcasting  

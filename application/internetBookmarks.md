@@ -193,6 +193,7 @@
 	* regex
 		* [Regex Storm .NET](http://regexstorm.net/tester)
 		* [Regexr JS](https://regexr.com/) - Regex evaluator, explains the steps in detail
+		* [C# Regex Tester](https://lsvhome.github.io/regex-tester/)
 	* json
 		* [Convert JSON to PHP Array Online](https://wtools.io/convert-json-to-php-array)  
 		* [Convert JSON to any language class](https://app.quicktype.io/)
