@@ -36,7 +36,7 @@ The trialware versions are not always enabled for online gamming. There are two 
 
 official [discussions](https://steamcommunity.com/app/550/discussions/)
 
-* launch the game from STEAM
+* launch the game from STEAM 
 * on the main menu > Options > Keyboard/Mouse > `Enable Developer Console` 
 * return back to main menu by pressing ESC
 * hit tilde `~`
