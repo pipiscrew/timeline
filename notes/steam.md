@@ -53,7 +53,7 @@ some [community](https://steamcommunity.com/search/groups/#text=L4D2+group+serve
 
 if you have unwanted Steam Group Servers listed and don't know how to get rid of them see [here](https://steamcommunity.com/sharedfiles/filedetails/?id=652510755).  
 
-[Unsubscribe from workshops](https://www.youtube.com/watch?v=c3jtRUiuJzU&t=26s) (the custom maps used in game) - when enter on STEAM app > mouseover `Community` tab > click `Workshop` > scroll down 1 page says on right `You Workshop Files` click `Your Files` > On the new page click `Subscribed Items`.  The folder used is `C:\SteamLibrary\steamapps\common\Left 4 Dead 2\left4dead2\addons` if no any workshop this folder must be empty.  
+[Unsubscribe from workshops](https://www.youtube.com/watch?v=c3jtRUiuJzU&t=26s) (the custom maps used in game) - when enter on STEAM app > mouseover `Community` tab > click `Workshop` > scroll down 1 page says on right `Your Workshop Files` click `Your Files` > On the new page click `Subscribed Items`.  The folder used is `C:\SteamLibrary\steamapps\common\Left 4 Dead 2\left4dead2\addons` if no any workshop, this folder must be empty.  
 
 ### server things
 * [old - server side - steam gtoup settings](https://pricklytech.wordpress.com/2008/12/17/left-4-dead-steam-group-server-settings/)
