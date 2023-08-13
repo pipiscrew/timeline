@@ -558,6 +558,9 @@ Although you might see them used interchangeably, omega 3 and fish oil aren’t 
 
 Studies claim omega-3 fatty acids found in fish oil can reduce or **prevent** the rise in **leukotriene B4**, which lowers the inflammation in your gut. A small study with 11 men with mild to moderate UC tested this.  [source](https://www.webmd.com/ibd-crohns-disease/ulcerative-colitis/fish-oil-ulcerative-colitis)  
 
+The omega-3 fatty acid **DHA** and its metabolites are known to resolve inflammation, and we believe that explains the protective effects. [source](https://www.medicalnewstoday.com/articles/processed-foods-impair-memory-can-omega-3-help#Inflammatory-immune-response)
+* (2018) [How does high DHA fish oil affect health](https://doi.org/10.1080/10408398.2018.1425978)
+
 **US - Food and Drug Administration - Impact of Omega-3 Fatty Acids on the Gut Microbiota**  
 omega-3 fatty acids, and immunity helps to **maintain** the intestinal **wall integrity** and interacts with host immune cells. Finally, human and animal studies have highlighted the ability of omega-3 PUFAs to influence the gut–brain axis, acting through gut microbiota composition.   [source](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5751248/) &nbsp; [home](https://ods.od.nih.gov/factsheets/Omega3FattyAcids-Consumer/) 
 

@@ -270,6 +270,7 @@ The sequence is :
 * [Superfrog Remake](https://www.lithiumdream.com/)  
 * [Prince of Persia](https://www.popot.org/get_the_games.php?game=SDLPoP) ([src](https://github.com/NagyD/SDLPoP))  
 * [myabandonware](https://www.myabandonware.com/)
+* [Baldur Gate](https://dnd.wizards.com/products/baldurs-gate) - RPG
 
 ## sample batch files, using every day ;) 
 
