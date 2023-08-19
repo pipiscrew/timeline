@@ -81,6 +81,10 @@ git config --global credential.interactive never
      * https://www.elegantthemes.com/
      * https://themify.me/
 
+## java
+* [Javatar](https://www.youtube.com/watch?v=9QFK1cLhytY)
+  * [2](https://www.dailymotion.com/video/xowxkz)
+  
 ## SQL Server Express
 * [2008R2x64 with SP2](https://www.microsoft.com/en-us/download/details.aspx?id=30438)
 

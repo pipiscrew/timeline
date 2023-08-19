@@ -11,6 +11,7 @@
 	* [Office](/application/office.md)
 	* [Develop](/application/develop.md)
 	* [Android](/application/android.md)
+	* [Freewares](/application/freewares.md)
 * [Notes]
 	* [articles](/notes/articles.md)
 	* [amiga](/notes/amiga.md)
