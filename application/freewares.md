@@ -333,7 +333,7 @@
 ## net
 * [dennisbabkin. WinAPI Search](https://dennisbabkin.com/winapisearch/)
 * [dnlib](https://github.com/dnSpy/dnSpy) - .NET debugger and assembly editor
-  * [dnSpyEx] (https://github.com/dnSpyEx/dnSpy) - Unofficial revival of the well known .NET debugger and assembly editor, dnSpy
+  * [dnSpyEx](https://github.com/dnSpyEx/dnSpy) - Unofficial revival of the well known .NET debugger and assembly editor, dnSpy
   * [.NET All OpCodes](https://github.com/ymg2006/MyOpCodeTable) - view MSIL Opcodes List
 * [ILSpy](https://github.com/icsharpcode/ILSpy/releases/tag/v7.2) - .NET Decompiler with support for PDB generation
 
