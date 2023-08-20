@@ -315,7 +315,7 @@
 * [hellzrerg optimizer](https://github.com/hellzerg/optimizer) - enhance your privacy and security on Windows
 * [Winaero Tweaker](https://winaerotweaker.com/) - all-in-one app for tuning Windows 11, Windows 10, Windows 8, and Windows 7
 
-## antivirus / anitmalware
+## antivirus / antimalware
 * [Malwarebytes](https://downloads.malwarebytes.com/file/mb4_offline) - anti-malware application
 * [AdwCleaner](https://www.malwarebytes.com/adwcleaner/) - searches for and deletes Adware, Toolbars, Potentially Unwanted Programs (PUP)
 
