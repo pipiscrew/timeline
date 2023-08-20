@@ -261,6 +261,7 @@
 * [Clean Space Free](https://www.cyrobo.com/software)
 * [Wise Disk Cleaner](https://www.wisecleaner.com/wisediskcleanerfree.html)
 * [Wise Program Uninstaller](https://www.wisecleaner.com/wise-program-uninstaller.html)
+* [Uninstalr](https://uninstalr.com/) - with new installation monitoring
 * [Bulk Crap Uninstaller](https://www.bcuninstaller.com/)
 * [Hibit Uninstaller](https://www.hibitsoft.ir/Uninstaller.html)
 * [Revo Uninstaller Free](https://www.revouninstaller.com/products/revo-uninstaller-free/)
