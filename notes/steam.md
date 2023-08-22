@@ -54,7 +54,7 @@ some [community](https://steamcommunity.com/search/groups/#text=L4D2+group+serve
 ### remove materials
 * [Remove nwanted Steam Group Servers](http://steamcommunity.com/my/followedgames/)
 * [Unsubscribe from workshops](https://www.youtube.com/watch?v=c3jtRUiuJzU&t=26s) (the custom maps used in game) - when enter on STEAM app > mouseover `Community` tab > click `Workshop` > scroll down 1 page says on right `Your Workshop Files` click `Your Files` > On the new page click `Subscribed Items`.  The folder used is `C:\SteamLibrary\steamapps\common\Left 4 Dead 2\left4dead2\addons` if no any workshop, this folder must be empty.  
-* [Unsubscribe from servers] goto [steamcommunity](https://steamcommunity.com/), mouserover to username, select `groups`  
+* [Unsubscribe from servers](https://steamcommunity.com/), mouserover to username, select `groups`  
 
 ### server things
 * [old - server side - steam gtoup settings](https://pricklytech.wordpress.com/2008/12/17/left-4-dead-steam-group-server-settings/)
@@ -62,7 +62,7 @@ some [community](https://steamcommunity.com/search/groups/#text=L4D2+group+serve
 * [create a server](https://steamcommunity.com/sharedfiles/filedetails/?id=276173458)
 * [find & join a sever](https://steamcommunity.com/sharedfiles/filedetails/?id=573020642)
 
-#### updates may broke. server compatibility
+#### updates may break. server compatibility and lobby list is not appearing 
 * [update - release notes](https://left4dead.fandom.com/wiki/Updates_(Left_4_Dead_2)#August_22,_2023_(2.2.2.8))
 > [Dandy Ones group chat] - cheshire❤cat™:
 > Hey guys, the servers just don't match the game version right now and it will be all fixed soon :) the servers just need updated also!  
