@@ -62,7 +62,7 @@ some [community](https://steamcommunity.com/search/groups/#text=L4D2+group+serve
 * [create a server](https://steamcommunity.com/sharedfiles/filedetails/?id=276173458)
 * [find & join a sever](https://steamcommunity.com/sharedfiles/filedetails/?id=573020642)
 
-#### updates may break. server compatibility and lobby list is not appearing 
+#### updates may break, server compatibility and lobby list is not appearing 
 * [update - release notes](https://left4dead.fandom.com/wiki/Updates_(Left_4_Dead_2)#August_22,_2023_(2.2.2.8))
 > [Dandy Ones group chat] - cheshire❤cat™:
 > Hey guys, the servers just don't match the game version right now and it will be all fixed soon :) the servers just need updated also!  
