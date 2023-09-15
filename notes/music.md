@@ -14,3 +14,5 @@
 * [GPT-3 DaVinci-003](https://editor.drawthedots.com/)
 * [FlatIO - collaborative music editing tool](https://flat.io/)  
 * [Peel](https://peel.fm/) - Drum machine in your browser
+* [awesome-music](https://github.com/noteflakes/awesome-music)
+* [awesome-music-production](https://github.com/ad-si/awesome-music-production)
