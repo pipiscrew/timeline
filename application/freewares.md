@@ -184,6 +184,7 @@
 * [TomVPN](http://tomvpn.com/)
 * [Psiphon](https://psiphon.ca/)
 * [AmanVPM](https://amanvpn.com/)
+* [Lantern](https://lantern.io/)
 
 # video downloader
 * [Lux](https://github.com/iawia002/lux)

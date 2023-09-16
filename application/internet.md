@@ -5,6 +5,7 @@
 * [Brave](https://brave.com/) -- [the false sensation of privacy](http://ebin.city/~werwolf/posts/brave-is-shit/) -- [features they disable or remove](https://github.com/brave/brave-browser/wiki/Deviations-from-Chromium-(features-we-disable-or-remove)/)
   * [individual components update (adblock explained)](https://www.pipiscrew.com/2021/06/brave-individual-components-update-adblock-explained/)
 * [SRWare](https://www.srware.net/iron/) - removed all telemetry
+* [CentBrowser](http://www.centbrowser.com/) - chronium with useful addons
 * [Beacon](https://github.com/imperviousinc/beacon) - decentralized
 * [ungoogled](https://github.com/Eloston/ungoogled-chromium) -- sans integration with Google
   * [bin mirror](https://chromium.woolyss.com/#windows-64-bit) ([ref](https://github.com/Eloston/ungoogled-chromium/issues/1519#issuecomment-852119889))
@@ -154,7 +155,35 @@ Chrome start with
   * [LibRedirect](https://github.com/libredirect/libredirect) Redirect YouTube, Twitter, Instagram to privacy friendly services ([nitter](https://github.com/zedeus/nitter/wiki/Extensions)) [[privacy-redirect](https://github.com/SimonBrazell/privacy-redirect)]
   * [UnclutterIT](https://unclutter.it/) - reader Mode, but better  
   * [WebStickies](https://lawrencehook.com/ws/) - Sticky notes for the internet  
-
+  * --CentBrowser Advised--
+    * [Chrome Better History](http://www.centbrowser.com/crx/Chrome-Better-History_v3.3.crx)
+    * [Imagus](https://chrome.google.com/webstore/detail/imagus/immpkjjlgappgfkkfieppnmlhakdmaab)
+    * [LastPass](https://chrome.google.com/webstore/detail/lastpass-free-password-ma/hdokiejnpimakedhajhdlcegeplioahd)
+    * [Bitwarden](https://chrome.google.com/webstore/detail/bitwarden-free-password-m/nngceckbapebfimnlniiiahkandclblb)
+    * [Adblock Plus](https://chrome.google.com/webstore/detail/adblock-plus/cfhdojbkjhnklbpkdaibdccddilifddb)
+    * [OneNote Web Clipper](https://chrome.google.com/webstore/detail/onenote-web-clipper/gojbdfnpnhogfdgjbigejoaolejmgdhk)
+    * [Live Stream Downloader](https://chrome.google.com/webstore/detail/live-stream-downloader/looepbdllpjgdmkpdcdffhdbmpbcfekj)
+    * [Ruffle](https://chrome.google.com/webstore/detail/ruffle/donbcfbmhbcapadipfkeojnmajbakjdc)
+    * [Google Translate](https://chrome.google.com/webstore/detail/google-translate/aapbdbdomjkkjkaonfhkkikfgjllcleb)
+    * [Search by Image](https://chrome.google.com/webstore/detail/search-by-image/cnojnbdhbhnkbcieeekonklommdnndci)
+    * [User-Agent Switcher for Chrome](https://chrome.google.com/webstore/detail/user-agent-switcher-for-c/djflhoibgkdhkhhcedjiklpkjnoahfmg)
+    * [EverSync](https://chrome.google.com/webstore/detail/eversync-sync-bookmarks-b/iohcojnlgnfbmjfjfkbhahhmppcggdog)
+    * [Simple Form Fill](https://chrome.google.com/webstore/detail/simple-form-fill/filmkodmbabpfkfhoekpgfpankdlajmf)
+    * [Simple Extension Manager](https://chrome.google.com/webstore/detail/%E4%B8%80%E9%94%AE%E7%AE%A1%E7%90%86%E6%89%A9%E5%B1%95/lboblnfejcmcaplhnbkkfcienhlhpnni)
+    * [Session Buddy](https://chrome.google.com/webstore/detail/extensity/edacconmaakjimmfgnblocblbcdcpbko)
+    * [Video Speed Controller](https://chrome.google.com/webstore/detail/extensity/nffaoalbilbmmfgbnbgppjihopabppdk)
+    * [Set Character Encoding](https://chrome.google.com/webstore/detail/set-character-encoding/bpojelgakakmcfmjfilgdlmhefphglae)
+    * [Full Page Screen Capture](https://chrome.google.com/webstore/detail/full-page-screen-capture/fdpohaocaechififmbbbbbknoalclacl)
+    * [trayEnabler](https://chrome.google.com/webstore/detail/trayenabler/pmngpbahkehcgeppngnbnfbmmdclkddj)
+    * [Bookmarks Clean Up](https://chrome.google.com/webstore/detail/bookmarks-clean-up/oncbjlgldmiagjophlhobkogeladjijl)
+    * [Ultra Button](https://chrome.google.com/webstore/detail/ultra-button/ppmnkcnnoclkpbbckblofjbjepocnflo)
+    * [Published by Chrome](https://chrome.google.com/webstore/category/collection/chrome_themes)
+    * [Splendid](https://chrome.google.com/webstore/detail/splendid/bdfkbdkkfmmckaadapdipihjfaacnkgd)
+    * [Material Incognito Dark Theme](https://chrome.google.com/webstore/detail/classic-blue-theme/ahifcnpnjgbadkjdhagpfjfkmlapfoel)
+    * [Raindrops](https://chrome.google.com/webstore/detail/raindrops/bcipapbfhdnmgihoimbjiadmhpcgcnil)
+    * [Yann Arthus-Bertrand](http://www.centbrowser.com/crx/Yann-Arthus-Bertrand_v3.crx)
+    * [Virginia Beach](http://www.centbrowser.com/crx/Virginia-Beach_v1.crx)
+    * [Comodo Dragon theme](http://www.centbrowser.com/crx/dragon_theme.crx)
 
 ----------
 

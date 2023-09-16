@@ -252,6 +252,7 @@ The sequence is :
 
 ## Activators
 * [KMS_VL_ALL_AIO](https://github.com/abbodi1406/KMS_VL_ALL_AIO) - windows & office (supports Enterprise edition)
+* [KMS38](https://massgrave.dev/) - activate till 2038 + ISO downloads
 * [awesome windows privacy](https://github.com/TemporalAgent7/awesome-windows-privacy)
   * [Win10BloatRemover](https://github.com/Fs00/Win10BloatRemover)
 * [Ratiborus Digital Activation](https://nsaneforums.com/topic/317565-w10-digital-activation-program-v11-portable-ratiborus/) - windows (not for Enterprise edition)
