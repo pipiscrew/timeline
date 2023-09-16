@@ -1,4 +1,4 @@
-## 2023
+## 2023/00
 
   * [AI-powered Magic the Gathering card generator](https://txt.cohere.com/urzas-ai/)
   * [Retool AI](https://retool.com/products/ai)
@@ -3502,7 +3502,7 @@
   * [Canada Bans Foreigners from Buying Homes](https://www.voanews.com/a/canada-bans-most-foreigners-from-buying-homes/6899982.html)
   * [Ransomware gang apologizes, gives SickKids hospital free decryptor](https://www.bleepingcomputer.com/news/security/ransomware-gang-apologizes-gives-sickkids-hospital-free-decryptor/)
   * [See what is unencrypted in your LastPass vault (py)](https://github.com/cfbao/lastpass-vault-parser)
-  * [Start a F*cking Blog](https://startafornicationingblog.com/)
+  * [Start a F*cking Blog](https://startafuckingblog.com/)
   * [The Commodore 64 - a technical perspective](https://www.youtube.com/watch?v=L2NdJkTVzvk)
   * [Writing a C64 Asssembly Demo](https://celso.io/retrocomputing/2019/12/23/c64-assembly)
   * [C/C++ DOS development with dos-dev addon for VSCode](https://nitter.net/badlogicgames/status/1609652290113404928)
