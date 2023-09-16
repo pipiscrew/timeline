@@ -338,111 +338,105 @@ copy /b *.txt all.txt
 ```
 
 * use of export to file then read by to screen
-```
-@echo off
- 
-echo Started %DATE% %TIME%
- 
-for %%f in (*.sql) do (
+>@echo off
+> 
+>echo Started %DATE% %TIME%
+> 
+>for %%f in (*.sql) do (
+>
+>if %%f==y.sql (
+>echo 'y.sql' found, please execute it via SQL DEVELOPER then continue here by 'x.sql'
+>pause
+>exit
+>)
+>
+>if %%f==x.sql (
+>echo 'x.sql' found, please execute it via SQL DEVELOPER then continue here by 'z.sql'
+>pause
+>exit
+>)
+>
+>    echo **Executing %%f...
+>    ::log to file
+>    echo exit | C:\sqldeveloper\sqldeveloper\bin\sql.exe -s xxxx/##password###@xxxx.>com:1000/XXXXX @%~dp0%%f > %~dp0%%f.log
+>    ::read log file to screen
+>    type %~dp0%%f.log
+>    echo:
+>    echo **Script %%f execution complete.
+>    echo:
+>    echo:
+>    ::timeout is case user want to break the execute, if the previous script failed
+>    timeout /t 5
+>)
+>
+>echo Master finished...
 
-if %%f==y.sql (
-echo 'y.sql' found, please execute it via SQL DEVELOPER then continue here by 'x.sql'
-pause
-exit
-)
-
-if %%f==x.sql (
-echo 'x.sql' found, please execute it via SQL DEVELOPER then continue here by 'z.sql'
-pause
-exit
-)
-
-    echo **Executing %%f...
-    ::log to file
-    echo exit | C:\sqldeveloper\sqldeveloper\bin\sql.exe -s xxxx/##password###@xxxx.com:1000/XXXXX @%~dp0%%f > %~dp0%%f.log
-    ::read log file to screen
-    type %~dp0%%f.log
-    echo:
-    echo **Script %%f execution complete.
-    echo:
-    echo:
-    ::timeout is case user want to break the execute, if the previous script failed
-    timeout /t 5
-)
-
-echo Master finished...
-```
 
 * when process does not exist, make an action
-```
-@echo off
-
-:hi
-
-tasklist /fi "ImageName eq PR0SVER.EXE" /FI "USERNAME eq %username%" /fo csv 2>NUL | find /I "PR0SVER.EXE">NUL
-
-if NOT "%ERRORLEVEL%"=="0" (
-
-//https://gist.github.com/simply-coded/4fa36df80d91f1c365a9f2ef02f1b036
-//https://duckduckgo.com/?q=vbs+CDO.Message
-cscript //nologo sendEmail.vbs \
-
-goto hend
-
-)
-
-timeout /t 30
- 
-goto hi
-
-:hend
-echo My Lord all the files processed!
-pause
-```
+>@echo off
+>
+>:hi
+>
+>tasklist /fi "ImageName eq PR0SVER.EXE" /FI "USERNAME eq %username%" /fo csv 2>NUL | find /I "PR0SVER.EXE">NUL
+>
+>if NOT "%ERRORLEVEL%"=="0" (
+>
+>//https://gist.github.com/simply-coded/4fa36df80d91f1c365a9f2ef02f1b036
+>//https://duckduckgo.com/?q=vbs+CDO.Message
+>cscript //nologo sendEmail.vbs \
+>
+>goto hend
+>
+>)
+>
+>timeout /t 30
+> 
+>goto hi
+>
+>:hend
+>echo My Lord all the files processed!
+>pause
 
 * copy files with parent folder  
-```
-when we have the c:\countries
-that contains 
-greece
-czech
-netherleands
-and if would like to 'mirror' only the *.txt files to c:\backup
-when we are at root c:\countries
-xcopy *.txt c:\backup /s
-//more superuser.com/a/829642 + technet.microsoft.com/en-us/library/bb491035.aspx
-```
+>when we have the c:\countries
+>that contains 
+>greece
+>czech
+>netherleands
+>and if would like to 'mirror' only the *.txt files to c:\backup
+>when we are at root c:\countries
+>xcopy *.txt c:\backup /s
+>//more superuser.com/a/829642 + technet.microsoft.com/en-us/library/bb491035.aspx
 
 * imagine is an automation where takes files from a dir, this batch 'watches' the dir and move the new part when needed
-```
-@echo off
-::example of filename Test_1.dat / Test_2.dat etc.
-set file="Test_*.dat"
-set dest="E:\INPUTDATA\LOAD\"
-set src="E:\files_for_load\"
-set inprogress="E:\INPUTDATA\INPROGRESS\*.dat"
+>@echo off
+>::example of filename Test_1.dat / Test_2.dat etc.
+>set file="Test_*.dat"
+>set dest="E:\INPUTDATA\LOAD\"
+>set src="E:\files_for_load\"
+>set inprogress="E:\INPUTDATA\INPROGRESS\*.dat"
+>
+>:hi
+>if exist %dest%%file% (
+>	echo file exists, files INPROGRESS now
+>	dir %inprogress%  /s/b
+>) ELSE (
+>	echo file not exists
+>	for %%a in (%src%%file%) do (
+>		echo %%a
+>		move %%a %dest%
+>		goto hi
+>	)
+>goto hend
+>)
+>
+>timeout /t 30
+>
+>goto hi
+>
+>:hend
+>echo My Lord all the files processed!
+>pause
 
-:hi
-if exist %dest%%file% (
-	echo file exists, files INPROGRESS now
-	dir %inprogress%  /s/b
-) ELSE (
-	echo file not exists
-	for %%a in (%src%%file%) do (
-		echo %%a
-		move %%a %dest%
-		goto hi
-	)
-goto hend
-)
-
-timeout /t 30
-
-goto hi
-
-:hend
-echo My Lord all the files processed!
-pause
-```
   
 * [horstmuc.The missing batch file operations](https://www.horstmuc.de/w32dial.htm)  
