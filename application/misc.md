@@ -252,7 +252,7 @@ The sequence is :
 
 ## Activators
 * [KMS_VL_ALL_AIO](https://github.com/abbodi1406/KMS_VL_ALL_AIO) - windows & office (supports Enterprise edition)
-* [KMS38](https://massgrave.dev/) - activate till 2038 + ISO
+* [KMS38](https://massgrave.dev/) - activate till 2038 + ISO [[2](https://gitlab.com/massgrave/microsoft-activation-scripts/-/tree/master/MAS/All-In-One-Version)]
 * [Ankh Tech Toolbox](https://ankhtech.weebly.com/toolbox.html) - install apps & activate
 * [awesome windows privacy](https://github.com/TemporalAgent7/awesome-windows-privacy)
   * [Win10BloatRemover](https://github.com/Fs00/Win10BloatRemover)
