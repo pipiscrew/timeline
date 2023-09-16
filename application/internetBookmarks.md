@@ -199,6 +199,7 @@
 		* [Convert JSON to any language class](https://app.quicktype.io/)
 			* [2](https://www.jsonutils.com/)  
 		* [Convert C# class to JSON](https://csharp2json.io/)  
+* [RecipeUI](https://recipeui.com/) - Open-source Postman alternative with type safety
 * [codeberg](https://codeberg.org/) - git alternative  
 
 ## music
@@ -250,9 +251,8 @@
 ## temporary mail
 * [tempmail](https://temp-mail.org/en/)  
 * [10minutemail](https://10minutemail.com/)  
-* [Email Generator](https://10minutemail.com/)
+* [Email Generator](https://generator.email/)
 * [fakemail](https://www.fakemail.net/)
-* ~[Firefox Relay](https://relay.firefox.com/)
 
 ## files archives
 * [WinWorld](https://winworldpc.com/library/operating-systems)

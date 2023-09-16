@@ -311,10 +311,12 @@ To find the profile currently is use navigate to `Help > Troubleshooting Informa
 
 ## Mail proxy
 * [duckduckgo email protection](https://duckduckgo.com/email/) - requires browser addon
+* [Firefox Relay](https://relay.firefox.com/) - 5 free emails - no tested
 * [Forward Email](https://forwardemail.net/en)
 * [simplelogin](https://simplelogin.io/) - proxy by proton  
 * [AnonAddy](https://anonaddy.com/)
 * [DuckDuckGo](https://duckduckgo.com/email/) - requires browser extension
+* (paid) [Fastmail](https://www.fastmail.help/hc/en-us/articles/4406536368911-Masked-Email)
 
 ## RSS
 * [QuiteRSS](https://quiterss.org/)
