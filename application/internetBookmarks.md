@@ -324,6 +324,7 @@
 
 ## drawing
 * [tldraw](https://www.tldraw.com/) - whiteboard [github](https://github.com/tldraw/tldraw)
+* [floor plan creator](https://floorplancreator.net/plan/demo)
 
 ## messengers
 * [Chitchatter](https://github.com/jeremyckahn/chitchatter) - unlimited P2P data distribution through the browser

@@ -86,11 +86,17 @@
 * Εκλογές - [https://ekloges.ypes.gr/](https://ekloges.ypes.gr/)
 * ΠΑΚΟΕ - [https://www.pakoe.gr](https://www.pakoe.gr) - Πανελλήνιο Κέντρο Οικολογικών Ερευνών
 * Ινστιτούτο Εκπαιδευτικής Πολιτικής (ΙΕΠ) - [http://iep.edu.gr](http://iep.edu.gr)
+* ΟΦΥΠΕΚΑ - [https://necca.gov.gr/](https://necca.gov.gr/) - Οργανισμός Φυσικού Περιβάλλοντος & Κλιματικής Aλλαγής
 * Κέντρο Προστασίας Δασών και Φυσικού Περιβάλλοντος - [https://www.fireman.gr/](https://www.fireman.gr/)
+* ΚΟΜΑΘ - [https://www.hunters.gr/](https://www.hunters.gr/) - Κυνηγετική Ομοσπονδία Μακεδονίας Θράκης
 * Know Your Customer (eGov-KYC) - [https://www.gov.gr/en/upourgeia/upourgeio-psephiakes-diakuberneses/kyc](https://www.gov.gr/en/upourgeia/upourgeio-psephiakes-diakuberneses/psephiakes-diakuberneses/kyc) - Anti Money Laundering
 * SupportGOV Αποθετήριο Επικοινωνίας - [https://support.gov.gr/](https://support.gov.gr/)
   * Αποθετήριο Απαντήσεων & Εγγράφων - [https://www.patt.gov.gr/psifiaki_exipiretisi/psifiakes_apothetirio/](https://www.patt.gov.gr/psifiaki_exipiretisi/psifiakes_apothetirio/)
 * Ηλεκτρονική επισημείωση της Χάγης (e-Apostille) - [https://e-apostille.gov.gr/](https://e-apostille.gov.gr/)
+* Πανελλήνιος Φαρμακευτικός Σύλλογος - [https://pfs.gr/](https://pfs.gr/)
+  * Φαρμακευτικός Σύλλογος Αττικής - [https://www.fsa.gr/](https://www.fsa.gr/)
+  * Φαρμακευτικός Σύλλογος Θεσσαλονίκης - [https://www.fsth.gr/](https://www.fsth.gr/)
+  * Φαρμακευτικός Σύλλογος Δωδεκανήσου - [https://www.fs12.gr/](https://www.fs12.gr/)
 
 
 ---
