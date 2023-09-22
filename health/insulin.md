@@ -181,16 +181,18 @@ Keto, is a more extreme version of [LCHF](https://imgur.com/a/iY9t28U) diet. `We
 
 > Millions of new fat-burning enzymes will be rapidly manufactured during this wonderful and miraculous transition.  
 
-The ideal quantity varies for different people, but for everyone, we recommend looking at net carbs, not total carbs. The net carb content of a food is the total carb minus the grams of indigestible fibrous carb. See this [cheat sheet](https://thefatemperor.com/carb-cheat-sheet/) [[mirror](https://imgur.com/a/F88EmLT)] for food carbs.  
+The ideal quantity varies for different people, but for everyone, we recommend looking at net carbs, not total carbs. The **net carb content** of a food is the **total carb** minus the grams of indigestible **fibrous carb**. See this [cheat sheet](https://thefatemperor.com/carb-cheat-sheet/) [[mirror](https://imgur.com/a/F88EmLT)] for food carbs.  
   
 We espouse the `40/80/120 rule` for carb intake :  
 * If you have established **insulin resistance**, prediabetes (consistently high blood glucose), or type 2 diabetes, the net carb intake needs to be less than `40 grams` daily
 * If you’re **insulin-sensitive**, your net carb intake should be around `80 grams` daily
 * For the **vast majority** of people, net carb intake should never exceed `120 grams` per day  
 
-**Eat only nutrient-dense** and slow-burning carbohydrates, which can promote gut and general health, and keep carb intake low. Your initial target should be approximately 15 to 20 percent of your total calories.  Eat nutrient-dense sources of protein. Always consume highquality protein—make that protein count. Your target should be approximately 0.4 to 0.6 gram per pound of lean body mass if you are not athletic—more if you’re more active. Get most of your calories from fats that come from nutrient-rich foods. These fats should supply 60 to 65 percent of your total daily calories.  
+**Eat only nutrient-dense** and slow-burning carbohydrates, which can promote gut and general health, and keep carb intake low. Your initial target should be approximately 15 to 20 percent of your total calories.  
 
-**Eat only three main meals** a day—ideally two, if you can manage it. You can make this a wonderful habit for life. You will learn to relish each meal. Your body will positively hum with this regimen. Be mindful of your lifestyle and environment. Poor sleep, stress, and lack of healthy sun exposure will hammer your weight-loss efforts. Do not neglect these environmental influences. Partake in healthy exercise. Resistance exercise is best.  
+**Eat nutrient-dense sources of protein**. Always consume highquality protein—make that protein count. Your target should be approximately 0.4 to 0.6 gram per pound of lean body mass if you are not athletic—more if you’re more active. Get most of your calories from fats that come from nutrient-rich foods. These fats should supply 60 to 65 percent of your total daily calories.  
+
+**Eat only three main meals** a day—ideally two, if you can manage it. You can make this a wonderful habit for life. You will learn to relish each meal. Your body will positively hum with this regimen. Be mindful of your lifestyle and environment. Poor sleep, stress, and lack of healthy sun exposure will hammer your weight-loss efforts. Do not neglect these environmental influences. Partake in healthy exercise. `Resistance exercise is best`.  
 
 Completely **eliminate bad processed food**. Let’s clarify what we mean by that. These foods include :  
 * Most `breads`, which are made from finely ground grains, vegetable oils, added sugar, and many other bad things
