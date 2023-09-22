@@ -172,7 +172,7 @@ There are three main lower-carb approaches:
 * `Low-carb, high-fat `([LCHF](https://ketolibriyum.ca/blogs/ketolife-blog/lchf-vs-keto-the-run-down)): low carb, moderate protein, high fat
 * `Keto`: very low carb, moderate protein, very high fat  
 
-**Keto** is a special case of low-carb. Keto is short for ketogenic diet, so named because burning fat produces unique molecules called ketones, which are used for energy. On keto, the body enters a state of nutritional ketosis, in which it is **fueled by fat**. Keto is essentially a very low carb regimen, with a very high percentage of energy coming from **dietary fats** (or your own body fat). In the meantime, we’ll highlight that the keto macronutrient mix is approximately 
+**Keto** is a special case of low-carb. Keto is short for ketogenic diet, so named because burning fat produces unique molecules called ketones, which are used for energy. On keto, the body enters a state of nutritional ketosis, in which it is **fueled by fat**. Keto is essentially a very low carb regimen, with a very high percentage of energy coming from **dietary fats** (or your own body fat). In the meantime, we’ll highlight that the keto macronutrient mix is approximately :  
 * 70 percent or more fat
 * 20 percent protein
 * less than 10 percent carb.  
@@ -192,7 +192,7 @@ We espouse the `40/80/120 rule` for carb intake :
 
 **Eat only three main meals** a day—ideally two, if you can manage it. You can make this a wonderful habit for life. You will learn to relish each meal. Your body will positively hum with this regimen. Be mindful of your lifestyle and environment. Poor sleep, stress, and lack of healthy sun exposure will hammer your weight-loss efforts. Do not neglect these environmental influences. Partake in healthy exercise. Resistance exercise is best.
 
-Completely **eliminate bad processed food**. Let’s clarify what we mean by that. These foods include:
+Completely **eliminate bad processed food**. Let’s clarify what we mean by that. These foods include :  
 * Most `breads`, which are made from finely ground grains, vegetable oils, added sugar, and many other bad things
 * Most `packaged foods` cereals, soups, and so on—which contain powdered grains, vegetable oils, and sugars
 * Nearly all `healthy snack bars`—they are normally made from powdered grains, **vegetable oils**, and sugars, and they are almost always **too sugary**  
