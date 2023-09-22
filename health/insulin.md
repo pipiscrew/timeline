@@ -3,7 +3,7 @@
 * ISBN-13 ‏ : ‎ 978-1628602739
 * Authors : Ivor Cummins & Jeffry Gerber
 
-[Amazon](https://www.amazon.com/dp/1628602732) | [mirror](https://is.gd/SuQb3c)
+[Amazon](https://href.li/?https://www.amazon.com/dp/1628602732) | [mirror](https://is.gd/SuQb3c)
 
 ---
 
@@ -169,7 +169,7 @@ For **weight loss** and longevity (by way of lower insulin status and insulin se
 
 There are three main lower-carb approaches:  
 * `Paleo`: medium carb, moderate to high protein, moderate fat
-* `Low-carb, high-fat `([LCHF](https://ketolibriyum.ca/blogs/ketolife-blog/lchf-vs-keto-the-run-down)): low carb, moderate protein, high fat
+* `Low-carb, high-fat `([LCHF](https://href.li/?https://ketolibriyum.ca/blogs/ketolife-blog/lchf-vs-keto-the-run-down)): low carb, moderate protein, high fat
 * `Keto`: very low carb, moderate protein, very high fat  
 
 **Keto** is a special case of low-carb. Keto is short for ketogenic diet, so named because burning fat produces unique molecules called ketones, which are used for energy. On keto, the body enters a state of nutritional ketosis, in which it is **fueled by fat**. Keto is essentially a very low carb regimen, with a very high percentage of energy coming from **dietary fats** (or your own body fat). In the meantime, we’ll highlight that the keto macronutrient mix is approximately :  
@@ -181,7 +181,7 @@ Keto, is a more extreme version of [LCHF](https://imgur.com/a/iY9t28U) diet. `We
 
 > Millions of new fat-burning enzymes will be rapidly manufactured during this wonderful and miraculous transition.  
 
-The ideal quantity varies for different people, but for everyone, we recommend looking at net carbs, not total carbs. The **net carb content** of a food is the **total carb** minus the grams of indigestible **fibrous carb**. See this [cheat sheet](https://thefatemperor.com/carb-cheat-sheet/) [[mirror](https://imgur.com/a/F88EmLT)] for food carbs.  
+The ideal quantity varies for different people, but for everyone, we recommend looking at net carbs, not total carbs. The **net carb content** of a food is the **total carb** minus the grams of indigestible **fibrous carb**. See this [cheat sheet](https://href.li/?https://thefatemperor.com/carb-cheat-sheet/) [[mirror](https://imgur.com/a/F88EmLT)] for food carbs.  
   
 We espouse the `40/80/120 rule` for carb intake :  
 * If you have established **insulin resistance**, prediabetes (consistently high blood glucose), or type 2 diabetes, the net carb intake needs to be less than `40 grams` daily
@@ -218,7 +218,7 @@ As you **cross the bridge** to becoming a `fat-burner`, your body will be underg
 >
 > Remember, Once the **junk** is ingested, many days of great achievement are **undone**.  
 
-[Diet Doctor - low-carb meal ideas](https://www.dietdoctor.com/)  
+[Diet Doctor - low-carb meal ideas](https://href.li/?https://www.dietdoctor.com/)  
 
 * Butter Cappuccino
 * Three eggs, any style, with 2 slices cooked bacon
@@ -319,7 +319,7 @@ If you are up for the aerobics, we favor relatively short jogging sessions of tw
   
 Interval training, this just means that at regular intervals during your jog, you break into a short, hard sprint of around 92 meters. Doing these sprints every three minutes or so will enhance the value of your routine.  
   
-Try the routine of [MD pal Ted Naiman - BurnFatNotSugar](https://tednaiman.com/) we think this is an absolutely super approach, takes only fifteen to twenty minutes.  
+Try the routine of [MD pal Ted Naiman - BurnFatNotSugar](https://href.li/?https://tednaiman.com/) we think this is an absolutely super approach, takes only fifteen to twenty minutes.  
   
 > We humans now have trillions of these mitochondria in our bodies. Without them and their fat burning ability, we would cease to exist.  
   
