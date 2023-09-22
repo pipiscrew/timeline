@@ -228,7 +228,8 @@ If **no refrigeration** is available:
 * Dark chocolate (80 to 85 percent cacao or greater)
 * Nuts (macadamia nuts, Brazil nuts, hazelnuts, pistachios, walnuts,pecans, etc.)
 * Canned fish (tuna, sardines, etc.)
-* High-quality cured meats or dry sausage without grains or added oils
+* High-quality cured meats or dry sausage without grains or added oils  
+
 If **refrigeration** is available:  
 * Bone broth (and other low-carb, low-calorie broths)
 * Cheeses (whatever full-fat variety is your favorite)
