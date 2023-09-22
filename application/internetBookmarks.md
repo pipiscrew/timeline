@@ -4,7 +4,8 @@
   * [2](https://sci-hub.se/) 
   * [3](https://sci-hub.41610.org/)
 * [OAmg](https://oa.mg/) - Search over 200 million research papers
-* [LibGen](https://libgen.me/) - Collecting and cataloging scientific & technical ebooks 
+* [LibGen](https://libgen.me/) - Collecting and cataloging scientific & technical ebooks
+  * [sued by textbook publishers](arstechnica.com/tech-policy/2023/09/most-notorious-illegal-shadow-library-sued-by-textbook-publishers/)
 * [Library Genesis](https://libgen.is/)
 * [Freecomputerbooks](https://freecomputerbooks.com/)
 * [arXiv](https://arxiv.org/) - Search an archive for millions scholarly articles in the fields of physics, mathematics, computer science, quantitative biology, quantitative finance, statistics, electrical engineering and systems science, and economics.  
@@ -293,7 +294,8 @@
 * [Tetris](https://www.goodoldtetris.com/)  
 * [2048](https://2048game.com/) - [ref](https://youtube.com/watch?v=kQhkkqjGkFA)  
 * [Sudoku, Go and WebAssembly](https://eliben.github.io/go-sudoku/) - [ref](https://eli.thegreenplace.net/2022/sudoku-go-and-webassembly/)  
-* [webЯcade](https://webrcade.com/) - [github](https://github.com/webrcade/webrcade)  
+* [webЯcade](https://webrcade.com/) - [github](https://github.com/webrcade/webrcade)
+* [OpenRA](https://www.openra.net/) - Strategic, rebuilt for the modern ERA
 
 ## poll
 * [Doodle](https://doodle.com/)

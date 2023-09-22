@@ -51,6 +51,7 @@
 	* [sleep](/health/sleep.md)
 	* [dirty electricity](/health/dirty.md)
 	* [ions](/health/ions.md) 
+	* [insulin](/health/insulin.md)
 	* [water](/health/water.md)
 	* [did i today](/health/didtoday.md)
 	* [skin](/health/skin.md)
