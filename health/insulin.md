@@ -222,7 +222,7 @@ As you **cross the bridge** to becoming a `fat-burner`, your body will be underg
 * Three eggs, any style, with 2 slices cooked bacon
 * Three-egg omelet filled with 60 g fresh (soft) goat cheese 
 * Two hard-boiled eggs with 60 g full-fat cheese  
-  
+
 Here are the ones we recommend for emergencies.  
 If **no refrigeration** is available:  
 * Dark chocolate (80 to 85 percent cacao or greater)
