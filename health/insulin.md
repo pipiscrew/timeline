@@ -28,7 +28,7 @@ There are also emerging studies that show that **gut microbiome** problems (issu
 
 **Carbohydrate-rich** foods raise blood sugar levels. Insulin must be promptly raised to manage this blood sugar. **Carbohydrate-rich** foods are also poorly satiating to begin with (they don’t fill you up and keep you feeling full). The overall **effect** is that you **feel hungry again** soon after a meal. The spring is difficult to ignore it will **whisper** in your ear, `You really need and deserve a snack`.
 
-Overweight and `unhealthy people` normally have **higher** insulin levels, a condition known as **hyperinsulinemia**. Unfortunately, they also respond less well to insulin’s orders, even though they have higher insulin levels, just as with any powerful drug, you can b**ecome resistant** to the **effects** of **insulin over time**. This phenomenon is called `insulin resistance`. In fact, the majority of **adult Americans** now have an [insulin resistance problem](https://doi.org/10.1001/jama.2015.10029). And a shocking proportion of our children have it, [too](https://doi.org/10.2337/dc06-0709). A high level of insulin in the bloodstream with associated insulin resistance is the **signature** dysfunction of `our modern age`.
+Overweight and `unhealthy people` normally have **higher** insulin levels, a condition known as **hyperinsulinemia**. Unfortunately, they also respond less well to insulin’s orders, even though they have higher insulin levels, just as with any powerful drug, you can **become resistant** to the **effects** of **insulin over time**. This phenomenon is called `insulin resistance`. In fact, the majority of **adult Americans** now have an [insulin resistance problem](https://doi.org/10.1001/jama.2015.10029). And a shocking proportion of our children have it, [too](https://doi.org/10.2337/dc06-0709). A high level of insulin in the bloodstream with associated insulin resistance is the **signature** dysfunction of `our modern age`.
 
 In **type 2 diabetes**, `insulin resistance` has progressed to the point that the **body has lost control** of blood **glucose** levels. Most **heart disease** is driven by diabetic vascular inflammation: high insulin and glucose levels **damage** the walls of your **arteries**, which leads to the **buildup** of **materials** in the **artery walls**. This process is called `atherosclerosis`, and it is the primary driver of heart attacks.
 
@@ -40,7 +40,7 @@ Every time we **eat**, energy is **stored** in multiple different **compartments
 
 **Healthy dietary fats** are the `safest fuel` in a well-formulated low-carb diet. They **directly enable you** to **minimize** your intake of **glucose**, and so achieve the **optimization** of 1 to 3 above. In doing so, you can help keep your adipose tissue in good health and insulin sensitive.
 
-Your **body cells** do not **burn** both **glucose** and **fat** at the same time. In fact, the **core fat-burning mechanisms** are intentionally shut down when **glucose** enters your system. Mammals always **prioritize** burning **glucose** when it is **present**, which makes sense, because `glucose is toxic to cells` when it is at **elevated** levels. Note that we only carry about **1.5 teaspoons of glucose in our entire blood** supply. If it **rises** much beyond that, it will damage the **body organ** systems. Fat, on the **other hand**, is **easy** for the **body** to **store** and **reuse**. `But fat is not easy to tap into if carb is the main part of your meals`.  
+Your **body cells** do not **burn** both **glucose** and **fat** at the **same time**. In fact, the **core fat-burning mechanisms** are intentionally shut down when **glucose** enters your system. Mammals always **prioritize** burning **glucose** when it is **present**, which makes sense, because `glucose is toxic to cells` when it is at **elevated** levels. Note that we only carry about **1.5 teaspoons of glucose in our entire blood** supply. If it **rises** much beyond that, it will damage the **body organ** systems. Fat, on the **other hand**, is **easy** for the **body** to **store** and **reuse**. `But fat is not easy to tap into if carb is the main part of your meals`.  
 
 The standard **American diet** relies primarily on **carb—in fact**, the **government** has told for decades to make `healthy whole grains` the bulk of our **calories**. And most Americans are **sugar-burners**. What are the major implications of this higher-carb dietary strategy?
 * You experience blood `sugar` and insulin `spikes`. This **downregulates** the fat-burning machinery. For many, this can promote a **speedier** onset of `post-meal hunger pangs`. Over time, `insulin spikes` can lead to `insulin resistance`. With **increasing** insulin levels, the negative aspects of the diet become **magnified**.
@@ -177,7 +177,7 @@ There are three main lower-carb approaches:
 * 20 percent protein
 * less than 10 percent carb  
 
-Keto, is a more extreme version of LCHF diet. `We personally (book authors) follow LCHF, but we regularly shift into keto for enhanced low-carb benefits`..  
+Keto, is a more extreme version of [LCHF](https://imgur.com/a/iY9t28U) diet. `We personally (book authors) follow LCHF, but we regularly shift into keto for enhanced low-carb benefits`..  
 
 > Millions of new fat-burning enzymes will be rapidly manufactured during this wonderful and miraculous transition.  
 
@@ -258,7 +258,7 @@ particles
 
 > Having both low HDL and high triglycerides indicates that unhealthy hormonal signaling is afoot.  
 
-Reccomented supplements for fat-burner :  
+Recommended supplements for fat-burner :  
 * Potassium
 * Sodium
 * Magnesium
