@@ -175,28 +175,28 @@ There are three main lower-carb approaches:
 **Keto** is a special case of low-carb. Keto is short for ketogenic diet, so named because burning fat produces unique molecules called ketones, which are used for energy. On keto, the body enters a state of nutritional ketosis, in which it is **fueled by fat**. Keto is essentially a very low carb regimen, with a very high percentage of energy coming from **dietary fats** (or your own body fat). In the meantime, we’ll highlight that the keto macronutrient mix is approximately :  
 * 70 percent or more fat
 * 20 percent protein
-* less than 10 percent carb.  
-  
+* less than 10 percent carb  
+
 Keto, is a more extreme version of LCHF diet. `We personally (book authors) follow LCHF, but we regularly shift into keto for enhanced low-carb benefits`..  
-  
-> Millions of new fat-burning enzymes will be rapidly manufactured during this wonderful and miraculous transition.
-  
+
+> Millions of new fat-burning enzymes will be rapidly manufactured during this wonderful and miraculous transition.  
+
 The ideal quantity varies for different people, but for everyone, we recommend looking at net carbs, not total carbs. The net carb content of a food is the total carb minus the grams of indigestible fibrous carb. See this [cheat sheet](https://thefatemperor.com/carb-cheat-sheet/) [[mirror](https://imgur.com/a/F88EmLT)] for food carbs.  
   
 We espouse the `40/80/120 rule` for carb intake :  
 * If you have established **insulin resistance**, prediabetes (consistently high blood glucose), or type 2 diabetes, the net carb intake needs to be less than `40 grams` daily
 * If you’re **insulin-sensitive**, your net carb intake should be around `80 grams` daily
 * For the **vast majority** of people, net carb intake should never exceed `120 grams` per day  
-  
+
 **Eat only nutrient-dense** and slow-burning carbohydrates, which can promote gut and general health, and keep carb intake low. Your initial target should be approximately 15 to 20 percent of your total calories.  Eat nutrient-dense sources of protein. Always consume highquality protein—make that protein count. Your target should be approximately 0.4 to 0.6 gram per pound of lean body mass if you are not athletic—more if you’re more active. Get most of your calories from fats that come from nutrient-rich foods. These fats should supply 60 to 65 percent of your total daily calories.  
 
-**Eat only three main meals** a day—ideally two, if you can manage it. You can make this a wonderful habit for life. You will learn to relish each meal. Your body will positively hum with this regimen. Be mindful of your lifestyle and environment. Poor sleep, stress, and lack of healthy sun exposure will hammer your weight-loss efforts. Do not neglect these environmental influences. Partake in healthy exercise. Resistance exercise is best.
+**Eat only three main meals** a day—ideally two, if you can manage it. You can make this a wonderful habit for life. You will learn to relish each meal. Your body will positively hum with this regimen. Be mindful of your lifestyle and environment. Poor sleep, stress, and lack of healthy sun exposure will hammer your weight-loss efforts. Do not neglect these environmental influences. Partake in healthy exercise. Resistance exercise is best.  
 
 Completely **eliminate bad processed food**. Let’s clarify what we mean by that. These foods include :  
 * Most `breads`, which are made from finely ground grains, vegetable oils, added sugar, and many other bad things
 * Most `packaged foods` cereals, soups, and so on—which contain powdered grains, vegetable oils, and sugars
 * Nearly all `healthy snack bars`—they are normally made from powdered grains, **vegetable oils**, and sugars, and they are almost always **too sugary**  
-  
+
 > All these will **disrupt** your body **hormonal weight control system**, cause increased hunger, and trigger weight gain—along with health problems.  
 
 The other part of this step is to **target the carbs** that can **help** you. These have **no refining** to make them dangerous, and they have plenty of **fiber** on board for **satiety and insulin moderation**. These are also the **carbs** that can **improve** your **gut microbiome**. A healthy gut microbiome in turn helps with many things, including **insulin sensitivity**. Focus on **nutrient-dense carb**s that are generally **slower** to digest. **Slow digesting carbs** do not **spike** blood sugar and insulin as much, and they stimulate hormones that **help pancreatic function** and moderate appetite. Center your carb allocation on above-ground **non-starchy vegetables**, like spinach, broccoli, and cauliflower. In moderation, some tubers like sweet potatoes can also be okay—**boiled** rather than baked lowers insulin response.  
@@ -205,7 +205,7 @@ High-fiber carbs provide material that can **promote** the growth of **beneficia
   
 `Protein` provides key **amino acids** your body needs. Consuming these wonderful molecules means that your body won’t trigger hunger in an attempt to pursue them. At the same time, we do not believe in consuming **excessive protein**, as high intakes can be converted into glucose, trigger inappropriate insulin release, and promote related growth pathways.  
 
-As you **cross the bridge** to becoming a `fat-burner`, your body will be undergoing wonderful changes. But these changes will bring **new requirements** for particular nutrients, the most important minerals to pay attention to are :
+As you **cross the bridge** to becoming a `fat-burner`, your body will be undergoing wonderful changes. But these changes will bring **new requirements** for particular nutrients, the most important minerals to pay attention to are :  
 * sodium
 * magnesium
 * potassium  
@@ -215,9 +215,9 @@ As you **cross the bridge** to becoming a `fat-burner`, your body will be underg
 > Eat an avocado every day; eat more nuts, especially macadamias; and consume healthy fats, including coconut oil, olive oil, and butter. Later, she learned about adding more delicious fats and the wonderful health benefits of eliminating grains.  
 
 > Remember, Once the **junk** is ingested, many days of great achievement are **undone**.  
-  
+
 [Diet Doctor - low-carb meal ideas](https://www.dietdoctor.com/)  
-  
+
 * Butter Cappuccino
 * Three eggs, any style, with 2 slices cooked bacon
 * Three-egg omelet filled with 60 g fresh (soft) goat cheese 
