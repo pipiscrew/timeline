@@ -171,16 +171,16 @@ There are three main lower-carb approaches:
 * `Paleo`: medium carb, moderate to high protein, moderate fat
 * `Low-carb, high-fat `([LCHF](https://ketolibriyum.ca/blogs/ketolife-blog/lchf-vs-keto-the-run-down)): low carb, moderate protein, high fat
 * `Keto`: very low carb, moderate protein, very high fat  
-
+  
 **Keto** is a special case of low-carb. Keto is short for ketogenic diet, so named because burning fat produces unique molecules called ketones, which are used for energy. On keto, the body enters a state of nutritional ketosis, in which it is **fueled by fat**. Keto is essentially a very low carb regimen, with a very high percentage of energy coming from **dietary fats** (or your own body fat). In the meantime, we’ll highlight that the keto macronutrient mix is approximately :  
 * 70 percent or more fat
 * 20 percent protein
 * less than 10 percent carb.  
   
 Keto, is a more extreme version of LCHF diet. `We personally (book authors) follow LCHF, but we regularly shift into keto for enhanced low-carb benefits`..  
-
+  
 > Millions of new fat-burning enzymes will be rapidly manufactured during this wonderful and miraculous transition.
-
+  
 The ideal quantity varies for different people, but for everyone, we recommend looking at net carbs, not total carbs. The net carb content of a food is the total carb minus the grams of indigestible fibrous carb. See this [cheat sheet](https://thefatemperor.com/carb-cheat-sheet/) [[mirror](https://imgur.com/a/F88EmLT)] for food carbs.  
   
 We espouse the `40/80/120 rule` for carb intake :  
