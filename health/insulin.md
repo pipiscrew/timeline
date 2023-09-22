@@ -233,7 +233,7 @@ If **refrigeration** is available:
 * Bone broth (and other low-carb, low-calorie broths)
 * Cheeses (whatever full-fat variety is your favorite)
 * Mix of olives, feta cheese, and lardons  
-  
+
 Checking your post-meal blood glucose, keep an eye on your fasting glucose—your blood glucose level first thing in the morning, following an overnight fast. It should generally be below 100 mg/dL. Repeated readings above this indicate a problem, and at that point you should ask your doctor to test your fasting insulin to see if there is a genuine problem afoot.You can use a blood glucose meter to check your post-meal glucose. The price of these meters has plummeted in recent years due to the exploding diabetes epidemic. Get yourself a dependable model and a pack of disposable test strips. We use the Freestyle Optium from Abbott, which has the added advantage of measuring ketone levels, too. (You’ll remember that ketones are produced when your body burns fat, so measuring your ketone levels is a good way to find out if your body has become a fat-burner). Occasionally check your blood glucose before and approximately one hour after a meal. If your blood glucose increases by more than 30 mg/dL after a meal, you’ll know that something you ate is a problem for you. Some people have problems with dairy. Others are sensitive to certain meats or a higher protein intake. A blood glucose meter gives you instant feedback on what to avoid in the future.  
 
 To find out in time that you are heading for the rocks, you need to focus on your insulin signaling. It will tell you when the problem starts.  
