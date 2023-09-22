@@ -212,8 +212,8 @@ As you **cross the bridge** to becoming a `fat-burner`, your body will be underg
 
 > Start eating bacon, real butter, eggs, and many other /forbidden/ foods.  
 >  
-> Eat an avocado every day; eat more nuts, especially macadamias; and consume healthy fats, including coconut oil, olive oil, and butter. Later, she learned about adding more delicious fats and the wonderful health benefits of eliminating grains.  
-
+> Eat an avocado every day; eat more nuts, especially macadamias; and consume healthy fats, including coconut oil, olive oil, and butter. Later, she learned about adding more delicious fats and the wonderful health benefits of eliminating grains.
+>
 > Remember, Once the **junk** is ingested, many days of great achievement are **undone**.  
 
 [Diet Doctor - low-carb meal ideas](https://www.dietdoctor.com/)  
@@ -255,18 +255,18 @@ easier to acquire)
 These measure the number and size of your cholesterol-carrying
 particles  
 
-> Having both low HDL and high triglycerides indicates that unhealthy hormonal signaling is afoot.
-  
-Reccomented supplements for fat-burner :
+> Having both low HDL and high triglycerides indicates that unhealthy hormonal signaling is afoot.  
+
+Reccomented supplements for fat-burner :  
 * Potassium
 * Sodium
 * Magnesium
 * Omega-3 fatty acids
 * Vitamin D
 * Iodine  
-  
+
 **Iodine deficiency** and associated **thyroid function** issues are also intimately connected to triglyceride and cholesterol problems (found supplement with 500–1000 mcg per day). [reference](https://www.hsph.harvard.edu/nutritionsource/iodine/)  
-  
+
 Start taking an omega-3 fish oil, you will eliminate the dreadful omega-6-filled vegetable oils from your diet, so you will be well on your way to fixing your ratio of omega-6 to omega-3.  
 
 The other crucial test that will benefit any middle-aged man or woman is a `CAC scan`, which is a `CT scan` of the heart that measures coronary artery calcification (CAC). It shows where your body has tried to repair damaged arteries by depositing calcium in the arterial walls, so it reveals how much heart disease you have and also how much inflammatory damage you have sustained over the years. The CAC scan can really help bring clarity where the risk factors can confuse. This is particularly true if you track how your CAC score changes over time. Because it sees the actual evidence of inflammatory disease impact in your body, it essentially gives you the bottom line on your health status. It does not just show the extent of coronary heart disease—it really reflects the damage from the broad root causes of modern chronic disease. Therefore, it can be very useful for anyone tracking their progress toward achieving optimal health. Subsequent scan results would then tell a more compelling story than any blood tests. It gives incredibly useful information about your genuine health status and risk for chronic disease. For instance, if you have a score of zero in middle age, your risk of allcause mortality is extremely low. A zero score is being called “a warranty for humans. Striving to keep this zero score into old age is the ultimate strategy for health and longevity. Nothing else comes close, because the CAC scan sees how the disease itself progresses. If you get a score higher than zero, all is not lost by any means. The key is to now stop your score from rising significantly over the years. You can achieve this by applying the ten action steps like a pro. The key is to keep your CAC score from increasing more than 15 percent per year. Ideally, it will increase by only 5 percent per year or less. You do not need to reverse your score; the vast majority of the longevity benefits will come from keeping the progression at a low level. You don’t need to get a CAC scan very often at all. If you have a low score (0 to 10), you might check in five to seven years later. If you have a very high score (higher than 400), then it would be prudent to check back within two years to verify that progression has been brought under control.  
@@ -292,22 +292,22 @@ Sleep cycle and quality. Achieving quality sleep is very important. Ideally, you
 Stress management. Chronic stress makes weight loss much harder to achieve and sustain. It also significantly undermines long-term health.  
   
 Sunlight exposure. But you will benefit hugely from accessing good natural light for at least thirty minutes in the morning after awakening— not through windows but out in the fresh air.  
-  
-Exercise can contribute in many ways to your fat-burning capabilities. It has all the following benefits:
+
+Exercise can contribute in many ways to your fat-burning capabilities. It has all the following benefits:  
 * Depletes the body’s glycogen stores and lowers blood glucose
 * Lowers insulin levels and enhances insulin sensitivity
 * Enhances the fat-burning machinery of muscles via mitochondrial changes
 * Liberates fatty acids from adipose tissue so they can be burned as fuel
 * Encourages cells to renew themselves  
-  
+
 Long, brisk walks in the fresh air are the easiest option for many people. The best exercise for enhancing muscle function and insulin sensitivity, though, is resistance training, sometimes called weight training. This does not mean you need to use expensive equipment or join a gym just do basic strength training at home using, at most, a pull-up bar and some dumbbells.  
-  
+
 Virtual jump-rope (5 minutes)—you can use an actual rope, but you don’t really need one :  
 * Push-ups
 * Sit-ups
 * Chin-ups (using a basic pull-up bar attached to a doorway)
 * Wall squats (squat down with your back lightly pressed against a wall, rise to standing, repeat)  
-  
+
 The key for each exercise type is to continue it until you cannot manage another repeation You only have to do this simple routine a few times a week to accrue truly amazing benefits.  
   
 You will gain the greatest benefits by exercising in a fasted state, long after a meal. We find that a great time is just before you sit down to your evening meal.  
