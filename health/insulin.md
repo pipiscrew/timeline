@@ -171,7 +171,7 @@ There are three main lower-carb approaches:
 * `Paleo`: medium carb, moderate to high protein, moderate fat
 * `Low-carb, high-fat `([LCHF](https://ketolibriyum.ca/blogs/ketolife-blog/lchf-vs-keto-the-run-down)): low carb, moderate protein, high fat
 * `Keto`: very low carb, moderate protein, very high fat  
-  
+
 **Keto** is a special case of low-carb. Keto is short for ketogenic diet, so named because burning fat produces unique molecules called ketones, which are used for energy. On keto, the body enters a state of nutritional ketosis, in which it is **fueled by fat**. Keto is essentially a very low carb regimen, with a very high percentage of energy coming from **dietary fats** (or your own body fat). In the meantime, we’ll highlight that the keto macronutrient mix is approximately :  
 * 70 percent or more fat
 * 20 percent protein
