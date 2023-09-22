@@ -248,13 +248,12 @@ Here are the tests we would recommend, should you be willing to get them:
 * A1C (average blood glucose over several months)
 * Standard lipid panel (triglyceride, total cholesterol, HDL, and LDL)
 * Vitamin D levels (the detailed name is the 25(OH)D test)
-* Liver panel with GGT, AST, and ALT. When the levels of these liver enzymes are high, it indicates inflammation—low levels of
-* GGT, in particular, are very important.
+* Liver panel with GGT, AST, and ALT. When the levels of these liver enzymes are high, it indicates inflammation—low levels of GGT, in particular, are very important.
 * Serum ferritin (iron loading in the blood) and homocystein levels (a significant heart disease risk factor when high indicates low Bvitamin intake and other issues)
-* [advanced] Oral glucose tolerance test with insulin assay (or simply a two-hour
+* `[advanced]` Oral glucose tolerance test with insulin assay (or simply a two-hour
 post-glucose insulin, which gives similar information but is much
 easier to acquire)
-* [advanced] Advanced lipoprotein profile with ApoB, ApoA1, and sdLDL.
+* `[advanced]` Advanced lipoprotein profile with ApoB, ApoA1, and sdLDL.
 These measure the number and size of your cholesterol-carrying
 particles  
 
