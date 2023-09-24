@@ -325,3 +325,5 @@ Try the routine of [MD pal Ted Naiman - BurnFatNotSugar](https://href.li/?https:
 > It is not your body weight that dictates your fate. Your health depends on the health of your fat tissue, not the quantity of it.  
 
 **Insulin sensitivity starts with cells**: just like the body as **a whole**, individual cells can be insulin resistant or insulin sensitive. Many people can have a lot of fat tissue whose cells are in a healthy, insulin-sensitive state. These people are referred to as `metabolically healthy obese`. They can remain insulin sensitive throughout their bodies, and they have relatively low risk for disease. Conversely, there are countless people who appear slim but whose fat tissue is unhealthy, insulin resistant and inflamed. This leads to wholebody insulin resistance. These people are referred to as `metabolically unhealthy normal weight` or `thin outside, fat inside` Your whole-body insulin sensitivity depends hugely upon the health and sensitivity of your fat tissue.  
+
+download this page in [Greek](https://filecrypt.co/Container/12D5D39CF2.html)  
