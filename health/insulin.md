@@ -316,8 +316,6 @@ Try the routine of [MD pal Ted Naiman - BurnFatNotSugar](https://href.li/?https:
 
 **Insulin sensitivity starts with cells**: just like the body as **a whole**, individual cells can be insulin resistant or insulin sensitive. Many people can have a lot of fat tissue whose cells are in a healthy, insulin-sensitive state. These people are referred to as `metabolically healthy obese`. They can remain insulin sensitive throughout their bodies, and they have relatively low risk for disease. Conversely, there are countless people who appear slim but whose fat tissue is unhealthy, insulin resistant and inflamed. This leads to wholebody insulin resistance. These people are referred to as `metabolically unhealthy normal weight` or `thin outside, fat inside` Your whole-body insulin sensitivity depends hugely upon the health and sensitivity of your fat tissue.  
 
-download this page in [Greek](https://filecrypt.co/Container/12D5D39CF2.html)  
-
 ## cholesterol
 
 Everyone has heard of **cholesterol**, but what really is it? Cholesterol is a waxy molecule **essential** for life. So important, in fact, that virtually **every cell** can make it. It is the main structural component for **all the cells** and tissues in the human body. Without it, the body would, will eventually disappear. It plays a **major** role in bone building, is the main building block for **adrenal** and reproductive **hormones**, and is needed to synthesize the **bile salts** required for **proper digestion**, and the **brain** and **nervous** system are both **highly dependent** upon it for optimal function. Because it is necessary for life, the body itself **manufactures around 80–85 percent** of the cholesterol it requires, with the other **15–20 percent coming from the diet**.  
@@ -381,3 +379,5 @@ The ratio of **total cholesterol** to **HDL** (total/HDL) is as easy to calculat
 The `total/HDL` ratio cuts a swath through all the noise. It doesn’t even require any exotic laboratory tests. So go ahead and calculate your ratio—the current guideline suggests you should be `lower than 5` or even `4.5`. Achieving `lower than 4` would be the **ideal target**. if your total cholesterol is 200 mg/dL (5.2 mmol/L) and your HDL is 50 mg/dL (1.3 mmol/L), your ratio would be 4-to-1. **Higher ratios** mean a higher risk of **heart disease**.  
 
 We all **fear** heart attacks, we **worry** that they can just happen like **out of blue**. But this is a lie. There is **nothing sudden** about the **inflammatory disease** sequence leading to that `sudden` heart attack. **Most** heart attacks are caused by **atherosclerosis**, the inflammation of the arterial walls. There is a simple **five-minute scan** that can identify heart disease and how bad it is: the `coronary artery calcium (CAC) scan`.  
+
+see this page in [Greek](https://filecrypt.cc/Container/87154063EF.html)  
