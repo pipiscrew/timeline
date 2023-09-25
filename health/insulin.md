@@ -85,16 +85,6 @@ When **insulin** and **glucose** are high, exposing us to factors that disrupt o
 > He has elegantly demonstrated that **insulin**, a nearly billion-year-old molecule, dominates our disease landscape.  
   
 
-
-
-## cholesterol
-
-Everyone has heard of **cholesterol**, but what really is it? Cholesterol is a waxy molecule **essential** for life. So important, in fact, that virtually **every cell** can make it. It is the main structural component for **all the cells** and tissues in the human body. Without it, the body would, will eventually disappear. It plays a **major** role in bone building, is the main building block for **adrenal** and reproductive **hormones**, and is needed to synthesize the **bile salts** required for **proper digestion**, and the **brain** and **nervous** system are both **highly dependent** upon it for optimal function. Because it is necessary for life, the body itself **manufactures around 80–85 percent** of the cholesterol it requires, with the other **15–20 percent coming from the diet**.  
-  
-> The focus on cholesterol has been a weapon of **mass distraction** from the real cause of coronary artery disease (CAD) for more than fifty years.  
-  
-he increase in **triglycerides** and **cholesterol** leads directly to lower levels of HDL—one of the MIRS criteria. It also leads to increased levels of small and dense or oxidized `LDL`. While `normal LDL` may not present a problem, these forms of **modified LDL** can do so, leading to an `increased risk of heart disease`.  
-
 ## the 1950 lie still driving the world
 
 Ancel Keys believed (1950s) in his heart that **dietary fat** (particularly saturated fat) was a key cause of coronary heart disease (CHD).  
@@ -327,3 +317,67 @@ Try the routine of [MD pal Ted Naiman - BurnFatNotSugar](https://href.li/?https:
 **Insulin sensitivity starts with cells**: just like the body as **a whole**, individual cells can be insulin resistant or insulin sensitive. Many people can have a lot of fat tissue whose cells are in a healthy, insulin-sensitive state. These people are referred to as `metabolically healthy obese`. They can remain insulin sensitive throughout their bodies, and they have relatively low risk for disease. Conversely, there are countless people who appear slim but whose fat tissue is unhealthy, insulin resistant and inflamed. This leads to wholebody insulin resistance. These people are referred to as `metabolically unhealthy normal weight` or `thin outside, fat inside` Your whole-body insulin sensitivity depends hugely upon the health and sensitivity of your fat tissue.  
 
 download this page in [Greek](https://filecrypt.co/Container/12D5D39CF2.html)  
+
+## cholesterol
+
+Everyone has heard of **cholesterol**, but what really is it? Cholesterol is a waxy molecule **essential** for life. So important, in fact, that virtually **every cell** can make it. It is the main structural component for **all the cells** and tissues in the human body. Without it, the body would, will eventually disappear. It plays a **major** role in bone building, is the main building block for **adrenal** and reproductive **hormones**, and is needed to synthesize the **bile salts** required for **proper digestion**, and the **brain** and **nervous** system are both **highly dependent** upon it for optimal function. Because it is necessary for life, the body itself **manufactures around 80–85 percent** of the cholesterol it requires, with the other **15–20 percent coming from the diet**.  
+  
+> The focus on cholesterol has been a weapon of **mass distraction** from the real cause of coronary artery disease (CAD) for more than fifty years.  
+  
+The increase in **triglycerides** and **cholesterol** leads directly to lower levels of HDL—one of the MIRS criteria. It also leads to increased levels of small and dense or `oxidized LDL`. While `normal LDL` may not present a problem, these forms of **modified LDL** can do so, leading to an `increased risk of heart disease`.  
+
+The phenomenal human **brain** contains around **30 percent** of the **body cholesterol**, even though the brain is only around 4 percent of our body weight. It is required for much more besides. **Without** cholesterol there would be **no life**.  
+
+Cholesterol is **required** for life on this planet. It comes from the sterol family of molecules, which are fat-like in nature. The cholesterol molecule enables the structure of c**ell walls**. It is a **vital building block** for many **hormones** that are central in the control systems of our bodies. Cholesterol is a **key part** of the **immune system** and is central to the body tissue **repair apparatus**. Without cholesterol there would be **no life**.
+
+You may rightly wonder **how** this fundamental requirement for health became something that scientists **claimed**, `was somehow conspiring to kill us`. Evolution is not an idiot. It’s **not** the cholesterol that is the problem but rather the system that manages it in the body, which can become **dysfunctional**. This is why cholesterol **measures** can **correlate** loosely with **disease**.  
+
+We have around `forty trillion cells` in our bodies, so you have forty trillion reasons to be **glad** of cholesterol. With some exceptions, all of these cells are blessed with the ability to **manufacture** their **own** cholesterol. Cholesterol is that critical. Cholesterol is **arguably** the most important substance that evolution has designed to **keep** you healthy.  
+
+Cholesterol cannot **travel** around the bloodstream by **itself**, so nature has evolved some very special `boats` that **carry cholesterol molecules** safe inside them. These are **lipoprotein particles**. These boats need to clearly identify themselves in order to `dock` properly in many different **harbors**. They do this by **signaling** with a u**nique protein molecule** wrapped around their **outer shell**: an `apolipoprotein`. There is also **another** pivotal molecule that **travels** with cholesterol inside, these lipoprotein particles: `triglyceride`. These triglyceride molecules can be **consumed** through fat-containing food. They can also be **created** in your **liver**. Your body `assembles, disassembles, and transports` triglyceride to **fuel** your body. If triglyceride level in your blood is **higher** than it should be. **Excess fat** in your blood is a **major issue**.  
+
+> **HDL** is directly correlated with insulin resistance.  
+
+> **VLDL**: Very low density lipoprotein (VLDL) is the **mother** of LDL (it’s where LDL originates).  
+
+Now we’ll reveal how these lipoproteins play in your **bodily orchestra**. Most importantly, we will explain how to avoid destroying their evolutionary function.  
+
+The `VLDL` particle is created by the **liver**. Its cargo hold is packed with **fatty goods** to meet the **body needs**. VLDL must `dock` with muscle and/or fat tissue before releasing its goods. After **giving** up its **triglyceride cargo**, the VLDL particle **shrinks** and **transforms** into an **LDL particle**. In spite of LDL fearsome reputation, there is nothing bad happening here at all. Evolution has given us LDL for a **purpose**. It works fine if you eat the `kind of diet` humans evolved eating, **high in fat** and **low in carb**. But for the majority of people, especially as they get **older**, a high-carb diet tends to make VLDL particles **large** and **triglyceride-rich**. This is universally **bad news**. Large, triglyceride-rich VLDLs turn into **smaller** and **denser LDLs** that carry **less cholesterol**. With **less cholesterol** carried per particle, you **need more LDL particles** in circulation. With more LDL particles in circulation, more particles are exposed to **oxidative damage**. Also, such dysfunctional systems damage the **endothelium** (the artery inner surface) and this can certainly **cause LDL** to be a **problem**, too.  
+
+Ironically, breaking the rules of a healthy diet not only means more particles are there to be exposed to damage, but it also damages **LDL particles itself**. Damaged LDLs don’t get taken up **properly** by your **liver**; instead, your **immune system** has the t**hankless task** of **trying** to **mop** them up. That means they **hang around** for **longer** in your blood (approximately **four days** rather than the ideal **two days**). You are now really **playing** with **fire**. These damaged particles are a **different breed** of **LDL** that may not like going **back** to the **liver**. But there is a place where these **problematic particles will end up**: inside your **inflamed arterial walls**. This is what **ultimately leads** to arterial plaque, blockages, and, eventually, heart attacks.  
+
+`HDL` is more than just **good cholesterol**. It is something of a miracle worker. It plays multiple instruments in the **lipoprotein orchestra**. HDL starts off as a simple **protein**. It then **swells** as cholesterol and **triglyceride** are added to it. Armed and ready, it **carries** out its many crucial functions:  
+* **swapping** cholesterol and triglyceride molecules in and out of VLDL and LDL particles to **balance** the system
+* **extracting excess** triglyceride from VLDL and LDL particles to **prevent** them from becoming dysfunctional
+* **collecting** cholesterol molecules from cells where there is an **excess**
+* **delivering** cholesterol to the rare types of cells that can’t make their own
+* **supplying** the gonads and adrenal glands with cholesterol, which is needed to synthesize important hormones
+* **carrying** antioxidant artillery to protect the LDL lipoproteins from damage
+* **removing** cholesterol from places where it ought not be (like arterial walls)  
+
+Losing your **HDL functionality** will cost you **dearly**. But it is **happening all the time**, to hundreds of millions of people around the world who are **destroying** their HDL through what they **put** in their **mouths**. A **low HDL** value is a serious **problem**. What is the best way to keep your HDL level high and healthy? You need to keep both your **insulin** and your insulin resistance **low**.  
+
+If your **LDL value** is well `above 200 mg/dL`, it is more likely to have some meaning—that fairly high, and it can **indicate** that your blood is **full of damaged LDL particles** that contribute to **arterial inflammation**.  But you must examine all the other values we’ve discussed (including HDL, triglyceride, insulin, and blood glucose) to make a call.  
+
+People with the most serious issues can **often** have a **lower LDL** than healthy people, **especially** as they get closer to a **heart attack**. These unhealthy people have **insulin-resistance** problems, which means they have e**xcessive triglyceride** in their **lipoproteins**, which **crowds out cholesterol**. So these unfortunate people end up with a lower LDL value in the test, **even** though they are on **fire** inside. Also, their **HDL** desperately **tries** to remove the **excess triglyceride** and becomes poisoned with it, driving **down** their HDL levels.  
+
+`Low HDL` consistently highlights genuinely problematic mechanisms in your body. It is a genuinely valuable flag that relates directly to the true root causes of disease.  Is a risk if the HDL value is `below 40 mg/dL` for men or 50 mg/dL for women.  
+
+You can have a `high HDL` and still have some disease risk, HDL functionality can be problematic even when the HDL level appears good. That is why it is very important to look at `ratios`.  
+
+Your **triglyceride number** also has utility in assessing risk. Triglyceride is most **useful** as an **indicator** of `insulin-signaling status`. High triglyceride **indicates** that high **insulin** and insulin resistance are **disrupting** your system. Many guidelines suggest that triglyceride should be `below 150 mg/dL`, and this is fair. From extensive research, however, we would say that an **ideal level** would be `below 100 mg/dL`. . If it’s below 100 mg/dL, however, it is highly likely that your **insulin signaling** is in a reasonably **good** state. If it’s `above 200 mg/dL`, your insulin signaling is pretty certain to be **impaired**.  
+
+> **A high triglyceride value** means that your LDL-class particles are carrying a **heavier** load than they’re **designed** to. As HDL attempts to **manage** this **overload**, the HDL value will be **driven lower**.  
+
+Cholesterol ratios reign **supreme** in assessing real **risk**. You can easily **calculate** the crucial cholesterol ratios from the numbers on standard cholesterol tests. These ratios are a **true indicator** of `metabolic health`. They truly show how well your `cholesterol transport system` is functioning and genuinely reflect the underlying causes of **vascular disease**.  
+
+When you have pushed your insulin signaling into a bad place, triglyceride levels tend to increase and HDL simultaneously drops.   
+
+`trig/HDL` predicts `atherosclerosis` (whereas LDL completely fails to do so). You can find your trig/HDL ratio (calculate your AIP). Once you know your triglycerides and HDL numbers, you can plug them
+into an online [calculator](http://www.biomed.cas.cz/fgu/aip/calculator.php) to find your **AIP**.  
+
+The ratio of **total cholesterol** to **HDL** (total/HDL) is as easy to calculate as it is to address, and it speaks volumes. People who have significant **insulin resistance** often have a “normal” LDL. But they also have **low HDL** and **high triglycerides**. The triglyceride value jacks up the total cholesterol number, which means that the ratio of total cholesterol to HDL also gets jacked up. In this way, the `total/HDL` ratio is closely related to the `trig/HDL` ratio and has similar **usefulness**.  
+
+The `total/HDL` ratio cuts a swath through all the noise. It doesn’t even require any exotic laboratory tests. So go ahead and calculate your ratio—the current guideline suggests you should be `lower than 5` or even `4.5`. Achieving `lower than 4` would be the **ideal target**. if your total cholesterol is 200 mg/dL (5.2 mmol/L) and your HDL is 50 mg/dL (1.3 mmol/L), your ratio would be 4-to-1. **Higher ratios** mean a higher risk of **heart disease**.  
+
+We all **fear** heart attacks, we **worry** that they can just happen like **out of blue**. But this is a lie. There is **nothing sudden** about the **inflammatory disease** sequence leading to that `sudden` heart attack. **Most** heart attacks are caused by **atherosclerosis**, the inflammation of the arterial walls. There is a simple **five-minute scan** that can identify heart disease and how bad it is: the `coronary artery calcium (CAC) scan`.  
