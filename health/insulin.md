@@ -384,9 +384,9 @@ see this page in [Greek](https://filecrypt.cc/Container/87154063EF.html)
 
 --<>--
 
-# TED - Dr. Rachel Knox - The endocannabinoid system
+# Dr. Rachel Knox - The endocannabinoid system
 
-* [video](https://www.youtube.com/watch?v=oJbOQ9P2NYQ&t=580s)
+* (2019) [TEDxPortland](https://www.youtube.com/watch?v=oJbOQ9P2NYQ&t=580s)
 * [(1910 - 2011) Flexner Report - 100 Years Later](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3178858/) [[src](https://pubmed.ncbi.nlm.nih.gov/21966046/)] [[GPT](https://i.imgur.com/UOp6w7f.png)]  
 * [bio](https://doctorsknox.com/dr-rachel)
 
