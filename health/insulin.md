@@ -382,11 +382,15 @@ We all **fear** heart attacks, we **worry** that they can just happen like **out
 
 see this page in [Greek](https://filecrypt.cc/Container/87154063EF.html)  
 
-## not by book
-* [TED - Rachel Knox - The endocannabinoid system and the revolution of one](https://www.youtube.com/watch?v=oJbOQ9P2NYQ&t=580s)
-  * [(1910 - 2011) Flexner Report - 100 Years Later](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3178858/) [[src](https://pubmed.ncbi.nlm.nih.gov/21966046/)] [[GPT](https://i.imgur.com/UOp6w7f.png)]  
+--<>--
 
-That **works** on this system in **therapeutic** and healing ways, so what I really hope you're wondering right now is `What's wrong with that?`  
+# TED - Dr. Rachel Knox - The endocannabinoid system
+
+* [video](https://www.youtube.com/watch?v=oJbOQ9P2NYQ&t=580s)
+* [(1910 - 2011) Flexner Report - 100 Years Later](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3178858/) [[src](https://pubmed.ncbi.nlm.nih.gov/21966046/)] [[GPT](https://i.imgur.com/UOp6w7f.png)]  
+* [bio](https://doctorsknox.com/dr-rachel)
+
+That **works** on this system in **therapeutic** and **healing** ways, you're wondering now is `What is wrong with that?`  
 
 Alright, well, the answer lies within the annals of **American medical f_cking history**, starting (1910) with two guys [@Carneg1e @R0ckefeller](https://i.imgur.com/Yxo2xkS.png) who really wanted to `sell` a lot of prescription drugs. And in their `heyday` at the turn of the **20th century**, American medicine was based on **homeopathy** and **herbal** medicine, and **naturopaths** and **chiropractors** weren't `getting down` with patent **drugs**. So with the `millions of dollars` in their **pocketbook**, a document called the [Flexner Report](https://en.wikipedia.org/wiki/Flexner_Report) and the **full force** of state governments, American medical training was **consolidated** and **standardized** in accordance with p**harmaceutical drug science** to the **exclusion** of holistic care practices, **natural** substances and remedies and natural cures. And this **created** a **system** that made **patentable pharmaceutical drugs** that treated symptoms `easy to sell`, and that made natural holistic care and practices and unpatentable plant medicine like cannabis fringe, quackery and `illegal`. What's surprising the most is that US physicians prescribed cannabis routinely to their patients well into the **20th century**.  
 
