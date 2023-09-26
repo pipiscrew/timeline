@@ -384,4 +384,23 @@ see this page in [Greek](https://filecrypt.cc/Container/87154063EF.html)
 
 ## not by book
 * [TED - Rachel Knox - The endocannabinoid system and the revolution of one](https://www.youtube.com/watch?v=oJbOQ9P2NYQ&t=580s)
-  * [(1910 - 2011) Flexner Report - 100 Years Later](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3178858/) [[src](https://pubmed.ncbi.nlm.nih.gov/21966046/)]  [[GPT](https://i.imgur.com/UOp6w7f.png)]
+  * [(1910 - 2011) Flexner Report - 100 Years Later](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3178858/) [[src](https://pubmed.ncbi.nlm.nih.gov/21966046/)] [[GPT](https://i.imgur.com/UOp6w7f.png)]  
+
+That **works** on this system in **therapeutic** and healing ways, so what I really hope you're wondering right now is `What's wrong with that?`  
+
+Alright, well, the answer lies within the annals of **American medical f*cking history**, starting (1910) with two guys @Carneg1e @R0ckefeller who really wanted to `sell` a lot of prescription drugs. And in their `heyday` at the turn of the **20th century**, American medicine was based on **homeopathy** and **herbal** medicine, and **naturopaths** and **chiropractors** weren't `getting down` with patent **drugs**. So with the `millions of dollars` in their **pocketbook**, a document called the [Flexner Report](https://en.wikipedia.org/wiki/Flexner_Report) and the **full force** of state governments, American medical training was **consolidated** and **standardized** in accordance with p**harmaceutical drug science** to the **exclusion** of holistic care practices, **natural** substances and remedies and natural cures. And this **created** a **system** that made **patentable pharmaceutical drugs** that treated symptoms `easy to sell`, and that made natural holistic care and practices and unpatentable plant medicine like cannabis fringe, quackery and `illegal`. What's surprising the most is that US physicians prescribed cannabis routinely to their patients well into the **20th century**.  
+
+Cannabis was **once a top** three most commonly prescribed **medicines**, dwindling out of use due to heavy taxation, the prosecution of the **doctors** who prescribed it, and, finally, it being w**ritten out** of the **American pharmacopeia in 1942**.  
+
+> You see, big business wrote my textbook.  
+
+And I can only speculate that the `endocannabinoid` system **was kept secret** for so long because its science **validated** the use of **unpatentable plant medicine**, like cannabis and other natural practices. But the **pharmaceutical industry** wasn't the only big business **disrupting** the once-free market of health. We humans spend multiples of **billions** of dollars annually on **unhealthy** and **low quality foods** in addition to the **prescription drugs** we reflexively **depend** upon, both of which are directly linked to endocannabinoid system **dysfunction**, which we now know is the **precipitant** to most **chronic diseases**. And as a result, humans are **getting sicker** and sicker, riding around and round on a Ferris `wheel of big interests` that we pay to ride.  
+
+> That doesn't make any sense.  
+> 
+> We're **outsourcing** the responsibility of our health to the **bigs**, and they're cashing in at our expense.  
+
+Staying on this ride is a **losing battle**. But this can be the past ... if we reimagine our future.  
+
+> And in this future, all we need...  
+> is **love**.  
