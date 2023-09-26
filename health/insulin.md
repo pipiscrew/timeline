@@ -381,3 +381,7 @@ The `total/HDL` ratio cuts a swath through all the noise. It doesn’t even requ
 We all **fear** heart attacks, we **worry** that they can just happen like **out of blue**. But this is a lie. There is **nothing sudden** about the **inflammatory disease** sequence leading to that `sudden` heart attack. **Most** heart attacks are caused by **atherosclerosis**, the inflammation of the arterial walls. There is a simple **five-minute scan** that can identify heart disease and how bad it is: the `coronary artery calcium (CAC) scan`.  
 
 see this page in [Greek](https://filecrypt.cc/Container/87154063EF.html)  
+
+## not by book
+* [TED - Rachel Knox - The endocannabinoid system and the revolution of one](https://www.youtube.com/watch?v=oJbOQ9P2NYQ&t=580s)
+  * [(1910 - 2011) Flexner Report - 100 Years Later](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3178858/) [[src](https://pubmed.ncbi.nlm.nih.gov/21966046/)]  [[GPT](https://i.imgur.com/UOp6w7f.png)]
