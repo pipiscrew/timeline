@@ -39,7 +39,8 @@
 * [Search Millions Manuals](https://manualsrepo.com)
 * [Libble](https://www.libble.eu/) - manuals
 * [Cheatography](https://cheatography.com/) - a collection of over 5000 reference cheat sheets  
-* [paperlist](https://paperlist.io/) - Read and share research papers  
+* [paperlist](https://paperlist.io/) - Read and share research papers
+* [CBT nuggets](https://www.cbtnuggets.com/) - great resource to earning 7+ certificates  
 
 
 ## translators
