@@ -1,2 +1,2 @@
 * (FR) [Avene - Sun Intense Protect Ultra waterproof fluid SPF50+](https://www.avene.co.uk/p/intense-protect-50-3282770141214-b5405ca4) - no just sunscreen
-* (CH) [LaRoche - EFFACLAR purifying foaming face gel](https://www.laroche-posay.us/our-products/acne-oily-skin/face-wash/effaclar-gel-facial-wash-for-oily-skin-effaclargelcleanser.html) - face wash
+* (CH) [LaRoche - EFFACLAR purifying foaming face gel](https://www.laroche-posay.us/our-products/acne-oily-skin/face-wash/effaclar-gel-facial-wash-for-oily-skin-effaclargelcleanser.html) - face wash ([ratings](https://www.eau-thermale-avene.fr/p/intense-protect-50-3282770141214-14c39aab))
