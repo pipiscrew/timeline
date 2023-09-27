@@ -424,7 +424,7 @@ One of the well-known endocannabinoids is `anandamide`, which is derived from ar
 
 So, in essence, the endocannabinoid system has connections to lipids and **relies on fats** for the **synthesis** of endocannabinoids and **proper functioning**.  
 
-**Dietary fats** are essential for overall health. Fats, also known as lipids, are a **crucial macronutrient** that serves several important functions in the body. Here are some reasons why dietary fats are necessary :  
+**Dietary fats** are essential for overall health. Fats, also known as lipids, are a **crucial macronutrient** that serves several important functions in the body. Here are some reasons why **dietary fats** are necessary :  
 
 * **Energy Source**: Fats are a concentrated source of calories, providing energy for various bodily functions and physical activities.
 * **Cell Membrane Structure**: Fats are a **key component** of cell membranes, helping to maintain cell structure and function.
