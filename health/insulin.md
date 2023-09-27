@@ -395,7 +395,7 @@ read it in [Greek](https://filecrypt.cc/Container/87154063EF.html)
 
 *transcript of TEDxPortland*  
 
-That **works** on this system in **therapeutic** and **healing** ways, you're wondering now is `What is wrong with that?`  
+That **works** on this system in **therapeutic** and **healing** ways, you're wondering now `What is wrong with that?`  
 
 Alright, well, the answer lies within the annals of **American medical f_cking history**, starting (**1910**) with two guys [@Carneg1e @R0ckefeller](https://i.imgur.com/Yxo2xkS.png) who really wanted to `sell` a lot of prescription drugs. And in their `heyday` at the turn of the **20th century**, American medicine was based on **homeopathy** and **herbal** medicine, and **naturopaths** and **chiropractors** weren't `getting down` with patent **drugs**. So with the `millions of dollars` in their **pocketbook**, a document called the [Flexner Report](https://en.wikipedia.org/wiki/Flexner_Report) and the **full force** of state governments, American medical training was **consolidated** and **standardized** in accordance with p**harmaceutical drug science** to the **exclusion** of holistic care practices, **natural** substances and remedies and natural cures. And this **created** a **system** that made **patentable pharmaceutical drugs** that treated symptoms `easy to sell`, and that made natural holistic care and practices and unpatentable plant medicine like cannabis fringe, quackery and `illegal`. What's surprising the most is that US physicians prescribed cannabis routinely to their patients well into the **20th century**.  
 
