@@ -411,7 +411,7 @@ And I can only speculate that the `endocannabinoid` system **was kept secret** f
 
 Staying on this ride is a **losing battle**. But this can be the past ... if we reimagine our future.  
 
-> And in this future, all we need, is **love**.  
+> And in this future, all we need, is [love](https://www.youtube.com/watch?v=Oflegc79QB4).  
 
 <center> --<>-- </center>  
 </br>  
