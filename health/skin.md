@@ -1,2 +1,4 @@
-* (FR) [Avene - Sun Intense Protect Ultra waterproof fluid SPF50+](https://www.avene.co.uk/p/intense-protect-50-3282770141214-b5405ca4) - no just sunscreen
-* (CH) [LaRoche - EFFACLAR purifying foaming face gel](https://www.laroche-posay.us/our-products/acne-oily-skin/face-wash/effaclar-gel-facial-wash-for-oily-skin-effaclargelcleanser.html) - face wash ([ratings](https://www.eau-thermale-avene.fr/p/intense-protect-50-3282770141214-14c39aab))
+* (FR) [Avene - Sun Intense Protect Ultra waterproof fluid SPF50+](https://www.avene.co.uk/p/intense-protect-50-3282770141214-b5405ca4) - no just sunscreen, wear it day & night.
+* (CH) [LaRoche - EFFACLAR purifying foaming face gel](https://www.laroche-posay.us/our-products/acne-oily-skin/face-wash/effaclar-gel-facial-wash-for-oily-skin-effaclargelcleanser.html) - face wash for oily skin ([ratings](https://www.eau-thermale-avene.fr/p/intense-protect-50-3282770141214-14c39aab))
+* (US) [James Hamblin - Clean: The New Science of Skin Hardcover](https://www.amazon.com/dp/0525538313) ([mirror](https://www.dropbox.com/s/ahzhpl7vp9omkmh/The%20New%20Science%20of%20Skin.pdf?dl=1))
+  * [didn’t shower for 5 years. Here’s what he found out](https://www.freethink.com/health/a-doctor-didnt-shower-for-5-years)

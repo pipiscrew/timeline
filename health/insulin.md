@@ -381,7 +381,8 @@ The `total/HDL` ratio cuts a swath through all the noise. It doesn’t even requ
 We all **fear** heart attacks, we **worry** that they can just happen like **out of blue**. But this is a lie. There is **nothing sudden** about the **inflammatory disease** sequence leading to that `sudden` heart attack. **Most** heart attacks are caused by **atherosclerosis**, the inflammation of the arterial walls. There is a simple **five-minute scan** that can identify heart disease and how bad it is: the `coronary artery calcium (CAC) scan`.  
 
 * (2020) [Interview - Ivor Cummins - Eat Rich, live long](https://www.youtube.com/watch?v=DtIIS4Nqz30)  
-* [Eat This Much](https://www.eatthismuch.com/diet-plan/2400-calorie/low-carb/) - an automatic meal planner (use Ketogenic or Paleo + some brain)  
+* [Eat This Much](https://www.eatthismuch.com/diet-plan/2400-calorie/low-carb/) - an automatic meal planner (use Ketogenic or Paleo + some brain)
+* (22/10/2023) [Type 2 diabetes rates in US youth rose 62% after COVID pandemic began](https://www.cidrap.umn.edu/covid-19/type-2-diabetes-rates-us-youth-rose-62-after-covid-pandemic-began-study-suggests)  
 
 <center> --<>-- </center>  
 </br>  

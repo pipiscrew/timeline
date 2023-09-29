@@ -44,6 +44,16 @@ Navigate to worksheets
 
 * press CTRL + PGDown / PGUp  
 
+Use slicers to filter data  
+
+To use the Slicer the EXCEL must identify ta table..
+To do that, select a cell range (incl the headers), press
+CTRL+T (creates a table)
+
+then either way
+a) a new tab will be available on ribbon 'Table Design', use 'Insert Slicer' button
+b) ribbon > 'Insert', select 'Slicer' [ref](https://answers.microsoft.com/en-us/msoffice/forum/all/slicer-no-connection/0d180034-deb9-4ed6-b34d-46f8f695657c)  
+
 
 ## See VBA (even is password protected)
 
