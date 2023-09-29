@@ -22,7 +22,8 @@
 * [SoftTree.SQL Assistant](http://www.softtreetech.com/sqlassist/index.htm) - For all DB flavors, also offers addon.
 * [Fill Database](http://filldb.info/) - Dummy Data for MYSQL Database  
 * [DbGate](https://github.com/dbgate/dbgate) - Database manager for MySQL, PostgreSQL, SQL Server, MongoDB, SQLite and others. Runs under Windows, Linux, Mac or as web application  
-* [DBeaver](https://dbeaver.io/) - (JRE) MySQL, PostgreSQL, SQLite, Oracle, DB2, SQL Server, Sybase, MS Access, Teradata, Firebird, Apache Hive, Phoenix, Presto++  
+* [DbVisualizer](https://www.dbvis.com/)  - (JRE) MySQL, PostgreSQL, SQLite, Oracle, DB2, SQL Server, Sybase, MS Access, Teradata, Firebird, Apache Hive, Phoenix, Presto++  
+  * (replica) [DBeaver](https://dbeaver.io/)
 * [MDB Viewer Plus](http://www.alexnolan.net/software/mdb_viewer_plus.htm)
 
 ## git
