@@ -18,7 +18,9 @@
 * [fishlib.Database .NET](https://fishcodelib.com/Database.htm) - all DB flavors
 * [devart.dbForge](https://www.devart.com/dbforge/) - all DB flavors
 * [SqlDbx](http://www.sqldbx.com/) - all DB flavors
-* (addon) [Redgate.SQL Prompt](https://www.red-gate.com/products/sql-development/sql-prompt/) - Write, format, analyze and refactor your SQL effortlessly
+* (SSMS addon) [Redgate.SQL Prompt](https://www.red-gate.com/products/sql-development/sql-prompt/) - Write, format, analyze and refactor your SQL effortlessly
+* (SSMS addon) [SSMSBoost](https://www.ssmsboost.com/)
+* (SSMS addon) [sqlmash](https://sqlsmash.com/)
 * [SoftTree.SQL Assistant](http://www.softtreetech.com/sqlassist/index.htm) - For all DB flavors, also offers addon.
 * [Fill Database](http://filldb.info/) - Dummy Data for MYSQL Database  
 * [DbGate](https://github.com/dbgate/dbgate) - Database manager for MySQL, PostgreSQL, SQL Server, MongoDB, SQLite and others. Runs under Windows, Linux, Mac or as web application  
@@ -99,7 +101,16 @@ sa password - 12
 authentication - mixed mode
 TCP eanbled
 
-setup.exe /QS /Action=Install  /IAcceptSQLServerLicenseTerms=1 /SAPWD=12 /SECURITYMODE=SQL /TCPENABLED=1 /Features=SQL /InstanceName=SQLExpress /SQLSYSADMINACCOUNTS="Builtin\Administrators"
+setup.exe /QS /Action=Install  /IAcceptSQLServerLicenseTerms=1 /SAPWD=12 /SECURITYMODE=SQL /TCPENABLED=1 /Features=SQL /InstanceName=SQLExpress /SQLSYSADMINACCOUNTS="Builtin\Administrators"  
+
+--  
+
+setup.exe /action=uninstall  
+
+--  
+
+--install w/o Azure references  
+SSMS-Setup-ENU.exe /Passive DoNotInstallAzureDataStudio=1  
 
 ---
 
