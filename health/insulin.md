@@ -440,3 +440,5 @@ So, in essence, the endocannabinoid system has connections to lipids and **relie
 
 * [Lard](https://www.google.com/search?q=lard) is a semi-solid white fat product obtained by rendering the fatty tissue of a pig.  
 * read it in [Greek](https://filecrypt.cc/Container/31B5577080.html)  
+* [Eat rich breakfast](https://www.youtube.com/watch?v=--9q0iIXZLs)
+* [Easy and super delicious dinner](https://www.youtube.com/watch?v=VHnN6pBrJ1E)

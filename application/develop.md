@@ -101,27 +101,31 @@ sa password - 12
 authentication - mixed mode
 TCP eanbled
 
+--sqlserver 2008
 setup.exe /QS /Action=Install  /IAcceptSQLServerLicenseTerms=1 /SAPWD=12 /SECURITYMODE=SQL /TCPENABLED=1 /Features=SQL /InstanceName=SQLExpress /SQLSYSADMINACCOUNTS="Builtin\Administrators"  
 
---  
+--sqlserver 2012, to disable the check for update add also  
+/UpdateEnabled=0  
 
+--sqlserver uninstall  
 setup.exe /action=uninstall  
 
---  
-
---install w/o Azure references  
+--SSMS w/o Azure references  -- download latest https://aka.ms/ssmsfullsetup  
 SSMS-Setup-ENU.exe /Passive DoNotInstallAzureDataStudio=1  
 
----
+--sql server + SSMS versions  
+https://sqlserverbuilds.blogspot.com/2018/01/sql-server-management-studio-ssms.html  
+
+---  
 
 sqlcmd path : 
 C:\Program Files\Microsoft SQL Server\100\Tools\Binn
 
 --restore backup file
-sqlcmd -E -S .\sqlexpress -Q "RESTORE DATABASE test FROM DISK='c:\demo.bak'"
+sqlcmd -E -S .\sqlexpress -Q "RESTORE DATABASE test FROM DISK='c:\demo.bak'"  
 
---execute sql file - https://docs.microsoft.com/en-us/sql/ssms/scripting/sqlcmd-run-transact-sql-script-files?view=sql-server-ver15
-sqlcmd -E -S .\sqlexpress -i a.sql
+--execute sql file - https://docs.microsoft.com/en-us/sql/ssms/scripting/sqlcmd-run-transact-sql-script-files?view=sql-server-ver15  
+sqlcmd -E -S .\sqlexpress -i a.sql  
 
 --
 
