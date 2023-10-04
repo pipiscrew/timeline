@@ -246,6 +246,11 @@
 * [GigaBrain - A Reddit Search Engine](https://thegigabrain.com/)
 * [Reddit Search](https://redditsearch.xyz/) -  via Google Search  
 
+## url helpers
+* [is.gd](https://is.gd/) - url shortener
+* [filecrypt](https://filecrypt.cc/) - add captcha to links
+* [archive.today](https://archive.is/) - personal Wayback Machine [[2](https://archive.ph/)]
+
 ## virus scan
 * [google.virus total](https://www.virustotal.com/)
 * [hybrid analysis](https://www.hybrid-analysis.com/)  

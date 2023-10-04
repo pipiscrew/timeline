@@ -5,6 +5,7 @@
 * [Ironman.PowerShell for Visual Studio / Code](https://ironmansoftware.com/powershell-pro-tools)
 * [CodeLobster](http://www.codelobster.com/)  
 * [VS Code to web](https://vscode.dev/)  
+* [twinBasic](https://twinbasic.com/) - for VB6 and VBA projects. [github](https://github.com/twinbasic/twinbasic)
 
 ## server
 * [XAMPP](https://sourceforge.net/projects/xampp/)
