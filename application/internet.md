@@ -86,6 +86,10 @@ Chrome start with
 * [4](https://github.com/black7375/Firefox-UI-Fix)
 * If you don't like the new look of Firefox 89, then set `browser.proton.enabled` to `false` in `about:config`    
 
+**Mozilla.Firefox** v118 - [brings browser-based website translation](https://liliputing.com/firefox-118-brings-browser-based-website-translation-no-cloud-servers-required-for-a-handful-of-supported-languages/) (no cloud servers required)  
+
+
+
 [Mozilla.Firefox DNS-over-HTTPS rollout](https://blog.mozilla.org/en/mozilla/news/firefox-by-default-dns-over-https-rollout-in-canada/) -  in Canada (with local DoH provider CIRA)
 
 **Mozilla.Firefox** [v90](https://www.mozilla.org/en-US/firefox/90.0/releasenotes/) - supports [Fetch Metadata Request Headers](https://blog.mozilla.org/security/2021/07/12/firefox-90-supports-fetch-metadata-request-headers/)  
