@@ -620,4 +620,34 @@ So, in essence, the endocannabinoid system has connections to lipids and **relie
 * [Lard](https://www.google.com/search?q=lard) is a semi-solid white fat product obtained by rendering the fatty tissue of a pig.  
 * read it in [Greek](https://filecrypt.cc/Container/CA86AB904B.html)  
 * [Eat rich breakfast](https://www.youtube.com/watch?v=--9q0iIXZLs)
-* [Easy and super delicious dinner](https://www.youtube.com/watch?v=VHnN6pBrJ1E)
+* [Easy and super delicious dinner](https://www.youtube.com/watch?v=VHnN6pBrJ1E)  
+
+<center> --<>-- </center>  
+</br>  
+
+# How cigarette makers sold food (2023)
+
+* [source](https://href.li/?https://www.washingtonpost.com/wellness/2023/09/19/addiction-foods-hyperpalatable-tobacco/) | [mirror](https://www.filecrypt.cc/Container/ACFD081595.html)  
+
+For decades, tobacco companies **hooked** people on cigarettes by making their products more **addictive**. Now, a new study suggests that tobacco companies may have used a **similar strategy** to hook people on **processed foods**.  
+
+In the 1980s, tobacco giants [Philip Morris and R.J. Reynolds](https://www.pipiscrew.com/threads/british-american-tobacco.42892/) acquired the **major food** companies 
+* Kraft
+* General Foods 
+* Nabisco  
+
+allowing tobacco firms to **dominate America food supply** and reap billions in sales from popular brands such as Oreo cookies, Kraft Macaroni & Cheese and Lunchables.  
+
+By the 2000s, the tobacco giants spun off their food companies and largely exited the food industry — but not before leaving a **lasting legacy** on the foods that **we eat**.  
+
+The new research, published in the [journal Addiction](https://onlinelibrary.wiley.com/doi/10.1111/add.16332), focuses on the rise of `hyper-palatable` foods, which contain potent combinations of fat, sodium, sugar and other additives that can **drive** people to **crave** and overeat them. The `Addiction study` found that in the decades when the tobacco giants **owned** the world leading food companies, the foods that they sold were far more likely to be **hyper-palatable** than similar foods **not owned by** tobacco companies.  
+
+In the past 30 years, `hyper-palatable` foods have **spread rapidly** into the **food supply**, coinciding with a surge in obesity and [diet-related diseases](https://www.cdc.gov/pcd/issues/2017/16_0287.htm). In America, the steepest increase in the prevalence of hyper-palatable foods [occurred](https://pubmed.ncbi.nlm.nih.gov/35581172/) between **1988 and 2001**, the era when Philip Morris and R.J. Reynolds owned the world leading food companies.  
+
+Even though the **tobacco companies no longer own** these food brands, researchers say the findings matter because many of the **ultra-processed foods** that we eat today were engineered by an industry that wrote the **playbook** on products that are `highly-palatable`, addictive and appealing to `children`.  
+
+> We found that tobacco companies **selectively disseminated** hyper-palatable foods into the food supply  
+>
+> It’s important for people to **understand** where these foods came from and who was **responsible** for putting them into our food system in a way that **saturates the environment**.  
+
+said [Tera Fazzino](https://fazzinolab.ku.edu/people/tera-fazzino), the lead author of the new study and an assistant professor in the department of **psychology** at the **University of Kansas**.  
