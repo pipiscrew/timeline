@@ -350,28 +350,18 @@ Adequate `magnesium` is **hugely important** for a properly functioning body and
 
 If you’re low in available magnesium, your body **will leach it out of your bones** to supply your needs. This will make the blood level appear **to be okay**, even when a desperate situation is occurring out of sight. Your level of free cellular magnesium is the most important measure, but this is not assessed in standard blood tests. **Low magnesium** links to **nearly all** known cardiovascular risk factors. It is estimated that **70 to 80 percent** of adults are **not achieving** dietary requirements of magnesium. Because of the blood test **inadequacy**, it is hard to estimate what proportion is truly low.  
 
-`K1` is linked mostly to clotting processes, `K2` has a unique range of important functions. K1 is important, and we certainly recommend getting plenty of it from green leafy vegetables, spring onions, broccoli etc. Of particular interest is its contribution to preventing calcification of the blood vessels and other soft tissues.  
-
-`K2` activates what are called **GLA proteins**, which **inhibit** inappropriate soft-tissue calcification. This means that K2 plays an important role in **keeping calcium away** from tissues where it could be problematic (arterial walls, for example).  It acts **synergistically** with v`itamins A and D`: in essence, it enables many reactions that **allow A and D to provide their benefits** to the human body. `K2` is particularly connected to processes that distribute calcium to the parts of the body that require it (primarily bones and teeth).  
-Vitamin A: Required particularly to interact with vitamin D, as the two vitamins are very connected in their bodily functionsthe (the ratio of D and A is important to keep in balance).. Retinol is the ideal form of vitamin A. Cod liver oil is a super supplemental source of retinol.  
-
-`Vitamin E` There are actually a **range** of vitamins under the `E` heading. The E vitamins are carried around the body by the **lipoproteins** and they are important for **antioxidant** effects.  
-
-`B vitamins` The B-complex vitamins comprise vitamin B12, vitamin B6, thiamine, riboflavin, niacin, folate, pantothenic acid, and biotin. These all have important biological functions, in particular, they **help your body turn food into energy**.  
-
-`Vitamin C` helping to **repair and regenerate tissues**, protecting against heart disease, preventing scurvy, and assisting in lipid or cholesterol metabolism.  
-
-`Zinc and copper` It is key to have an adequate zinc intake. One reason is that **zinc interacts with magnesium and the fat-soluble** vitamins, helping the latter to **function optimally**. being **very high in zinc** may not be so good if you are very low on copper and vice versa. The **ratios are important**, rather than individual intakes.  
-
-`Selenium` is required for proper functioning of the **thyroid gland** and many other functions.  
-
-`Potassium` It is key to have an adequate potassium intake, **particularly on a low-carb** diet. **Avocados** are especially rich in potassium and also contain plenty of healthy **fat**, making them a great choice.  
-
-`Sodium` It is key to have an adequate sodium intake. It is far **more likely** that your salt **intake** is **too low** rather than too high. [The Salt Fix](https://www.amazon.com/dp/B01GBAJR9C)  
-
-`Chromium` is a metallic element that we require in **small** amounts. It is an **essential part** of metabolic processes that **regulate** blood sugar, and it assists in the many actions of insulin.  
-
-`Berberine` exists purely as a supplement. It is extracted from certain types of plants (for example, barberry, Oregon grape, and goldenseal). Many published studies have shown it to be a moderately **helpful treatment** for type **2 diabetes** and metabolic syndrome. Its beneficial effects can include **reducing blood glucose and triglycerides**, and **improving LDL** particle quality.  
+* `K1` is linked mostly to clotting processes, `K2` has a unique range of important functions. K1 is important, and we certainly recommend getting plenty of it from green leafy vegetables, spring onions, broccoli etc. Of particular interest is its contribution to preventing calcification of the blood vessels and other soft tissues.  
+* `K2` activates what are called **GLA proteins**, which **inhibit** inappropriate soft-tissue calcification. This means that K2 plays an important role in **keeping calcium away** from tissues where it could be problematic (arterial walls, for example).  It acts **synergistically** with v`itamins A and D`: in essence, it enables many reactions that **allow A and D to provide their benefits** to the human body. `K2` is particularly connected to processes that distribute calcium to the parts of the body that require it (primarily bones and teeth).  
+* `Vitamin A` Required particularly to interact with vitamin D, as the two vitamins are very connected in their bodily functionsthe (the ratio of D and A is important to keep in balance).. Retinol is the ideal form of vitamin A. Cod liver oil is a super supplemental source of retinol.  
+* `Vitamin E` There are actually a **range** of vitamins under the `E` heading. The E vitamins are carried around the body by the **lipoproteins** and they are important for **antioxidant** effects.  
+* `B vitamins` The B-complex vitamins comprise vitamin B12, vitamin B6, thiamine, riboflavin, niacin, folate, pantothenic acid, and biotin. These all have important biological functions, in particular, they **help your body turn food into energy**.  
+* `Vitamin C` helping to **repair and regenerate tissues**, protecting against heart disease, preventing scurvy, and assisting in lipid or cholesterol metabolism.  
+* `Zinc and copper` It is key to have an adequate zinc intake. One reason is that **zinc interacts with magnesium and the fat-soluble** vitamins, helping the latter to **function optimally**. being **very high in zinc** may not be so good if you are very low on copper and vice versa. The **ratios are important**, rather than individual intakes.  
+* `Selenium` is required for proper functioning of the **thyroid gland** and many other functions.  
+* `Potassium` It is key to have an adequate potassium intake, **particularly on a low-carb** diet. **Avocados** are especially rich in potassium and also contain plenty of healthy **fat**, making them a great choice.  
+* `Sodium` It is key to have an adequate sodium intake. It is far **more likely** that your salt **intake** is **too low** rather than too high. [The Salt Fix](https://www.amazon.com/dp/B01GBAJR9C)  
+* `Chromium` is a metallic element that we require in **small** amounts. It is an **essential part** of metabolic processes that **regulate** blood sugar, and it assists in the many actions of insulin.  
+* `Berberine` exists purely as a supplement. It is extracted from certain types of plants (for example, barberry, Oregon grape, and goldenseal). Many published studies have shown it to be a moderately **helpful treatment** for type **2 diabetes** and metabolic syndrome. Its beneficial effects can include **reducing blood glucose and triglycerides**, and **improving LDL** particle quality.  
 
 Simple blood test called the **omega-3 index** tells you the amount of omega-3 in your **cells**, based on the ratios of **omega-6** to omega-3 in the **membranes** of your **red blood** cells. In **Japan**, the population omega-3 index is generally around `8 to 11` percent (currently accepted as **optimal**). **Below 8 percent** is increasingly being seen as problematic. **Northern Europeans** vary greatly around the `6` percent level. Unsurprisingly, **US citizens** average around `4` percent. This is acknowledged to be a really bad level. Of course, the US is swimming in vegetable oils.  
 
@@ -536,7 +526,7 @@ Cholesterol ratios reign **supreme** in assessing real **risk**. You can easily 
 When you have pushed your insulin signaling into a bad place, triglyceride levels tend to increase and HDL simultaneously drops.   
 
 `trig/HDL` predicts `atherosclerosis` (whereas LDL completely fails to do so). You can find your trig/HDL ratio (calculate your AIP). Once you know your triglycerides and HDL numbers, you can plug them
-into an online [calculator](http://www.biomed.cas.cz/fgu/aip/calculator.php) to find your **AIP**.  
+into an online [calculator](https://href.li/?http://www.biomed.cas.cz/fgu/aip/calculator.php) to find your **AIP**.  
 
 The ratio of **total cholesterol** to **HDL** (total/HDL) is as easy to calculate as it is to address, and it speaks volumes. People who have significant **insulin resistance** often have a “normal” LDL. But they also have **low HDL** and **high triglycerides**. The triglyceride value jacks up the total cholesterol number, which means that the ratio of total cholesterol to HDL also gets jacked up. In this way, the `total/HDL` ratio is closely related to the `trig/HDL` ratio and has similar **usefulness**.  
 
@@ -562,8 +552,8 @@ We all **fear** heart attacks, we **worry** that they can just happen like **out
   * [youtube](https://href.li/?https://www.youtube.com/@IvorCumminsScience/videos)
   * [twitter](https://href.li/?https://twitter.com/FatEmperor)
   * [google](https://www.google.com/search?q=%40fatemperor)
-* (2020) [Interview - Ivor Cummins - Eat Rich, live long](https://www.youtube.com/watch?v=DtIIS4Nqz30)  
-* [Eat This Much](https://www.eatthismuch.com/diet-plan/2400-calorie/low-carb/) - an automatic meal planner (use Ketogenic or Paleo + some brain)
+* (2020) [Interview - Ivor Cummins - Eat Rich, live long](https://href.li/?https://www.youtube.com/watch?v=DtIIS4Nqz30)  
+* [Eat This Much](https://href.li/?https://www.eatthismuch.com/diet-plan/2400-calorie/low-carb/) - an automatic meal planner (use Ketogenic or Paleo + some brain)
 * (22/10/2023) [Type 2 diabetes rates in US youth rose 62% after COVID pandemic began](https://www.cidrap.umn.edu/covid-19/type-2-diabetes-rates-us-youth-rose-62-after-covid-pandemic-began-study-suggests)  
 
 Here’s a summary of the valuable measures that can be gleaned from the standard cholesterol tests.  
