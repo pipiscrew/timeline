@@ -41,6 +41,7 @@
 * [Cheatography](https://cheatography.com/) - a collection of over 5000 reference cheat sheets  
 * [paperlist](https://paperlist.io/) - Read and share research papers
 * [CBT nuggets](https://www.cbtnuggets.com/) - great resource to earning 7+ certificates  
+* [LSJ](https://lsj.gr) - The Liddell, Scott, Jones Ancient Greek Lexicon (LSJ) is perhaps the best known Ancient  Greek-English dictionary.
 
 
 ## translators

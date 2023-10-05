@@ -83,7 +83,48 @@ We now have `insulin` (for glucose), `mTOR` (for protein), and `leptin` (for fat
 When **insulin** and **glucose** are high, exposing us to factors that disrupt our cellular-signaling systems, our cells tend toward triggering their ancient genetic desire to reproduce **as fast as possible**. We now have a name for this kind of phenomenon. We call it cancer.  
 
 > He has elegantly demonstrated that **insulin**, a nearly billion-year-old molecule, dominates our disease landscape.  
-  
+
+## heart
+Most heart attacks are caused by **atherosclerosis**, the inflammation of the arterial walls. The primary cause of **cardiac death** is damage to your coronary arteries (the blood vessels that feed the heart muscle itself) as a result of **sustained inflammation**. This damage can lead to a heart attack, and in around `50 percent` of cases, this will result in death.  
+
+There are a few things that can **happen** in damaged coronary arteries to **cause** a heart attack  
+* plaque on the arterial walls can break off and form a blood clot that blocks the flow of blood
+* the arterial wall itself can rupture or spasm, interrupting the flow of blood  
+    
+but no matter what triggers a heart attack, the **body response** to damaged coronary arteries is always the **same**, and that response is **what the CAC scan directly observes and quantifies**.  
+
+Your body **tries** to repair itself by `depositing calcium` in the `damaged areas` of the arterial wall. As the damage continues, these repair processes **quicken**. They **desperately attempt** to shore up the arterial walls before a rupture occurs. This `growing calcium` becomes the **telltale sign** of **imminent danger** , the ultimate canary in the coal mine or visible tip of an iceberg, the vital evidence of your real risk of sudden death. And it can be clearly and `easily measured with a CAC scan`.  
+
+The **left anterior** descending artery, which is the responsible for the **greatest number of deaths** from heart attacks. Cardiologists have given a well-earned name to this artery: `the widowmaker`.  
+
+For about $150 and a few minutes of your time, you can get your `CAC score`.  
+* A CAC score `of 0` is good—you can relax.
+* Between `1 and 80` is a concern, and you should be reconsidering your lifestyle. 
+* Between `81 and 400` means it’s time to take serious action to attend to root causes. 
+* Greater `than 400` means it’s write-the-will time—or else address all root causes immediately so you can get to safety.  
+
+People who have very high CAC scores need to take **action fast**. Their arteries will likely **rupture** in the coming years (no nice retirement). Even people with a [Framingham Risk](https://www.mdcalc.com/calc/38/framingham-risk-score-hard-coronary-heart-disease) of 10 percent can be highly diseased, though some are just fine. Who is who? We simply look at the **proper** measure (their `CAC score`).
+
+The only snag: you **can’t lower** your CAC score **with the orthodox** approach of a low-fat diet and medication ;)
+
+A final reminder on the meaning of the CAC score: it tells you what was **happening in your arteries in the past**, up to the time when you got the scan. It is your **summed-up history of inflammatory damage**. If you get a high score, don’t panic.  
+
+`CAC scan`, is a `CT scan` of the heart that **measures coronary artery calcification** (CAC). It shows where your body has **tried to repair damaged arteries** by depositing calcium in the arterial walls, so it reveals how much heart disease you have and also how much inflammatory damage you have sustained over the years. The CAC scan can really help bring clarity where the risk factors can confuse. This is particularly true if you track how your CAC score changes over time. Because it sees the actual evidence of **inflammatory disease** impact in your body, it essentially gives you the bottom line on your health status. It does not just show the extent of coronary heart disease—it really reflects the **damage** from the broad root causes of **modern chronic disease**. Therefore, it can be very useful for anyone tracking their progress toward achieving optimal health. Subsequent scan results would then tell a **more** compelling story than any blood tests. It gives incredibly useful information about your genuine health status and risk for chronic disease. For instance, if you have a **score of zero** in middle age, your risk of allcause mortality is extremely low. A zero score is being called `a warranty for humans`. Striving to keep this zero score into old age is the ultimate strategy for health and longevity. Nothing else comes close, because the CAC scan sees **how the disease itself progresses**. If you get a score higher than zero, all is not lost by any means. The key is to now stop your score from rising significantly over the years. You can achieve this by applying the ten action steps like a pro. The key is to keep your CAC score from increasing more than 15 percent per year. Ideally, it will increase by only 5 percent per year or less. You do not need to reverse your score; the vast majority of the longevity benefits will come from keeping the progression at a low level. You don’t need to get a CAC scan very often at all. If you have a low score (0 to 10), you might check in **five to seven years later**. If you have a very high score (higher than 400), then it would be prudent to check back within **two years** to verify that progression has been brought under control. [About the CT Scan and CAC Score](https://ihda.ie/)  
+
+## insulin
+The **insulin axis** is particularly **associated** with
+* cancers of the breast
+* endometrium
+* prostate
+* colon
+* and lung, among several others  
+
+**Most** of the really serious cancers with the **highest mortality rates** are right there in that list.  
+
+**Insulin-like** growth factor 1, or `IGF-1`, is a cell-growth-signaling molecule that is very similar to insulin.  
+
+**Insulin** was the **original growth** signal, **while IGF-1 later** evolved to **take over some functions**. Both insulin and IGF-1 have sensors and receptors **all over** the body. Insulin and IGF-1 **work together** in a system that is often referred to as the `insulin/IGF-1 axis`. In fact, insulin and IGF-1 are so **closely related** that they can **activate each other receptors**, and they are intimately connected on many levels. This interconnectivity extends to their **influence** on issues like obesity, diabetes, and cancer.  
+
 
 ## the 1950 lie still driving the world
 
@@ -167,9 +208,21 @@ There are three main lower-carb approaches:
 * 20 percent protein
 * less than 10 percent carb  
 
+a standard `low-carb` diet is approximately :  
+* 60 percent fat
+* 20 percent protein
+* 20 percent carb  
+
+For comparison, the traditional `Paleo` diet is generally :
+* 50 percent fat
+* 20 percent protein
+* 30 percent carb  
+
 Keto, is a more extreme version of [LCHF](https://imgur.com/a/iY9t28U) diet. `We personally (book authors) follow LCHF, but we regularly shift into keto for enhanced low-carb benefits`..  
 
 > Millions of new fat-burning enzymes will be rapidly manufactured during this wonderful and miraculous transition.  
+
+The **dietary requirement** for carbohydrate is effectively **zero** (humans do not need to consume any carbohydrate). Fat, on the other hand, is **essential** for health. The other essential macronutrient is **protein**. The average person must consume `60 to 100 grams of protein` a day. Eating too little protein has serious consequences for health and **vitality**.  
 
 The ideal quantity varies for different people, but for everyone, we recommend looking at net carbs, not total carbs. The **net carb content** of a food is the **total carb** minus the grams of indigestible **fibrous carb**. See this [cheat sheet](https://href.li/?https://thefatemperor.com/carb-cheat-sheet/) [[mirror](https://imgur.com/a/F88EmLT)] for food carbs.  
   
@@ -196,6 +249,22 @@ The other part of this step is to **target the carbs** that can **help** you. Th
 High-fiber carbs provide material that can **promote** the growth of **beneficial bacteria** in your **gut microbiome**. Your microbiome can have a **large influence** on your **insulin sensitivity** and weight gain tendencies; some less-beneficial bacteria can directly trigger insulin and promote insulin resistance. For higher-carb treats, `dark chocolate `is a good bet—80 percent cacao or higher is ideal. If you are skipping a meal or feeling hunger pangs, dark chocolate hits the spot with **minimal damage**. It contains multiple antioxidant compounds and a range of important minerals, such as magnesium, manganese, and copper, and if it’s 80 percent cacao or more, the sugar content won’t be too high.   
   
 `Protein` provides key **amino acids** your body needs. Consuming these wonderful molecules means that your body won’t trigger hunger in an attempt to pursue them. At the same time, we do not believe in consuming **excessive protein**, as high intakes can be converted into glucose, trigger inappropriate insulin release, and promote related growth pathways.  
+
+A properly formulated **low-carb**, high-healthy-fat diet:  
+* is hugely effective in resolving prediabetes and diabetes improves appetite control
+* optimizes the absorption of vitamins A, D, E and K
+* strengthens the immune system
+* minimizes systemic inflammation
+* enhances rapid recovery after sustained vigorous exercise
+* lowers the important risk markers for heart disease
+* slows aging and improves energy
+* promotes healthy skin, hair, nails, and many other outward signs of health  
+
+Consuming **tasty fat** with **plant** foods will enhance **nutrient transport** into your body. For this reason you should always **eat vegetables** and salads with some **olive oil** or grass-fed **butter**. `Coconut oil` is another excellent choice for this purpose (it has been found to **improve absorption** of antioxidants and other nutrients **even more** than other **fats**).  
+
+From the other side on a `low-fat` diet, we can end up **deficient** in the **fat-soluble** vitamins, which are required for optimal health. The four important fat-soluble vitamins are A, D, E, and K. In order for your body to absorb these, they need to be consumed with plenty of fat. Being low in any of these contribute to a dizzying array of health issues. Another important point to note is that vitamins A, D, and K interact with each other to a great degree. They also interact synergistically with minerals, including magnesium and zinc.  
+
+We now have good evidence in model organisms...that if you **overfeed** someone with **fat**, you **do not** increase their cancer risk at all—good? You **overfeed** someone with **carbohydrates** and you **dramatically increase** their cancer risk. And protein is halfway in between. ([Dr. Craig B. Thompson](https://www.mskcc.org/about/leadership/office-president/craig-b-thompson-biography), the head of Memorial Sloan Kettering)  
 
 As you **cross the bridge** to becoming a `fat-burner`, your body will be undergoing wonderful changes. But these changes will bring **new requirements** for particular nutrients, the most important minerals to pay attention to are :  
 * sodium
@@ -259,26 +328,121 @@ Recommended supplements for fat-burner :
 
 **Iodine deficiency** and associated **thyroid function** issues are also intimately connected to triglyceride and cholesterol problems (found supplement with 500–1000 mcg per day). [reference](https://www.hsph.harvard.edu/nutritionsource/iodine/)  
 
-Start taking an **omega-3 fish oil**, you will **eliminate** the dreadful omega-6-filled vegetable oils from your diet, so you will be well on your way to fixing your ratio of omega-6 to omega-3.  
+Iodine is a vital nutrient that is crucial for **fetal development** and during early childhood. But it is also hugely important to get adequate iodine **all** throughout life. It is required for **proper thyroid function** and much else. The effects of a low dietary intake of iodine are stark. Symptoms can **include** difficulty losing weight, muscle weakness, lethargy, memory problems, high triglycerides and other cholesterol imbalances, and poor resistance to infections and the list goes on and on.  
 
-The other crucial test that will benefit any middle-aged man or woman is a `CAC scan`, which is a `CT scan` of the heart that measures coronary artery calcification (CAC). It shows where your body has **tried to repair damaged arteries** by depositing calcium in the arterial walls, so it reveals how much heart disease you have and also how much inflammatory damage you have sustained over the years. The CAC scan can really help bring clarity where the risk factors can confuse. This is particularly true if you track how your CAC score changes over time. Because it sees the actual evidence of **inflammatory disease** impact in your body, it essentially gives you the bottom line on your health status. It does not just show the extent of coronary heart disease—it really reflects the **damage** from the broad root causes of **modern chronic disease**. Therefore, it can be very useful for anyone tracking their progress toward achieving optimal health. Subsequent scan results would then tell a **more** compelling story than any blood tests. It gives incredibly useful information about your genuine health status and risk for chronic disease. For instance, if you have a **score of zero** in middle age, your risk of allcause mortality is extremely low. A zero score is being called `a warranty for humans`. Striving to keep this zero score into old age is the ultimate strategy for health and longevity. Nothing else comes close, because the CAC scan sees **how the disease itself progresses**. If you get a score higher than zero, all is not lost by any means. The key is to now stop your score from rising significantly over the years. You can achieve this by applying the ten action steps like a pro. The key is to keep your CAC score from increasing more than 15 percent per year. Ideally, it will increase by only 5 percent per year or less. You do not need to reverse your score; the vast majority of the longevity benefits will come from keeping the progression at a low level. You don’t need to get a CAC scan very often at all. If you have a low score (0 to 10), you might check in **five to seven years later**. If you have a very high score (higher than 400), then it would be prudent to check back within **two years** to verify that progression has been brought under control. [About the CT Scan and CAC Score](https://ihda.ie/)  
+Start taking an **omega-3 fish oil**, you will **eliminate** the dreadful omega-6-filled vegetable oils from your diet, so you will be well on your way to fixing your ratio of omega-6 to omega-3.  
 
 Likewise, your body’s stores of glycogen (glucose) finally have begun to deplete. Glycogen carries a lot of water, so you’ll have experienced weight loss due to this factor alone as your body drops water weight.  
   
 The fall in insulin is also opening the door to your new fat-burning physiology. You are getting most of your energy from healthy fats now. Your body is beginning to switch over its machinery to burn this fat more efficiently. Your insulin and glucose levels have begun to drop, particularly your post-meal levels. Likewise, the most important cholesterol numbers have started to improve.  
   
 After some level of fat-adaptation is achieved, you can deploy meal spacing as a powerful intervention. Make this a primary goal over the coming fourteen days!  
-  
-> Eating too often while also attempting to reduce your calories is a fool’s game.  
-  
+
+The human body is an enormously **complex machine**. Every moment of every day, billions of **biochemical reactions** are underway. These reactions require many different vitamins, minerals, and other nutrients. A healthy diet **will supply** most of these nutrients, and we strongly recommend that you target foods that can supply all your nutrient needs.  
+
+Further complicating the issue is the **fact** that supplements do **not** have to be **evaluated** and approved by the FDA, so they **can be sold without proof** of effectiveness or safety.  
+
+It is important to note that `vitamin D` has many key **interactions** with the other fat-soluble vitamins, **A and K2** in particular. Therefore, it is not necessarily a good idea to **drive up your D** status while **neglecting the others**. These fat-soluble vitamins **as a group also interact synergistically** with **minerals** such as magnesium and zinc. The ideal strategy is to ensure that you are getting adequate amounts of **all the key vitamins and minerals**.  
+
+Adequate `magnesium` is **hugely important** for a properly functioning body and is arguably one of the most important nutrients to focus on for health and longevity. But our health system **largely ignores** it. One major issue is that the **blood test** for magnesium is a **very weak indicator** of your **true magnesium status**. Even if you are terribly **deficient**, it can come back as 'within the normal range'. Here’s why: 
+
+> Less than 1 percent of the body magnesium is carried in the bloodstream (most is sequestered in bone and other tissues).  
+
+If you’re low in available magnesium, your body **will leach it out of your bones** to supply your needs. This will make the blood level appear **to be okay**, even when a desperate situation is occurring out of sight. Your level of free cellular magnesium is the most important measure, but this is not assessed in standard blood tests. **Low magnesium** links to **nearly all** known cardiovascular risk factors. It is estimated that **70 to 80 percent** of adults are **not achieving** dietary requirements of magnesium. Because of the blood test **inadequacy**, it is hard to estimate what proportion is truly low.  
+
+`K1` is linked mostly to clotting processes, `K2` has a unique range of important functions. K1 is important, and we certainly recommend getting plenty of it from green leafy vegetables, spring onions, broccoli etc. Of particular interest is its contribution to preventing calcification of the blood vessels and other soft tissues.  
+
+`K2` activates what are called **GLA proteins**, which **inhibit** inappropriate soft-tissue calcification. This means that K2 plays an important role in **keeping calcium away** from tissues where it could be problematic (arterial walls, for example).  It acts **synergistically** with v`itamins A and D`: in essence, it enables many reactions that **allow A and D to provide their benefits** to the human body. `K2` is particularly connected to processes that distribute calcium to the parts of the body that require it (primarily bones and teeth).  
+Vitamin A: Required particularly to interact with vitamin D, as the two vitamins are very connected in their bodily functionsthe (the ratio of D and A is important to keep in balance).. Retinol is the ideal form of vitamin A. Cod liver oil is a super supplemental source of retinol.  
+
+`Vitamin E` There are actually a **range** of vitamins under the `E` heading. The E vitamins are carried around the body by the **lipoproteins** and they are important for **antioxidant** effects.  
+
+`B vitamins` The B-complex vitamins comprise vitamin B12, vitamin B6, thiamine, riboflavin, niacin, folate, pantothenic acid, and biotin. These all have important biological functions, in particular, they **help your body turn food into energy**.  
+
+`Vitamin C` helping to **repair and regenerate tissues**, protecting against heart disease, preventing scurvy, and assisting in lipid or cholesterol metabolism.  
+
+`Zinc and copper` It is key to have an adequate zinc intake. One reason is that **zinc interacts with magnesium and the fat-soluble** vitamins, helping the latter to **function optimally**. being **very high in zinc** may not be so good if you are very low on copper and vice versa. The **ratios are important**, rather than individual intakes.  
+
+`Selenium` is required for proper functioning of the **thyroid gland** and many other functions.  
+
+`Potassium` It is key to have an adequate potassium intake, **particularly on a low-carb** diet. **Avocados** are especially rich in potassium and also contain plenty of healthy **fat**, making them a great choice.  
+
+`Sodium` It is key to have an adequate sodium intake. It is far **more likely** that your salt **intake** is **too low** rather than too high. [The Salt Fix](https://www.amazon.com/dp/B01GBAJR9C)  
+
+`Chromium` is a metallic element that we require in **small** amounts. It is an **essential part** of metabolic processes that **regulate** blood sugar, and it assists in the many actions of insulin.  
+
+`Berberine` exists purely as a supplement. It is extracted from certain types of plants (for example, barberry, Oregon grape, and goldenseal). Many published studies have shown it to be a moderately **helpful treatment** for type **2 diabetes** and metabolic syndrome. Its beneficial effects can include **reducing blood glucose and triglycerides**, and **improving LDL** particle quality.  
+
+Simple blood test called the **omega-3 index** tells you the amount of omega-3 in your **cells**, based on the ratios of **omega-6** to omega-3 in the **membranes** of your **red blood** cells. In **Japan**, the population omega-3 index is generally around `8 to 11` percent (currently accepted as **optimal**). **Below 8 percent** is increasingly being seen as problematic. **Northern Europeans** vary greatly around the `6` percent level. Unsurprisingly, **US citizens** average around `4` percent. This is acknowledged to be a really bad level. Of course, the US is swimming in vegetable oils.  
+
+
+## fasting 
 **Frequent eating** will maintain the fed state and hamper your progression to a fat-burning mode, and eating many calorie-restricted meals with high carb content is not sustainable for most. Hunger will eventually cause you to fail.  
+
+> Eating too often while also attempting to reduce your calories is a fool’s game.  
   
 **Fasting** creates a heightened sense of awareness and sharpened frame of mind. Therefore we make a point of not eating in the first part of the day before the event. We go in fasted and thus achieve peak performance. Of course, we gain this edge only because we are fat-adapted—our bodies have their fat-burning machinery in place so we can burn our own body fat smoothly, just as our ancestors could. It would not work so well for a sugar-burner, who would just slump after a few hours without a carb fix. Fasting gives you an edge if you are a capable fat-burner. It is an edge that you will grow to desire and even depend on. And you will be honing your health as you use this advantage.  
   
 Simply to drop one meal on a couple of days each week. It is important to enjoy your two meals as normal, eating until you’re satisfied. In fact, you should relish them—the eating experience will now be enhanced. To keep it simple, there are two primary approaches to meal spacing— either skip breakfast or skip lunch. We prefer to skip breakfast. We have, at most, a coffee with a couple of tablespoons of heavy cream instead.  
   
 After hours without food, the body **exhausts its sugar stores** and starts burning **fat**. He refers to this as [metabolic switching](https://www.hopkinsmedicine.org/health/wellness-and-prevention/intermittent-fasting-what-is-it-and-how-does-it-work).  
-  
+
+One of the most important benefits of a low-carb, high-healthy-fat diet is an indirect one: **it enables much better control of your appetite**. This means that it greatly enables you to habitually space out your meals, in other words, it helps you `incorporate fasting` into your **daily life**.  
+
+`Fasting` encourages **mental clarity** and **enhances the thought** processes. They may also have had an inkling that fasting in a sense cleanses the body. Hippocrates, Paracelsus, and Galen, the three fathers of modern medicine, all believed `fasting` to be a powerful **medical intervention**.  
+
+The health benefits of `fasting` have been recognized increasingly in the past decades, particularly among medical researchers. Studies have shown that fasting:  
+* promotes `insulin sensitivity` in all people
+* reduces `insulin resistance` in people with prediabetes
+* reduces `inflammation`
+* helps **reverse** type `2 diabetes`
+* reduces `blood pressure`
+* improves the health of `fat cells` and improves fat-burning
+* improves `weight loss` while retaining muscle better than calorie restriction
+* improves `mood and mental` clarity
+* enhances `autophagy` (cellular regeneration and repair)
+* protects against damage from `radiation` in cancer patients
+* promotes `longevity`  
+
+> We simply **skip meals** occasionally because our low-carb diet has turned us into excellent fat-burners. If it is easy to do something that is very good for you, then why not do it?  
+
+**Deep ketosis** is a state in which your body use of **glucose is minimal** and your **ketone levels** are very high. Your body is producing and utilizing a high level of `ketones` for **fuel**. Ketosis is a **metabolic state** in which your body **primarily burns** fat for energy (instead of carbohydrates) indicating a **significant shift** in your **body energy source**. It can be highly **therapeutic** in the treatment of many diseases, including epilepsy and obesity. **Most people** already live somewhere on a `keto spectrum`, which goes from the **heavy glucose-burner** (very low ketone use) on one end all the way to super fat-burner (very high ketone use) on the other end. You can choose where on this spectrum you want to be. We find it (book authors) best to **live** in the **mild ketosis** end of the spectrum. We do, however, move in and out of **deep ketosis** regularly through a combination of food choice and fasting strategies. This way, we intermittently receive the extra benefits of fasting, including enhanced **mental acuity** and **autophagy** (the breaking down of unhealthy old cells and creation of healthy new ones).
+
+> Remember that a *high-carb* diet **pumps glucose** into your body. With a lot of glucose available, there will be no fat-burning or keto action in sight.
+
+If you greatly reduce your carbohydrate intake, however, your body starts getting **ready to move along the keto spectrum**. This way of eating, **depletes your glycogen stores** quite quickly, and as those stores **fall**, your body **begins** to produce increasing levels of `ketones` to meet your energy requirements. It also begins to fabricate a small, **steady stream** of glucose for the **few** tissues that need it (**most tissues** can **run** on **fat** and ketones alone). This process of **creating glucose from stored fat and protein** is called `gluconeogenesis`. Your body can create this required glucose with ease. Your **liver** could pump out many times the level required. Glucose is easy to make out of fat and protein stores (it’s having too much glucose that is the common problem!).  
+
+As you go deeper into ketosis, your body **increasingly switches** to relying on nonglucose fuel sources. Fat is burned **directly** by many **tissues** while ketones supply the rest. In this state, the brain use of **glucose drops** from 100 percent to as low as 30 percent (with those crucial ketones providing the remaining 70 percent).  
+
+It is important to ensure that most of your **fat calories** come from **saturated** or **monounsaturated** fat (or, indeed, your own body fat). Be careful **not to overeat polyunsaturated fats**. Eating high quantities of polyunsaturated fat actually works **against** many of the benefits of **keto**.
+
+If your (blood) ketone level is 
+* above 0.5 mmol/L, you’re in a state of nutritional ketosis
+* a level of 2–4 mmol/L means you’re in deep ketosis  
+
+You can use a **blood ketone meter** to test the ketones. There is also **Ketonix system**, which measures ketones from the **breath**, with no blood sample required, it is also arguably **more accurate**, since the ketones on the breath reflect what you are actually producing, whereas the ketones in your blood may appear low because you are constantly burning them up to fuel your body.  
+
+## protein
+Proteins are **complex molecules** made up of `amino acids`. Amino acids are **fundamental** for life (they make up our very DNA). Some amino acids **can be produced** by the body. Others must be **acquired** through our diet. The `nine amino acids` that we **must** get from **food** are called **essential amino acids**.  
+
+Amino acids can be linked to **form long** protein chains. These chains can be folded into complex shapes, which give the proteins new and powerful properties. That is where the **magic** of amino acids plays out, they enable **endless possible proteins** for **myriad crucial functions**. Proteins also enable you to **create enzymes**, which are themselves **clever proteins** that can catalyze other necessary processes. Proteins conduct the **billions** of processes your body requires. Proteins are used to create all your **crucial hormones** and signaling molecules. Finally, proteins directly supply the **main building blocks for your body tissues**. When we ingest food, the proteins in it are **broken down** into amino acids. We gather up these amino acids and **reuse** them. This is **especially** true for the **nine essential amino acids**.  
+
+The researchers concluded that the **higher-protein** diet not only suppressed appetite but also led to the improved feelings of **fullness** gained through the strategy of eating **fewer meals**. Science has shown that if you **don’t eat enough protein**, you will **continue** to eat until you get it. The body **has important requirements** for protein, so our brains **appetite-control systems** are wired to **drive us** to get enough. Higher protein in the diet activates **hunger-suppressing hormones**, including peptide YY, GLP-1, and others.  
+
+Here is a **slight drawback** to a **high-protein** diet: while **it is not nearly as bad as carb**, protein still **drives** an `insulin response`. If you are eating a **lot** of protein, the **insulin release can be substantial**. This is why our low-carb, high-fat plan **recommends that you consume moderate amounts of protein**. Protein generally **produces around half of the insulin response** that the **same amount of carb does**, and **it has** an even smaller relative effect on blood **glucose**, which rises very little and tapers off steadily.  
+
+Because **protein** takes a relatively **long time to digest**, insulin stays **elevated** for many hours, and this, of course, is not ideal. Muscle and other tissues are also **constantly being recycled**. This **releases amino acids** into the blood, increasing the **pool** of available protein. If you’re losing weight, the breakdown of excess **skin** and **other** tissue can supply a source of protein **on top** of what you’re eating, and this can contribute to an **excess of protein** at any time.  
+
+Much of what happens when we eat **protein or carb** reflects the **balance** between the hormones **insulin** and **glucagon**. Insulin and glucagon are **opposing forces**. At its simplest, **insulin drives fat storage and promotes tissue growth** (its `anabolic` or building function). **Glucagon**, on the other hand, **promotes the release of fatty acids** from **adipose tissue** and the release of **glucose** from glycogen (in the absence of food, these are used for energy). In the fed state, insulin is generally high and glucagon is rightly suppressed. The **opposite occurs in the fasted state**, with glucagon **going high to free up** energy from fat or other sources.  
+
+**High-carb** meals drive **insulin high**, keeping **glucagon low**. Protein **drives insulin also**, to help build muscle from the **ingested** protein. But it also stimulates the release of glucagon, that way, the drop in blood glucose insulin causes is balanced by glucose (and fatty acids) coming into the bloodstream from storage, so overall, **blood sugar stays stable**. But when someone who is `insulin resistant` eats a **lot of protein** with **lot of carb**, this balancing act is **tricky to achieve**, and this leads to an **unstable hormonal situation** and **unpredictable blood sugar levels**. This kind of situation should of course be avoided, we must always strive for low and stable blood sugar and insulin levels.  
+
+This is why our plan centers on **low carbohydrate** and **moderate protei**n. If you are keeping carb in a healthy low range, then **there is room for a higher amount of protein**, since **both** stimulate insulin. Eating a **higher amount of healthy fat** provides energy without **provoking insulin** or a rise in blood glucose, and this combination is **optimal** for most people. Whether you are losing weight or maintaining your weight, whether you are insulin sensitive or insulin resistant, this combination of low carb, moderate protein, and high fat **should fit**. The goal should always be to keep insulin low. And generally this means high glucagon, **insofar** as it is possible.  
+
+
+
+
+## exercise
 **Sleep cycle** and quality. Achieving quality sleep is very important. Ideally, you should be getting at least seven hours of quality sleep per night. Countless people have undermined their weight-loss plans through poor sleep hygiene.  
   
 **Stress management**. Chronic stress makes weight loss much harder to achieve and sustain. It also significantly undermines long-term health.  
@@ -378,11 +542,36 @@ The ratio of **total cholesterol** to **HDL** (total/HDL) is as easy to calculat
 
 The `total/HDL` ratio cuts a swath through all the noise. It doesn’t even require any exotic laboratory tests. So go ahead and calculate your ratio—the current guideline suggests you should be `lower than 5` or even `4.5`. Achieving `lower than 4` would be the **ideal target**. if your total cholesterol is 200 mg/dL (5.2 mmol/L) and your HDL is 50 mg/dL (1.3 mmol/L), your ratio would be 4-to-1. **Higher ratios** mean a higher risk of **heart disease**.  
 
+Decrease your LDL without undermining a healthy low-carb, high-fat diet:
+* Consume more **plant-based fats** from avocados, olive oil, and nuts.
+* Replace some of your saturated fat intake with monounsaturated fats, without changing your overall fat intake.
+* Reduce the **animal-based protein** in your diet (but keep in mind that protein is important).
+* Reduce your consumption of **cheese**, especially if you’re eating a lot of it.
+* Introduce **slightly more carbohydrates**—but only the **high-fiber**, nutrient-dense, slow-digesting kind.
+* Increase your intake of **fish oil**, cod liver oil, or other healthy sources of **omega-3**.
+* Get more healthy **sun** exposure if possible.
+* Do more **resistance exercise**.  
+
+**Losing weight** can cause **LDL to increase**, it is best to reach a stable weight and then establish a new baseline LDL level. Choosing real food over junk carbs and fake fat—it just feels so good. May you and your family eat rich and live long!  
+
 We all **fear** heart attacks, we **worry** that they can just happen like **out of blue**. But this is a lie. There is **nothing sudden** about the **inflammatory disease** sequence leading to that `sudden` heart attack. **Most** heart attacks are caused by **atherosclerosis**, the inflammation of the arterial walls. There is a simple **five-minute scan** that can identify heart disease and how bad it is: the `coronary artery calcium (CAC) scan`.  
 
+
+
+* [Ivor Cummins blog](https://href.li/?https://www.thefatemperor.com/blog)
+  * [youtube](https://href.li/?https://www.youtube.com/@IvorCumminsScience/videos)
+  * [twitter](https://href.li/?https://twitter.com/FatEmperor)
+  * [google](https://www.google.com/search?q=%40fatemperor)
 * (2020) [Interview - Ivor Cummins - Eat Rich, live long](https://www.youtube.com/watch?v=DtIIS4Nqz30)  
 * [Eat This Much](https://www.eatthismuch.com/diet-plan/2400-calorie/low-carb/) - an automatic meal planner (use Ketogenic or Paleo + some brain)
 * (22/10/2023) [Type 2 diabetes rates in US youth rose 62% after COVID pandemic began](https://www.cidrap.umn.edu/covid-19/type-2-diabetes-rates-us-youth-rose-62-after-covid-pandemic-began-study-suggests)  
+
+Here’s a summary of the valuable measures that can be gleaned from the standard cholesterol tests.  
+* **Triglyceride** should be safely below 80 to 100 mg/dL.
+* **HDL** should be safely above 40 mg/dL (for men) or 50 mg/dL (for women).
+* The ratio of **total cholesterol** to HDL is crucial and should be below 4.5, preferably below 4.
+* The ratio of **triglyceride** to HDL is also crucial and should be well below 2, preferably around 1.
+* A **CAC scan** will enable you to discover hidden heart disease where the risk factors can fail. Crucially, you can take action and check back later to verify that you have stopped the progression of atherosclerosis.  
 
 <center> --<>-- </center>  
 </br>  
