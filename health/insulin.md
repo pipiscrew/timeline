@@ -264,7 +264,7 @@ Consuming **tasty fat** with **plant** foods will enhance **nutrient transport**
 
 From the other side on a `low-fat` diet, we can end up **deficient** in the **fat-soluble** vitamins, which are required for optimal health. The four important fat-soluble vitamins are A, D, E, and K. In order for your body to absorb these, they need to be consumed with plenty of fat. Being low in any of these contribute to a dizzying array of health issues. Another important point to note is that vitamins A, D, and K interact with each other to a great degree. They also interact synergistically with minerals, including magnesium and zinc.  
 
-We now have good evidence in model organisms...that if you **overfeed** someone with **fat**, you **do not** increase their cancer risk at all—good? You **overfeed** someone with **carbohydrates** and you **dramatically increase** their cancer risk. And protein is halfway in between. ([Dr. Craig B. Thompson](https://www.mskcc.org/about/leadership/office-president/craig-b-thompson-biography), the head of Memorial Sloan Kettering)  
+> We now have good evidence in model organisms...that if you **overfeed** someone with **fat**, you **do not** increase their cancer risk at all—good? You **overfeed** someone with **carbohydrates** and you **dramatically increase** their cancer risk. And protein is halfway in between. ([Dr. Craig B. Thompson](https://www.mskcc.org/about/leadership/office-president/craig-b-thompson-biography), the head of Memorial Sloan Kettering)  
 
 As you **cross the bridge** to becoming a `fat-burner`, your body will be undergoing wonderful changes. But these changes will bring **new requirements** for particular nutrients, the most important minerals to pay attention to are :  
 * sodium
