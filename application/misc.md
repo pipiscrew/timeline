@@ -445,6 +445,7 @@ copy /b *.txt all.txt
 # search and replace a text file
 (Get-Content 'test.txt') -replace 'WinRAR', '7zip' | Out-File 'altered.txt'
 
+# search current dir for filename equals with specific date
 # https://stackoverflow.com/a/20455954 + sort https://stackoverflow.com/a/40904876
 dir -file | ? LastWriteTimeUtc -gt ([datetime]"2023-10-03") | Sort CreationTime -Descending
 ```  
