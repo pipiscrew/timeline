@@ -462,7 +462,7 @@ If you are up for the aerobics, we favor relatively short **jogging** sessions o
   
 **Interval training**, this just means that at regular intervals during your jog, you break into a short, **hard sprint** of around 92 meters. Doing these sprints every **three minutes** or so will enhance the value of your routine.  
   
-Try the routine of [MD pal Ted Naiman - BurnFatNotSugar](https://href.li/?https://tednaiman.com/) we think this is an absolutely super approach, takes only fifteen to twenty minutes.  
+Try the routine of [MD pal Ted Naiman - BurnFatNotSugar](https://href.li/?https://tednaiman.com/) ([mirror](https://download.ru/files/Rtuiv7gR)) we think this is an absolutely super approach, takes only fifteen to twenty minutes.  
   
 > We humans now have trillions of these mitochondria in our bodies. Without them and their fat burning ability, we would cease to exist.  
   
