@@ -646,8 +646,8 @@ In the past **30 years**, `hyper-palatable` foods have **spread rapidly** into t
 
 Even though the **tobacco companies no longer own** these food brands, researchers say the findings matter because many of the **ultra-processed foods** that we eat today were engineered by an industry that wrote the **playbook** on products that are `highly-palatable`, addictive and appealing to `children`.  
 
-> We found that tobacco companies **selectively disseminated** hyper-palatable foods into the food supply  
+> We found that tobacco companies **selectively disseminated** hyper-palatable foods into the food supply.  
 >
-> It’s important for people to **understand** where these foods came from and who was **responsible** for putting them into our food system in a way that **saturates the environment**.  
+> It’s important for people to **understand** where these foods came from, and who was **responsible** for putting them into our **food system** in a way that **saturates the environment**.  
 
 said [Tera Fazzino](https://fazzinolab.ku.edu/people/tera-fazzino), the lead author of the new study and an assistant professor in the department of **psychology** at the **University of Kansas**.  
