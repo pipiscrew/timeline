@@ -631,18 +631,18 @@ So, in essence, the endocannabinoid system has connections to lipids and **relie
 
 For decades, tobacco companies **hooked** people on cigarettes by making their products more **addictive**. Now, a new study suggests that tobacco companies may have used a **similar strategy** to hook people on **processed foods**.  
 
-In the 1980s, tobacco giants [Philip Morris and R.J. Reynolds](https://www.pipiscrew.com/threads/british-american-tobacco.42892/) acquired the **major food** companies 
+In the **1980s**, tobacco giants [Philip Morris and R.J. Reynolds](https://www.pipiscrew.com/threads/british-american-tobacco.42892/) acquired the **major food** companies 
 * Kraft
 * General Foods 
 * Nabisco  
 
 allowing tobacco firms to **dominate America food supply** and reap billions in sales from popular brands such as Oreo cookies, Kraft Macaroni & Cheese and Lunchables.  
 
-By the 2000s, the tobacco giants spun off their food companies and largely exited the food industry — but not before leaving a **lasting legacy** on the foods that **we eat**.  
+By the **2000s**, the tobacco giants **spun off** their food companies and largely exited the food industry — but not before leaving a **lasting legacy** on the foods that **we eat**.  
 
 The new research, published in the [journal Addiction](https://doi.org/10.1111/add.16332), focuses on the rise of `hyper-palatable` foods, which contain potent combinations of fat, sodium, sugar and other additives that can **drive** people to **crave** and overeat them. The `Addiction study` found that in the decades when the tobacco giants **owned** the world leading food companies, the foods that they sold were far more likely to be **hyper-palatable** than similar foods **not owned by** tobacco companies.  
 
-In the past 30 years, `hyper-palatable` foods have **spread rapidly** into the **food supply**, coinciding with a surge in obesity and [diet-related diseases](http://doi.org/10.5888/pcd14.160287). In America, the steepest increase in the prevalence of hyper-palatable foods [occurred](https://doi.org/10.1017/s1368980022001227) between **1988 and 2001**, the era when Philip Morris and R.J. Reynolds owned the world leading food companies.  
+In the past **30 years**, `hyper-palatable` foods have **spread rapidly** into the **food supply**, coinciding with a surge in obesity and [diet-related diseases](http://doi.org/10.5888/pcd14.160287). In America, the steepest increase in the prevalence of hyper-palatable foods [occurred](https://doi.org/10.1017/s1368980022001227) between **1988 and 2001**, the era when Philip Morris and R.J. Reynolds owned the world leading food companies.  
 
 Even though the **tobacco companies no longer own** these food brands, researchers say the findings matter because many of the **ultra-processed foods** that we eat today were engineered by an industry that wrote the **playbook** on products that are `highly-palatable`, addictive and appealing to `children`.  
 
