@@ -263,7 +263,7 @@
 * [Email Generator](https://generator.email/)
 * [fakemail](https://www.fakemail.net/)
 
-## files archives
+## file archives
 * [WinWorld](https://winworldpc.com/library/operating-systems)
 * [The Simtel CD Collection (1994-2001)](http://cd.textfiles.com/simtel/)
 * [The Eye](https://the-eye.eu/)
@@ -281,6 +281,7 @@
 * [Releaselog](http://www.rlslog.net/)  
 * [musicforum](https://musicforum.club/)
 * [mazterize](https://www.mazterize.com/)
+* [Vogons Vintage Driver Library](http://www.vogonsdrivers.com/) - collection of drivers for vintage hardware
 
 ## games
 * [JavaScript NES emulator](https://jsnes.fir.sh/)

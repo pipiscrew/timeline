@@ -97,7 +97,7 @@
   * Φαρμακευτικός Σύλλογος Αττικής - [https://www.fsa.gr/](https://www.fsa.gr/)
   * Φαρμακευτικός Σύλλογος Θεσσαλονίκης - [https://www.fsth.gr/](https://www.fsth.gr/)
   * Φαρμακευτικός Σύλλογος Δωδεκανήσου - [https://www.fs12.gr/](https://www.fs12.gr/)
-
+* Κρατική Αρωγή για τους πληγέντες από φυσικές καταστροφές - [arogi.services.gov.gr](https://arogi.services.gov.gr/)
 
 ---
   

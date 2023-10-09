@@ -240,6 +240,7 @@
 * [Nurgo AquaSnap](https://www.nurgo-software.com/products/aquasnap) - allowing you to arrange windows the way you want
 * [Hasleo partition clone](https://www.easyuefi.com/disk-clone/disk-clone-home.html)
 * [ImDisk Toolkit](https://sourceforge.net/projects/imdisk-toolkit/) -  mount image files of hard drive, cd-rom or floppy, and create one or several ramdisks with various parameters
+* [Nilesoft.Shell](https://nilesoft.org/) - light custom context menu for Windows File Explorer for win7-win11
 
 ## commanders
 * [Multi Commander](http://multicommander.com/) - Dual-pane and multi-tabbed file manager with rich features for experienced users
