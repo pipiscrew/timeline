@@ -13,7 +13,7 @@ The `power of hormones` becomes clear if you consider the example of **adrenalin
 
 If you keep your **insulin levels low**, all these **signals are highly effective**. Your body will stay exquisitely sensitive to insulin messages. `This is pivotal for longevity and slimness`. There are many strategies for keeping your insulin low. Here are a couple of the most important approaches :
 * Don’t consume too much carb, which is mainly, made up of glucose. 
-* Don’t consume processed carb or processed v**egetable oils**. 
+* Don’t consume processed carb or processed **vegetable oils**. 
 * Absolutely don’t ingest carbs along with fatty foods (a very bad combo indeed).
 * Don’t consume too much fructose.
 * Do not eat frequently, rather, eat well-spaced meals (2-3 / day). Snacking screws up your insulin signaling.

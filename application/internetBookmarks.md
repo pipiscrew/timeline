@@ -332,7 +332,8 @@
 * [layoffs tracker](https://layoffstracker.com/)
 * [Violation Tracker](https://violationtracker.goodjobsfirst.org/parent/pfizer)  
 * [Notepad Calculator](https://notepadcalculator.com/)  
-
+* [Free Online Graph Paper](https://incompetech.com/graphpaper/)
+]
 ## drawing
 * [tldraw](https://www.tldraw.com/) - whiteboard [github](https://github.com/tldraw/tldraw)
 * [floor plan creator](https://floorplancreator.net/plan/demo)
