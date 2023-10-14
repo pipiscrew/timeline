@@ -621,7 +621,9 @@ So, in essence, the endocannabinoid system has connections to lipids and **relie
 * read it in [Greek](https://filecrypt.cc/Container/CA86AB904B.html)  
 * [Eat rich breakfast](https://www.youtube.com/watch?v=--9q0iIXZLs)
 * [Easy and super delicious dinner](https://www.youtube.com/watch?v=VHnN6pBrJ1E)  
-* [Smoking increases risk of type 2 diabetes due to metabolic changes](https://www.medpagetoday.com/meetingcoverage/easd/106681)  
+* [Smoking increases risk of type 2 diabetes due to metabolic changes](https://www.medpagetoday.com/meetingcoverage/easd/106681)
+* [Recipe Nutrition Calculator](https://www.verywellfit.com/recipe-nutrition-analyzer-4157076)
+* [FoodNutrition](https://github.com/pipiscrew/FoodNutrition) - an application make offline use of [US FoodData Central - SR Legacy Foods](https://fdc.nal.usda.gov/)  
 
 <center> --<>-- </center>  
 </br>  
