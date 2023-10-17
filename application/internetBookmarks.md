@@ -94,8 +94,10 @@
 
 
 ## videos
+* [piped](https://piped.video/) - alternative privacy-friendly YouTube frontend [github](https://github.com/TeamPiped/Piped)
 * [Invidious](https://invidious.snopyta.org/)
 	* [mirrors](https://redirect.invidious.io/)
+	* [SDK](https://invidious.io/)
 * [youtube-lite](https://youtube-lite.js.org/)
 * [FreeTube](https://freetubeapp.io/) - a desktop app for youtube with features
 * [Piped](https://piped.kavin.rocks/)
