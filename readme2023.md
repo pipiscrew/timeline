@@ -25,6 +25,7 @@
   * [ZYSzys/awesome-captcha](https://github.com/ZYSzys/awesome-captcha)
   * [Unpacking DnGuard (2020)](https://xtutlab.medium.com/bff7d512ede3)
   * [wwh1004 - NET JIT Unpacking Guide and Tool Source](https://wwh1004.github.io/en/net-jit-unpack-guide-and-source/)
+  * [tnodir/fort - firewall for windows](https://github.com/tnodir/fort)
   * [Finland to vote against the EU mass surveillance and encryption ban directive](https://dawn.fi/uutiset/2023/10/14/eu-csam-suomi-eduskunta-kanta)
   * [Vintage Computing Festival Berlin 2023 videos](https://media.ccc.de/c/vcfb23)
   * [Casio created a console for girls in the ’90s](https://www.superjumpmagazine.com/casio-created-a-console-for-girls-in-the-90s/)
