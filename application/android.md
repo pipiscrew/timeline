@@ -9,7 +9,7 @@
 * Messenger- [Delta Chat](https://delta.chat/en/) - works over e-mail no server involved
 * QR - [SimpleAct.Quickmark](http://quickmark.com.tw/En/basic/index.asp) (gplay deprecated)  
 * GPS - [TomTom Navigation](https://play.google.com/store/apps/details?id=com.tomtom.gplay.navapp) - supports offline maps / can used also for pedestrian route (adjust at settings > routing > route type)  
-* Maps - [Organic Maps](https://github.com/organicmaps/organicmaps)  
+* Maps - [Organic Maps](https://github.com/organicmaps/organicmaps) - supports offline maps
 * Expenses - [Alzex Finance](https://play.google.com/store/apps/details?id=com.alzex.finance.pro)  
 * Expenses - [Chromabill](https://www.chromabill.com/) - ??  
 * Pedometer - [Leap Fitness.Step Counter](https://play.google.com/store/apps/details?id=pedometer.steptracker.calorieburner.stepcounter)  
@@ -19,7 +19,8 @@
 * Keepass - [KeePassDroid](https://play.google.com/store/apps/details?id=com.android.keepass)  
 * Youtube - [NewPipe](https://newpipe.net/)  
 * Notes - [PocketPlan](https://github.com/estep248/PocketPlan)  
-* Server to share files - [WiFi File Transfer](https://play.google.com/store/apps/details?id=com.smarterdroid.wififiletransfer)  
+* Server to share files - [WiFi File Transfer](https://play.google.com/store/apps/details?id=com.smarterdroid.wififiletransfer) 
+* Server to share files - [localsend](https://github.com/localsend/localsend) [[2](https://f-droid.org/packages/org.localsend.localsend_app/)]
 * Office - [WPS TPT](https://play.google.com/store/apps/details?id=cn.wps.moffice_eng)  
 * Text Editor - [rhmsoft.QuickEdit](https://play.google.com/store/apps/details?id=com.rhmsoft.edit)  
 * Measure Wifi - [farproc.Wifi Analyzer](https://play.google.com/store/apps/details?id=com.farproc.wifi.analyzer)  

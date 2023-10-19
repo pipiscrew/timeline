@@ -193,6 +193,7 @@
 
 ## develop
 * [CyberChef](https://gchq.github.io/CyberChef/) - Cyber Swiss Army Knife
+* [K9s](https://github.com/derailed/k9s) - who let the pods out? Kubernetes CLI to manage your clusters in style
 * [Decrypt MD5, SHA1, MySQL, NTLM, SHA256, SHA512 hashes](https://hashes.com/en/decrypt/hash) [[2](https://crackstation.net/)]
 * [Batch Speed](https://batchspeed.com/) - Bulk speed test multiple urls using Google's Page Speed checker
 * [Hoppscotch (aka Postwoman)](https://hoppscotch.io/) - API request builder
@@ -254,6 +255,7 @@
 * [is.gd](https://is.gd/) - url shortener
 * [filecrypt](https://filecrypt.cc/) - add captcha to links
 * [archive.today](https://archive.is/) - personal Wayback Machine [[2](https://archive.ph/)]
+* [dwnld](https://dwnld.net/) - url shortener
 
 ## virus scan
 * [google.virus total](https://www.virustotal.com/)

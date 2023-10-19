@@ -88,7 +88,10 @@ git config --global credential.interactive never
 ## java
 * [Javatar](https://www.youtube.com/watch?v=9QFK1cLhytY)
   * [2](https://www.dailymotion.com/video/xowxkz)
-  
+* [VSCode - Oracle Java Platform Extension](https://inside.java/2023/10/18/announcing-vscode-extension/)
+  * [marketplace](https://marketplace.visualstudio.com/items?itemName=Oracle.oracle-java)
+  * [github](https://github.com/oracle/javavscode)
+
 ## SQL Server Express
 * [2008R2x64 with SP2](https://www.microsoft.com/en-us/download/details.aspx?id=30438)
 
