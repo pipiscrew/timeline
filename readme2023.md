@@ -23,6 +23,8 @@
   * [Sweden reports damage to Baltic Sea cable with Estonia](https://www.dw.com/en/sweden-reports-damage-to-baltic-sea-cable-with-estonia/a-67126637)
   * [C++ Modules - Packaging Story](https://blog.conan.io/2023/10/17/modules-the-packaging-story.html)
   * [ZYSzys/awesome-captcha](https://github.com/ZYSzys/awesome-captcha)
+  * [Unpacking DnGuard (2020)](https://xtutlab.medium.com/bff7d512ede3)
+  * [wwh1004 - NET JIT Unpacking Guide and Tool Source](https://wwh1004.github.io/en/net-jit-unpack-guide-and-source/)
   * [Finland to vote against the EU mass surveillance and encryption ban directive](https://dawn.fi/uutiset/2023/10/14/eu-csam-suomi-eduskunta-kanta)
   * [Vintage Computing Festival Berlin 2023 videos](https://media.ccc.de/c/vcfb23)
   * [Casio created a console for girls in the ’90s](https://www.superjumpmagazine.com/casio-created-a-console-for-girls-in-the-90s/)
