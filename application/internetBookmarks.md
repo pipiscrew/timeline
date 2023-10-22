@@ -256,6 +256,7 @@
 * [filecrypt](https://filecrypt.cc/) - add captcha to links
 * [archive.today](https://archive.is/) - personal Wayback Machine [[2](https://archive.ph/)]
 * [dwnld](https://dwnld.net/) - url shortener
+* [dref](https://dref.xyz/) - url shortener
 
 ## virus scan
 * [google.virus total](https://www.virustotal.com/)
@@ -337,7 +338,8 @@
 * [Violation Tracker](https://violationtracker.goodjobsfirst.org/parent/pfizer)  
 * [Notepad Calculator](https://notepadcalculator.com/)  
 * [Free Online Graph Paper](https://incompetech.com/graphpaper/)
-]
+* [inchcalculator](https://www.inchcalculator.com/convert/butter/) - cooking conversion
+
 ## drawing
 * [tldraw](https://www.tldraw.com/) - whiteboard [github](https://github.com/tldraw/tldraw)
 * [floor plan creator](https://floorplancreator.net/plan/demo)

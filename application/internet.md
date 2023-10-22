@@ -38,6 +38,8 @@ To start with specific profile, `chrome.exe --user-data-dir=c:\foo`
 To find the profile currently is use navigate to `about:support` or `about:profiles`.  
  * [profile manager](https://support.mozilla.org/en-US/kb/profile-manager-create-remove-switch-firefox-profiles) - to start with specific profile, `firefox.exe -P "<profile name>" `  
 
+show browser task manager `about:performance`, with shortcut **SHIFT+ESC**  
+
 To load temporary addon or to see what is loaded (built in addons), or to use ADB goto `about:debugging`, then click on left `This Firefox` ([ref](https://developer.mozilla.org/en-US/docs/Mozilla/Add-ons/WebExtensions/Your_first_WebExtension))  
 
 ----------
@@ -123,6 +125,7 @@ Chrome start with
 
 #### Addons
 
+  * [Dark Reader](https://darkreader.org/) (cross) - [github](https://github.com/darkreader/darkreader)
   * [uBlock Origin](https://github.com/gorhill/uBlock) - efficient blocker for Firefox and Chromium (as [npm](https://www.npmjs.com/package/@gorhill/ubo-core))
   * [NoScript](https://noscript.net/) - extra protection for Firefox  
   * [JShelter](https://jshelter.org/) - mitigate potential threats, fingerprinting, tracking, and data collection
