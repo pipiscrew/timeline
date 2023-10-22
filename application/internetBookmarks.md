@@ -338,7 +338,8 @@
 * [Violation Tracker](https://violationtracker.goodjobsfirst.org/parent/pfizer)  
 * [Notepad Calculator](https://notepadcalculator.com/)  
 * [Free Online Graph Paper](https://incompetech.com/graphpaper/)
-* [inchcalculator](https://www.inchcalculator.com/convert/butter/) - cooking conversion
+* [inch calculator](https://www.inchcalculator.com/convert/butter/) - cooking conversion
+* [nutrition value](https://www.nutritionvalue.org/) - find nutritional value of a product
 
 ## drawing
 * [tldraw](https://www.tldraw.com/) - whiteboard [github](https://github.com/tldraw/tldraw)
