@@ -654,3 +654,26 @@ Even though the **tobacco companies no longer own** these food brands, researche
 > It’s important for people to **understand** where these foods came from, and who was **responsible** for putting them into our **food system** in a way that **saturates the environment**.  
 
 said [Tera Fazzino](https://fazzinolab.ku.edu/people/tera-fazzino), the lead author of the new study and an assistant professor in the department of **psychology** at the **University of Kansas**.  
+
+<center> --<>-- </center>  
+</br>  
+
+## eggs
+**Salmonella** is a type of bacteria that can contaminate eggs, and when **ingested**, it can cause foodborne illness. The most common way for Salmonella to get into eggs is through contamination of the **eggshell**.  
+
+**Chickens** can carry Salmonella in their **intestines**, and the bacteria can be present in their **droppings**. When eggs are laid, there is a possibility of **contact** with the bacteria from the environment.  
+
+Guidelines :  
+* Bath eggs to bowl of water, add 3% **hydrogen peroxide** (1:1 with water ratio), soak for 5 minutes, rinse and dry, store to refrigerator. [reference](https://routt.extension.colostate.edu/wp-content/uploads/sites/4/2018/05/Eggs.pdf)
+* The reason eggs **are refrigerated** in the US, unlike most of the world, is because eggs are **washed** which removes the **natural barrier** for bacteria.
+* **Cooking** eggs to an internal temperature of at least 71°C will kill any potential bacteria. Always **boil** hard (~10min).
+* **Older** eggs are **easier to peel** because the pH of the whites increases as eggs age.  
+
+## liver
+Typically soaked in **milk** before cooking to help it retain its moisture and eliminates the odd odor and **metallic** taste.. Milk is high in **casein**, which is associated with the slow emission of amino acids. The casein has helpful properties for meat that hasn’t yet been cooked. It is able to **draw out** any blood and other impurities that might be trapped in the liver. [reference](https://therustyspoon.com/why-do-you-soak-liver-in-milk-before-cooking/)  
+
+Guideline : 
+* Soak liver in milk for 1 hour or overnight in the refrigerator.  
+
+## digestion 
+It's generally advisable to wait **at least 30 minutes to 1 hour after a meal** before drinking a large amount of **water**. Drinking too much water immediately after eating may **dilute** your stomach acids and enzymes, potentially **affecting** the digestion process. However, sipping a small amount of water during the meal to aid swallowing and digestion is usually not a problem. **Coffee** is known to stimulate stomach acid production, which can be both good and bad for digestion. It's generally advisable to wait **at least 30 minutes to an hour** after eating.  

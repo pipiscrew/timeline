@@ -251,7 +251,8 @@ To disable multiple running processes of the browser, you can set `browser.tabs.
 
 * [bitwarden](https://bitwarden.com/) - the free online solution 
 * [RoboForm](https://www.roboform.com/) - the well known
-* [Mozilla.Firefox Lockwise](https://www.mozilla.org/en-US/firefox/lockwise/)  
+* [Mozilla.Firefox Lockwise](https://www.mozilla.org/en-US/firefox/lockwise/)
+* [Proton Pass](https://proton.me/pass)  
 
 ## FTP
 * [FileZilla](https://filezilla-project.org/)
