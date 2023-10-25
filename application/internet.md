@@ -161,7 +161,9 @@ Chrome start with
   * [BrainTool - Organizing Bookmarks](https://braintool.org/)  
   * [LibRedirect](https://github.com/libredirect/libredirect) Redirect YouTube, Twitter, Instagram to privacy friendly services ([nitter](https://github.com/zedeus/nitter/wiki/Extensions)) [[privacy-redirect](https://github.com/SimonBrazell/privacy-redirect)]
   * [UnclutterIT](https://unclutter.it/) - reader Mode, but better  
-  * [WebStickies](https://lawrencehook.com/ws/) - Sticky notes for the internet  
+  * [WebStickies](https://lawrencehook.com/ws/) - Sticky notes for the internet 
+  * [tohodo.Autofill](https://www.tohodo.com/autofill/)
+  * [Dummy Form Filler](https://github.com/ptomaszek/dummy-form-filler)
   * --CentBrowser Advised--
     * [Chrome Better History](http://www.centbrowser.com/crx/Chrome-Better-History_v3.3.crx)
     * [Imagus](https://chrome.google.com/webstore/detail/imagus/immpkjjlgappgfkkfieppnmlhakdmaab)
