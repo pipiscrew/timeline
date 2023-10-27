@@ -18,9 +18,9 @@ Automatically open Chrome DevTools debug - `"c:\chrome.exe" -auto-open-devtools-
 
 To find the profile currently is use navigate to `chrome://version`.  
 
-Tab suspension & site databases `chrome://discards/`  
-
 To start with specific profile, `chrome.exe --user-data-dir=c:\foo`  
+
+2022 - [Memory Saver](https://blog.google/products/chrome/new-chrome-features-to-save-battery-and-make-browsing-smoother/) for [brave](https://support.brave.com/hc/en-us/articles/13383683902733-How-do-I-use-the-Memory-Saver-feature-in-Brave)  
 
 * [CRXcavator](https://crxcavator.io/) 
 * [CRXextractor](https://crxextractor.com/)  
@@ -165,6 +165,9 @@ Chrome start with
   * [UnclutterIT](https://unclutter.it/) - reader Mode, but better  
   * [WebStickies](https://lawrencehook.com/ws/) - Sticky notes for the internet 
   * [tohodo.Autofill](https://www.tohodo.com/autofill/)
+  * [Tiny Suspender](https://chrome.google.com/webstore/detail/tiny-suspender/bbomjaikkcabgmfaomdichgcodnaeecf)
+  * [Snoozz](https://snoozz.me/)
+  * [OneTab](https://chrome.google.com/webstore/detail/onetab/chphlpgkkbolifaimnlloiipkdnihall)
   * [Dummy Form Filler](https://github.com/ptomaszek/dummy-form-filler)
   * --CentBrowser Advised--
     * [Chrome Better History](http://www.centbrowser.com/crx/Chrome-Better-History_v3.3.crx)
