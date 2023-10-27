@@ -524,6 +524,7 @@ A control campaign has shown that certain foods such as chocolate, nuts, oil see
 
 According to a risk assessment, based on consumption data and the value of toxicological relevance (acceptable daily intake 2.8 µg/kg bw) of EFSA, as well as the data of the control campaign, an **excessive** consumption of **chocolate** is to be avoided. In fact, **regular** consumption and repeated of chocolate could lead to an **exceeding** of the acceptable daily intake.  
 
+* (2023) ConsumerReports - [A third of chocolate products are high in heavy metals](https://href.li/?https://www.consumerreports.org/health/)food-safety/a-third-of-chocolate-products-are-high-in-heavy-metals-a4844566398/
 * (2020) GOV.Luxembourg - [Food Safety Authority](https://securite-alimentaire.public.lu/fr/professionnel/Denrees-alimentaires/Contaminants/Nickel.html) &nbsp; [[2](https://securite-alimentaire.public.lu/fr/consommateur/ConseilConsommateur.html)]
 * (2020) EFSA - [Update of the risk assessment of nickel in food and drinking water](https://efsa.onlinelibrary.wiley.com/doi/full/10.2903/j.efsa.2020.6268)
 * (2019) EFSA - [Occurrence data of nickel in feed and animal exposure assessment](https://doi.org/10.2903/j.efsa.2019.5754)

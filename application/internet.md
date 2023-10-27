@@ -18,6 +18,8 @@ Automatically open Chrome DevTools debug - `"c:\chrome.exe" -auto-open-devtools-
 
 To find the profile currently is use navigate to `chrome://version`.  
 
+Tab suspension & site databases `chrome://discards/`  
+
 To start with specific profile, `chrome.exe --user-data-dir=c:\foo`  
 
 * [CRXcavator](https://crxcavator.io/) 

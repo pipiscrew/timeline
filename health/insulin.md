@@ -677,3 +677,7 @@ Guideline :
 
 ## digestion 
 It's generally advisable to wait **at least 30 minutes to 1 hour after a meal** before drinking a large amount (250ml) of **water**. Drinking too much water immediately after eating may **dilute** your stomach acids and enzymes, potentially **affecting** the digestion process. However, sipping a small amount of water during the meal to aid swallowing and digestion is usually not a problem. **Coffee** is known to stimulate stomach acid production, which can be both good and bad for digestion. It's generally advisable to wait **at least 30 minutes to an hour** after eating.  
+
+## chocolate
+* 2023 - [ConsumerReports - A Third of Chocolate Products Are High in Heavy Metals](https://www.consumerreports.org/health/food-safety/a-third-of-chocolate-products-are-high-in-heavy-metals-a4844566398/)
+* [(US) You Sow - Metrics by brand](https://www.asyousow.org/environmental-health/toxic-enforcement/toxic-chocolate#chocolate-tables)
