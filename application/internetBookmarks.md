@@ -91,6 +91,7 @@
 * [web2pdfconvert](https://www.web2pdfconvert.com/) - convert a website to pdf  
 * [TinyWow](https://tinywow.com/) Tools That Solve Your Files Problem - pdf / xls / doc / images and other  
 * [pdfux](https://pdfux.com/) - PDF tools  
+* [ilovepdf](https://www.ilovepdf.com/) - PDF tools  
 
 
 ## videos
@@ -338,8 +339,13 @@
 * [Violation Tracker](https://violationtracker.goodjobsfirst.org/parent/pfizer)  
 * [Notepad Calculator](https://notepadcalculator.com/)  
 * [Free Online Graph Paper](https://incompetech.com/graphpaper/)
-* [inch calculator](https://www.inchcalculator.com/convert/butter/) - cooking conversion
+* [Ruler Online](https://ruler.onl/)
+
+## food
+* [inch calculator](https://www.inchcalculator.com/convert/butter/) - cooking unit conversion
 * [nutrition value](https://www.nutritionvalue.org/) - find nutritional value of a product
+* [uni nutrition values](https://www.urmc.rochester.edu/encyclopedia/content.aspx?contenttypeid=76&contentid=11215-4)
+* [recipe nutrition calculator](https://www.verywellfit.com/recipe-nutrition-analyzer-4157076)
 
 ## drawing
 * [tldraw](https://www.tldraw.com/) - whiteboard [github](https://github.com/tldraw/tldraw)

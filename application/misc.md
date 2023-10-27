@@ -250,6 +250,11 @@ The sequence is :
 ## Video
 * [SMPlayer](https://www.smplayer.info/)
 
+## Chat
+* [BeeBEEP](https://www.beebeep.net/) - serverless app for intranet use only
+* [Mattermost](https://github.com/42wim/matterbridge) - all messengers combined
+* [Output Messenger](https://www.outputmessenger.com/) - Messenger, server on premise (win app)
+
 ## Activators
 * [KMS_VL_ALL_AIO](https://github.com/abbodi1406/KMS_VL_ALL_AIO) - windows & office (supports Enterprise edition)
 * [KMS38](https://massgrave.dev/) - activate till 2038 + ISO [[2](https://gitlab.com/massgrave/microsoft-activation-scripts/-/tree/master/MAS/All-In-One-Version)]
