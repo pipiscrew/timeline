@@ -681,3 +681,10 @@ It's generally advisable to wait **at least 30 minutes to 1 hour after a meal** 
 ## chocolate
 * 2023 - [ConsumerReports - A Third of Chocolate Products Are High in Heavy Metals](https://www.consumerreports.org/health/food-safety/a-third-of-chocolate-products-are-high-in-heavy-metals-a4844566398/)
 * [(US) You Sow - Metrics by brand](https://www.asyousow.org/environmental-health/toxic-enforcement/toxic-chocolate#chocolate-tables)
+
+## cheap & unhealthy oil types that used on any product you buy from super market
+* **Canola oil** (κανόλα) is a type of [rapeseed oil](https://youtu.be/yQLk9RqxnSI?t=31) (κραμβέλαιο) with less erucic acid and glucosinolates. Top producing countries are Canada, China, and India. [ΚριςΚρις](https://www.ab.gr/eshop/p/7763365)
+* **Palm oil** (φοινικέλαιο) is derived from the fruit of oil [palm trees](https://youtu.be/tCszYCYopwE?t=321), primarily grown in tropical regions like Malaysia and Indonesia.
+* **Sunflower oil** from the seeds of the [sunflower](https://youtu.be/LatgukbcTVk?t=388). Top producing countries are Ukraine, Russia, Argentina, Turkey.  
+
+All of these types contain **trans fats** due to the refinement process.  
