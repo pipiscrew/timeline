@@ -692,8 +692,8 @@ All of these types contain **trans fats** due to the refinement process.
 ## nutrition table explained
 A nutrition label provides **information** about the **nutritional content** of a food product, helping consumers make informed **choices** about their diet by listing the amounts of various nutrients and ingredients.  
 
-Displays :  
-* Total fats ( mentioned also as Fatty Acids or Total lipid)
+Displays :
+* Total fats ( mentioned also as Fatty Acids or Total lipid )
   * Saturated fats
   * (unsaturated) Monounsaturated fats
   * (unsaturated) Polyunsaturated fats `limited`
@@ -752,7 +752,7 @@ Then they are **essential micronutrients** that play various roles in the body f
 | Folic Acid                    |  Vitamin (Water-Soluble) | DNA synthesis, cell division, and pregnancy support |
 | Folate                        |  Vitamin (Water-Soluble) | Essential for DNA synthesis and cell growth         |
 
-For all the above, those play **multiple roles** in different body functions :
+For all the above, those play **multiple roles** in different body functions are :  
 * `Iron`: Is involved in oxygen transport in the blood, making it crucial for energy production and overall body function. It is also essential for the formation of hemoglobin and myoglobin, which are responsible for carrying oxygen to the body's cells and muscles.
 * `Magnesium`: Muscle and Nerve Function / Energy Production / Heart Health / Bone Health / Blood Glucose Regulation / DNA and RNA Synthesis
 * `Zinc`: Immune System Support / Enzyme Function / Growth and Development / Skin Health / Vision / Taste and Smell / Wound Healing
