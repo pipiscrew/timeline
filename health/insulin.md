@@ -693,10 +693,10 @@ All of these types contain **trans fats** due to the refinement process.
 A nutrition label provides **information** about the **nutritional content** of a food product, helping consumers make informed **choices** about their diet by listing the amounts of various nutrients and ingredients.  
 
 Displays :
-* Total fats ( mentioned also as Fatty Acids or Total lipid )
+* Total fats ( mentioned also as Fatty Acids or Total Lipid )
   * Saturated fats
-  * (unsaturated) Monounsaturated fats
-  * (unsaturated) Polyunsaturated fats `limited`
+  * Mono**un**saturated fats
+  * Poly**un**saturated fats `limited`
     * Omega-3
     * Omega-6
   * Trans fats `avoid` -  are artificially created unsaturated fats.
