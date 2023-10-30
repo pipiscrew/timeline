@@ -720,44 +720,38 @@ Displays :
 
 Then they are **essential micronutrients** that play various roles in the body functioning :
 
-| Nutrient                      | Category                 | Good for                                            |
-| ----------------------------- | ------------------------ | --------------------------------------------------- |
-| Calcium                       | Mineral                  | Bone and teeth health                               |
-| Iron                          | Mineral                  | Oxygen transport in blood                           |
-| Magnesium                     | Mineral                  | Muscle and nerve function                           |
-| Phosphorus                    | Mineral                  | Bone and cell structure                             |
-| Potassium                     | Mineral                  | Nerve function and fluid balance                    |
-| Sodium                        | Mineral                  | Fluid balance and nerve function                    |
-| Zinc                          | Mineral                  | Immune system support                               |
-| Copper                        | Mineral                  | Iron metabolism and tissue health                   |
-| Manganese                     | Mineral                  | Bone formation and antioxidant activity             |
-| Selenium                      | Mineral                  | Antioxidant protection and thyroid function         |
-| Vitamin A                     |  Vitamin (Fat-Soluble)   | Vision, immune function, and skin health            |
-| Retinol                       |  Vitamin (Fat-Soluble)   | Form of vitamin A                                   |
-| Beta-Carotene                 |  Vitamin (Fat-Soluble)   | Vitamin A precursor, antioxidant                    |
-| Alpha-Carotene                |  Vitamin (Fat-Soluble)   | Antioxidant, converts to vitamin A                  |
-| Vitamin E                     |  Vitamin (Fat-Soluble)   | Antioxidant, skin and immune health                 |
-| Beta-Cryptoxanthin            |  Vitamin (Fat-Soluble)   | Antioxidant, immune support                         |
-| Lycopene                      |  Vitamin (Fat-Soluble)   | Antioxidant, associated with heart health           |
-| Lutein + Zeaxanthin           |  Vitamin (Fat-Soluble)   | Eye health, particularly the macula                 |
-| Vitamin K                     |  Vitamin (Fat-Soluble)   | Blood clotting and bone health                      |
-| Vitamin C                     |  Vitamin (Water-Soluble) | Collagen production, immune support                 |
-| Thiamin (Vitamin B1)          |  Vitamin (Water-Soluble) | Energy metabolism, nerve function                   |
-| Riboflavin (Vitamin B2)       |  Vitamin (Water-Soluble) | Energy production, eye and skin health              |
-| Niacin (Vitamin B3)           |  Vitamin (Water-Soluble) | Energy metabolism, skin and nerve health            |
-| Pantothenic Acid (Vitamin B5) |  Vitamin (Water-Soluble) | Energy metabolism and adrenal function              |
-| Vitamin B6                   |  Vitamin (Water-Soluble) | Amino acid metabolism, nerve function               |
-| Vitamin B12                  |  Vitamin (Water-Soluble) | Nerve function and red blood cell formation         |
-| Folic Acid                    |  Vitamin (Water-Soluble) | DNA synthesis, cell division, and pregnancy support |
-| Folate                        |  Vitamin (Water-Soluble) | Essential for DNA synthesis and cell growth         |
+| Nutrient                      | Category                 | Functions                                                                                                                                      |
+| ----------------------------- | ------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------- |
+| Calcium                       | Mineral                  | Bone and teeth health and muscle function, nerve transmission, blood clotting, and cell signaling                                              |
+| Iron                          | Mineral                  | Oxygen transport in blood                                                                                                                      |
+| Magnesium                     | Mineral                  | Muscle and nerve function                                                                                                                      |
+| Phosphorus                    | Mineral                  | Bone and cell structure                                                                                                                        |
+| Potassium                     | Mineral                  | Nerve function and fluid balance, important for muscle contraction and maintaining heart rhythm                                                |
+| Sodium                        | Mineral                  | Fluid balance and nerve function, essential component in many biochemical processes in the body                                                |
+| Zinc                          | Mineral                  | Immune system support                                                                                                                          |
+| Copper                        | Mineral                  | Iron metabolism and tissue health                                                                                                              |
+| Manganese                     | Mineral                  | Bone formation and antioxidant activity                                                                                                        |
+| Selenium                      | Mineral                  | Antioxidant protection and thyroid function                                                                                                    |
+| Vitamin A                     |  Vitamin (Fat-Soluble)   | Vision, immune function, and skin health                                                                                                       |
+| Retinol                       |  Vitamin (Fat-Soluble)   | Form of vitamin A                                                                                                                              |
+| Beta-Carotene                 |  Vitamin (Fat-Soluble)   | Vitamin A precursor, antioxidant                                                                                                               |
+| Alpha-Carotene                |  Vitamin (Fat-Soluble)   | Antioxidant, converts to vitamin A                                                                                                             |
+| Vitamin E                     |  Vitamin (Fat-Soluble)   | Antioxidant, skin and immune health                                                                                                            |
+| Beta-Cryptoxanthin            |  Vitamin (Fat-Soluble)   | Antioxidant, immune support                                                                                                                    |
+| Lycopene                      |  Vitamin (Fat-Soluble)   | Antioxidant, associated with heart health                                                                                                      |
+| Lutein + Zeaxanthin           |  Vitamin (Fat-Soluble)   | Eye health, particularly the macula                                                                                                            |
+| Vitamin K                     |  Vitamin (Fat-Soluble)   | Blood clotting and bone health, contributing to heart health and regulating calcium metabolism                                                 |
+| Vitamin C                     |  Vitamin (Water-Soluble) | Collagen production, immune support. antioxidant that helps protect cells from damage caused by free radicals and is involved in wound healing |
+| Thiamin (Vitamin B1)          |  Vitamin (Water-Soluble) | Energy metabolism, nerve function                                                                                                              |
+| Riboflavin (Vitamin B2)       |  Vitamin (Water-Soluble) | Energy production, eye and skin health                                                                                                         |
+| Niacin (Vitamin B3)           |  Vitamin (Water-Soluble) | Energy metabolism, skin and nerve health                                                                                                       |
+| Pantothenic Acid (Vitamin B5) |  Vitamin (Water-Soluble) | Energy metabolism and adrenal function                                                                                                         |
+| Vitamin B6                    |  Vitamin (Water-Soluble) | Amino acid metabolism, nerve function                                                                                                          |
+| Vitamin B12                   |  Vitamin (Water-Soluble) | Nerve function and red blood cell formation, plays a role in DNA synthesis                                                                     |
+| Folic Acid                    |  Vitamin (Water-Soluble) | DNA synthesis, cell division, and pregnancy support                                                                                            |
+| Folate                        |  Vitamin (Water-Soluble) | Essential for DNA synthesis and cell growth                                                                                                    |
 
-For all the above, those play **multiple roles** in different body functions are :  
+The crucial ones :  
 * `Iron`: Is involved in oxygen transport in the blood, making it crucial for energy production and overall body function. It is also essential for the formation of hemoglobin and myoglobin, which are responsible for carrying oxygen to the body's cells and muscles.
 * `Magnesium`: Muscle and Nerve Function / Energy Production / Heart Health / Bone Health / Blood Glucose Regulation / DNA and RNA Synthesis [detail](https://pipiscrew.github.io/timeline/assets/magnesium.png)
 * `Zinc`: Immune System Support / Enzyme Function / Growth and Development / Skin Health / Vision / Taste and Smell / Wound Healing [detail](https://pipiscrew.github.io/timeline/assets/zinc.png)
-* **Calcium**: Is essential not only for bone and teeth health but also for muscle function, nerve transmission, blood clotting, and cell signaling.
-* **Sodium**: Plays a crucial role in fluid balance and nerve function, and it's also an essential component in many biochemical processes in the body.
-* **Potassium**: Similar to sodium, potassium is involved in nerve function and fluid balance, but it's also important for muscle contraction and maintaining heart rhythm.
-* **Vitamin C**: In addition to its role in collagen production and immune support, is an antioxidant that helps protect cells from damage caused by free radicals and is involved in wound healing.
-* **Vitamin B12**: Is essential for nerve function and red blood cell formation, and it also plays a role in DNA synthesis.
-* **Vitamin K**: Is involved in blood clotting and bone health, as well as contributing to heart health and regulating calcium metabolism.
