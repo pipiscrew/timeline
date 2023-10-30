@@ -699,11 +699,11 @@ Displays :
   * Poly**un**saturated fats `limited`
     * Omega-3
     * Omega-6
-  * Trans fats `avoid` -  are artificially created unsaturated fats.
+  * Trans fats `avoid` - are artificially created unsaturated fats.
 * Total Carbohydrates
   * Fiber
   * Sugars `avoid`
-  * Starch `avoid`
+  * Starch `avoid` - potatoes, bread, and pasta (complex carbohydrate)
   * and in detail, includes also `avoid`
     * Monosaccharides - sugar
     * Polysaccharides - starch
@@ -769,7 +769,7 @@ Emphasis to the following multipurpose elements :
   * **Growth and Development**: Zinc is critical for normal growth, especially in children, and overall development.
   * **Skin Health**: It helps maintain healthy skin, and it's used in some skin creams and ointments.
   * **Vision**: Zinc is present in high concentrations in the eye, specifically the retina, and is involved in visual processes.
-* `Vitamin D3` (main source is sunlight, then diet, as supplement known as cholecalciferol)
+* `Vitamin D3` (main source is sunlight, then diet, as supplement known as cholecalciferol or calciferol)
   * **Bone Health**: Essential for calcium absorption and strong bones.
   * **Immune Support**: Enhances immune system function.
   * **Cell Growth and Regulation**: Regulates cell growth and functioning.
