@@ -741,7 +741,7 @@ Then they are **essential micronutrients** that play various roles in the body f
 | Lycopene                      |  Vitamin (Fat-Soluble)   | Antioxidant, associated with heart health                                                                                                      |
 | Lutein + Zeaxanthin           |  Vitamin (Fat-Soluble)   | Eye health, particularly the macula                                                                                                            |
 | Vitamin K                     |  Vitamin (Fat-Soluble)   | Blood clotting and bone health, contributing to heart health and regulating calcium metabolism                                                 |
-| Vitamin C                     |  Vitamin (Water-Soluble) | Collagen production, immune support. antioxidant that helps protect cells from damage caused by free radicals and is involved in wound healing |
+| Vitamin C                     |  Vitamin (Water-Soluble) | Collagen production, immune support, antioxidant protect cells from damage, wound healing |
 | Thiamin (Vitamin B1)          |  Vitamin (Water-Soluble) | Energy metabolism, nerve function                                                                                                              |
 | Riboflavin (Vitamin B2)       |  Vitamin (Water-Soluble) | Energy production, eye and skin health                                                                                                         |
 | Niacin (Vitamin B3)           |  Vitamin (Water-Soluble) | Energy metabolism, skin and nerve health                                                                                                       |
@@ -751,7 +751,20 @@ Then they are **essential micronutrients** that play various roles in the body f
 | Folic Acid                    |  Vitamin (Water-Soluble) | DNA synthesis, cell division, and pregnancy support                                                                                            |
 | Folate                        |  Vitamin (Water-Soluble) | Essential for DNA synthesis and cell growth                                                                                                    |
 
-The crucial ones :  
+Emphasis to the following minerals :  
 * `Iron`: Is involved in oxygen transport in the blood, making it crucial for energy production and overall body function. It is also essential for the formation of hemoglobin and myoglobin, which are responsible for carrying oxygen to the body's cells and muscles.
-* `Magnesium`: Muscle and Nerve Function / Energy Production / Heart Health / Bone Health / Blood Glucose Regulation / DNA and RNA Synthesis [detail](https://pipiscrew.github.io/timeline/assets/magnesium.png)
-* `Zinc`: Immune System Support / Enzyme Function / Growth and Development / Skin Health / Vision / Taste and Smell / Wound Healing [detail](https://pipiscrew.github.io/timeline/assets/zinc.png)
+* `Magnesium`
+  * **Muscle and Nerve Function**: Magnesium is essential for muscle contraction and relaxation, as well as for the proper functioning of nerves.
+  * **Energy Production**: It plays a role in the conversion of food into energy and the synthesis of ATP (adenosine triphosphate), the body's primary energy currency.
+  * **Heart Health**: Magnesium is crucial for maintaining a regular heartbeat and supporting overall cardiovascular health.
+  * **Bone Health**: It contributes to bone density and bone health by assisting with calcium absorption.
+  * **Blood Glucose Regulation**: Magnesium is involved in insulin action and helps regulate blood sugar levels.
+  * **DNA and RNA Synthesis**: It is necessary for the synthesis and repair of DNA and RNA, the genetic material in our cells.
+* `Zinc`
+  * **Immune System Support**: Zinc is vital for a well-functioning immune system, aiding in the production and function of immune cells.
+  * **Wound Healing**: It is essential for tissue repair and wound healing.
+  * **Enzyme Function**: Zinc is a cofactor for numerous enzymes involved in various metabolic processes, such as protein and DNA synthesis.
+  * **Taste and Smell**: It plays a role in our ability to taste and smell.
+  * **Growth and Development**: Zinc is critical for normal growth, especially in children, and overall development.
+  * **Skin Health**: It helps maintain healthy skin, and it's used in some skin creams and ointments.
+  * **Vision**: Zinc is present in high concentrations in the eye, specifically the retina, and is involved in visual processes.
