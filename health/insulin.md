@@ -741,6 +741,7 @@ Then they are **essential micronutrients** that play various roles in the body f
 | Lycopene                      |  Vitamin (Fat-Soluble)   | Antioxidant, associated with heart health                                                                                                      |
 | Lutein + Zeaxanthin           |  Vitamin (Fat-Soluble)   | Eye health, particularly the macula                                                                                                            |
 | Vitamin K                     |  Vitamin (Fat-Soluble)   | Blood clotting and bone health, contributing to heart health and regulating calcium metabolism                                                 |
+| Vitamin D3                     |  Vitamin (Fat-Soluble)   | Bone health, calcium absorption, and immune support                                                                                            |
 | Vitamin C                     |  Vitamin (Water-Soluble) | Collagen production, immune support, antioxidant protect cells from damage, wound healing |
 | Thiamin (Vitamin B1)          |  Vitamin (Water-Soluble) | Energy metabolism, nerve function                                                                                                              |
 | Riboflavin (Vitamin B2)       |  Vitamin (Water-Soluble) | Energy production, eye and skin health                                                                                                         |
@@ -768,7 +769,7 @@ Emphasis to the following multipurpose elements :
   * **Growth and Development**: Zinc is critical for normal growth, especially in children, and overall development.
   * **Skin Health**: It helps maintain healthy skin, and it's used in some skin creams and ointments.
   * **Vision**: Zinc is present in high concentrations in the eye, specifically the retina, and is involved in visual processes.
-* `Vitamind D` (aka calciferol)
+* `Vitamind D3` (main source is sunlight, then diet, as supplement known as cholecalciferol)
   * **Bone Health**: Essential for calcium absorption and strong bones.
   * **Immune Support**: Enhances immune system function.
   * **Cell Growth and Regulation**: Regulates cell growth and functioning.
