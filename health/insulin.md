@@ -753,8 +753,8 @@ Then they are **essential micronutrients** that play various roles in the body f
 
 For all the above, those play **multiple roles** in different body functions are :  
 * `Iron`: Is involved in oxygen transport in the blood, making it crucial for energy production and overall body function. It is also essential for the formation of hemoglobin and myoglobin, which are responsible for carrying oxygen to the body's cells and muscles.
-* `Magnesium`: Muscle and Nerve Function / Energy Production / Heart Health / Bone Health / Blood Glucose Regulation / DNA and RNA Synthesis
-* `Zinc`: Immune System Support / Enzyme Function / Growth and Development / Skin Health / Vision / Taste and Smell / Wound Healing
+* `Magnesium`: Muscle and Nerve Function / Energy Production / Heart Health / Bone Health / Blood Glucose Regulation / DNA and RNA Synthesis [detail](../assets/magnesium.png)
+* `Zinc`: Immune System Support / Enzyme Function / Growth and Development / Skin Health / Vision / Taste and Smell / Wound Healing [detail](../assets/zinc.png)
 * **Calcium**: Is essential not only for bone and teeth health but also for muscle function, nerve transmission, blood clotting, and cell signaling.
 * **Sodium**: Plays a crucial role in fluid balance and nerve function, and it's also an essential component in many biochemical processes in the body.
 * **Potassium**: Similar to sodium, potassium is involved in nerve function and fluid balance, but it's also important for muscle contraction and maintaining heart rhythm.
