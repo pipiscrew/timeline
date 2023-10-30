@@ -688,3 +688,77 @@ It's generally advisable to wait **at least 30 minutes to 1 hour after a meal** 
 * **Sunflower oil** from the seeds of the [sunflower](https://youtu.be/LatgukbcTVk?t=388). Top producing countries are Ukraine, Russia, Argentina, Turkey.  
 
 All of these types contain **trans fats** due to the refinement process.  
+
+## nutrition table explained
+A nutrition label provides **information** about the **nutritional content** of a food product, helping consumers make informed **choices** about their diet by listing the amounts of various nutrients and ingredients.  
+
+Displays :  
+* Total fats ( mentioned also as Fatty Acids or Total lipid)
+  * Saturated fats
+  * (unsaturated) Monounsaturated fats
+  * (unsaturated) Polyunsaturated fats `limited`
+    * Omega-3
+    * Omega-6
+  * Trans fats `avoid` -  are artificially created unsaturated fats.
+* Total Carbohydrates
+  * Fiber
+  * Sugars `avoid`
+  * Starch `avoid`
+  * and in detail view includes also `avoid`
+    * Monosaccharides - sugar
+    * Polysaccharides - starch
+    * Disaccharide - sugar
+    * Glucose - blood sugar, the primary source of energy for the body.
+    * Fructose - sugar, found in fruits and honey.
+    * Oligosaccharide - sugar, found in legumes and beans.
+    * Sucrose - table sugar
+    * Maltose - sugar, found in malted foods and beverages.
+    * Lactose - sugar naturally present in milk and dairy products.
+    * Galactose - sugar naturally present in milk and dairy products.
+
+* Cholesterol `limited` - waxy substance found in animal-based foods and is associated with heart health.
+* Protein  
+
+Then they are **essential micronutrients** that play various roles in the body functioning :
+
+| Nutrient                      | Category                 | Good for                                            |
+| ----------------------------- | ------------------------ | --------------------------------------------------- |
+| Calcium                       | Mineral                  | Bone and teeth health                               |
+| Iron                          | Mineral                  | Oxygen transport in blood                           |
+| Magnesium                     | Mineral                  | Muscle and nerve function                           |
+| Phosphorus                    | Mineral                  | Bone and cell structure                             |
+| Potassium                     | Mineral                  | Nerve function and fluid balance                    |
+| Sodium                        | Mineral                  | Fluid balance and nerve function                    |
+| Zinc                          | Mineral                  | Immune system support                               |
+| Copper                        | Mineral                  | Iron metabolism and tissue health                   |
+| Manganese                     | Mineral                  | Bone formation and antioxidant activity             |
+| Selenium                      | Mineral                  | Antioxidant protection and thyroid function         |
+| Vitamin A                     |  Vitamin (Fat-Soluble)   | Vision, immune function, and skin health            |
+| Retinol                       |  Vitamin (Fat-Soluble)   | Form of vitamin A                                   |
+| Beta-Carotene                 |  Vitamin (Fat-Soluble)   | Vitamin A precursor, antioxidant                    |
+| Alpha-Carotene                |  Vitamin (Fat-Soluble)   | Antioxidant, converts to vitamin A                  |
+| Vitamin E                     |  Vitamin (Fat-Soluble)   | Antioxidant, skin and immune health                 |
+| Beta-Cryptoxanthin            |  Vitamin (Fat-Soluble)   | Antioxidant, immune support                         |
+| Lycopene                      |  Vitamin (Fat-Soluble)   | Antioxidant, associated with heart health           |
+| Lutein + Zeaxanthin           |  Vitamin (Fat-Soluble)   | Eye health, particularly the macula                 |
+| Vitamin K                     |  Vitamin (Fat-Soluble)   | Blood clotting and bone health                      |
+| Vitamin C                     |  Vitamin (Water-Soluble) | Collagen production, immune support                 |
+| Thiamin (Vitamin B1)          |  Vitamin (Water-Soluble) | Energy metabolism, nerve function                   |
+| Riboflavin (Vitamin B2)       |  Vitamin (Water-Soluble) | Energy production, eye and skin health              |
+| Niacin (Vitamin B3)           |  Vitamin (Water-Soluble) | Energy metabolism, skin and nerve health            |
+| Pantothenic Acid (Vitamin B5) |  Vitamin (Water-Soluble) | Energy metabolism and adrenal function              |
+| Vitamin B-6                   |  Vitamin (Water-Soluble) | Amino acid metabolism, nerve function               |
+| Vitamin B-12                  |  Vitamin (Water-Soluble) | Nerve function and red blood cell formation         |
+| Folic Acid                    |  Vitamin (Water-Soluble) | DNA synthesis, cell division, and pregnancy support |
+| Folate                        |  Vitamin (Water-Soluble) | Essential for DNA synthesis and cell growth         |
+
+For all the above, those play **multiple roles** in different body functions :
+* `Iron`: Is involved in oxygen transport in the blood, making it crucial for energy production and overall body function. It is also essential for the formation of hemoglobin and myoglobin, which are responsible for carrying oxygen to the body's cells and muscles.
+* `Magnesium`: Muscle and Nerve Function / Energy Production / Heart Health / Bone Health / Blood Glucose Regulation / DNA and RNA Synthesis
+* `Zinc`: Immune System Support / Enzyme Function / Growth and Development / Skin Health / Vision / Taste and Smell / Wound Healing
+* **Calcium**: Is essential not only for bone and teeth health but also for muscle function, nerve transmission, blood clotting, and cell signaling.
+* **Sodium**: Plays a crucial role in fluid balance and nerve function, and it's also an essential component in many biochemical processes in the body.
+* **Potassium**: Similar to sodium, potassium is involved in nerve function and fluid balance, but it's also important for muscle contraction and maintaining heart rhythm.
+* **Vitamin C**: In addition to its role in collagen production and immune support, is an antioxidant that helps protect cells from damage caused by free radicals and is involved in wound healing.
+* **Vitamin B-12**: Is essential for nerve function and red blood cell formation, and it also plays a role in DNA synthesis.
+* **Vitamin K**: Is involved in blood clotting and bone health, as well as contributing to heart health and regulating calcium metabolism.
