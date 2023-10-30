@@ -715,7 +715,6 @@ Displays :
     * Maltose - sugar, found in malted foods and beverages.
     * Lactose - sugar naturally present in milk and dairy products.
     * Galactose - sugar naturally present in milk and dairy products.
-
 * Cholesterol `limited` - waxy substance found in animal-based foods and is associated with heart health.
 * Protein  
 
