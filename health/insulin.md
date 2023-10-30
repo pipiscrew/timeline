@@ -746,8 +746,8 @@ Then they are **essential micronutrients** that play various roles in the body f
 | Riboflavin (Vitamin B2)       |  Vitamin (Water-Soluble) | Energy production, eye and skin health              |
 | Niacin (Vitamin B3)           |  Vitamin (Water-Soluble) | Energy metabolism, skin and nerve health            |
 | Pantothenic Acid (Vitamin B5) |  Vitamin (Water-Soluble) | Energy metabolism and adrenal function              |
-| Vitamin B-6                   |  Vitamin (Water-Soluble) | Amino acid metabolism, nerve function               |
-| Vitamin B-12                  |  Vitamin (Water-Soluble) | Nerve function and red blood cell formation         |
+| Vitamin B6                   |  Vitamin (Water-Soluble) | Amino acid metabolism, nerve function               |
+| Vitamin B12                  |  Vitamin (Water-Soluble) | Nerve function and red blood cell formation         |
 | Folic Acid                    |  Vitamin (Water-Soluble) | DNA synthesis, cell division, and pregnancy support |
 | Folate                        |  Vitamin (Water-Soluble) | Essential for DNA synthesis and cell growth         |
 
@@ -759,5 +759,5 @@ For all the above, those play **multiple roles** in different body functions are
 * **Sodium**: Plays a crucial role in fluid balance and nerve function, and it's also an essential component in many biochemical processes in the body.
 * **Potassium**: Similar to sodium, potassium is involved in nerve function and fluid balance, but it's also important for muscle contraction and maintaining heart rhythm.
 * **Vitamin C**: In addition to its role in collagen production and immune support, is an antioxidant that helps protect cells from damage caused by free radicals and is involved in wound healing.
-* **Vitamin B-12**: Is essential for nerve function and red blood cell formation, and it also plays a role in DNA synthesis.
+* **Vitamin B12**: Is essential for nerve function and red blood cell formation, and it also plays a role in DNA synthesis.
 * **Vitamin K**: Is involved in blood clotting and bone health, as well as contributing to heart health and regulating calcium metabolism.
