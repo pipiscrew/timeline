@@ -751,7 +751,7 @@ Then they are **essential micronutrients** that play various roles in the body f
 | Folic Acid                    |  Vitamin (Water-Soluble) | DNA synthesis, cell division, and pregnancy support                                                                                            |
 | Folate                        |  Vitamin (Water-Soluble) | Essential for DNA synthesis and cell growth                                                                                                    |
 
-Emphasis to the following minerals :  
+Emphasis to the following multipurpose elements :  
 * `Iron`: Is involved in oxygen transport in the blood, making it crucial for energy production and overall body function. It is also essential for the formation of hemoglobin and myoglobin, which are responsible for carrying oxygen to the body's cells and muscles.
 * `Magnesium`
   * **Muscle and Nerve Function**: Magnesium is essential for muscle contraction and relaxation, as well as for the proper functioning of nerves.
@@ -768,3 +768,11 @@ Emphasis to the following minerals :
   * **Growth and Development**: Zinc is critical for normal growth, especially in children, and overall development.
   * **Skin Health**: It helps maintain healthy skin, and it's used in some skin creams and ointments.
   * **Vision**: Zinc is present in high concentrations in the eye, specifically the retina, and is involved in visual processes.
+* `Vitamind D` (aka calciferol)
+  * **Bone Health**: Essential for calcium absorption and strong bones.
+  * **Immune Support**: Enhances immune system function.
+  * **Cell Growth and Regulation**: Regulates cell growth and functioning.
+  * **Hormone Regulation**: Controls insulin and parathyroid hormone levels.
+  * **Mood and Mental Health**: Influences mood and overall mental well-being.
+  * **Muscle Function**: Essential for muscle health and strength.
+  * **Autoimmune Diseases**: Associated with autoimmune disease prevention.
