@@ -769,7 +769,7 @@ Emphasis to the following multipurpose elements :
   * **Growth and Development**: Zinc is critical for normal growth, especially in children, and overall development.
   * **Skin Health**: It helps maintain healthy skin, and it's used in some skin creams and ointments.
   * **Vision**: Zinc is present in high concentrations in the eye, specifically the retina, and is involved in visual processes.
-* `Vitamind D3` (main source is sunlight, then diet, as supplement known as cholecalciferol)
+* `Vitamin D3` (main source is sunlight, then diet, as supplement known as cholecalciferol)
   * **Bone Health**: Essential for calcium absorption and strong bones.
   * **Immune Support**: Enhances immune system function.
   * **Cell Growth and Regulation**: Regulates cell growth and functioning.
