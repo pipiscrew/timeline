@@ -704,7 +704,7 @@ Displays :
   * Fiber
   * Sugars `avoid`
   * Starch `avoid`
-  * and in detail view includes also `avoid`
+  * and in detail, includes also `avoid`
     * Monosaccharides - sugar
     * Polysaccharides - starch
     * Disaccharide - sugar
