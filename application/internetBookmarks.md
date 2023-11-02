@@ -258,6 +258,8 @@
 * [archive.today](https://archive.is/) - personal Wayback Machine [[2](https://archive.ph/)]
 * [dwnld](https://dwnld.net/) - url shortener
 * [dref](https://dref.xyz/) - url shortener
+* [href](https://href.li/) - block the referrer
+* [anonymz](https://anonymz.com/) - block the referrer
 
 ## virus scan
 * [google.virus total](https://www.virustotal.com/)

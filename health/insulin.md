@@ -695,11 +695,13 @@ A nutrition label provides **information** about the **nutritional content** of 
 Displays :
 * Total fats ( mentioned also as Fatty Acids or Total Lipid )
   * Saturated fats
+    * Medium chain triglycerides (MCTs) - fats made in a lab from coconut and palm kernel oils (caprylic acid / capric acid / lauric acid).
   * Mono**un**saturated fats
   * Poly**un**saturated fats `limited`
     * Omega-3
     * Omega-6
   * Trans fats `avoid` - are artificially created unsaturated fats.
+  * Triglycerides `limited` - a combination of saturated, monounsaturated, and polyunsaturated fatty acids.
 * Total Carbohydrates
   * Fiber
   * Sugars `avoid`
@@ -715,6 +717,7 @@ Displays :
     * Maltose - sugar, found in malted foods and beverages.
     * Lactose - sugar naturally present in milk and dairy products.
     * Galactose - sugar naturally present in milk and dairy products.
+    * Polyols - sugar
 * Cholesterol `limited` - waxy substance found in animal-based foods and is associated with heart health.
 * Protein  
 
@@ -776,4 +779,12 @@ Emphasis to the following multipurpose elements :
   * **Hormone Regulation**: Controls insulin and parathyroid hormone levels.
   * **Mood and Mental Health**: Influences mood and overall mental well-being.
   * **Muscle Function**: Essential for muscle health and strength.
-  * **Autoimmune Diseases**: Associated with autoimmune disease prevention.
+  * **Autoimmune Diseases**: Associated with autoimmune disease prevention.  
+
+
+loved side dish :
+* chop to blender 2-3 **carrot** and a **garlic** clove
+* 2 cherry **tomatoes** cutted in half
+* (optionally small **onion** hand cutted)
+* 1 tblspoon **butter** to pot once melted, add the ingredients to pot (low temperature)
+* **simmer** for 4-6min, **stirring** occasionally
