@@ -286,6 +286,7 @@
 * [GPU-Z](https://www.techpowerup.com/download/gpu-z/) - information about your video card and graphics processor
 * [HWiNFO](https://www.hwinfo.com/)
 * [HWMonitor](https://www.cpuid.com/softwares/hwmonitor.html) - monitoring program that reads PC systems main health sensors : voltages, temperatures, fans speed
+* [openhardwaremonitor](https://openhardwaremonitor.org/) - CPU temperature / sensors of ATI and Nvidia video cards / SMART hard drive temperature
 
 ## office suite
 * [LibreOffice](https://www.libreoffice.org/)

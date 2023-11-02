@@ -69,6 +69,7 @@
 * [ezgif](https://ezgif.com/) - gif/webp support
 * [Squoosh](https://squoosh.app) - for image
 * [Vertexshare.Image Upscaler by AI](https://vertexshare.com/image-upscaler.html) - Upscale and increase image size and resolution without losing quality.
+* [upscale.media](https://www.upscale.media/upload) - Upscale
 * [Teorex.Inpaint](https://theinpaint.com/) - Remove unwanted objects on images
 * (client side) [Local PDF Tools](https://localpdf.tech/)
 * [CleverPDF](https://www.cleverpdf.com) - the best for (optimize) compress PDF

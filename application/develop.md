@@ -131,6 +131,7 @@ sqlcmd -E -S .\sqlexpress -Q "RESTORE DATABASE test FROM DISK='c:\demo.bak'"
 
 --execute sql file - https://docs.microsoft.com/en-us/sql/ssms/scripting/sqlcmd-run-transact-sql-script-files?view=sql-server-ver15  
 sqlcmd -E -S .\sqlexpress -i a.sql  
+sqlcmd -S.\sqlexpress -i c:\testDB.sql -Ppasswordur -o c:\output.txt -U sa -d testDB  
 
 --
 

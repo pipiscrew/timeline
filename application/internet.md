@@ -20,6 +20,8 @@ To find the profile currently is use navigate to `chrome://version`.
 
 To start with specific profile, `chrome.exe --user-data-dir=c:\foo`  
 
+Service Workers - `chrome://serviceworker-internals/`  
+
 2022 - [Memory Saver](https://blog.google/products/chrome/new-chrome-features-to-save-battery-and-make-browsing-smoother/) for [brave](https://support.brave.com/hc/en-us/articles/13383683902733-How-do-I-use-the-Memory-Saver-feature-in-Brave)  
 
 * [CRXcavator](https://crxcavator.io/) 
