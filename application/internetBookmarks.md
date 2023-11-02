@@ -345,9 +345,10 @@
 
 ## food
 * [inch calculator](https://www.inchcalculator.com/convert/butter/) - cooking unit conversion
+* [verywellfit.Recipe Nutrition Calculator](https://www.verywellfit.com/recipe-nutrition-analyzer-4157076)
+* (best) [uni nutrition values](https://www.urmc.rochester.edu/encyclopedia/content.aspx?contenttypeid=76&contentid=11215-4)
 * [nutrition value](https://www.nutritionvalue.org/) - find nutritional value of a product
-* [uni nutrition values](https://www.urmc.rochester.edu/encyclopedia/content.aspx?contenttypeid=76&contentid=11215-4)
-* [recipe nutrition calculator](https://www.verywellfit.com/recipe-nutrition-analyzer-4157076)
+* [nutritionix](https://www.nutritionix.com/)
 
 ## drawing
 * [tldraw](https://www.tldraw.com/) - whiteboard [github](https://github.com/tldraw/tldraw)
