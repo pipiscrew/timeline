@@ -347,6 +347,7 @@
 * [inch calculator](https://www.inchcalculator.com/convert/butter/) - cooking unit conversion
 * [verywellfit.Recipe Nutrition Calculator](https://www.verywellfit.com/recipe-nutrition-analyzer-4157076)
 * (best) [uni nutrition values](https://www.urmc.rochester.edu/encyclopedia/content.aspx?contenttypeid=76&contentid=11215-4)
+* [US FoodData Central - SR Legacy Foods](https://fdc.nal.usda.gov/)  
 * [nutrition value](https://www.nutritionvalue.org/) - find nutritional value of a product
 * [nutritionix](https://www.nutritionix.com/)
 
