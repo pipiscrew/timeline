@@ -274,6 +274,7 @@ The sequence is :
 
 ## Games
 * [eXoDOS](http://exodos.the-eye.us/)
+  * (2023) [v6](https://www.retro-exo.com/exodos.html)
 * [Open Source Game Clones](https://osgameclones.com/)
 * [Superfrog Remake](https://www.lithiumdream.com/)  
 * [Prince of Persia](https://www.popot.org/get_the_games.php?game=SDLPoP) ([src](https://github.com/NagyD/SDLPoP))  
