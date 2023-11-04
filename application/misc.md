@@ -249,6 +249,7 @@ The sequence is :
 
 ## Video
 * [SMPlayer](https://www.smplayer.info/)
+* [kdenlive](https://kdenlive.org/) - open source video editor
 
 ## Chat
 * [BeeBEEP](https://www.beebeep.net/) - serverless app for intranet use only
