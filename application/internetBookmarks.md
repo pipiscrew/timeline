@@ -7,6 +7,7 @@
 * [LibGen](https://libgen.me/) - Collecting and cataloging scientific & technical ebooks
   * [sued by textbook publishers](arstechnica.com/tech-policy/2023/09/most-notorious-illegal-shadow-library-sued-by-textbook-publishers/)
 * [Library Genesis](https://libgen.is/)
+* [Anna Archive](https://annas-archive.org/)
 * [Freecomputerbooks](https://freecomputerbooks.com/)
 * [arXiv](https://arxiv.org/) - Search an archive for millions scholarly articles in the fields of physics, mathematics, computer science, quantitative biology, quantitative finance, statistics, electrical engineering and systems science, and economics.  
 * [Google.Scholar](https://scholar.google.gr/scholar?hl=en&q=gmo) - Freely accessible web search engine that indexes the full text or metadata of scholarly literature
