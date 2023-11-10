@@ -592,7 +592,7 @@ Staying on this ride is a **losing battle**. But this can be the past ... if we 
 
 > And in this future, all we need, is [love](https://www.youtube.com/watch?v=Oflegc79QB4).  
 
-Supplements with [adaptogenic](https://www.uclahealth.org/news/what-are-adaptogens-and-should-you-be-taking-them) (aka herbs and spices) `soothe and tone the endocannibinoid system`, aiding in balance restoration.  
+[Adaptogenic](https://www.uclahealth.org/news/what-are-adaptogens-and-should-you-be-taking-them) supplements (herbs and spices and mushrooms) with `soothe and tone the endocannibinoid system`, aiding in balance restoration.  
 
 <center> --<>-- </center>  
 </br>  
