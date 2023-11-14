@@ -28,6 +28,7 @@
 * [DbVisualizer](https://www.dbvis.com/)  - (JRE) MySQL, PostgreSQL, SQLite, Oracle, DB2, SQL Server, Sybase, MS Access, Teradata, Firebird, Apache Hive, Phoenix, Presto++  
   * (replica) [DBeaver](https://dbeaver.io/)
 * [MDB Viewer Plus](http://www.alexnolan.net/software/mdb_viewer_plus.htm)
+* [ERD](https://erdplus.com/) - online database modeling tool
 
 ## git
 * [git minimal](https://www.nuget.org/packages/Git-Windows-Minimal/) - Git-Bash, Git-Gui, PERL, Python, and Tcl are excluded. Download rename it to rar, copy the **tools** folder. Add to environment path the **cmd** folder. Behind firewall ? whitelist @ **g**it-http-fetch.exe **g**it-http-push.exe **g**it-remote-https.exe exist @ mingw64\bin.  Use the following :  

@@ -705,8 +705,8 @@ Displays :
   * Trans fats `avoid` - are artificially created unsaturated fats.
   * Triglycerides `limited` - a combination of saturated, monounsaturated, and polyunsaturated fatty acids.
 * Total Carbohydrates
-  * Fiber
-  * Sugars `avoid`
+  * Fiber (complex carbohydrate)
+  * Sugars `avoid` (simple carbohydrate)
   * Starch `avoid` - potatoes, bread, and pasta (complex carbohydrate)
   * and in detail, includes also `avoid`
     * Monosaccharides - sugar
