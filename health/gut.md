@@ -645,3 +645,4 @@ author notes
 * JUN 2022 [Electromagnetic radiation within bacterial communities](https://newsvoice.se/2022/06/bacteria-olle-johansson/)
 * MAY 2023 [Eating broccoli or cabbage helps limit skin allergies](https://euro.dayfr.com/health/202262.html) &nbsp; [[GR](https://www.ieidiseis.gr/ygeia/198129/to-laxaniko-pou-meionei-ta-sovara-symptomata-tis-allergias)]
 * [Why has America settled on colonoscopies when most of the world has not?](https://asteriskmag.com/issues/04/you-re-invited-to-a-colonoscopy)
+* [Gut epithelial barrier damage caused by dishwasher detergents and rinse aids](https://www.sciencedirect.com/science/article/pii/S0091674922014774) ([doi](https://doi.org/10.1016/j.jaci.2022.10.020)) [[2](https://news.ycombinator.com/item?id=38275060)]- `alcohol ethoxylates (C12-15)`

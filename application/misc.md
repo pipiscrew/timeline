@@ -448,6 +448,10 @@ copy /b *.txt all.txt
 >echo My Lord all the files processed!  
 >pause  
 
+* Copy files from sub directories to one directory (without subfolder structure)
+>cd path\to\your\main\directory  
+>for /r %i in (*) do copy "%i" path\to\your\target\directory\  
+
 ## sample powershell scripts
 
 ```bash

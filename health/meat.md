@@ -146,3 +146,4 @@ credits @ Boris [BG]
  
  * [How to gain muscle mass on a vegan diet?](https://markmukhin.com/texts/vegan-diet101/)
  * [normal procedure undertaken by food processing facilities](https://old.reddit.com/r/Damnthatsinteresting/comments/12fhbst/injecting_meat_if_youve_not_seen_this_before_its/)
+ * [κοπές του μοσχαρίσιου κρέατος](https://www.ratpack.gr/manual/food-drink/story/25999/kathe-antras-ekei-exo-prepei-na-xerei-oles-tis-kopes-toy-mosxarisioy-kreatos)
