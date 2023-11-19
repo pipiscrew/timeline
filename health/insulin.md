@@ -723,7 +723,8 @@ Displays :
 * Cholesterol `limited` - waxy substance found in animal-based foods and is associated with heart health.
 * Protein  
 
-whole cane sugar types :  
+whole cane sugar types :
+
 | Type      | Origin                                  | Observation                                   |
 | --------- | --------------------------------------- | --------------------------------------------- |
 | Panela    | Latin America, Asia, Africa             | true whole cane sugars  (carbs 92gr in 100gr) |
