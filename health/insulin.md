@@ -706,7 +706,7 @@ Displays :
   * Triglycerides `limited` - a combination of saturated, monounsaturated, and polyunsaturated fatty acids.
 * Total Carbohydrates
   * Fiber (complex carbohydrate)
-  * Sugars `avoid` (simple carbohydrate)
+  * Sugars `avoid` (simple carbohydrate) - Panela is the true whole cane sugar, produced to Latin America, Asia, Africa, always has 92% carbs.
   * Starch `avoid` - potatoes, bread, and pasta (complex carbohydrate)
   * and in detail, includes also `avoid`
     * Monosaccharides - sugar
