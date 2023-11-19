@@ -725,13 +725,13 @@ Displays :
 
 whole cane sugar types :
 
-| Type      | Origin                                  | Observation                                   |
-| --------- | --------------------------------------- | --------------------------------------------- |
-| Panela    | Latin America, Asia, Africa             | true whole cane sugars  (carbs 92gr in 100gr) |
-| Sucanat   | trademark by Wholesome Sweeteners (USA) | true whole cane sugars                        |
-| Turbinado | Caribbean or Latin American countries   | not considered true whole cane sugars         |
-| Muscovado | Philippines, Barbados, and Mauritius    | not considered true whole cane sugars         |
-| Demerara  | Guyana                                  | not considered true whole cane sugars         |
+| Type      | Origin                                  | Observation                                  |
+| --------- | --------------------------------------- | -------------------------------------------- |
+| Panela    | Latin America, Asia, Africa             | true whole cane sugar  (carbs 92gr in 100gr) |
+| Sucanat   | trademark by Wholesome Sweeteners (USA) | true whole cane sugar                        |
+| Turbinado | Caribbean or Latin American countries   | not considered true whole cane sugar         |
+| Muscovado | Philippines, Barbados, and Mauritius    | not considered true whole cane sugar         |
+| Demerara  | Guyana                                  | not considered true whole cane sugar         |
 
 Then they are **essential micronutrients** that play various roles in the body functioning :
 
