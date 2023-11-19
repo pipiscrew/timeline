@@ -706,7 +706,7 @@ Displays :
   * Triglycerides `limited` - a combination of saturated, monounsaturated, and polyunsaturated fatty acids.
 * Total Carbohydrates
   * Fiber (complex carbohydrate)
-  * Sugars `avoid` (simple carbohydrate) - Panela is the true whole cane sugar, produced to Latin America, Asia, Africa, always has 92% carbs.
+  * Sugars `avoid` (simple carbohydrate)
   * Starch `avoid` - potatoes, bread, and pasta (complex carbohydrate)
   * and in detail, includes also `avoid`
     * Monosaccharides - sugar
@@ -722,6 +722,15 @@ Displays :
     * Polyols - sugar
 * Cholesterol `limited` - waxy substance found in animal-based foods and is associated with heart health.
 * Protein  
+
+whole cane sugar types :  
+| Type      | Origin                                  | Observation                                   |
+| --------- | --------------------------------------- | --------------------------------------------- |
+| Panela    | Latin America, Asia, Africa             | true whole cane sugars  (carbs 92gr in 100gr) |
+| Sucanat   | trademark by Wholesome Sweeteners (USA) | true whole cane sugars                        |
+| Turbinado | Caribbean or Latin American countries   | not considered true whole cane sugars         |
+| Muscovado | Philippines, Barbados, and Mauritius    | not considered true whole cane sugars         |
+| Demerara  | Guyana                                  | not considered true whole cane sugars         |
 
 Then they are **essential micronutrients** that play various roles in the body functioning :
 
