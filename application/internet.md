@@ -171,6 +171,7 @@ Chrome start with
   * [Snoozz](https://snoozz.me/)
   * [OneTab](https://chrome.google.com/webstore/detail/onetab/chphlpgkkbolifaimnlloiipkdnihall)
   * [Dummy Form Filler](https://github.com/ptomaszek/dummy-form-filler)
+  * [Automa](https://www.automa.site/) - Automate the browser by connecting blocks (free)
   * --CentBrowser Advised--
     * [Chrome Better History](http://www.centbrowser.com/crx/Chrome-Better-History_v3.3.crx)
     * [Imagus](https://chrome.google.com/webstore/detail/imagus/immpkjjlgappgfkkfieppnmlhakdmaab)

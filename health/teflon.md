@@ -42,3 +42,4 @@ and also blood tests, for 'cookware' derived :
 
 * [europarl.Removing ‘forever chemicals’ from everyday consumer products](https://www.europarl.europa.eu/doceo/document/E-9-2023-000898_EN.html) - Study which revealed that perfluorocarbons (PFC) as well as per- and polyfluoroalkyl substances (PFAS) are highly present in everyday consumer products.
 * [Australia moves to ban three ‘forever chemicals’ PFOA, PFOS and PFHxS](https://www.smh.com.au/national/australia-moves-to-ban-three-forever-chemicals-but-family-of-us-teen-say-more-needs-to-be-done-20231006-p5eac5.html)
+* [Americans largely unaware of PFAS chemicals](https://phys.org/news/2023-11-americans-oblivious-chemicals.html)

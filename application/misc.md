@@ -265,6 +265,7 @@ The sequence is :
 * [Ratiborus Digital Activation](https://nsaneforums.com/topic/317565-w10-digital-activation-program-v11-portable-ratiborus/) - windows (not for Enterprise edition)
 * [Office 2013-2021 C2R](https://free.appnee.com/office-2013-2021-c2r-install/) - downloader, installer, remover
 * [Office Unistaller](https://appnee.com/office-uninstall/)
+* [AtlasOS](https://atlasos.net/)
 * [Windows X-Lite](https://windowsxlite.com/ultralight/)
 * [LiteOS](https://archive.org/details/@liteos)
   * [Microsoft Windows 10](https://www.techworm.net/2022/08/download-windows-10-iso.html)
@@ -273,6 +274,7 @@ The sequence is :
   * [adguard](https://files.rg-adguard.net/)
   * [VC++ Redistributable 2015-2022](https://learn.microsoft.com/en-US/cpp/windows/latest-supported-vc-redist)
   * [NHV](https://nhvboot.com/download/)
+  * [archive.msdn-full](https://archive.org/download/msdn-full)
 
 ## Games
 * [eXoDOS](http://exodos.the-eye.us/)
