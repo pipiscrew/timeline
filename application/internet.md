@@ -151,6 +151,7 @@ Chrome start with
   * [Mozilla.Firefox Translations](https://addons.mozilla.org/en-US/firefox/addon/firefox-translations/) - translate websites in your browser without using the cloud
   * [Browsec VPN](https://addons.mozilla.org/en-US/firefox/addon/browsec/) free & fast.
   * [Mullvad VPN](https://mullvad.net/) - seems the father of VPN, paid firefox service using this. [available on Amazon](https://mullvad.net/en/blog/2022/7/26/mullvad-is-now-available-on-amazon-us-se/)
+  * [NordVPN](https://nordvpn.com/)
   * [Psiphon VPN](https://psiphon.ca/en)
   * [Remove Google Redirection on google results](https://addons.mozilla.org/en-US/firefox/addon/remove-google-redirections/)
   * [RESTClient](https://addons.mozilla.org/en-US/firefox/addon/restclient/) - use request header as `Content-Type application/x-www-form-urlencoded`

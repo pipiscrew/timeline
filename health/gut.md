@@ -23,6 +23,17 @@ And guess what(?), still, there is no **home device** to drop a food and analyze
 
 This affect any mothefucker, vegan or carnivore.  
 
+------------ go [low carb](https://pipiscrew.github.io/timeline/#/health/insulin) ------------  
+
+Walking 1km (10min) after a meal can have several benefits for digestion. Stimulate the muscles in your abdomen. This can help move food through the digestive tract and prevent any feelings of bloating or discomfort. Also the following exercises :  
+* [Planks](https://www.youtube.com/watch?v=B296mZDhrP4)
+* [Leg Raises](https://www.youtube.com/watch?v=JB2oyawG9KI)
+* [Crunches](https://www.youtube.com/watch?v=Xyd_fa5zoEU)
+* [Bicycle Crunches](https://www.youtube.com/watch?v=Iwyvozckjak) [[2](https://www.youtube.com/watch?v=9FGilxCbdz8)]
+* [Russian Twists](https://www.youtube.com/watch?v=JyUqwkVpsi8)
+* [Mountain Climber](https://www.youtube.com/watch?v=nmwgirgXLYM)
+* [Standing Oblique Crunches](https://www.youtube.com/watch?v=wD2GY3fUJqQ)  
+
 ## realization & diagnosis
 
 2020 - A team, led by Magnus Simrén, MD, PhD, Professor of Gastroenterology at Sahlgrenska Academy, University of Gothenburg, found nearly **40% of adults suffer from a functional gastrointestinal disorder** in a 73,000 people, 33 country survey.
