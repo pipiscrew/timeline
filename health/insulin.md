@@ -564,6 +564,16 @@ Here’s a summary of the valuable measures that can be gleaned from the standar
 * The ratio of **triglyceride** to HDL is also crucial and should be well below 2, preferably around 1.
 * A **CAC scan** will enable you to discover hidden heart disease where the risk factors can fail. Crucially, you can take action and check back later to verify that you have stopped the progression of atherosclerosis.  
 
+### inherited high cholesterol
+
+Also known as [familial hypercholesterolemia](https://www.everydayhealth.com/high-cholesterol/familial-hypercholesterolemia/). Has nothing to do with eating too many burgers and fries, have elevated levels of **LDL** cholesterol — that builds up in blood vessels and can lead to blood clots and heart attacks. Is caused by a **genetic mutation** that **limits** the body **ability** to remove LDL cholesterol from the bloodstream. Affecting about 1 in 200 adults.  
+
+* 2023 - [Dramatic elevation of LDL cholesterol from ketogenic-dieting](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10121782/)
+* 2020 - [Ketogenic diets, not for everyone](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7887024/)  
+
+> In the short term, a small, six-month **spike in cholesterol** isn’t harmful — it takes a decade or more of high LDL to cause damage. [source](https://www.everydayhealth.com/ketogenic-diet/what-happens-to-your-cholesterol-on-a-keto-diet/)  
+
+
 <center> --<>-- </center>  
 </br>  
 
