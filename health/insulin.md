@@ -568,6 +568,8 @@ Here’s a summary of the valuable measures that can be gleaned from the standar
 
 Also known as [familial hypercholesterolemia](https://www.everydayhealth.com/high-cholesterol/familial-hypercholesterolemia/). Has nothing to do with eating too many burgers and fries, have elevated levels of **LDL** cholesterol — that builds up in blood vessels and can lead to blood clots and heart attacks. Is caused by a **genetic mutation** that **limits** the body **ability** to remove LDL cholesterol from the bloodstream. Affecting about 1 in 200 adults.  
 
+> **Saturated fatty acids** have been associated with an **increase** in low-density lipoprotein (**LDL**) cholesterol levels  
+
 * 2023 - [Dramatic elevation of LDL cholesterol from ketogenic-dieting](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10121782/)
 * 2020 - [Ketogenic diets, not for everyone](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7887024/)  
 
@@ -707,9 +709,9 @@ A nutrition label provides **information** about the **nutritional content** of 
 
 Displays :
 * Total fats ( mentioned also as Fatty Acids or Total Lipid )
-  * Saturated fats
+  * Saturated fats (avoid when high cholesterol)
     * Medium chain triglycerides (MCTs) - fats made in a lab from coconut and palm kernel oils (caprylic acid / capric acid / lauric acid).
-  * Mono**un**saturated fats
+  * Mono**un**saturated fats (olive oil, Avocado, salmon, nuts, seeds)
   * Poly**un**saturated fats `limited`
     * Omega-3
     * Omega-6
