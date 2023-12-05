@@ -632,7 +632,7 @@ So, in essence, the endocannabinoid system has connections to lipids and **relie
 <center> --<>-- </center>  
 </br>  
 
-* [Lard](https://www.google.com/search?q=lard) is a semi-solid white fat product obtained by rendering the fatty tissue of a pig.  
+* [Lard](https://www.google.com/search?q=lard) is a semi-solid white fat product obtained by rendering the fatty tissue of a pig (high Saturated fats, avoid when you have high cholesterol).  
 * read it in [Greek](https://filecrypt.cc/Container/CA86AB904B.html)  
 * [Eat rich breakfast](https://www.youtube.com/watch?v=--9q0iIXZLs)
 * [Easy and super delicious dinner](https://www.youtube.com/watch?v=VHnN6pBrJ1E)  
@@ -711,7 +711,9 @@ Displays :
 * Total fats ( mentioned also as Fatty Acids or Total Lipid )
   * Saturated fats (avoid when high cholesterol)
     * Medium chain triglycerides (MCTs) - fats made in a lab from coconut and palm kernel oils (caprylic acid / capric acid / lauric acid).
-  * Mono**un**saturated fats (olive oil, olives, avocado, salmon, nuts, seeds)
+    * beef, lamb, pork, chicken, turkey, whole milk, cheese, butter, coconut & palm oil, lard, tallow
+  * Mono**un**saturated fats
+    * olive oil, olives, avocado, salmon, nuts, seeds
   * Poly**un**saturated fats `limited`
     * Omega-3
     * Omega-6
