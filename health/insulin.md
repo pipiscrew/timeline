@@ -711,7 +711,7 @@ Displays :
 * Total fats ( mentioned also as Fatty Acids or Total Lipid )
   * Saturated fats (avoid when high cholesterol)
     * Medium chain triglycerides (MCTs) - fats made in a lab from coconut and palm kernel oils (caprylic acid / capric acid / lauric acid).
-  * Mono**un**saturated fats (olive oil, Avocado, salmon, nuts, seeds)
+  * Mono**un**saturated fats (olive oil, olives, avocado, salmon, nuts, seeds)
   * Poly**un**saturated fats `limited`
     * Omega-3
     * Omega-6
