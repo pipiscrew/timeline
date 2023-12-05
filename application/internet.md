@@ -16,11 +16,13 @@
 
 Automatically open Chrome DevTools debug - `"c:\chrome.exe" -auto-open-devtools-for-tabs`.  
 
-To find the profile currently is use navigate to `chrome://version`.  
+To parameterized hidden options - `chrome://flags/`  
+
+To find the profile currently is use navigate to `chrome://version`  
 
 To start with specific profile, `chrome.exe --user-data-dir=c:\foo`  
 
-Service Workers - `chrome://serviceworker-internals/`  
+Service Workers - `chrome://serviceworker-internals/` 
 
 2022 - [Memory Saver](https://blog.google/products/chrome/new-chrome-features-to-save-battery-and-make-browsing-smoother/) for [brave](https://support.brave.com/hc/en-us/articles/13383683902733-How-do-I-use-the-Memory-Saver-feature-in-Brave)  
 
@@ -37,12 +39,17 @@ Service Workers - `chrome://serviceworker-internals/`
 * [Pulse](https://pulsebrowser.app/) - Hyper minimalistic UI and built-in uBlock Origin.
 * [waterfox](https://www.waterfox.net/) - [waterfox web browser sold to System1](https://www.waterfox.net/blog/waterfox-has-joined-system1/)
 * [Dot Browser](https://www.dothq.co/) – privacy-conscious web browser
-* [Basilisk](https://basilisk-browser.org/features.shtml) - Replaced Gecko with Goanna (single-process mode) engine, interface as-carried by Firefox between v29 and v56, more read at features page.  
+* [Basilisk](https://basilisk-browser.org/features.shtml) - Replaced Gecko with Goanna (single-process mode) engine, interface as-carried by Firefox between v29 and v56, more read at features page.
+* [Thorium.Mercury](https://thorium.rocks/mercury) - implements fixes by  LibreWolf, Waterfox, FireDragon, PlasmaFox, and Ghostery  
 
 To find the profile currently is use navigate to `about:support` or `about:profiles`.  
  * [profile manager](https://support.mozilla.org/en-US/kb/profile-manager-create-remove-switch-firefox-profiles) - to start with specific profile, `firefox.exe -P "<profile name>" `  
 
+To parameterized hidden options - `about:config`  
+
 show browser task manager `about:performance`, with shortcut **SHIFT+ESC**  
+
+Service Workers - `about:debugging#/runtime/this-firefox`  
 
 To load temporary addon or to see what is loaded (built in addons), or to use ADB goto `about:debugging`, then click on left `This Firefox` ([ref](https://developer.mozilla.org/en-US/docs/Mozilla/Add-ons/WebExtensions/Your_first_WebExtension))  
 
@@ -126,6 +133,12 @@ Chrome start with
   * [pyllyukko](https://github.com/pyllyukko/user.js/)
   * [narsil](https://git.nixnet.services/Narsil/desktop_user.js)
   * [Betterfox](https://github.com/yokoffing/Betterfox)
+
+  use the following to enable search on searchbar + stop letterbox view
+  > user_pref("keyword.enabled", true);  
+  > user_pref("privacy.resistFingerprinting.letterboxing", false);  
+  > //user_pref("privacy.window.maxInnerWidth", 1600);  
+  > //user_pref("privacy.window.maxInnerHeight", 900);  
 
 #### Addons
 
