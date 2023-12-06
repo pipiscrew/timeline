@@ -127,7 +127,7 @@ Chrome start with
 
 * settings made in `about:config` are saved only to `prefs.js` [ref](https://mkaz.blog/misc/using-firefox-user-js-settings-file/)
 * `user.js` file stores user settings, the file is loaded each time Firefox starts. This a convenient way to save your browser customizations and apply them on different machines. Ready to use `user.js` copy it near `prefs.js` :  
-  * [arkenfox](https://github.com/arkenfox/user.js)  ([ref](http://ebin.city/~werwolf/posts/firefox-hardening-guide/)) - tested with v87, generates new fingerprint on restart++.  
+  * [arkenfox](https://github.com/arkenfox/user.js)  ([ref](http://ebin.city/~werwolf/posts/firefox-hardening-guide/)) - tested with v87, generates new fingerprint on restart++.  [gui](https://github.com/arkenfox/gui)  
     * [12bytes.org - user-overrides.js](https://codeberg.org/12bytes.org/Firefox-user.js-supplement) suppliment for the 'arkenfox'. Is an optional supplement intended to be appended to the arkenfox `user.js`. Use the 'arkenfox' `updater.bat` to append the `user-overrides.js` file to the `user.js` file.
     * [powerman/user-overrides.js](https://gist.github.com/powerman/b90f3a63fa2f3583d3e89b2468f95388) - alternative user-overrides.js.
   * [pyllyukko](https://github.com/pyllyukko/user.js/)

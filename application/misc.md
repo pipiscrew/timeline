@@ -463,6 +463,9 @@ copy /b *.txt all.txt
 # search current dir for filename equals with specific date
 # https://stackoverflow.com/a/20455954 + sort https://stackoverflow.com/a/40904876
 dir -file | ? LastWriteTimeUtc -gt ([datetime]"2023-10-03") | Sort CreationTime -Descending
+
+# see the if DLL files are signed
+dir *.dll -Recurse | Get-AuthenticodeSignature -ErrorAction SilentlyContinue
 ```  
   
 * [horstmuc.The missing batch file operations](https://www.horstmuc.de/w32dial.htm)  
