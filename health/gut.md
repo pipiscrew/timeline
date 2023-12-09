@@ -658,3 +658,4 @@ author notes
 * [Why has America settled on colonoscopies when most of the world has not?](https://asteriskmag.com/issues/04/you-re-invited-to-a-colonoscopy)
 * [Gut epithelial barrier damage caused by dishwasher detergents and rinse aids](https://www.sciencedirect.com/science/article/pii/S0091674922014774) ([doi](https://doi.org/10.1016/j.jaci.2022.10.020)) [[2](https://news.ycombinator.com/item?id=38275060)]- `alcohol ethoxylates (C12-15)`
 * [In the gut second brain, key agents of health emerge](https://www.quantamagazine.org/in-the-guts-second-brain-key-agents-of-health-emerge-20231121)
+* [GI antibiotics](https://wikem.org/wiki/GI_antibiotics)

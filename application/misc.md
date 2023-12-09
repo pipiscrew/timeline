@@ -189,7 +189,11 @@
 * [Torrent File Editor](https://github.com/torrent-file-editor/torrent-file-editor)
 * [FreeArc](https://www.softpedia.com/get/PORTABLE-SOFTWARE/Compression-Tools/FreeArc-Portable.shtml)
 * [MiTeC.Task Manager](http://www.mitec.cz/tmx.html)
-* [Nirsoft.CredentialsFileView](https://www.nirsoft.net/utils/credentials_file_view.html) - view the passwords stored at Windows Credentials Manager
+* [Nirsoft.CredentialsFileView](https://www.nirsoft.net/utils/credentials_file_view.html) - view the passwords stored at Windows Credentials Manager  
+
+Minimize to tray
+* [4t Tray Minimizer](https://www.4t-niagara.com/tray.html)  
+* [traymond](https://github.com/fcFn/traymond)
 
 ## Capture
 * [OBS Studio](https://obsproject.com/) - screen capture and broadcasting  

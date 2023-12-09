@@ -57,6 +57,8 @@ To load temporary addon or to see what is loaded (built in addons), or to use AD
 
 ----------
 
+[Service Worker tester](https://webbrowsertools.com/test-service-worker/)  
+
 [Qutebrowser](https://www.qutebrowser.org/) - A keyboard-driven, vim-like browser based on Python and Qt.  
 
 [AmIUnique](https://amiunique.org/) - see and compare you own fingerprint.  
@@ -188,6 +190,7 @@ Chrome start with
   * [OneTab](https://chrome.google.com/webstore/detail/onetab/chphlpgkkbolifaimnlloiipkdnihall)
   * [Dummy Form Filler](https://github.com/ptomaszek/dummy-form-filler)
   * [Automa](https://www.automa.site/) - Automate the browser by connecting blocks (free)
+  * [No Service Worker](https://chromewebstore.google.com/detail/no-service-worker/mbhfklemgegigbfbfmfdmijkcnabgpmf)
   * --CentBrowser Advised--
     * [Chrome Better History](http://www.centbrowser.com/crx/Chrome-Better-History_v3.3.crx)
     * [Imagus](https://chrome.google.com/webstore/detail/imagus/immpkjjlgappgfkkfieppnmlhakdmaab)
