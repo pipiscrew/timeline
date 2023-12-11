@@ -256,6 +256,7 @@
 * [Ditto Clipboard Manager](https://ditto-cp.sourceforge.io/)
 * [CopyQ](https://hluk.github.io/CopyQ/) - clipboard manager with editing and scripting features
 * [Clipboard Master](https://www.clipboardmaster.com/) - multi-clipboard
+* [nirsoft.Clipboardic](https://www.nirsoft.net/utils/clipboardic.html)  
 
 ## cleaners
 * [GeekUninstaller](https://geekuninstaller.com/) - is powerful alternative to "Windows Add or Remove Programs" applet

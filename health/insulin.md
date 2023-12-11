@@ -575,6 +575,8 @@ Also known as [familial hypercholesterolemia](https://www.everydayhealth.com/hig
 
 > In the short term, a small, six-month **spike in cholesterol** isn’t harmful — it takes a decade or more of high LDL to cause damage. [source](https://www.everydayhealth.com/ketogenic-diet/what-happens-to-your-cholesterol-on-a-keto-diet/)  
 
+> Choosing lower-fat versions can reduce your risk of heart disease, but that guidance goes back to 1980, when the first edition of the Dietary Guidelines for Americans was published. Dairy fat is not harmful to heart health. [source](https://www.nytimes.com/2023/12/08/well/eat/low-fat-dairy-products.html)
+
 
 <center> --<>-- </center>  
 </br>  
