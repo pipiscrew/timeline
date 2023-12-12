@@ -722,7 +722,7 @@ Displays :
 <details>
 <summary> fats breakdown </summary>
 <div style="margin-left:20px">  
-<table border="1">
+<table>
 <tr><td>Butyric acid                      </td><td>Saturated               </td></tr>
 <tr><td>Caproic acid                      </td><td>Saturated               </td></tr>
 <tr><td>Caprylic acid                     </td><td>Saturated               </td></tr>
@@ -756,7 +756,6 @@ Displays :
 <tr><td>Docosadienic acid                 </td><td>Polyunsaturated         </td></tr>
 <tr><td>Docosatrienic acid                </td><td>Polyunsaturated         </td></tr>
 <tr><td>Docosatetraenic acid              </td><td>Polyunsaturated         </td></tr>
-<tr><td>Other polyunsaturated fatty acids </td><td>Polyunsaturated         </td></tr>
 <tr><td>Other short-chain fatty acids     </td><td>Saturated or Unsaturated</td></tr>
 <tr><td>Short-chain fatty acids           </td><td>Saturated or Unsaturated</td></tr>
 <tr><td>Other medium-chain fatty acids    </td><td>Saturated or Unsaturated</td></tr>
