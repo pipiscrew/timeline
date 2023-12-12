@@ -874,4 +874,6 @@ loved side dish :
 * 2 cherry **tomatoes** cutted in half
 * (optionally small **onion** hand cutted)
 * 1 tblspoon **butter** to pot once melted, add the ingredients to pot (low temperature)
-* **simmer** for 4-6min, **stirring** occasionally
+* **simmer** for 4-6min, **stirring** occasionally  
+
+[Scrambled eggs with bacon](https://www.ernaehrung.de/lebensmittel/en/Y720643/Scrambled-eggs-with-bacon-%284%29.php) nutrition
