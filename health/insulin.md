@@ -769,18 +769,32 @@ Displays :
   * Fiber (complex carbohydrate)
   * Sugars `avoid` (simple carbohydrate)
   * Starch `avoid` - potatoes, bread, and pasta (complex carbohydrate)
-  * and in detail, includes also `avoid`
-    * Monosaccharides - sugar
-    * Polysaccharides - starch
-    * Disaccharide - sugar
-    * Glucose - blood sugar, the primary source of energy for the body.
-    * Fructose - sugar, found in fruits and honey.
-    * Oligosaccharide - sugar, found in legumes and beans.
-    * Sucrose - table sugar
-    * Maltose - sugar, found in malted foods and beverages.
-    * Lactose - sugar naturally present in milk and dairy products.
-    * Galactose - sugar naturally present in milk and dairy products.
-    * Polyols - sugar
+<details>
+<summary> carbs breakdown </summary>
+<div style="margin-left:20px">  
+<table>
+<tr><td>Sorbitol</td></tr>
+<tr><td>Glucose</td></tr>
+<tr><td>Fructose</td></tr>
+<tr><td>Sucrose</td></tr>
+<tr><td>Lactose</td></tr>
+<tr><td>Starch</td></tr>
+<tr><td>Maltose</td></tr>
+<tr><td>Galactose</td></tr>
+<tr><td>Glycogene</td></tr>
+<tr><td>Pentosan</td></tr>
+<tr><td>Hexosan</td></tr>
+<tr><td>Cellulose</td></tr>
+<tr><td>Polyuronic acid</td></tr>
+<tr><td>Mannitol</td></tr>
+<tr><td>Xylitol</td></tr>
+<tr><td>Monosaccharides</td></tr>
+<tr><td>Disaccharides</td></tr>
+<tr><td>Oligosaccharides absorbed</td></tr>
+<tr><td>Oligosaccharides non absorbed</td></tr>
+<tr><td>Polysaccharides</td></tr> 
+</table>
+</div></details>
 * Cholesterol `limited` - waxy substance found in animal-based foods and is associated with heart health.
 * Protein  
 
