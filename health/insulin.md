@@ -721,7 +721,8 @@ Displays :
   * Triglycerides `limited` - a combination of saturated, monounsaturated, and polyunsaturated fatty acids.
 <details>
 <summary> fats breakdown </summary>
-<div style="margin-left:20px">
+<div style="margin-left:20px">  
+
 | Butyric acid                      | Saturated                |
 | --------------------------------- | ------------------------ |
 | Caproic acid                      | Saturated                |
@@ -765,7 +766,7 @@ Displays :
 | Medium-chain fatty acids          | Saturated or Unsaturated |
 | Other long-chain fatty acids      | Saturated or Unsaturated |
 | Long-chain fatty acids            | Saturated or Unsaturated |
-| Glycerol and Lipids               | Triglycerides            |
+| Glycerol and Lipids               | Triglycerides            |  
 </div></details>
 * Total Carbohydrates
   * Fiber (complex carbohydrate)
