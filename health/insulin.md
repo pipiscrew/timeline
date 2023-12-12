@@ -722,51 +722,49 @@ Displays :
 <details>
 <summary> fats breakdown </summary>
 <div style="margin-left:20px">  
-
-| Butyric acid                      | Saturated                |
-| --------------------------------- | ------------------------ |
-| Caproic acid                      | Saturated                |
-| Caprylic acid                     | Saturated                |
-| Capric acid                       | Saturated                |
-| Lauric acid                       | Saturated                |
-| Myristic acid                     | Saturated                |
-| C15:0 fatty acid                  | Saturated                |
-| Palmitic acid                     | Saturated                |
-| Margaric acid                     | Saturated                |
-| Stearic acid                      | Saturated                |
-| Arachic acid                      | Saturated                |
-| Behenic acid                      | Saturated                |
-| Lignoceric acid                   | Saturated                |
-| Palmitoleic acid                  | Monounsaturated          |
-| Oleic acid                        | Monounsaturated          |
-| Eicosenic acid                    | Monounsaturated          |
-| C22:1 fatty acid                  | Monounsaturated          |
-| C14:1 fatty acid                  | Monounsaturated          |
-| C24:1 fatty acid                  | Monounsaturated          |
-| Linoleic acid                     | Polyunsaturated          |
-| Linolenic acid                    | Polyunsaturated          |
-| Arachidonic acid                  | Polyunsaturated          |
-| C18:4 fatty acid                  | Polyunsaturated          |
-| C20:5 N-3 fatty acid              | Polyunsaturated          |
-| C22:5 N-3 fatty acid              | Polyunsaturated          |
-| C22:6 N-3 fatty acid              | Polyunsaturated          |
-| C16:2 fatty acid                  | Polyunsaturated          |
-| Other saturated fatty acids       | Saturated                |
-| Other monounsaturated fatty acids | Monounsaturated          |
-| Nonadecatrienic acid              | Polyunsaturated          |
-| Eicosadienic acid                 | Polyunsaturated          |
-| Eicosatrienic acid                | Polyunsaturated          |
-| Docosadienic acid                 | Polyunsaturated          |
-| Docosatrienic acid                | Polyunsaturated          |
-| Docosatetraenic acid              | Polyunsaturated          |
-| Other polyunsaturated fatty acids | Polyunsaturated          |
-| Other short-chain fatty acids     | Saturated or Unsaturated |
-| Short-chain fatty acids           | Saturated or Unsaturated |
-| Other medium-chain fatty acids    | Saturated or Unsaturated |
-| Medium-chain fatty acids          | Saturated or Unsaturated |
-| Other long-chain fatty acids      | Saturated or Unsaturated |
-| Long-chain fatty acids            | Saturated or Unsaturated |
-| Glycerol and Lipids               | Triglycerides            |  
+<table border="1">
+<tr><td>Butyric acid                      </td><td>Saturated               </td></tr>
+<tr><td>Caproic acid                      </td><td>Saturated               </td></tr>
+<tr><td>Caprylic acid                     </td><td>Saturated               </td></tr>
+<tr><td>Capric acid                       </td><td>Saturated               </td></tr>
+<tr><td>Lauric acid                       </td><td>Saturated               </td></tr>
+<tr><td>Myristic acid                     </td><td>Saturated               </td></tr>
+<tr><td>C15:0 fatty acid                  </td><td>Saturated               </td></tr>
+<tr><td>Palmitic acid                     </td><td>Saturated               </td></tr>
+<tr><td>Margaric acid                     </td><td>Saturated               </td></tr>
+<tr><td>Stearic acid                      </td><td>Saturated               </td></tr>
+<tr><td>Arachic acid                      </td><td>Saturated               </td></tr>
+<tr><td>Behenic acid                      </td><td>Saturated               </td></tr>
+<tr><td>Lignoceric acid                   </td><td>Saturated               </td></tr>
+<tr><td>Palmitoleic acid                  </td><td>Monounsaturated         </td></tr>
+<tr><td>Oleic acid                        </td><td>Monounsaturated         </td></tr>
+<tr><td>Eicosenic acid                    </td><td>Monounsaturated         </td></tr>
+<tr><td>C22:1 fatty acid                  </td><td>Monounsaturated         </td></tr>
+<tr><td>C14:1 fatty acid                  </td><td>Monounsaturated         </td></tr>
+<tr><td>C24:1 fatty acid                  </td><td>Monounsaturated         </td></tr>
+<tr><td>Linoleic acid                     </td><td>Polyunsaturated         </td></tr>
+<tr><td>Linolenic acid                    </td><td>Polyunsaturated         </td></tr>
+<tr><td>Arachidonic acid                  </td><td>Polyunsaturated         </td></tr>
+<tr><td>C18:4 fatty acid                  </td><td>Polyunsaturated         </td></tr>
+<tr><td>C20:5 N-3 fatty acid              </td><td>Polyunsaturated         </td></tr>
+<tr><td>C22:5 N-3 fatty acid              </td><td>Polyunsaturated         </td></tr>
+<tr><td>C22:6 N-3 fatty acid              </td><td>Polyunsaturated         </td></tr>
+<tr><td>C16:2 fatty acid                  </td><td>Polyunsaturated         </td></tr>
+<tr><td>Nonadecatrienic acid              </td><td>Polyunsaturated         </td></tr>
+<tr><td>Eicosadienic acid                 </td><td>Polyunsaturated         </td></tr>
+<tr><td>Eicosatrienic acid                </td><td>Polyunsaturated         </td></tr>
+<tr><td>Docosadienic acid                 </td><td>Polyunsaturated         </td></tr>
+<tr><td>Docosatrienic acid                </td><td>Polyunsaturated         </td></tr>
+<tr><td>Docosatetraenic acid              </td><td>Polyunsaturated         </td></tr>
+<tr><td>Other polyunsaturated fatty acids </td><td>Polyunsaturated         </td></tr>
+<tr><td>Other short-chain fatty acids     </td><td>Saturated or Unsaturated</td></tr>
+<tr><td>Short-chain fatty acids           </td><td>Saturated or Unsaturated</td></tr>
+<tr><td>Other medium-chain fatty acids    </td><td>Saturated or Unsaturated</td></tr>
+<tr><td>Medium-chain fatty acids          </td><td>Saturated or Unsaturated</td></tr>
+<tr><td>Other long-chain fatty acids      </td><td>Saturated or Unsaturated</td></tr>
+<tr><td>Long-chain fatty acids            </td><td>Saturated or Unsaturated</td></tr>
+<tr><td>Glycerol and Lipids               </td><td>Triglycerides           </td></tr>  
+</table>
 </div></details>
 * Total Carbohydrates
   * Fiber (complex carbohydrate)
