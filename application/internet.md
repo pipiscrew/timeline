@@ -3,7 +3,7 @@
 ### Blink  
 
 * [Brave](https://brave.com/) -- [the false sensation of privacy](http://ebin.city/~werwolf/posts/brave-is-shit/) -- [features they disable or remove](https://github.com/brave/brave-browser/wiki/Deviations-from-Chromium-(features-we-disable-or-remove)/)
-  * [individual components update (adblock explained)](https://www.pipiscrew.com/2021/06/brave-individual-components-update-adblock-explained/)
+  * [individual components update (adblock explained)](https://www.pipiscrew.com/threads/brave-individual-components-update-adblock-explained.16512/)
 * [SRWare](https://www.srware.net/iron/) - removed all telemetry
 * [CentBrowser](http://www.centbrowser.com/) - chronium with useful addons
 * [Beacon](https://github.com/imperviousinc/beacon) - decentralized

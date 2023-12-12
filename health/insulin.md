@@ -719,6 +719,54 @@ Displays :
     * Omega-6
   * Trans fats `avoid` - are artificially created unsaturated fats.
   * Triglycerides `limited` - a combination of saturated, monounsaturated, and polyunsaturated fatty acids.
+<details>
+<summary> fats breakdown </summary>
+<div style="margin-left:20px">
+| Butyric acid                      | Saturated                |
+| --------------------------------- | ------------------------ |
+| Caproic acid                      | Saturated                |
+| Caprylic acid                     | Saturated                |
+| Capric acid                       | Saturated                |
+| Lauric acid                       | Saturated                |
+| Myristic acid                     | Saturated                |
+| C15:0 fatty acid                  | Saturated                |
+| Palmitic acid                     | Saturated                |
+| Margaric acid                     | Saturated                |
+| Stearic acid                      | Saturated                |
+| Arachic acid                      | Saturated                |
+| Behenic acid                      | Saturated                |
+| Lignoceric acid                   | Saturated                |
+| Palmitoleic acid                  | Monounsaturated          |
+| Oleic acid                        | Monounsaturated          |
+| Eicosenic acid                    | Monounsaturated          |
+| C22:1 fatty acid                  | Monounsaturated          |
+| C14:1 fatty acid                  | Monounsaturated          |
+| C24:1 fatty acid                  | Monounsaturated          |
+| Linoleic acid                     | Polyunsaturated          |
+| Linolenic acid                    | Polyunsaturated          |
+| Arachidonic acid                  | Polyunsaturated          |
+| C18:4 fatty acid                  | Polyunsaturated          |
+| C20:5 N-3 fatty acid              | Polyunsaturated          |
+| C22:5 N-3 fatty acid              | Polyunsaturated          |
+| C22:6 N-3 fatty acid              | Polyunsaturated          |
+| C16:2 fatty acid                  | Polyunsaturated          |
+| Other saturated fatty acids       | Saturated                |
+| Other monounsaturated fatty acids | Monounsaturated          |
+| Nonadecatrienic acid              | Polyunsaturated          |
+| Eicosadienic acid                 | Polyunsaturated          |
+| Eicosatrienic acid                | Polyunsaturated          |
+| Docosadienic acid                 | Polyunsaturated          |
+| Docosatrienic acid                | Polyunsaturated          |
+| Docosatetraenic acid              | Polyunsaturated          |
+| Other polyunsaturated fatty acids | Polyunsaturated          |
+| Other short-chain fatty acids     | Saturated or Unsaturated |
+| Short-chain fatty acids           | Saturated or Unsaturated |
+| Other medium-chain fatty acids    | Saturated or Unsaturated |
+| Medium-chain fatty acids          | Saturated or Unsaturated |
+| Other long-chain fatty acids      | Saturated or Unsaturated |
+| Long-chain fatty acids            | Saturated or Unsaturated |
+| Glycerol and Lipids               | Triglycerides            |
+</div></details>
 * Total Carbohydrates
   * Fiber (complex carbohydrate)
   * Sugars `avoid` (simple carbohydrate)
