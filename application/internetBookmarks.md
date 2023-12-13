@@ -378,6 +378,11 @@
 * [passmark.AMD vs Intel Market Share](https://www.cpubenchmark.net/market_share.html) - metrics (only by their app)  
 * [technical city](https://technical.city/en/video/Radeon-RX-Vega-11-vs-UHD-Graphics-630) - gfx compare  
 
+## printer
+* [inkchip](https://inkchip.net/)
+* [pcsolucionesec](https://pcsolucionesec.com/) [[2](https://elreseteador.com/)]
+* [camosystemsperu](https://camosystemsperu.com/)  
+
 ## news
 * [Reuters](https://www.reuters.com/)
 * [Bloomberg](https://www.bloomberg.com)
