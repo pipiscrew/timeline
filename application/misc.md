@@ -288,6 +288,7 @@ The sequence is :
 * [Prince of Persia](https://www.popot.org/get_the_games.php?game=SDLPoP) ([src](https://github.com/NagyD/SDLPoP))  
 * [myabandonware](https://www.myabandonware.com/)
 * [Baldur Gate](https://dnd.wizards.com/products/baldurs-gate) - RPG
+* [Mega Game Pack 123](https://archive.org/details/mega-game-pack-123-ppGames) [[2](https://www.lastos.org/forum/index.php?threads/the-classic-mega-game-packs-collection-ppgames.1510/)]
 
 ## sample batch files, using every day ;) 
 

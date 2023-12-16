@@ -641,6 +641,8 @@ So, in essence, the endocannabinoid system has connections to lipids and **relie
 * [Smoking increases risk of type 2 diabetes due to metabolic changes](https://www.medpagetoday.com/meetingcoverage/easd/106681)
 * [verywellfit.Recipe Nutrition Calculator](https://www.verywellfit.com/recipe-nutrition-analyzer-4157076)
 * [FoodNutrition](https://github.com/pipiscrew/FoodNutrition) - an application make offline use of [US FoodData Central - SR Legacy Foods](https://fdc.nal.usda.gov/)  
+* [How the nutritional value of staple crops dropped by 50% since the 1960s](https://jeroenvanbaar.substack.com/p/data-dispatch-4-the-falling-nutritional)  
+
 
 <center> --<>-- </center>  
 </br>  
@@ -875,5 +877,13 @@ loved side dish :
 * (optionally small **onion** hand cutted)
 * 1 tblspoon **butter** to pot once melted, add the ingredients to pot (low temperature)
 * **simmer** for 4-6min, **stirring** occasionally  
+
+loved [salad](https://www.youtube.com/watch?v=d8Rim5RfseQ) :
+* 1/2 avocado
+* cauliflower [tursi](https://www.youtube.com/watch?v=Gxf2A1LIk0c)
+* 125gr cottage cheese
+* 1/4 iceberg lettuce
+* herbs Dill & Parsley & Coriander -all green- and onion powder and salt
+  * do a mix to a bowl - 1tsp salt and all the other 1/4 tsp, use it on dishes  
 
 [Scrambled eggs with bacon](https://www.ernaehrung.de/lebensmittel/en/Y720643/Scrambled-eggs-with-bacon-%284%29.php) nutrition
