@@ -383,6 +383,14 @@
 * [pcsolucionesec](https://pcsolucionesec.com/) [[2](https://elreseteador.com/)]
 * [camosystemsperu](https://camosystemsperu.com/)  
 
+## torrent
+* [1337x](https://1337x.st/)
+* [torrentgalaxy](https://torrentgalaxy.to/)
+* [RARBG](https://rargb.to/)
+* [EZTV](https://eztv.ag/)
+* [YIFY](https://yts.ag/)
+* [thepiratebay](https://thepiratebay.org)  
+
 ## news
 * [Reuters](https://www.reuters.com/)
 * [Bloomberg](https://www.bloomberg.com)

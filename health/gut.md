@@ -660,3 +660,4 @@ author notes
 * [In the gut second brain, key agents of health emerge](https://www.quantamagazine.org/in-the-guts-second-brain-key-agents-of-health-emerge-20231121)
 * [GI antibiotics](https://wikem.org/wiki/GI_antibiotics)
 * [H. pylori infection after 50 linked to Alzheimer risk - Stomach Bug Linked to Alzheimer Risk](https://neurosciencenews.com/stomach-bacteria-infection-alzheimers-25360/)  
+* [World Gastroenterology Organisation (WGO)](https://www.worldgastroenterology.org/) 

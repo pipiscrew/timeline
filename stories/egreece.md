@@ -34,6 +34,7 @@
   * Ένσημα στο σύστημα ΑΤΛΑΣ - [https://www.atlas.gov.gr/ATLAS/Atlas/Login.aspx](https://www.atlas.gov.gr/ATLAS/Atlas/Login.aspx) (1994 μέχρι και το πρώτο τρίμηνο του 2016) [more](https://www.ieidiseis.gr/oikonomia/197506/pos-vlepo-posa-einai-ta-ensima-mou-me-kodikoys-taxinet)​
   * Αποδεικτικό Ασφαλιστικής Ενημερότητας - [https://www.efka.gov.gr/el/apodeiktiko-asphalistikes-enemerotetas](https://www.efka.gov.gr/el/apodeiktiko-asphalistikes-enemerotetas)​
 * Καταγγελία στην Εθνική Αρχή Διαφάνειας - [https://aead.gr/](https://aead.gr/)
+* Καταγγελίες Πολιτών - [aade.gr/kataggelies](https://www.aade.gr/sites/default/files/kataggelies/index.html)
 * myErgani - [https://myergani.gov.gr](https://myergani.gov.gr) ή [https://eservices.yeka.gr](https://eservices.yeka.gr)
 * ΟΑΕΔ / ΔΥΠΑ - [https://eservices.oaed.gr/pls/apex/](https://eservices.oaed.gr/pls/apex/) - [https://www.dypa.gov.gr/](https://www.dypa.gov.gr/)  
   * Προγράμματα κοινωνικού τουρισμού (ΔΥΠΑ) - [https://www.gov.gr/ipiresies/ergasia-kai-asphalise/apozemioseis-kai-parokhes/koinonikos-tourismos](https://www.gov.gr/ipiresies/ergasia-kai-asphalise/apozemioseis-kai-parokhes/koinonikos-tourismos)

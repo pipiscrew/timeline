@@ -83,13 +83,17 @@
 * [SuperMemo](https://super-memory.com/) - [ref](https://www.masterhowtolearn.com/2022-08-05-why-i-switched-to-obsidian-after-using-supermemo-for-4-years/)
 * [VSCode Working Memory](https://github.com/atomashevic/vscode-working-memory)
 * [Curio](https://www.zengobi.com/curio/) - Notebook application for note-taking and research
-* [Modern CSV](https://www.moderncsv.com/) - Quick CSV load  
 * [Kainet.Editor](http://www.kainet.ch/Editor-for-very-large-files) - Editor for very large files  
 * [UVviewersoft.LogViewer](http://www.uvviewsoft.com/logviewer/) - Viewer for big text log files, highlight keywords  
+
+
+## CSV
+* [Modern CSV](https://www.moderncsv.com/) - Quick CSV load  
 * [Q - Run SQL Directly on CSV or TSV Files](http://harelba.github.io/q/)  
 * [Columnq - Run SQL on CSV, Parquet, JSON](https://github.com/roapi/roapi/tree/main/columnq-cli)
 * [Munge CSV](https://github.com/johnkerl/miller) - command line for CSV, TSV, and tabular JSON
-* [xsv](https://github.com/BurntSushi/xsv) - command line for indexing, slicing, analyzing, splitting and joining CSV files  
+* [xsv](https://github.com/BurntSushi/xsv) - command line for indexing, slicing, analyzing, splitting and joining CSV files 
+* [qcsv](https://github.com/jqnatividad/qsv) - CSVs sliced, diced & analyzed + [online](https://qsv.dathere.com/web)
 
 ## Disk Space Analyse
 * [RidNacs](https://www.splashsoft.de/ridnacs-disk-space-usage-analyzer/)
@@ -264,10 +268,12 @@ The sequence is :
 * [KMS_VL_ALL_AIO](https://github.com/abbodi1406/KMS_VL_ALL_AIO) - windows & office (supports Enterprise edition)
 * [KMS38](https://massgrave.dev/) - activate till 2038 + ISO [[2](https://gitlab.com/massgrave/microsoft-activation-scripts/-/tree/master/MAS/All-In-One-Version)]
 * [Ankh Tech Toolbox](https://ankhtech.weebly.com/toolbox.html) - install apps & activate
+* [MediaCreationTool](https://github.com/AveYo/MediaCreationTool.bat) - has to remove TPM/Secure Boot restrictions
 * [awesome windows privacy](https://github.com/TemporalAgent7/awesome-windows-privacy)
   * [Win10BloatRemover](https://github.com/Fs00/Win10BloatRemover)
 * [Ratiborus Digital Activation](https://nsaneforums.com/topic/317565-w10-digital-activation-program-v11-portable-ratiborus/) - windows (not for Enterprise edition)
 * [Office 2013-2021 C2R](https://free.appnee.com/office-2013-2021-c2r-install/) - downloader, installer, remover
+* [Office 365 - Online Installer](https://zone94.com/downloads/software/applications/145-microsoft-office-2019-professional-plus-x86-x64-online-installer)
 * [Office Unistaller](https://appnee.com/office-uninstall/)
 * [AtlasOS](https://atlasos.net/)
 * [Windows X-Lite](https://windowsxlite.com/ultralight/)
@@ -471,6 +477,9 @@ dir -file | ? LastWriteTimeUtc -gt ([datetime]"2023-10-03") | Sort CreationTime 
 
 # see the if DLL files are signed
 dir *.dll -Recurse | Get-AuthenticodeSignature -ErrorAction SilentlyContinue
+
+# output folder permissions to file
+(get-acl folder1_name).access | ft IdentityReference,FileSystemRights,AccessControlType,IsInherited,InheritanceFlags -auto > test.txt
 ```  
   
 * [horstmuc.The missing batch file operations](https://www.horstmuc.de/w32dial.htm)  

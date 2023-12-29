@@ -22,7 +22,8 @@ To find the profile currently is use navigate to `chrome://version`
 
 To start with specific profile, `chrome.exe --user-data-dir=c:\foo`  
 
-Service Workers - `chrome://serviceworker-internals/`  
+Service Workers - `chrome://serviceworker-internals/` 
+Shared Workers - `chrome://inspect`  
 
 flush dns - `chrome://net-internals/#dns`  
 
@@ -51,7 +52,7 @@ To parameterized hidden options - `about:config`
 
 show browser task manager `about:performance`, with shortcut **SHIFT+ESC**  
 
-Service Workers - `about:debugging#/runtime/this-firefox`  
+Service Workers - `about:serviceworkers` or `about:debugging#/runtime/this-firefox`  
 
 To load temporary addon or to see what is loaded (built in addons), or to use ADB goto `about:debugging`, then click on left `This Firefox` ([ref](https://developer.mozilla.org/en-US/docs/Mozilla/Add-ons/WebExtensions/Your_first_WebExtension))  
 
@@ -164,6 +165,7 @@ Chrome start with
       * [Disable Cookies](https://chrome.google.com/webstore/detail/disable-cookies/lkmjmficaoifggpfapbffkggecbleang)
       * [I don't care about cookies](https://chrome.google.com/webstore/detail/i-dont-care-about-cookies/fihnjjcciajhdojfnbdddfaoknhalnja)
   * [Cookie AutoDelete](https://github.com/Cookie-AutoDelete/Cookie-AutoDelete) [firefox](https://addons.mozilla.org/en-US/firefox/addon/cookie-autodelete/) / [chrome](https://chrome.google.com/webstore/detail/cookie-autodelete/fhcgjolkccmbidfldomjliifgaodjagh)
+  * [Cookiebro](https://chromewebstore.google.com/detail/cookiebro/lpmockibcakojclnfmhchibmdpmollgn)
   * [Filipe PS - Translate Web Pages](https://github.com/FilipePS/Traduzir-paginas-web/) functionality (aka on the fly) to Firefox & Chrome
   * [Mozilla.Firefox Translations](https://addons.mozilla.org/en-US/firefox/addon/firefox-translations/) - translate websites in your browser without using the cloud
   * [Browsec VPN](https://addons.mozilla.org/en-US/firefox/addon/browsec/) free & fast.

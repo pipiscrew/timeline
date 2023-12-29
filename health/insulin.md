@@ -870,7 +870,13 @@ Emphasis to the following multipurpose elements :
   * **Muscle Function**: Essential for muscle health and strength.
   * **Autoimmune Diseases**: Associated with autoimmune disease prevention.  
 
+<center> --<>-- </center>  
+</br>  
 
+* [How Two Pharmacists Figured Out That Decongestants Don't Work](https://www.scientificamerican.com/article/how-two-pharmacists-figured-out-that-decongestants-dont-work/)  
+
+<center> --<>-- </center>  
+</br>  
 loved side dish :
 * chop to blender 2-3 **carrot** and a **garlic** clove
 * 2 cherry **tomatoes** cutted in half
