@@ -94,6 +94,7 @@
 * [Munge CSV](https://github.com/johnkerl/miller) - command line for CSV, TSV, and tabular JSON
 * [xsv](https://github.com/BurntSushi/xsv) - command line for indexing, slicing, analyzing, splitting and joining CSV files 
 * [qcsv](https://github.com/jqnatividad/qsv) - CSVs sliced, diced & analyzed + [online](https://qsv.dathere.com/web)
+* [csvlens](https://github.com/YS-L/csvlens)
 
 ## Disk Space Analyse
 * [RidNacs](https://www.splashsoft.de/ridnacs-disk-space-usage-analyzer/)

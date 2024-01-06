@@ -94,6 +94,7 @@
 * SupportGOV Αποθετήριο Επικοινωνίας - [https://support.gov.gr/](https://support.gov.gr/)
   * Αποθετήριο Απαντήσεων & Εγγράφων - [https://www.patt.gov.gr/psifiaki_exipiretisi/psifiakes_apothetirio/](https://www.patt.gov.gr/psifiaki_exipiretisi/psifiakes_apothetirio/)
 * Ηλεκτρονική επισημείωση της Χάγης (e-Apostille) - [https://e-apostille.gov.gr/](https://e-apostille.gov.gr/)
+* yachting - e-CharterPermission - [https://echarter.yna.gov.gr](https://echarter.yna.gov.gr)
 * Πανελλήνιος Φαρμακευτικός Σύλλογος - [https://pfs.gr/](https://pfs.gr/)
   * Φαρμακευτικός Σύλλογος Αττικής - [https://www.fsa.gr/](https://www.fsa.gr/)
   * Φαρμακευτικός Σύλλογος Θεσσαλονίκης - [https://www.fsth.gr/](https://www.fsth.gr/)
