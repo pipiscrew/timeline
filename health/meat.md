@@ -28,9 +28,9 @@ Even **clean pork meat** from the rest of the pork, can have up to **30% fat** b
 
 100gr **pork front leg** are 
 
-* 15-18 grams the protein  
-* Around 20 grams carbs  
-* between 10- 30 grams fat  
+* 15-18 grams of protein  
+* around 0.2 grams carbs  
+* between 10-30 grams of fat  
 
 > **Creatine** = There are 4 grams of it in any **kg** of good meat.   [Creatine Enhances Energy Production](https://www.healthline.com/nutrition/creatine-for-muscle-and-strength) | always choose Creatine Monohydrate as supplement | [study](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4304302/)
 

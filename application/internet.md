@@ -56,6 +56,8 @@ Service Workers - `about:serviceworkers` or `about:debugging#/runtime/this-firef
 
 To load temporary addon or to see what is loaded (built in addons), or to use ADB goto `about:debugging`, then click on left `This Firefox` ([ref](https://developer.mozilla.org/en-US/docs/Mozilla/Add-ons/WebExtensions/Your_first_WebExtension))  
 
+[Firefox Disable Data Collection Telemetry](https://github.com/Aetherinox/Firefox-Disable-Data-Collection-Telemetry)  
+
 ----------
 
 [Service Worker tester](https://webbrowsertools.com/test-service-worker/)  
