@@ -59,6 +59,7 @@
 	* [articles](/health/articles.md)
 	* [supplement](/health/supplement.md)
 		* [vitamania](/health/supplementVitamania.md)
+	* [USDA Food Data](/health/foodata.md)
 	* [teflon](/health/teflon.md)
 * [Stories]
 	* [covid](/stories/wcovid.md)
