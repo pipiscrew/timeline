@@ -1,8 +1,8 @@
-The following data, have source the [USDA Food Data Central](https://fdc.nal.usda.gov/). The images layout made by [myfooddata](https://tools.myfooddata.com/nutrition-facts/).  
+The following data, have source the [USDA Food Data Central](https://fdc.nal.usda.gov/).   
 
 Remember those data are `ancient`, calculate accordingly by the year you living now. 😃
 
-Is just a mockup to show where a specific food `fail` or is `good`.  
+Is just a mockup to show where a specific food `fail` or is `good`. By clicking any image you going to [myfooddata](https://tools.myfooddata.com/nutrition-facts/).
 
 ## animals
 
