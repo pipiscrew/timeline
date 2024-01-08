@@ -39,9 +39,9 @@ Is just a mockup to show where a specific food `fail` or is `good`.
 [![img](../assets/foodata/avocados.png)](https://tools.myfooddata.com/nutrition-facts/171705/100g/1)
 [![img](../assets/foodata/bananas.png)](https://tools.myfooddata.com/nutrition-facts/173944/100g/1)
 [![img](../assets/foodata/orange_juice.png)](https://tools.myfooddata.com/nutrition-facts/169098/100g/1)
+[![img](../assets/foodata/watermelon.png)](https://tools.myfooddata.com/nutrition-facts/167765/100g/1)
 [![img](../assets/foodata/red_apples.png)](https://tools.myfooddata.com/nutrition-facts/168204/100g/1)
-[![img](../assets/foodata/green_apples.png)](https://tools.myfooddata.com/nutrition-facts/168203/100g/1)
-[![img](../assets/foodata/watermelon.png)](https://tools.myfooddata.com/nutrition-facts/167765/100g/1)  
+[![img](../assets/foodata/green_apples.png)](https://tools.myfooddata.com/nutrition-facts/168203/100g/1)  
 
 ## Herbs
 [![img](../assets/foodata/dill.png)](https://tools.myfooddata.com/nutrition-facts/172233/wt1/1)
