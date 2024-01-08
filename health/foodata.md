@@ -44,9 +44,9 @@ Is just a mockup to show where a specific food `fail` or not. By clicking any im
 [![img](../assets/foodata/green_apples.png)](https://tools.myfooddata.com/nutrition-facts/168203/100g/1)  
 
 ## herbs
-[![img](../assets/foodata/dill.png)](https://tools.myfooddata.com/nutrition-facts/172233/wt1/1)
-[![img](../assets/foodata/parsley.png)](https://tools.myfooddata.com/nutrition-facts/170416/wt2/1)
-[![img](../assets/foodata/coriander.png)](https://tools.myfooddata.com/nutrition-facts/169997/wt1/1)
+[![img](../assets/foodata/dill.png)](https://tools.myfooddata.com/nutrition-facts/171322/wt1/1)
+[![img](../assets/foodata/parsley.png)](https://tools.myfooddata.com/nutrition-facts/170930/wt1/1)
+[![img](../assets/foodata/coriander.png)](https://tools.myfooddata.com/nutrition-facts/170921/wt2/1)
 [![img](../assets/foodata/cumin.png)](https://tools.myfooddata.com/nutrition-facts/733462/wt1/1)
 [![img](../assets/foodata/turmeric.png)](https://tools.myfooddata.com/nutrition-facts/172231/wt1/1)  
 
