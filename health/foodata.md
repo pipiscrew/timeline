@@ -4,7 +4,7 @@ Remember those data are `ancient`, calculate accordingly by the year you living 
 
 Is just a mockup to show where a specific food `fail` or not. By clicking any image you going to [myfooddata](https://tools.myfooddata.com/nutrition-facts/).
 
-## animals
+## animal
 
 [![img](../assets/foodata/pork.png)](https://tools.myfooddata.com/nutrition-facts/167823/100g/1)
 [![img](../assets/foodata/chicken_breast.png)](https://tools.myfooddata.com/nutrition-facts/171077/100g/1)
