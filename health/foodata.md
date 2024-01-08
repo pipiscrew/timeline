@@ -18,7 +18,7 @@ Is just a mockup to show where a specific food `fail` or is `good`. By clicking 
 [![img](../assets/foodata/cottage_cheese.png)](https://tools.myfooddata.com/nutrition-facts/172182/100g/1)  
 
 
-## Vegetables
+## vegetables
 
 [![img](../assets/foodata/cauliflower.png)](https://tools.myfooddata.com/recipe-nutrition-calculator/788821/100g/1/1)
 [![img](../assets/foodata/iceberg.png)](https://tools.myfooddata.com/nutrition-facts/169248/100g/1)
@@ -35,7 +35,7 @@ Is just a mockup to show where a specific food `fail` or is `good`. By clicking 
 [![img](../assets/foodata/onions.png)](https://tools.myfooddata.com/nutrition-facts/170000/100g/1)  
 
 
-## Fruits
+## fruits
 [![img](../assets/foodata/avocados.png)](https://tools.myfooddata.com/nutrition-facts/171705/100g/1)
 [![img](../assets/foodata/bananas.png)](https://tools.myfooddata.com/nutrition-facts/173944/100g/1)
 [![img](../assets/foodata/orange_juice.png)](https://tools.myfooddata.com/nutrition-facts/169098/100g/1)
@@ -43,7 +43,7 @@ Is just a mockup to show where a specific food `fail` or is `good`. By clicking 
 [![img](../assets/foodata/red_apples.png)](https://tools.myfooddata.com/nutrition-facts/168204/100g/1)
 [![img](../assets/foodata/green_apples.png)](https://tools.myfooddata.com/nutrition-facts/168203/100g/1)  
 
-## Herbs
+## herbs
 [![img](../assets/foodata/dill.png)](https://tools.myfooddata.com/nutrition-facts/172233/wt1/1)
 [![img](../assets/foodata/parsley.png)](https://tools.myfooddata.com/nutrition-facts/170416/wt2/1)
 [![img](../assets/foodata/coriander.png)](https://tools.myfooddata.com/nutrition-facts/169997/wt1/1)
