@@ -30,9 +30,9 @@ Is just a mockup to show where a specific food `fail` or is `good`.
 [![img](../assets/foodata/lentils.png)](https://tools.myfooddata.com/nutrition-facts/172420/100g/1)  
 [![img](../assets/foodata/mung_beans_sprouts.png)](https://tools.myfooddata.com/nutrition-facts/169957/100g/1)
 [![img](../assets/foodata/chickpeas.png)](https://tools.myfooddata.com/nutrition-facts/465794/100g/1)
-[![img](../assets/foodata/onions.png)](https://tools.myfooddata.com/nutrition-facts/170000/100g/1)
 [![img](../assets/foodata/garlic.png)](https://tools.myfooddata.com/nutrition-facts/169230/wt3/1)
-[![img](../assets/foodata/garlic_powder.png)](https://tools.myfooddata.com/nutrition-facts/171325/wt1/1)  
+[![img](../assets/foodata/garlic_powder.png)](https://tools.myfooddata.com/nutrition-facts/171325/wt1/1)
+[![img](../assets/foodata/onions.png)](https://tools.myfooddata.com/nutrition-facts/170000/100g/1)  
 
 
 ## Fruits
