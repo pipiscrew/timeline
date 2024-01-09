@@ -37,7 +37,8 @@
 * [Easy Context Menu](https://www.sordum.org/7615/easy-context-menu-v1-6/)
 * [Windows 11 Classic Context Menu](https://www.sordum.org/14479)
 * [Nirsoft.ShellMenuView](https://www.nirsoft.net/utils/shell_menu_view.html)
-* [Shell](https://nilesoft.org/) - Context menu manager for Windows File Explorer  
+* [Shell](https://nilesoft.org/) - Context menu manager for Windows File Explorer
+* [Default Programs Editor](http://defaultprogramseditor.com/) - fix file association settings, including context menu
 
 ## Dos
 * [dosbox](https://www.dosbox.com/) - x86 emulator with DOS
