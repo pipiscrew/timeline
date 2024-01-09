@@ -29,7 +29,7 @@ Is just a mockup to show where a specific food `fail` or not. By clicking any im
 [![img](../assets/foodata/cucumber.png)](https://tools.myfooddata.com/nutrition-facts/168409/100g/1)
 [![img](../assets/foodata/tomatoes.png)](https://tools.myfooddata.com/nutrition-facts/170457/100g/1)
 [![img](../assets/foodata/carrots.png)](https://tools.myfooddata.com/nutrition-facts/170393/100g/1)
-[![img](../assets/foodata/lentils.png)](https://tools.myfooddata.com/nutrition-facts/172420/100g/1)  
+[![img](../assets/foodata/lentils.png)](https://tools.myfooddata.com/nutrition-facts/172420/100g/1)
 [![img](../assets/foodata/mung_beans_sprouts.png)](https://tools.myfooddata.com/nutrition-facts/169957/100g/1)
 [![img](../assets/foodata/chickpeas.png)](https://tools.myfooddata.com/nutrition-facts/465794/100g/1)
 [![img](../assets/foodata/onions.png)](https://tools.myfooddata.com/nutrition-facts/170000/100g/1)
