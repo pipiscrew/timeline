@@ -303,6 +303,8 @@ It’s estimated that over **90 percent** of the world population lives in areas
 | neutral | < 15°C      | < 30%    |
 | neutral | \> 30°C     | \> 70%   |
 
+[source](https://www.airbi.cz/en/thermometer-hygrometer-smile)
+
 `Dehumidifier` take moisture out of the air when it is too humid. Dehumidifiers are used during the spring and summer.  
 
 **Increasing moisture** it means increasing the amount of **water vapor** present in the air compared to the maximum amount the air can **hold** at a specific **temperature**.  
