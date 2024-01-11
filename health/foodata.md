@@ -85,9 +85,7 @@ Carbs may **offer** a significant **satiety** benefit for some people. For examp
 If you want to maintain maximal metabolic ﬂexibility, it really does **not** make much **sense** to never eat any **carbohydrates** ever. But it DOES make sense to have very clear periods of time when you are in a **carb-depleted state** of maximal fat oxidation (read: ketosis), as well as times when you do have incoming dietary carbohydrate to deal with (instead of fat). Probably the easiest way to implement this is **intermittent fasting**, and **limiting** glycemic carbohydrate frequency. Our favorite way of accomplishing this in real life? `Stay very low carb during the day and then have one higher carb meal at the end of the day` (keeping protein percentage as high as possible, of course).  
 
 > **Carbs** are unique in that they offer an initial **satiety for a few hours**, followed by a literal **increase** in hunger as blood sugar **falls**. But for now, the goal is targeting **protein** first and **foremost**.  
-
 >  Meat, eggs, and green vegetables are **good**, grains are **bad**. fish is the greatest thing **ever**, and sugar and oil are the worst things **ever**.  
-
 > Start with one or two **protein sources** in your meal (e.g. beef and eggs) and then include some **veggies**. Simple as that!  
 
 * Always choose animals that are eating what THEY are supposed to be eating.
@@ -127,7 +125,7 @@ There are several ways to improve `fat adaptation` (the ability to successfully 
 
 > Spending time in the fasted state is actually a form of exercise, a **METABOLIC WORKOUT**!  
 
-`Fasting` does all of the following great things: 
+`Fasting` does all of the following great things:  
 * Decreases blood glucose. 
 * Decreases insulin level. 
 * Increases insulin sensitivity. 
