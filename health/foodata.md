@@ -72,7 +72,7 @@ Is just a mockup to show where a specific food `fail` or not. By clicking any im
 
 # cutted by Ted Naiman - The PE Diet
 
-* [homepage](https://pedietbook.com/)  
+* [homepage](https://href.li/?https://pedietbook.com/)  
 
 The ultimate strategy for maximally up-regulating fat oxidation (body breaks down fat molecules and converts them into energy) ? Never eat any carbs to **begin** with. This is certainly the strategy of those who go on a pure carnivore diet and it be honest, this **works** pretty damn well for a growing number of people. But there are **some reasons** why you might want to **include** some **carbs** in your diet.  
 
