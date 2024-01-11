@@ -64,7 +64,6 @@ Is just a mockup to show where a specific food `fail` or not. By clicking any im
   * liver glycogen drops
   * gut starts cleansing processes
 * **walk** after lunch, 10 minutes (1km), is major help for digestion
-* [PE Diet - Meal protein-fats-carbs percentage](https://href.li/?https://proteinpercent.com/) + food database
 
 > If you overfeed someone with **fat**, you do **not** increase their cancer risk at all. You overfeed someone with **carbohydrates** and you dramatically **increase** their cancer risk. And protein is halfway in between. ([Dr. Craig B. Thompson](https://www.mskcc.org/about/leadership/office-president/craig-b-thompson-biography), the head of Memorial Sloan Kettering)  
 
@@ -72,7 +71,8 @@ Is just a mockup to show where a specific food `fail` or not. By clicking any im
 
 # cutted by Ted Naiman - The PE Diet
 
-* [homepage](https://href.li/?https://pedietbook.com/)  
+* [homepage](https://href.li/?https://pedietbook.com/)
+  * [meal protein-fats-carbs percentage](https://href.li/?https://proteinpercent.com/) + food database  
 
 The ultimate strategy for maximally up-regulating fat oxidation (body breaks down fat molecules and converts them into energy) ? Never eat any carbs to **begin** with. This is certainly the strategy of those who go on a pure carnivore diet and it be honest, this **works** pretty damn well for a growing number of people. But there are **some reasons** why you might want to **include** some **carbs** in your diet.  
 
