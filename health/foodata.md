@@ -55,4 +55,8 @@ Is just a mockup to show where a specific food `fail` or not. By clicking any im
 [![img](../assets/foodata/cumin.png)](https://tools.myfooddata.com/nutrition-facts/733462/wt1/1)
 [![img](../assets/foodata/turmeric.png)](https://tools.myfooddata.com/nutrition-facts/172231/wt1/1)  
 
+* find you [dietary reference intakes](https://www.nal.usda.gov/human-nutrition-and-food-safety/dri-calculator) (DRI) by USDA (change the metric system)
+  * exceeded protein (aka [non complete protein](https://pipiscrew.github.io/timeline/#/health/introduction?id=proteins)) turned to glucose (carbohydrates)
+    * exceeded protein illustrated on **UREA** blood test (getting high)
+
 

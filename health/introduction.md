@@ -119,7 +119,9 @@ The **nine essential** amino acids :
 |     |                              |   | 23  | Soybeans          |
 |     |                              |   | 18  | Tomatoes          |
 
-Ranking based on essential amino acid indexes, amino acid scores, and nutritional indexes as calculated against the [FAO](http://www.fao.org/) reference protein pattern; biological values correlate closely with the **EAA** index (Essential amino acid index).
+Ranking based on essential amino acid indexes, amino acid scores, and nutritional indexes as calculated against the [FAO](http://www.fao.org/) reference protein pattern; biological values correlate closely with the **EAA** index (Essential amino acid index).  
+
+ > When an organism eats food, the protein decomposed (proteolysis) and resynthesized to produce **complete proteins**.. Even in case of dairy products (complete protein by default) body doing proteolysis. When an organism consumes different (non dairy) products, body again keeping decomposing the proteins and looking /amino acid/ candidates to form the **complete protein**.  
 
 
 ### Mushrooms vs Egg
