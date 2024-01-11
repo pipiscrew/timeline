@@ -152,7 +152,7 @@ Eating carbohydrates, especially `refined carbohydrates` with no fiber, **overdr
 
 ## Nutrient hunger
 
-Your body is the most `complicated chemistry lab` in the `entire universe`. Every second, there are `trillions of chemical reactions` taking place in your body. In order for all of this to function, you need a lot of `STUFF`. And except for `air` and `water` and `sunlight`, all of this `stuff` comes directly from your `diet`. You need **dozens** of 
+Your body is the most `complicated chemistry lab` in the `entire universe`. Every second, there are `trillions of chemical reactions` taking place in your body. In order for all of this to function, you need a lot of `STUFF`. And except for `air` and `water` and `sunlight`, all of this `stuff` comes directly from your `diet`. You need **dozens** of  
 * vitamins 
 * minerals
 * essential amino acids
@@ -162,10 +162,9 @@ from your diet, and if you don’t get these, things are going to **stop working
 
 It is a `scientific fact` - there is `ZERO requirement` for **carbohydrate** in the human **diet**. But the **reality** is that you **DO need glucose**, at **all times**, just to stay **alive**. Your **liver** can make all the **glucose** you need **out** of **protein**, but this is a **little more difficult** than **just eating** all your **glucose** (especially eating glycemic carbs 8 times a day, for 16 hours out of every 24, like the average American).  
 
-> Putting a bunch of fat in your coffee allows you to push your first meal out a few hours. But this fat is nutritionally empty and is just more fat you have to burn to reach your goals.
+> Putting a bunch of fat in your coffee allows you to push your first meal out a few hours. But this fat is nutritionally empty and is just more fat you have to burn to reach your goals.  
 
 ## Superfoods
-
 * Grass-fed beef 
 * Pastured eggs 
 * Wild-caught salmon 
