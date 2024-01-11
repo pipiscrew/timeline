@@ -58,5 +58,13 @@ Is just a mockup to show where a specific food `fail` or not. By clicking any im
 * find you [dietary reference intakes](https://www.nal.usda.gov/human-nutrition-and-food-safety/dri-calculator) (DRI) by USDA (change the metric system)
   * exceeded protein (aka [non complete protein](https://pipiscrew.github.io/timeline/#/health/introduction?id=proteins)) turned to glucose (carbohydrates)
     * exceeded protein illustrated on **UREA** blood test (getting high)
+* stay **low carb** during the day and then have one higher carb meal at the end of the day. Works best in the evening, at the end of your eating window. Try to keep **net carbohydrates** (carbs minus ﬁber) less of 100 grams a day (two potatoes OR two cups of rice OR four apples)
+  * **protein meal** is when protein grams are equal or higher than the energy grams (fat plus net carbs)
+* always follow the **12h fasting** (example 8pm - 8am) 
+  * liver glycogen drops
+  * gut starts cleansing processes
+* **walk** after lunch, 10 minutes (1km), is major help for digestion
 
+
+> If you overfeed someone with **fat**, you do **not** increase their cancer risk at all. You overfeed someone with **carbohydrates** and you dramatically **increase** their cancer risk. And protein is halfway in between. ([Dr. Craig B. Thompson](https://www.mskcc.org/about/leadership/office-president/craig-b-thompson-biography), the head of Memorial Sloan Kettering)
 
