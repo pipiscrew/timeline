@@ -85,7 +85,9 @@ Carbs may **offer** a significant **satiety** benefit for some people. For examp
 If you want to maintain maximal metabolic ﬂexibility, it really does **not** make much **sense** to never eat any **carbohydrates** ever. But it DOES make sense to have very clear periods of time when you are in a **carb-depleted state** of maximal fat oxidation (read: ketosis), as well as times when you do have incoming dietary carbohydrate to deal with (instead of fat). Probably the easiest way to implement this is **intermittent fasting**, and **limiting** glycemic carbohydrate frequency. Our favorite way of accomplishing this in real life? `Stay very low carb during the day and then have one higher carb meal at the end of the day` (keeping protein percentage as high as possible, of course).  
 
 > **Carbs** are unique in that they offer an initial **satiety for a few hours**, followed by a literal **increase** in hunger as blood sugar **falls**. But for now, the goal is targeting **protein** first and **foremost**.  
+
 >  Meat, eggs, and green vegetables are **good**, grains are **bad**. fish is the greatest thing **ever**, and sugar and oil are the worst things **ever**.  
+
 > Start with one or two **protein sources** in your meal (e.g. beef and eggs) and then include some **veggies**. Simple as that!  
 
 * Always choose animals that are eating what THEY are supposed to be eating.
@@ -111,16 +113,16 @@ Over time, this overeating **leads** to **excessive fat gain** and the subsequen
 
 Most people with `insulin resistance` are **disproportionately burning glucose** on the **cellular** level, and they often **displace** burning body fat due to the amount of dietary glucose coming in from carbohydrates. When these people **run out** of glucose from their last meal, instead of easily **transitioning** over to the `fasted` state to **burn fat**, they become hungry for more glucose (from carbohydrates) as their bodies and cells have `decreased capacity for` mobilizing and **burning fat** for energy.  
 
-The cells can burn either **glucose** (sugar) or **fat** for `fuel`, and over time they will have a **preference** for one over the other, `sugar burners` have increased the **cellular pathways** that burn **glucose** and **decreased**, the **underused pathways** for burning **fat**. So what happens to the overweight `sugar burner` who stops eating for a few hours? As they **run out** of **glucose** from their last meal, **instead** of seamlessly **transitioning** to the fasted state and mobilizing and burning stored body fat, they **become HUNGRY for MORE GLUCOSE**, from carbohydrates! They will spend most of the day trapped in a **cycle** of `eating every few hours`, spiking glucose, and then **becoming hungry** when blood sugar drops. 
+The cells can burn either **glucose** (sugar) or **fat** for `fuel`, and over time they will have a **preference** for one over the other, `sugar burners` have increased the **cellular pathways** that burn **glucose** and **decreased**, the **underused pathways** for burning **fat**. So what happens to the overweight `sugar burner` who stops eating for a few hours? As they **run out** of **glucose** from their last meal, **instead** of seamlessly **transitioning** to the fasted state and mobilizing and burning stored body fat, they **become HUNGRY for MORE GLUCOSE**, from carbohydrates! They will spend most of the day trapped in a **cycle** of `eating every few hours`, spiking glucose, and then **becoming hungry** when blood sugar drops.  
 
 
 ## Fat Adaptation
 Humans have the ability to become `fat-adapted` and **improve** their ability to **fuel** themselves with stored body fat **instead** of glucose. However, this takes time and practice, and your body has to do a number of things to slowly **increase** your **fat-burning pathways**. This includes **improving** insulin sensitivity to lower insulin and promote fat mobilization into **free fatty acids** from the `adipocytes` (fat cells) as well as up-regulating the fat-burning pathways at the cellular level.  
 
-There are several ways to improve `fat adaptation` (the ability to successfully burn stored body fat for energy), and these include the following: 
+There are several ways to improve `fat adaptation` (the ability to successfully burn stored body fat for energy), and these include the following:  
 * **Low carbohydrate diets** - Eating a low carb diet improves the body’s ability to utilize fat for energy rather than glucose. 
-* **Exercise** - High-intensity exercise depletes glucose and glycogen rapidly, forcing the body to switch over and utilize more fat for fuel. Exercise also improves insulin sensitivity. 
-* **Caloric restriction**  
+* **Exercise** - High-intensity exercise depletes glucose and glycogen rapidly, forcing the body to switch over and utilize more fat for fuel. Exercise also improves insulin sensitivity.
+* **Caloric restriction**
 * **Intermittent fasting** and spending more time in the fasted state, which gives the body more `practice` at burning fat.  
 
 > Spending time in the fasted state is actually a form of exercise, a **METABOLIC WORKOUT**!  
