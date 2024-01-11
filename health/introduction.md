@@ -151,6 +151,12 @@ Data presented **as grams** of amino acids **per 100 grams** of corrected crude 
 * [Accumulation of heavy metals by wild edible mushrooms](https://www.sciencedirect.com/science/article/pii/S0048969719325070) / [pdf](https://www.dropbox.com/s/qo0b0tbqwgb8r9t/Accumulation%20of%20heavy%20metals%20by%20wild%20edible%20mushrooms-kokkoris2019.pdf?dl=1)  
 * [Mushrooms Can Eat Plastic, Petroleum and CO2](https://returntonow.net/2018/01/11/7-ways-mushrooms-can-save-world/) / [pdf](https://www.dropbox.com/s/8y4bdxq421fbf39/Mushrooms%20Can%20Eat%20Plastic%2C%20Petroleum%20and%20CO2.pdf?dl=1)  
 
+### Protein Digestibility Corrected Amino Acid Score
+
+![img](../assets/pdcaas.png)  
+
+[wiki](https://en.wikipedia.org/wiki/Protein_Digestibility_Corrected_Amino_Acid_Score)
+
 ----------
 
 
