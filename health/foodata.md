@@ -173,7 +173,7 @@ It is a `scientific fact` - there is `ZERO requirement` for **carbohydrate** in 
 * Shellfish
 * Chicken breasts  
 
- Set yourself up for success by having these foods available as **often as possible**. Keep **emergency** protein sources nearby (our favorites are hard) **boiled eggs** and individually packaged [beef sticks](https://www.aufschnittmeats.com/products/aufschnitt-meats-original-beef-jerky) without sugar. If you are eating **carbohydrates**, make sure you have some `low energy density high satiety` choices available, like :
+Set yourself up for success by having these foods available as **often as possible**. Keep **emergency** protein sources nearby (our favorites are hard) **boiled eggs** and individually packaged [beef sticks](https://www.aufschnittmeats.com/products/aufschnitt-meats-original-beef-jerky) without sugar. If you are eating **carbohydrates**, make sure you have some `low energy density high satiety` choices available, like :  
 * apples
 * carrots
 * berries
