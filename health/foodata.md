@@ -86,7 +86,7 @@ If you want to maintain maximal metabolic ﬂexibility, it really does **not** m
 
 > **Carbs** are unique in that they offer an initial **satiety for a few hours**, followed by a literal **increase** in hunger as blood sugar **falls**. But for now, the goal is targeting **protein** first and **foremost**.  
 
->  Meat, eggs, and green vegetables are **good**, grains are **bad**. fish is the greatest thing **ever**, and sugar and oil are the worst things **ever**.  
+>  Meat, eggs, and green vegetables are **good**, grains are **bad**. Fish is the greatest thing **ever**, and sugar and oil are the worst things **ever**.  
 
 > Start with one or two **protein sources** in your meal (e.g. beef and eggs) and then include some **veggies**. Simple as that!  
 
