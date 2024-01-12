@@ -16,6 +16,7 @@ Is just a mockup to show where a specific food `fail` or not. By clicking any im
 
 [![img](../assets/foodata/eggs_fried.png)](https://tools.myfooddata.com/nutrition-facts/173423/100g/1)
 [![img](../assets/foodata/eggs_boiled.png)](https://tools.myfooddata.com/nutrition-facts/173424/100g/1)
+[![img](../assets/foodata/bacon.png)](https://tools.myfooddata.com/nutrition-facts/168322/wt1/1)
 [![img](../assets/foodata/cottage_cheese.png)](https://tools.myfooddata.com/nutrition-facts/172182/100g/1)  
 
 
