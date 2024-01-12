@@ -877,14 +877,14 @@ Emphasis to the following multipurpose elements :
 
 <center> --<>-- </center>  
 </br>  
-loved side dish :
+loved side dish :  
 * chop to blender 2-3 **carrot** and a **garlic** clove
 * 2 cherry **tomatoes** cutted in half
 * (optionally small **onion** hand cutted)
 * 1 tblspoon **butter** to pot once melted, add the ingredients to pot (low temperature)
 * **simmer** for 4-6min, **stirring** occasionally  
 
-loved [salad](https://www.youtube.com/watch?v=d8Rim5RfseQ) :
+loved [salad](https://www.youtube.com/watch?v=d8Rim5RfseQ) :  
 * 1/2 avocado
 * cauliflower [tursi](https://www.youtube.com/watch?v=Gxf2A1LIk0c)
 * 125gr cottage cheese
