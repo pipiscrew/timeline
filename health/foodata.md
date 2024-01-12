@@ -201,7 +201,7 @@ Animals are at a **higher trophic** level than plants. Because they are higher o
 **Plants** create all `dietary ENERGY`, storing `solar energy` as CARBS and FATS. Plants create all `dietary PROTEIN`, using `nitrogen` and other `minerals` from the **soil**. `Animals` receive both of these by **eating plants** (or other animals that have **eaten plants**).  
 
 ## cooking
-`carbs + fase` this **combination** is **rarely** found in **nature**. These foods produce a **drug** like `dopamine reward` in the brain and are `highly addictive`.  
+`carbs + fats` this **combination** is **rarely** found in **nature**. These foods produce a **drug** like `dopamine reward` in the brain and are `highly addictive`.  
 
 It is easier than ever to go through your entire life **without cooking**. Unfortunately, this has been an **unmitigated disaster** for our **health**. The reality is that everyone who is in the **business of selling food** is trying to **profit** as much as possible. And when you are trying to profit from selling food, the `less protein` you give people **the better**.  
 
