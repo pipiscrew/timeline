@@ -876,7 +876,8 @@ Emphasis to the following multipurpose elements :
 * [How Two Pharmacists Figured Out That Decongestants Don't Work](https://www.scientificamerican.com/article/how-two-pharmacists-figured-out-that-decongestants-dont-work/)  
 
 <center> --<>-- </center>  
-</br>  
+</br>
+
 loved side dish :  
 * chop to blender 2-3 **carrot** and a **garlic** clove
 * 2 cherry **tomatoes** cutted in half
