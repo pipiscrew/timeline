@@ -9,7 +9,6 @@
   * [Mario Maker 2 API](https://tgrcode.com/posts/mario_maker_2_api)
   * [Building a fully local LLM voice assistant to control my smart home](https://johnthenerd.com/blog/local-llm-assistant/)
   * [(new features) ArchiveBox - open-source self-hosted web archiving](https://archivebox.io/)
-  * [ArchiveBox - open-source self-hosted web archiving](https://archivebox.io/)
   * [LG washing machine sending 3,7GB of data a day](https://www.tomshardware.com/networking/your-washing-machine-could-be-sending-37-gb-of-data-a-day)
   * [Epic Games - The RAD Debugger](https://github.com/EpicGames/raddebugger)
   * [revng translates (i386, x86-64, MIPS, ARM, AArch64, s390x) binaries to LLVM IR](https://github.com/revng/revng)
