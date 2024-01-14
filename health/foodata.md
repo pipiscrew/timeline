@@ -70,7 +70,7 @@ Is just a mockup to show where a specific food `fail` or not. By clicking any im
 
 ---
 
-# cutted by Ted Naiman - The PE Diet
+# Ted Naiman - The PE Diet (2019)
 
 * [homepage](https://href.li/?https://pedietbook.com/)
   * [meal protein-fats-carbs percentage](https://href.li/?https://proteinpercent.com/) + food database  
@@ -259,3 +259,7 @@ It is easier than ever to go through your entire life **without cooking**. Unfor
 Exercise has a singular purpose: self-improvement. If done correctly, exercise provides a stimulus to your body that leads to **positive adaptation**. The adaptations to exercise are numerous, and can include increased muscular strength and size, improved **stamina**, improved **cardiovascular** fitness, an increase in **metabolic rate**, improvements in **glucose metabolism**, and increased **fat oxidation**. **Diet is important**, but you will never reach your health and body composition goals without **proper exercise**!   
 
 > Fat **exits** your body via **mitochondria**. Training **doubles** your mitochondria.
+
+---
+
+* [similar article](https://pipiscrew.github.io/timeline/#/health/insulin) - todo merge current there.
