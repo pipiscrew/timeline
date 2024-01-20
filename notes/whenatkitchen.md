@@ -1,7 +1,8 @@
 ## accessories  
-* casserole with lid (diameter [18cm](https://www.skroutz.gr/s/16098709/Lamart-Rock-%CE%92%CE%B1%CE%B8%CE%B9%CE%AC-%CE%9A%CE%B1%CF%84%CF%83%CE%B1%CF%81%CF%8C%CE%BB%CE%B1-%CE%B1%CF%80%CF%8C-%CE%91%CE%BB%CE%BF%CF%85%CE%BC%CE%AF%CE%BD%CE%B9%CE%BF-2-1lt-18cm-LT1137.html), volume 1.8l)
+* casserole with lid ~~(diameter [18cm](https://www.skroutz.gr/s/16098709/Lamart-Rock-%CE%92%CE%B1%CE%B8%CE%B9%CE%AC-%CE%9A%CE%B1%CF%84%CF%83%CE%B1%CF%81%CF%8C%CE%BB%CE%B1-%CE%B1%CF%80%CF%8C-%CE%91%CE%BB%CE%BF%CF%85%CE%BC%CE%AF%CE%BD%CE%B9%CE%BF-2-1lt-18cm-LT1137.html), volume 1.8l)~~
 * wok (diameter 28cm)
-* pan (diameter 20cm)
+* pan (diameter [24cm](https://tescomaonline.com/en/products/tp0/tp0-frying-pan?diametro=diametro-24-cm))
+  * `Italy` reply - Regarding your requests, we can tell you that the non-stick coating is a **mix of Titanium and PTFE**. Teflon has not been used for several years for the production of non-stick pans. The part in **contact with food** is a special PTFE PFOA FREE non-stick coating made up of 6 layers on which even metal utensils can be used without damaging the pan. Our Headquarter company is based in the Czech Republic. `Czech HQ` reply - The pan of the [TitanPOWER](https://www.tescoma.cz/panev-titanpower-24-cm) line has a top layer made of Teflon-based material - PTFE (polytetrafluoroethylene).
 * bowl
 * strainer
 * measurment bowl

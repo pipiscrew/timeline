@@ -44,6 +44,7 @@
 * [paperlist](https://paperlist.io/) - Read and share research papers
 * [CBT nuggets](https://www.cbtnuggets.com/) - great resource to earning 7+ certificates  
 * [LSJ](https://lsj.gr) - The Liddell, Scott, Jones Ancient Greek Lexicon (LSJ) is perhaps the best known Ancient  Greek-English dictionary.
+* [ihavenotv](https://ihavenotv.com/) - Watch Free Online Documentaries  
 
 
 ## translators
@@ -261,6 +262,7 @@
 * [archive.today](https://archive.is/) - personal Wayback Machine [[2](https://archive.ph/)]
 * [dwnld](https://dwnld.net/) - url shortener
 * [dref](https://dref.xyz/) - url shortener
+* [shorturl](https://www.shorturl.at/) - url shortener
 * [href](https://href.li/) - block the referrer
 * [anonymz](https://anonymz.com/) - block the referrer
 

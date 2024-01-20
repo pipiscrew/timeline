@@ -87,9 +87,9 @@
 * [Kainet.Editor](http://www.kainet.ch/Editor-for-very-large-files) - Editor for very large files  
 * [UVviewersoft.LogViewer](http://www.uvviewsoft.com/logviewer/) - Viewer for big text log files, highlight keywords  
 
-
 ## CSV
-* [Modern CSV](https://www.moderncsv.com/) - Quick CSV load  
+* [Modern CSV](https://www.moderncsv.com/) - quick CSV load  
+* [asg017/sqlite-lines](https://github.com/asg017/sqlite-lines) - (sqlite extension) reading large text files line-by-line, Windows is [not](https://github.com/asg017/sqlite-lines/issues/4) supported
 * [Q - Run SQL Directly on CSV or TSV Files](http://harelba.github.io/q/)  
 * [Columnq - Run SQL on CSV, Parquet, JSON](https://github.com/roapi/roapi/tree/main/columnq-cli)
 * [Munge CSV](https://github.com/johnkerl/miller) - command line for CSV, TSV, and tabular JSON

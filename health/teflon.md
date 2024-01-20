@@ -19,7 +19,7 @@ Real story [The Lawyer Who Became DuPont’s Worst Nightmare](https://www.nytime
 
 `PFOA` is a chemical compound that is used as a processing aid in the production of some types of fluoropolymers, including Teflon (PTFE). It is not used as a coating on cookware, but it is used in the **manufacturing process** to make some types of non-stick coating, such as Teflon. PFOA is considered as a persistent organic **pollutant** due to its potential **health** and environmental effects, and it has been **phased out** of use by many manufacturers.  
 
-`PTFE`, on the other hand, is the chemical compound that is used to **make** `Teflon`, a brand of non-stick **coating**. PTFE is a synthetic fluoropolymer that is **applied** to the **surface** of cookware to create a non-stick coating. Is controversial material due to the potential health risks associated with inhaling fumes produced when the Teflon coated pans are overheated.  
+`PTFE`, on the other hand, is the chemical compound that is used to **make** `Teflon`, a brand of non-stick **coating**. PTFE is a synthetic fluoropolymer that is **applied** to the **surface** of cookware to create a non-stick coating. Is controversial material due to the potential health risks associated with **inhaling fumes** produced when the Teflon coated pans are overheated.  
 
 `PFOA` and `PFOS` are members of a chemical group called per- and polyfluoroalkyl substances (aka `PFAS`).  
 
@@ -43,4 +43,14 @@ and also blood tests, for 'cookware' derived :
 * [europarl.Removing ‘forever chemicals’ from everyday consumer products](https://www.europarl.europa.eu/doceo/document/E-9-2023-000898_EN.html) - Study which revealed that perfluorocarbons (PFC) as well as per- and polyfluoroalkyl substances (PFAS) are highly present in everyday consumer products.
 * [Australia moves to ban three ‘forever chemicals’ PFOA, PFOS and PFHxS](https://www.smh.com.au/national/australia-moves-to-ban-three-forever-chemicals-but-family-of-us-teen-say-more-needs-to-be-done-20231006-p5eac5.html)
 * [Americans largely unaware of PFAS chemicals](https://phys.org/news/2023-11-americans-oblivious-chemicals.html)
-* [EPA orders packaging firm Inhance to stop making PFAS](https://cen.acs.org/environment/persistent-pollutants/US-EPA-orders-packaging-firm/101/web/2023/12)
+* [EPA orders packaging firm Inhance to stop making PFAS](https://cen.acs.org/environment/persistent-pollutants/US-EPA-orders-packaging-firm/101/web/2023/12)  
+
+-----  
+
+Thank you for contacting the Tefal helpline.
+
+The `Tefal`/T-fal non-stick surface is a technical layer made of a polymer labeled `PTFE` (poly-tetra-fluoro-ethylene). It is PTFE that gives the dishes **non-stick** properties. European and American public health agencies (ANSES, EFSA, FDA) have proven that `PTFE` is an inert substance that does **not cause** chemical reactions when in contact with food, water and household cleaning products. It does not present any danger if **swallowed**. These public health agencies have also certified the safety of nonstick PTFE cookware. PTFE is **so harmless** from a health point of view that it is often used in the healthcare industry for the surface treatment of pacemakers and miniature tubes replacing arteries. This material is also used in surgical interventions, when it helps patients with serious kidney diseases. Some joint replacements are also provided with a surface layer of `PTFE`.
+
+Pans of the **Tefal Unlimited** series are made of aluminum with **titanium admixture**. Their surface guarantees maximum non-stickiness and durability.
+
+In case of further questions, please do not hesitate to contact us again.
