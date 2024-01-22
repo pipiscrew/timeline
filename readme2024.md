@@ -21,7 +21,7 @@
   * [lol - Hacking into a Toyota insurance company by exploiting their premium calculator](https://eaton-works.com/2024/01/17/ttibi-email-hack/)
   * [Z - Jump around (linux)](https://github.com/rupa/z)
   * [Technitium DNS Server - Self host a DNS server for privacy and security](https://technitium.com/dns/)
-  * [His New Computer](https://blog.taoetc.org/)
+  * [His New Computer](https://blog.taoetc.org/my_new_computer/index.html)
   * [PixieFail - Nine Vulnerabilities UEFI Implementations](https://blog.quarkslab.com/pixiefail-nine-vulnerabilities-in-tianocores-edk-ii-ipv6-network-stack.html)
   * [Browsh - The modern text-based web browser](https://www.brow.sh/)
   * [Flowblade - Open-Source Video Editor](https://jliljebl.github.io/flowblade/)
