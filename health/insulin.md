@@ -890,7 +890,11 @@ loved [salad](https://www.youtube.com/watch?v=d8Rim5RfseQ) :
 * cauliflower [tursi](https://www.youtube.com/watch?v=Gxf2A1LIk0c)
 * 125gr cottage cheese
 * 1/4 iceberg lettuce
-* herbs Dill & Parsley & Coriander -all green- and onion powder and salt
-  * do a mix to a bowl - 1tsp salt and all the other 1/4 tsp, use it on dishes  
+* **dried** herbs Dill & Parsley & Coriander (all green) and onion powder
+  * do a mix to a bowl - add for all 1/4 tsp, use it on dishes
+  * use salt & pepper separately  
+
+
+![img](../assets/dried_herbs.jpg)   
 
 [Scrambled eggs with bacon](https://www.ernaehrung.de/lebensmittel/en/Y720643/Scrambled-eggs-with-bacon-%284%29.php) nutrition
