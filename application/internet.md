@@ -314,6 +314,8 @@ To disable multiple running processes of the browser, you can set `browser.tabs.
 * [TinyWall](https://tinywall.pados.hu/)
 * [Malwarebytes.WFC](https://www.binisoft.org/wfc) - use `log window` for more options.
   * before install delete all rules exist through Control Panel
+  * use profile `medium`
+  * notifications > Display notifications to get allow / deny when application goes to connect
   * after you have to `allow` the `DNS client (svhost.exe)` (9) and `DHCP (svhost.exe)` (5). Optional `Network Discovery` (62) and `ICMP` (28)
   * at `Rules Panel` make sure always the `Display` combo set to `All rules`, some sniffy apps adding direct, only `Inbound` rules..
 * [fort](https://github.com/tnodir/fort)

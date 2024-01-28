@@ -1,4 +1,11 @@
 ## 2024/01
+  * [VS - IL Support extension (2019)](https://github.com/ins0mniaque/ILSupport)
+  * [deGoogle with eOS.ROMS (incl Murena by default)](https://doc.e.foundation/devices)
+    * [2](https://sourceforge.net/projects/eosbuildsronnz98/files/)
+    * [3](https://www.youtube.com/watch?v=hAlYYwK61_I)
+  * [deGoogle with eOS.Murena (similar with gSuite, auto syncs web & eOS.ROM mobile)](https://murena.io/)
+  * [Smali - Decompiling/[Modifying]/Compiling](https://book.hacktricks.xyz/mobile-pentesting/android-app-pentesting/smali-changes)
+  * [Microsoft lays off 1,900 Activision Blizzard and Xbox employees](https://www.theverge.com/2024/1/25/24049050/microsoft-activision-blizzard-layoffs)
   * [OpenAI is working with the US military now](https://www.bloomberg.com/news/articles/2024-01-16/openai-working-with-us-military-on-cybersecurity-tools-for-veterans)
     * [2](https://www.semafor.com/article/01/16/2024/openai-is-working-with-the-pentagon-on-cybersecurity-projects)
   * [Stanford mobile ALOHA robot learns from humans to cook, clean, do laundry](https://venturebeat.com/automation/stanfords-mobile-aloha-robot-learns-from-humans-to-cook-clean-do-laundry/)
