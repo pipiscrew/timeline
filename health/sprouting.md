@@ -120,3 +120,7 @@ Using 50gr mung beans, soaked overnight then Day1 8am added it to GEFU
 
 ## this quantity is for 3 days (till next harvest come) eating twice a day (a palm)
 ![img](../assets/sprouting4e.jpg)  
+
+---
+
+* [Mushroom Sprouting Out of a Living Frog](https://href.li/?https://journals.ku.edu/reptilesandamphibians/article/view/20966/19496)
