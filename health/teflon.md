@@ -44,6 +44,7 @@ and also blood tests, for 'cookware' derived :
 * [Australia moves to ban three ‘forever chemicals’ PFOA, PFOS and PFHxS](https://www.smh.com.au/national/australia-moves-to-ban-three-forever-chemicals-but-family-of-us-teen-say-more-needs-to-be-done-20231006-p5eac5.html)
 * [Americans largely unaware of PFAS chemicals](https://phys.org/news/2023-11-americans-oblivious-chemicals.html)
 * [EPA orders packaging firm Inhance to stop making PFAS](https://cen.acs.org/environment/persistent-pollutants/US-EPA-orders-packaging-firm/101/web/2023/12)  
+* [New Zealand set to be first country to ban PFAS in cosmetic products](https://www.chemistryworld.com/news/new-zealand-set-to-be-first-country-to-ban-pfas-in-cosmetic-products/4018893.article)
 
 -----  
 

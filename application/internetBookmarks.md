@@ -256,6 +256,7 @@
 * [perplexity](https://www.perplexity.ai/) - Chat Interface to Search Engine  
 * [GigaBrain - A Reddit Search Engine](https://thegigabrain.com/)
 * [Reddit Search](https://redditsearch.xyz/) -  via Google Search  
+* [Stract](https://stract.com/) - Open-souce, non-profit search engine  
 
 ## url helpers
 * [is.gd](https://is.gd/) - url shortener

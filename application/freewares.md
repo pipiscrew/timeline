@@ -15,7 +15,8 @@
 
 # misc
 * [Cmder](https://cmder.net/) - onsole emulator on Windows
-* [Sandboxie](https://www.sandboxie.com/) - run programs in a sandbox 
+* [Sandboxie](https://www.sandboxie.com/) - run programs in a sandbox
+  * [Sandboxie](https://github.com/sandboxie-plus/Sandboxie)
 * [KeePassXC](https://keepassxc.org/) - community fork of [KeePass](https://keepass.info/), password manager
 * [Password Tech](https://pwgen-win.sourceforge.io/)
 * [Nimi Places](http://mynimi.net/Projects/Nimi-Places/) - organizes desktop into customizable containers
