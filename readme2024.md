@@ -223,7 +223,7 @@
   * [Natural-SQL-7B, a strong text-to-SQL model](https://github.com/cfahlgren1/natural-sql)
   * [WebAssembly Playground](https://observablehq.com/@chaosalchemist/wasm-playground)
   * [TCC RISC-V Compiler Runs in the Web Browser (Thanks to Zig Compiler)](https://lupyuen.codeberg.page/articles/tcc.html)
-  * [__VA_OPT__ Minutiae](https://www.corsix.org/content/va-opt-minutiae)
+  * [VA_OPT Minutiae](https://www.corsix.org/content/va-opt-minutiae)
   * [Make a tiny Raspberry Pi based cyberdeck](https://www.the-diy-life.com/make-a-tiny-raspberry-pi-based-cyberdeck/)
   * [include (2010)](https://zeux.io/2010/11/15/include-rules/)
   * [Rye - A Vision Continued - Python package management](https://lucumr.pocoo.org/2024/2/4/rye-a-vision/)
