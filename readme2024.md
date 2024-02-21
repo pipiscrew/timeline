@@ -1,4 +1,4 @@
-## 2024/01
+## 2024/02
   * [AI Generated (Not-Real) User Avatar Images for Development Needs](https://avatars.tzador.com/face)
   * [Microsoft bets on Germany in 3,2B euro AI push](https://www.reuters.com/technology/microsoft-invest-32-bln-eur-germany-ai-push-2024-02-15/)
   * [Automated Unit Test Improvement Using Large Language Models at Meta](https://arxiv.org/abs/2402.09171)
@@ -15,7 +15,7 @@
   * [Stable Cascade](https://github.com/Stability-AI/StableCascade)
   * [Apple releases MGIE, an AI-based image editing model](https://appleinsider.com/articles/24/02/07/apple-throws-its-hat-into-the-ai-generated-image-ring)
   * [Oslo acquires ChatGPT for 110k students and teachers](https://www.digi.no/artikler/oslo-kjoper-chat-gpt-til-110-000-elever-og-laerere/543339)
-  * [iPissed - Apple broke iPhone web apps in the EU for anticompetitive reasons - Tim Sweeney](https://techcrunch.com/2024/02/16/epic-games-ceo-suggests-apple-broke-iphone-web-apps-in-the-eu-for-anticompetitive-reasons/)
+  * [iPissed - Apple broke iPhone web apps in the EU for anticompetitive reasons](https://techcrunch.com/2024/02/16/epic-games-ceo-suggests-apple-broke-iphone-web-apps-in-the-eu-for-anticompetitive-reasons/)
     * [2](https://open-web-advocacy.org/blog/its-official-apple-kills-web-apps-in-the-eu/)
     * [3](https://techcrunch.com/2024/02/15/apple-confirms-its-breaking-iphone-web-apps-in-the-eu-on-purpose/)
   * [Apple confirms iOS 17,4 removes Home Screen web apps in the EU](https://9to5mac.com/2024/02/15/ios-17-4-web-apps-european-union/)
@@ -328,6 +328,8 @@
   * [filippo,io/mlkem768 - Post-Quantum Cryptography for the Go Ecosystem](https://words.filippo.io/dispatches/mlkem768/)
   * [The theory of concatenative combinators (2007)](http://tunes.org/~iepos/joy.html)
   * [DNS over HTTPS is not what I thought](https://www.petefreitag.com/blog/dns-over-https/)
+  
+  ## 2024/01
   * [Marlon Brando Was a Secret Tech Geek and Photoshop Ace (2015)](https://www.yahoo.com/entertainment/marlon-brando-was-a-secret-tech-geek-and-photoshop-124061824672.html)
   * [EU chip goal 'unrealistic' says ASML CEO](https://www.electronicsweekly.com/news/business/eu-chip-goal-totally-unrealistic-2024-01/)
   * [Lockbox - forward proxy for making third party API calls](https://github.com/mkjt2/lockbox)
