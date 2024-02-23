@@ -212,7 +212,7 @@ Most air filters will have a light that goes on when the air flow is partially b
 * [Dynomight - A DIY air purifier that's better than a box-fan](https://dynomight.net/better-DIY-air-purifier.html)
 * (2023) [DIY air filter for polluted cities](https://particlecounting.tumblr.com/post/55483627230/how-to-make-a-diy-air-purifier)
   * [Fan](https://item.jd.com/829933.html) (50w - 370 x 310 x 100mm)
-  * [Air Tester - Dylos DC1100 Pro Air Quality Monitor ](http://dylosproducts.com/ornodcproair.html)
+  * [Air Tester - Dylos DC1100 Pro Air Quality Monitor ](http://dylosproducts.com/ornodcproair.html) - [Only use foam pillows](http://dylosproducts.com/tiforbeinair.html)
     * [amazon](https://www.amazon.com/dp/B004AWEG0Y)
   * [test video](https://particlecounting.tumblr.com/post/55491154130/diy-air-outlet-test-heres-test-1-is-the-air)
 * [Smoke Air Filter (box-fan) for $150](https://www.outsideonline.com/outdoor-gear/gear-news/get-outside-tour-upcoming-events/)
