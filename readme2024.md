@@ -1,4 +1,4 @@
-## 2024/02
+## 2024/00
   * [AI Generated (Not-Real) User Avatar Images for Development Needs](https://avatars.tzador.com/face)
   * [Microsoft bets on Germany in 3,2B euro AI push](https://www.reuters.com/technology/microsoft-invest-32-bln-eur-germany-ai-push-2024-02-15/)
   * [Automated Unit Test Improvement Using Large Language Models at Meta](https://arxiv.org/abs/2402.09171)
