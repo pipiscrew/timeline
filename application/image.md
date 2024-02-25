@@ -1,5 +1,4 @@
 ## Viewer
-
 * [ACDSee v3.1](http://www.oldversion.com/windows/acdsee-3-1) 132728175249781441
 
 ## Capture Image/Video
@@ -18,6 +17,7 @@
 * [Photoshop 7.0](https://www.filehorsefile.com/download-adobe-photoshop-7-0/)
 * [paint.net](https://www.softpedia.com/get/Multimedia/Graphic/Graphic-Editors/Paint-NET.shtml)
 * [openCanvas](https://portalgraphics.net/en/oc/)
+* [tuguoba.document scan](https://tuguoba.com/scanner) - convert an image to a4 (like CamScanner)
 
 ## Image Optimizer
 * [Riot](https://riot-optimizer.com/)

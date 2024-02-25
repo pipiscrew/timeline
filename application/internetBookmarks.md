@@ -136,6 +136,7 @@
 * [hooktube](https://www.hooktube.com) - add **hook** to domain => **hook**tube.com/watch?v=Oflegc79QB4
 * [NSFWyoutube](http://www.nsfwyoutube.com/) -  add **nsfw** to domain => **nsfw**youtube.com/watch?v=p5IO-IJSVnQ
 * [YouTube Transcript](https://youtubetranscript.com/) - get subtitles
+* [download youtube subtitle](https://downloadyoutubesubtitle.com/)
 * [SoundCloud Downloader](https://sclouddownloader.net/)
 * [Dailymotion Downloader](https://freedownloadvideo.net/dailymotion-video-downloader) - ++ linkedin, reddit, ted, telegram, tiktok, vimeo, twitter, twitch, bitchute, rumble
 * [Instagram Downloader](https://snapinsta.app/)
