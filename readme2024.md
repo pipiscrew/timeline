@@ -1,5 +1,5 @@
 ## 2024/00
-  * [Danswer (YC W24) - Open-source AI search and chat over private data](https://github.com/danswer-ai/danswer).)
+  * [Danswer - Open-source AI search and chat over private data](https://github.com/danswer-ai/danswer)
   * [OpenAI postmortem - Unexpected responses from ChatGPT](https://status.openai.com/incidents/ssg8fh7sfyz3)
   * [OpenAI Deal Lets Employees Sell Shares at $86B Valuation](https://www.bloomberg.com/news/articles/2024-02-17/openai-deal-lets-employees-sell-shares-at-86-billion-valuation)
   * [Osquery - An sqlite3 virtual table exposing operating system data to SQL](https://osquery.io/)
