@@ -350,6 +350,7 @@
 * [Notepad Calculator](https://notepadcalculator.com/)  
 * [Free Online Graph Paper](https://incompetech.com/graphpaper/)
 * [Ruler Online](https://ruler.onl/)
+* [Monitor - Refresh Rate Test](https://fpstest.org/refresh-rate-test/)  
 
 ## food
 * [inch calculator](https://www.inchcalculator.com/convert/butter/) - cooking unit conversion
