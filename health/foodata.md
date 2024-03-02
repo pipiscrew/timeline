@@ -57,7 +57,7 @@ Is just a mockup to show where a specific food `fail` or not. By clicking any im
 [![img](../assets/foodata/cumin.png)](https://tools.myfooddata.com/nutrition-facts/733462/wt1/1)
 [![img](../assets/foodata/turmeric.png)](https://tools.myfooddata.com/nutrition-facts/172231/wt1/1)  
 
-* find you [dietary reference intakes](https://www.nal.usda.gov/human-nutrition-and-food-safety/dri-calculator) (DRI) by USDA (change the metric system)
+* find you [dietary reference intakes](https://www.nal.usda.gov/human-nutrition-and-food-safety/dri-calculator) (DRI) by USDA (change the metric system) -  ( below 18.5 = underweight | 18.5 – 24.9 = healthy weight | 25.0 – 29.9 = overweight | 30.0 and above = obesity ) [source](https://www.cdc.gov/healthyweight/assessing/bmi/adult_bmi/index.html)
   * exceeded protein (aka [non complete protein](https://pipiscrew.github.io/timeline/#/health/introduction?id=proteins)) turned to glucose (carbohydrates)
     * exceeded protein illustrated on **UREA** blood test (getting high)
 * if you need carbohydrates, at least, do it the right way. Stay **low carb** during the day and then have one higher carb meal at the end of the day. Works best in the evening, at the end of your eating window. Try to keep **net carbohydrates** (carbs minus fiber) less of 100 grams a day (max : two potatoes OR 1/2 cup of rice OR four apples)
