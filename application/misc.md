@@ -186,6 +186,7 @@
 * [Qalculate!](https://qalculate.github.io/) - the ultimate desktop calculator
 * [Emsisoft - Ransomware Decryption Tools](https://emsisoft.com/ransomware-decryption-tools/)  
 * [avast - Ransomware Decryption Tools](https://www.avast.com/ransomware-decryption-tools)
+* [Shadow Explorer](https://www.shadowexplorer.com/) - allows you to browse the Shadow Copies created by Windows (can be used in case of ransomware)
 * [Windhawk](https://windhawk.net/) - customization marketplace  
 * [Crawlee](https://crawlee.dev/) - is a web scraping and browser automation library  
 * [NAPS2](https://www.naps2.com/) - scan documents to PDF and more  
