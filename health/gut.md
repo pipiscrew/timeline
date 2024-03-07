@@ -270,6 +270,40 @@ ingredients :
   * Bifidobacterium lactis Bl-04 (105,84 mg)
   * Bifidobacterium lactis HN019 (83,01 mg)</div></details>
 
+
+<details>
+<summary>Frezyderm.prodilac restore (Lactobacillus / Bifidobacterium / Streptococcus strains)</summary>
+<br/>
+<div style="margin-left:20px">
+per capsule : 400 million CFU (coloning forming units)  
+dose : 1-3 capsules per day  
+
+ingredients :  
+* Bifidobacterium longum BB536
+* Lactobacillus acidophilus LA-14
+* Lactobacillus rhamnosus PB01
+* Lactobacillus salivarius LS-33
+* Lactobacillus casei LC-11
+* Lactobacillus plantarum LP-115
+* Lactobacillus delbrueckii ssp. bulgaricus SP5
+* Bifidobacterium bifidum BB-02
+* Bifidobacterium lactis Bl-04
+* Lactococcus lactis LL-23
+* Streptococcus thermophilus St-21</div></details>
+
+
+<details>
+<summary>Lamberts.Acidophilus Extra 10 (Lactobacillus / Bifidobacterium strains)</summary>
+<br/>
+<div style="margin-left:20px">
+per capsule : 10 billion CFU (coloning forming units)  
+dose : 1 capsule per day  
+
+ingredients :  
+* Bifidobacterium bifidum
+* Lactobacillus acidophilus</div></details>
+
+
 <details>
 <summary>
 Optibac references</summary>
