@@ -330,6 +330,34 @@ For maximum potency **refrigerate** the product after opening. Do not remove the
 
 (rebuild) `PepZinGI` - 2 capsules per day - patented Zinc-Carnosine (as [product](https://www.pepzingi.com/))  
 
+
+(GPT) Beneficial bacteria commonly used as supplements, ordered by priority based on their reported **effectiveness** in promoting gastrointestinal health:  
+
+| Priority | Beneficial Bacteria        | Effectiveness                                               |
+| -------- | -------------------------- | ----------------------------------------------------------- |
+| 1        | Lactobacillus acidophilus  | Supports digestion, immune function, and gut balance        |
+| 2        | Bifidobacterium bifidum    | Supports gut barrier function, digestion, and immunity      |
+| 3        | Lactobacillus rhamnosus    | Helps prevent and alleviate diarrhea, supports immunity     |
+| 4        | Saccharomyces boulardii    | Supports gut health during antibiotic use, reduces diarrhea |
+| 5        | Lactobacillus plantarum    | Supports gut health, reduces inflammation                   |
+| 6        | Bifidobacterium longum     | Supports digestion and immune function                      |
+| 7        | Lactobacillus casei        | Supports digestion and immune function                      |
+| 8        | Streptococcus thermophilus | Supports digestion and gut balance                          |  
+
+(GPT) For individuals with `histamine intolerance`, it's important to consider probiotic strains that are less likely to exacerbate symptoms associated with histamine intolerance.  
+
+| Priority | Beneficial Bacteria        | Effectiveness                                               | Consideration for Histamine Intolerance                 |
+| -------- | -------------------------- | ----------------------------------------------------------- | ------------------------------------------------------- |
+| 1        | Bifidobacterium bifidum    | Supports gut barrier function, digestion, and immunity      | Generally well-tolerated, low histamine-producing       |
+| 2        | Lactobacillus plantarum    | Supports gut health, reduces inflammation                   | Produces lower levels of histamine                      |
+| 3        | Lactobacillus rhamnosus    | Helps prevent and alleviate diarrhea, supports immunity     | Generally well-tolerated, low histamine-producing       |
+| 4        | Bifidobacterium longum     | Supports digestion and immune function                      | Generally well-tolerated, low histamine-producing       |
+| 5        | Lactobacillus casei        | Supports digestion and immune function                      | Moderate histamine producer, use with caution           |
+| 6        | Lactobacillus acidophilus  | Supports digestion, immune function, and gut balance        | Can vary in histamine production depending on strain    |
+| 7        | Saccharomyces boulardii    | Supports gut health during antibiotic use, reduces diarrhea | Generally histamine-neutral, but may vary in some cases |
+| 8        | Streptococcus thermophilus | Supports digestion and gut balance                          | Generally hist                                          |  
+
+
 ps :  
 * **Coffee** aggravates the acidity, no good when subject has gut inflammation as **cannot heal**. Replace completely for **a month** (or at least 20 days) coffee with green tea (2 cups / day), I had tried also in the past but saw difference with this specific **Sencha** variant called **Satsuma** (Sencha Satsuma).. Strange I know!  
 

@@ -214,6 +214,7 @@
 			* [2](https://www.jsonutils.com/)  
 		* [Convert C# class to JSON](https://csharp2json.io/)  
 * [RecipeUI](https://recipeui.com/) - Open-source Postman alternative with type safety
+* [Bruno](https://www.usebruno.com/) - open-source API client Postman alternative
 * [codeberg](https://codeberg.org/) - git alternative  
 
 ## music
