@@ -355,7 +355,7 @@ For maximum potency **refrigerate** the product after opening. Do not remove the
 | 5        | Lactobacillus casei        | Supports digestion and immune function                      | Moderate histamine producer, use with caution           |
 | 6        | Lactobacillus acidophilus  | Supports digestion, immune function, and gut balance        | Can vary in histamine production depending on strain    |
 | 7        | Saccharomyces boulardii    | Supports gut health during antibiotic use, reduces diarrhea | Generally histamine-neutral, but may vary in some cases |
-| 8        | Streptococcus thermophilus | Supports digestion and gut balance                          | Generally hist                                          |  
+| 8        | Streptococcus thermophilus | Supports digestion and gut balance                          | Generally histamine-neutral                             |  
 
 
 ps :  
