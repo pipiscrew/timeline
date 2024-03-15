@@ -146,4 +146,5 @@
 * [19/05/2023] [Σε ριζικό λίφτινγκ στα πληροφοριακά συστήματα Τaxis, Taxisnet και Elenxis προχωρά η ΑΑΔΕ](https://www.dikaiologitika.gr/eidhseis/oikonomia/429537/aade-erxetai-neo-taxisnet-ti-allazei)
 * [03/06/2023] [Εκπαιδευτικό υλικό για το δημοτικό σχολείο](http://emathima.gr/)
 * [03/06/2023] [Πώς πληρώνεται ο ΕΝΦΙΑ ηλεκτρονικά](https://www.ieidiseis.gr/oikonomia/200216/pos-plironetai-o-enfia-ilektronika-pos-vgazete-pistopoiitiko-sto-gov-gr)
+* [11/03/2024] [ΑΑΔΕ mobile app](https://www.businessnews.gr/oikonomia/item/283565-aade-energopoieitai-eos-to-telos-martiou-to-neo-mobile-app-oi-dynatotites) - Να εκδίδουν τιμολόγια ανά πάσα στιγμή,τα οποία θα ανεβαίνουν και στα ηλεκτρονικά βιβλία
 * [find latest news about GOV](https://mindigital.gr/archives/category/deltia-typou-anakoinoseis)
