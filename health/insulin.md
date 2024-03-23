@@ -818,6 +818,7 @@ Then they are **essential micronutrients** that play various roles in the body f
 | Calcium                       | Mineral                  | Bone and teeth health and muscle function, nerve transmission, blood clotting, and cell signaling                                              |
 | Iron                          | Mineral                  | Oxygen transport in blood                                                                                                                      |
 | Magnesium                     | Mineral                  | Muscle and nerve function                                                                                                                      |
+| Iodine                        | Mineral                 | Thyroid function intimately connected to triglyceride and cholesterol problems                    |
 | Phosphorus                    | Mineral                  | Bone and cell structure                                                                                                                        |
 | Potassium                     | Mineral                  | Nerve function and fluid balance, important for muscle contraction and maintaining heart rhythm                                                |
 | Sodium                        | Mineral                  | Fluid balance and nerve function, essential component in many biochemical processes in the body                                                |
