@@ -47,5 +47,6 @@
 * [Open Mind](https://openmindsoftware.org)
 * [Freeplane](https://www.freeplane.org)
 * [draw.io](https://app.diagrams.net/)
+  * [standalone application](https://github.com/jgraph/drawio-desktop/releases/)
 * [flowchart.fun](https://flowchart.fun/) - Generate flowcharts from Text
 * [Excalidraw](https://github.com/excalidraw/excalidraw) - whiteboard for sketching hand-drawn like diagrams
