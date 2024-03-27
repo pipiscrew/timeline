@@ -856,7 +856,7 @@ Emphasis to the following multipurpose elements :
   * **Blood Glucose Regulation**: Magnesium is involved in insulin action and helps regulate blood sugar levels.
   * **DNA and RNA Synthesis**: It is necessary for the synthesis and repair of DNA and RNA, the genetic material in our cells.
 * `Iodine`
-  * **Essential for Thyroid Function**: Is a crucial component of thyroid hormones (balance them), which regulate metabolism, growth, and development.
+  * **Essential for Thyroid Function**: Is a crucial component of thyroid hormones (balance them), which regulate metabolism, growth, and development. Fix high triglycerides and other cholesterol imbalances.
   * **Cognitive Development**: It helps prevent cognitive impairments and ensures optimal cognitive function, promoting healthy neurodevelopment in infants and children.
   * **Anti-inflammatory Effects**: Reducing inflammation in the body, iodine may indirectly help alleviate certain skin conditions characterized by inflammation, such as eczema or psoriasis.
 * `Zinc`
