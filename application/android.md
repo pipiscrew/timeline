@@ -41,6 +41,7 @@
 * [SimpleMind.Mind Mapping](https://play.google.com/store/apps/details?id=com.modelmakertools.simplemindfree)  
 * [Redhat.FreeOTP](https://freeotp.github.io/) - lacks of export (using common android backup for package working + [viljoviitanen](https://github.com/viljoviitanen/freeotp-export) can regenerate the initial QR from android backup)
 * [unknown.FreeOTP+](https://play.google.com/store/apps/details?id=org.liberty.android.freeotpplus) - offers export
+* [Aegis](https://github.com/beemdevelopment/Aegis) - open source 2FA app
 * [wine](https://dl.winehq.org/wine-builds/android/)
 * [Relay for reddit](https://play.google.com/store/apps/details?id=free.reddit.news)
 * [Earthquake Network](https://play.google.com/store/apps/details?id=com.finazzi.distquake) - Is the only earthquake early warning system able to alert you **~15-30sec** before the seismic waves. [[homepage](https://sismo.app/)]
