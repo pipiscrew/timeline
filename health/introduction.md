@@ -391,3 +391,4 @@ Some **hormones** like adrenaline have very short live... Only 8 seconds. Melato
 
 * [Z-Anatomy](https://www.z-anatomy.com/) - 3D atlas of the human anatomy.
 * (2003) [Newstart: God's Laws Of Health](http://www.faculty.umb.edu/alexandrine_noel/AlexINFO/newstart.htm)
+* (2024) [Proteins let cells remember how well their last division went](https://arstechnica.com/science/2024/03/proteins-let-cells-remember-how-well-their-last-division-went/) ([doi](https://www.science.org/doi/10.1126/science.add9528))

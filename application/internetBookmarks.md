@@ -79,6 +79,7 @@
 * (client side) [Local PDF Tools](https://localpdf.tech/)
 * [CleverPDF](https://www.cleverpdf.com) - the best for (optimize) compress PDF
 * (client side) [PDF Debugger](https://pdf.hyzyla.dev/) - inspect structure of PDF
+* (client side) [Simple PDF](https://simplepdf.eu/) - online editor
 * (client side) [BulkResize photos](https://bulkresizephotos.com/en)
 * (client side) [Photopea](https://www.photopea.com/) - Online Photoshop
 * [Lunapic](https://www8.lunapic.com/editor/) - online photo editor

@@ -5,6 +5,7 @@
 * Υπεύθυνη Δήλωση, Εξουσιοδότηση, `Ψηφιακή Βεβαίωση Εγγράφου` κτλ. - [https://docs.gov.gr/](https://docs.gov.gr/) &nbsp; [[2](https://www.gov.gr/ipiresies/polites-kai-kathemerinoteta/psephiaka-eggrapha-gov-gr/psephiake-bebaiose-eggraphou)]  
   * Ιστορικό εγγράφων (Θυρίδα πολίτη) - [https://my.gov.gr/](https://my.gov.gr/)  
 * Wallet (όλα τα δημόσια έγγραφα στο κινητό σας) - [https://wallet.gov.gr/](https://wallet.gov.gr/)  
+* [myAADEapp](https://play.google.com/store/apps/details?id=com.myaadeapp) -  εκπληρώνετε απλά τις υποχρεώσεις σας από το android κινητό σας.
 * Δι@ύγεια - [https://diavgeia.gov.gr/](https://diavgeia.gov.gr/)  
 * Αδειών Οδήγησης - Αδειών Κυκλοφορίας - [https://drivers-vehicles.services.gov.gr/login](https://drivers-vehicles.services.gov.gr/login)  
 * ΕΟΠΠΥ (Φάκελος Ασφάλισης Υγείας - Φάρμακα Υψηλού Κόστους) - [https://www.eopyy.gov.gr/](https://www.eopyy.gov.gr/)

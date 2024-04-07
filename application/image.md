@@ -14,6 +14,7 @@
 * [TechSmith.Camtasia Studio](https://www.techsmith.com/video-editor.html)
 
 ## Image Editor
+* [Chasys Draw IES](https://www.jpchacha.com/chasysdraw/) [[2](https://cdn.neowin.com/news/images/uploaded/2020/04/1587028216_chasys_draw_ies.jpg)]
 * [Photoshop 7.0](https://www.filehorsefile.com/download-adobe-photoshop-7-0/)
 * [paint.net](https://www.softpedia.com/get/Multimedia/Graphic/Graphic-Editors/Paint-NET.shtml)
 * [openCanvas](https://portalgraphics.net/en/oc/)
