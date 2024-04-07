@@ -110,7 +110,7 @@ those cuisines don't have garlic or tomatoes in their plates....
   * Magnesium | Potassium | Manganese | Vitamin C - may have anti-inflammatory effects and may be beneficial for gut health.  
 
 for cereal & bread, choose only whole wheat.
-* the mutligrain bread, is made by white floor and include grains.
+* the multigrain bread, is made by white flour and include grains.
 * the whole wheat bread is made by wholemeal.  
 
 ## medicines
