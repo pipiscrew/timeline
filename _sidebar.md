@@ -62,6 +62,7 @@
 	* [USDA Food Data](/health/foodata.md)
 	* [teflon](/health/teflon.md)
 * [Stories]
+	* [cooking](/stories/cooking.md)
 	* [covid](/stories/wcovid.md)
 	* [covidGR](/stories/wcovidGR.md)
 	* [greece](/stories/greece.md)
