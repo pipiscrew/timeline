@@ -28,5 +28,5 @@
 1. Έτοιμο.  
 
 * [δείτε](https://imgur.com/a/BuwHzJH) το σε εικόνες.  
-* ευχαριστίες στον [κύριο](https://www.youtube.com/watch?v=AfeuDR7LnkQ) την εταιρίας [Κεραμάρη](https://μαννα.ελ/products/) που έδωσε τις οδηγίες.
+* δάσκαλος ο [κύριος](https://www.youtube.com/watch?v=AfeuDR7LnkQ) την εταιρίας [Κεραμάρη](https://μαννα.ελ/products/).
 * [διαβάστε](https://www.pipiscrew.com/threads/%CE%91%CE%B3%CE%BF%CF%81%CE%AC.11394/post-111726) για το ψωμί.
