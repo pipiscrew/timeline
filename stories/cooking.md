@@ -30,4 +30,10 @@
 
 * [δείτε](https://imgur.com/a/BuwHzJH) το σε εικόνες.  
 * δάσκαλος ο [κύριος](https://www.youtube.com/watch?v=AfeuDR7LnkQ) της εταιρίας [Κεραμάρη](https://μαννα.ελ/products/).
-* [διαβάστε](https://www.pipiscrew.com/threads/%CE%91%CE%B3%CE%BF%CF%81%CE%AC.11394/post-111726) για το ψωμί.
+* ψωμί σε [ρομποτάκι](https://www.youtube.com/watch?v=10WsN1AT1P4) [[2](https://youtu.be/8l4ltixZLmI?t=233)]
+* ψωμί σε [airfryer](https://www.youtube.com/watch?v=l5HDMPgWF5Y)
+* [διαβάστε](https://www.pipiscrew.com/threads/%CE%91%CE%B3%CE%BF%CF%81%CE%AC.11394/post-111726) για το ψωμί.  
+
+# Όσπρια στην χύτρα
+* [Φακές](https://www.argiro.gr/recipe/fakes-sti-xytra/) [[2](https://akispetretzikis.com/recipe/6941/fakes-sth-xytra-taxythtas)]
+* [Ρεβύθια](https://www.argiro.gr/recipe/revythia-sti-xytra/) [[2](https://akispetretzikis.com/recipe/5247/revithada-sth-chytra-tachythtas)]
