@@ -51,3 +51,4 @@
   * [standalone application](https://github.com/jgraph/drawio-desktop/releases/)
 * [flowchart.fun](https://flowchart.fun/) - Generate flowcharts from Text
 * [Excalidraw](https://github.com/excalidraw/excalidraw) - whiteboard for sketching hand-drawn like diagrams
+* [drawdb](https://drawdb.vercel.app/) - database diagram editor
