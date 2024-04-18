@@ -299,6 +299,7 @@ The sequence is :
 * [myabandonware](https://www.myabandonware.com/)
 * [Baldur Gate](https://dnd.wizards.com/products/baldurs-gate) - RPG
 * [Mega Game Pack 123](https://archive.org/details/mega-game-pack-123-ppGames) [[2](https://www.lastos.org/forum/index.php?threads/the-classic-mega-game-packs-collection-ppgames.1510/)]
+* [Xpadder](https://xpadder.com/) - map keyboard keys and mouse button actions to your game controller buttons  
 
 ## sample batch files, using every day ;) 
 
