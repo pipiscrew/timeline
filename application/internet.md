@@ -196,6 +196,7 @@ Chrome start with
   * [Automa](https://www.automa.site/) - Automate the browser by connecting blocks (free)
   * [No Service Worker](https://chromewebstore.google.com/detail/no-service-worker/mbhfklemgegigbfbfmfdmijkcnabgpmf)
   * [Authenticator (aka OTP)](https://addons.mozilla.org/en-US/firefox/addon/auth-helper/) [[2](https://authenticator.cc/)]
+  * [anori - new tab extension](https://github.com/OlegWock/anori)
   * --CentBrowser Advised--
     * [Chrome Better History](http://www.centbrowser.com/crx/Chrome-Better-History_v3.3.crx)
     * [Imagus](https://chrome.google.com/webstore/detail/imagus/immpkjjlgappgfkkfieppnmlhakdmaab)
