@@ -47,6 +47,7 @@
 * [Relay for reddit](https://play.google.com/store/apps/details?id=free.reddit.news)
 * [Earthquake Network](https://play.google.com/store/apps/details?id=com.finazzi.distquake) - Is the only earthquake early warning system able to alert you **~15-30sec** before the seismic waves. [[homepage](https://sismo.app/)]
 * [Scan4Chem](https://www.askreach.eu/scan4chem-app-for-checking-substances-of-very-high-concern-in-products-launched/)
+* [Lady Log - A period tracker](https://play.google.com/store/apps/details?id=earlyowlsoftware.justme.justme)
 * [TP-LINK UE300C - Use ethernet cable to connect to internet via USB-C](https://www.tp-link.com/us/home-networking/usb-converter/ue300c/)  
 
 ## webcam

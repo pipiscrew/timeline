@@ -7,6 +7,7 @@
 * Editor - [Cool Edit v2.1](https://www.filehorse.com/download-cool-edit-pro/) 
 * Editor - [Audacity](https://www.audacityteam.org/) - free crossplatform
 * Digital audio workstation - [Ardour](https://ardour.org/)   
+* [BandMatch](https://bandmatch.app) - "Tinder" but for finding musicians to create bands  
 
 ## ID3 Tags
 
