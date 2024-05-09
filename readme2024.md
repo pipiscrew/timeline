@@ -1,5 +1,5 @@
 ## 2024/00
-  * [Stack Overflow and OpenAI are partnering](https://stackoverflow.co/company/press/archive/openai-partnership/) 
+  * [Stack Overflow and OpenAI are partnering](https://stackoverflow.co/company/press/archive/openai-partnership/)  
   * [Supertone Shift - AI powered Real-time voice changer](https://product.supertone.ai/shift)
   * [Microsoft CTO - Thoughts on OpenAI (2019)](https://news.ycombinator.com/item?id=40266728)
   * [Free in-browser Llama 3 chatbot powered by WebGPU](https://github.com/abi/secret-llama)
