@@ -1,5 +1,6 @@
 * Mail - [K-9 Mail](https://play.google.com/store/apps/details?id=com.fsck.k9) / [FairEmail](https://f-droid.org/en/packages/eu.faircode.email/)  
-* Firewall - [NetGuard](https://play.google.com/store/apps/details?id=eu.faircode.netguard)  (how block [domains](https://github.com/M66B/NetGuard/blob/master/ADBLOCKING.md))
+* Firewall - [NetGuard](https://play.google.com/store/apps/details?id=eu.faircode.netguard)  (how block [domains](https://github.com/M66B/NetGuard/blob/master/ADBLOCKING.md)) - working via VPN
+* Firewall - [Rethink DNS + Firewall](https://rethinkdns.com/app) [[2](https://github.com/celzero/rethink-app)] - working via VPN
 * Launcher - [Evie](https://m.apkpure.com/evie-launcher/is.shortcut) (gplay deprecated)  
 * Scanner - [CamScanner](https://play.google.com/store/apps/details?id=com.intsig.camscanner)  
 * Music Player - [rhmsoft.Pulsar](https://play.google.com/store/apps/details?id=com.rhmsoft.pulsar)  
