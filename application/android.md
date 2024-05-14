@@ -51,6 +51,12 @@
 * [Lady Log - A period tracker](https://play.google.com/store/apps/details?id=earlyowlsoftware.justme.justme)
 * [TP-LINK UE300C - Use ethernet cable to connect to internet via USB-C](https://www.tp-link.com/us/home-networking/usb-converter/ue300c/)  
 
+## privacy
+* [Privacy Guard](https://play.google.com/store/apps/details?id=com.chamelalaboratory.chamela.privacy_guard)
+* [App Ops](https://play.google.com/store/apps/details?id=rikka.appops) - Permission manager
+* [AppManager](https://github.com/MuntashirAkon/AppManager)
+* [AutoStart App Manager](https://play.google.com/store/apps/details?id=com.sugarapps.autostartmanager)  
+
 ## webcam
 * [yoosee](https://play.google.com/store/apps/details?id=com.yoosee) - for IP cameras ex [gembird](https://gembird.com/item.aspx?id=11674). see also [iSpy](https://www.ispyconnect.com/camera/gembird) and global standard [ONVIF](https://www.onvif.org/)
 * [tinyCam Monitor](https://play.google.com/store/apps/details?id=com.alexvas.dvr.pro)  
