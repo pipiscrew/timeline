@@ -54,7 +54,7 @@
 ## privacy
 * [Privacy Guard](https://play.google.com/store/apps/details?id=com.chamelalaboratory.chamela.privacy_guard)
 * [App Ops](https://play.google.com/store/apps/details?id=rikka.appops) - Permission manager
-* [AppManager](https://github.com/MuntashirAkon/AppManager)
+* [AppManager](https://github.com/MuntashirAkon/AppManager) (only paid options inside)
 * [AutoStart App Manager](https://play.google.com/store/apps/details?id=com.sugarapps.autostartmanager)  
 
 ## webcam
