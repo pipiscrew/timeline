@@ -558,7 +558,8 @@ We all **fear** heart attacks, we **worry** that they can just happen like **out
 * (22/10/2023) [Type 2 diabetes rates in US youth rose 62% after COVID pandemic began](https://www.cidrap.umn.edu/covid-19/type-2-diabetes-rates-us-youth-rose-62-after-covid-pandemic-began-study-suggests)  
 * [Patients say keto helps with their mental illness](https://www.npr.org/sections/health-shots/2024/01/27/1227062470/keto-ketogenic-diet-mental-illness-bipolar-depression) - [[video](https://www.youtube.com/watch?v=x51HuJq0YCw)]  
 * [Thoughts on seed oil](https://dynomight.substack.com/p/seed-oil)  
-* [Dr. Pradip Jamnadas - Fasting For Survival Lecture](https://youtu.be/RuOvn4UqznU?t=1084)  
+* [Dr. Pradip Jamnadas - Fasting For Survival Lecture](https://youtu.be/RuOvn4UqznU?t=1084)
+* (17/05/2024) [A long-term ketogenic diet accumulates aged cells in normal tissues](https://dx.doi.org/10.1126/sciadv.ado1463) [[2](https://medicalxpress.com/news/2024-05-term-ketogenic-diet-accumulates-aged.html)]  
 
 Here’s a summary of the valuable measures that can be gleaned from the standard cholesterol tests.  
 * **Triglyceride** should be safely below 80 to 100 mg/dL.

@@ -66,6 +66,7 @@ Is just a mockup to show where a specific food `fail` or not. By clicking any im
   * liver glycogen drops
   * gut starts cleansing processes
 * **walk** after lunch, 10 minutes (1km), is major help for digestion
+* [Proteins in blood could provide early cancer warning ‘by more than seven years’](https://www.theguardian.com/society/article/2024/may/15/proteins-blood-cancer-warning-seven-years-study) [[2](https://www.nature.com/articles/s41467-024-48017-6)] [[3](https://www.nature.com/articles/s41467-024-46834-3)]
 
 > If you overfeed someone with **fat**, you do **not** increase their cancer risk at all. You overfeed someone with **carbohydrates** and you dramatically **increase** their cancer risk. And protein is halfway in between. ([Dr. Craig B. Thompson](https://www.mskcc.org/about/leadership/office-president/craig-b-thompson-biography), the head of Memorial Sloan Kettering)  
 
