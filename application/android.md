@@ -30,7 +30,7 @@
 * Measure Wifi - [farproc.Wifi Analyzer](https://play.google.com/store/apps/details?id=com.farproc.wifi.analyzer)  
 * Hack WPS - [WPSApp](https://play.google.com/store/apps/details?id=com.themausoft.wpsapp)  
 * Video Capture - [Cinema FV-5 Lite](https://play.google.com/store/apps/details?id=com.flavionet.android.cinema.lite) - can change video frames per second (aka FPS) + bitrate.  
-* [CallBlocker](https://gitlab.com/bitfireAT/NoPhoneSpam/) - feature-rich call-spam fighting app [mirror](https://github.com/eaglx/CallBlocker) &nbsp; [F-Droid](https://f-droid.org/packages/at.bitfire.nophonespam/)  
+* [CallBlocker](https://gitlab.com/bitfireAT/NoPhoneSpam/) - feature-rich call-spam fighting app, enter numbers to be blocked with wildcards [F-Droid](https://f-droid.org/packages/at.bitfire.nophonespam/)
 * [LED Scroller](https://play.google.com/store/apps/details?id=oops.ledscroller)  
 * [WhatTheFont](https://play.google.com/store/apps/details?id=com.monotype.whatthefont)  
 * Game [Rider](https://play.google.com/store/apps/details?id=com.ketchapp.rider)  
