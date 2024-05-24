@@ -37,6 +37,7 @@
 <summary> πρωτότυπη συνταγή 2kg</summary>
 <br/>
 <div style="margin-left:20px">
+
 Υλικά :  
 * 1kg ολικης
 * 1kg γενικής χρήσης
