@@ -33,6 +33,8 @@
 * [δείτε](https://imgur.com/a/iAKDdyB) το σε εικόνες. 
 * δάσκαλος ο [κύριος](https://www.youtube.com/watch?v=va9U_0XdSAE) της εταιρίας [Κεραμάρη](https://μαννα.ελ/products/).  
 
+> Η αναλογία της μαγιάς με το αλεύρι ποικίλλει ανάλογα με τη συνταγή, αλλά συνήθως για **1 κιλό αλεύρι** υπολογίζονται **25gr νωπής** μαγιάς ή **7gr ξηρής** μαγιάς. [πηγή δες 21](https://www.zeusiba.gr/%CF%83%CF%85%CF%87%CE%BD%CE%AD%CF%82-%CE%B5%CF%81%CF%89%CF%84%CE%AE%CF%83%CE%B5%CE%B9%CF%82/)  
+
 <details>
 <summary> πρωτότυπη συνταγή 2kg</summary>
 <br/>
