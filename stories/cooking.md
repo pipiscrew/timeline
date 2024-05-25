@@ -1,8 +1,8 @@
 ## Ψωμί ολικής
 
 Υλικά :  
-* 500γρ αλεύρι ολικής
-* 500γρ αλεύρι γενικής χρήσης
+* 500γρ αλεύρι [ολικής](https://www.sklavenitis.gr/trofima-pantopoleioy/aleyri-simigdali/aleyri/keramari-aleuri-oliks-alesis-1kg-232055/)
+* 500γρ αλεύρι [γενικής χρήσης](https://www.sklavenitis.gr/trofima-pantopoleioy/aleyri-simigdali/aleyri/afoi-keramari-manna-aleuri-gia-oles-tis-hriseis-1kg/)
 * 25ml ελαιόλαδο
 * 60gr μαγιά νωπή
 * 500gr νερό
@@ -17,7 +17,7 @@
 * 25ml ελαιόλαδο
 * ζάχαρη
 * αλάτι
-* mix ( πλάθουμε περίπου 10 λεπτά ή έως ότου δείτε ότι έχει γίνει η ζύμη)
+* mix (πλάθουμε περίπου 10 λεπτά ή έως ότου δείτε ότι έχει γίνει η ζύμη)
 
 > πλάθουμε με το χέρι (στο τέλος την διαχωρίζουμε σε κομματάκια για να πάρει η ζύμη αέρα, στο τέλος ξανα ζυμώνουμε για να γίνει πάλι ένα)  
 

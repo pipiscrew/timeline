@@ -75,6 +75,7 @@ git config --global credential.interactive never
 * [PuTTY + PuTTY Key Generator](https://www.puttygen.com/download-putty) - ref [SuperPuTTY](https://www.puttygen.com/superputty) (frontend to provide tabbed PuTTY)
 * [NPOI](https://github.com/nissl-lab/npoi) - read/write Office formats without Microsoft Office installed. No COM+, no interop (v2.5.6 is framework)
 * [Vanara](https://github.com/dahall/Vanara) - A set of .NET libraries for Windows implementing PInvoke calls to many native Windows APIs
+* [ZXing](https://github.com/micjahn/ZXing.Net) - barcode decoder & generator  
 
 ## web templates
 * https://themeforest.net
