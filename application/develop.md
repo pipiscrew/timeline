@@ -11,6 +11,7 @@
 * [XAMPP](https://sourceforge.net/projects/xampp/)
 * [WampServer](https://sourceforge.net/projects/wampserver/)
 * by PHP v5.4, you can run a webserver! using the following `php -S localhost:80 -t ../htdocs/`
+* [Laragon](https://laragon.org/)  
 
 ## database
 * [DB Browser for SQLite](https://sqlitebrowser.org/)
@@ -18,6 +19,7 @@
 * [Ming.Universal SQL Editor](http://www.mingsoftware.com/UniversalSQLEditor/overview.html) - all DB flavors
 * [fishlib.Database .NET](https://fishcodelib.com/Database.htm) - all DB flavors
 * [devart.dbForge](https://www.devart.com/dbforge/) - all DB flavors
+* [HeidiSQL](https://www.heidisql.com/) - all DB flavors
 * [SqlDbx](http://www.sqldbx.com/) - all DB flavors
 * (SSMS addon) [Redgate.SQL Prompt](https://www.red-gate.com/products/sql-development/sql-prompt/) - Write, format, analyze and refactor your SQL effortlessly
 * (SSMS addon) [SSMSBoost](https://www.ssmsboost.com/)
