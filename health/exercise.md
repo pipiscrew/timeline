@@ -44,6 +44,11 @@ There are generally three different sprint distances:
 
 In an original Olympic event was a sprint of around 180m.  
 
+## squats
+
+Type : Anaerobic  
+
+[howto](https://youtu.be/YaXPRqUwItQ?t=81)
 
 ## tabata protocol
 
@@ -121,6 +126,13 @@ Exercise also **increases** the production of a protein called brain-derived neu
 **BDNF** improves the function of neurons, encourages the growth of neurons, and protects existing neurons from cell death.  
 
 [source](https://frankcdale.com/when-you-exercise-is-as-important-as-how-21191f683a03)
+
+--
+
+# Percussive massage guns
+
+* [Massage Guns](https://www.nytimes.com/wirecutter/reviews/best-massage-guns/)
+* [headquarters - Theragun](https://www.therabody.com) - see about page - `unknowingly creating the first Theragun`
 
 --
 

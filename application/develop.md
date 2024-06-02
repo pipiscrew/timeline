@@ -78,6 +78,7 @@ git config --global credential.interactive never
 * [NPOI](https://github.com/nissl-lab/npoi) - read/write Office formats without Microsoft Office installed. No COM+, no interop (v2.5.6 is framework)
 * [Vanara](https://github.com/dahall/Vanara) - A set of .NET libraries for Windows implementing PInvoke calls to many native Windows APIs
 * [ZXing](https://github.com/micjahn/ZXing.Net) - barcode decoder & generator  
+* [BarcodeLib](https://github.com/barnhill/barcodelib) - [nuget](https://www.nuget.org/packages/BarcodeLib/)  
 
 ## web templates
 * https://themeforest.net
