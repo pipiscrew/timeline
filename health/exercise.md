@@ -48,7 +48,9 @@ In an original Olympic event was a sprint of around 180m.
 
 Type : Anaerobic  
 
-[howto](https://youtu.be/YaXPRqUwItQ?t=81)
+* [howto](https://youtu.be/YaXPRqUwItQ?t=81)
+* also [superman](https://www.youtube.com/watch?v=z6PJMT2y8GQ) / [plank](https://www.youtube.com/watch?v=pSHjTRCQxIw) / [reverse lunge](https://www.youtube.com/watch?v=xrPteyQLGAo) [[2](https://www.youtube.com/watch?v=v791YUqiE-o)] / [body weight rows](https://youtu.be/rloXYB8M3vU?t=48) [[2](https://youtu.be/OYUxXMGVuuU?t=33)] / [more ideas](https://news.ycombinator.com/item?id=40532788)
+
 
 ## tabata protocol
 
