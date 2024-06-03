@@ -89,6 +89,8 @@
 	* [2](https://bin.nixnet.services/)
 	* [3](https://privatebin.rinuploads.org/) 
 * [telegra](https://telegra.ph/) - paste online
+* [Notepad Tab](https://notepadtab.com/) - paste online
+* [onetimesecret](https://onetimesecret.com/) - one time paste
 * [ArchiveBox - Your own personal internet archive](https://archivebox.io/)
   * [2](https://github.com/ArchiveBox/ArchiveBox)
 * [archive.today](https://archive.ph/) - Archive any webpage ([mirror](https://archive.ph/))
