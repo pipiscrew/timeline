@@ -4,7 +4,7 @@
 * 500γρ αλεύρι [ολικής](https://www.sklavenitis.gr/trofima-pantopoleioy/aleyri-simigdali/aleyri/keramari-aleuri-oliks-alesis-1kg-232055/)
 * 500γρ αλεύρι [γενικής χρήσης](https://www.sklavenitis.gr/trofima-pantopoleioy/aleyri-simigdali/aleyri/afoi-keramari-manna-aleuri-gia-oles-tis-hriseis-1kg/)
 * 25ml ελαιόλαδο
-* 60gr μαγιά νωπή
+* 50gr [μαγιά νωπή](https://www.sklavenitis.gr/ayga-voytyro-nopes-zymes-zomoi/zymes-nopes/magia-nopi/to-helidoni-nop-magia-2x25gr-221793/)
 * 500gr νερό
 * 15gr καστανή ζάχαρη
 * 15gr αλάτι  
