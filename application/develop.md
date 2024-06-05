@@ -99,7 +99,7 @@ git config --global credential.interactive never
   * [github](https://github.com/oracle/javavscode)
 
 ## SQL Server Express
-* [2014x64](https://www.microsoft.com/en-US/download/details.aspx?id=42299)
+* [2014x86x64](https://www.microsoft.com/en-US/download/details.aspx?id=42299)
 
 ```sql
 --download only the **LocalDB 64BIT\SqlLocalDB.msi (43mb)**
