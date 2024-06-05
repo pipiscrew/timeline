@@ -205,6 +205,7 @@
 ## players
 * [Winamp](https://www.winamp.com/)
 * [foobar2000](https://www.foobar2000.org/)
+* [Tauon](https://github.com/Taiko2k/Tauon)
 * [AIMP](https://www.aimp.ru/)
 * [VUPlayer](https://github.com/jfchapman/VUPlayer/)
 * [Dopamine](https://digimezzo.github.io/site/software)

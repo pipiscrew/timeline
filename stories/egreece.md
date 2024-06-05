@@ -107,6 +107,7 @@
 * mAigov - [https://www.gov.gr/info/politiki-xrisis-maigov](https://www.gov.gr/info/politiki-xrisis-maigov)  
 * myCar - [https://www.aade.gr/mycar](https://www.aade.gr/mycar)  
 * [κλείσιμο επιχείρησης](https://www.businessnews.gr/oikonomia/item/289036-aade-nea-platforma-gia-eleytherous-epaggelmaties-diakopi-ergasion-kai-kleisimo-epixeirisis-me-ena-klik)  
+* [Πιστοποιητικά Σπουδών](https://ptyxia.gov.gr/)  
 
 ---
   
