@@ -99,6 +99,21 @@ git config --global credential.interactive never
   * [github](https://github.com/oracle/javavscode)
 
 ## SQL Server Express
+* [2014x64](https://www.microsoft.com/en-US/download/details.aspx?id=42299)
+
+```sql
+--download only the **LocalDB 64BIT\SqlLocalDB.msi (43mb)**
+
+--install it > then connect using as server
+(localdb)\MSSQLLocalDB 
+
+--create a barch file for silect installation :
+echo this will install LocalDB2014 silently
+pause
+msiexec /i SqlLocalDB.msi /qn IACCEPTSQLLOCALDBLICENSETERMS=YES
+pause
+```  
+
 * [2008R2x64 with SP2](https://www.microsoft.com/en-us/download/details.aspx?id=30438)
 
 ```sql
