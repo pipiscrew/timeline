@@ -107,7 +107,7 @@ git config --global credential.interactive never
 --install it > then connect using as server
 (localdb)\MSSQLLocalDB 
 
---create a barch file for silect installation :
+--create a batch file for silent installation :
 echo this will install LocalDB2014 silently
 pause
 msiexec /i SqlLocalDB.msi /qn IACCEPTSQLLOCALDBLICENSETERMS=YES
