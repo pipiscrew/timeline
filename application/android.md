@@ -31,6 +31,7 @@
 * Hack WPS - [WPSApp](https://play.google.com/store/apps/details?id=com.themausoft.wpsapp)  
 * Video Capture - [Cinema FV-5 Lite](https://play.google.com/store/apps/details?id=com.flavionet.android.cinema.lite) - can change video frames per second (aka FPS) + bitrate.  
 * [CallBlocker](https://gitlab.com/bitfireAT/NoPhoneSpam/) - feature-rich call-spam fighting app, enter numbers to be blocked with wildcards [F-Droid](https://f-droid.org/packages/at.bitfire.nophonespam/)
+* [YetAnotherCallBlocker](https://gitlab.com/xynngh/YetAnotherCallBlocker) - blacklist with wildcard support, blocks calls with negative rating automatically, uses offline database [F-Droid](https://f-droid.org/app/dummydomain.yetanothercallblocker)
 * [LED Scroller](https://play.google.com/store/apps/details?id=oops.ledscroller)  
 * [WhatTheFont](https://play.google.com/store/apps/details?id=com.monotype.whatthefont)  
 * Game [Rider](https://play.google.com/store/apps/details?id=com.ketchapp.rider)  
