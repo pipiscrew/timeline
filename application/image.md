@@ -4,6 +4,7 @@
 ## Capture Image/Video
 * [HyperSnap](http://www.hypersnap.com/) - image
 * [FastStone.Capture](https://www.faststone.org/FSCaptureDetail.htm) - image&video
+* [Flameshot](https://flameshot.org/)
 * [Greenshot](https://getgreenshot.org/)
 * [Bug Shooting](https://www.bugshooting.com/)
 * [LightShot](https://app.prntscr.com/en/index.html)

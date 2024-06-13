@@ -46,6 +46,7 @@
 * [LSJ](https://lsj.gr) - The Liddell, Scott, Jones Ancient Greek Lexicon (LSJ) is perhaps the best known Ancient  Greek-English dictionary.
 * [ihavenotv](https://ihavenotv.com/) - Watch Free Online Documentaries
 * [device.report](https://device.report/) - electronics device database  
+* [Google Dataset Search Engine](https://datasetsearch.research.google.com/)  
 
 
 ## translators
