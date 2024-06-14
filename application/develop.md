@@ -29,6 +29,8 @@
 * [DbGate](https://github.com/dbgate/dbgate) - Database manager for MySQL, PostgreSQL, SQL Server, MongoDB, SQLite and others. Runs under Windows, Linux, Mac or as web application  
 * [DbVisualizer](https://www.dbvis.com/)  - (JRE) MySQL, PostgreSQL, SQLite, Oracle, DB2, SQL Server, Sybase, MS Access, Teradata, Firebird, Apache Hive, Phoenix, Presto++  
   * (replica) [DBeaver](https://dbeaver.io/)
+* [dblab](https://github.com/danvergara/dblab) - interactive terminal client (go)
+* [qstudio](https://github.com/timeseries/qstudio) - SQL Tool (java)
 * [MDB Viewer Plus](http://www.alexnolan.net/software/mdb_viewer_plus.htm)
 * [ERD](https://erdplus.com/) - online database modeling tool
 

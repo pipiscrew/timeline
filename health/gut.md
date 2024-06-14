@@ -411,6 +411,7 @@ author results :
 moreover on `Zonulin result` is a note suggesting [EnteroScan-GR](https://athenslab.gr/en/preventive-tests/enteroscan-intestinal-microbiome-tests).  
 * other [TrophoScan-GR](https://athenslab.gr/en/preventive-tests/trophoscan-food-intolerance-tests)
 * other [Microbiome Diet & Therapy-GR](https://athenslab.gr/en/blog/gut-microbiota/microbiome-diet)
+* other [Calprotectin](https://athenslab.gr/en/exetaseis-prolipsis/enteroscan-elegxos-enterikou-mikroviomatos/calprotectin-stool-1187) - included on [EnteroScan](https://athenslab.gr/en/preventive-tests/enteroscan-intestinal-microbiome-tests)
 * other [costs](https://eshop.athenslab.gr/exetaseis-prolipsis/enteroscan-elegxos-enterikou-mikroviomatos) see 'Δείγμα Απάντησης' or 'Τι Περιλαμβάνει'.  
 
 calicobrak suggests to make [GIMAP](https://www.diagnosticsolutionslab.com/tests/gi-map) examination.  
