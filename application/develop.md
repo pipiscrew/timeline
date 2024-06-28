@@ -67,7 +67,8 @@ git config --global credential.interactive never
 
 ## misc
 * [Free for developers](https://free-for.dev/)
-* [C# to IL](https://sharplab.io/)
+* [C# to IL](https://sharplab.io/) - decompiler
+* [Compiler Explorer](https://godbolt.org/) - decompiler
 * [mathjs](https://api.mathjs.org/)
 * [VSCELicense](https://github.com/1Dimitri/VSCELicense) - Visual Studio Community adjust license expiration date (vs2015-2019)
 * [java - Recaf](https://github.com/Col-E/Recaf)

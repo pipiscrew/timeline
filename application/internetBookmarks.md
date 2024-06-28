@@ -23,6 +23,7 @@
   * [Hydra-Mode](https://torrentfreak.com/z-library-returns-on-the-clearnet-in-full-hydra-mode-230213/)
   * [2](https://z-lib.is/)
   * [giving each user a secret URL](https://arstechnica.com/tech-policy/2023/02/z-library-returns-aims-to-avoid-seizures-by-giving-each-user-a-secret-url/) &nbsp; [[2](https://singlelogin.me/)]
+  * [3](https://z-lib.io/)
 * [Pirate Library Mirror](http://pilimi.org/) - Z-Library offline mirror
 * [Gutenberg](https://www.gutenberg.org/) - plain ebooks
 * [Morioh](https://morioh.com/topics) - Social network for programmers and developers
