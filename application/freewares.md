@@ -1,4 +1,4 @@
-> this list contains free prodcuts, users must be **careful**, none is tested
+> this list contains free products, users must be **careful**, none is tested
 
 # software houses
 * [nirsoft](https://www.nirsoft.net)
