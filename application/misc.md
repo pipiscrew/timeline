@@ -139,6 +139,8 @@
 
 ## CD
 * [AnyBurn](http://www.anyburn.com/)
+* [True Burner](https://www.glorylogic.com/true-burner.html)
+* [Burnaware](https://www.burnaware.com/)
 * [ImgBurn](https://www.imgburn.com/)
 * [UltraISO](https://www.ultraiso.com/)
 * [Opti Drive Control](https://www.optidrivecontrol.com/) (testing optical drives and media)

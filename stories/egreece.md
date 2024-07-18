@@ -110,6 +110,7 @@
 * [κλείσιμο επιχείρησης](https://www.businessnews.gr/oikonomia/item/289036-aade-nea-platforma-gia-eleytherous-epaggelmaties-diakopi-ergasion-kai-kleisimo-epixeirisis-me-ena-klik)  
 * [Πιστοποιητικά Σπουδών](https://ptyxia.gov.gr/)  
 * [MyCoast](https://play.google.com/store/apps/details?id=gr.gov.mycoast) - καταγγελίες για αυθαίρετη κατάληψη αιγιαλού  
+* [appodixi](https://play.google.com/store/apps/details?id=com.appodixi) - ανώνυμες καταγγελίες για αποδείξεις με μη αναγνώσιμο QR code [2](https://www.businessnews.gr/oikonomia/item/292312-stis-dagkanes-tis-aade-o-xartinos-drakos-entopistike-kykloma-forodiafygis-me-287-epixeiriseis-kinezikon-symferonton)  
 
 ---
   
