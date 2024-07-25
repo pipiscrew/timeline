@@ -934,7 +934,7 @@ loved [salad](https://www.youtube.com/watch?v=d8Rim5RfseQ) :
 * seasonings & herbs `salt` / `pepper` / `parsley` powder / `garlic` powder awesome!
 * `dark chocolate` (>= 70%) eat every day 28gr.
 * two `boiled eggs` every day.
-* `bread`, only the one cooked at your oven (never eat 3rd party), eat 80gr every day (keep it in freezer). Remember controlled carbohydrates.
+* `bread`, only the one cooked at your oven (never 3rd party), eat 80gr every day (keep it in freezer). Remember controlled carbohydrates.
 * `hawthorn` herb tea, 1tsp per cup, once per day.
 * `goat` cheese.
 * always include a `salad` with your meal.
