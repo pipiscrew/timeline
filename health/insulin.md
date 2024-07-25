@@ -919,8 +919,8 @@ loved [salad](https://www.youtube.com/watch?v=d8Rim5RfseQ) :
   * pill tomatoes
   * remove the seeds
 * `cucumber` good nutrition.
-* `pear`, always eat.
-* `apple`, always eat 100gr carbohydrates in the afternoon / before bed.
+* `pear` good nutrition (helps with the gut).
+* `apple` always eat 100gr carbohydrates in the afternoon / before bed.
 * `orange` good nutrition. Remember controlled carbohydrates.
 * `melon` good nutrition.
 * `avocando` good nutrition eat 1/2 per day.
