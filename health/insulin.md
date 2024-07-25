@@ -915,6 +915,7 @@ loved [salad](https://www.youtube.com/watch?v=d8Rim5RfseQ) :
 * `coffee`
   * target beans by Brazil (less acidity)
   * must be arabica 100%
+  * capsule ERA sucks
 * `tomato`, always eat, even with histamine intolerance
   * pill tomatoes
   * remove the seeds
@@ -926,6 +927,7 @@ loved [salad](https://www.youtube.com/watch?v=d8Rim5RfseQ) :
 * `avocando` good nutrition eat 1/2 per day.
 * `buckwheat` <span style="color:red;">good nutrition</span> (helps with the gut) total 6 forks over the day. 3 at morning 3 at evening. Remember controlled carbohydrates.
 * `asparagus` good nutrition (helps with the gut), eat raw with salad.
+* `mung beans` sprouting good nutrition.
 * `lettuce` good nutrition.
 * `onion` good nutrition.
 * `garlic` good nutrition.
@@ -939,9 +941,12 @@ loved [salad](https://www.youtube.com/watch?v=d8Rim5RfseQ) :
 * `goat` cheese.
 * always include a `salad` with your meal.
 * once in a while `Cyprus halloymi` (mixture of goat and sheep milk).
+* do not consume `cow` milk & [anything](https://www.cancer.org/cancer/risk-prevention/chemicals/recombinant-bovine-growth-hormone.html).
+* everyday follow 12h `fasting` (example 8pm-8am).
+* two times per week practise `yoga` ([everyday](https://www.youtube.com/watch?v=ZP34IA0d8LI)). Go for Hatha then [Vinyasa](https://pipiscrew.com/yoga/).
+* three times per week [exercise](https://pipiscrew.github.io/timeline/#/health/exercise) (sample of [weights](https://vimeo.com/showcase/8220991) program).
 * `prebiotics` as supplement [sucks](https://www.thepaleomom.com/mucilaginous-fiber-the-good-the-bad-and-the-gooey/) (promote autoimmune diseases).
 * `carbohydrates` sucks (promote inflammations).
-* do not consume `cow` milk & [anything](https://www.cancer.org/cancer/risk-prevention/chemicals/recombinant-bovine-growth-hormone.html).
 * prolonged exposure to `cold humidity` can result irreversible health damage. The subject does not feel anything.
 * prolonged exposure to `EMF` or `dirty electricity` can result irreversible health damage. No need to think, rent another apartment.
 * `vaseline` for skin care (moisture).
@@ -951,5 +956,13 @@ loved [salad](https://www.youtube.com/watch?v=d8Rim5RfseQ) :
   * Teflon (PTFE) used for non-stick coating, the inhaling fumes produced sucks. (variants PFOS / PFOA / PFAS).
   * Stainless steel (aka inox) / Titanium coating / Enamel coating are the only ones which is `non-reactive`.
   * Cast iron / Ceramic / Granite stone are reactive (chemically interact with the food).
+* if `vape`
+  * use `vape pen` with resistance power max 15w.
+  * use `mesh coil`.
+  * avoid liquids other than `cigarette` flavor, do not vape liquids with `vitamin-e`.
+  * when DIY liquid, `nicotine` is crucial for your health, buy trustworthy brand.
+* if `smoke`
+  * max 3 cigarettes per day
+  * rolling tobacco use  rizla ciel for paper.
 * 98% of the `super market` products are `garbage` with price.
 * do not forget `pharma & corps` they waiting `your` money, to expand.
