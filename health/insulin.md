@@ -924,14 +924,14 @@ loved [salad](https://www.youtube.com/watch?v=d8Rim5RfseQ) :
 * `orange` good nutrition. Remember controlled carbohydrates.
 * `melon` good nutrition.
 * `avocando` good nutrition eat 1/2 per day.
-* `buckwheat` <span style="color:red;">good nutrition</span> (helps with the gut) total 6 spoons over the day. 3 at morning 3 at evening. Remember controlled carbohydrates.
+* `buckwheat` <span style="color:red;">good nutrition</span> (helps with the gut) total 6 forks over the day. 3 at morning 3 at evening. Remember controlled carbohydrates.
 * `asparagus` good nutrition (helps with the gut), eat raw with salad.
 * `lettuce` good nutrition.
 * `onion` good nutrition.
 * `garlic` good nutrition.
 * `macadamia nuts` raw good nutrition.
 * `brazil nuts` raw good nutrition, warning the quantity!
-* seasonings & herbs `salt` / `pepper` / `parsley` powder / `garlic` powder awesome!
+* seasonings & herbs `salt` / `pepper` / `coriander` / `parsley` powder / `garlic` powder awesome!
 * `dark chocolate` (>= 70%) eat every day 28gr.
 * two `boiled eggs` every day.
 * `bread`, only the one cooked at your oven (never 3rd party), eat 80gr every day (keep it in freezer). Remember controlled carbohydrates.
