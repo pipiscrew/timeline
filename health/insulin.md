@@ -907,3 +907,49 @@ loved [salad](https://www.youtube.com/watch?v=d8Rim5RfseQ) :
 ![img](../assets/dried_herbs.jpg)   
 
 [Scrambled eggs with bacon](https://www.ernaehrung.de/lebensmittel/en/Y720643/Scrambled-eggs-with-bacon-%284%29.php) nutrition
+
+<center> --<>-- </center>  
+</br>
+
+* wearing `gloves` when washing/cleaning anything.
+* `coffee`
+  * target beans by Brazil (less acidity)
+  * must be arabica 100%
+* `tomato`, always eat, even with histamine intolerance
+  * pill tomatoes
+  * remove the seeds
+* `cucumber` good nutrition.
+* `pear`, always eat.
+* `apple`, always eat 100gr carbohydrates in the afternoon / before bed.
+* `orange` good nutrition. Remember controlled carbohydrates.
+* `melon` good nutrition.
+* `avocando` good nutrition eat 1/2 per day.
+* `buckwheat` <span style="color:red;">good nutrition</span> (helps with the gut) total 6 spoons over the day. 3 at morning 3 at evening. Remember controlled carbohydrates.
+* `asparagus` good nutrition (helps with the gut), eat raw with salad.
+* `lettuce` good nutrition.
+* `onion` good nutrition.
+* `garlic` good nutrition.
+* `macadamia nuts` raw good nutrition.
+* `brazil nuts` raw good nutrition, warning the quantity!
+* seasonings & herbs `salt` / `pepper` / `parsley` powder / `garlic` powder awesome!
+* `dark chocolate` (>= 70%) eat every day 28gr.
+* two `boiled eggs` every day.
+* `bread`, only the one cooked at your oven (never eat 3rd party), eat 80gr every day (keep it in freezer). Remember controlled carbohydrates.
+* `hawthorn` herb tea, 1tsp per cup, once per day.
+* `goat` cheese.
+* always include a `salad` with your meal.
+* once in a while `Cyprus halloymi` (mixture of goat and sheep milk).
+* `prebiotics` as supplement [sucks](https://www.thepaleomom.com/mucilaginous-fiber-the-good-the-bad-and-the-gooey/) (promote autoimmune diseases).
+* `carbohydrates` sucks (promote inflammations).
+* do not consume `cow` milk & [anything](https://www.cancer.org/cancer/risk-prevention/chemicals/recombinant-bovine-growth-hormone.html).
+* prolonged exposure to `cold humidity` can result irreversible health damage. The subject does not feel anything.
+* prolonged exposure to `EMF` or `dirty electricity` can result irreversible health damage. No need to think, rent another apartment.
+* `vaseline` for skin care (moisture).
+* `hydrogen peroxide` (food grade) can be [consumed](http://www.foodgrade-hydrogenperoxide.com/) without troubles (3% 3-10 drops with water).
+  * For starters you want clean [mouth&teeth](https://www.youtube.com/watch?v=cecXwaJGTZo) ? add 1 drop peroxide on your daily toothpaste.
+* attention to your `kitchen appliances`
+  * Teflon (PTFE) used for non-stick coating, the inhaling fumes produced sucks. (variants PFOS / PFOA / PFAS).
+  * Stainless steel (aka inox) / Titanium coating / Enamel coating are the only ones which is `non-reactive`.
+  * Cast iron / Ceramic / Granite stone are reactive (chemically interact with the food).
+* 98% of the `super market` products are `garbage` with price.
+* do not forget `pharma & corps` they waiting `your` money, to expand.
