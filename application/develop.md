@@ -47,6 +47,7 @@ git config --global credential.interactive never
 
 * [git.MinGit](https://github.com/git-for-windows/git/releases/tag/v2.32.0.windows.1)
 * [Fork](https://fork.dev/)
+* [sourcegit](https://github.com/sourcegit-scm/sourcegit) [[2](https://github.com/sourcegit-scm/sourcegit-theme)]- same as Fork
 * [GitKraken](https://www.gitkraken.com/)
 * [Git-Tower](https://www.git-tower.com/windows)
 * [Plastic SCM](https://www.plasticscm.com/)

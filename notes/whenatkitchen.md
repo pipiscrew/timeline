@@ -101,10 +101,16 @@ to be honest, forget about french press or bialetti moka, buy yourself an espres
 * [video - use needle](https://youtu.be/vuRmnOiE03Q?t=83) - possible soak with baking soda and warm water before
 * [articles](https://www.google.com/search?q=espresso+filter+handle+clean)  
 
+### pressurized vs non-pressurized basket
+* [video](https://www.youtube.com/watch?v=FxeQf3W-abg) / [article](https://www.guide2coffee.com/guide-2-coffee-1/2012/06/23/pressurised-vs-non-pressurised-baskets) - use non pressurized!
+* [pressurised-vs-non-pressurised at glance](https://www.youtube.com/watch?v=klqspR4Sou8)
+* [Delonghi Dedica Basket Hack](https://tomscoffeecorner.com/delonghi-dedica-basket-hack/)
+* [Delonghi Dedica - Disassembling and Deep Cleaning](https://www.youtube.com/watch?v=xqqT0YCEJmY)
+* [Bitter espresso from preground coffee](https://www.home-barista.com/tips/bitter-espresso-from-preground-coffee-t74282.html) [[2](https://www.home-barista.com/tips/why-are-pressurized-portafilters-bad-t24632.html)] - pressurized baskets requires coarser grind  
 
 ## krups suggestion
 **​Arabica** coffee offers the best taste and is naturally low in caffeine. Experiment with different types, mixtures, and degrees of roasting to find what works best for you. In general, the darker the roasting, the more pronounced the taste of coffee. Delicate roasting gives a rich aroma, and the result is a delicate coffee with a full flavor-for true connoisseurs! Quality coffee should only be roasted gently so that its true richness, softness and completeness stand out. **Avoid** too **dark** roasted grains, they are more **oily** and can **clog** the device. Check that there are no small stones between the grains that could damage the device at the same time. Never use instant or ground coffee.  
-
+  
 
 * [How to Brew the Perfect Cup of Coffee, According to Science](https://theconversation.com/how-to-make-the-perfect-cup-of-coffee-with-a-little-help-from-science-129398)  
 
