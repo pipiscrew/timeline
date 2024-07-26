@@ -916,10 +916,10 @@ loved [salad](https://www.youtube.com/watch?v=d8Rim5RfseQ) :
   * target beans by Brazil (less acidity)
   * must be arabica 100%
   * capsule ERA sucks
-* `tomato`, always eat, even with histamine intolerance
+* `tomato`, every day, even with histamine intolerance
   * pill tomatoes
   * remove the seeds
-* `cucumber` good nutrition.
+* `cucumber` every day.
 * `pear` good nutrition (helps with the gut).
 * `apple` always eat 100gr carbohydrates in the afternoon / before bed.
 * `orange` good nutrition. Remember controlled carbohydrates.
@@ -931,19 +931,20 @@ loved [salad](https://www.youtube.com/watch?v=d8Rim5RfseQ) :
 * `lettuce` good nutrition.
 * `onion` good nutrition.
 * `garlic` good nutrition.
+* `mushrooms` good nutrition.
 * `macadamia nuts` raw good nutrition.
 * `brazil nuts` raw good nutrition, warning the quantity!
 * seasonings & herbs `salt` / `pepper` / `coriander` / `parsley` powder / `garlic` powder awesome!
 * `dark chocolate` (>= 70%) eat every day 28gr.
 * two `boiled eggs` every day.
-* `bread`, only the one cooked at your oven, preferably with triticum dicoccum wheat, eat 80gr every day (keep it in freezer). Remember controlled carbohydrates.
+* `bread`, only the one cooked at your oven, prefer triticum dicoccum wheat, eat 80gr every day (keep it in freezer). Remember controlled carbohydrates.
 * `hawthorn` herb tea, 1tsp per cup, once per day.
-* `goat` cheese.
+* `goat` yogurt / cheese.
+* do not consume `cow` milk & [anything](https://www.cancer.org/cancer/risk-prevention/chemicals/recombinant-bovine-growth-hormone.html).
 * always include a `salad` with your meal.
 * once in a while `Cyprus halloymi` (mixture of goat and sheep milk).
-* do not consume `cow` milk & [anything](https://www.cancer.org/cancer/risk-prevention/chemicals/recombinant-bovine-growth-hormone.html).
 * everyday follow 12h `fasting` (example 8pm-8am).
-* two times per week or [everyday](https://www.youtube.com/watch?v=ZP34IA0d8LI) practise `yoga`. Go for Hatha then [Vinyasa](https://pipiscrew.com/yoga/).
+* two times per week or 15 minutes [everyday](https://www.youtube.com/watch?v=ZP34IA0d8LI) practise `yoga`. Go for Hatha then [Vinyasa](https://pipiscrew.com/yoga/) variant.
 * three times per week [exercise](https://pipiscrew.github.io/timeline/#/health/exercise) (sample of [weights](https://vimeo.com/showcase/8220991) program).
 * `prebiotics` as supplement [sucks](https://www.thepaleomom.com/mucilaginous-fiber-the-good-the-bad-and-the-gooey/) (promote autoimmune diseases).
 * `carbohydrates` sucks (promote inflammations).
