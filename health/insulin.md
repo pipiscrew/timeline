@@ -936,14 +936,14 @@ loved [salad](https://www.youtube.com/watch?v=d8Rim5RfseQ) :
 * seasonings & herbs `salt` / `pepper` / `coriander` / `parsley` powder / `garlic` powder awesome!
 * `dark chocolate` (>= 70%) eat every day 28gr.
 * two `boiled eggs` every day.
-* `bread`, only the one cooked at your oven (never 3rd party), eat 80gr every day (keep it in freezer). Remember controlled carbohydrates.
+* `bread`, only the one cooked at your oven, preferably with triticum dicoccum wheat, eat 80gr every day (keep it in freezer). Remember controlled carbohydrates.
 * `hawthorn` herb tea, 1tsp per cup, once per day.
 * `goat` cheese.
 * always include a `salad` with your meal.
 * once in a while `Cyprus halloymi` (mixture of goat and sheep milk).
 * do not consume `cow` milk & [anything](https://www.cancer.org/cancer/risk-prevention/chemicals/recombinant-bovine-growth-hormone.html).
 * everyday follow 12h `fasting` (example 8pm-8am).
-* two times per week practise `yoga` ([everyday](https://www.youtube.com/watch?v=ZP34IA0d8LI)). Go for Hatha then [Vinyasa](https://pipiscrew.com/yoga/).
+* two times per week or [everyday](https://www.youtube.com/watch?v=ZP34IA0d8LI) practise `yoga`. Go for Hatha then [Vinyasa](https://pipiscrew.com/yoga/).
 * three times per week [exercise](https://pipiscrew.github.io/timeline/#/health/exercise) (sample of [weights](https://vimeo.com/showcase/8220991) program).
 * `prebiotics` as supplement [sucks](https://www.thepaleomom.com/mucilaginous-fiber-the-good-the-bad-and-the-gooey/) (promote autoimmune diseases).
 * `carbohydrates` sucks (promote inflammations).
@@ -951,7 +951,7 @@ loved [salad](https://www.youtube.com/watch?v=d8Rim5RfseQ) :
 * prolonged exposure to `EMF` or `dirty electricity` can result irreversible health damage. No need to think, rent another apartment.
 * `vaseline` for skin care (moisture).
 * `hydrogen peroxide` (food grade) can be [consumed](http://www.foodgrade-hydrogenperoxide.com/) without troubles (3% 3-10 drops with water).
-  * For starters you want clean [mouth&teeth](https://www.youtube.com/watch?v=cecXwaJGTZo) ? add 1 drop peroxide on your daily toothpaste.
+  * for starters you want clean [mouth&teeth](https://www.youtube.com/watch?v=cecXwaJGTZo) ? add 1 drop peroxide on your daily toothpaste.
 * attention to your `kitchen appliances`
   * Teflon (PTFE) used for non-stick coating, the inhaling fumes produced sucks. (variants PFOS / PFOA / PFAS).
   * Stainless steel (aka inox) / Titanium coating / Enamel coating are the only ones which is `non-reactive`.
