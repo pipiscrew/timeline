@@ -68,6 +68,7 @@
 
 * [2007 - How Coffee Raises Cholesterol](https://www.sciencedaily.com/releases/2007/06/070614162223.htm) - **cafestol**, elevates cholesterol by hijacking a receptor in an intestinal pathway critical to its regulation
 * [2012 - Harvard - What is it about coffee?](https://www.health.harvard.edu/healthbeat/what-is-it-about-coffee)
+* [2024 - A chemist explains the chemistry behind decaf coffee](https://href.li/?https://theconversation.com/retaining-flavor-while-removing-caffeine-a-chemist-explains-the-chemistry-behind-decaf-coffee-233196)
 * [James Hoffmann - Coffee Brewing Ratios Explained](https://www.youtube.com/watch?v=ipB6P1uzNYM) - 15gr / 250ml water
 * Coffee pot
   * [Is French Press Bad For You?](https://voltagecoffee.com/is-french-press-coffee-bad-for-you/) - coffee key compounds are **cafestol** and **kahweol** found in normal and decaf ([study](https://www.sciencedirect.com/science/article/pii/S0963996912002360))
