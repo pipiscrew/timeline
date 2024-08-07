@@ -162,7 +162,7 @@ Seems we have a new candidate the **hemp seeds**.
 | Tryptophan           | 0.2 g              | 0.1 g                 | 0 g                      |
 | Histidine            | 0.6 g              | 0.5 g                 | 14.1 g                   |
 
-Chicken and hemp seeds information by GPT, Agaricus Bisporus (2021) data converted to grams by [doi](http://dx.doi.org/10.3390/app11135943).  
+Chicken and hemp seeds information by GPT, Agaricus Bisporus (2021) data converted to grams by [doi](http://dx.doi.org/10.3390/app11135943) [[2](https://fdc.nal.usda.gov/fdc-app.html#/food-details/1999629/nutrients)].  
 
 > Warning :  
 
