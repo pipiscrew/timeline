@@ -9,6 +9,7 @@
     * 1 tbsp `hemp seeds`
   * 3 forks `buckwheat` cooked
   * 4 `mushrooms` sliced, cooked at pan
+  * 28gr `dark chocolate` (>=72%)  
 
 ----------
 - Egg
