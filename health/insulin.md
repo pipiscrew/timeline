@@ -927,7 +927,8 @@ loved [salad](https://www.youtube.com/watch?v=d8Rim5RfseQ) :
 * `avocando` good nutrition eat 1/2 per day.
 * `buckwheat` <span style="color:red;">good nutrition</span> (helps with the gut) total 6 forks over the day. 3 at morning 3 at evening. Remember controlled carbohydrates.
 * `asparagus` good nutrition (helps with the gut), eat raw with salad.
-* `mung beans` [sprouting](https://pipiscrew.github.io/timeline/#/health/sprouting) good nutrition.
+* `mung beans` good nutrition (helps with the gut) boiled or [sprouting](https://pipiscrew.github.io/timeline/#/health/sprouting).
+* `chia seeds` good nutrition (helps with the gut). Soluble fiber leading to the production of SCFAs.
 * `lettuce` good nutrition.
 * `onion` good nutrition.
 * `garlic` good nutrition.
@@ -961,7 +962,7 @@ loved [salad](https://www.youtube.com/watch?v=d8Rim5RfseQ) :
   * use `vape pen` with resistance power max 15w.
   * use `mesh coil`.
   * avoid liquids other than `cigarette` flavor, do not vape liquids with `vitamin-e`.
-  * when DIY liquid, `nicotine` is crucial for your health, buy trustworthy brand.
+  * when DIY liquid, `nicotine` is crucial for your health, buy trustworthy brand. Not over `6mg`.
 * if `smoke`
   * max 3 cigarettes per day
   * rolling tobacco use  rizla ciel for paper.

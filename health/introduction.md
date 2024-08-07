@@ -126,6 +126,8 @@ Ranking based on essential amino acid indexes, amino acid scores, and nutritiona
 
 ### Mushrooms vs Egg
 
+Agaricus Bisporus = classic white button mushroom.  
+
 | Amino Acids     | Agaricus Bisporus | Lentinula Edodes | Pleurotus florida | Pleurotus Ostreatus | Pleurotus Sajor-caju | Volvariella Diplasia | Volvariella Volvacea | Hen Egg |
 |-----------------|-------------------|------------------|-------------------|---------------------|----------------------|----------------------|----------------------|---------|
 | Leucine         | 7,5               | 7,9              | 7,5               | 6,8                 | 7                    | 5                    | 4,5                  | 8,8     |
@@ -142,9 +144,25 @@ Ranking based on essential amino acid indexes, amino acid scores, and nutritiona
 Data presented **as grams** of amino acids **per 100 grams** of corrected crude protein.  
 *nd = not determined
 
-[source](https://sayedmaulana.files.wordpress.com/2011/02/mushrooms.pdf)
+1982 - [source](https://sayedmaulana.files.wordpress.com/2011/02/mushrooms.pdf)
 
+---
 
+Seems we have a new candidate the **hemp seeds**.
+
+| Amino Acids          | Chicken (per 100g) | Hemp Seeds (per 100g) | Agaricus Bisporus (2021) |
+| -------------------- | ------------------ | --------------------- | ------------------------ |
+| Leucine              | 1.7 g              | 1.6 g                 | 0.8 g                    |
+| Isoleucine           | 1.1 g              | 0.6 g                 | 1.0 g                    |
+| Valine               | 1.3 g              | 0.7 g                 | 2.3 g                    |
+| Lysine               | 2.4 g              | 0.6 g                 | 3.5 g                    |
+| Methionine           | 0.6 g              | 0.3 g                 | 0.8 g                    |
+| Phenylalanine        | 1.0 g              | 0.7 g                 | 2.1 g                    |
+| Threonine            | 0.8 g              | 0.4 g                 | 1.3 g                    |
+| Tryptophan           | 0.2 g              | 0.1 g                 | 0 g                      |
+| Histidine            | 0.6 g              | 0.5 g                 | 14.1 g                   |
+
+Chicken and hemp seeds information by GPT, Agaricus Bisporus (2021) data converted to grams by [doi](http://dx.doi.org/10.3390/app11135943).  
 
 > Warning :  
 

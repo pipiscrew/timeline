@@ -111,7 +111,7 @@ Using 50gr mung beans, soaked overnight then Day1 8am added it to GEFU
 ### 8:05am - extracted from GEFU
 ![img](../assets/sprouting4a.jpg)  
 
-### unpilling process - add water to bowl and separate the good boys
+### pilling process - add water to bowl and separate the good boys
 ![img](../assets/sprouting4b.jpg)  
 
 ### waste
