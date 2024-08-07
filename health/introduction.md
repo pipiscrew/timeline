@@ -150,7 +150,7 @@ Data presented **as grams** of amino acids **per 100 grams** of corrected crude 
 
 Seems we have a new candidate the **hemp seeds**.
 
-| Amino Acids          | Chicken (per 100g) | Hemp Seeds (per 100g) | Agaricus Bisporus (2021) |
+| Amino Acids          | Chicken (per 100g) | Hemp Seeds (per 100g) | Agaricus Bisporus (per 100g) |
 | -------------------- | ------------------ | --------------------- | ------------------------ |
 | Leucine              | 1.7 g              | 1.6 g                 | 0.8 g                    |
 | Isoleucine           | 1.1 g              | 0.6 g                 | 1.0 g                    |
