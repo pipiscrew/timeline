@@ -148,21 +148,21 @@ Data presented **as grams** of amino acids **per 100 grams** of corrected crude 
 
 ---
 
-Seems we have a new candidate the **hemp seeds**.
+Seems we have a new candidates the **hemp seeds** & **quinoa**.
 
-| Amino Acids          | Chicken (per 100g) | Hemp Seeds (per 100g) | Agaricus Bisporus (per 100g) |
-| -------------------- | ------------------ | --------------------- | ------------------------ |
-| Leucine              | 1.7 g              | 1.6 g                 | 0.8 g                    |
-| Isoleucine           | 1.1 g              | 0.6 g                 | 1.0 g                    |
-| Valine               | 1.3 g              | 0.7 g                 | 2.3 g                    |
-| Lysine               | 2.4 g              | 0.6 g                 | 3.5 g                    |
-| Methionine           | 0.6 g              | 0.3 g                 | 0.8 g                    |
-| Phenylalanine        | 1.0 g              | 0.7 g                 | 2.1 g                    |
-| Threonine            | 0.8 g              | 0.4 g                 | 1.3 g                    |
-| Tryptophan           | 0.2 g              | 0.1 g                 | 0 g                      |
-| Histidine            | 0.6 g              | 0.5 g                 | 14.1 g                   |
+|  Amino Acids   |  Chicken (per 100g) |  Hemp Seeds (per 100g) | Quinoa (per 100gr) |  Agaricus Bisporus (per 100g) |
+| -------------- | ------------------- | ---------------------- | ------------------ | ----------------------------- |
+|  Leucine       |  1.7 g              |  1.6 g                 | 0.6g               |  0.8 g                        |
+|  Isoleucine    |  1.1 g              |  0.6 g                 | 0.4g               |  1.0 g                        |
+|  Valine        |  1.3 g              |  0.7 g                 | 0.5g               |  2.3 g                        |
+|  Lysine        |  2.4 g              |  0.6 g                 | 0.5g               |  3.5 g                        |
+|  Methionine    |  0.6 g              |  0.3 g                 | 0.2g               |  0.8 g                        |
+|  Phenylalanine |  1.0 g              |  0.7 g                 | 0.4g               |  2.1 g                        |
+|  Threonine     |  0.8 g              |  0.4 g                 | 0.4g               |  1.3 g                        |
+|  Tryptophan    |  0.2 g              |  0.1 g                 | 0.1g               |  0 g                          |
+|  Histidine     |  0.6 g              |  0.5 g                 | 0.3g               |  14.1 g                       |
 
-Chicken and hemp seeds information by GPT, Agaricus Bisporus (2021) data converted to grams by [doi](http://dx.doi.org/10.3390/app11135943) [[2](https://fdc.nal.usda.gov/fdc-app.html#/food-details/1999629/nutrients)].  
+Chicken and hemp / quinoa seeds information by GPT, Agaricus Bisporus (2021) data converted to grams by [doi](http://dx.doi.org/10.3390/app11135943) [[2](https://fdc.nal.usda.gov/fdc-app.html#/food-details/1999629/nutrients)].  
 
 > Warning :  
 
