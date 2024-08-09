@@ -7,8 +7,9 @@
   * any type of salad that also includes
     * `tomato`
     * 1 tbsp `hemp seeds`
+    * 1 palm `mung beans sprouts` 
   * 3 forks `buckwheat` cooked (20gr)
-  * 4 `mushrooms` sliced, cooked at pan
+  * 3 `mushrooms` sliced, cooked at pan
   * 28gr `dark chocolate` (>=72%)  
 
 ----------
