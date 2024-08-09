@@ -1,13 +1,13 @@
 * 08am 2 `chia seeds` tsp to water for 10min + 1 tsp `sweet paprika` (soak and drink)
 * 10am 2 `eggs`
 * 11am 80gr DIY bread ( source - 1kg triticum dicoccum with 2 cloves garlic )
-* 11am 3 forks `buckwheat` cooked
+* 11am 3 forks `buckwheat` cooked (20gr)
 * 01pm meal
   * 250-350gr `meat` with marinade himalayan salt with pepper and coriander
   * any type of salad that also includes
     * `tomato`
     * 1 tbsp `hemp seeds`
-  * 3 forks `buckwheat` cooked
+  * 3 forks `buckwheat` cooked (20gr)
   * 4 `mushrooms` sliced, cooked at pan
   * 28gr `dark chocolate` (>=72%)  
 
