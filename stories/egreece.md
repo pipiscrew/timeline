@@ -164,7 +164,7 @@
 ---
 
 # Καταγγελίες
-## Διάφορα
+### Διάφορα
 *   [Καταγγελία για θέματα υγειονομικών ελέγχων και περιβαλλοντικής υγιεινής των περιφερειακών ενοτήτων](https://www.gov.gr/ipiresies/polites-kai-kathemerinoteta/kataggelies/anaphora-kataggelia-gia-themata-ugeionomikon-elegkhon-kai-periballontikes-ugieines-ton-periphereiakon-enoteton)
 *   [Καταγγελία σε βάρος επιχείρησης - εγκατάστασης για μέτρα πυροπροστασίας](https://www.gov.gr/ipiresies/polites-kai-kathemerinoteta/kataggelies/anaphora-kataggelia-se-baros-epikheireses-egkatastases-gia-metra-puroprostasias)
 *   [Καταγγελία στον Ενιαίο Φορέα Ελέγχου Τροφίμων](https://www.gov.gr/ipiresies/polites-kai-kathemerinoteta/kataggelies/upobole-anaphoras-kataggelias-ston-eniaio-phorea-elegkhou-trophimon)
@@ -186,7 +186,7 @@
 *   [Kαταγγελία για ενδιάμεσες ψηφιακές υπηρεσίες](https://www.gov.gr/ipiresies/polites-kai-kathemerinoteta/kataggelies/kataggelia-gia-endiameses-psephiakes-uperesies)
 *   [Kαταγγελία για θέματα αρμοδιότητας του Υπουργείου Αγροτικής Ανάπτυξης και Τροφίμων](https://www.gov.gr/ipiresies/polites-kai-kathemerinoteta/kataggelies/kataggelia-gia-themata-armodiotetas-tou-upourgeiou-agrotikes-anaptuxes-kai-trophimon)  
 
-## Εγκλήματα κυβερνοχώρου
+### Εγκλήματα κυβερνοχώρου
 *   [Καταγγελία για αδικήματα τελούμενα σε βάρος ανηλίκων μέσω διαδικτύου](https://www.gov.gr/ipiresies/polites-kai-kathemerinoteta/kataggelies/kataggelia-gia-adikemata-teloumena-se-baros-anelikon-meso-diadiktuou)
 *   [Καταγγελία για οικονομικά κυβερνοεγκλήματα όπου εμπλέκονται ηλεκτρονικά/ψηφιακά νομίσματα](https://www.gov.gr/ipiresies/polites-kai-kathemerinoteta/kataggelies/kataggelia-gia-oikonomika-kubernoegklemata-opou-emplekontai-elektronika-psephiaka-nomismata)
 *   [Καταγγελία για παραβίαση του απορρήτου των ηλεκτρονικών και τηλεφωνικών επικοινωνιών](https://www.gov.gr/ipiresies/polites-kai-kathemerinoteta/kataggelies/kataggelia-gia-parabiase-tou-aporretou-ton-elektronikon-kai-telephonikon-epikoinonion)
@@ -194,7 +194,7 @@
 *   [Καταγγελία για παράνομη πρόσβαση σε ηλεκτρονικό υπολογιστή](https://www.gov.gr/ipiresies/polites-kai-kathemerinoteta/kataggelies/kataggelia-gia-paranome-prosbase-se-elektroniko-upologiste)
 *   [Καταγγελία για περιπτώσεις απάτης με υπολογιστή](https://www.gov.gr/ipiresies/polites-kai-kathemerinoteta/kataggelies/kataggelia-gia-periptoseis-apates-me-upologiste)  
 
-## Επικοινωνίες
+### Επικοινωνίες
 *   [Καταγγελία για κατασκευή κεραίας κινητής τηλεφωνίας](https://www.gov.gr/ipiresies/polites-kai-kathemerinoteta/kataggelies/kataggelia-parapona-gia-kataskeue-keraias-kinetes-telephonias)
 *   [Καταγγελία για ταχυδρομικές υπηρεσίες](https://www.gov.gr/ipiresies/polites-kai-kathemerinoteta/kataggelies/kataggelia-parapona-gia-takhudromikes-uperesies)
 *   [Καταγγελία για τηλεφωνία - διαδίκτυο](https://www.gov.gr/ipiresies/polites-kai-kathemerinoteta/kataggelies/kataggelia-parapona-gia-telephonia-diadiktuo)
@@ -202,11 +202,11 @@
 *   [Καταγγελία για παραβίαση του απορρήτου των επικοινωνιών](https://www.gov.gr/ipiresies/polites-kai-kathemerinoteta/kataggelies/kataggelia-gia-ten-parabiase-tou-aporretou-ton-epikoinonion)
 *   [Καταγγελία παρόχων για θέματα ηλεκτρομαγνητικών παρεμβολών](https://www.gov.gr/ipiresies/polites-kai-kathemerinoteta/kataggelies/kataggelia-parokhon-gia-themata-elektromagnetikon-parembolon)  
 
-## Εργασιακά θέματα
+### Εργασιακά θέματα
 *   [Καταγγελία εργαζόμενου - δήλωση απασχόλησης (eΕΦΚΑ)](https://www.gov.gr/ipiresies/polites-kai-kathemerinoteta/kataggelies/kataggelia-ergazomenou-delose-apaskholeses-eephka)
 *   [Καταγγελίες προς τη ΔΥΠΑ](https://www.gov.gr/ipiresies/polites-kai-kathemerinoteta/kataggelies/kataggelies-pros-te-dupa)  
 
-## Παίγνια
+### Παίγνια
 *   [Αναφορά παράνομου στοιχηματισμού](https://www.gov.gr/ipiresies/polites-kai-kathemerinoteta/kataggelies/anaphora-paranomou-stoikhematismou)
 *   [Επώνυμη καταγγελία για διαδικτυακά παίγνια](https://www.gov.gr/ipiresies/polites-kai-kathemerinoteta/kataggelies/eponume-kataggelia-gia-ta-diadiktuaka-paignia)
 *   [Επώνυμη καταγγελία για τα επίγεια καζίνο](https://www.gov.gr/ipiresies/polites-kai-kathemerinoteta/kataggelies/eponume-kataggelia-gia-ta-epigeia-kazino)
@@ -215,10 +215,10 @@
 *   [Επώνυμη καταγγελία για τα παίγνια της ΕΛΛΗΝΙΚΑ ΛΑΧΕΙΑ ΑΕ](https://www.gov.gr/ipiresies/polites-kai-kathemerinoteta/kataggelies/eponume-kataggelia-gia-ta-paignia-tes-ellenika-lakheia-ae)
 *   [Επώνυμη καταγγελία για τα παίγνια της ΟΠΑΠ ΑΕ που διεξάγονται επίγεια](https://www.gov.gr/ipiresies/polites-kai-kathemerinoteta/kataggelies/eponume-kataggelia-gia-ta-paignia-tes-opap-e-pou-diexagontai-epigeia)  
 
-## Συνήγορος του Καταναλωτή
+### Συνήγορος του Καταναλωτή
 *   [Καταγγελία στο Συνήγορο του Καταναλωτή](https://www.gov.gr/ipiresies/polites-kai-kathemerinoteta/kataggelies/anaphora-kataggelia-ston-sunegoro-tou-katanalote)  
 
-## Συνήγορος του πολίτη
+### Συνήγορος του πολίτη
 *   [Ηλεκτρονικό αίτημα ραντεβού σε υπηρεσίες του Συνήγορου του Πολίτη](https://www.gov.gr/ipiresies/polites-kai-kathemerinoteta/kataggelies/elektroniko-aitema-rantebou-se-uperesies-tou-sunegorou-tou-polite)
 *   [Υποβολή αναφοράς στο Συνήγορο του Πολίτη](https://www.gov.gr/ipiresies/polites-kai-kathemerinoteta/kataggelies/upobole-anaphoras-sto-sunegoro-tou-polite)  
 
