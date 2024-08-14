@@ -113,6 +113,7 @@
 * [appodixi](https://play.google.com/store/apps/details?id=com.appodixi) - ανώνυμες καταγγελίες για αποδείξεις με μη αναγνώσιμο QR code [2](https://www.businessnews.gr/oikonomia/item/292312-stis-dagkanes-tis-aade-o-xartinos-drakos-entopistike-kykloma-forodiafygis-me-287-epixeiriseis-kinezikon-symferonton)  
 * [Φορέας Λαϊκών](https://www.foreaslaikon.gov.gr/)  
 * [Οδηγός υπηρεσιών Εθνικού Μητρώου Ζώων Συντροφιάς](https://pet.gov.gr/)  
+* [Αντίγραφο από το Βιβλίο Αδικημάτων και Συμβάντων της Ελληνικής Αστυνομίας (ΕΛΑΣ)](https://www.gov.gr/ipiresies/polites-kai-kathemerinoteta/kataggelies/vas) - Πριν την υποβολή της αίτησης θα χρειαστεί να εκδώσετε και να εξοφλήσετε το σχετικό ηλεκτρονικό παράβολο (2051).  
 
 ---
   
