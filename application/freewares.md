@@ -1,4 +1,4 @@
-> this list contains free products, users must be **careful**, none is tested
+> this list contains free products, users must be **careful**, none is tested. You should try also [best of freeware](https://www.portablefreeware.com/bestof.php).
 
 # software houses
 * [nirsoft](https://www.nirsoft.net)
