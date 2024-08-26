@@ -202,6 +202,7 @@
 * [MiTeC.Task Manager](http://www.mitec.cz/tmx.html)
 * [Nirsoft.CredentialsFileView](https://www.nirsoft.net/utils/credentials_file_view.html) - view the passwords stored at Windows Credentials Manager  
 * [GSplit](https://www.gdgsoft.com/gsplit) - lets you split your large files  
+* [moebius](https://github.com/blocktronics/moebius) - modern ANSI & ASCII art editor  
 
 Minimize to tray
 * [4t Tray Minimizer](https://www.4t-niagara.com/tray.html)  

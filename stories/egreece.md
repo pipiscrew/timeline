@@ -194,6 +194,7 @@
 *   [Καταγγελία για παράνομη διακίνηση οπτικοακουστικών έργων μέσω διαδικτύου](https://www.gov.gr/ipiresies/polites-kai-kathemerinoteta/kataggelies/kataggelia-gia-paranome-diakinese-optikoakoustikon-ergon-meso-diadiktuou)
 *   [Καταγγελία για παράνομη πρόσβαση σε ηλεκτρονικό υπολογιστή](https://www.gov.gr/ipiresies/polites-kai-kathemerinoteta/kataggelies/kataggelia-gia-paranome-prosbase-se-elektroniko-upologiste)
 *   [Καταγγελία για περιπτώσεις απάτης με υπολογιστή](https://www.gov.gr/ipiresies/polites-kai-kathemerinoteta/kataggelies/kataggelia-gia-periptoseis-apates-me-upologiste)  
+* [https://cyberalert.gr/contact/](https://cyberalert.gr/contact/)
 
 ### Επικοινωνίες
 *   [Καταγγελία για κατασκευή κεραίας κινητής τηλεφωνίας](https://www.gov.gr/ipiresies/polites-kai-kathemerinoteta/kataggelies/kataggelia-parapona-gia-kataskeue-keraias-kinetes-telephonias)

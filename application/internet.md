@@ -186,6 +186,7 @@ Chrome start with
   * [Hypersearch](https://github.com/abhinavsharma/hypersearch) - browser extension for improving search  
   * [BrainTool - Organizing Bookmarks](https://braintool.org/)  
   * [LibRedirect](https://github.com/libredirect/libredirect) Redirect YouTube, Twitter, Instagram to privacy friendly services ([nitter](https://github.com/zedeus/nitter/wiki/Extensions)) [[privacy-redirect](https://github.com/SimonBrazell/privacy-redirect)]
+    * [nitter is up again](https://href.li/?https://nitter.lucabased.xyz/x)
   * [UnclutterIT](https://unclutter.it/) - reader Mode, but better  
   * [WebStickies](https://lawrencehook.com/ws/) - Sticky notes for the internet 
   * [tohodo.Autofill](https://www.tohodo.com/autofill/)
