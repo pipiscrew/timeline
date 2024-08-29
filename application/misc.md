@@ -203,6 +203,7 @@
 * [Nirsoft.CredentialsFileView](https://www.nirsoft.net/utils/credentials_file_view.html) - view the passwords stored at Windows Credentials Manager  
 * [GSplit](https://www.gdgsoft.com/gsplit) - lets you split your large files  
 * [moebius](https://github.com/blocktronics/moebius) - modern ANSI & ASCII art editor  
+* [Angry IP Scanner](https://angryip.org/) - network scanner  
 
 Minimize to tray
 * [4t Tray Minimizer](https://www.4t-niagara.com/tray.html)  
@@ -440,6 +441,10 @@ copy /b *.txt all.txt
 >when we are at root c:\countries  
 >xcopy *.txt c:\backup /s  
 >//more superuser.com/a/829642 + technet.microsoft.com/en-us/library/bb491035.aspx  
+
+* windows explorer search  
+>//search for dlls excluding the folder obj  
+>file:.dll -folder:(obj)  
 
 * imagine is an automation where takes files from a dir, this batch 'watches' the dir and move the new part when needed
 >@echo off  
