@@ -443,7 +443,7 @@ copy /b *.txt all.txt
 >//more superuser.com/a/829642 + technet.microsoft.com/en-us/library/bb491035.aspx  
 
 * windows explorer search  
->//search for dlls excluding the folder obj  
+>//search for dlls excluding the folder(s) obj  
 >file:.dll -folder:(obj)  
 
 * imagine is an automation where takes files from a dir, this batch 'watches' the dir and move the new part when needed
@@ -476,9 +476,12 @@ copy /b *.txt all.txt
 >echo My Lord all the files processed!  
 >pause  
 
-* Copy files from sub directories to one directory (without subfolder structure)
+* Copy files from sub directories to one directory (without subfolder structure)  
 >cd path\to\your\main\directory  
 >for /r %i in (*) do copy "%i" path\to\your\target\directory\  
+
+* delete bin/obj folders recursive  
+>for /d /r %i in (bin obj) do @if exist "%i" rd /s /q "%i"  
 
 ## sample powershell scripts
 
