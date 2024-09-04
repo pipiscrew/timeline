@@ -43,7 +43,7 @@ flush dns - `chrome://net-internals/#dns`
 * [waterfox](https://www.waterfox.net/) - [waterfox web browser sold to System1](https://www.waterfox.net/blog/waterfox-has-joined-system1/)
 * [Dot Browser](https://www.dothq.co/) – privacy-conscious web browser
 * [Basilisk](https://basilisk-browser.org/features.shtml) - Replaced Gecko with Goanna (single-process mode) engine, interface as-carried by Firefox between v29 and v56, more read at features page.
-* [Thorium.Mercury](https://thorium.rocks/mercury) - implements fixes by  LibreWolf, Waterfox, FireDragon, PlasmaFox, and Ghostery  
+* [Thorium.Mercury](https://thorium.rocks/mercury) - implements fixes by  LibreWolf, Waterfox, FireDragon, PlasmaFox, and Ghostery (get AVX2 variant)  
 
 To find the profile currently is use navigate to `about:support` or `about:profiles`.  
  * [profile manager](https://support.mozilla.org/en-US/kb/profile-manager-create-remove-switch-firefox-profiles) - to start with specific profile, `firefox.exe -P "<profile name>" `  

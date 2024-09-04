@@ -43,6 +43,7 @@
 		* [Awesome Desktop JS](https://github.com/styfle/awesome-desktop-js)
 		* [Awesome .NET Obfuscators](https://github.com/NotPrab/.NET-Obfuscator)
 		* [Awesome .NET Deobfuscators](https://github.com/NotPrab/.NET-Deobfuscator)
+		* [Awesome RaspberryPi](https://github.com/thibmaek/awesome-raspberry-pi)
 * [Health]
 	* [introduction](/health/introduction.md)
 	* [gut](/health/gut.md)

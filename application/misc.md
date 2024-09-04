@@ -226,6 +226,7 @@ Minimize to tray
 * [AOMEI.Backupper](https://www.ubackup.com/edition-comparison.html) - Advanced system clone, UEFI clone, GPT to MBR clone, and customized clone
 * [rtt.r-drive image](https://www.drive-image.com/)
 * [Symantec.Norton Ghost](http://www.oldversion.com/windows/norton-ghost-15-0)
+* [Paragon Backup & Recovery Community](https://www.paragon-software.com/us/free/br-free/)  
 
 ## Drive Recovery
 * [rtt.r-studio](https://www.r-studio.com/) - best option to recover data, raw read / copy content.
