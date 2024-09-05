@@ -86,9 +86,7 @@ This comes as no surprise to me, since we know that **glycine protects the gut**
 
 Further, `glycine supplements` fully corrected `mitochondrial dysfunction` in patients with HIV. `Glycine` is also a major component of **collagen**. Perhaps this is why collagen can help maintain, reinforce, and repair the gut wall by modulating immune reactions, reducing oxidative stress, and helping distribute and **express** tight-junction proteins. Want one more benefit of more glycine? Taken as a supplement before bed, glycine lowers body temperature and induces high-quality sleep.  
 
-```
-nattokinase does contain various amino acids, including glycine. Glycine is a non-essential amino acid that plays a role in various biological processes, including protein synthesis and the regulation of neurotransmitters. However, the specific amounts of glycine and other amino acids in nattokinase can vary depending on the source and method of extraction.
-```
+> **nattokinase** does contain various amino acids, including glycine. Glycine is a non-essential amino acid that plays a role in various biological processes, including protein synthesis and the regulation of neurotransmitters. However, the specific amounts of glycine and other amino acids in nattokinase can vary depending on the source and method of extraction.  
 
 `Polyamines` are **organic compounds** that have many jobs in your body, from **aiding** in cell **proliferation** and **differentiation** to acting as **antioxidants**, scavenging the body to **eliminate** free radicals. There are three polyamines:  
 * spermine
@@ -571,9 +569,7 @@ You’ll also **stop** eating at least **three hours before bedtime**. Doing so 
 * **Week 2**: Week 2 is much like week 1 except that this week you will delay your first meal of the day by one hour, breaking your fast (break-fast, get it?) at 9:00 a.m.
 * **Weeks 3 through 5**: Each successive week, you’ll follow the same basic schedule, but you’ll push breakfast back by another hour. This means that during week 3, breakfast will be at 10:00 a.m. Week 4? 11:00 a.m. And so on until you don’t have your first bite until noon, condensing your daily eating window to a mere seven hours (noon to 7:00 p.m.).  
 
-```
-Note: I default to 7:00 p.m. as the end of the day’s eating window, as that seems to work best for most of my patients and gives them the space to have that three-hour break before bedtime. But the eating windows I’ve mentioned here are not absolute. You may have different needs due to work or family commitments. Go ahead and break your fast at 9:00 a.m. and stop eating at 4:00 p.m. if that works for you. The idea is to gradually ease yourway into a six-to-eight-hour eating window. It doesn’t really matter when that window opens and closes.
-``` 
+> Note: I **default to 7:00 p.m.** as the end of the day **eating window**, as that seems to work best for most of my patients and gives them the **space** to have that **three-hour** break before bedtime. But the eating windows I’ve mentioned here are not absolute. You may have different needs due to work or family commitments. Go ahead and break your fast at 9:00 a.m. and stop eating at 4:00 p.m. if that works for you. The idea is to gradually ease yourway into a **six-to-eight-hour eating window**. It doesn’t really matter when that window opens and closes.  
 
 Once you’ve made it through the first `five weeks`, enjoying the more flexible weekends  along  the  way,  you’ll  quickly  see  that  time-restricted eating can work with just about any lifestyle. And after you complete the initial  five-week  schedule,  you  may  notice  some  changes.  To  start,  you will  have  become  more  metabolically  flexible.  Even  better,  you’ll  have become accustomed to your condensed eating window, and it won’t seem like a hardship anymore.  
 
