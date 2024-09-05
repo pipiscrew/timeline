@@ -867,17 +867,17 @@ I put almost all of my patients on a pharmacological dose of `vitamin D` to **ca
 How much `vitamin D` should you **take**? One of the leading `vitamin D` research groups at the University of California San Diego believes that the average person should take `9,600 IU` of vitamin D3 per day **to have safe and therapeutic levels**. They have not seen, nor have I, vitamin D **toxicity** when supplementing with **up to 40,000 IU daily**. Indeed, many of my autoimmune and `leaky gut` patients initially require doses of **20,000 IU daily**. I aim for levels of 100 to 150 ng/ml on blood tests.  
 
 ## Do: Eat Postbiotic-Producing Foods  
-When you eat foods that help your buddies create signaling molecules, you’re helping them communicate effectively with your immune system and your `mitochondria`. Cruciferous vegetables such as  
+When you eat foods that help your buddies create signaling molecules, you’re helping them communicate effectively with your immune system and your `mitochondria`. **Cruciferous vegetables** such as  
 * broccoli
 * cauliflower
-* sulfur-containing veggies
+* **sulfur-containing** veggies
     * onions
     * garlic
     * leeks
     * chives
     * shallots
-    * scallions (all part of the allium family)
- 
+    * scallions (all part of the allium family)  
+
 get top billing in the quest to create healthy communication.  
 
 ## Do: Eat Prebiotic Fiber-Rich Plant Foods 
