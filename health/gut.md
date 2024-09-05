@@ -978,7 +978,7 @@ Where do we even start with the history of trying to make `white flour` from who
 * grains
 * amaranth
 * quinoa
-* and buckwheat
+* buckwheat
 * peanuts
 * cashews
 * chia seeds
