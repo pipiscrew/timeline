@@ -1200,7 +1200,7 @@ Hopefully, this all seems pretty straightforward. To make things even easier for
 |                                                 | Slimdown360 sweet potato pasta elbow macaroni                                                       |
 |                                                 | Trader Joe’s cauliflower gnocchi                                                                    |
 | Wild-Caught Seafood                             |                                                                                                     |
-|                                                 | Use with caution owing to its microplastics content. Consume up to four ounces per day.             |
+|                                                 | Use with caution owing to its microplastics content. Consume up to 113gr per day.                   |
 |                                                 | Alaskan salmon (contains very few microplastics)                                                    |
 |                                                 | Anchovies                                                                                           |
 |                                                 | Calamari/squid                                                                                      |
@@ -1221,7 +1221,7 @@ Hopefully, this all seems pretty straightforward. To make things even easier for
 |                                                 | Steelhead                                                                                           |
 |                                                 | Trout                                                                                               |
 | Pastured Poultry                                |                                                                                                     |
-|                                                 | Consume four ounces per day.                                                                        |
+|                                                 | Consume 113gr per day.                                                                              |
 |                                                 | Chicken                                                                                             |
 |                                                 | Duck                                                                                                |
 |                                                 | Game birds (pheasant, grouse, dove, quail)                                                          |
@@ -1231,7 +1231,7 @@ Hopefully, this all seems pretty straightforward. To make things even easier for
 |                                                 | Pastured or omega-3 eggs (up to 4 daily)                                                            |
 |                                                 | Pastured chicken or turkey jerky (low-sugar versions)                                               |
 | Meat                                            |                                                                                                     |
-|                                                 | 100  percent  grass-fed  and  grass-finished;  consume  four  ounces  per  week;  see  the          |
+|                                                 | 100  percent  grass-fed  and  grass-finished;  consume 113gr per week;  see  the                    |
 |                                                 | previous chapter.                                                                                   |
 |                                                 | Beef                                                                                                |
 |                                                 | Bison                                                                                               |
@@ -1343,7 +1343,7 @@ Hopefully, this all seems pretty straightforward. To make things even easier for
 | Chocolate and Frozen Desserts                   |                                                                                                     |
 |                                                 | Coconut milk dairy-free frozen desserts (the So Delicious blue label, which contains only           |
 |                                                 | 1 gram of sugar; but be careful: may contain pea protein)                                           |
-|                                                 | Dark chocolate, unsweetened, 72% cacao or greater (1 ounce per day)                                 |
+|                                                 | Dark chocolate, unsweetened, 72% cacao or greater (28gr per day)                                    |
 |                                                 | Enlightened ice cream                                                                               |
 |                                                 | Keto ice cream: chocolate, mint chip, sea salt caramel                                              |
 |                                                 | Killer Creamery ice cream: Chilla in Vanilla, Caramels Back, and No Judge Mint                      |
@@ -1353,13 +1353,13 @@ Hopefully, this all seems pretty straightforward. To make things even easier for
 |                                                 | Rebel Creamery ice cream: butter pecan, raspberry, salted caramel, strawberry, vanilla              |
 |                                                 | Simple Truth ice cream: butter pecan and chocolate chip                                             |
 | Beverages                                       |                                                                                                     |
-|                                                 | Champagne (6 ounces per day)                                                                        |
+|                                                 | Champagne (177ml per day)                                                                           |
 |                                                 | Coffee                                                                                              |
-|                                                 | Dark spirits (1 ounce per day)                                                                      |
+|                                                 | Dark spirits (30ml per day)                                                                         |
 |                                                 | Hydrogen water                                                                                      |
 |                                                 | KeVita  low-sugar  kombucha  (coconut,  coconut  mojito,  for  example),  other  low-sugar          |
 |                                                 | kombuchas                                                                                           |
-|                                                 | Red wine (6 ounces per day)                                                                         |
+|                                                 | Red wine (177ml per day)                                                                            |
 |                                                 | Reverse osmosis filtered water (AquaTru)                                                            |
 |                                                 | San Pellegrino or Acqua Panna water                                                                 |
 |                                                 | Tea (all types)                                                                                     |  
