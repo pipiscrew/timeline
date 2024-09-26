@@ -106,7 +106,9 @@ E AndroidRuntime: android.util.AndroidRuntimeException: android.webkit.WebViewFa
 solution : reinstall the webview (armeabi-v7a) by https://is.gd/a6hBWT
 
 
-warning : dont remove other default apps, first search on XDA, a guy saying that on XIAOMI if u remove the default antiv the phone stuck on bootloop
+warning : dont remove other default apps, first search on XDA, a guy saying that on XIAOMI if u remove the default antiv the phone stuck on bootloop.
+
+SMS app 3rd party - https://f-droid.org/en/packages/dev.octoshrimpy.quik/
 ```
 
 logcat device when is on USB debugging mode
