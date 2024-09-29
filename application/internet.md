@@ -60,6 +60,8 @@ To load temporary addon or to see what is loaded (built in addons), or to use AD
 
 ----------
 
+[AdBlock Tester](https://adblock-tester.com/) [[2](https://brajeshwar.com/2024/i-block-ads/)]  
+
 [Service Worker tester](https://webbrowsertools.com/test-service-worker/)  
 
 [Qutebrowser](https://www.qutebrowser.org/) - A keyboard-driven, vim-like browser based on Python and Qt.  
@@ -431,3 +433,6 @@ To find the profile currently is use navigate to `Help > Troubleshooting Informa
 * [q](https://github.com/natesales/q) - DNS client with support for UDP, TCP, DoT, DoH, DoQ and ODoH  
 * [Tired of Paywalls and Login Screens](www.thisischip.com/)
 * [How much time will it take to Upload?](https://downloadtimecalculator.com/Upload-Time-Calculator.html)
+
+## port scanner
+* [RustScan](https://github.com/RustScan/RustScan) - `rustscan.exe -a targetIP --ulimit 10000`
