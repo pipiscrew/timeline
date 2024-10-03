@@ -925,10 +925,8 @@ loved [salad](https://www.youtube.com/watch?v=d8Rim5RfseQ) :
 * `orange` good nutrition. Remember controlled carbohydrates.
 * `melon` good nutrition.
 * `avocando` good nutrition eat 1/2 per day.
-* `buckwheat` <span style="color:red;">good nutrition</span> (helps with the gut) total 6 forks over the day. 3 at morning 3 at evening. Remember controlled carbohydrates.
 * `asparagus` good nutrition (helps with the gut), eat raw with salad.
 * `mung beans` good nutrition (helps with the gut) boiled or [sprouting](https://pipiscrew.github.io/timeline/#/health/sprouting).
-* `chia seeds` good nutrition (helps with the gut). Soluble fiber leading to the production of SCFAs.
 * `lettuce` good nutrition.
 * `onion` good nutrition.
 * `garlic` good nutrition.

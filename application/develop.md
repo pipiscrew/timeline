@@ -84,6 +84,7 @@ git config --global credential.interactive never
 * [Vanara](https://github.com/dahall/Vanara) - A set of .NET libraries for Windows implementing PInvoke calls to many native Windows APIs
 * [ZXing](https://github.com/micjahn/ZXing.Net) - barcode decoder & generator  
 * [BarcodeLib](https://github.com/barnhill/barcodelib) - [nuget](https://www.nuget.org/packages/BarcodeLib/)  
+* [GtkSharp](https://www.mono-project.com/docs/gui/gtksharp/) - Is a Graphical User Interface Toolkit for mono and .Net. The project binds the gtk+ toolkit and assorted GNOME libraries, enabling fully native graphical Gnome application development using the Mono and .Net development frameworks.  
 
 ## web templates
 * https://themeforest.net
