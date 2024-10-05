@@ -4,9 +4,9 @@
   * [2](https://sci-hub.se/) 
   * [3](https://sci-hub.41610.org/)
 * [OAmg](https://oa.mg/) - Search over 200 million research papers
-* [LibGen](https://libgen.me/) - Collecting and cataloging scientific & technical ebooks
+* [Library Genesis (LibGen)](https://libgen.is/) - Collecting and cataloging scientific & technical ebooks
   * [sued by textbook publishers](arstechnica.com/tech-policy/2023/09/most-notorious-illegal-shadow-library-sued-by-textbook-publishers/)
-* [Library Genesis](https://libgen.is/)
+  * [must pay publishers $30M, but no one knows who runs it](https://arstechnica.com/tech-policy/2024/09/pirate-library-must-pay-publishers-30m-but-no-one-knows-who-runs-it/)
 * [Anna Archive](https://annas-archive.org/) [[2](https://annas-archive.se/)] [[3](https://annas-archive.gs/)]
   * [Blocked Following Publishers Complaint](https://torrentfreak.com/silenzio-annas-archive-shadow-library-blocked-following-publishers-complaint-240104/)
 * [Freecomputerbooks](https://freecomputerbooks.com/)

@@ -373,6 +373,7 @@ To find the profile currently is use navigate to `Help > Troubleshooting Informa
   * [Proton Mail Bridge Thunderbird setup guide](https://proton.me/support/protonmail-bridge-clients-windows-thunderbird)
 * [SeaMonkey](https://www.seamonkey-project.org/releases/) - browser & email, uses the same Mozilla code as Firefox & Thunderbird.
 * [Betterbird](https://www.betterbird.eu/) - is a fine-tuned version of Mozilla Thunderbird
+* [Mailspring](https://github.com/Foundry376/Mailspring) - open source mail client for Mac, Windows and Linux
 * [Just Report It](https://justreport.it/) - Thunderbird & Outlook addon, report to spamcop & domain registrar
 * [Claws Mail](https://www.claws-mail.org/) - is an email client (and news reader) based on GTK+
 * [Desksoft.CheckMail](http://www.desksoft.com/CheckMail.htm)
