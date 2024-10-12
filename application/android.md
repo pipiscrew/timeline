@@ -79,6 +79,7 @@
 * [wine](https://dl.winehq.org/wine-builds/android/) - emulator for windowsXP on android &nbsp;&nbsp; [howto](https://www.makeuseof.com/tag/run-windows-apps-android/) &nbsp;&nbsp; [xda winRT apps](https://forum.xda-developers.com/t/desktop-apps-ported-to-windows-rt.2092348/#post-36534446)  
 * [H96 - Android box](https://www.h96tvbox.com/firmware-download/)
 * [SmartTube](https://github.com/yuliskov/SmartTube) - an advanced player for set-top boxes and tvs running Android OS
+* [ATV Launcher Pro](https://play.google.com/store/apps/details?id=ca.dstudio.atvlauncher.pro) - new launcher (home screen) for Android TV set-top boxes, TVs and tablets
 * [YouTube ReVanced](https://revanced.net/) - modded of official YouTube app for Android
 * [Eruda - Console for mobile browsers](https://eruda.liriliri.io/)
 

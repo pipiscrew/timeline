@@ -25,6 +25,8 @@ This affect any mothefucker, vegan or carnivore.
 
 ------------ go [low carb](https://pipiscrew.github.io/timeline/#/health/insulin) ------------  
 
+Consider the [Peacock Pose](https://www.google.com/search?q=Peacock+Pose) (Mayurasana) and the [Bow Pose](https://www.google.com/search?q=Bow+Pose) (Dhanurasana), which specifically target the abdominal organs.  
+
 Walking 1km (10min) after a meal can have several benefits for digestion. Stimulate the muscles in your abdomen. This can help move food through the digestive tract and prevent any feelings of bloating or discomfort. Also the following exercises :  
 * [Planks](https://www.youtube.com/watch?v=B296mZDhrP4)
 * [Leg Raises](https://www.youtube.com/watch?v=JB2oyawG9KI)
