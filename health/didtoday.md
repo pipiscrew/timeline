@@ -147,7 +147,7 @@ note : make sure **everyday** you complete **12 hours** without food (example 8p
 | ---------------------------------------- | ---------------------------------------------------------- |
 | **ANISE (ΓΛΥΚΑΝΙΣΟ)** | |
 | 1\. Flavorful Spice                      | 1\. Allergic Reactions                                     |
-| 2\. Digestive Aid                        | 2\. Hormonal Effects                                       |
+| 2\. `Digestive Aid`                        | 2\. Hormonal Effects                                       |
 | 3\. Antioxidant Properties               | 3\. Potential Drug Interactions                            |
 | 4\. Antimicrobial Effects                | 4\. Strong Flavor                                          |
 | 5\. Traditional Medicinal Uses           | 5\. Not Suitable for Everyone                              |
@@ -201,7 +201,7 @@ note : make sure **everyday** you complete **12 hours** without food (example 8p
 | 5\. Antimicrobial Properties             | 5\. May Interfere with Certain Medications                 |
 | **ROSEMARY (ΔΕΝΔΡΟΛΙΒΑΝΟ)** | |                         |                                                            |
 | 1\. Rich in Antioxidants                 | 1\. Allergic Reactions                                     |
-| 2\. Supports Digestive Health            | 2\. Strong Flavor                                          |
+| 2\. Supports `Digestive` Health            | 2\. Strong Flavor                                          |
 | 3\. May Improve Memory and Concentration | 3\. May Cause Stomach Upset                                |
 | 4\. Anti-inflammatory Properties         | 4\. Potential Drug Interactions                            |
 | 5\. Antimicrobial Effects                | 5\. Not Recommended in Large Quantities for Pregnant Women |
