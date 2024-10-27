@@ -147,7 +147,7 @@ note : make sure **everyday** you complete **12 hours** without food (example 8p
 | ---------------------------------------- | ---------------------------------------------------------- |
 | **ANISE (ΓΛΥΚΑΝΙΣΟ)** | |
 | 1\. Flavorful Spice                      | 1\. Allergic Reactions                                     |
-| 2\. `Digestive Aid`                        | 2\. Hormonal Effects                                       |
+| 2\. `Digestive` Aid                        | 2\. Hormonal Effects                                       |
 | 3\. Antioxidant Properties               | 3\. Potential Drug Interactions                            |
 | 4\. Antimicrobial Effects                | 4\. Strong Flavor                                          |
 | 5\. Traditional Medicinal Uses           | 5\. Not Suitable for Everyone                              |
