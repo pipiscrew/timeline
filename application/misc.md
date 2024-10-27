@@ -119,6 +119,7 @@
 * [Winautomation - Macro](https://www.winautomation.com/)
 * [RoboTask - Macro](https://robotask.com/)
 * [Mini Mouse Macro](https://sourceforge.net/projects/minimousemacro/)
+* [PyMacroRecord](https://github.com/LOUDO56/pymacrorecord)  
 
 ## Registry
 * [Registry First Aid](https://www.rosecitysoftware.com/reg1aid/)
@@ -296,6 +297,7 @@ The sequence is :
   * [VC++ Redistributable 2015-2022](https://learn.microsoft.com/en-US/cpp/windows/latest-supported-vc-redist)
   * [NHV](https://nhvboot.com/download/)
   * [archive.msdn-full](https://archive.org/download/msdn-full)
+* [ChrisTitusTech/winutil](https://github.com/ChrisTitusTech/winutil) - tweaks  
 
 ## Games
 * [eXoDOS](http://exodos.the-eye.us/)

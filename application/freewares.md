@@ -230,6 +230,7 @@
 * [Auslogics Duplicate File Finder](https://www.auslogics.com/en/software/duplicate-file-finder/) -  way to sort through images, music, videos and other personal files to remove duplicate copies and free up disk space
 * [AnyBurn](https://www.anyburn.com/) -  is a light weight but professional CD / DVD / Blu-ray burning software
 * [True Burner](https://www.glorylogic.com/true-burner.html) - easy-to-use and free burning software for CD, DVD, Blu-ray Disc
+* [Xreveal](https://www.xreveal.com/) - removes restrictions of DVD and Blu-ray
 * [grepWin](https://github.com/stefankueng/grepWin)
 * [Everything](https://www.voidtools.com/) - is search engine that locates files and folders by filename instantly for Windows
 * [Glary Utilities](https://www.glarysoft.com/) - offers numerous powerful and easy-to-use system tools and utilities to fix, speed up, maintain and protect your PC

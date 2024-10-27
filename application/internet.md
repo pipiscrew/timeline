@@ -176,6 +176,7 @@ Chrome start with
   * [Mullvad VPN](https://mullvad.net/) - seems the father of VPN, paid firefox service using this. [available on Amazon](https://mullvad.net/en/blog/2022/7/26/mullvad-is-now-available-on-amazon-us-se/)
   * [NordVPN](https://nordvpn.com/)
   * [Psiphon VPN](https://psiphon.ca/en)
+  * [Private Internet Access](https://www.privateinternetaccess.com/)
   * [Remove Google Redirection on google results](https://addons.mozilla.org/en-US/firefox/addon/remove-google-redirections/)
   * [RESTClient](https://addons.mozilla.org/en-US/firefox/addon/restclient/) - use request header as `Content-Type application/x-www-form-urlencoded`
   * [SingleFile](https://addons.mozilla.org/en-US/firefox/addon/single-file/) - Save an entire web page (including images and styling) as a single HTML file.
@@ -326,8 +327,8 @@ To disable multiple running processes of the browser, you can set `browser.tabs.
   * after you have to `allow` the `DNS client (svhost.exe)` (9) and `DHCP (svhost.exe)` (5). Optional `Network Discovery` (62) and `ICMP` (28)
   * at `Rules Panel` make sure always the `Display` combo set to `All rules`, some sniffy apps adding direct, only `Inbound` rules..
 * [fort](https://github.com/tnodir/fort)
-* [portmaster](https://safing.io/) - cross platform
 * [Evorim.Firewall](https://www.evorim.com/en/free-firewall)
+* [portmaster](https://safing.io/) - cross platform
 * [simplewall](https://www.henrypp.org/product/simplewall)
 * [GlassWire](https://www.glasswire.com/)
 * [Look 'n' Stop](http://www.looknstop.com) (till win7)
@@ -350,6 +351,8 @@ To disable multiple running processes of the browser, you can set `browser.tabs.
 * [sysinternals.Remote Desktop Connection Manager](https://learn.microsoft.com/en-us/sysinternals/downloads/rdcman)
 * (discontinued) [Microsoft.Remote Desktop Connection Manager](https://filehippo.com/download_remote_desktop_connection_manager/) - RDP connections manager
 * [GetScreen](https://getscreen.me/)  
+* [tailscale](https://tailscale.com/) - zero-configuration VPN [raspberry](https://pimylifeup.com/raspberry-pi-tailscale/)
+* [sshguard](https://www.sshguard.net/) - protects hosts from brute-force attacks (linux)  
 
 > In RDP, to display active connections, use either [query session](https://learn.microsoft.com/en-us/windows-server/administration/windows-commands/query-session) and or [qwinsta](https://learn.microsoft.com/en-us/windows-server/administration/windows-commands/qwinsta)
 

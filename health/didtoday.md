@@ -139,4 +139,69 @@ note : make sure **everyday** you complete **12 hours** without food (example 8p
   * Pho-bo (soup) - broth (beef, pork, chicken, onion, ginger, fish sauce), flat rice noodles, red onion, gourmet onion, soy sprouts, coriander, lemon, chili peppers, beef  
 
 ## mix
-* fish - edible salt, dried onion, mustard, white ground, cane sugar, glucose, parsley root 4%, carrot, turmeric ground, red pepper crushed, chilli crushed, dill root 2%, lemon powder, celery root, anti-caking agent: silicon dioxide. They can contain traces of cereals containing gluten, soy, milk, sesame and sulfur dioxide.
+* fish - edible salt, dried onion, mustard, white ground, cane sugar, glucose, parsley root 4%, carrot, turmeric ground, red pepper crushed, chilli crushed, dill root 2%, lemon powder, celery root, anti-caking agent: silicon dioxide. They can contain traces of cereals containing gluten, soy, milk, sesame and sulfur dioxide.  
+
+---
+
+| PROS                                     | CONS                                                       |
+| ---------------------------------------- | ---------------------------------------------------------- |
+| **ANISE (ΓΛΥΚΑΝΙΣΟ)** | |
+| 1\. Flavorful Spice                      | 1\. Allergic Reactions                                     |
+| 2\. Digestive Aid                        | 2\. Hormonal Effects                                       |
+| 3\. Antioxidant Properties               | 3\. Potential Drug Interactions                            |
+| 4\. Antimicrobial Effects                | 4\. Strong Flavor                                          |
+| 5\. Traditional Medicinal Uses           | 5\. Not Suitable for Everyone                              |
+| **BASIL (ΒΑΣΙΛΙΚΟΣ)** | |
+| 1\. Rich in Nutrients                    | 1\. May Cause Allergic Reactions                           |
+| 2\. Antioxidant Properties               | 2\. Strong Flavor                                          |
+| 3\. Anti-inflammatory Effects            | 3\. Not Suitable for Certain Diets                         |
+| 4\. Supports `Digestive` Health            | 4\. Can Be Toxic in Large Quantities                       |
+| 5\. Versatile Culinary Use               | 5\. Short Shelf Life                                       |
+| **MINT (ΔΥΟΣΜΟΣ)** | |
+| 1\. Refreshing Flavor                    | 1\. Allergic Reactions                                     |
+| 2\. Digestive Aid                        | 2\. Strong Flavor                                          |
+| 3\. Antimicrobial Properties             | 3\. May Cause Heartburn                                    |
+| 4\. Rich in Nutrients                    | 4\. Can Interfere with Certain Medications                 |
+| 5\. Versatile in Culinary Uses           | 5\. Invasive Plant                                         |
+| **DILL (ΑΝΗΘΟ)** | |
+| 1\. Rich in Nutrients                    | 1\. Allergic Reactions                                     |
+| 2\. `Digestive` Aid                        | 2\. Strong Flavor                                          |
+| 3\. Antioxidant Properties               | 3\. May Cause Photosensitivity                             |
+| 4\. Supports Heart Health                | 4\. Limited Shelf Life                                     |
+| 5\. Versatile Culinary Use               | 5\. Potential Drug Interactions                            |
+| **PARSLEY (ΜΑΪΝΤΑΝΟΣ)** | |
+| 1\. Rich in Vitamins and Minerals        | 1\. Allergic Reactions                                     |
+| 2\. Antioxidant Properties               | 2\. May Cause Photosensitivity                             |
+| 3\. Supports `Digestive` Health            | 3\. Strong Flavor for Some                                 |
+| 4\. Anti-inflammatory Effects            | 4\. Potential Drug Interactions                            |
+| 5\. Versatile Culinary Use               | 5\. Not Suitable in Large Quantities for Pregnant Women    |
+| **CORIANDER (ΚΟΛΙΑΝΔΡΟ)** | |
+| 1\. Rich in Nutrients                    | 1\. Allergic Reactions                                     |
+| 2\. Antioxidant Properties               | 2\. Strong Flavor                                          |
+| 3\. Supports `Digestive` Health            | 3\. May Cause Photosensitivity                             |
+| 4\. Anti-inflammatory Effects            | 4\. Culinary Preference Variability                        |
+| 5\. May Help Lower Blood Sugar           | 5\. Potential Drug Interactions                            |
+| **CUMIN (ΚΥΜΙΝΟ)** | |
+| 1\. Rich in Nutrients                    | 1\. Allergic Reactions                                     |
+| 2\. Supports `Digestive` Health            | 2\. Strong Flavor                                          |
+| 3\. Antioxidant Properties               | 3\. May Cause Heartburn                                    |
+| 4\. Anti-inflammatory Effects            | 4\. Potential Drug Interactions                            |
+| 5\. May Help Regulate Blood Sugar        | 5\. Not Suitable for Everyone                              |
+| **TURMERIC (ΚΟΥΡΚΟΥΜΗ)** | |
+| 1\. Anti-inflammatory Properties         | 1\. May Cause Stomach Upset                                |
+| 2\. Rich in Antioxidants                 | 2\. Possible Allergic Reactions                            |
+| 3\. Supports Joint Health                | 3\. May Interfere with Blood Thinners                      |
+| 4\. Potential Cancer-Fighting Properties | 4\. Not Suitable in Large Quantities for Pregnant Women    |
+| 5\. Boosts Immune System                 | 5\. Strong Flavor                                          |
+| **CINNAMON (ΚΑΝΕΛΑ)** | |
+| 1\. Rich in Antioxidants                 | 1\. May Cause Allergic Reactions                           |
+| 2\. Anti-inflammatory Properties         | 2\. High in Coumarin (in Cassia variety)                   |
+| 3\. May Help Regulate Blood Sugar        | 3\. Excessive Consumption Can Be Harmful                   |
+| 4\. Supports Heart Health                | 4\. Strong Flavor                                          |
+| 5\. Antimicrobial Properties             | 5\. May Interfere with Certain Medications                 |
+| **ROSEMARY (ΔΕΝΔΡΟΛΙΒΑΝΟ)** | |                         |                                                            |
+| 1\. Rich in Antioxidants                 | 1\. Allergic Reactions                                     |
+| 2\. Supports Digestive Health            | 2\. Strong Flavor                                          |
+| 3\. May Improve Memory and Concentration | 3\. May Cause Stomach Upset                                |
+| 4\. Anti-inflammatory Properties         | 4\. Potential Drug Interactions                            |
+| 5\. Antimicrobial Effects                | 5\. Not Recommended in Large Quantities for Pregnant Women |
