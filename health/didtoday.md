@@ -220,3 +220,11 @@ note : make sure **everyday** you complete **12 hours** without food (example 8p
 | High smoke point, suitable for frying                | Some brands may use genetically modified (GMO) sunflowers                   |
 | Low in saturated fat                                 | Can be pro-inflammatory if consumed in excess without omega-3 balance       |
 | Affordable and widely available                      | Not suitable for high-heat cooking if unrefined                             |
+| **CAULIFLOWER (ΚΟΥΝΟΥΠΙΔΙ)** | |  
+| Low in calories                                                        | Can cause gas and bloating in some people                                   |
+| High in `fiber` (pectin)                                                         | May have a strong odor when cooked                                          |
+| Rich in vitamins (C, K, and B vitamins)                                | Some people may dislike the taste or texture                                |
+| Contains antioxidants                                                  | Can be less filling compared to other vegetables                            |
+| Versatile in cooking (can be used as a rice substitute) | May not provide as much protein as other vegetables                         |
+| Supports heart health and `digestion`                                    | Can be more expensive than other common vegetables, depending on the season |
+| Gluten-free and low-carb option                                        | Requires proper cooking to enhance flavor and texture                       |
