@@ -157,7 +157,7 @@ note : make sure **everyday** you complete **12 hours** without food (example 8p
 | 3\. Anti-inflammatory Effects            | 3\. Not Suitable for Certain Diets                         |
 | 4\. Supports `Digestive` Health            | 4\. Can Be Toxic in Large Quantities                       |
 | 5\. Versatile Culinary Use               | 5\. Short Shelf Life                                       |
-| **MINT (ΔΥΟΣΜΟΣ)** | |
+| **SPREADERMINT (ΔΥΟΣΜΟΣ)** | |
 | 1\. Refreshing Flavor                    | 1\. Allergic Reactions                                     |
 | 2\. Digestive Aid                        | 2\. Strong Flavor                                          |
 | 3\. Antimicrobial Properties             | 3\. May Cause Heartburn                                    |
