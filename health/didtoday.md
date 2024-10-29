@@ -211,9 +211,8 @@ note : make sure **everyday** you complete **12 hours** without food (example 8p
 | May reduce the risk of heart disease                 | Some people may be allergic to olive oil                                    |
 | Anti-inflammatory properties                         | Extra virgin olive oil can be more expensive than other oils                |
 | Supports healthy skin and hair                       | Not suitable for high-heat cooking (smoke point is lower than some oils)    |
-| May improve digestive health                         | Can go rancid if not stored properly                                        |
+| May improve `digestive` health                         | Can go rancid if not stored properly                                        |
 | Versatile in cooking and dressings                   | Flavor may not be preferred by everyone                                     |
-|                                                      |                                                                             |
 | **SUNFLOWER OIL (ΗΛΙΕΛΑΙΟ)** | |                         |                                                            |
 | High in polyunsaturated fats (omega-6)               | High in calories (can contribute to weight gain if consumed in excess)      |
 | Contains vitamin E (antioxidant)                     | High omega-6 content can lead to an imbalance if not balanced with omega-3s |
