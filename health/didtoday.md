@@ -205,3 +205,19 @@ note : make sure **everyday** you complete **12 hours** without food (example 8p
 | 3\. May Improve Memory and Concentration | 3\. May Cause Stomach Upset                                |
 | 4\. Anti-inflammatory Properties         | 4\. Potential Drug Interactions                            |
 | 5\. Antimicrobial Effects                | 5\. Not Recommended in Large Quantities for Pregnant Women |
+| **OLIVEOIL (ΕΛΑΙΟΛΑΔΟ)** | |                         |                                                            |
+| Rich in healthy monounsaturated fats                 | High in calories (can contribute to weight gain if consumed in excess)      |
+| Contains antioxidants (e.g., vitamin E, polyphenols) | Quality can vary significantly between brands                               |
+| May reduce the risk of heart disease                 | Some people may be allergic to olive oil                                    |
+| Anti-inflammatory properties                         | Extra virgin olive oil can be more expensive than other oils                |
+| Supports healthy skin and hair                       | Not suitable for high-heat cooking (smoke point is lower than some oils)    |
+| May improve digestive health                         | Can go rancid if not stored properly                                        |
+| Versatile in cooking and dressings                   | Flavor may not be preferred by everyone                                     |
+|                                                      |                                                                             |
+| **SUNFLOWER OIL (ΗΛΙΕΛΑΙΟ)** | |                         |                                                            |
+| High in polyunsaturated fats (omega-6)               | High in calories (can contribute to weight gain if consumed in excess)      |
+| Contains vitamin E (antioxidant)                     | High omega-6 content can lead to an imbalance if not balanced with omega-3s |
+| Neutral flavor, versatile for cooking                | May be refined, losing some nutrients in the process                        |
+| High smoke point, suitable for frying                | Some brands may use genetically modified (GMO) sunflowers                   |
+| Low in saturated fat                                 | Can be pro-inflammatory if consumed in excess without omega-3 balance       |
+| Affordable and widely available                      | Not suitable for high-heat cooking if unrefined                             |
