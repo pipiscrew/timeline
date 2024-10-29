@@ -159,7 +159,7 @@ note : make sure **everyday** you complete **12 hours** without food (example 8p
 | 5\. Versatile Culinary Use               | 5\. Short Shelf Life                                       |
 | **SPREADERMINT (ΔΥΟΣΜΟΣ)** | |
 | 1\. Refreshing Flavor                    | 1\. Allergic Reactions                                     |
-| 2\. Digestive Aid                        | 2\. Strong Flavor                                          |
+| 2\. `Digestive` Aid                        | 2\. Strong Flavor                                          |
 | 3\. Antimicrobial Properties             | 3\. May Cause Heartburn                                    |
 | 4\. Rich in Nutrients                    | 4\. Can Interfere with Certain Medications                 |
 | 5\. Versatile in Culinary Uses           | 5\. Invasive Plant                                         |
