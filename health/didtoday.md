@@ -228,3 +228,17 @@ note : make sure **everyday** you complete **12 hours** without food (example 8p
 | Versatile in cooking (can be used as a rice substitute) | May not provide as much protein as other vegetables                         |
 | Supports heart health and `digestion`                                    | Can be more expensive than other common vegetables, depending on the season |
 | Gluten-free and low-carb option                                        | Requires proper cooking to enhance flavor and texture                       |
+| **ARUGULA (ΡΟΚΑ)** | |  
+| Low in calories                                   | Can have a strong, peppery flavor that may not appeal to everyone |
+| High in vitamins (A, C, K)                        | May cause digestive discomfort in some individuals if consumed in large amounts |
+| Rich in antioxidants                              | Short shelf life; can wilt quickly if not stored properly |
+| Contains beneficial minerals (calcium, potassium) | May be less filling compared to other leafy greens |
+| Supports heart health and may reduce inflammation | Can be more expensive than other common salad greens |
+| Versatile in salads, sandwiches, and cooking      | Some people may experience allergic reactions (though rare) |
+| **ICEBERG (ΜΑΡΟΥΛΙ)** | |  
+| Low in calories                                   | Low in nutritional value compared to other leafy greens |
+| High water content, helping with hydration        | Lacks fiber compared to other greens, which may not aid digestion as effectively |
+| Crisp texture adds crunch to salads               | Limited flavor profile; often considered bland |
+| Affordable and widely available                   | Often has a shorter shelf life than sturdier greens |
+| Can be used as a base for various dishes          | May contain pesticide residues if not washed properly |
+| Provides some vitamins (A, K) and minerals        | Less rich in antioxidants compared to darker leafy greens |
