@@ -578,6 +578,7 @@ Also known as [familial hypercholesterolemia](https://www.everydayhealth.com/hig
 
 * 2023 - [Dramatic elevation of LDL cholesterol from ketogenic-dieting](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10121782/)
 * 2020 - [Ketogenic diets, not for everyone](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7887024/)  
+* 2016 - [50 Years Ago, Sugar Industry Quietly Paid Scientists To Point Blame At Fat](https://www.npr.org/sections/thetwo-way/2016/09/13/493739074/50-years-ago-sugar-industry-quietly-paid-scientists-to-point-blame-at-fat)  
 
 > In the short term, a small, six-month **spike in cholesterol** isn’t harmful — it takes a decade or more of high LDL to cause damage. [source](https://www.everydayhealth.com/ketogenic-diet/what-happens-to-your-cholesterol-on-a-keto-diet/)  
 
@@ -645,7 +646,7 @@ So, in essence, the endocannabinoid system has connections to lipids and **relie
 * [Eat rich breakfast](https://www.youtube.com/watch?v=--9q0iIXZLs)
 * [Easy and super delicious dinner](https://www.youtube.com/watch?v=VHnN6pBrJ1E)  
 * [Smoking increases risk of type 2 diabetes due to metabolic changes](https://www.medpagetoday.com/meetingcoverage/easd/106681)
-* [verywellfit.Recipe Nutrition Calculator](https://www.verywellfit.com/recipe-nutrition-analyzer-4157076)
+* [verywellfit.Recipe Nutrition Calculator](https://www.verywellfit.com/recipe-nutrition-analyzer-4157076) [[2](https://recipecard.io/recipe-nutrition-analyzer/)]
 * [FoodNutrition](https://github.com/pipiscrew/FoodNutrition) - an application make offline use of [US FoodData Central - SR Legacy Foods](https://fdc.nal.usda.gov/)  
 * [How the nutritional value of staple crops dropped by 50% since the 1960s](https://jeroenvanbaar.substack.com/p/data-dispatch-4-the-falling-nutritional)  
 
