@@ -144,4 +144,42 @@ Exercise also **increases** the production of a protein called brain-derived neu
   * [Exercise boosts blood flow to the brain](https://www.eurekalert.org/pub_releases/2021-03/usmc-ebb032321.php)
   * [Excessive exercise training causes mitochondrial functional impairment and decreases glucose tolerance](https://www.sciencedirect.com/science/article/abs/pii/S1550413121001029)
 * [Iowa University - Exercise may reduce depression symptoms, boost effects of therapy](https://www.news.iastate.edu/news/2022/03/30/exercise-depression)
-* [Brisk 22-minute walk could offset harmful effects of sitting](https://www.theguardian.com/society/2023/oct/24/brisk-minute-walk-offset-harmful-effects-sitting-study)
+* [Brisk 22-minute walk could offset harmful effects of sitting](https://www.theguardian.com/society/2023/oct/24/brisk-minute-walk-offset-harmful-effects-sitting-study)  
+
+--
+
+# Cardiorespiratory fitness
+
+> **HIIT** (High-Intensity Interval Training)  
+> **RT** (Resistance Training)  
+> **MICT** (Moderate-Intensity Continuous Training)  
+> **IT** (Interval Training) - alternates between periods of high-intensity exercise and periods of lower-intensity exercise.  
+> **SIT** (Sprint Interval Training)  
+> **CRT** (Circular Resistance Training)  
+> **CRF** (Cardiorespiratory Fitness)  
+
+Cardiorespiratory fitness CRF **refers** to the capacity of the circulatory and respiratory systems to supply oxygen to skeletal muscle **<span style="color: rgb(226, 80, 65)">mitochondria</span>** for **energy production** needed during physical activity. It is an **intermediate variable** between physical activity behavior and health outcomes and **reflects** the ability of many body organs (such as heart, lungs, and muscles) to generate **energy** during physical activity and exercise.  
+
+The current physical activity **guidelines** recommend that all adults engage in at least **150 min** of <u>moderate-intensity</u> exercise or **75 min** of <u>vigorous-intensity</u> exercise **per week**. To improve CRF, current evidence suggests that physical exercise must achieve a minimum intensity of at least 45% of the oxygen absorption reserve in the general population and at least 70–80% in athletes.  
+
+**HIIT** has been promoted as a **superior**, <u>time-saving exercise</u> strategy to enhance CRF in the **middle-aged (ages 45-59 years)**. A systematic review of evidence suggested that both interval training and MICT could significantly improve CRF in middle-aged and elderly people; however, MICT has no significant effect on improving VO2max (maximum amount of oxygen your body can utilize during intense exercise) in middle-aged compared with HIIT and sprint interval training. However, **HIIT is still the preferred training method**.  
+
+> **ANS** (Autonomic Nervous System) 
+> **HRV** (Heart Rate Variability)  
+> **HR** (Heart Rate)  
+> **PA** (Physical Activity)  
+> **PR** (Pulmonary Rehabilitation)  
+
+Cardiovascular function is **regulated** by the ANS. The main objective of autonomic cardiovascular regulation is to control cardiac output and the **distribution** of blood at the central and peripheral levels. HR and the contractile properties of the myocardium, are modulated by the main components of ANS: the **<span style="color: rgb(226, 80, 65)">parasympathetic</span>** and **<span style="color: rgb(226, 80, 65)">sympathetic</span>** nervous systems. The activity of these two **ANS branches** with <u>opposite effects</u> on HR causes continuous fluctuations in HR, which is called HRV.  
+
+Under normal conditions, the **conduction process** begins in a particular area of the heart, named the **atrial sinus node**, whose **<span style="color: rgb(226, 80, 65)">electrical properties</span>** can generate the action potential that spreads quickly through specialized **fibres to the heart**, resulting in **contraction** of the **entire cardiac muscle**. In addition to this intrinsic mechanism that determines the basal cardiac rhythm, the ANS plays an important role in controlling the **heart function** and **vascular system** through the **<span style="color: rgb(226, 80, 65)">sympathetic </span>** and **<span style="color: rgb(226, 80, 65)">parasympathetic </span>fibres to the heart**, and through the <span style="color: rgb(226, 80, 65)">**sympathetic fibres**</span> to the **vessels**. The **two branches** of the ANS, i.e., the sympathetic and parasympathetic fibres, act in an <u>opposite way</u>, providing **fine adjustment** to the cardiac tissues **in response** to different stimuli and daily activities. However, an **imbalance** between **<span style="color: rgb(226, 80, 65)">sympathetic </span>** and **<span style="color: rgb(226, 80, 65)">parasympathetic </span>** drives has been proposed as a potential mechanism in some cardiovascular diseases such as arterial hypertension, heart failure, and myocardial infarction.  
+
+<div style="text-align: center">  
+![img](../assets/cardio.jpg)  
+</div>
+
+*The ability of yin and yang to sustain cardiorespiratory fitness level of exertion is dependent on the integration of the respiratory, cardiovascular, and musculoskeletal systems.* 
+
+[source](https://href.li/?https://www.intechopen.com/books/11656)  
+
+video - [20 Minute Full Body Cardio HIIT Workout](https://www.youtube.com/watch?v=M0uO8X3_tEA)

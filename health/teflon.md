@@ -7,6 +7,7 @@ for reference, nowadays statistics :
 * Almost **10 Million people** world wide, die from cancer annually. [source](https://ourworldindata.org/cancer)
 * [PFAS in the US Population](https://www.atsdr.cdc.gov/pfas/health-effects/us-population.html)  
 * (2024) - [Millions may rely on groundwater contaminated with PFAS for drinking water](https://phys.org/news/2024-10-millions-groundwater-contaminated-pfas.html)
+* (2024) - [It's raining PFAS in South Florida](https://www.sciencedirect.com/science/article/abs/pii/S1309104224002678)
 * [«Αιώνια Ρύπανση»: Η ανεπανόρθωτη βλάβη των PFAS και η Ελλάδα που δεν θέλει να ξέρει](https://www.reportersunited.gr/10499/forever-pollution/)  
 
 It's important to remember that Teflon was developed and marketed decades ago, nowadays, with more knowledge and studies, the **concerns** have been **raised** and it's important to be aware of the potential risks and take precautions when using Teflon-coated cookware, such as using them on low to medium heat and avoiding preheating empty pans or better not using it at all.  
