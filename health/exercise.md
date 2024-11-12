@@ -164,7 +164,7 @@ The current physical activity **guidelines** recommend that all adults engage in
 
 **HIIT** has been promoted as a **superior**, <u>time-saving exercise</u> strategy to enhance CRF in the **middle-aged (ages 45-59 years)**. A systematic review of evidence suggested that both interval training and MICT could significantly improve CRF in middle-aged and elderly people; however, MICT has no significant effect on improving VO2max (maximum amount of oxygen your body can utilize during intense exercise) in middle-aged compared with HIIT and sprint interval training. However, **HIIT is still the preferred training method**.  
 
-> **ANS** (Autonomic Nervous System) 
+> **ANS** (Autonomic Nervous System)  
 > **HRV** (Heart Rate Variability)  
 > **HR** (Heart Rate)  
 > **PA** (Physical Activity)  
