@@ -882,6 +882,29 @@ Emphasis to the following multipurpose elements :
   * **Muscle Function**: Essential for muscle health and strength.
   * **Autoimmune Diseases**: Associated with autoimmune disease prevention.  
 
+-- 
+
+
+* dietary fiber
+    * soluble fiber
+    * insoluble fiber
+    * resistant starch
+
+* starch
+    * **Rapidly digestible starch (RDS)** - is the amount of starch digested by enzymes and absorbed into the bloodstream within **20 min**.
+    * **Slowly digestible starch (SDS)** - is the amount of starch that can be wholly digested within **20 min** to **120 min**.
+    * **Resistant starch (RS)** - refers to starch that cannot be digested within **120 min** in the small intestine and therefore **passes** to the large intestine, where it can act as a *substrate* in the gut **fermentation** processes. Divided into **five** types :  
+
+| Type | Characteristics                                                                                                                                                                                            | Occurrence                                                                                                                                                                                                                                                                                                                     |
+| ---- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| RS1  | Physically inaccessible starch that cannot be hydrolyzed due to the cell wall barrier                                                                                                                      | Products from coarsely ground or whole grains (e.g., bread, seeds and legumes)                                                                                                                                                                                                                                                 |
+| RS2  | Crude starch, which due to its structure (crystalline form) is not digested                                                                                                                                | Raw potatoes, green bananas, high- amylose corn                                                                                                                                                                                                                                                                                |
+| RS3  | Retrograded starch which is formed when starchy foods are cooked and then cooled. The long-branched chains of amylopectin form double helixes which cannot be hydrolyzed by digestive enzymes.             | Cooked and then cooled starchy foods such as potatoes, rice, pasta, oatmeal, and stale bread                                                                                                                                                                                                                                   |
+| RS4  | Resists enzymatic hydrolysis by modifying its original molecular structure and the addition of certain chemical functional groups by chemical modification                                                 | Foods with chemically modified starches, such as cross-linked starch (e.g. some commercially produced breads and pastries) - used as a functional **food additive**                                                                                                                                                                |
+| RS5  | Combination of long and unbranched starch chains with free fatty acids, forming a helical structure that is **difficult to digest** and intentional rearrangement of starch molecules - resistant maltodextrin | Foods containing naturally occurring amylose–lipid complexes, for example bread containing fat as an ingredient or foods which contain artificially produced amylose–lipid complexes and also a new, non-viscous type of dietary fiber, produced by the intentional rearrangement of starch molecules - resistant maltodextrin |  
+
+(2022) source - [Health benefits of resistant starch](https://doi.org/10.1016/j.jff.2022.105094)  
+
 <center> --<>-- </center>  
 </br>  
 
