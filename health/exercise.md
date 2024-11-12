@@ -174,9 +174,7 @@ Cardiovascular function is **regulated** by the ANS. The main objective of auton
 
 Under normal conditions, the **conduction process** begins in a particular area of the heart, named the **atrial sinus node**, whose **<span style="color: rgb(226, 80, 65)">electrical properties</span>** can generate the action potential that spreads quickly through specialized **fibres to the heart**, resulting in **contraction** of the **entire cardiac muscle**. In addition to this intrinsic mechanism that determines the basal cardiac rhythm, the ANS plays an important role in controlling the **heart function** and **vascular system** through the **<span style="color: rgb(226, 80, 65)">sympathetic </span>** and **<span style="color: rgb(226, 80, 65)">parasympathetic </span>fibres to the heart**, and through the <span style="color: rgb(226, 80, 65)">**sympathetic fibres**</span> to the **vessels**. The **two branches** of the ANS, i.e., the sympathetic and parasympathetic fibres, act in an <u>opposite way</u>, providing **fine adjustment** to the cardiac tissues **in response** to different stimuli and daily activities. However, an **imbalance** between **<span style="color: rgb(226, 80, 65)">sympathetic </span>** and **<span style="color: rgb(226, 80, 65)">parasympathetic </span>** drives has been proposed as a potential mechanism in some cardiovascular diseases such as arterial hypertension, heart failure, and myocardial infarction.  
 
-<div style="text-align: center">  
 ![img](../assets/cardio.jpg)  
-</div>
 
 *The ability of yin and yang to sustain cardiorespiratory fitness level of exertion is dependent on the integration of the respiratory, cardiovascular, and musculoskeletal systems.* 
 
