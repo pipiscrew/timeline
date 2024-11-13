@@ -74,7 +74,7 @@ Is just a mockup to show where a specific food `fail` or not. By clicking any im
 
 # Ted Naiman - The PE Diet (2019)
 
-* [homepage](https://href.li/?https://pedietbook.com/)
+* [homepage](https://href.li/?https://www.thepediet.com/) [[2](https://href.li/?https://pedietbook.com/)]
   * [meal protein-fats-carbs percentage](https://href.li/?https://proteinpercent.com/) + food database  
 
 The ultimate strategy for maximally up-regulating fat oxidation (body breaks down fat molecules and converts them into energy) ? Never eat any carbs to **begin** with. This is certainly the strategy of those who go on a pure carnivore diet and it be honest, this **works** pretty damn well for a growing number of people. But there are **some reasons** why you might want to **include** some **carbs** in your diet.  
@@ -260,7 +260,9 @@ It is easier than ever to go through your entire life **without cooking**. Unfor
 
 Exercise has a singular purpose: self-improvement. If done correctly, exercise provides a stimulus to your body that leads to **positive adaptation**. The adaptations to exercise are numerous, and can include increased muscular strength and size, improved **stamina**, improved **cardiovascular** fitness, an increase in **metabolic rate**, improvements in **glucose metabolism**, and increased **fat oxidation**. **Diet is important**, but you will never reach your health and body composition goals without **proper exercise**!   
 
-> Fat **exits** your body via **mitochondria**. Training **doubles** your mitochondria.
+> Fat **exits** your body via **mitochondria**. Training **doubles** your mitochondria.  
+
+Ted Naiman - The PE Diet (2019) - [Energy storage chapter](https://download.ru/files/5ibIUQqZ)  
 
 ---
 

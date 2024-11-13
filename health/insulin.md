@@ -884,6 +884,9 @@ Emphasis to the following multipurpose elements :
 
 -- 
 
+## resistant starch types  
+
+> RS3 - **Cooking breaks the bonds**, but you can remake a number of them by **chilling** the foods after cooking, then **reheating** them before consuming. [source](https://pipiscrew.github.io/timeline/#/health/gut?id=do-eat-whole-foods)  
 
 * dietary fiber
     * soluble fiber

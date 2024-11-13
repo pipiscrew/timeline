@@ -903,7 +903,7 @@ To fully benefit from your plant foods, choose **organic** products as much as y
 ## Do: Eat Whole Foods
 Whole foods provide your **gut buddies** with `resistant starches`. Because they **resist quick digestion**, these starches can make it **past** your small intestine without being absorbed and into your `large intestine`, where your **gut buddies** will convert them into important messaging signals such as `butyrate`. Yams, taro root, sorghum, millet, pressure-cooked rice, and cassava can all be transformed into `resistant starches` when they are cooked, chilled, and reheated.  
 
-Let me be clear: all of these **starch-containing** plant products are still made of **sugars** that are bound together in chains by chemical bonds. **Cooking breaks the bonds**, but you can remake a number of them by chilling the foods after cooking, **then reheating them** before consuming.This simple, easy trick often makes a `big difference`, especially in my metabolically inflexible patients.  
+Let me be clear: all of these **starch-containing** plant products are still made of **sugars** that are bound together in chains by chemical bonds. **Cooking breaks the bonds**, but you can remake a number of them by **chilling** the foods after cooking, then **reheating** them before consuming. This simple, easy trick often makes a `big difference`, especially in my metabolically inflexible patients.  
 
 The more plant material remains in its **original form—whole**, if you will—the more **resistant it will be to digestion** (and **therefore the more usable by your gut buddies**). For example, a yam that was cooked, cooled, and reheated is going to be much more resistant than sweet potato flour or pasta.  
 
