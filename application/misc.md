@@ -241,6 +241,13 @@ Minimize to tray
 * [win.Abstradrome.Repartition Bad Drive](http://www.dposoft.net/rbd.html) - isolate unrecoverable bad sectors from partitions
 * [CrystalDiskInfo](https://crystalmark.info/en/) - HDD Life report (on external HDD, give attention to [Reallocated Sectors Count](https://github.com/pipiscrew/timeline/blob/main/assets/hdd_reallocated_sectors_count.jpg) (raw value))
 * [HDDGuru.HDD Low Level Format Tool](https://hddguru.com/) - format when others cannot.
+* [Imaging a corrupt hard drive with Knoppix LiveCD](https://tinyapps.org/docs/imaging_a_corrupt_drive.html)  
+  * (origin) [dd_rescue](http://www.garloff.de/kurt/linux/ddrescue/)
+  * 2004-2012 (frontend dd_rescue) [dd_rhelp](http://www.kalysto.org/utilities/dd_rhelp/index.en.html) - `jumping` to another part of the disk whenever it
+encounters too much read errors in a row. It could be some cases where ddrescue won't work, and this is the major reason why author maintaining dd_rhelp. 
+  * 2009-2024 (same feature as dd_rhelp, migrated to dd_rescue code) [ddrescue](https://www.gnu.org/software/ddrescue/ddrescue.html)
+
+--  
 
 > Reminder : Windows 10 can use **UEFI** boot and by BIOS you adjust also the **Secure Boot**. Legacy also supported.
 
