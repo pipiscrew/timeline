@@ -994,4 +994,28 @@ loved [salad](https://www.youtube.com/watch?v=d8Rim5RfseQ) :
   * max 3 cigarettes per day
   * rolling tobacco use  rizla ciel for paper.
 * 98% of the `super market` products are `garbage` with price.
-* do not forget `pharma & corps` they waiting `your` money, to expand.
+* do not forget `pharma & corps` they waiting `your` money, to expand.  
+
+---  
+
+* = promote the production of short-chain fatty acids (SCFAs)  
+
+| Ingredient        | Anti-Inflammatory Score | Antioxidant Score | Anticancer Score | SCFA Production* Score |
+| ----------------- | ----------------------- | ----------------- | ---------------- | --------------------- |
+| Turmeric Powder   | 10                      | 8                 | 9                | 2                     |
+| Garlic            | 8                       | 7                 | 8                | 5                     |
+| Arugula           | 8                       | 7                 | 7                | 4                     |
+| Ginger Powder     | 8                       | 6                 | 7                | 3                     |
+| Cinnamon Stick    | 9                       | 7                 | 6                | 3                     |
+| Asparagus         | 7                       | 6                 | 6                | 8                     |
+| Cauliflower Tursi | 7                       | 6                 | 6                | 5                     |
+| Basil (Fresh)     | 7                       | 6                 | 5                | 3                     |
+| Red Wine (Dry)    | 6                       | 8                 | 6                | 2                     |
+| White Tea         | 6                       | 8                 | 5                | 2                     |
+| Red Cherry        | 6                       | 8                 | 5                | 2                     |
+| Marjoram (Dried)  | 6                       | 5                 | 4                | 2                     |
+| Basil (Dried)     | 6                       | 5                 | 4                | 2                     |
+| Cucumber Tursi    | 4                       | 5                 | 3                | 2                     |
+| Chinese Lettuce   | 5                       | 4                 | 3                | 2                     |
+| Basil Seeds       | 5                       | 5                 | 4                | 1                     |
+| Spearmint (Dried) | 4                       | 6                 | 3                | 1                     |
