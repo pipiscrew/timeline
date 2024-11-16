@@ -146,3 +146,9 @@ Omega-3 PUFAs have been known to demonstrate anti-inflammatory actions in variou
 Reportedly, omega-3 PUFA metabolites have demonstrated various actions on immune and **epithelial cells**.
 
 source - [(2020) Omega 3 Fatty Acid and Skin Diseases](https://doi.org/10.3389%2Ffimmu.2020.623052) &nbsp;&nbsp; ([mirror](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7892455/))
+
+---  
+
+![img](../assets/inflammatory.jpg)  
+
+[source](https://doi.org/10.1201/9781003534877)
