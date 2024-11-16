@@ -180,4 +180,6 @@ Under normal conditions, the **conduction process** begins in a particular area 
 
 [source](https://href.li/?https://www.intechopen.com/books/11656)  
 
-video - [20 Minute Full Body Cardio HIIT Workout](https://www.youtube.com/watch?v=M0uO8X3_tEA)
+references :  
+* video - [20 Minute Full Body Cardio HIIT Workout](https://www.youtube.com/watch?v=M0uO8X3_tEA)  
+* Jumping Jacks - [5 Exercises for HIIT Beginners to do in 10 Minutes](https://www.lifemark.ca/blog-post/5-exercises-hiit-beginners-do-10-minutes)  [[all variants](https://www.youtube.com/watch?v=DbWxZIfyTAg)]  

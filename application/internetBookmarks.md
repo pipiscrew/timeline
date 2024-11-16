@@ -360,6 +360,8 @@
 * [Free Online Graph Paper](https://incompetech.com/graphpaper/)
 * [Ruler Online](https://ruler.onl/)
 * [Monitor - Refresh Rate Test](https://fpstest.org/refresh-rate-test/)  
+* [Stretch My Time Off](https://stretchmytimeoff.com/) - optimize your vacation days  
+* [zulip](https://www.zulip.com/) - modern team chat app  
 
 ## food
 * [inch calculator](https://www.inchcalculator.com/convert/butter/) - cooking unit conversion
