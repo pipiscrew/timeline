@@ -94,6 +94,7 @@
 * [telegra](https://telegra.ph/) - paste online
 * [Notepad Tab](https://notepadtab.com/) - paste online
 * [onetimesecret](https://onetimesecret.com/) - one time paste
+* [sharrr](https://www.sharrr.com/) - one time file share
 * [ArchiveBox - Your own personal internet archive](https://archivebox.io/)
   * [2](https://github.com/ArchiveBox/ArchiveBox)
 * [archive.today](https://archive.ph/) - Archive any webpage ([mirror](https://archive.ph/))
