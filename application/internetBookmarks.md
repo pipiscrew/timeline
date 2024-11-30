@@ -205,6 +205,7 @@
 * [JSON Visio](https://jsonvisio.com) - visualize JSON data into graphs 
 * [JSON History](https://weekendproject.space/json.html) - any edit/change stored
 * [JSON Crack](https://jsoncrack.com/) - visualize JSON  
+* [JSONtr](https://jsontr.ee/) - visualize JSON structures as dynamic tree diagrams
 * [JSCalc](https://jscalc.io/embed/bqFGoiIstXKpcKU5) - create custom online calculator  
 
 ## develop

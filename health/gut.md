@@ -909,6 +909,8 @@ The more plant material remains in its **original form—whole**, if you will—
 
 I should also add that popular root vegetables, including beets and carrots, contain complex carbohydrates and resistant starches—when they are raw. Unfortunately, if you cook them, even a little, they lose those components.  
 
+(2022) source - [Health benefits of resistant starch](https://doi.org/10.1016/j.jff.2022.105094)  
+
 ## Do: Eat for Your Mitochondria
 Your `mitochondria` need two special substances to protect them from oxidative stress:  
 * the antioxidant melatonin
