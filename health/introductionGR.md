@@ -236,11 +236,17 @@ _Η αποθήκευση γλυκογόνου είναι αρκετά μικρή
 - Πάντα μαγειρεύουμε σε χύτρα ταχύτητας
 - Πάντα [250gr κρέας](https://pipiscrew.com/apps/forum/view_topic.php?id=778) στο μεσημεριανό
 - Πάντα [200gr ρύζι basmati](https://pipiscrew.com/apps/forum/view_topic.php?id=783) το απόγευμα
-  - Προσπαθήστε να διατηρήσετε **καθαρούς υδατάνθρακες** (υδατάνθρακες μείον τις φυτικές ίνες) λιγότερο από 100 γραμμάρια την ημέρα (μέγιστο: δύο πατάτες Ή δύο φλιτζάνια ρύζι Ή τέσσερα μήλα)  
+  - Προσπαθήστε να διατηρήσετε **καθαρούς υδατάνθρακες** (υδατάνθρακες μείον τις φυτικές ίνες) λιγότερο από 100 γραμμάρια την ημέρα μέγιστο
+    * δύο πατάτες ή
+    * δύο φλιτζάνια μαγειρεμένο ρύζι ή
+    * τέσσερα μήλα  
 
-πηγές :
+πηγές :  
 
-- Eat Rich, Live Long (2018) - <https://www.amazon.com/dp/1628602732>
-- The PE Diet (2019) - <https://www.thepediet.com/>
-- Gut check (2024) - <https://www.amazon.com/dp/0062911775>
+- Eat Rich, Live Long (2018) - [https://www.amazon.com/dp/1628602732](https://href.li/?https://www.amazon.com/dp/1628602732)
+- The PE Diet (2019) - [https://www.thepediet.com/](https://href.li/?https://www.thepediet.com)
+- Gut check (2024) - [https://www.amazon.com/dp/0062911775](https://href.li/?https://www.amazon.com/dp/0062911775)
 - <https://pipiscrew.github.io/timeline/#/health/introduction>
+
+αναφορά :
+* [Διατροφή χαμηλών υδατανθράκων](https://www.pipiscrew.com/threads/%CE%94%CE%B9%CE%B1%CF%84%CF%81%CE%BF%CF%86%CE%AE-%CF%87%CE%B1%CE%BC%CE%B7%CE%BB%CF%8E%CE%BD-%CF%85%CE%B4%CE%B1%CF%84%CE%B1%CE%BD%CE%B8%CF%81%CE%AC%CE%BA%CF%89%CE%BD.109145/)
