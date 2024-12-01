@@ -1482,7 +1482,17 @@ The good news is that you have the power to **rectify** the situation. You can u
 
 Well, do you, punk? What do you say? I say, let’s eat!  
 
---- 
+---  
+
+**Dr. Pradip Jamnadas**  
+
+* [The microbiome impact on Health](https://www.youtube.com/watch?v=VVfCLb_n8vA&list=PLN4uKfvSU2v36e8OoIfbXwVKiFejoRGTq) (playlist)
+  * supplement [Inulin-FOS](https://jarrow.com/products/prebiotic-inulin-fos-6-3-oz-180-g-powder) includes
+    * [Orafti Synergy1](https://www.beneo.com/human-nutrition/human-nutrition-products/functional-fibres/inulin) ([pdf](https://www.beneo.com/product/oraftisynergy1?cmsid=659c324f-2dff-4ae7-b1d2-dd9e858ce23d&pdfname=bo-ps_synergy1-a4-20-007--01-01-2023.ashx&industry=Human%20Nutrition&specification=Product%20sheet0)) which includes
+      * [chicory inulin](https://www.beneo.com/human-nutrition/human-nutrition-products/functional-fibres/inulin) prebiotic
+* [Vagus nerve](https://www.youtube.com/watch?v=sGQW8Tx78hM)  
+
+---  
 
 suggested book
 [The Gut Health Protocol](https://www.theguthealthprotocol.com/wp/summary_gut_health_protocol/) [[2](https://www.amazon.com/dp/B00VCP5PKW/)]
