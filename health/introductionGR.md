@@ -252,5 +252,5 @@ _Η αποθήκευση γλυκογόνου είναι αρκετά μικρή
 - <https://pipiscrew.github.io/timeline/#/health/introduction>
 
 
-επόμενη εξερεύνηση :  
+επόμενο κεφάλαιο :  
 * 2023 - [Dr. Pradip Jamnadas - Η επίδραση του μικροβιώματος στην υγεία](https://www.youtube.com/watch?v=S1n7P5l2xK8)
