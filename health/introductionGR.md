@@ -250,3 +250,7 @@ _Η αποθήκευση γλυκογόνου είναι αρκετά μικρή
 - The PE Diet (2019) - [https://www.thepediet.com/](https://href.li/?https://www.thepediet.com)
 - Gut check (2024) - [https://www.amazon.com/dp/0062911775](https://href.li/?https://www.amazon.com/dp/0062911775)
 - <https://pipiscrew.github.io/timeline/#/health/introduction>
+
+
+επόμενη εξερεύνηση :  
+* 2023 - [Dr. Pradip Jamnadas - Η επίδραση του μικροβιώματος στην υγεία](https://www.youtube.com/watch?v=S1n7P5l2xK8)
