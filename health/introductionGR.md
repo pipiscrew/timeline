@@ -232,7 +232,9 @@ _Η αποθήκευση γλυκογόνου είναι αρκετά μικρή
 
 Ακολουθώντας μια [διατροφή χαμηλών υδατανθράκων](https://www.pipiscrew.com/threads/%CE%94%CE%B9%CE%B1%CF%84%CF%81%CE%BF%CF%86%CE%AE-%CF%87%CE%B1%CE%BC%CE%B7%CE%BB%CF%8E%CE%BD-%CF%85%CE%B4%CE%B1%CF%84%CE%B1%CE%BD%CE%B8%CF%81%CE%AC%CE%BA%CF%89%CE%BD.109145/) συνδυάζεται όμορφα με τη **διαλείπουσα νηστεία**. Είναι πολύ καλό να **ασκείσαι** ενώ **νηστεύεις**, είτε [cardio](https://pipiscrew.github.io/timeline/#/health/exercise?id=cardiorespiratory-fitness) είτε σηκώνοντας [βάρη](https://vimeo.com/showcase/8220991).  
 
-* 2019 - [Dr. Pradip Jamnadas - Νηστεία για επιβίωση](https://www.youtube.com/watch?v=9ROk0OShVTo&t=1084s)  
+* 2019 - [Dr. Pradip Jamnadas - Νηστεία για επιβίωση](https://www.youtube.com/watch?v=9ROk0OShVTo&t=1084s)
+  * 3 μέρες νηστεία για ισχυρή αντιοξειδωτική δράση
+  * 7 ήμερη νηστεία κάθε 6 μήνες για προστασία από μακροπρόθεσμες ασθένειες  
 
 \--
 
