@@ -334,7 +334,7 @@ _Η αποθήκευση γλυκογόνου είναι αρκετά μικρή
 
 και το DNA **καταρρέει** κάθε μέρα γι' αυτό **γερνάμε**. Εκτός των άλλων, το FOXO3 **κάνει** τα `τελομερή` όμορφα και μακρύτερα ( μακρύτερα **τελομερή** σημαίνει `μακροζωία` ). [[1](https://href.li/?https://www.snexplores.org/article/scientists-say-telomere-definition-pronunciation)] [[2](https://href.li/?https://learn.genetics.utah.edu/content/basics/telomeres/)]  
 
-Η αυτοσυγκέντρωση (meditation) δυναμώνει τα **τελομερή**.  
+> Ο διαλογισμός (meditation) δυναμώνει τα **τελομερή**.  
 
 ![img](../assets/introGR12.jpg)
 
