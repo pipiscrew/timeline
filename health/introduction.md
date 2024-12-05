@@ -1,412 +1,349 @@
-## How Many Cells Are in Your Body?
-You and I began as a single cell, or what you would call an egg. By the time you are an adult, you will have trillions of cells. That number depends on the size of the person, but biologists put that number around 37 trillion cells.
+> **Digestion** = Set of processes of breaking down food into a form suitable for use by the body.  
+> **Oxidation** = Carbohydrates / fats are broken down (oxidized) to produce energy.  
 
-Did you know we lose 30,000 to 40,000 dead **skin cells** every minute? That means we lose around 50 million cells every day.  This is a lot of skin cells to replace, making cell division in skin cells is so important.  [source](https://askabiologist.asu.edu/cell-division)
+# Proteins
 
-Your body replaces around 330 billion cells per day. At that rate, your body is making over 3.8 million new cells every second.  [source](https://www.sciencealert.com/your-body-makes-4-million-cells-a-second-and-most-of-them-are-blood) [[2](https://www.osgpc.com/amazing-facts-about-the-human-body/)]  
+digestion: 3-6 hours
 
-## Genome
+It is nothing more than a _collection_ of **amino acids**. A protein is made up of **hundreds** of smaller units called **amino acids**. You can think of a protein as a series of beads where each bead is an **amino acid**. A **mammalian** cell can contain **thousands** of proteins, each with a unique function.  
 
-A **genome** is an organism’s complete set of DNA. If the **DNA** code is a **set of instructions** that’s carefully organized into  
+Mammals need protein in their diet to
 
-* paragraphs (**genes**) 
-* chapters (**chromosomes**)
+* support growth
+* to repair tissues
+* maintain basic physical functions  
 
-then the entire manual from start to finish would be the **genome**.
+Proteins can play a wide range of roles in a cell or organism.  
 
-**Genes** encode protein, large complex molecules which drive processes in the body and are responsible for the function and structure of the body's tissues. Before **genes** can be used to make proteins, their DNA sequence is transcribed into **RNA**, an intermediary molecule that contains the instructions for making **proteins**.
+- **Enzymes** act as catalysts in biochemical reactions, meaning they speed up reactions.
+- **Hormones** are long-range chemical signals released by endocrine cells. While some hormones are based on steroids, others are proteins. These protein-based hormones are commonly called peptide hormones. For example, **insulin** is an important peptide hormone, the **hemoglobin** protein that carries oxygen in the blood is a globular protein, and collagen, found in our skin, is a fibrous protein.  
+- **Antibodies**
 
-The human **genome** contains approximately 3 billion of these base pairs, which reside in the **23 pairs of chromosomes** within the **nucleus** of all our **cells**. Each **chromosome** contains hundreds to thousands of **genes**, which carry the instructions for making **proteins**. Each of the estimated 30,000 genes in the human genome makes an average of three proteins. [src](https://www.genome.gov/human-genome-project/Completion-FAQ)
+Mammals can handle **20 standard amino acids**, which include **9 essential amino acids** that **must** be obtained from **diet** and 11 non-essential amino acids that the body can synthesize.  
 
-When a **gene** is activated by signals from inside or outside the **cell**, it makes a molecular message (called an **RNA**) that contains all the information needed to make whatever that **gene makes**. We now know that over 95% of our **genes** can actually make several **different** types of messages, depending on the **needs** of the **cell**.
+Protein that has the **9 essential amino acids** can only be found in **animal products**. Of course, some like to believe that  
+- Edible Hemp Seeds
+- Buckwheat
+- Quinoa
+- Soy
+- Chlorella
+- Spirulina
 
-## DNA
+have the **9 essential amino acids**.  
 
-The DNA inside each of your cells is longer than you are, but packs down into a space smaller than you can see.
+A protein is called a **complete protein** when it has all **9 essential amino acids**.  
 
-Stretched DNA length in each human cell is about 2 meters.
+These **9 essential amino acids** must be present **simultaneously** and in the correct relative **amounts** for **protein synthesis** to occur. If one or more are in short supply, the use of all the others in the cellular pool will be **reduced** in the same proportion.  
 
-All the DNA in all your cells put together would be about twice the diameter of the Solar System.
+Although **plant sources** generally lack one or more of the **essential amino acids**, when combined with **whole grains** such as rice or nuts or seeds with legumes, all amino acids can be obtained.  
 
-ref - [DNA: The Secret of Life](https://www.dropbox.com/s/dm850m8w5py86nm/DNA%20-%20The%20Secret%20of%20Life.pdf?dl=1)
+The **human body**, minus water, is **75% made up of amino acids**. All but one **neurotransmitter** (proteins) are made up of amino acids, and **95% of hormones** are **amino acids**. Amino acids are **key** to every human bodily function with every **chemical reaction** occurring.  
 
-## Cells
+When an organism eats food, the protein is **broken down** (proteolysis) and **resynthesized** to produce **complete proteins**. Even in the case of animal products (complete proteins by definition) the body does **proteolysis**. When an organism consumes different (non-animal) products, the body still continues to **break down** the proteins and look for **candidate** amino acids to form **the complete protein**.  
 
-Almost every cell of your body contains the **23 pairs of chromosomes**, except the eggs and sperm that contain only one copy (so only 23 and not 23 pairs). The only cells that don't contain DNA are **blood cells** because they don't have a **nucleus** (the structure that keeps the DNA).
-The DNA are the **instructions** that the cell has to produce all its components, like **proteins** and function properly. So they are needed everywhere.
+> **Animals** are at a higher trophic level than **plants**. Because they are higher on the **food chain**, they automatically bioaccumulate **more** protein and minerals and micronutrients, and eating animals always provides **higher quality protein** and **higher nutrient density**.  
+>
+> `Plants create all` of the `food ENERGY`, storing **solar energy** as carbohydrates and fats. Plants create all of the `food PROTEIN`, using **nitrogen** and other **minerals** from the `soil`. **Animals** get both by eating **plants** (or other animals that have eaten plants).  
+>
+> Meat, eggs, and green vegetables are **good**, grains are **bad**. Fish is the **best** thing ever, and sugar and oil are the **worst** things ever.  
 
-## Mitochondria
+> **Too much protein** will produce too much **IGF-1** which activates **mTOR** and these are **protein kinases** and what it does is it **stimulates** the production of your **ribosomal** to **produce** more **protein** which is good, so when you eat protein you **build** more muscle which is fine but you also have **cell proliferation** and what that does (?) is increase the risk of cancer. Now there is absolutely no doubt that **high protein** increases the risk of cancer. I think the data is indisputable it has been **proven** in animals and also in some human studies. **Do** not consume **protein powder**. [[1](https://youtu.be/9ROk0OShVTo?t=3465)]
 
-Are found in all **cells**, with the exception of a few. There are usually **multiple mitochondria** found in one **cell**, depending upon the function of **cell**.
+# Fat
 
-Are the **powerhouses** for cells, providing energy to carry out biochemical reactions and other cellular processes. Mitochondria make energy for cells from the chemical energy stored in the **food** we eat.. It's funny, they do literally run like a dam generating hydroelectric power! - They pump **protons** (positively charged particles) one way, then use them as they slide back to run a kind of motor that makes a small **energetic molecule** used by many entities in the **cell**.
+digestion: 6-8 hours
 
-**Food** contains the building blocks of life known as  
+- Saturated fats
+- Monounsaturated fats **<span style="color: rgb(102, 176, 80)">|</span>**
+- Polyunsaturated fats
+- Trans fats **<span style="color: rgb(226, 80, 65)">|</span>**
+- Triglycerides
 
-* carbohydrates  
-* proteins  
-* fats
+Fat is **energy storage**, insulation and supports the absorption of fat-soluble vitamins, as well as providing essential fatty acids that are **vital** for various physiological functions.
 
-The **energy** stored in food is converted into a **usable energy source** in the **body** known as **ATP**. ATP is the only energy currency that can be used in our **bodies**. The actual **production of ATP** is quite a **complex** process. The **inner membrane** of **mitochondria** is what is responsible for **mass energy production**. [src](https://www.lhsc.on.ca/medical-genetics-program-of-southwestern-ontario/all-about-mitochondria)
+Fat **exits** (converts into energy) from your body through **mitochondria**. Training **doubles** your **mitochondria**.  
 
-![img](../assets/cell_stucture.jpg)
+![img](../assets/cell_stucture.jpg)  
+
+# Carbohydrates
+
+digestion: 1-3 hours
+
+They are the **main source of energy**, which fuels cellular processes and supports overall metabolic functions. They are divided into three categories:
+
+- Dietary Fiber **<span style="color: rgb(102, 176, 80)">|</span>**
+- Sugar **<span style="color: rgb(226, 80, 65)">|</span>**
+- Starch **<span style="color: rgb(226, 80, 65)">|</span>**
+  - **Rapidly digestible starch (RDS)** **<span style="color: rgb(226, 80, 65)">|</span>** - is the amount of starch that is digested by enzymes and absorbed into the bloodstream within 20 minutes.
+  - **Slowly digestible starch (SDS)** **<span style="color: rgb(226, 80, 65)">|</span>** - is the amount of starch that can be completely digested within 20 minutes to 120 minutes.
+  - **Resistant starch (RS)** - refers to starch that cannot be digested within 120 minutes in the small intestine and therefore passes into the large intestine, where it can act as a substrate for intestinal fermentation processes. It is divided into five types:
+  - **RS1** **<span style="color: rgb(226, 80, 65)">|</span>** - Naturally inaccessible starch that cannot be hydrolyzed due to the cell wall barrier.
+  - **RS2** **<span style="color: rgb(226, 80, 65)">|</span>** - Raw starch, which due to its structure (crystalline form) is not digested.
+  - **RS3** **<span style="color: rgb(102, 176, 80)">|</span>** - Retrograde starch formed when starchy foods are [cooked and then cooled](https://pipiscrew.com/apps/forum/view_topic.php?id=783) (applies to rice / red & black lentils). The long branched chains of amylopectin form double helices that cannot be hydrolyzed by digestive enzymes.
+  - **RS4** **<span style="color: rgb(226, 80, 65)">|</span>** - Resists enzymatic hydrolysis by modifying its original molecular structure and the addition of certain chemical functional groups by chemical modification (used as a `food additive`).
+  - **RS5** **<span style="color: rgb(226, 80, 65)">|</span>** - Combination of long and unbranched starch chains with free fatty acids, forming a helical structure that is difficult to digest and deliberate rearrangement of starch molecules - resistant maltodextrin.
+
+> **Carbohydrates** and **fats** are macronutrients that provide **energy** to the body.  
+
+**Carbohydrates** and **fats** are **radically different** and handled in **radically different** ways by our bodies. It is ABSOLUTELY CRITICAL to understand the basic **differences** between the two.  
+
+**Carbohydrates** are **water-soluble**. Think of a **spoonful of sugar** in your coffee. **Fats**, on the other hand, are not completely water-soluble ( oil and water don't mix ). So your body **absorbs** and **transports** and **stores** these **two different energy sources** in **COMPLETELY different** ways** (and they have completely different **effects** on your **metabolism**).  
+
+All foods are **broken down** into smaller units in your **digestive** system before they are even absorbed in the **small intestine**. **Proteins** are broken down into **amino acids**, the building blocks of proteins, before being absorbed. **Carbohydrates** that are not dietary fiber are broken down into simple **sugars** such as **glucose** and **fructose** before being absorbed (dietary fiber is not absorbed at all and continues its way through the digestive tract, coming out the other side). **Fats** are eaten as **triglycerides** (three fatty acids packed together) and are broken down into individual fatty acids before being absorbed.  
+
+![img](../assets/introENG02.jpg)  
+
+All **dietary energy** is chains of **carbon** with high-energy carbon-carbon bonds — carbohydrates and fats. We break these bonds in our **mitochondria** to release **energy**.
+
+![img](../assets/introENG03.jpg)  
+
+So you have two completely **separate energy storage compartments** in your own body. **Glucose** (carbohydrates), which are water soluble, are stored as glycogen (simple chains of glucose) in your **liver** and **muscles**. **Fat**, which is NOT water soluble, is stored in your **fat cells**. The fat storage space is **MUCH larger** and your body prefers to only store about **1%** of its energy as **glycogen** (carbohydrates).  
+
+It turns out that **glucose**, from **glycogen**, is **FAST**. You can convert glucose into energy **SIX TIMES faster** than **fat**.  
+
+So why don't we just use glycogen for energy storage? Because glycogen is **HEAVY**! Glycogen is “fully hydrated” (which is why we call them carbohydrates), which means it has a lot of **water** attached to it. And that water weighs a lot! So glycogen is about six times **heavier** than the **same amount of energy** stored as **fat**.  
+
+**Glycogen**, which is just chains of glucose molecules, is a type of “human starch” and is identical to the starch found in **potatoes**. The fat in the lipid droplets in your **fat cells** looks a lot like sunflower oil.  
+
+Note: the photo below shows the same amount of stored energy as olive oil compared to potatoes. At six times the size and weight, you can see why your body **doesn’t want to carry** all that energy around as **glycogen**. In fact, due to weight efficiency, your body carries 100 times more fat than glycogen.  
+
+![img](../assets/introENG04.jpg)  
+
+But we **SHOULD** always have **glycogen** for emergency use. In a **fasted state**, when we are sedentary or only doing light exercise, like walking, we burn mostly **fat**. But in **high intensity** exercise, we burn mostly **glucose**. `And in fact, at the MOST high intensity, like sprinting for your life, we always burn 100% pure glucose.` Because it is so useful for emergency use, your body **ALWAYS** keeps **glycogen** in your muscles, so it can run for your life in a moment of threat. This is a necessary safety net!  
+
+**Glycogen** storage is quite **small**. You can only hold about **4 grams** of **glucose** in your **blood** circulation and maybe **100 grams** of glucose** in your **liver**. Your **muscles** can hold about **300 grams of glucose** on average, `but that glucose is only for emergency use` and goes untouched UNLESS you're doing **very high-intensity** exercise—in which case you can actually burn a ton of glucose very quickly, if you take it to the max. That's why people who do a lot of high-intensity exercise `can consume a lot of` carbs. But the average American does an average of **zero minutes of high-intensity exercise** per day, so for most of us, we should probably stay **under 100 grams of carbs**.  
+
+`Long-duration high-intensity exercise will definitely require carbs` during the event. Even the most fat-adapted **elite** athletes can only engage in maximal intensity exercise for **2 hours** at most before they **completely** deplete their muscle and liver **glycogen** and _hit the wall_, a state of **hypoglycemia** where your body **pretty much stops** doing what you've asked it to do. Typically, anyone exercising at a very high intensity for more than an hour will **benefit** from some **carbs** during the event.  
+
+![img](../assets/introENG05.jpg)  
+
+![img](../assets/introENG06.jpg)  
+
+_Glycogen storage is quite small, and without high-intensity exercise, most people only have room for about 100 grams of dietary glucose (stored as liver glycogen) per 24 hours._  
+
+**CARBOHYDRATES** AND **FAT** OXIDIZE EACH OTHER! And it is **GLUCOSE**, not fat, that **controls** which fuel **is** oxidized** at any given time. This is an absolute requirement because glucose (glycogen) storage is so **tiny**. We have **very little room** to store **glucose** as glycogen, so the moment we **start** to **eat** more glucose **we** must** immediately **burn** more **glucose**. Conversely, the moment we **stop** eating glucose, we immediately **start** to **burn** more **fat**. Understanding this **interaction** between **carbs** and **fats** is absolutely **essential** if you want to **understand** what is required to **increase fat oxidation**.  
+
+**High** carbohydrate **diets** can increase **carb oxidation** by **10-fold** and **decrease** **fat** oxidation** by 10-fold at the same time. If you want to get better at burning fat (as fuel), the simplest and most direct strategy is to **eat fewer carbs**. If you want your body to be better at burning fat, you only need to do one thing: eat **fewer carbs**.  
+
+![img](../assets/introENG07.jpg)  
+
+There are four cases (excluding obesity)
+
+![img](../assets/introENG08.jpg)  
+
+![img](../assets/introENG09.jpg)  
+
+![img](../assets/introENG10.jpg)  
+
+![img](../assets/introENG11.jpg)  
+
+> If you **overfeed** someone **fat**, you don't increase their risk of cancer **at all**. If you **overfeed** someone **carbohydrates**, you **dramatically** increase their risk of cancer. And **protein** is **halfway** there.  
+
+> **Glycolysis** is a fundamental metabolic pathway that breaks down **glucose** to extract energy for **cellular processes**. It occurs in the cytoplasm of **cells**.  
+
+# Τοξική Ενέργεια
+
+Alzheimer’s disease. Asthma. Osteoarthritis. Rheumatoid arthritis. Cancer (especially breast, colorectal, esophageal, uterine, renal, prostate, and pancreatic cancers). Depression. Type 2 diabetes. Fatty liver. Acid reﬂux. Fibromyalgia. Gout. Sleep apnea. High cholesterol. High blood pressure. Osteoporosis. Stroke. Coronary artery disease and atherosclerosis. Heart failure. Erectile dysfunction. Polycystic ovarian syndrome. Acne. Low testosterone. Enlarged prostate. Gynecomastia. Baldness. Psoriasis. Lupus. Peripheral neuropathy. Glaucoma. Near-sightedness. Vertigo. Tinnitus. Inﬂammatory bowel disease. Sarcopenia. Tendinopathy. Carpal tunnel syndrome. Hearing loss. Macular degeneration.  
+
+We are facing an **epidemic** of chronic disease. And believe it or not, every single one of the chronic conditions listed above is related **to one thing: chronically high insulin levels**—also known as «insulin resistance», or «hyperinsulinemia».  
+
+**Insulin** is a hormone, once released by the **pancreas**. Here’s how it works: When foods with **carbs** reach your upper gut, they activate another key hormone, the glucose-dependent **insulinotropic polypeptide** (GIP). This **carb-driven** **burst** of GIP** spreads to your **pancreas** and fat cells. In the pancreas, it triggers a **burst** of **insulin** release. In fat cells, it sets things up for fat storage. The wave of insulin flashes around your body, triggering your cells to get ready to take up glucose. It stops the release of other hormones, like glucagon, to prevent your liver from making glucose inappropriately. It tells the hypothalamus in your brain that glucose is on its way to control your appetite. It tells your body to stop burning fat and instead burn the glucose that is coming down the hatch (glucose is dangerous if it stays high in your bloodstream), so it must be prioritized for immediate burning or conversion to body fat for storage. Insulin does all of this and more, it is truly your body's **master regulator**.  
+
+If you **keep your insulin levels** **low**, all of these signals are extremely **effective**. Your body will remain highly sensitive to insulin messages. This is vital for **longevity** and **slimness**. There are many strategies to keep your **insulin** at **low** levels. Here are some of the most important approaches:  
+
+- Don't consume too many carbohydrates, which are mainly made up of glucose.
+- Don't consume refined carbohydrates or refined vegetable oils.
+- Don't consume carbohydrates with fatty foods (a very bad combination).
+- Don't consume too much fructose.
+- Don't eat often, rather eat well-spaced meals (2-3 / day). **Snack** spoils **insulin signaling**.
+- **Excessive carbohydrates** cause excessive **insulin**. **Refined carbohydrates** in particular lead to a burst of glucose-dependent insulinotropic polypeptide (GIP) release in the gut – **really** leading to **excessive insulin**.
+- Carbohydrates and fat **together** actually increase GIP and therefore insulin.
+- **Fructose** causes **insulin problems** in the liver, **promoting** **bad** cholesterol along the way. These are the main mechanisms that a low-carb, high-fat diet addresses.
+- There are also emerging studies showing that **gut microbiome** problems (issues with the balance of good and bad bacteria in your gut) can also lead to **insulin dysregulation**.
+- **Carbohydrate-rich** foods raise **blood sugar** levels. **Insulin** must **rise** immediately** to **manage** this **blood sugar**. **Carbohydrate-rich** foods are also **lowly satiating** at first** (they don't fill you up). The overall result is that you **feel hungry again** right after eating. The /_spring/_ is hard to ignore, it will whisper in your ear, /_You really need and deserve a snack/_.  
+
+# Genetically Modified Products (aka GMO)
+
+They are plants whose genetic material (root / seed) has been **altered** using **biotechnology** to introduce desirable traits such as **resistance** to pests, tolerance to herbicides or improved nutrient content. They were created by Monsanto, which was acquired in 2018 by Bayer.  
+
+Historically, it began in 1970 and in 1990 it became permissible for everyone to plant GMO seeds.  
+
+After years (1974) the **invaders** (pests) also became more resistant and so they began to **kill** the plants with **special herbicide** (aka Roundup) so that they could bear fruit.  
+
+Created by Monsanto. **Roundup** has **glyphosate** as its active ingredient.  
+
+**Glyphosate** in the weed killer Roundup is **patented** as an **antibiotic**. 😂  
+
+It works by **disrupting** the pathway that **plants** use to make **amino acids**, called the **shikimate** pathway. Plants but not animals use the shikimate pathway. This led scientists to hypothesize that **glyphosate** would kill weeds while remaining **safe** for humans and other animals. Not so fast. Guess who else uses the **shikimate** pathway. The **good** **bacteria** in your **gut**. Glyphosate is **deadly** to them.  
+
+Mutant roots that exist:  
+
+- Alfalfa (Medicago sativa) --- this is what they feed animals
+- Apple
+- Beans (Phaseolus vulgaris)
+- Black-eyed beans (Vigna unguiculata)
+- Rapeseed oil
+- Corn (Maize)
+- Eggplant (Solanum melongena)
+- Flaxseed (Linum usitatissimum L.)
+- Melon
+- Papaya (carica papaya)
+- Pineapple
+- Plum (Prunus domestica)
+- Potato (Solanum tuberosum L.)
+- Rice (Oryza sativa L.)
+- Soybeans (Glycine max L.)
+- Pumpkin + Zucchini (Cucurbita pepo)
+- Sugar beet (Beta vulgaris)
+- Sugar cane (Saccharum sp)
+- Sweet pepper
+- Tomato (Tycopersicon esculentum)
+- Wheat (Triticum aestivum)
+- Chicory (Cichorium intybus)
+- Safflower (Carthamus tinctorius L.)
+- Petunia (Petunia hybrida)
+- Tobacco (Nicotiana tabacum L.)
+- Cotton (Gossypium hirsutum L.)
+- Poplar (Populus sp.)
+- Eucalyptus (Eucalyptus sp.)
+- Rose (Rosa hybrida)
+- Carnation (Dianthus caryophyllus)
+
+sources:
+* <https://www.bayer.com/en/agriculture/gmo-biotechnology>
+* <https://www.fda.gov/food/agricultural-biotechnology/gmo-crops-animal-food-and-beyond>
+* <https://www.isaaa.org/gmapprovaldatabase/cropslist/>
+* <https://www.ams.usda.gov/rules-regulations/be/bioengineered-foods-list>
+
+# Intermittent Fasting (aka intermittent fasting)
+
+Fasting (12 hours -- 8:00 PM – 8:00 AM | 18 hours -- 8:00 PM – 2:00 PM) involves abstaining from all food and caloric beverages for a continuous period of hours, often including overnight hours. It is considered beneficial because  
+
+- promotes insulin sensitivity in all people
+- reduces insulin resistance in people with prediabetes
+- reduces inflammation
+- helps reverse type 2 diabetes
+- lowers blood pressure
+- improves fat cell health and improves fat burning
+- improves weight loss while preserving muscle better than calorie restriction
+- improves mood and mental clarity
+- enhances autophagy (cell regeneration and repair)
+- protects against radiation damage in cancer patients
+- promotes longevity
+
+Typically, the **fed state** begins when you start eating, and for the next **three to five hours** your body digests and **absorbs** the food you just ate. **Insulin** increases significantly, to some extent **shutting down** fat burning** and also enabling excess calories to be stored as fat. After the first few hours mentioned above, your body goes into what is known as the **post-absorptive state**, during which the components of your last meal are still in **circulation**. The post-absorptive state **lasts** until **8 to 12 hours after your last meal**, which is when you enter a **fasted** state. It usually takes 12 hours after your last meal to fully enter the fasted state.  
+
+When you are in a fasted state, your body can **burn fat** that was **unavailable** during **feeding**. Because we **don't** enter a **fasted state** until about 12 hours after our last meal, it's rare for our bodies to be in this fat-burning state in the modern eating environment. This is one reason why many people who start **intermittent fasting** will lose fat without changing what they eat, how much they eat, or how often they exercise. Fasting puts your body into a **fat-burning state** that you can rarely enter during a regular eating plan.  
+
+Eating **carbohydrates**, especially **processed carbohydrates** without fiber, **hyperstimulates** the feeding state, **as** carbohydrates **raise both glucose** and **insulin** **higher** than other macronutrients. Generally, when you eat a **meal**, your body **spends** a few hours processing that food and **burns** what it can** of what you just **consumed**. Because it has all that **immediately available**, **easily burning energy** in the bloodstream (thanks to the food you ate), your body will choose to **use** it as **energy** instead of the fat you have stored. This is **ESPECIALLY** true if you just ate **carbs**, because they are **quickly converted to glucose** and your body **needs to burn sugar for energy** before **any other source** (you have limited glucose storage and **high glucose is toxic**, your body **burns extra glucose** **preferentially** to **get rid** of it, in the **same** way** that the body **burns** alcohol consumed for energy before other energy calories, alcohol therefore **sabotages fat loss** as well).  
+
+Once you `go past 12 hours` from dinner the night before, `then you are truly` in a **fasted state** and begin to **rely** on stored body **fat** for fuel. If you can maintain this intermittent fasting for **20 to 24 hours**, you will achieve a very high rate of **lipolysis** (the breakdown of stored body fat into free fatty acids, **available for burning** in the cells) and fat oxidation (**burning of fat in the mitochondria**).  
+
+Following a [low-carb diet](https://www.pipiscrew.com/threads/%CE%94%CE%B9%CE%B1%CF%84%CF%81%CE%BF%CF%86%CE%AE-%CF%87%CE%B1%CE%BC%CE%B7%CE%BB%CF%8E%CE%BD-%CF%85%CE%B4%CE%B1%CF%84%CE%B1%CE%BD%CE%B8%CF%81%CE%AC%CE%BA%CF%89%CE%BD.109145/) pairs nicely with **intermittent fasting**. It's very good to **exercise** while **fasting**, either [cardio](https://pipiscrew.github.io/timeline/#/health/exercise?id=cardiorespiratory-fitness) or [weight lifting](https://vimeo.com/showcase/8220991).  
+
+> 18+ hour fast: Your body will handle a meal **differently** than it would when you were eating, compared to eating after a fast, **it is metabolized completely differently**, the system *accepts* it more **lightly**.  
+
+* 2019 - [Dr. Pradip Jamnadas - Νηστεία για επιβίωση](https://www.youtube.com/watch?v=9ROk0OShVTo&t=1084s)
+  * autophagy starts after 18 hours of fasting, maximum is up to 3 days
+  * 3 days of fasting for anti-inflammatory action (special for autoimmune) [[1](https://youtu.be/9ROk0OShVTo?t=2274)]
+  * 7 days of fasting every 6 months for protection from long-term diseases
+  * by fasting for 7 days the probability of developing cancer during your lifetime decreased by 70%
+  * 1 time a week you can skip dinner [[1](https://youtu.be/9ROk0OShVTo?t=2667)]
+  * 36 hours is a magic number [[1](https://youtu.be/9ROk0OShVTo?t=2686)]
+  * overnight fasting (12h) is something else, to achieve the benefits of fasting it should be done for >= 18 hours
+  * 36 hours fasting and then chemo, will only remove cancer cells [[1](https://youtu.be/9ROk0OShVTo?t=2148)]
+  * when you are sick and have anorexia, it is because the body is repairing itself, do not eat you will not die but on the other hand you can die from eating
+  * frequent urination due to low insulin is common [[1](https://youtu.be/9ROk0OShVTo?t=2386)]
+  * if there is dizziness / headache / cramps during a fasting period, drink water with 1/8 teaspoon (0.5gr) of salt [[1](https://youtu.be/9ROk0OShVTo?t=2450)]
+  * hunger comes and goes, it has to do with the increase & decrease of [ghrelin](https://el.wikipedia.org/wiki/%CE%93%CE%BA%CF%81%CE%B5%CE%BB%CE%AF%CE%BD%CE%B7) according to [circadian rhythm](https://el.wikipedia.org/wiki/%CE%9A%CE%B9%CF%81%CE%BA%CE%AC%CE%B4%CE%B9%CE%BF%CF%82_%CF%81%CF%85%CE%B8%CE%BC%CF%8C%CF%82)
+  * time-restricted feeding - when you can't fast eat 1 time a day (max 2) in a 6-8 hour window
+  * allowed during fasting - water / tea / coffee / coconut oil / mct oil / DIY bone broth [[1](https://youtu.be/9ROk0OShVTo?t=4076)]
+  * if you have high triglycerides and low HDL and the ratio is greater than 2 you have high insulin levels [[1](https://youtu.be/9ROk0OShVTo?t=4536)]
+
+\--
+
+- Always cook in a pressure cooker
+- Always [250gr meat](https://pipiscrew.com/apps/forum/view_topic.php?id=778) for lunch
+- Always [200gr basmati rice](https://pipiscrew.com/apps/forum/view_topic.php?id=783) for dinner
+- Try to keep **net carbs** (carbs minus fiber) less than 100 grams per day maximum
+  * two potatoes or
+  * two cups of cooked rice or
+  * four apples  
+
+sources :  
+
+- Eat Rich, Live Long (2018) - [https://www.amazon.com/dp/1628602732](https://href.li/?https://www.amazon.com/dp/1628602732)
+- The PE Diet (2019) - [https://www.thepediet.com/](https://href.li/?https://www.thepediet.com)
+- Gut check (2024) - [https://www.amazon.com/dp/0062911775](https://href.li/?https://www.amazon.com/dp/0062911775)
+- <https://pipiscrew.github.io/timeline/#/health/introduction>  
 
 
-## Proteins
-
-> **Proteins** are made up of hundreds of smaller units called **amino acids** that are attached to one another by peptide bonds, forming a long chain. You can think of a protein as a **string of beads** where each bead is an **amino acid**.  
-> A single **cell** can contain **thousands** of proteins, each with a **unique** function.
-
-Proteins can play a wide array of roles in a cell or organism.
-
-* **Enzymes** act as catalysts in biochemical reactions, meaning that they speed the reactions up.
-
-* **Hormones** are long-distance chemical signals released by endocrine cells. While some hormones are **steroid-based**, others are **proteins**. These protein-based hormones are commonly called **peptide hormones**. For example, **insulin** is an important peptide hormone, the **hemoglobin** protein that carries oxygen in the blood is a **globular** protein, while **collagen**, found in our skin, is a **fibrous** protein.
-
-* **Antibodies**  
-
-  
-
-Types of proteins and their functions are listed in the table below:
-
-| Role              | Examples                                     | Functions                                                                   |
-|-------------------|----------------------------------------------|-----------------------------------------------------------------------------|
-| Digestive enzyme  | Amylase, lipase, pepsin                      | Break down nutrients in food into small pieces that can be readily absorbed |
-| Transport         | Hemoglobin                                   | Carry substances throughout the body in blood or lymph                      |
-| Structure         | Actin, tubulin, keratin                      | Build different structures, like the cytoskeleton                           |
-| Hormone signaling | Insulin, glucagon                            | Coordinate the activity of different body systems                           |
-| Defense           | Antibodies                                   | Protect the body from foreign pathogens                                     |
-| Contraction       | Myosin                                       | Carry out muscle contraction                                                |
-| Storage           | Legume storage proteins, egg white (albumin) | Provide food for the early development of the embryo or the seedling        |
-
-**Amino acids** are the monomers that make up proteins. Specifically, a protein is made up of one or more linear chains of amino acids, each of which is called a **polypeptide**. There are **20 types** of amino acids commonly found in proteins.
-
-**hemoglobin** molecule consist by 574 amino acids
-
-
-[source](https://www.khanacademy.org/science/biology/macromolecules/proteins-and-amino-acids/a/introduction-to-proteins-and-amino-acids)
-
-The **nine essential** amino acids :  
-
-➜ lysine  
-➜ methionine  
-➜ tryptophan  
-➜ threonine  
-➜ valine  
-➜ leucine  
-➜ ~ histidine  
-➜ phenylalanine  
-➜ ~ isoleucine  
-
-> Furthermore, these **nine essential** amino acids **must be present simultaneously** and in correct relative **amounts** for **protein synthesis** to occur. If one or more should be in **inadequate** supply, the utilization of all others in the cellular pool will be **reduced** in the **same** proportion.
-
-|     | Essential Amino Acid Indexes |   |     | Amino Acid Scores |
-|-----|------------------------------|---|-----|-------------------|
-| 100 | Pork / chicken / beef        |   | 100 | Pork              |
-| 99  | Milk                         |   | 98  | Chicken; beef     |
-| 98  | Mushrooms (high)             |   | 91  | Milk              |
-| 91  | Potatoes; kidney beans       |   | 89  | Mushrooms (high)  |
-| 88  | Com                          |   | 63  | Cabbage           |
-| 86  | Cucumbers                    |   | 59  | Potatoes          |
-| 79  | Peanuts                      |   | 53  | Peanuts           |
-| 76  | Spinach; soybeans            |   | 50  | Corn              |
-| 72  | Mushrooms (low); cabbage     |   | 46  | Kidney beans      |
-| 69  | Turnips                      |   | 42  | Cucumbers         |
-| 53  | Carrots                      |   | 33  | Turnips           |
-| 44  | Tomatoes                     |   | 32  | Mushrooms (low)   |
-|     |                              |   | 31  | Carrots           |
-|     |                              |   | 28  | Spinach           |
-|     |                              |   | 23  | Soybeans          |
-|     |                              |   | 18  | Tomatoes          |
-
-Ranking based on essential amino acid indexes, amino acid scores, and nutritional indexes as calculated against the [FAO](http://www.fao.org/) reference protein pattern; biological values correlate closely with the **EAA** index (Essential amino acid index).  
-
- > When an organism eats food, the protein decomposed (proteolysis) and resynthesized to produce **complete proteins**.. Even in case of dairy products (complete protein by default) body doing proteolysis. When an organism consumes different (non dairy) products, body again keeping decomposing the proteins and looking /amino acid/ candidates to form the **complete protein**.  
-
-
-### Mushrooms vs Egg
-
-Agaricus Bisporus = classic white button mushroom.  
-
-| Amino Acids     | Agaricus Bisporus | Lentinula Edodes | Pleurotus florida | Pleurotus Ostreatus | Pleurotus Sajor-caju | Volvariella Diplasia | Volvariella Volvacea | Hen Egg |
-|-----------------|-------------------|------------------|-------------------|---------------------|----------------------|----------------------|----------------------|---------|
-| Leucine         | 7,5               | 7,9              | 7,5               | 6,8                 | 7                    | 5                    | 4,5                  | 8,8     |
-| Isoleucine      | 4,5               | 4,9              | 5,2               | 4,2                 | 4,4                  | 7,8                  | 3,4                  | 6,6     |
-| Valine          | 2,5               | 3,7              | 6,9               | 5,1                 | 5,3                  | 9,7                  | 5,4                  | 7,3     |
-| Trytophan       | 2                 | nd               | 1,1               | 13                  | 1,2                  | 1,5                  | 13                   | 1,6     |
-| Lysine          | 9,1               | 3,9              | 9,9               | 4,5                 | 5,7                  | 6,1                  | 7,1                  | 6,4     |
-| Threonine       | 5,5               | 5,9              | 6,1               | 4,6                 | 5                    | 6                    | 3,5                  | 5,1     |
-| Phenyalanine    | 4,2               | 5,9              | 3,5               | 3,7                 | 5                    | 7                    | 2,6                  | 5,8     |
-| Methionine      | 0,9               | 1,9              | 3                 | 1,5                 | 1,8                  | 1,2                  | 1,1                  | 3,1     |
-| Histidine       | 2,7               | 1,9              | 2,8               | 1,7                 | 2,2                  | 4,2                  | 3,8                  | 2,4     |
-| Total essential | 38,9              | 36               | 46                | 33,4                | 37,6                 | 48,5                 | 32,9                 | 47,1    |
-
-Data presented **as grams** of amino acids **per 100 grams** of corrected crude protein.  
-*nd = not determined
-
-1982 - [source](https://sayedmaulana.files.wordpress.com/2011/02/mushrooms.pdf)
+next chapter :  
+* 2023 - [Dr. Pradip Jamnadas - Η επίδραση του μικροβιώματος στην υγεία](https://www.youtube.com/watch?v=S1n7P5l2xK8)
 
 ---
 
-Seems we have a new candidates the **hemp seeds** & **quinoa**.
+# FOXO3 - on the road to longevity
 
-|  Amino Acids   |  Chicken (per 100g) |  Hemp Seeds (per 100g) | Quinoa (per 100gr) |  Agaricus Bisporus (per 100g) |
-| -------------- | ------------------- | ---------------------- | ------------------ | ----------------------------- |
-|  Leucine       |  1.7 g              |  1.6 g                 | 0.6g               |  0.8 g                        |
-|  Isoleucine    |  1.1 g              |  0.6 g                 | 0.4g               |  1.0 g                        |
-|  Valine        |  1.3 g              |  0.7 g                 | 0.5g               |  2.3 g                        |
-|  Lysine        |  2.4 g              |  0.6 g                 | 0.5g               |  3.5 g                        |
-|  Methionine    |  0.6 g              |  0.3 g                 | 0.2g               |  0.8 g                        |
-|  Phenylalanine |  1.0 g              |  0.7 g                 | 0.4g               |  2.1 g                        |
-|  Threonine     |  0.8 g              |  0.4 g                 | 0.4g               |  1.3 g                        |
-|  Tryptophan    |  0.2 g              |  0.1 g                 | 0.1g               |  0 g                          |
-|  Histidine     |  0.6 g              |  0.5 g                 | 0.3g               |  14.1 g                       |
+The following, *cut* from the video [Dr. Pradip Jamnadas - Νηστεία για επιβίωση](https://www.youtube.com/watch?v=9ROk0OShVTo&t=1084s).  
 
-Chicken and hemp / quinoa seeds information by GPT, Agaricus Bisporus (2021) data converted to grams by [doi](http://dx.doi.org/10.3390/app11135943) [[2](https://fdc.nal.usda.gov/fdc-app.html#/food-details/1999629/nutrients)].  
+> **Genes** = They are segments of DNA that contain the **hereditary information** and the necessary instructions for **protein synthesis**, which in turn **determine** the characteristics and functions of an organism.
+>
+> **RNA** (ribonucleic acid) = Includes several types, some of them :
+> * mRNA (messenger RNA) - transfers genetic information from DNA to the ribosome for protein synthesis.
+> * tRNA (transfer RNA)
+> * rRNA (ribosomal RNA)
+>
+> **Nucleic acids** = storage and transmission of genetic information
+>
+> **Ribosomes** = are cellular structures that facilitate protein synthesis by **translating** messenger RNA (mRNA) into **amino acid sequences**.
+>
+> **Telomeres** = It is a region of repeated **sequences** of DNA at the **end of a chromosome**. Telomeres protect the **ends** of chromosomes from fraying or becoming tangled. Chromosomes are located within the **nucleus** of the cell. Which are **structures** made of DNA and proteins. Each **chromosome** has **telomeres** at its **ends**, which **protect** the chromosome and play a **role** in **cell division**.
 
-> Warning :  
+**Genes produce proteins** through a process called **gene expression**, which involves two main steps:
+* transcription
+  * Occurs in the **nucleus** of the **cell**. During transcription, the DNA sequence of a gene is `copied` into **messenger RNA** (mRNA).
+* translation
+  * After transcription, the mRNA molecule **leaves** the nucleus and `enters` the **cytoplasm**, where it is **translated** into **protein**.  
 
-* [Accumulation of heavy metals by wild edible mushrooms](https://www.sciencedirect.com/science/article/pii/S0048969719325070) / [pdf](https://www.dropbox.com/s/qo0b0tbqwgb8r9t/Accumulation%20of%20heavy%20metals%20by%20wild%20edible%20mushrooms-kokkoris2019.pdf?dl=1)  
-* [Mushrooms Can Eat Plastic, Petroleum and CO2](https://returntonow.net/2018/01/11/7-ways-mushrooms-can-save-world/) / [pdf](https://www.dropbox.com/s/8y4bdxq421fbf39/Mushrooms%20Can%20Eat%20Plastic%2C%20Petroleum%20and%20CO2.pdf?dl=1)  
+<div style="margin-left:30px">
+<details>
+<summary> αναλυτικά </summary>
+<br/>
+<div style="margin-left:20px">
+During translation, the mRNA sequence is read in groups of three **nucleotides** (the basic building blocks of nucleic acids) called codons. Each codon corresponds to a specific **amino acid**. Transfer RNA (tRNA) molecules bring the **appropriate amino acids** to the **ribosome**, where the ribosome facilitates the **binding of the tRNA to the mRNA**. The ribosome moves along the mRNA and the **amino acids** are linked together (in the order **determined** by the **sequence** of the **mRNA**), forming a polypeptide chain. Once the entire mRNA has been translated, the polypeptide chain (a linear sequence of amino acids linked by peptide bonds) folds into a specific three-dimensional shape to **become** a `functional protein`.
+</div></details></div>  
 
-### Protein Digestibility Corrected Amino Acid Score
+The **body** is actually very smart what **you eat** immediately starts** changing **gene expression**. Two people talking:
+- have you ever thought about that?  
+- I never thought about that until I did all this research and started researching all this.
+- what? My ``genetic expression`` **changes** with every **meal** I eat? wtf!
+- yes!
+- that's very encouraging to know [[1](http://ebooks.edu.gr/ebooks/v/html/8547/2726/Biologia-T2_G-Lykeiou-ThSp-SpYg_html-empl/index2_1.html)]  
 
-![img](../assets/pdcaas.png)  
+An important **vitamin** that is **involved** in **gene expression** is `vitamin D`, if you are deficient in vitamin D your **gene expression** is **disabled**, your body's **genetic material** cannot be *revealed* in a normal way (your body's ability to repair itself). And I can tell you right now that 90% of you (in this room) are **vitamin D deficient**.  
 
-[wiki](https://en.wikipedia.org/wiki/Protein_Digestibility_Corrected_Amino_Acid_Score)
+**Vitamin D** is involved in more than 300 different biochemical reactions in the body (most of which have to do with **gene expression**).   
 
-----------
+The gene [FOXO3](https://pmc.ncbi.nlm.nih.gov/articles/PMC5403515/) is an **essential antioxidant**, it is this gene that **activates** the processes for **repair** `DNA`. DNA is **bombarded** daily by:
+* radiation
+* toxins
+* food
 
+and DNA **breaks down** every day which is why we **age**. Among other things, FOXO3 **makes** the `telomeres` beautiful and longer (longer **telomeres** mean `longevity`). [[1](https://href.li/?https://www.snexplores.org/article/scientists-say-telomere-definition-pronunciation)] [[2](https://href.li/?https://learn.genetics.utah.edu/content/basics/telomeres/)]  
 
-The human body, minus water, is **75% amino acids**. All of the **neurotransmitters** (proteins) but one are composed of amino acids; and **95% of hormones** are amino acids. Amino acids are **key to every human bodily function** with every chemical reaction that occurs.
+> Meditation strengthens **telomeres**. 
 
-Amino acids **occur naturally** in certain foods, such as :  
+![img](../assets/introENG12.jpg)
 
-* dairy products  
-* meats  
-* fish  
-* poultry  
-* nuts  
-* legumes  
-* eggs  
+The [apoptosis](https://href.li/?https://el.wikipedia.org/wiki/%CE%91%CF%80%CF%8C%CF%80%CF%84%CF%89%CF%83%CE%B7) is the cellular **programmed death** of cells, FOXO3 **controls** this clearance of old cells (getting rid of old cells) this is called `autophagy` (autophagy). You don't want old cells in your system.
 
-Those sources are considered more complete than **vegetable** protein, such as beans, peas, and grains, also considered a good—even if not complete—source of amino acids. Although **plant sources** generally lack one or more of the essential amino acids, when **combined** with **whole grains** such as **rice**, or by eating **nuts** or seeds with **legumes**, all the amino acids can be **obtained**. e.g., **cereal grains** have too little of the essential amino acid **lysine** and **legumes** usually lack the essential amino acids  
+To have `good FOXO3 you need to have vitamin D` in your system and you need to eat the right food (not processed foods). If you eat fruit (max one / day) it should be with a low glycemic index.
 
-* methionine  
-* tryptophane  
+So, the `DNA` (step 1) can start to **produce proteins** this is called **gene expression** (gene expression). As a result your genetic expression changes because you are now making **new proteins** (step 2). So, consuming **vitamin D** (now you see **how your diet**) **affects** which genes will now be expressed. And these **genes produce proteins** and thus exert their **effect** on your **body** (step 3). So the `effect` on your body `actually` activates a gene (step 4) called the **FOXO3** gene and this FOXO3 gene **activates many other genes** (that's what genes do, they activate other genes). It's very exciting. The FOXO3 gene `activates all the antioxidant genes in your body` naturally, so you don't have to go out and buy vitamin C or vitamin E etc.
 
-The proteins of commonly **cultivated mushrooms** contain **all** nine amino acids **essential**. For all mushrooms, the most **abundant** essential amino acid is **lysine**, and the **lowest** levels among the essential amino acids are those of  
+These genes that the FOXO3 gene activates are also activated by `turmeric`. You think turmeric has **antioxidant properties**(?), it does, but through the mechanism that **activates specific genes** (like the FOXO3 gene). It doesn't have antioxidant properties on its own.
 
-* tryptophane    
-* methionine  
+That's why it's `super super essential to have vitamin D` and `omega3` and to have it in the right proportion with **omega6**. [[1](https://youtu.be/9ROk0OShVTo?t=3237)]
 
-
-Of the **20 amino acids** required for manufacturing the proteins the human body needs, the body itself **produces** only **12**, meaning that we have to meet our requirements for the other **eight through nutrition**. Because each amino acid can be used many times along the chain and because there are **no restrictions** on the length of the chain, the number of possible combinations for the formation of proteins is **truly enormous**. There are about **two quadrillion different proteins** that can exist if each of the 20 amino acids present in humans is used **only once**.
-
-The **essential amino acids**, which are **derived** only from **food** and that the body cannot manufacture, perform various functions :
-
-* **Tryptophan** - This is considered a natural relaxant, helps alleviate insomnia; helps in the treatment of migraine headaches; helps reduce the risk of artery and heart spasms; and works with lysine to reduce cholesterol levels.
-* **Lysine** - Aids in proper absorption of calcium ; helps form collagen for bone cartilage and connective tissues; aids in production of antibodies, hormones, and enzymes. Research has indicated it also might be effective against herpes by creating the balance of nutrients that slows the growth of the virus causing it. A deficiency could result in fatigue , lack of concentration, irritability, bloodshot eyes, retarded growth, hair loss, anemia , and reproductive problems.
-* **Methionine** - Properties include providing the primary source of sulfur that can prevent disorders of the hair, skin, and nails; lowers cholesterol by increasing the liver's production of lecithin ; reduces liver fat; protects kidneys; and promotes hair growth.
-* **Phenylalanine** - This serves the brain by producing norepinephrine, the chemical that is responsible for transmitting the signals between the nerve cells and the brain; can maintain alertness; reduces hunger pains; acts as an antidepressant; and improves memory.
-* **Threonine** - Makes up a substantial portion of the collagen, elastin, and enamel protein; serves the liver by preventing buildup; aids the digestive and intestinal tracts to function better; and acts as a trigger for metabolism.
-* **Valine** - Promotes mental energy; helps with muscle coordination; and serves as a natural tranquilizer.
-* **Leucine** - Works with **Isoleucine** to provide for the manufacture of essential biochemical processes in the body that are used for energy, increasing the stimulants to the upper brain for greater mental alertness.
-
-[source](https://www.encyclopedia.com/science-and-technology/biochemistry/biochemistry/amino-acid)  
-  * [2](https://www.britannica.com/science/histidine)
-
-
-> Complete Protein  
-
-A protein is comprised of 20 amino acids; 11 of these amino acids are produced by the human body. For good health, we must get the other **nine** amino acids (called "essential amino acids") from the foods we eat. When a food contains all nine of these amino acids, it is called a "complete protein." can be found :
-
- * Animal proteins, such as meat, eggs, and milk. Provide the highest-quality protein sources.  
-   * 100gr pork is ~25gr protein [ref1](http://www.dietandfitnesstoday.com/protein-in-ground-pork.php) / [ref2](https://www.healthline.com/nutrition/foods/pork)
-   * 100gr beef is ~25gr protein [ref1](http://www.dietandfitnesstoday.com/protein-in-beef.php) / [ref2](https://www.healthline.com/nutrition/foods/beef)
-   * 100gr chicken breast is ~30gr protein [ref1](http://www.dietandfitnesstoday.com/protein-in-chicken.php) / [ref2](https://www.healthline.com/nutrition/protein-in-chicken)
-   * Large [egg](https://www.healthline.com/nutrition/6-reasons-why-eggs-are-the-healthiest-food-on-the-planet#TOC_TITLE_HDR_5) (46gr) is ~6gr protein [ref1](http://www.dietandfitnesstoday.com/egg-nutrition-facts.php) / [ref2](https://www.healthline.com/nutrition/protein-in-egg)
- * Quinoa
- * Buckwheat
- * Hempseed
- * Soybeans
- * [Chlorella](https://www.echlorial.fr/en/content/17-analyse-detaillee) (algae) [2](https://www.echlorial.fr/en/content/18-chlorella-composition)
-   * Black or dark stools are a common side effect that may be the harmless result of unabsorbed iron. [ref1](https://www.feosol.com/about-iron/iron-side-effects) / [ref2](https://www.webmd.com/digestive-disorders/black-tarry-stool-reasons) / [ref3](https://myhealth.alberta.ca/Health/aftercareinformation/pages/conditions.aspx?hwid=ug5526)
-   * The iron supplement is usually ferrous sulfate, FeSO4. FeSO4 is a very dark green/black material and the unabsorbed material dyes or stains the stool.. [ref](https://www.quora.com/How-do-iron-supplements-cause-black-stool)
- * Spirulina (algae)
-
-[source](https://www.piedmont.org/living-better/what-is-a-complete-protein) 
-
-----------
-
-[Protein combining](https://en.wikipedia.org/wiki/Protein_combining) is a dietary theory for protein nutrition that purports to optimize the biological value of protein intake. 
-
- * [Complementary Proteins](https://www.verywellfit.com/vegetarian-protein-combining-88265)  
- * [Protein Combinations](https://www.verywellfit.com/vegan-protein-combinations-2506396)
-
-----------
-
-As supplement - **BCAA** (Branch Chain Amino Acids)
-
-Of the nine essential amino acids, **three** are the **branched-chain** amino acids (BCAAs):   
-
-* Leucine  
-* Isoleucine  
-* Valine  
-
-Branched-chain refers to the chemical structure of BCAAs, which are **found in protein-rich** foods such as eggs, meat and dairy products.
-
-[source](https://www.healthline.com/nutrition/benefits-of-bcaa)
-
-## Amino Acid Neurotransmitters
-
-* Glutamate
-
-	It’s present in **90 percent** of **synapses**, acting as the main **excitatory** neurotransmitter in the **central nervous** system. It only takes a small amount of glutamate to **excite neighbor** brain cells. Too much glutamate can be **tricky** for your brain. Excesses can over-excite cells. So much so that neurons **can’t bring their energy back down** again. This toxic excited state causes brain cells to **lock up** and **stop** working. Good thing those transporter proteins are there to clear away the extra glutamate and **protect your brain** by cleaning up the synapse after each action potential.
-
-	**Neuroplasticity** also relies on **glutamate**. That’s because your brain uses glutamate to **build** pathways between neurons that reinforce your memory and help you learn.  
-  
-* Aspartate  
-* GABA  
-* Glycine  
-
-[source - 7 Neurotransmitters Involved in the Brain-Body Connection](https://askthescientists.com/neurotransmitters/)  
-[ref](https://nba.uth.tmc.edu/neuroscience/m/s1/chapter13.html)
-
-`Optimen supplement` contains  
-
-* L-Leucine (400 mg)  
-* L-Isoleucine (200 mg)  
-* L-Valine (200 mg)  
-* L-Glutamine (200 mg)  
-
-Those amino acids, is only for transport purposes. Egg or milk have '2000' times more.
-
-> Purple cabbage, broccoli and red lettuce were found to contain the highest concentrations of free amino acids, B vitamins and phenolic compounds. [source](https://doi.org/10.1016/j.foodchem.2020.128712) / [pdf](https://www.dropbox.com/s/g1up9tyj2r1ridk/Simultaneous%20determination%20of%2049%20amino%20acids-zhao2020.pdf/?dl=1)
-
-
-
-> Protein digestion begins in the stomach, broken into individual amino acids then transported to the liver via the bloodstream to produce energy.
-
-----------
-
-[Amino Acid Protein Calculator](https://tools.myfooddata.com/protein-calculator) 
-
-[US Department Of Agriculture - FoodData Central](https://fdc.nal.usda.gov/)  
-
-[Dietary Reference Intakes Calculator for Healthcare Professionals](https://www.nal.usda.gov/fnic/dri-calculator/)  
-
-## What is a protein?
-Proteins are formed from a linked sequence of building blocks known as **amino acids**. Because there are a total of 20 unique `letters` in the amino-acid alphabet, an unimaginably large number of unique proteins are possible, each encoded by a specific sequence of amino acids. While it’s easy to think of proteins as a string of letters, in the cell they fold into 3‑dimensional shapes that perform specific biological functions. A partial list of the feats performed by proteins include replicating DNA, fighting off invading viruses, and keeping your cells alive and healthy. Even things you might not think of as being protein functions, like our sense of smell or sight, are, in fact, enabled by proteins! Given how capable this molecular class is, it is not surprising that **most of the medicines** approved today are, in fact, proteins.  [source](https://generatebiomedicines.com/chroma)  
-
-
-----------
-
-## Does a vegan diet lead to poorer bone health?
-The vegan diet is on trend. How this type of diet affects health is the subject of scientific studies. Out of 28 parameters of nutritional status and bone metabolism, it was possible to identify twelve biomarkers most strongly associated with bone health – for example, the  
-
-* amino acid lysine
-* vitamin A
-* vitamin B6
-  
-The results show that in most cases, the combination of these biomarkers was present in lower concentrations in vegans. [source](https://www.eurekalert.org/pub_releases/2021-03/bfif-dav030421.php)  
-
-[Vegetables have become far less nutritious](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6163803/)  
-
-
-## Intermittent Fasting
-Is an eating plan that switches between fasting and eating on a regular schedule. After hours without food, the body exhausts its **sugar stores** and starts burning fat, lets call it **metabolic switching**.  
-
-Research shows that it can take **two to four weeks** before the body becomes accustomed to intermittent fasting. You might feel hungry or cranky while you’re getting used to the new routine. But research subjects who make it through the adjustment period tend to **stick** with the plan, because they **notice they feel better**.
-
-When changes occur with this metabolic switch, it affects the body and brain. Many things happen during intermittent fasting that can protect organs against chronic diseases like type 2 diabetes, heart disease, age-related neurodegenerative disorders, even inflammatory bowel disease and many cancers. [src](https://www.hopkinsmedicine.org/health/wellness-and-prevention/intermittent-fasting-what-is-it-and-how-does-it-work)  
-
-**16 / 8 fasting**: eating for eight hours and fasting for 16. From **12pm - 8pm** you can eat what you want then fast for 16 hours. During fast can drink water, coffee, tea and other non-caloric beverages. Do not add sugar to your coffee.
-
-When you fast, **several things happen** in your body on the cellular and molecular level.
-
-For example, your body **adjusts hormone levels** to make stored body fat more accessible.
-
-Your **cells** also **initiate important repair processes** and change the expression of genes.
-
-Here are some changes that occur in your body when you fast:
-* Remove damaged proteins from the body ([autophagy](https://www.youtube.com/watch?v=jnZhmiz4YcY))
-* Human Growth Hormone (HGH)
-* Insulin
-* Cellular repair
-* Gene expression
-* Brain health  
-* Reduce Inflammation
-
-Mark Mattson is a professor of neuroscience in the Johns Hopkins School, said at 2016 : 
-* every time you eat, glucose is stored in your liver as glycogen, which takes about **10 to 12 hours** to be depleted. After the glycogen is used up, your body starts **burning fats**, which are converted to **ketone** bodies (acidic chemicals used by neurons as energy). **Ketones** promote positive changes in the structure of synapses important for learning, memory, and overall brain health.   
-* can help improve neural connections in the hippocampus while protecting neurons against the accumulation of **amyloid plaques**  
-* brain reacts by activating **adaptive stress** responses  
-* when the **brain is challenged** by physical exertion, cognitive tasks, or caloric restriction, the body produces a protein called **BDNF** (brain-derived neurotrophic factor), which not only strengthens neural connections and increases the production of new neurons (neuroplasticity) but can also have an anti-depressive effect.  [source](https://hub.jhu.edu/2016/07/22/fasting-benefits-brain-health/) / [ref2](http://web.archive.org/web/20181217034624/http://www.johnshopkinshealthreview.com/issues/spring-summer-2016/articles/are-there-any-proven-benefits-to-fasting) / [ref2-mirror](https://www.dropbox.com/s/0rw4exp59m1wcqd/Mark%20Mattson%20-%20There%20are%20Proven%20Benefits%20to%20Fasting.pdf?dl=1)   
-
-> Isn’t It Unhealthy to Skip Breakfast  
-
-No. The problem is that most stereotypical breakfast skippers have unhealthy lifestyles. If you make sure to eat healthy food for the rest of the day then the practice is perfectly healthy. [source](https://www.healthline.com/nutrition/intermittent-fasting-guide)
-
-[Mitochondrial Makeover: Hormone Balance](https://frankcomstockmd.com/2018/05/28/mitochondrial-makeover-hormone-balance/)  
-
-[Διαλείπουσα νηστεία](https://www.onmed.gr/diatrofi/story/376423/dialeipoysa-nisteia-pos-tha-xekinisete)  
-
-[Android IFtracker](https://play.google.com/store/apps/details?id=pl.patraa.iftracker)  
-
-ref  
-* [Effects of Intermittent Fasting on Health, Aging, and Disease](https://www.dropbox.com/s/ukiwit8ozi7e4zo/Effects%20of%20Intermittent%20Fasting_2019-decabo.pdf?dl=1)
-* [Fasting triggers stem cell regeneration of damaged, old immune system](https://news.usc.edu/63669/fasting-triggers-stem-cell-regeneration-of-damaged-old-immune-system/)
-* [Fasting Diets Are Gaining Acceptance](https://well.blogs.nytimes.com/2016/03/07/intermittent-fasting-diets-are-gaining-acceptance/)
-* [Will Smoking Break a Fast?](https://intermittentdieter.com/will-smoking-break-a-fast/)
-* [Can You Take Supplements While Fasting?](https://www.bulletproof.com/supplements/dietary-supplements/supplements-while-fasting/)
-* [Bryan Johnson - I Fired Myself](https://www.bryanjohnson.co/articles/i-fired-myself)
-* [Green Tea and Fasting](https://amlagreen.com/blogs/news/green-tea-while-intermittent-fasting) - Drinking green tea does not break a fast.  
-* [Should we be eating three meals a day?](https://www.bbc.com/future/article/20220412-should-we-be-eating-three-meals-a-day)  
-* [Science of Fasting](https://spyderdoc.substack.com/p/doctors-heart-series-part-6-science)  
-* [Fasting boosts stem cells regenerative capacity](https://news.mit.edu/2018/fasting-boosts-stem-cells-regenerative-capacity-0503)  
-
-### disadvantages - explained by Boris
-
-* More than **12 hours** of fasting period increase
-  * your **cortisol** or so called stress hormone
-  * **growth hormone**... This increase is not good at our age.
-  * increase dramatically **ghrelin**. The hormone that makes you eat more on next meal.
-* More than **12 hours** of fasting decrease :
-  * **dopamine** and **serotonin**
-  * all other **hormones**, as the absence of vitamin b, tryptophan and other **amino acids** coming from the food takes impact.
-* More than **12 hours** of fasting causes **blood sugar** to drop.
-
-And this is **main brain fuel**. So to remediate, the liver start breaking amino acids, so to produce **ketones**, the **reserve fuel** of the brain... **This is why you feel more focused**.
-
-**Stress** is high **adrenaline** and **cortisol** for long time.... And you get them with fasting.
-
-It is not good because all other organs are **paying the price**... The **brain works better** but even the brain is pays price...
-
-It takes 2-3 months of fasting adaptation...  
-
-This mean after 2-3 months your **cortisol** will be higher, your **testosterone** will be lower and the **entire neurotransmitters system** will me messed up... Mean most probably depression will hit you.
-
-So doing **16:8** (vs normal **12:12**), in these 4 hours difference **a lot of thinks can happen**... for example :  
-Some **hormones** like adrenaline have very short live... Only 8 seconds. Melatonin have 20 minutes life....  
-
-&nbsp;
-
-
-## Research
-* [National Geographic - Can fasting help you live longer ?](https://www.nationalgeographic.com/magazine/article/can-fasting-help-you-live-longer-what-the-science-says)
-* [Dr Berg - What Is Epigenetic](https://www.youtube.com/watch?v=g12kIu9jrIk)
-    * [Dr Berg - The Most Powerful Epigenetic Trigger](https://www.youtube.com/watch?v=fzJtZt4_Y5Y)
-        * [Lissa Rankin - The shocking truth about your health](https://www.youtube.com/watch?v=7tu9nJmr4Xs)
-          * [TED - Brene Brown: The power of vulnerability](https://www.ted.com/talks/brene_brown_the_power_of_vulnerability)
-* [Dr Berg - Nrf2 The Gene that Bullet-Proofs You From Cancer](https://www.youtube.com/watch?v=zs6AVB_b-PI)
-* [Dr Berg - Nrf2 The Master Protector Gene](https://www.youtube.com/watch?v=UT8GbTBNmSI)
-* [Dr Berg - The Health Benefits of a Garlic](https://www.youtube.com/watch?v=G5gi7nqy2j0)
-* [Dr Berg - The Health Benefits of a Cucumber](https://www.youtube.com/watch?v=KP8XipP3qTE)
-* [Robert Lustig - Sugar - Is a Calorie a Calorie ? - Processed Food, Experiment Gone Wrong](https://www.youtube.com/watch?v=nxyxcTZccsE)
-
-----
-
-* [Z-Anatomy](https://www.z-anatomy.com/) - 3D atlas of the human anatomy.
-* (2003) [Newstart: God's Laws Of Health](http://www.faculty.umb.edu/alexandrine_noel/AlexINFO/newstart.htm)
-* (2024) [Proteins let cells remember how well their last division went](https://arstechnica.com/science/2024/03/proteins-let-cells-remember-how-well-their-last-division-went/) ([doi](https://www.science.org/doi/10.1126/science.add9528))
+`Melatonin` prevents cancer, and it also **activates** **FOXO3**, so if you don't take melatonin and don't sleep at night, you don't get **rejuvenation**.
