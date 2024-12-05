@@ -277,7 +277,7 @@ _Η αποθήκευση γλυκογόνου είναι αρκετά μικρή
 - Eat Rich, Live Long (2018) - [https://www.amazon.com/dp/1628602732](https://href.li/?https://www.amazon.com/dp/1628602732)
 - The PE Diet (2019) - [https://www.thepediet.com/](https://href.li/?https://www.thepediet.com)
 - Gut check (2024) - [https://www.amazon.com/dp/0062911775](https://href.li/?https://www.amazon.com/dp/0062911775)
-- <https://pipiscrew.github.io/timeline/#/health/introduction>
+- <https://pipiscrew.github.io/timeline/#/health/introduction_old>
 
 
 επόμενο κεφάλαιο :  

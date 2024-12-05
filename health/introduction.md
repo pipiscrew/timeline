@@ -243,7 +243,7 @@ Following a [low-carb diet](https://www.pipiscrew.com/threads/%CE%94%CE%B9%CE%B1
 
 > 18+ hour fast: Your body will handle a meal **differently** than it would when you were eating, compared to eating after a fast, **it is metabolized completely differently**, the system *accepts* it more **lightly**.  
 
-* 2019 - [Dr. Pradip Jamnadas - Νηστεία για επιβίωση](https://www.youtube.com/watch?v=9ROk0OShVTo&t=1084s)
+* 2019 - [Dr. Pradip Jamnadas - Fasting For Survival Lecture](https://www.youtube.com/watch?v=RuOvn4UqznU&t=1084s)
   * autophagy starts after 18 hours of fasting, maximum is up to 3 days
   * 3 days of fasting for anti-inflammatory action (special for autoimmune) [[1](https://youtu.be/9ROk0OShVTo?t=2274)]
   * 7 days of fasting every 6 months for protection from long-term diseases
@@ -275,17 +275,17 @@ sources :
 - Eat Rich, Live Long (2018) - [https://www.amazon.com/dp/1628602732](https://href.li/?https://www.amazon.com/dp/1628602732)
 - The PE Diet (2019) - [https://www.thepediet.com/](https://href.li/?https://www.thepediet.com)
 - Gut check (2024) - [https://www.amazon.com/dp/0062911775](https://href.li/?https://www.amazon.com/dp/0062911775)
-- <https://pipiscrew.github.io/timeline/#/health/introduction>  
+- <https://pipiscrew.github.io/timeline/#/health/introduction_old>  
 
 
 next chapter :  
-* 2023 - [Dr. Pradip Jamnadas - Η επίδραση του μικροβιώματος στην υγεία](https://www.youtube.com/watch?v=S1n7P5l2xK8)
+* 2023 - [Dr. Pradip Jamnadas - Η επίδραση του μικροβιώματος στην υγεία](https://www.youtube.com/watch?v=VVfCLb_n8vA&list=PLN4uKfvSU2v36e8OoIfbXwVKiFejoRGTq)
 
 ---
 
 # FOXO3 - on the road to longevity
 
-The following, *cut* from the video [Dr. Pradip Jamnadas - Νηστεία για επιβίωση](https://www.youtube.com/watch?v=9ROk0OShVTo&t=1084s).  
+The following, *cut* from the video [Dr. Pradip Jamnadas - Fasting For Survival Lecture](https://www.youtube.com/watch?v=RuOvn4UqznU&t=1084s).  
 
 > **Genes** = They are segments of DNA that contain the **hereditary information** and the necessary instructions for **protein synthesis**, which in turn **determine** the characteristics and functions of an organism.
 >
