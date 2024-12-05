@@ -127,7 +127,7 @@ _Glycogen storage is quite small, and without high-intensity exercise, most peop
 
 ![img](../assets/introENG07.jpg)  
 
-There are four cases (excluding obesity)
+There are four cases (excluding obesity)  
 
 ![img](../assets/introENG08.jpg)  
 
