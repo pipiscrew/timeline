@@ -308,7 +308,7 @@ The following, *cut* from the video [Dr. Pradip Jamnadas - Fasting For Survival 
 
 <div style="margin-left:30px">
 <details>
-<summary> αναλυτικά </summary>
+<summary> in detail </summary>
 <br/>
 <div style="margin-left:20px">
 During translation, the mRNA sequence is read in groups of three **nucleotides** (the basic building blocks of nucleic acids) called codons. Each codon corresponds to a specific **amino acid**. Transfer RNA (tRNA) molecules bring the **appropriate amino acids** to the **ribosome**, where the ribosome facilitates the **binding of the tRNA to the mRNA**. The ribosome moves along the mRNA and the **amino acids** are linked together (in the order **determined** by the **sequence** of the **mRNA**), forming a polypeptide chain. Once the entire mRNA has been translated, the polypeptide chain (a linear sequence of amino acids linked by peptide bonds) folds into a specific three-dimensional shape to **become** a `functional protein`.
