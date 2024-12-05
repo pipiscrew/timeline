@@ -314,7 +314,7 @@ The following, *cut* from the video [Dr. Pradip Jamnadas - Fasting For Survival 
 During translation, the mRNA sequence is read in groups of three **nucleotides** (the basic building blocks of nucleic acids) called codons. Each codon corresponds to a specific **amino acid**. Transfer RNA (tRNA) molecules bring the **appropriate amino acids** to the **ribosome**, where the ribosome facilitates the **binding of the tRNA to the mRNA**. The ribosome moves along the mRNA and the **amino acids** are linked together (in the order **determined** by the **sequence** of the **mRNA**), forming a polypeptide chain. Once the entire mRNA has been translated, the polypeptide chain (a linear sequence of amino acids linked by peptide bonds) folds into a specific three-dimensional shape to **become** a `functional protein`.
 </div></details></div>  
 
-The **body** is actually very smart what **you eat** immediately starts** changing **gene expression**. Two people talking:
+The **body** is actually very smart what **you eat** immediately starts changing **gene expression**. Two people talking:
 - have you ever thought about that?  
 - I never thought about that until I did all this research and started researching all this.
 - what? My ``genetic expression`` **changes** with every **meal** I eat? wtf!
