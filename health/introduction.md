@@ -215,9 +215,9 @@ sources:
 * <https://www.isaaa.org/gmapprovaldatabase/cropslist/>
 * <https://www.ams.usda.gov/rules-regulations/be/bioengineered-foods-list>
 
-# Intermittent Fasting (aka intermittent fasting)
+# Intermittent Fasting
 
-Fasting (12 hours -- 8:00 PM – 8:00 AM | 18 hours -- 8:00 PM – 2:00 PM) involves abstaining from all food and caloric beverages for a continuous period of hours, often including overnight hours. It is considered beneficial because  
+Fasting (12 hours -- 20:00 – 8:00 | 18 hours -- 20:00 – 14:00) involves abstaining from all food and caloric beverages for a continuous period of hours, often including overnight hours. It is considered beneficial because  
 
 - promotes insulin sensitivity in all people
 - reduces insulin resistance in people with prediabetes
