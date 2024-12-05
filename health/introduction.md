@@ -141,7 +141,7 @@ There are four cases (excluding obesity)
 
 > **Glycolysis** is a fundamental metabolic pathway that breaks down **glucose** to extract energy for **cellular processes**. It occurs in the cytoplasm of **cells**.  
 
-# Τοξική Ενέργεια
+# Energy Toxicity
 
 Alzheimer’s disease. Asthma. Osteoarthritis. Rheumatoid arthritis. Cancer (especially breast, colorectal, esophageal, uterine, renal, prostate, and pancreatic cancers). Depression. Type 2 diabetes. Fatty liver. Acid reﬂux. Fibromyalgia. Gout. Sleep apnea. High cholesterol. High blood pressure. Osteoporosis. Stroke. Coronary artery disease and atherosclerosis. Heart failure. Erectile dysfunction. Polycystic ovarian syndrome. Acne. Low testosterone. Enlarged prostate. Gynecomastia. Baldness. Psoriasis. Lupus. Peripheral neuropathy. Glaucoma. Near-sightedness. Vertigo. Tinnitus. Inﬂammatory bowel disease. Sarcopenia. Tendinopathy. Carpal tunnel syndrome. Hearing loss. Macular degeneration.  
 
