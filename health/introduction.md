@@ -47,7 +47,7 @@ When an organism eats food, the protein is **broken down** (proteolysis) and **r
 >
 > Meat, eggs, and green vegetables are **good**, grains are **bad**. Fish is the **best** thing ever, and sugar and oil are the **worst** things ever.  
 
-> **Too much protein** will produce too much **IGF-1** which activates **mTOR** and these are **protein kinases** and what it does is it **stimulates** the production of your **ribosomal** to **produce** more **protein** which is good, so when you eat protein you **build** more muscle which is fine but you also have **cell proliferation** and what that does (?) is increase the risk of cancer. Now there is absolutely no doubt that **high protein** increases the risk of cancer. I think the data is indisputable it has been **proven** in animals and also in some human studies. **Do** not consume **protein powder**. [[1](https://youtu.be/9ROk0OShVTo?t=3465)]
+> **Too much protein** will produce too much **IGF-1** which activates **mTOR** and these are **protein kinases** and what it does is it **stimulates** the production of your **ribosomal** to **produce** more **protein** which is good, so when you eat protein you **build** more muscle which is fine but you also have **cell proliferation** and what that does (?) is increase the risk of cancer. Now there is absolutely no doubt that **high protein** increases the risk of cancer. I think the data is indisputable it has been **proven** in animals and also in some human studies. **Do** not consume **protein powder**. [[1](https://youtu.be/9ROk0OShVTo?t=3465)] [[2](https://pipiscrew.com/apps/fasting/)]  
 
 # Fat
 
