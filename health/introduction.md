@@ -279,7 +279,7 @@ sources :
 
 
 next chapter :  
-* 2023 - [Dr. Pradip Jamnadas - Η επίδραση του μικροβιώματος στην υγεία](https://www.youtube.com/watch?v=VVfCLb_n8vA&list=PLN4uKfvSU2v36e8OoIfbXwVKiFejoRGTq)
+* 2023 - [Dr. Pradip Jamnadas - The Microbiome, Metabolism and Overall Health](https://www.youtube.com/watch?v=VVfCLb_n8vA&list=PLN4uKfvSU2v36e8OoIfbXwVKiFejoRGTq)
 
 ---
 
