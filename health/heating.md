@@ -1,6 +1,6 @@
 | **Type**         | **Description**                                                                 | **Year Established** | **Used For**                |
 |------------------|---------------------------------------------------------------------------------|----------------------|-----------------------------|
-| **CNG**          | Compressed Natural Gas; natural gas stored at high pressure, used as an alternative fuel for vehicles. **The seller can not involved in any fraudulent activities**. | 1930s (commercial use began) | Vehicles                    |
+| **CNG**          | Compressed Natural Gas; natural gas stored at high pressure, used as an alternative fuel for vehicles. **The seller can not involved in any fraudulent activities**. If you **stack up 15 litres** of CNG next to **petrol**, CNG will cost TTD **$14** versus **$69.58** (super gasoline). [[1](https://cng.co.tt/what-is-cng/)] | 1930s (commercial use began) | Vehicles                    |
 | **LNG**          | Liquefied Natural Gas; natural gas cooled to a liquid state for storage and transport, used in heavy-duty vehicles and power generation. | 1960s (commercial trade began) | Vehicles and Heating        |
 | **LPG**          | Liquefied Petroleum Gas; a mixture of propane and butane, used for heating, cooking, and as a vehicle fuel. | 1910s (commercial use began) | Both                        |
 | **Natural Gas**  | A fossil fuel primarily composed of methane, used for heating, electricity, and as a vehicle fuel. | 19th century (widely used by the 1800s) | Both                        |
