@@ -72,6 +72,10 @@
 * [raccoon.APK Downloader for PC](https://raccoon.onyxbits.de/)
   * [Manually installing split APK files (App Bundles) via ADB](https://raccoon.onyxbits.de/blog/install-split-apk-adb/)  
 * [Evozi.APK Downloader](https://apps.evozi.com/apk-downloader/)
+  * <https://apkpure.com/apk-downloader/>
+  * <https://apkcombo.com/apk-downloader/>
+  * <https://androidappsapk.co/apkdownloader/>
+  * [more](https://medium.com/testableapple/how-to-download-apk-from-play-store-2634c0c67620)
 * [APKCombo Downloader](https://apkcombo.com) - always latest versions
 * [How to Remove Samsung Bloatware without Root](https://technastic.com/remove-samsung-bloatware-safe-to-remove-apps/)  
 * [Security First](https://secfirst.org/)  

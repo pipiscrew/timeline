@@ -817,6 +817,8 @@ whole cane sugar types :
 | Muscovado | Philippines, Barbados, and Mauritius    | not considered true whole cane sugar         |
 | Demerara  | Guyana                                  | not considered true whole cane sugar         |
 
+2024 - [Added sugar intake and its associations with incidence of cardiovascular disease](https://doi.org/10.3389/fpubh.2024.1452085)  
+
 Then they are **essential micronutrients** that play various roles in the body functioning :
 
 | Nutrient                      | Category                 | Functions                                                                                                                                      |

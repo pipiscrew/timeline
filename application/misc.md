@@ -305,6 +305,7 @@ The sequence is :
   * [NHV](https://nhvboot.com/download/)
   * [archive.msdn-full](https://archive.org/download/msdn-full)
 * [ChrisTitusTech/winutil](https://github.com/ChrisTitusTech/winutil) - tweaks  
+* [DISMTools](https://github.com/CodingWonders/DISMTools) - manage your Windows Imaging (WIM) files  
 
 ## Games
 * [eXoDOS](http://exodos.the-eye.us/)
