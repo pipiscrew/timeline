@@ -14,3 +14,4 @@ You can `measure` the gas bottle with :
  * **Ultrasonic Level Sensor** : These sensors use **ultrasonic waves** to measure the distance to the liquid surface. They can provide **accurate readings** and are suitable for various tank sizes. [UT345C](https://meters.uni-trend.com/product/ut345c/)  
 
 [Gas Leak Detector Pen - Habotest HT61](https://www.habotest.com/sale-13563054-ht61-1000ppm-lcd-display-multimeter-accessories.html)  
+[Finding Gas Leaks with a Lighter](https://www.youtube.com/shorts/vPHX41j_tfA)  
