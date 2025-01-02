@@ -87,7 +87,8 @@
 * [VSCode Working Memory](https://github.com/atomashevic/vscode-working-memory)
 * [Curio](https://www.zengobi.com/curio/) - Notebook application for note-taking and research
 * [Kainet.Editor](http://www.kainet.ch/Editor-for-very-large-files) - Editor for very large files  
-* [UVviewersoft.LogViewer](http://www.uvviewsoft.com/logviewer/) - Viewer for big text log files, highlight keywords  
+* [ULogViewer](https://github.com/carina-studio/ULogViewer/) - cross-platform universal Log Viewer apache, android, apple, azure, git, linux, nlog, windows logs, mysql, mssql
+* [UVviewersoft.LogViewer](http://www.uvviewsoft.com/logviewer/) - viewer for big text log files, highlight keywords  
 
 ## CSV
 * [Modern CSV](https://www.moderncsv.com/) - quick CSV load  
