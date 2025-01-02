@@ -283,7 +283,7 @@ _Η αποθήκευση γλυκογόνου είναι αρκετά μικρή
 
 επόμενο κεφάλαιο :  
 * 2023 - [Dr. Pradip Jamnadas - Η επίδραση του μικροβιώματος στην υγεία](https://www.youtube.com/watch?v=S1n7P5l2xK8)
-* 2022 - [Χαρώνης Αναστάσιος - ΕΥ ΖΗΝ HOLOBIONT](https://www.ianos.gr/books/epistimes/iatriki/diatrofi-diaitologia/ef-zin-holobiont-0537228)  
+* 2022 - [Χαρώνης Αναστάσιος - ΕΥ ΖΗΝ HOLOBIONT](https://www.ianos.gr/books/epistimes/iatriki/diatrofi-diaitologia/ef-zin-holobiont-0537228) [[1](https://pipiscrew.github.io/timeline/assets/ey_zhn.jpg)]  
 
 ---
 
