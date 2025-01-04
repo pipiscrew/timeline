@@ -84,7 +84,8 @@
 * [LosslessCut](https://github.com/mifi/lossless-cut) - FFmpeg GUI for extremely fast and lossless operations on video, audio, subtitle and other related media files
 * [Codec Tweak Tool](https://www.codecguide.com/download_other.htm#codectweaktool) - managing codecs and codec settings, can scan for broken filters and remove them
 * [madVR](http://madshi.net/madVR.zip) - is a DirectShow video renderer
-* [Nikse Subtitle Edit](https://github.com/SubtitleEdit/subtitleedit)
+* [Nikse.Subtitle Edit](https://github.com/SubtitleEdit/subtitleedit)
+* [Tsdarkness.BatchSubtitlesConverter](https://github.com/TSDARKNESS/BatchSubtitlesConverter)
 * [ContaCam](https://www.contaware.com/contacam.html) - surveillance system, packed with an attractive feature set that includes recording and motion detection
 * [MKVToolnix](https://mkvtoolnix.download/) - create, edit, inspect and produce Matroska video files
 

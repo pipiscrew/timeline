@@ -410,3 +410,21 @@ Some **hormones** like adrenaline have very short live... Only 8 seconds. Melato
 * [Z-Anatomy](https://www.z-anatomy.com/) - 3D atlas of the human anatomy.
 * (2003) [Newstart: God's Laws Of Health](http://www.faculty.umb.edu/alexandrine_noel/AlexINFO/newstart.htm)
 * (2024) [Proteins let cells remember how well their last division went](https://arstechnica.com/science/2024/03/proteins-let-cells-remember-how-well-their-last-division-went/) ([doi](https://www.science.org/doi/10.1126/science.add9528))
+
+---
+
+## Electrolytes
+
+Play a crucial role in various bodily functions, including maintaining the 
+* balance of fluids
+* nerve function
+* muscle contractions  
+
+### for gut
+They are important for maintaining the overall environment and function of the digestive system, which can **indirectly** influence acid production and gut health.
+
+* **pH Balance**: Electrolytes such as bicarbonate (aka baking soda) can help regulate the pH levels in the stomach and intestines. A proper pH balance is essential for optimal digestive enzyme function and nutrient absorption.
+* **Hydration**: Electrolytes help maintain hydration, which is vital for the production of gastric juices and the overall digestive process. Dehydration can lead to reduced stomach acid production and impaired digestion.
+* **Nerve Function**: Electrolytes are essential for nerve signaling, which includes the nerves that control the digestive system. Proper nerve function is necessary for the coordinated contractions of the muscles in the gastrointestinal tract.
+* **Muscle Contraction**: Smooth muscle contractions in the gut are influenced by electrolytes, particularly calcium and potassium. These contractions are essential for moving food through the digestive tract.  
+
