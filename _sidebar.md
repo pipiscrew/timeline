@@ -61,6 +61,7 @@
 	* [ions](/health/ions.md) 
 	* [insulin](/health/insulin.md)
 	* [heating](/health/heating.md)
+	* [herbs](/health/herbs.md)
 	* [water](/health/water.md)
 	* [did i today](/health/didtoday.md)
 	* [skin](/health/skin.md)
