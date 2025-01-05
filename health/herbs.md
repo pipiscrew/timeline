@@ -52,7 +52,7 @@ Drinking black tea, even in small amounts like 1 teaspoon in 200 ml of warm wate
 
 4. **Digestive Benefits**: Black tea may aid digestion. The tannins in black tea can have a soothing effect on the digestive system and may help alleviate some digestive issues.
 
-5. **Health**: Some studies suggest that regular consumption of black tea may be associated with improved heart health. The antioxidants in black tea can help lower cholesterol levels and improve blood vessel function.
+5. **Heart Health**: Some studies suggest that regular consumption of black tea may be associated with improved heart health. The antioxidants in black tea can help lower cholesterol levels and improve blood vessel function.
 
 6. **Blood Sugar Regulation**: There is some evidence that black tea may help improve insulin sensitivity and regulate blood sugar levels. This can be beneficial for those managing diabetes or at risk of developing it.
 
