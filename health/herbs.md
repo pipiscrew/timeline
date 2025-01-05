@@ -86,7 +86,7 @@ When you drink white tea made from 1 teaspoon in 200 ml of warm water, several t
 
 # Oolong Tea
 
-Oolong tea, a traditional Chinese tea that is partially oxidized, offers a range of health benefits when consumed. When you drink oolong tea made with 1 teaspoon of tea leaves in 200 ml of warm water, several processes occur in your body:
+Is partially oxidized, offers a range of health benefits when consumed. When you drink oolong tea made with 1 teaspoon of tea leaves in 200 ml of warm water, several processes occur in your body:
 
 1. **Antioxidant Effects**: Oolong tea is rich in polyphenols, particularly catechins and theaflavins, which are powerful antioxidants. These compounds help neutralize free radicals in the body, potentially reducing oxidative stress and lowering the risk of chronic diseases.  
 
