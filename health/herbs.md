@@ -20,7 +20,7 @@ Chamomile is a popular herbal tea known for its calming and soothing properties.
 
 # Green Tea
 
-When you drink green tea made from 1 teaspoon in 200 ml of warm water, can have several beneficial effects on the body due to its rich composition of bioactive compounds. Here’s a breakdown of what happens in the body when you consume green tea:
+When you drink green tea made from 1 teaspoon in 200 ml of warm water, can have several beneficial effects on the body due to its rich composition of bioactive compounds, several things happen in your body:  
 
 1. **Antioxidant Effects**: Green tea is high in polyphenols, particularly catechins, which are powerful antioxidants. These compounds help neutralize free radicals in the body, reducing oxidative stress and potentially lowering the risk of chronic diseases.
 
@@ -42,7 +42,7 @@ When you drink green tea made from 1 teaspoon in 200 ml of warm water, can have 
 
 # Black Tea
 
-When you drink black tea made from 1 teaspoon in 200 ml of warm water, can have several effects on the body due to its unique composition. Here’s a breakdown of what happens:
+When you drink black tea made from 1 teaspoon in 200 ml of warm water, can have several effects on the body due to its unique composition, several things happen in your body:  
 
 1. **Caffeine Content**: Black tea contains caffeine, which can stimulate the central nervous system. This may lead to increased alertness and reduced fatigue. The amount of caffeine in a teaspoon of black tea is relatively low, but it can still provide a mild energy boost.
 
