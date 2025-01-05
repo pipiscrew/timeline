@@ -44,7 +44,7 @@ Drinking green tea, even in small amounts like 1 teaspoon in 200 ml of warm wate
 5. **Cognitive Benefits**
    - The caffeine and L-theanine found in green tea can have a synergistic effect that enhances brain function. This combination may improve mood, attention, and cognitive performance.
 
-6. **6. Hydration**
+6. **Hydration**
    - While green tea contains caffeine, it is still mostly water, contributing to overall hydration. Drinking it warm can also be soothing and comforting.
 
 7. **Digestive Health**
