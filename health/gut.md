@@ -1384,7 +1384,8 @@ Hopefully, this all seems pretty straightforward. To make things even easier for
 |                                                    | Whole wheat flour                                                                      |
 | Grains, Sprouted Grains, Pseudograins, and Grasses |
 |                                                    | Barley (cannot be pressure-cooked)                                                     |
-|                                                    | Barley grassBrown rice                                                                 |
+|                                                    | Barley grass                                                                           |
+|                                                    | Brown rice                                                                             |
 |                                                    | Buckwheat                                                                              |
 |                                                    | Bulgur                                                                                 |
 |                                                    | Corn                                                                                   |
