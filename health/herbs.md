@@ -20,7 +20,7 @@ Chamomile is a popular herbal tea known for its calming and soothing properties.
 
 # Green Tea
 
-Drinking green tea, even in small amounts like 1 teaspoon in 200 ml of warm water, can have several beneficial effects on the body due to its rich composition of bioactive compounds. Here’s a breakdown of what happens in the body when you consume green tea:
+When you drink green tea made from 1 teaspoon in 200 ml of warm water, can have several beneficial effects on the body due to its rich composition of bioactive compounds. Here’s a breakdown of what happens in the body when you consume green tea:
 
 1. **Antioxidant Effects**: Green tea is high in polyphenols, particularly catechins, which are powerful antioxidants. These compounds help neutralize free radicals in the body, reducing oxidative stress and potentially lowering the risk of chronic diseases.
 
@@ -42,7 +42,7 @@ Drinking green tea, even in small amounts like 1 teaspoon in 200 ml of warm wate
 
 # Black Tea
 
-Drinking black tea, even in small amounts like 1 teaspoon in 200 ml of warm water, can have several effects on the body due to its unique composition. Here’s a breakdown of what happens:
+When you drink black tea made from 1 teaspoon in 200 ml of warm water, can have several effects on the body due to its unique composition. Here’s a breakdown of what happens:
 
 1. **Caffeine Content**: Black tea contains caffeine, which can stimulate the central nervous system. This may lead to increased alertness and reduced fatigue. The amount of caffeine in a teaspoon of black tea is relatively low, but it can still provide a mild energy boost.
 
@@ -64,7 +64,7 @@ Drinking black tea, even in small amounts like 1 teaspoon in 200 ml of warm wate
 
 # White Tea
 
-When you drink white tea, especially in a concentration like 1 teaspoon in 200 ml of warm water, several things happen in your body:
+When you drink white tea made from 1 teaspoon in 200 ml of warm water, several things happen in your body:
 
 1. **Antioxidant Properties**: White tea is rich in antioxidants, particularly catechins and polyphenols. These compounds help neutralize free radicals in the body, which can reduce oxidative stress and lower the risk of chronic diseases.  
 
@@ -128,7 +128,7 @@ Is a type of fermented tea. It is known for its unique flavor profile and potent
 
 # CBD Tea
 
-When prepared with 1 teaspoon of CBD (cannabidiol) in 200 ml of warm water, CBD tea can have several effects on the body due to the properties of CBD. Here’s a breakdown of what happens:
+When prepared with 1 teaspoon of CBD (cannabidiol) in 200 ml of warm water, CBD tea can have several effects on the body due to the properties of CBD :  
 
 1. **Absorption**: When you drink CBD tea, the CBD is absorbed through the digestive system. The warm water can help dissolve the CBD, making it easier for your body to absorb it.
 
