@@ -63,6 +63,7 @@
 	* [heating](/health/heating.md)
 	* [herbs](/health/herbs.md)
 	* [water](/health/water.md)
+	* [buckwheat](/health/buckwheat.md)
 	* [did i today](/health/didtoday.md)
 	* [skin](/health/skin.md)
 	* [articles](/health/articles.md)
