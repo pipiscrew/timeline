@@ -15,7 +15,7 @@ Analysis **common buckwheat** (aka F. esculentum) flour produced in Latvia :
 * epicatechin – 39.13 mg/100 g DW
 * with radical scavenging activity (DPPH – 94.76 ± 0.48%) (aka neutralize free radicals)  
 
-> *DW stands for "dry weight.". When you see "23.42% DW," it means that 23.42% of the dry weight of the food ingredient is made up of resistant starch.*  
+> DW stands for "dry weight.". When you see "23.42% DW," it means that 23.42% of the dry weight of the food ingredient is made up of resistant starch.  
 
 **Common** buckwheat (Fagopyrum esculentum Moench) has poor agronomic characteristics, such as low seed yield and lodging. Another species, **Tartary** buckwheat (F. tataricum Gaertn.), has a **bitter** taste, which has constrained its production worldwide. **Common** buckwheat is a self-incompatible, insect-pollinated, allogamous plant.  
 
