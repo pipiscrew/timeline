@@ -33,9 +33,9 @@ Buckwheat has relatively **high dietary fiber**, **vitamins** and **flavonoid** 
 * rutin  
 
 Buckwheat contains important nutrients including **polyunsaturated** essential fatty acids, **minerals** such as :  
-* Mg
-* K
-* Fe  
+* Mg (magnesium)
+* K (potassium)
+* Fe (iron)  
 
 and vitamins (B, C, and E). The above mentioned aspects rendered the buckwheat various health benefits. In particular, buckwheat can be a major ingredient of **gluten free** food products for people with **celiac** disease. Also, the demand for **rutin** and other flavonoids extracted from buckwheat is growing in the food, pharmaceutical and cosmetic industries due to their desirable physiological activities, such as antioxidant, anti-inflammatory and antihypertensive.  
 
