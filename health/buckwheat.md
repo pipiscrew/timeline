@@ -1,3 +1,13 @@
+# Buckwheat - Composition, Production and Uses (2018)
+
+* ISBN-13 :‎ 978-1536140996
+* Author : Frederick George  
+
+[Amazon](https://href.li/?https://www.amazon.com/dp/1536140996)  
+
+---
+
+
 Analysis **common buckwheat** (aka F. esculentum) flour produced in Latvia :  
 * lysine (6.07 g/100 g protein) *excellent source of essential amino acids, especially lysine*
 * resistant starch (23.42% DW)
@@ -173,8 +183,6 @@ In Europe, the `zenith` of buckwheat cultivation was reached in the **17 th cent
 Buckwheat is rich in **rutin**, a quercetin-3-rutinoside with antioxidant, anti-inflammatory and anti-carcinogenic properties. In humans rutin can `reduce the fragility` of `blood vessels`, which is related to **haemorrhagic** diseases and hypertension (Oomah and Mazza, 1996; Baumgertel et al., 2003). Rutin is not found in other grains such as wheat, rice, and corn, but is found in quantities of 100-200 mg/g dw in buckwheat, which makes buckwheat fruits a major dietary source of rutin (Kreft et al., 2006; Ahmed et al., 2014). **Along** with the various beneficial nutrients and phytochemicals, however, buckwheat contains **fagopyrin**, which is a naftodianthrone related to hypericin (Brockmann et al., 1950, 1952). This substance causes **phototoxic** symptoms, known as **fagopyrism**, in cattle and other farm animals, but it can also affect **humans** (Wender et al., 1943; Stojilkovski et al., 2013; Ahmed et al., 2014). Fagopyrin is mainly present in leaves and flowers and at lower levels in the stems, hulls, and groats (Eguchi et al., 2009).  
 
 **Common** buckwheat (Fagopyrum esculentum Moench) has poor agronomic characteristics, such as low seed yield and lodging. Another species, **Tartary** buckwheat (F. tataricum Gaertn.), has a **bitter** taste, which has constrained its production worldwide. **Common** buckwheat is a self-incompatible, insect-pollinated, allogamous plant.  
-
-source [Buckwheat - Composition, Production and Uses](https://href.li/?https://www.amazon.com/dp/1536140996)  
 
 ---
 
