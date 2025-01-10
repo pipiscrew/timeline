@@ -153,4 +153,4 @@
 * Οι υπερβολικοί μηχανισμοί για τη διόρθωση μιας όξινης κατάστασης μπορεί να οδηγήσουν σε μια αλκαλική κατάσταση.  
 
 
-source - [Fluids and Electrolytes Demystified](https://www.amazon.com/dp/0071496246)
+source - (2008) [Fluids and Electrolytes Demystified](https://href.li/?https://www.amazon.com/dp/0071496246)
