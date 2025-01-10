@@ -186,6 +186,6 @@ All types of tea, including **green tea** and **black tea** and **white tea** an
 
 **All teas** made from the leaves of the same plant, `Camellia sinensis`. The differences among these types of tea arise primarily from the processing methods used after the leaves are harvested.  
 
-**Τσάι του βουνού**, is a herbal tea made from the dried flowers, leaves, and stems of the `Sideritis plant`.  
+**Τσάι του βουνού**, made from the dried flowers, leaves, and stems of the `Sideritis plant`.  
 
 **Chamomile tea**, made from the flowers of the chamomile plant `Matricaria chamomilla`.  
