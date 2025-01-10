@@ -148,14 +148,44 @@ When prepared with 1 teaspoon of CBD (cannabidiol) in 200 ml of warm water, CBD 
 
 > Extract its beneficial compounds between 71°C to 82°C
 
+# Τσάι του βουνού (Mountain Tea)
+
+When you drink "τσάι του βουνού" made from 1 teaspoon in 200 ml of warm water, several things happen in your body:
+
+1. **Antioxidant Properties**: Mountain tea is rich in antioxidants, which help combat oxidative stress in the body. Antioxidants can protect cells from damage caused by free radicals, potentially reducing the risk of chronic diseases.
+
+2. **Anti-Inflammatory Effects**: The compounds found in mountain tea may have anti-inflammatory properties, which can help reduce inflammation in the body. This can be beneficial for conditions such as arthritis and other inflammatory disorders.
+
+3. **Digestive Health**: Mountain tea has been traditionally used to aid digestion. It may help alleviate digestive issues such as bloating, gas, and indigestion.
+
+4. **Immune System Support**: The tea is believed to boost the immune system, helping the body to fight off infections and illnesses. Its antimicrobial properties may contribute to this effect.
+
+5. **Respiratory Health**: Mountain tea has been used to relieve symptoms of respiratory conditions, such as coughs and colds. It may help soothe the throat and reduce congestion.
+
+6. **Calming Effects**: Drinking mountain tea can have a calming effect on the mind and body. It is often consumed to reduce stress and promote relaxation, making it a popular choice for those seeking a natural way to unwind.
+
+7. **Bone Health**: Some studies suggest that the antioxidants in mountain tea may contribute to bone health by reducing the risk of osteoporosis and promoting bone density.
+
+8. **Cardiovascular Health**: The anti-inflammatory and antioxidant properties of mountain tea may also support heart health by improving circulation and reducing the risk of heart disease.
+
+9. **Blood Sugar Regulation**: Preliminary research indicates that mountain tea may help regulate blood sugar levels, which could be beneficial for individuals with diabetes or those at risk of developing the condition.
+
+10. **Rich in Nutrients**: Mountain tea contains various vitamins and minerals, including vitamin C, flavonoids, and essential oils, which contribute to overall health and well-being.
+
+> Extract its beneficial compounds between 90°C to 95°C  
+
 ---
 
 The **common dose** for teas when using 200-240 ml of boiling water is typically, `1 to 2 teaspoons` (2 to 4 grams). Consuming it in excessive amounts (ex 1 tablespoon (15 grams)) may lead to side effects such as drowsiness, nausea, or allergic reactions.  
 
-All types of tea, including **green tea** and **black tea** and **white tea** and **Oolong** and **Pu-erh** can **inhibit** `iron absorption` due to their tannin content. Tannins are polyphenolic compounds that can bind to iron and reduce its bioavailability.  
+All types of tea, including **green tea** and **black tea** and **white tea** and **Oolong** and **Pu-erh** and **Τσάι του βουνού** can **inhibit** `iron absorption` due to their tannin content. Tannins are polyphenolic compounds that can bind to iron and reduce its bioavailability.  
 
 **Chamomile tea** does **not have** a significant effect on `iron absorption`, and **CBD tea** impact on iron absorption is not well-studied, but it is generally considered to have a **neutral effect** in this regard.
 
+---
+
 **All teas** made from the leaves of the same plant, `Camellia sinensis`. The differences among these types of tea arise primarily from the processing methods used after the leaves are harvested.  
+
+**Τσάι του βουνού**, is a herbal tea made from the dried flowers, leaves, and stems of the `Sideritis plant`.  
 
 **Chamomile tea**, made from the flowers of the chamomile plant `Matricaria chamomilla`.  
