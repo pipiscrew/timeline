@@ -192,4 +192,6 @@ The Tartary buckwheat (Fagopyrum tataricum Gaertn.) is buckwheat species used as
 
 Buckwheat it grows well in poor soil conditions and does not require extensive care in terms of fertilization or pest control. However, it does have some specific needs, such as a **well-drained soil** and a relatively **short growing season**.  
 
-The **decline** in buckwheat cultivation was not necessarily due to it requiring more care, but rather because other crops, like **maize** and **potatoes**, offered **higher yields**, better **adaptability** to different soil types, and **greater versatility** in cooking and food production. As agricultural practices evolved and farmers sought to `maximize their output`, they tended to favor these more productive crops **over buckwheat**.
+The **decline** in buckwheat cultivation was not necessarily due to it requiring more care, but rather because other crops, like **maize** and **potatoes**, offered **higher yields**, better **adaptability** to different soil types, and **greater versatility** in cooking and food production. As agricultural practices evolved and farmers sought to `maximize their output`, they tended to favor these more productive crops **over buckwheat**.  
+
+**Bulgur or Bulgar, or Borghol or πλιγούρι or πουργούρι** is something different, target `buckwheat`!

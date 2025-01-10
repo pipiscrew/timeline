@@ -420,6 +420,9 @@ Play a crucial role in various bodily functions, including maintaining the
 * nerve function
 * muscle contractions  
 
+Electrolytes are minerals in your body that `carry an electric charge` and are **essential** for various bodily functions, including maintaining fluid balance, muscle contractions, and nerve signaling. While electrolytes themselves do not provide energy in the way that **carbohydrates**, **fats**, and **proteins** do, they play a `crucial role` in `energy production and utilization`.  
+
+
 ### for gut
 They are important for maintaining the overall environment and function of the digestive system, which can **indirectly** influence acid production and gut health.
 
