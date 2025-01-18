@@ -268,3 +268,8 @@ source - (2018) [Fluids and Electrolytes](https://href.li/?https://www.amazon.co
 * Μαρούλι
 * Ντομάτες
 * Σέλινο
+
+
+---
+
+[Nal Von Minden Μετρητής PH 41110-L100](https://leptokaropoulos.gr/nal-von-minden/test-analusis-ouron-10-parametron-100tem-nal-von-minden) - Εξετάσεις ούρων 11 παραμέτρων με αντιδραστήριες ταινίες ανάλυσης [[2](https://leptokaropoulos.gr/nal-von-minden)] [[3](https://pazarogatos.gr/product/test-%ce%bf%cf%8d%cf%81%cf%89%ce%bd-10-%cf%80%ce%b1%cf%81%ce%b1%ce%bc%ce%ad%cf%84%cf%81%cf%89%ce%bd-100-%cf%84%ce%bc%cf%87/)]

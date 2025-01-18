@@ -291,6 +291,7 @@ The sequence is :
 * [MediaCreationTool](https://github.com/AveYo/MediaCreationTool.bat) - has to remove TPM/Secure Boot restrictions
 * [awesome windows privacy](https://github.com/TemporalAgent7/awesome-windows-privacy)
   * [Win10BloatRemover](https://github.com/Fs00/Win10BloatRemover)
+  * [optimizer](https://github.com/hellzerg/optimizer) - finest Windows Optimizer
 * [Ratiborus Digital Activation](https://nsaneforums.com/topic/317565-w10-digital-activation-program-v11-portable-ratiborus/) - windows (not for Enterprise edition)
 * [Office 2013-2021 C2R](https://free.appnee.com/office-2013-2021-c2r-install/) - downloader, installer, remover
 * [Office 365 - Online Installer](https://zone94.com/downloads/software/applications/145-microsoft-office-2019-professional-plus-x86-x64-online-installer)

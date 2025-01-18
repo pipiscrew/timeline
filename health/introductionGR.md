@@ -272,14 +272,17 @@ _Η αποθήκευση γλυκογόνου είναι αρκετά μικρή
     * δύο πατάτες ή
     * δύο φλιτζάνια μαγειρεμένο ρύζι ή
     * τέσσερα μήλα  
+* Πάντα σταματάμε να τρώμε 18:00 ( `16ωρη` - 18:00 - 10:00 | `18ωρη` - 16:00 - 10:00 ). Έχει **τεράστια διαφορά** στον μεταβολισμό, `7:00 με 13:30` γίνονται **κυτταρικές διεργασίες** (επηρεάζονται από τους [κιρκάδιους ρυθμούς](https://el.wikipedia.org/wiki/%CE%9A%CE%B9%CF%81%CE%BA%CE%AC%CE%B4%CE%B9%CE%BF%CF%82_%CF%81%CF%85%CE%B8%CE%BC%CF%8C%CF%82)), πρέπει να τρώμε πρωινό.
+  * 10:00 - 500ml Kefir
+  * 11:00 - 2 αυγά
+  * 15:30 - καλό γεύμα   
 
 πηγές :  
 
 - Eat Rich, Live Long (2018) - [https://www.amazon.com/dp/1628602732](https://href.li/?https://www.amazon.com/dp/1628602732)
 - The PE Diet (2019) - [https://www.thepediet.com/](https://href.li/?https://www.thepediet.com)
 - Gut check (2024) - [https://www.amazon.com/dp/0062911775](https://href.li/?https://www.amazon.com/dp/0062911775)
-- <https://pipiscrew.github.io/timeline/#/health/introduction_old>
-
+- <https://pipiscrew.github.io/timeline/#/health/introduction_old>  
 
 επόμενο κεφάλαιο :  
 * 2023 - [Dr. Pradip Jamnadas - Η επίδραση του μικροβιώματος στην υγεία](https://www.youtube.com/watch?v=S1n7P5l2xK8)
