@@ -46,10 +46,10 @@
 ## Flowchart
 * [NCH.ClickCharts](https://www.nchsoftware.com/chart/)
 * [SmartDraw 2010](https://download.cnet.com/SmartDraw-2010/3000-2075_4-10002466.html)
-* [Open Mind](https://openmindsoftware.org)
 * [Freeplane](https://www.freeplane.org)
 * [draw.io](https://app.diagrams.net/)
   * [standalone application](https://github.com/jgraph/drawio-desktop/releases/)
 * [flowchart.fun](https://flowchart.fun/) - Generate flowcharts from Text
 * [Excalidraw](https://github.com/excalidraw/excalidraw) - whiteboard for sketching hand-drawn like diagrams
 * [drawdb](https://drawdb.vercel.app/) - database diagram editor
+* [Frame0](https://frame0.app/) - A Balsamiq-alternative lo-fi wireframe tool for modern apps  

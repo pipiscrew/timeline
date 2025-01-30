@@ -21,7 +21,7 @@
 * [Password Tech](https://pwgen-win.sourceforge.io/)
 * [Nimi Places](http://mynimi.net/Projects/Nimi-Places/) - organizes desktop into customizable containers
 * [Mem Reduct](https://www.henrypp.org/product/memreduct)
-* [TinyCAD](https://www.tinycad.net/) -  drawing electrical circuit diagrams commonly known as schematic drawings,  PCB Layout
+* [TinyCAD](https://www.tinycad.net/) - drawing electrical circuit diagrams commonly known as schematic drawings,  PCB Layout
 * [WinDirStat](https://sourceforge.net/projects/windirstat/files/) - find the space used by folder
 * [HomeBank](http://homebank.free.fr/en/) - manage your personal accounting
 * [GnuCash](https://www.gnucash.org/) -  is a personal and small business finance application
@@ -34,6 +34,7 @@
 * [Everyone Piano](https://www.everyonepiano.com/Software.html) - can play piano notes from your computer keyboard
 * [Lively Wallpaper](https://github.com/rocksdanister/lively) - animated desktop wallpapers, bring your desktop to life
 * [Just Color Picker](https://annystudio.com/software/colorpicker/) -  see colours and colour combinations 
+* [Mixxx - GPL DJ Software](https://mixxx.org/)  
 
 # disk
 * [CrystalDiskInfo](https://crystalmark.info/en/software/crystaldiskinfo/) - HDD/SSD health monitoring utility

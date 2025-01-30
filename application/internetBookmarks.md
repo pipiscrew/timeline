@@ -151,6 +151,7 @@
 * [SoundCloud Downloader](https://sclouddownloader.net/)
 * [Dailymotion Downloader](https://freedownloadvideo.net/dailymotion-video-downloader) - ++ linkedin, reddit, ted, telegram, tiktok, vimeo, twitter, twitch, bitchute, rumble
 * [Instagram Downloader](https://snapinsta.app/)
+* [saveplays](https://www.saveplays.com/) - multiple
 * [Reddit Videos](https://viddit.red/)
 * [Reddit Save](https://redditsave.com/)
 * [Unddit](https://www.unddit.com/) - Display removed (by mods) and deleted (by users) comments/posts for Reddit.
