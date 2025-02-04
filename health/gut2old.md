@@ -306,7 +306,7 @@ ingredients :
 * Lactobacillus acidophilus</div></details>
 
 <details>
-<summary>Vivomixx neo 9 (Lactobacillus / Bifidobacterium / Streptococcus strains)</summary>
+<summary>Vivomixx neo 9 (Lacticaseibacillus / Bifidobacterium / Lactococcus/ Streptococcus strains)</summary>
 <br/>
 <div style="margin-left:20px">
 per capsule : 460 billion CFU (coloning forming units)  
