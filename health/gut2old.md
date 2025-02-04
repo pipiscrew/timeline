@@ -310,7 +310,7 @@ ingredients :
 <br/>
 <div style="margin-left:20px">
 per capsule : 460 billion CFU (coloning forming units)  
-dose : 1 capsule per day  
+dose : 1 sachet per day  
 
 ingredients :  
 * Lacticaseibacillus paracasei IMC 502
