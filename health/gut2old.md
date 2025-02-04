@@ -305,6 +305,23 @@ ingredients :
 * Bifidobacterium bifidum
 * Lactobacillus acidophilus</div></details>
 
+<details>
+<summary>Vivomixx neo 9 (Lactobacillus / Bifidobacterium / Streptococcus strains)</summary>
+<br/>
+<div style="margin-left:20px">
+per capsule : 460 billion CFU (coloning forming units)  
+dose : 1 capsule per day  
+
+ingredients :  
+* Lacticaseibacillus paracasei IMC 502
+* Lacticaseibacillus rhamnosus IMC 501
+* Lacticaseibacillus rhamnosus SP1
+* Bifidobacterium breve Bbr 8
+* Bifidobacterium animalis subsp lactis BLC1
+* Lactobacillus acidophilus LA1
+* Lactiplantibacillus plantarum 14D
+* Lactococcus lactis SP38
+* Streptococcus thermophilus SP4</div></details>
 
 <details>
 <summary>

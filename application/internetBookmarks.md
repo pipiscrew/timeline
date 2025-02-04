@@ -51,7 +51,7 @@
 * [Google Dataset Search Engine](https://datasetsearch.research.google.com/)
 * [Semantically search ArXiv papers](https://papermatch.mitanshu.tech/)
 * [Manx](https://manx-docs.org/about.php) - a catalog of manuals for old computers  
-
+* [Wikenigma - an Encyclopedia of Unknowns](https://wikenigma.org.uk/start)  
 
 ## translators
 * [DocTranslator](https://www.onlinedoctranslator.com/en/translationform) - Translate PDF and outputs PDF, at the moment Yandex / Google cant do this.
@@ -297,6 +297,7 @@
 ## file archives
 * [WinWorld](https://winworldpc.com/library/operating-systems)
 * [The Simtel CD Collection (1994-2001)](http://cd.textfiles.com/simtel/)
+* [BetaArchive](https://www.betaarchive.com/) - collect, learn, preserve
 * [The Eye](https://the-eye.eu/)
 * [FilePursuit](https://filepursuit.com/)
 * [Wiki DLL](https://wikidll.com/)
