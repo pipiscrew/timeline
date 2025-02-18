@@ -12,6 +12,7 @@
 * [Freecomputerbooks](https://freecomputerbooks.com/)
 * [arXiv](https://arxiv.org/) - Search an archive for millions scholarly articles in the fields of physics, mathematics, computer science, quantitative biology, quantitative finance, statistics, electrical engineering and systems science, and economics. 
   * [ScholArxiv](https://github.com/dagmawibabi/ScholArxiv) - search arXiv by mobile
+  * [ArXivTok](https://arxivtok.vercel.app/) - Browse ArXiv papers with a TikTok-style [[2](https://github.com/Miguel07Alm/arxivtok)]
 * [Google.Scholar](https://scholar.google.gr/scholar?hl=en&q=gmo) - Freely accessible web search engine that indexes the full text or metadata of scholarly literature
 * [Directory of Open Access Journals](http://www.doaj.org/)
 * [Google.Dataset Search](https://datasetsearch.research.google.com/)
