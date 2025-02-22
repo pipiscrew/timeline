@@ -215,6 +215,7 @@
 
 ## develop
 * [CyberChef](https://gchq.github.io/CyberChef/) - Cyber Swiss Army Knife
+* [it-tools](https://it-tools.tech/) - handy tools for developers
 * [K9s](https://github.com/derailed/k9s) - who let the pods out? Kubernetes CLI to manage your clusters in style
 * [Decrypt MD5, SHA1, MySQL, NTLM, SHA256, SHA512 hashes](https://hashes.com/en/decrypt/hash) [[2](https://crackstation.net/)]
 * [Batch Speed](https://batchspeed.com/) - Bulk speed test multiple urls using Google's Page Speed checker

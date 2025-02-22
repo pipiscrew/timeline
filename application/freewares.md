@@ -35,6 +35,7 @@
 * [Lively Wallpaper](https://github.com/rocksdanister/lively) - animated desktop wallpapers, bring your desktop to life
 * [Just Color Picker](https://annystudio.com/software/colorpicker/) -  see colours and colour combinations 
 * [Mixxx - GPL DJ Software](https://mixxx.org/)  
+* [BatchShield](https://github.com/DevBubba/BatchShield) - obfuscator for DOS batch files, written on python  
 
 # disk
 * [CrystalDiskInfo](https://crystalmark.info/en/software/crystaldiskinfo/) - HDD/SSD health monitoring utility
