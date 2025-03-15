@@ -98,6 +98,7 @@
 * [Notepad Tab](https://notepadtab.com/) - paste online
 * [onetimesecret](https://onetimesecret.com/) - one time paste
 * [sharrr](https://www.sharrr.com/) - one time file share
+* [Hyper Notepad](https://hypernotepad.com/) - share notes for ever
 * [ArchiveBox - Your own personal internet archive](https://archivebox.io/)
   * [2](https://github.com/ArchiveBox/ArchiveBox)
 * [archive.today](https://archive.ph/) - Archive any webpage ([mirror](https://archive.ph/))
@@ -231,6 +232,7 @@
 		* [Convert C# class to JSON](https://csharp2json.io/)  
 * [RecipeUI](https://recipeui.com/) - Open-source Postman alternative with type safety
 * [Bruno](https://www.usebruno.com/) - open-source API client Postman alternative
+* [yaak](https://github.com/mountain-loop/yaak) - open-source API client Postman alternative
 * [codeberg](https://codeberg.org/) - git alternative  
 
 ## music
