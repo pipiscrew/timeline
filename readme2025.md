@@ -164,7 +164,6 @@
   * [Mozilla site down due to "overdue hosting payments"](https://linuxmom.net/@vkc/114089626244932902)
   * [What, if anything, should I do about using Mozilla Firefox](https://neilzone.co.uk/2025/03/what-if-anything-should-i-do-about-using-mozillas-firefox/)
   * [Mozilla flamed by Firefox fans after reneging on promises to not sell their data](https://www.theregister.com/2025/03/02/mozilla_introduces_terms_of_use/)
-  * [Mozilla flamed by Firefox fans after reneging on promises to not sell their data](https://www.theregister.com/2025/03/02/mozilla_introduces_terms_of_use/)
   * [Trust in Firefox and Mozilla Is Gone - Let Talk Alternatives](https://boilingsteam.com/poll-trust-in-firefox-mozilla-is-gone/)
   * [Mozilla lost touch with reality](https://youtu.be/-8bTquKjzos)
   * [This Month in Ladybird February 2025](https://ladybird.org/newsletter/2025-02-28/)
