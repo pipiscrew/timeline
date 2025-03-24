@@ -287,6 +287,7 @@ The sequence is :
 ## Activators
 * [KMS_VL_ALL_AIO](https://github.com/abbodi1406/KMS_VL_ALL_AIO) - windows & office (supports Enterprise edition)
 * [KMS38](https://massgrave.dev/) - activate till 2038 + ISO [[2](https://gitlab.com/massgrave/microsoft-activation-scripts/-/tree/master/MAS/All-In-One-Version)]
+* [TSforge](https://github.com/massgravel/TSforge) - collection of activation tools Windows 7 through 11
 * [Ankh Tech Toolbox](https://ankhtech.weebly.com/toolbox.html) - install apps & activate
 * [MediaCreationTool](https://github.com/AveYo/MediaCreationTool.bat) - has to remove TPM/Secure Boot restrictions
 * [awesome windows privacy](https://github.com/TemporalAgent7/awesome-windows-privacy)
