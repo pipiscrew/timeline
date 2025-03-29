@@ -63,8 +63,6 @@ souce - [Ayurveda - The True Way to Restore Your Health and Happiness](https://h
 In Sanskrit, Ayurveda translates to “the science of life” (ayur is life, veda is knowledge). As a more-than-five-thousand-year-old discipline—the oldest health science to exist—we could spend years unpacking all the knowledge that Ayurveda has to offer.  
 
 Some people refer to Ayurveda as “The Mother of Healing” because it teaches you how to create the ideal environment—internally and externally—for optimal health. Unlike most applications of Western medicine, which focuses on the cure, Ayurveda puts the emphasis on prevention—as in, how we can keep from getting ill in the first place? And by ill, I’m not necessarily talking about the biggies like heart disease, arthritis, or diabetes—though these are absolutely what we’re looking to avoid—but we’re also focusing on the smaller, more subtle irritations that take away from our everyday quality of life, like aches and pains, poor sleep, and sluggish digestion. Just as important, Ayurveda addresses more understated conditions that are often the initial signs of illness or imbalance in the body, such as dull skin, brittle hair, and low mood and energy. Because the outside of your body communicates what’s happening on the inside of your body.
-I fell in love with Ayurveda because of its key idea that we have the power not only to recognize our symptoms of imbalance before they build to something more damaging but also to treat them by creating subtle shifts in our routines, whether it’s what we eat, how we move, or the habits we keep in our spiritual practices or our living space.  
-Ayurveda demonstrates how each of us has our own natural disposition, and because of that, your long-term recipe for health will look different from anyone else’s. It’s far from a one-size-fits-all prescription.  
   
 Studying nutrition, I learned how food impacts the body, especially plants. They are the very best source of vitamins and minerals, and maintain and nourish our organs and tissues. They are rich in antioxidants, which protect our bodies from environmental stressors and cellular damage. They are full of fiber, which sweeps through our digestive system, clearing the body of toxins and promoting the internal movement on which our life force depends. Plant foods are all we need to deliver the necessary fuel—carbohydrates, fats, and proteins—that every physiological system (digestive, cardiovascular, neurological, immune, etc.) needs to work optimally.  
 
@@ -104,17 +102,6 @@ Another transitional moment of the day as the sun prepares to rise and the body 
 The goal here is to simply allow yourself to feel the qualities of these moments in the day—the lightness of vata as your body first stirs and takes in the sun’s early rays, the urgency of pitta powering the afternoon’s big wave of energy, the heaviness of kapha as you turn down the lights and bury yourself in the blankets with a book. If you are like most people, this will take some getting used to. We’re so accustomed to living our lives against these currents that we don’t often experience them. But the more you participate in these ebbs and flows and support them with the meals you eat, the practices you choose, and the thoughts you think (aka following the advice shared in this book!), the more in alignment you will become.  
 While every day may not look just like this, what will naturally happen over time is that you’ll realize how much better you feel when it does. If you want more restful sleep, or you want more energy in the morning, or you want better concentration in the afternoon, the solution isn’t to hyperfocus your efforts on that time of day. Instead, when you’re supporting all of the shifts throughout the day, the benefits are cumulative.  
 
-* Sun vs Moon
-* Energizing vs Calming
-* Heating vs Cooling
-* Activating vs Relaxing
-* Strength vs Flow
-* Creation vs Preservation
-* Activating vs Surrender
-* For both men and women: Masculine (active, doing) vs. Feminine (processing emotions, soothing, nurturing)  
-
-Practitioners of Ayurveda believe that the energy, attitude, intention, and feelings you have while cooking are infused into the food—which is then absorbed and digested into the person receiving it. That’s why one of my very favorite things to do is feed people when they come to my home. I love putting thought into what nourishing, delicious meal I can prepare for them, and then actively reflecting on and praying for their well-being as I cook. And what’s amazing is that my guests often tell me that they can actually sense that.
-It may sound woo-woo, but the thoughts you think and the intention you bring to the simplest acts, including preparing your food, are powerful. That means that cooking with love, devotion, gratitude, and kind energy is just as healing—for both body and mind—as the food itself. In Ayurveda, we call this Prashad. I often describe it as food cooked with devotion, sealed with a prayer, and served with love. In your everyday life, you can think of it as Some people refer to Ayurveda as “The Mother of Healing” because it teaches you how to create the ideal environment—internally and externally—for optimal health. Unlike most applications of Western medicine, which focuses on the cure, Ayurveda puts the emphasis on prevention—as in, how we can keep from getting ill in the first place? And by ill, I’m not necessarily talking about the biggies like heart disease, arthritis, or diabetes—though these are absolutely what we’re looking to avoid—but we’re also focusing on the smaller, more subtle irritations that take away from our everyday quality of life, like aches and pains, poor sleep, and sluggish digestion. Just as important, Ayurveda addresses more understated conditions that are often the initial signs of illness or imbalance in the body, such as dull skin, brittle hair, and low mood and energy. Because the outside of your body communicates what’s happening on the inside of your body.  
 I fell in love with Ayurveda because of its key idea that we have the power not only to recognize our symptoms of imbalance before they build to something more damaging but also to treat them by creating subtle shifts in our routines, whether it’s what we eat, how we move, or the habits we keep in our spiritual practices or our living space.
 Ayurveda demonstrates how each of us has our own natural disposition, and because of that, your long-term recipe for health will look different from anyone else’s. It’s far from a one-size-fits-all prescription.  
 My guidelines and recipes are designed to help you tune in closely to what your body might be asking of you and what it needs to feel good and nourished. But instead of getting too caught up at this moment with what you “should” or “shouldn’t” be eating based on your type or prakruti (as one’s overall constitution is called in Ayurveda), or getting too bogged down in the many, many layers of philosophy behind these recommendations, I’d rather you first embrace more general practices, rooted in Ayurveda, that everyone benefits from. These are simply:
@@ -128,13 +115,13 @@ Once you’ve started implementing the changes above, you’ll be able to hear t
 To help you get and stay in rhythm, I’ve organized the chapters to reflect which meals you’d reach for at certain times of day. Recipes early in the book (drinks, breakfast) are perfect for lighter morning meals, while recipes in the middle of the book (pasta, lentils, breads, salads, main dishes) are better suited for midday, when your digestion is more robust. Toward the end of the book (soups), we’re returning to lighter dishes that suit a body preparing for rest (although these dishes would be just as appropriate earlier in the day, too).
 When choosing a recipe, ask yourself: What does my body need right now? What is it truly hungry for? What sounds delicious to meet that need? Honor the voice that responds.
 Another part of this tuning-in process is Living with the Sun and Moon. Each of these bodies has its own powerful vibrations. Thinking about their qualities and the time of day when they “rule” as you consider what nourishment your body needs helps you to live in vibration with them. For example:  
-* Sun vs. Moon
-* Energizing vs. Calming
-* Heating vs. Cooling
-* Activating vs. Relaxing
-* Strength vs. Flow
-* Creation vs. Preservation
-* Activating vs. Surrender
+* Sun vs Moon
+* Energizing vs Calming
+* Heating vs Cooling
+* Activating vs Relaxing
+* Strength vs Flow
+* Creation vs Preservation
+* Activating vs Surrender
 
 For both men and women: Masculine (active, doing) vs. Feminine (processing emotions, soothing, nurturing).  
 
@@ -326,6 +313,8 @@ Just remember that spices have more **prana** or **vital** life force, and there
 | Saffron | *   Helps with mood regulation, blood glucose stabilization, and inflammation<br>*   Reduces fevers<br>*   Cleanses the skin | Sweet, floral, and earthy. |     |     |
 | Star anise | *   Supports digestion, lactation, and reproductive health<br>*   Alleviates gas, bloating, and mucus<br>*   Anti-inflammatory | Licorice-like, slightly sweet flavor. |     | Used as whole pods. |
 | Turmeric | *   Supports liver function<br>*   Stimulates digestion<br>*   Boosts immunity<br>*   Antiseptic<br>*   Antiviral<br>*   Purifies the blood<br>*   Protects against allergies<br>*   Improves skin luminosity | Overwhelmingly earthy and bitter, almost musky, with a bit of peppery spice. |     | Combine with black pepper for optimal digestion. Ideally cook in fat before eating. |  
+
+> 1 part turmeric to 5 parts fennel and corriander (cooling spices). https://www.instagram.com/radhidevlukia/p/BcM1ltMnuKo/  
 
 souce - [Radhni.JoyFull - Cook Effortlessly, Eat Freely, Live Radiantly](https://href.li/?https://www.amazon.com/dp/1982199725)
 
