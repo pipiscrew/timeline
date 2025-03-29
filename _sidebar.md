@@ -52,6 +52,7 @@
 	* [introduction2](/health/introduction_old.md)
 	* [gut](/health/gut.md)
 	* [gut2](/health/gut2old.md)
+	* [ayurveda](/health/ayurveda.md)
 	* [inflammatory](/health/inflammatory.md)
 	* [light](/health/light.md)
 	* [exercise](/health/exercise.md)
