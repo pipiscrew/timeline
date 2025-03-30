@@ -52,7 +52,9 @@ Take **antibiotics**, for example—every generation of antibiotics is made **st
 
 Well, Ayurveda studies plants in their entirety. Roots, stems, bark, flowers, fruits and leaves are understood—as constituent yet interconnected parts of the plant—and the therapeutic value of each part is understood. That done, Ayurveda identifies the best way to extract the plant essence for human use.
 
-souce - [Ayurveda - The True Way to Restore Your Health and Happiness](https://href.li/?https://www.amazon.com/dp/0143451979)  
+souce - (2021) [Gangadharan.Ayurveda - The True Way to Restore Your Health and Happiness](https://href.li/?https://www.amazon.com/dp/0143451979)  
+
+ref - (2015) [Nature - Genome-wide analysis correlates Ayurveda Prakriti](https://www.nature.com/articles/srep15786)
 
 ---
 
@@ -316,13 +318,12 @@ Just remember that spices have more **prana** or **vital** life force, and there
 
 > 1 part turmeric to 5 parts fennel and corriander (cooling spices). https://www.instagram.com/radhidevlukia/p/BcM1ltMnuKo/  
 
-souce - [Radhni.JoyFull - Cook Effortlessly, Eat Freely, Live Radiantly](https://href.li/?https://www.amazon.com/dp/1982199725)
+souce - (2024) [Radhni.JoyFull - Cook Effortlessly, Eat Freely, Live Radiantly](https://href.li/?https://www.amazon.com/dp/1982199725)  
 
 --- 
 
 ## Links 
 
-* [Nature - Genome-wide analysis correlates Ayurveda Prakriti](https://www.nature.com/articles/srep15786)
 * [Adaptogens - help body to adapt to stress](https://health.clevelandclinic.org/what-are-adaptogens-and-what-do-they-do)
 * [Radhni](https://www.radhidevlukia.com/)
     * [How to improve your digestion](https://www.youtube.com/watch?v=BHnQRWLrdVo)
@@ -333,7 +334,7 @@ souce - [Radhni.JoyFull - Cook Effortlessly, Eat Freely, Live Radiantly](https:/
     * [Spices To Heal Your Gut](https://youtu.be/n2I7xFSQlWc?t=874)
     * [Healthy Gut Bowl - Nutritious Meal](https://www.youtube.com/watch?v=UgwRc3j_yV0)
     * [Reduce Inflammation](https://www.youtube.com/watch?v=yLkDreEtJvU) [[2](https://www.youtube.com/watch?v=DwTdgImbXQY)] 
-        * [ashwagandha](https://www.healthline.com/nutrition/ashwagandha-dosage)
+        * [ashwagandha](https://www.healthline.com/nutrition/ashwagandha-dosage) - adaptogen
     * SLAY - full body exercise - [pre](https://youtu.be/bRbrK1cSiH4?t=261) / [round1](https://youtu.be/bRbrK1cSiH4?t=147) / [round2](https://youtu.be/bRbrK1cSiH4?t=399) / [round3](https://youtu.be/bRbrK1cSiH4?t=658) / [round4](https://youtu.be/bRbrK1cSiH4?t=943) / [round5](https://youtu.be/bRbrK1cSiH4?t=1191)
 * Ayurveda Hellas
     * [Τεστ Σωματότυπου - Dosha Test](https://ayurveda-hellas.gr/test-somatotypoy-dosha-test/)
