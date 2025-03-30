@@ -62,7 +62,7 @@ souce - [Ayurveda - The True Way to Restore Your Health and Happiness](https://h
 
 In Sanskrit, Ayurveda translates to “the science of life” (ayur is life, veda is knowledge). As a more-than-five-thousand-year-old discipline—the oldest health science to exist—we could spend years unpacking all the knowledge that Ayurveda has to offer.  
 
-Some people refer to Ayurveda as “The Mother of Healing” because it teaches you how to create the ideal environment—internally and externally—for optimal health. Unlike most applications of Western medicine, which focuses on the cure, Ayurveda puts the emphasis on prevention—as in, how we can keep from getting ill in the first place? And by ill, I’m not necessarily talking about the biggies like heart disease, arthritis, or diabetes—though these are absolutely what we’re looking to avoid—but we’re also focusing on the smaller, more subtle irritations that take away from our everyday quality of life, like aches and pains, poor sleep, and sluggish digestion. Just as important, Ayurveda addresses more understated conditions that are often the initial signs of illness or imbalance in the body, such as dull skin, brittle hair, and low mood and energy. Because the outside of your body communicates what’s happening on the inside of your body.
+Some people refer to Ayurveda as “The Mother of Healing” because it teaches you how to create the ideal environment—internally and externally—for optimal health. Unlike most applications of Western medicine, which focuses on the cure, Ayurveda puts the emphasis on prevention—as in, how we can keep from getting ill in the first place? And by ill, I’m not necessarily talking about the biggies like heart disease, arthritis, or diabetes—though these are absolutely what we’re looking to avoid—but we’re also focusing on the smaller, more subtle irritations that take away from our **everyday quality of life**, like aches and pains, poor sleep, and sluggish digestion. Just as important, Ayurveda addresses more understated conditions that are often the **initial signs** of illness or imbalance in the body, such as dull skin, brittle hair, and low mood and energy. `Because the outside of your body communicates what’s happening on the inside of your body`.
   
 Studying nutrition, I learned how food impacts the body, especially plants. They are the very best source of vitamins and minerals, and maintain and nourish our organs and tissues. They are rich in antioxidants, which protect our bodies from environmental stressors and cellular damage. They are full of fiber, which sweeps through our digestive system, clearing the body of toxins and promoting the internal movement on which our life force depends. Plant foods are all we need to deliver the necessary fuel—carbohydrates, fats, and proteins—that every physiological system (digestive, cardiovascular, neurological, immune, etc.) needs to work optimally.  
 
@@ -392,7 +392,7 @@ Use a mortar and pestle or spice grinder to grind the spices together into a fin
 
 then brew tea :
 * 1 to 2 black tea bags (optional), to taste
-* 1 teaspoon Homemade Chai Masala (recipe follows), or store-bought
+* 1 teaspoon Homemade Chai Masala, or store-bought
 * 1 sprig fresh mint
 * ¼ teaspoon minced or grated fresh ginger (optional)
 * 1 cup unsweetened vegan milk
