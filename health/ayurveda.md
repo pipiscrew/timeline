@@ -336,6 +336,10 @@ souce - (2024) [Radhni.JoyFull - Cook Effortlessly, Eat Freely, Live Radiantly](
     * [Reduce Inflammation](https://www.youtube.com/watch?v=yLkDreEtJvU) [[2](https://www.youtube.com/watch?v=DwTdgImbXQY)] 
         * [ashwagandha](https://www.healthline.com/nutrition/ashwagandha-dosage) - adaptogen
     * SLAY - full body exercise - [pre](https://youtu.be/bRbrK1cSiH4?t=261) / [round1](https://youtu.be/bRbrK1cSiH4?t=147) / [round2](https://youtu.be/bRbrK1cSiH4?t=399) / [round3](https://youtu.be/bRbrK1cSiH4?t=658) / [round4](https://youtu.be/bRbrK1cSiH4?t=943) / [round5](https://youtu.be/bRbrK1cSiH4?t=1191)
+* [Dr Kanikaa Verma](https://ritucharya.com/)
+    * [udemy courses](https://www.udemy.com/user/kanika-388/)
+* [Dr Nikolaos Kostopoulos](https://holistichealthcentre.gr/en/the-centre/) - appears at 17:50 on [Ayurveda - Art of Being](https://www.imdb.com/title/tt0221809/) [[2](https://www.facebook.com/MagicFingersTherapy/videos/ayurveda-art-of-being/1686182591526341/)]
+    * [holistic aym](https://holisticaym.com/en/about-us/)
 * Ayurveda Hellas
     * [Τεστ Σωματότυπου - Dosha Test](https://ayurveda-hellas.gr/test-somatotypoy-dosha-test/)
     * [Yoga](https://ayurveda-hellas.gr/seminaria-and-ergastiria/yoga-paradosiaki-webinar/)

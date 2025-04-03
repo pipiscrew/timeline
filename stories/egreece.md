@@ -119,6 +119,7 @@
 * [myΘέρμανση](https://www.aade.gr/mythermansi)  
 * [safeyouth](https://www.safeyouth.gov.gr/)  
 * [Ηλεκτρονικό Πινάκιο](https://pinakio.gov.gr/)  
+* [OpenCar](https://opencar.services.gov.gr) - πληκτρολογώντας απλά τον αριθμό κυκλοφορίας  
 
 ---
   
