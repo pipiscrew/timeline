@@ -345,6 +345,8 @@ souce - (2024) [Radhni.JoyFull - Cook Effortlessly, Eat Freely, Live Radiantly](
     * [Yoga](https://ayurveda-hellas.gr/seminaria-and-ergastiria/yoga-paradosiaki-webinar/)
     * [Retreat Maha Kumb στην Ινδία](https://ayurveda-hellas.gr/blog/retreat-maha-kumb-stin-india/) - Κάθε 12 χρόνια συναντιούνται οι 3 ιεροί ποταμοί του Γάγγη
     * [Videos](https://www.youtube.com/@thehomeofayurveda4444/videos) & [Archive](https://www.youtube.com/@AyurvedaHellasVideoArchive/videos)  
+* (1983) [Index Of The Available Medicinal Plants](https://www.researchgate.net/publication/224898784_An_index_of_the_available_medicinal_plants_used_in_Indian_system_of_medicine_from_Jammu_and_Kashmir_State)
+* (2025) [Ayurvedic Recipes For Gut Health](https://www.nextlevelfunctionalnutrition.com/wp-content/uploads/2025/01/17-Ayurvedic-Recipes-For-Gut-Health.pdf)  
 
 ---
 

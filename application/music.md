@@ -9,7 +9,7 @@
 * Digital audio workstation - [Ardour](https://ardour.org/)   
 * [BandMatch](https://bandmatch.app) - "Tinder" but for finding musicians to create bands  
 * Draw Audio - [draw.audio](https://draw.audio) - A musical sketchpad using the Web Audio API  
-
+* [Pianoboi](https://pianoboi.site/) - displays sheet music as you play your piano
 
 ## ID3 Tags
 
