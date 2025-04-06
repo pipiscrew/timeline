@@ -320,6 +320,14 @@ Just remember that spices have more **prana** or **vital** life force, and there
 
 souce - (2024) [Radhni.JoyFull - Cook Effortlessly, Eat Freely, Live Radiantly](https://href.li/?https://www.amazon.com/dp/1982199725)  
 
+---
+
+Ulcerative colitis and Crohn disease are two chronic **inflammatory bowel diseases** whose incidence is increasing in the West. Seen mostly in young adults it is the cause of much morbidity. It is believed that the increased formation of the inflammatory mediators known as `leukotrienes` plays an important role in causing and maintaining chronic inflammation. Therefore attempts have been made to find specific **inhibitors** of leukotriene **synthesis**. However, such products, on evaluation showed unsuitable attributes like poor bioavailability, susceptibility to oxidation, side effects and were toxic. The gum **resin** of the tree `Boswellia serrata`, shown to be a specific inhibitor of leukotriene synthesis, is used in Ayurveda in a variety of inflammatory conditions [1].
+
+[1] - Ammon HPT. Ayurveda—Arzneimittel aus indischer Kultur. Z Phytotherap 22:136-142 (2001)
+
+source - (2006) [Premila.Ayurvedic Herbs - A Clinical Guide to the Healing Plants of Traditional Indian Medicine](https://href.li/?https://www.amazon.com/dp/0789017679)  
+
 --- 
 
 ## Links 
@@ -352,7 +360,13 @@ souce - (2024) [Radhni.JoyFull - Cook Effortlessly, Eat Freely, Live Radiantly](
 
 ## CCF Tea
 
-> use 1⁄4 tsp / 250ml
+* Coriander seeds
+* Cumin seeds
+* Fennel seeds
+
+Prepare the seeds and water, bring to boil, boil for 5 minutes, let it sit for 5min.
+
+> use 1⁄4 tsp of each / 250ml
 
 * [Radhni](https://www.radhidevlukia.com/recipes/ccf-spice-mix) - 1⁄2 tsp / 250ml
 * [grow](https://mynewrootsgrow.life/ccf-tea/) - 1⁄4 tsp / 250ml
@@ -375,7 +389,7 @@ For 2 cups :
 * `(optional)` small cinnamon stick (or 1/4 tsp ground)
 * `(optional)` 1 vanilla powder (0.3gr)
 
-Once the milk is warm, add the ingredients, allow the mixture to simmer for about 5-10 minutes, stirring occasionally. This helps the flavors meld together.
+Once the milk is warm, add the ingredients, allow the mixture to simmer for about 5-10 minutes, **stirring occasionally**. This helps the flavors meld together.
 
 ---
 
@@ -383,10 +397,22 @@ Once the milk is warm, add the ingredients, allow the mixture to simmer for abou
 
 **Chew** (5 to 10 minutes) the seeds before or after meals. The seeds contain a compound called [anethole](https://www.healthline.com/health/fennel-seeds-for-gas) that can relax the muscles in the gastrointestinal tract.
 
+---
+
+## Fennel Seeds with Ajwain Tea
+
+> use 1 tsp of each / 250ml
+
+* [Times of India](https://timesofindia.indiatimes.com/life-style/health-fitness/diet/weight-loss-this-ajwain-jeera-detox-tea-is-the-best-way-to-slim-down/photostory/82333060.cms)
+* [Radhni](https://www.instagram.com/radhidevlukia/reel/CxlNpdkLOo1) - eat it after a meal
+* [healthshots](https://www.healthshots.com/healthy-eating/nutrition/ajwain-and-jeera-water-benefits/)
+* [thehealthsite](https://www.thehealthsite.com/ayurveda/herbs/can-ajwain-and-jeera-be-taken-together-1181859/)
+* [lukecoutinho](https://www.lukecoutinho.com/blogs/remedies/gut-health-concoction/) - plus fennel
 
 ---
 
 ## Masala Chai
+
 Chai Masala ingredients :  
 * ¾ cup ground ginger
 * ½ cup ground cardamom

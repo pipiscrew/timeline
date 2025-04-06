@@ -4,6 +4,9 @@ Remember those data are `ancient`, calculate accordingly by the year you living 
 
 Is just a mockup to show where a specific food `fail` or not. By clicking any image you going to [myfooddata](https://tools.myfooddata.com/nutrition-facts/).
 
+*update 2025* - [OpenNutrition Foods](https://www.opennutrition.app/search)  
+
+
 ## animal
 
 [![img](../assets/foodata/pork.png)](https://tools.myfooddata.com/nutrition-facts/167823/100g/1)
@@ -57,7 +60,7 @@ Is just a mockup to show where a specific food `fail` or not. By clicking any im
 [![img](../assets/foodata/cumin.png)](https://tools.myfooddata.com/nutrition-facts/733462/wt1/1)
 [![img](../assets/foodata/turmeric.png)](https://tools.myfooddata.com/nutrition-facts/172231/wt1/1)  
 
-* find your [dietary reference intakes](https://www.nal.usda.gov/human-nutrition-and-food-safety/dri-calculator) (DRI) by USDA (change the metric system) -  ( below 18.5 = underweight | 18.5 – 24.9 = healthy weight | 25.0 – 29.9 = overweight | 30.0 and above = obesity ) [source](https://www.cdc.gov/healthyweight/assessing/bmi/adult_bmi/index.html)
+* find your [dietary reference intakes](https://www.nal.usda.gov/human-nutrition-and-food-safety/dri-calculator) (DRI) by USDA (change the metric system) -  ( below 18.5 = underweight | 18.5 – 24.9 = healthy weight | 25.0 – 29.9 = overweight | 30.0 and above = obesity ) [source](https://www.cdc.gov/bmi/faq/)
   * exceeded protein (aka [non complete protein](https://pipiscrew.github.io/timeline/#/health/introduction?id=proteins)) turned to glucose (carbohydrates)
     * exceeded protein illustrated on **UREA** blood test (getting high)
 * find your [BMR](https://www.calculator.net/bmr-calculator.html) - the number of calories your body burns at rest (to stay alive)
