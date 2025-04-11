@@ -198,7 +198,7 @@
 * [PDFtk](https://www.pdflabs.com/tools/pdftk-the-pdf-toolkit/) - merge and split  
 * [GraphStudioNext](https://github.com/cplussharp/graph-studio-next) - tool for developers to build and test DirectShow Graphs  
 * [GetWindowText](http://www.softwareok.com/?seite=Microsoft/GetWindowText) - read non selectable 'window texts' and contents
-* [WinNTSetup] - personalize your Windows setup before installing it
+* [WinNTSetup](https://www.softpedia.com/get/System/OS-Enhancements/WinNTSetup.shtml) - personalize your Windows setup before installing it
 * [Torrent File Editor](https://github.com/torrent-file-editor/torrent-file-editor)
 * [FreeArc](https://www.softpedia.com/get/PORTABLE-SOFTWARE/Compression-Tools/FreeArc-Portable.shtml)
 * [MiTeC.Task Manager](http://www.mitec.cz/tmx.html)
@@ -207,7 +207,7 @@
 * [moebius](https://github.com/blocktronics/moebius) - modern ANSI & ASCII art editor  
 * [Angry IP Scanner](https://angryip.org/) - network scanner  
 
-Minimize to tray
+## Minimize to tray
 * [4t Tray Minimizer](https://www.4t-niagara.com/tray.html)  
 * [traymond](https://github.com/fcFn/traymond)
 
@@ -278,6 +278,7 @@ The sequence is :
 ## Video
 * [SMPlayer](https://www.smplayer.info/)
 * [kdenlive](https://kdenlive.org/) - open source video editor
+* [PotPlayer](https://potplayer.daum.net/)
 
 ## Chat
 * [BeeBEEP](https://www.beebeep.net/) - serverless app for intranet use only

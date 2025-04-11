@@ -2,7 +2,7 @@
 
 * [TaxisNET](https://www.gsis.gr/)
   * Αιτήματα και Ραντεβού - [https://myaade.gov.gr/](https://myaade.gov.gr/) &nbsp; [[2](https://www1.aade.gr/saadekef/gappointments)] &nbsp; [[3](https://www1.aade.gr/saadekef/eticketaade)]
-* Υπεύθυνη Δήλωση, Εξουσιοδότηση, `Ψηφιακή Βεβαίωση Εγγράφου` κτλ. - [https://docs.gov.gr/](https://docs.gov.gr/) &nbsp; [[2](https://www.gov.gr/ipiresies/polites-kai-kathemerinoteta/psephiaka-eggrapha-gov-gr/psephiake-bebaiose-eggraphou)]  
+* Υπεύθυνη Δήλωση, Εξουσιοδότηση, `Ψηφιακή Βεβαίωση Εγγράφου` κτλ. - [https://docs.gov.gr/](https://docs.gov.gr/) &nbsp; [[2](https://www.gov.gr/ipiresies/polites-kai-kathemerinoteta/psephiaka-eggrapha-gov-gr/psephiake-bebaiose-eggraphou)]  [[3](https://dilosi.services.gov.gr/)]
   * Ιστορικό εγγράφων (Θυρίδα πολίτη) - [https://my.gov.gr/](https://my.gov.gr/)  
 * Wallet (όλα τα δημόσια έγγραφα στο κινητό σας) - [https://wallet.gov.gr/](https://wallet.gov.gr/)  
 * [myAADEapp](https://play.google.com/store/apps/details?id=com.myaadeapp) -  εκπληρώνετε απλά τις υποχρεώσεις σας από το android κινητό σας.

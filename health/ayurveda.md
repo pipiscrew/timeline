@@ -355,6 +355,8 @@ source - (2006) [Premila.Ayurvedic Herbs - A Clinical Guide to the Healing Plant
     * [Videos](https://www.youtube.com/@thehomeofayurveda4444/videos) & [Archive](https://www.youtube.com/@AyurvedaHellasVideoArchive/videos)  
 * (1983) [Index Of The Available Medicinal Plants](https://www.researchgate.net/publication/224898784_An_index_of_the_available_medicinal_plants_used_in_Indian_system_of_medicine_from_Jammu_and_Kashmir_State)
 * (2025) [Ayurvedic Recipes For Gut Health](https://www.nextlevelfunctionalnutrition.com/wp-content/uploads/2025/01/17-Ayurvedic-Recipes-For-Gut-Health.pdf)  
+* (music) [Sohini Mishra - Adharam Madhuram](https://www.youtube.com/watch?v=tBgNpc39FJk)
+    * [Asha - Best Of](https://www.youtube.com/watch?v=Rd-KljMbmR8)  
 
 ---
 
@@ -399,7 +401,7 @@ Once the milk is warm, add the ingredients, allow the mixture to simmer for abou
 
 ---
 
-## Fennel Seeds with Ajwain Tea
+## Cumin with Ajwain
 
 > use 1 tsp of each / 250ml
 
@@ -457,3 +459,10 @@ makes 2 smoothies
 * ¼ teaspoon ground ginger  
 
 Scoop the avocado into a high-powered blender. Add the coconut water, date, cinnamon, cardamom, and ginger and blend until completely smooth. Serve immediately.
+
+---
+
+## Sarantabotano
+
+* [sarantabotano](https://sarantabotano.gr/sxetika-me-mas/)
+* [ethnos](https://www.ethnos.gr/foodanddrink/article/54053/sarantabotanohsarantadentritomagikokrhtikobrastari)

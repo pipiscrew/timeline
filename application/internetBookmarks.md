@@ -26,7 +26,7 @@
   * [2](https://z-lib.is/)
   * [giving each user a secret URL](https://arstechnica.com/tech-policy/2023/02/z-library-returns-aims-to-avoid-seizures-by-giving-each-user-a-secret-url/) &nbsp; [[2](https://singlelogin.me/)]
   * [3](https://z-lib.io/) [[1](https://z-library.io/)] [[2](https://zlib-official.com/)] [[3](https://z-library.io/)] [[4](https://z-library.mx/)] [[5](https://z-library.co/)]
-* [Pirate Library Mirror](http://pilimi.org/) - Z-Library offline mirror
+* [Pirate Library Mirror](http://pilimi.org/) - Z-Library offline mirror (Anna Archive)
 * [Gutenberg](https://www.gutenberg.org/) - plain ebooks
 * [Morioh](https://morioh.com/topics) - Social network for programmers and developers
 * [Deephn search 30M Hacker news posts](https://deephn.org) ([ref](https://news.ycombinator.com/item?id=26791582))
@@ -53,6 +53,13 @@
 * [Semantically search ArXiv papers](https://papermatch.mitanshu.tech/)
 * [Manx](https://manx-docs.org/about.php) - a catalog of manuals for old computers  
 * [Wikenigma - an Encyclopedia of Unknowns](https://wikenigma.org.uk/start)  
+* [Standard Ebooks](https://standardebooks.org) - liberated ebooks, carefully produced for the true book lover  
+
+## remove paywall
+* [smry.ai](https://www.smry.ai/proxy?url=https://www.eviemagazine.com/post/feminism-made-me-miserable-so-i-left/)
+* [12ft](https://12ft.io/https://www.eviemagazine.com/post/feminism-made-me-miserable-so-i-left/)
+* [paywallbuster](https://paywallbuster.com/)
+* [removepaywall](https://www.removepaywall.com/)
 
 ## translators
 * [DocTranslator](https://www.onlinedoctranslator.com/en/translationform) - Translate PDF and outputs PDF, at the moment Yandex / Google cant do this.
@@ -412,13 +419,23 @@
 * [pcsolucionesec](https://pcsolucionesec.com/) [[2](https://elreseteador.com/)]
 * [camosystemsperu](https://camosystemsperu.com/)  
 
-## torrent
-* [1337x](https://1337x.st/)
-* [torrentgalaxy](https://torrentgalaxy.to/)
-* [RARBG](https://rargb.to/)
-* [EZTV](https://eztv.ag/)
-* [YIFY](https://yts.ag/)
-* [thepiratebay](https://thepiratebay.org)  
+## sharing
+* ## torrent
+	* [1337x](https://1337x.st/)
+	* [torrentgalaxy](https://torrentgalaxy.to/)
+	* [RARBG](https://rargb.to/)
+	* [EZTV](https://eztv.ag/)
+	* [YIFY](https://yts.ag/)
+	* [thepiratebay](https://thepiratebay.org)  
+* ## dc++ clients
+	* [official](https://dcplusplus.sourceforge.io/)
+	* [StrongDC++](https://sourceforge.net/projects/strongdc/)
+	* [FlylinkDC++](https://sourceforge.net/projects/flyllnkdc/)
+	* [AirDC++](https://github.com/airdcpp/airdcpp-windows)
+* ## soulseek clients
+	* [official](https://www.slsknet.org/)
+	* [nicotine+](https://nicotine-plus.org/)
+	* [slskd](https://github.com/slskd/slskd) - for linux, CLI with web interface
 
 ## news
 * [Reuters](https://www.reuters.com/)
