@@ -232,6 +232,7 @@
 		* [Regex Storm .NET](http://regexstorm.net/tester)
 		* [Regexr JS](https://regexr.com/) - Regex evaluator, explains the steps in detail
 		* [C# Regex Tester](https://lsvhome.github.io/regex-tester/)
+		* [Python Regex Tester](https://pythonium.net/regex)
 	* json
 		* [Convert JSON to PHP Array Online](https://wtools.io/convert-json-to-php-array)  
 		* [Convert JSON to any language class](https://app.quicktype.io/)
@@ -240,6 +241,7 @@
 * [RecipeUI](https://recipeui.com/) - Open-source Postman alternative with type safety
 * [Bruno](https://www.usebruno.com/) - open-source API client Postman alternative
 * [yaak](https://github.com/mountain-loop/yaak) - open-source API client Postman alternative
+* [Jsoning](https://jsoning.com/api/) -  open-source Mock API
 * [codeberg](https://codeberg.org/) - git alternative  
 
 ## music
