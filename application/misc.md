@@ -498,6 +498,10 @@ copy /b *.txt all.txt
 * delete bin/obj folders recursive  
 >for /d /r %i in (bin obj) do @if exist "%i" rd /s /q "%i"  
 
+* base64 encode/decode through Windows certutil.exe  
+> certutil -encode source.txt dest.txt  
+> certutil -decode dest.txt. source.txt  
+
 ## sample powershell scripts
 
 ```bash
