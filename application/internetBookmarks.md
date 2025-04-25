@@ -54,6 +54,7 @@
 * [Manx](https://manx-docs.org/about.php) - a catalog of manuals for old computers  
 * [Wikenigma - an Encyclopedia of Unknowns](https://wikenigma.org.uk/start)  
 * [Standard Ebooks](https://standardebooks.org) - liberated ebooks, carefully produced for the true book lover  
+* [judyrecords](https://www.judyrecords.com/) - Full Text Search of US Court records  
 
 ## remove paywall
 * [smry.ai](https://www.smry.ai/proxy?url=https://www.eviemagazine.com/post/feminism-made-me-miserable-so-i-left/)
