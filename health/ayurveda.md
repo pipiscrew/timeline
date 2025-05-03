@@ -368,7 +368,7 @@ source - (2006) [Premila.Ayurvedic Herbs - A Clinical Guide to the Healing Plant
 * coffee pot
 
 liquidify 
-* add ghee to dropper base with a spoon
+* add [ghee](https://www.amazon.de/-/en/dennree-Ghee-240-g-Organic/dp/B079CPP8XL) to dropper base with a spoon
 * make warm water to coffee pot (not boil), remove from heating
 * sink the dropper base into the coffee pot for 1 minute
 * use the dropper
