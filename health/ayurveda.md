@@ -360,6 +360,40 @@ source - (2006) [Premila.Ayurvedic Herbs - A Clinical Guide to the Healing Plant
 
 ---
 
+## ghee nose drops
+
+* dropper with base
+* spoon
+* coffee pot
+
+liquidify 
+* add ghee to dropper base with a spoon
+* make warm water to coffee pot (not boil), remove from heating
+* sink the dropper base into the coffee pot for 1 minute
+* use the dropper
+
+![img](../assets/ghee_drops.jpg) 
+
+implementation 
+* tilt your head back while sitting on a chair or lying down
+* with one hand keep the `left nostril` close
+* with the other, hold the dropper and pour to `right nostril` 1-2 drops
+* with the `mouth open`, noise inhale [[2](https://www.instagram.com/ayurvedic_healing/reel/CxS3F0avLs3/)]
+* repeat to the other nostril
+* rub the nose from outside so that the ghee is smeared on the inner walls [[2](https://gomatabliss.org/store/ghee-nasal-drops-15ml/)]
+* dont drink anything for 15 minutes  
+
+> Your nose is the only direct window to your brain  
+
+When there is no time for liquidifation, the user can rub ghee inside nostrils with little finger. [vivek joshi](https://youtu.be/zCjUw8ppvr0?t=112)
+
+ref:
+* [all about](https://www.anveshan.farm/blogs/anveshan-blog/cow-ghee-in-nose)
+* [boon for your eyes](https://www.youtube.com/watch?v=2T0JGLOYPYA)
+* [one tablespoon ghee in 1 glass warm milk with a dash of turmeric](https://timesofindia.indiatimes.com/life-style/food-news/did-you-know-about-these-desi-ghee-home-remedies/photostory/78432436.cms)
+
+---
+
 ## CCF Tea
 
 * Coriander seeds
