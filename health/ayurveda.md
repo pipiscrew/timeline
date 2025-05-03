@@ -356,8 +356,9 @@ source - (2006) [Premila.Ayurvedic Herbs - A Clinical Guide to the Healing Plant
 * (1983) [Index Of The Available Medicinal Plants](https://www.researchgate.net/publication/224898784_An_index_of_the_available_medicinal_plants_used_in_Indian_system_of_medicine_from_Jammu_and_Kashmir_State)
 * (2025) [Ayurvedic Recipes For Gut Health](https://www.nextlevelfunctionalnutrition.com/wp-content/uploads/2025/01/17-Ayurvedic-Recipes-For-Gut-Health.pdf)  
 * (music) [Sohini Mishra - Adharam Madhuram](https://www.youtube.com/watch?v=tBgNpc39FJk)
-    * [Asha - Best Of](https://www.youtube.com/watch?v=Rd-KljMbmR8)  
-
+    * [Asha - Best Of](https://www.youtube.com/watch?v=Rd-KljMbmR8)
+    * [Mood Music](https://www.youtube.com/watch?v=Z7ASguHLjuY)  
+    
 ---
 
 ## ghee nose drops
