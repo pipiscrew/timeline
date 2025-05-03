@@ -59,7 +59,7 @@ git config --global credential.interactive never
 * like git - https://git.nixnet.services/Narsil/desktop_user.js
 * like git - https://git.nolog.cz/mdivecky/headline
 * like git - https://gitee.com/vcs-all-in-one/git-repo-go
-* [gitstack] - git server for windows, warning [vulnerability](https://www.exploit-db.com/exploits/43777) &nbsp; ([issue](https://github.com/smart-mobile-software/gitstack/issues/181))  
+* [gitstack](https://gitstack.com/) - git server for windows, warning [vulnerability](https://www.exploit-db.com/exploits/43777) &nbsp; ([issue](https://github.com/smart-mobile-software/gitstack/issues/181))  
 * [CVS](http://cvs.nongnu.org/) - concurrent versions system  
 * [First Pull Request](https://firstpr.me/)  
 * [Active GitHub Forks](https://techgaun.github.io/active-forks/)
