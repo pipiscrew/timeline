@@ -380,7 +380,7 @@ implementation
 * with the other, hold the dropper and pour to `right nostril` 1-2 drops
 * with the `mouth open`, noise inhale [[2](https://www.instagram.com/ayurvedic_healing/reel/CxS3F0avLs3/)]
 * repeat to the other nostril
-* rub the nose from outside so that the ghee is smeared on the inner walls [[2](https://gomatabliss.org/store/ghee-nasal-drops-15ml/)]
+* rub the nose from outside so the ghee is smeared on the inner walls [[2](https://gomatabliss.org/store/ghee-nasal-drops-15ml/)]
 * dont drink anything for 15 minutes  
 
 > Your nose is the only direct window to your brain  
