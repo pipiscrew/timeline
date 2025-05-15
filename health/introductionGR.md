@@ -211,7 +211,7 @@ _Η αποθήκευση γλυκογόνου είναι αρκετά μικρή
 - Τριαντάφυλλο (Rosa hybrida)
 - Γαρύφαλλο (Dianthus caryophyllus)  
 
-> **11/2023** - Η Επιτροπή εγκρίνει ανανέωση για 10 χρόνια - Η γλυφοσάτη έχει εγκριθεί επί του παρόντος ως δραστική ουσία στην Ευρωπαϊκή Ένωση έως τις **12/2033**. [[1](https://food.ec.europa.eu/plants/pesticides/approval-active-substances-safeners-and-synergists/renewal-approval/glyphosate_en)]  
+> **11/2023** - Η Επιτροπή εγκρίνει ανανέωση για 10 χρόνια - Η γλυφοσάτη έχει εγκριθεί επί του παρόντος ως δραστική ουσία στην Ευρωπαϊκή Ένωση έως **12/2033**. [[1](https://food.ec.europa.eu/plants/pesticides/approval-active-substances-safeners-and-synergists/renewal-approval/glyphosate_en)]  
 
 πηγές :
 * <https://www.bayer.com/en/agriculture/gmo-biotechnology>
