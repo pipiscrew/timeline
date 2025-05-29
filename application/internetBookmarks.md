@@ -13,6 +13,7 @@
 * [arXiv](https://arxiv.org/) - Search an archive for millions scholarly articles in the fields of physics, mathematics, computer science, quantitative biology, quantitative finance, statistics, electrical engineering and systems science, and economics. 
   * [ScholArxiv](https://github.com/dagmawibabi/ScholArxiv) - search arXiv by mobile
   * [ArXivTok](https://arxivtok.vercel.app/) - Browse ArXiv papers with a TikTok-style [[2](https://github.com/Miguel07Alm/arxivtok)]
+  * [arXiv Xplorer](https://arxivxplorer.com/) - The Semantic Search Engine for ArXiv
 * [Google.Scholar](https://scholar.google.gr/scholar?hl=en&q=gmo) - Freely accessible web search engine that indexes the full text or metadata of scholarly literature
 * [Directory of Open Access Journals](http://www.doaj.org/)
 * [Google.Dataset Search](https://datasetsearch.research.google.com/)
@@ -122,6 +123,7 @@
 
 
 ## videos
+* (client side) [ClipJS](https://clipjs.vercel.app/) - online video editor
 * [piped](https://piped.video/) - alternative privacy-friendly YouTube frontend [github](https://github.com/TeamPiped/Piped)
 * [Invidious](https://invidious.snopyta.org/)
 	* [mirrors](https://redirect.invidious.io/)
