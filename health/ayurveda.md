@@ -391,7 +391,10 @@ When there is no time for liquidifation, the user can rub ghee inside nostrils w
 ref:
 * [all about](https://www.anveshan.farm/blogs/anveshan-blog/cow-ghee-in-nose)
 * [boon for your eyes](https://www.youtube.com/watch?v=2T0JGLOYPYA)
-* [one tablespoon ghee in 1 glass warm milk with a dash of turmeric](https://timesofindia.indiatimes.com/life-style/food-news/did-you-know-about-these-desi-ghee-home-remedies/photostory/78432436.cms)
+* [one tablespoon ghee in 1 glass warm milk with a dash of turmeric](https://timesofindia.indiatimes.com/life-style/food-news/did-you-know-about-these-desi-ghee-home-remedies/photostory/78432436.cms) [[2](https://timesofindia.indiatimes.com/life-style/food-news/how-a-glass-of-ghee-turmeric-milk-can-benefit-you/photostory/96024578.cms)]
+    * 1/2 tsp ghee
+    * 1/2 tsp tumeric
+    * pinch of pepper  
 
 ---
 
@@ -501,3 +504,7 @@ Scoop the avocado into a high-powered blender. Add the coconut water, date, cinn
 
 * [sarantabotano](https://sarantabotano.gr/sxetika-me-mas/)
 * [ethnos](https://www.ethnos.gr/foodanddrink/article/54053/sarantabotanohsarantadentritomagikokrhtikobrastari)
+
+---
+
+* Ayurveda - [Onion Juice for Extreme Hair Growth](https://www.youtube.com/watch?v=y29tJpldBok) - explained by charlatan, greeted by the crowd ( in 5 days / 37k likes )

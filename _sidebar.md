@@ -45,6 +45,7 @@
 		* [Awesome .NET Obfuscators](https://github.com/NotPrab/.NET-Obfuscator)
 		* [Awesome .NET Deobfuscators](https://github.com/NotPrab/.NET-Deobfuscator)
 		* [Awesome RaspberryPi](https://github.com/thibmaek/awesome-raspberry-pi)
+		* [Book of Secret Knowledge](https://github.com/trimstray/the-book-of-secret-knowledge)
 * [Health]
 	* [introduction](/health/introduction.md)
 	* [εισαγωγή](/health/introductionGR.md)

@@ -54,3 +54,4 @@
 * [drawdb](https://drawdb.vercel.app/) - database diagram editor
 * [Frame0](https://frame0.app/) - A Balsamiq-alternative lo-fi wireframe tool for modern apps
 * [inscribed](https://inscribed.app)  
+* [cryptobees.miMind](https://mimind.cryptobees.com/) - A multi-purpose and cross-platform + mobile mind mapping software

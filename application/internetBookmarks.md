@@ -56,6 +56,7 @@
 * [Wikenigma - an Encyclopedia of Unknowns](https://wikenigma.org.uk/start)  
 * [Standard Ebooks](https://standardebooks.org) - liberated ebooks, carefully produced for the true book lover  
 * [judyrecords](https://www.judyrecords.com/) - Full Text Search of US Court records  
+* [LibriVox](https://librivox.org/) - Free public domain audiobooks  
 
 ## remove paywall
 * [smry.ai](https://www.smry.ai/proxy?url=https://www.eviemagazine.com/post/feminism-made-me-miserable-so-i-left/)
@@ -290,7 +291,8 @@
 * [perplexity](https://www.perplexity.ai/) - Chat Interface to Search Engine  
 * [GigaBrain - A Reddit Search Engine](https://thegigabrain.com/)
 * [Reddit Search](https://redditsearch.xyz/) -  via Google Search  
-* [Stract](https://stract.com/) - Open-souce, non-profit search engine  
+* [Stract](https://stract.com/) - Open-source, non-profit search engine  
+* [Mullvad Leta](https://leta.mullvad.net) - proxy to Google and Brave  
 
 ## url helpers
 * [is.gd](https://is.gd/) - url shortener

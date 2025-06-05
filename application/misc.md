@@ -310,6 +310,7 @@ The sequence is :
   * [archive.msdn-full](https://archive.org/download/msdn-full)
 * [ChrisTitusTech/winutil](https://github.com/ChrisTitusTech/winutil) - tweaks  
 * [DISMTools](https://github.com/CodingWonders/DISMTools) - manage your Windows Imaging (WIM) files  
+* [CrapFixer](https://github.com/builtbybel/CrapFixer) - fixes the crap Windows leaves behind  
 
 ## Games
 * [eXoDOS](http://exodos.the-eye.us/)

@@ -77,6 +77,7 @@ git config --global credential.interactive never
 * [java - JD GUI](http://java-decompiler.github.io/)  
 * [JPEXS Flash Decompiler](https://github.com/jindrapetrik/jpexs-decompiler)
 * [Cryptpad](https://cryptpad.fr/) - Real-time collaborative kanban, whiteboard, docs, polls, todos  
+* [kan.bn](https://github.com/kanbn/kan) - open source Trello alternative
 * [bitrix24](https://www.bitrix24.com/) - collaborate  
 * [WinAPI Search](https://dennisbabkin.com/winapisearch/)  
 * [PuTTY + PuTTY Key Generator](https://www.puttygen.com/download-putty) - ref [SuperPuTTY](https://www.puttygen.com/superputty) (frontend to provide tabbed PuTTY)

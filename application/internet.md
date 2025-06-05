@@ -164,7 +164,7 @@ Chrome start with
   * [Vytal](https://github.com/z0ccc/Vytal) -  spoofs your location data [tester](https://vytal.io/)
   * [AdGuard AdBlocker MV3 Experimental](https://chrome.google.com/webstore/detail/adguard-adblocker-mv3-exp/apjcbfpjihpedihablmalmbbhjpklbdf)
   * [Ghostery](https://www.ghostery.com/) - Block Ads, Stop Trackers, and Speed Up Websites [firefox](https://addons.mozilla.org/en-US/firefox/addon/ghostery/) / [chrome](https://chrome.google.com/webstore/detail/ghostery-%E2%80%93-privacy-ad-blo/mlomiejdfkolichcflejclcbmpeaniij)
-  * [magnolia.Bypass Paywalls Clean](https://gitlab.com/magnolia1234/bypass-paywalls-chrome-clean/-/issues/45) - Allows you to read articles from websites that implement a paywall. [github](https://github.com/bpc-clone?tab=repositories) [github-latest](https://github.com/bpc-clone/bpc_updates/releases/tag/latest) [twitter](https://twitter.com/Magnolia1234B)
+  * [magnolia.Bypass Paywalls Clean](https://gitflic.ru/user/magnolia1234) - Allows you to read articles from websites that implement a paywall. [github](https://github.com/bpc-clone?tab=repositories) [github-latest](https://github.com/bpc-clone/bpc_updates/releases/tag/latest) [twitter](https://twitter.com/Magnolia1234B)
     * [Use only 'uBlock Origin' and the filters by magnolia1234 repo](https://www.ghacks.net/2023/02/13/mozilla-removes-bypass-paywalls-clean-extension-from-its-add-ons-repository/)
     * [how to](https://www.youtube.com/channel/UCeDuSy0mmE-3bEDJVINA3-g/videos)
       * [Disable Cookies](https://chrome.google.com/webstore/detail/disable-cookies/lkmjmficaoifggpfapbffkggecbleang)
