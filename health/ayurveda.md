@@ -393,7 +393,7 @@ ref:
 * [boon for your eyes](https://www.youtube.com/watch?v=2T0JGLOYPYA)
 * [one tablespoon ghee in 1 glass warm milk with a dash of turmeric](https://timesofindia.indiatimes.com/life-style/food-news/did-you-know-about-these-desi-ghee-home-remedies/photostory/78432436.cms) [[2](https://timesofindia.indiatimes.com/life-style/food-news/how-a-glass-of-ghee-turmeric-milk-can-benefit-you/photostory/96024578.cms)]
     * 1/2 tsp ghee
-    * 1/2 tsp tumeric
+    * 1/2 tsp turmeric
     * pinch of pepper  
 
 ---
