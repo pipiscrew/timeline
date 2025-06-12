@@ -120,6 +120,7 @@
 * [safeyouth](https://www.safeyouth.gov.gr/)  
 * [Ηλεκτρονικό Πινάκιο](https://pinakio.gov.gr/)  
 * [OpenCar](https://opencar.services.gov.gr) - πληκτρολογώντας απλά τον αριθμό κυκλοφορίας  
+* [akinhta](https://akinita.gov.gr) - γονικές παροχές, δωρεές και κληρονομιές  
 
 ---
   

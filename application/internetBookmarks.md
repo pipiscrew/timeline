@@ -111,6 +111,7 @@
 * [onetimesecret](https://onetimesecret.com/) - one time paste
 * [sharrr](https://www.sharrr.com/) - one time file share
 * [Hyper Notepad](https://hypernotepad.com/) - share notes for ever
+* [PinSend](https://pinsend.app) - share text between devices using a PIN
 * [ArchiveBox - Your own personal internet archive](https://archivebox.io/)
   * [2](https://github.com/ArchiveBox/ArchiveBox)
 * [archive.today](https://archive.ph/) - Archive any webpage ([mirror](https://archive.ph/))
