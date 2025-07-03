@@ -508,4 +508,4 @@ Scoop the avocado into a high-powered blender. Add the coconut water, date, cinn
 ---
 
 * Ayurveda - [Onion Juice for Extreme Hair Growth](https://www.youtube.com/watch?v=y29tJpldBok) - explained by charlatan, greeted by the crowd ( in 5 days / 37k likes )
-* [shampoo](https://www.youtube.com/watch?v=PR4K9rtWVJA) - 2 tbsp flour / 260ml boiling water - mix - let it sit to reach room temperature (pH for head is 5, mix is pH 7)
+* [shampoo](https://www.youtube.com/watch?v=PR4K9rtWVJA) - 1 tbsp flour / 130ml warm water (not boiling) - mix - let it sit to reach room temperature (pH for head is 5, mix is pH 7)

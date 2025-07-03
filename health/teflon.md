@@ -12,6 +12,9 @@ for reference, nowadays statistics :
 
 It's important to remember that Teflon was developed and marketed decades ago, nowadays, with more knowledge and studies, the **concerns** have been **raised** and it's important to be aware of the potential risks and take precautions when using Teflon-coated cookware, such as using them on low to medium heat and avoiding preheating empty pans or better not using it at all.  
 
+ref :  
+* [PPG - PTFE liquid coating](https://www.ppg.com/en-US/industrialcoatings/liquid-coatings) - scroll down and click to Kitchenware ;) ;)
+
 Real story [The Lawyer Who Became DuPont’s Worst Nightmare](https://www.nytimes.com/2016/01/10/magazine/the-lawyer-who-became-duponts-worst-nightmare.html) ([mirror](https://www.dropbox.com/s/4u6ztu4ew98ckug/Lawyer%20Who%20Became%20DuPont%20Worst%20Nightmare.pdf?dl=0))  
 * **In December 2011**, the scientists began to release their findings: there was a `probable link` between `PFOA` and kidney cancer, testicular cancer, thyroid disease, high cholesterol, pre-eclampsia and ulcerative colitis and imagine how many other as they 'own' the scientists.  
 

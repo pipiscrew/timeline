@@ -335,6 +335,7 @@
 * [musicforum](https://musicforum.club/)
 * [mazterize](https://www.mazterize.com/)
 * [Vogons Vintage Driver Library](http://www.vogonsdrivers.com/) - collection of drivers for vintage hardware
+* (client side) [pymsi](https://pymsi.readthedocs.io/en/latest/msi_viewer.html) - inspect and extract files from MSI installers directly in your browser [[2](https://github.com/nightlark/pymsi)]
 
 ## games
 * [JavaScript NES emulator](https://jsnes.fir.sh/)
