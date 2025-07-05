@@ -8,12 +8,14 @@ for reference, nowadays statistics :
 * [PFAS in the US Population](https://www.atsdr.cdc.gov/pfas/health-effects/us-population.html)  
 * (2024) - [Millions may rely on groundwater contaminated with PFAS for drinking water](https://phys.org/news/2024-10-millions-groundwater-contaminated-pfas.html)
 * (2024) - [It's raining PFAS in South Florida](https://www.sciencedirect.com/science/article/abs/pii/S1309104224002678)
+* (2025) - [Chemours.Teflon - tries to block EU forever chemicals ban](https://www.politico.eu/article/chemours-chemicals-block-european-pfas-ban-claim-corporate-europe-observatory/)
+    * (2022) - [PTFE safe cousin of toxic PFAS. But is it really?](https://chemsec.org/the-teflon-chemical-ptfe-is-often-touted-as-a-safe-cousin-of-toxic-pfas-but-is-it-really/)
 * [«Αιώνια Ρύπανση»: Η ανεπανόρθωτη βλάβη των PFAS και η Ελλάδα που δεν θέλει να ξέρει](https://www.reportersunited.gr/10499/forever-pollution/)  
 
 It's important to remember that Teflon was developed and marketed decades ago, nowadays, with more knowledge and studies, the **concerns** have been **raised** and it's important to be aware of the potential risks and take precautions when using Teflon-coated cookware, such as using them on low to medium heat and avoiding preheating empty pans or better not using it at all.  
 
 ref :  
-* [PPG - PTFE liquid coating](https://www.ppg.com/en-US/industrialcoatings/liquid-coatings) - scroll down and click to Kitchenware ;) ;)
+* [PPG - PTFE liquid coating](https://www.ppg.com/en-US/industrialcoatings/liquid-coatings) - scroll down and click to Kitchenware
 
 Real story [The Lawyer Who Became DuPont’s Worst Nightmare](https://www.nytimes.com/2016/01/10/magazine/the-lawyer-who-became-duponts-worst-nightmare.html) ([mirror](https://www.dropbox.com/s/4u6ztu4ew98ckug/Lawyer%20Who%20Became%20DuPont%20Worst%20Nightmare.pdf?dl=0))  
 * **In December 2011**, the scientists began to release their findings: there was a `probable link` between `PFOA` and kidney cancer, testicular cancer, thyroid disease, high cholesterol, pre-eclampsia and ulcerative colitis and imagine how many other as they 'own' the scientists.  
