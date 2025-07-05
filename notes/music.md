@@ -18,3 +18,4 @@
 * [awesome-music-production](https://github.com/ad-si/awesome-music-production)
 * [How The Ear Works](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2888317/)
 * [Freetar - an alternative front end for ultimate-guitar](https://freetar.androidloves.me/) [[2](https://github.com/kmille/freetar)]
+* [The Death of the Middle-Class Musician](https://thewalrus.ca/the-death-of-the-middle-class-musician/)
