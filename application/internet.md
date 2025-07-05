@@ -192,6 +192,7 @@ Chrome start with
   * [LibRedirect](https://github.com/libredirect/libredirect) Redirect YouTube, Twitter, Instagram to privacy friendly services ([nitter](https://github.com/zedeus/nitter/wiki/Extensions)) [[privacy-redirect](https://github.com/SimonBrazell/privacy-redirect)]
     * [nitter is up again](https://xcancel.com/x) [[2](https://github.com/zedeus/nitter/wiki/Instances)]
     * [nitter is up again](https://nitter.lucabased.xyz/x)
+    * [2025 nitter is up again](https://xcancel.com/x)
     * [Neuters](https://neuters.de/about) - Lightweight front end to Reuters News
   * [UnclutterIT](https://unclutter.it/) - reader Mode, but better  
   * [WebStickies](https://lawrencehook.com/ws/) - Sticky notes for the internet 
