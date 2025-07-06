@@ -561,7 +561,10 @@ We all **fear** heart attacks, we **worry** that they can just happen like **out
 * [Patients say keto helps with their mental illness](https://www.npr.org/sections/health-shots/2024/01/27/1227062470/keto-ketogenic-diet-mental-illness-bipolar-depression) - [[video](https://www.youtube.com/watch?v=x51HuJq0YCw)]  
 * [Thoughts on seed oil](https://dynomight.substack.com/p/seed-oil)  
 * [Dr. Pradip Jamnadas - Fasting For Survival Lecture](https://youtu.be/RuOvn4UqznU?t=1084)
-* (17/05/2024) [A long-term ketogenic diet accumulates aged cells in normal tissues](https://dx.doi.org/10.1126/sciadv.ado1463) [[2](https://medicalxpress.com/news/2024-05-term-ketogenic-diet-accumulates-aged.html)]  
+* (17/05/2024) [A long-term ketogenic diet accumulates aged cells in normal tissues](https://dx.doi.org/10.1126/sciadv.ado1463) [[2](https://medicalxpress.com/news/2024-05-term-ketogenic-diet-accumulates-aged.html)]
+* (05/07/2025) [A day before my 47th birthday made a CAC](https://www.vox.com/future-perfect/418849/heart-attack-deaths-cardiovascular-disease-progress-medicine)
+  * [MESA Risk Score and Coronary Age Calculator](https://internal.mesa-nhlbi.org/about/procedures/tools/mesa-score-risk-calculator)
+  * [Dr Oracle - Medical AI - how to interpret CAC](https://www.droracle.ai/articles/21304/agatston-score-how-to-interprete)
 
 Here’s a summary of the valuable measures that can be gleaned from the standard cholesterol tests.  
 * **Triglyceride** should be safely below 80 to 100 mg/dL.
