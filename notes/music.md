@@ -19,3 +19,5 @@
 * [How The Ear Works](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2888317/)
 * [Freetar - an alternative front end for ultimate-guitar](https://freetar.androidloves.me/) [[2](https://github.com/kmille/freetar)]
 * [The Death of the Middle-Class Musician](https://thewalrus.ca/the-death-of-the-middle-class-musician/)
+* [Radium - The Music Editor](https://href.li/?http://users.notam02.no/~kjetism/radium/)
+* [Sheet music scanner](https://www.soundslice.com/sheet-music-scanner/) [[2](https://www.holovaty.com/writing/chatgpt-fake-feature/)]
