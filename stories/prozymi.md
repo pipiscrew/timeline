@@ -54,6 +54,7 @@
 
 reference :  
 * [Πελίτι - Ψωμί με προζύμι](https://peliti.gr/psomi-me-prozymi/)
-* [Στέλιος - Προζύμι Αναπίασμα & Διατήρηση](https://www.youtube.com/watch?v=llpEKXWoVA4) [[2](https://www.youtube.com/watch?v=U8PIvqH5Mck)]  
+* [Στέλιος - Πως φτιάχνουμε Προζύμι](https://www.youtube.com/watch?v=U8PIvqH5Mck)
+  * [Προζύμι Αναπίασμα & Διατήρηση](https://www.youtube.com/watch?v=llpEKXWoVA4)
 * [Πελίτι - Ανάπιασμα προζυμιού](https://peliti.gr/anapiasma-prozymiou-mia-vathia-politiki-praksi/)
 * [Πελίτι - Διατροφική αυτάρκεια](https://peliti.gr/vadizontas-pros-tin-aftarkeia/)
