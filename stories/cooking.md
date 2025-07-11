@@ -124,7 +124,6 @@
 * ψωμί σε [airfryer](https://www.youtube.com/watch?v=l5HDMPgWF5Y)
 * [διαβάστε](https://www.pipiscrew.com/threads/%CE%91%CE%B3%CE%BF%CF%81%CE%AC.11394/post-111726) για το ψωμί.  
 * η [Γιώτης.Φαρίνα](https://i.imgur.com/PUTYcJa.jpeg) έχει 'Ε'. Στην ουσία είναι αλεύρι με baking powder.  
-* [Προζύμι Αναπίασμα & Διατήρηση](https://www.youtube.com/watch?v=llpEKXWoVA4) [[2](https://www.youtube.com/watch?v=U8PIvqH5Mck)]  
 
 # Όσπρια στην χύτρα
 * [Φακές](https://www.argiro.gr/recipe/fakes-sti-xytra/) [[2](https://akispetretzikis.com/recipe/6941/fakes-sth-xytra-taxythtas)]

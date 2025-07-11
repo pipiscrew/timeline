@@ -76,6 +76,7 @@
 	* [teflon](/health/teflon.md)
 * [Stories]
 	* [cooking](/stories/cooking.md)
+	* [prozymi](/stories/prozymi.md)
 	* [covid](/stories/wcovid.md)
 	* [covidGR](/stories/wcovidGR.md)
 	* [greece](/stories/greece.md)
