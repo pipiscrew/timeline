@@ -1,5 +1,5 @@
 ## 2025/07
-  * [aOpenAI to release web browser](https://www.reuters.com/business/media-telecom/openai-release-web-browser-challenge-google-chrome-2025-07-09/)
+  * [bOpenAI to release web browser](https://www.reuters.com/business/media-telecom/openai-release-web-browser-challenge-google-chrome-2025-07-09/)
   * [Biomni - A General-Purpose Biomedical AI Agent](https://github.com/snap-stanford/Biomni)
   * [Grok 4 Launch](https://xcancel.com/xai)
     * [2](https://news.ycombinator.com/item?id=44517055)
@@ -46,7 +46,7 @@
   * [Repaste Your MacBook](https://christianselig.com/2025/07/repaste-macbook/)
   * [Top DNS domains seen on the Quad9 recursive resolver array each day](https://github.com/Quad9DNS/quad9-domains-top500)
   
-  ## 2025/06
+## 2025/06
   * [Remote MCP Support in anthropic.Claude Code](https://www.anthropic.com/news/claude-code-remote-mcp?campaignId=13926158&source=i_email&medium=email&content=Oct2024AnalysisTool&messageTypeId=140367)
   * [anthropic.Claude Code for VSCode](https://marketplace.visualstudio.com/items?itemName=anthropic.claude-code)
   * [MS.Copilot Chat in VS Code is now open source](https://github.com/microsoft/vscode-copilot-chat)
