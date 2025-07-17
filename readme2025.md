@@ -234,7 +234,7 @@
   * [(repost) LibRedirect - A web extension to redirects YouTube, X, etc, to privacy-friendly front ends](https://libredirect.github.io)
   * [Git Notes - Git coolest, most unloved feature (2022)](https://tylercipriani.com/blog/2022/11/19/git-notes-gits-coolest-most-unloved-feature/)
   * [Harry Brearley, the creator of stainless steel (2016)](https://nautil.us/the-father-of-modern-metal-235939/)
-  * [Why do all browsers' user agents start with "Mozilla/"? (2008)](https://stackoverflow.com/q/1114254)
+  * [Why do all browsers' user agents start with "Mozilla"? (2008)](https://stackoverflow.com/q/1114254)
     * [2](https://news.ycombinator.com/item?id=44349845)
   * [Kilauea volcano, Hawaii live cam](https://www.youtube.com/watch?v=oG5zz9Sjw3E)
   * [EU rules for durable, energy-efficient and repairable smartphones and tablets](https://single-market-economy.ec.europa.eu/news/new-eu-rules-durable-energy-efficient-and-repairable-smartphones-and-tablets-start-applying-2025-06-20_en)
