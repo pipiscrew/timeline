@@ -1,5 +1,5 @@
   ## 2025/07
-  * [OpenAI to release web browser](https://href.li/?https://www.reuters.com/business/media-telecom/openai-release-web-browser-challenge-google-chrome-2025-07-09/)
+  * [aOpenAI to release web browser](https://href.li/?https://www.reuters.com/business/media-telecom/openai-release-web-browser-challenge-google-chrome-2025-07-09/)
   * [Biomni - A General-Purpose Biomedical AI Agent](https://href.li/?https://github.com/snap-stanford/Biomni)
   * [Grok 4 Launch](https://href.li/?https://xcancel.com/xai)
     * [2](https://href.li/?https://news.ycombinator.com/item?id=44517055)
