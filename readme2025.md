@@ -1,5 +1,5 @@
 ## 2025/07
-  * [OpenAI to release web browser](https://www.reuters.com/business/media-telecom/openai-release-web-browser-challenge-google-chrome-2025-07-09/)
+  * [aOpenAI to release web browser](https://www.reuters.com/business/media-telecom/openai-release-web-browser-challenge-google-chrome-2025-07-09/)
   * [Biomni - A General-Purpose Biomedical AI Agent](https://github.com/snap-stanford/Biomni)
   * [Grok 4 Launch](https://xcancel.com/xai)
     * [2](https://news.ycombinator.com/item?id=44517055)
@@ -47,8 +47,8 @@
   * [Top DNS domains seen on the Quad9 recursive resolver array each day](https://github.com/Quad9DNS/quad9-domains-top500)
   * [ETH Zurich and EPFL to release a LLM developed on public infrastructure](https://ethz.ch/en/news-and-events/eth-news/news/2025/07/a-language-model-built-for-the-public-good.html)
   * [Preliminary report into Air India crash released](https://aaib.gov.in/What%27s%20New%20Assets/Preliminary%20Report%20VT-ANB.pdf)
-  * [New Date("wtf") - How well do you know JavaScript Date class?](https://jsdate.wtf)
-  
+  * [New Date wtf - How well do you know JavaScript Date class?](https://jsdate.wtf)
+
   ## 2025/06
   * [Remote MCP Support in anthropic.Claude Code](https://www.anthropic.com/news/claude-code-remote-mcp?campaignId=13926158&source=i_email&medium=email&content=Oct2024AnalysisTool&messageTypeId=140367)
   * [anthropic.Claude Code for VSCode](https://marketplace.visualstudio.com/items?itemName=anthropic.claude-code)
