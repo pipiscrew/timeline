@@ -114,7 +114,7 @@
   * [Most people who buy games on Steam never play them](https://howtomarketagame.com/2025/06/03/most-people-who-buy-your-game-wont-play-it/)
   * [The Italian towns selling houses for €1](https://www.theguardian.com/society/2025/jul/08/the-life-swap-dream-or-a-marketing-gimmick-the-italian-towns-selling-houses-for-1)
 
-## 2025/06
+  ## 2025/06
   * [Remote MCP Support in anthropic.Claude Code](https://www.anthropic.com/news/claude-code-remote-mcp?campaignId=13926158&source=i_email&medium=email&content=Oct2024AnalysisTool&messageTypeId=140367)
   * [anthropic.Claude Code for VSCode](https://marketplace.visualstudio.com/items?itemName=anthropic.claude-code)
   * [MS.Copilot Chat in VS Code is now open source](https://github.com/microsoft/vscode-copilot-chat)
