@@ -1,5 +1,5 @@
-  ## 2025/07
-  * [aOpenAI to release web browser](https://href.li/?https://www.reuters.com/business/media-telecom/openai-release-web-browser-challenge-google-chrome-2025-07-09/)
+## 2025/07
+  * [OpenAI to release web browser](https://href.li/?https://www.reuters.com/business/media-telecom/openai-release-web-browser-challenge-google-chrome-2025-07-09/)
   * [Biomni - A General-Purpose Biomedical AI Agent](https://href.li/?https://github.com/snap-stanford/Biomni)
   * [Grok 4 Launch](https://href.li/?https://xcancel.com/xai)
     * [2](https://href.li/?https://news.ycombinator.com/item?id=44517055)
@@ -36,7 +36,7 @@
   * [Millions of Cars Exposed to Remote Hacking via PerfektBlue Attack](https://href.li/?https://www.securityweek.com/millions-of-cars-exposed-to-remote-hacking-via-perfektblue-attack/)
   * [Retail cyber attacks - NCA arrest four for attacks on M&S, Co-op and Harrods (aged 19, another aged 17, and a 20-year-old)](https://href.li/?https://www.nationalcrimeagency.gov.uk/news/retail-cyber-attacks-nca-arrest-four-for-attacks-on-m-s-co-op-and-harrods)
   * [Turkey bans Grok over Erdogan insults](https://href.li/?https://www.politico.eu/article/turkey-ban-elon-musk-grok-recep-tayyip-erdogan-insult/)
-  * [Leaping - Self-Improving Voice AI](https://href.li/?https://leapingai.com).)
+  * [Leaping - Self-Improving Voice AI](https://href.li/?https://leapingai.com)
   * [Apple vs the Law](https://href.li/?https://formularsumo.co.uk/blog/2025/apple-vs-the-law/)
   * [At Least 13 People Died by Suicide Amid U,K, Post Office Scandal, Report Says](https://href.li/?https://www.nytimes.com/2025/07/10/world/europe/uk-post-office-scandal-report.html)
   * [At Amazon Biggest Data Center, Everything Is Supersized for A,I](https://href.li/?https://www.nytimes.com/2025/06/24/technology/amazon-ai-data-centers.html)
@@ -199,7 +199,7 @@
   * [Backlog,md - CLI that auto-generates task files (took my Claude success to 95 %)](https://href.li/?https://github.com/MrLesk/Backlog.md)
   * [Bitchat - A decentralized messaging app that works over Bluetooth mesh networks (swift)](https://href.li/?https://github.com/jackjackbits/bitchat)
   * [Piano Trainer - Learn piano scales, chords and more using MIDI](https://href.li/?https://github.com/ZaneH/piano-trainer)
-  * [iOS - OffChess - 100k+ Offline, Ad-Free Chess Puzzles App](https://href.li/?https://apps.apple.com/us/app/chess-puzzles-offchess/id6744736661?platform=iphone%27]https://apps.apple.com/us/app/chess-puzzles-offchess/id67447...)
+  * [iOS - OffChess - 100k+ Offline, Ad-Free Chess Puzzles App](https://href.li/?https://apps.apple.com/us/app/chess-puzzles-offchess/id6744736661?platform=iphone)
   * [Europe first geostationary sounder satellite is launched](https://href.li/?https://www.eumetsat.int/europes-first-geostationary-sounder-satellite-launched)
   * [Cops in Spain, think everyone using a Google Pixel must be a drug dealer due GrapheneOS](https://href.li/?https://www.androidauthority.com/google-pixel-organized-crime-preferred-phone-3573578/)
   * [The Prime Reasons to Avoid Amazon](https://href.li/?https://blog.thenewoil.org/the-prime-reasons-to-avoid-amazon)
