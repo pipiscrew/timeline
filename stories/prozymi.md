@@ -56,6 +56,7 @@ reference :
 * [Πελίτι - Ψωμί με προζύμι](https://peliti.gr/psomi-me-prozymi/)
 * [Στέλιος - Πως φτιάχνουμε Προζύμι](https://www.youtube.com/watch?v=U8PIvqH5Mck)
   * [Προζύμι Αναπίασμα & Διατήρηση](https://www.youtube.com/watch?v=llpEKXWoVA4)
+* [Teresa - Sourdough Bread Baking 101](https://www.youtube.com/watch?v=x9ZkgaRyc7s&list=PLDqMWhgSTguH29hHARikCrgE3nA-_6IQH) [[2](https://www.youtube.com/@NorthwestSourdough/playlists)]
 * [Πελίτι - Ανάπιασμα προζυμιού](https://peliti.gr/anapiasma-prozymiou-mia-vathia-politiki-praksi/)
 * [Πελίτι - Διατροφική αυτάρκεια](https://peliti.gr/vadizontas-pros-tin-aftarkeia/)  
 
@@ -122,4 +123,4 @@ reference :
 * [Δίπλωμα και ξεκούραση ζυμαριού](https://prozymi.blogspot.com/2012/08/blog-post_27.html)
 * [Πώς "πιάνουμε" το προζύμι](https://prozymi.blogspot.com/2012/08/blog-post.html)
 
-[mirror for all](https://www.dropbox.com/scl/fi/s3i9cbt0m96kl1iz8yxl8/Siozos-Kostas-Flour-Theory-Techniques-2012.pdf?rlkey=37jlqjfqnt7sox6drpf0t09e9&st=fstml2bs&dl=1)
+[mirror for all](https://www.dropbox.com/scl/fi/s3i9cbt0m96kl1iz8yxl8/Siozos-Kostas-Flour-Theory-Techniques-2012.pdf?rlkey=37jlqjfqnt7sox6drpf0t09e9&st=fstml2bs&dl=1)  
