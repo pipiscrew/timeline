@@ -63,6 +63,7 @@
 * [12ft](https://12ft.io/https://www.eviemagazine.com/post/feminism-made-me-miserable-so-i-left/)
 * [paywallbuster](https://paywallbuster.com/)
 * [removepaywall](https://www.removepaywall.com/)
+* [freedium](https://freedium.cfd) - remove medium site, paywall  
 
 ## translators
 * [DocTranslator](https://www.onlinedoctranslator.com/en/translationform) - Translate PDF and outputs PDF, at the moment Yandex / Google cant do this.

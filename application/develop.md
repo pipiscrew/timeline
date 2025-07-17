@@ -105,6 +105,14 @@ git config --global credential.interactive never
   * [marketplace](https://marketplace.visualstudio.com/items?itemName=Oracle.oracle-java)
   * [github](https://github.com/oracle/javavscode)
 
+## Visual Studio
+```js
+//TargetFramework must exists to
+//C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework
+
+msbuild test.sln /p:TargetFrameworkVersion=v4.7 /p:DeployOnBuild=true /p:WebPublishMethod=FileSystem /p:DeleteExistingFiles=True /p:SkipInvalidConfigurations=true /p:PrecompileBeforePublish=true /p:ExcludeApp_Data=True /p:EnableUpdateable=True /p:WDPMergeOption="DonotMerge" /p:DebugSymbols=False /p:PublishProvider=FileSystem /p:SkipInvalidConfigurations=true
+```
+
 ## SQL Server Express
 * [2014x86x64](https://www.microsoft.com/en-US/download/details.aspx?id=42299)
 
