@@ -23,18 +23,7 @@
   * [The Death of Partying in the USA](https://www.derekthompson.org/p/the-death-of-partying-in-the-usaand)
   * [Configuring Split Horizon DNS with Pi-Hole and Tailscale](https://www.bentasker.co.uk/posts/blog/general/configuring-pihole-to-serve-different-records-to-different-clients.html)
   * [MCP server for searching and downloading documents from Anna Archive](https://github.com/iosifache/annas-mcp)
-  * [MCP-B - A Protocol for AI Browser Automation](https://mcp-b.ai/)
-  * [Would You Like an IDOR With That? Leaking 64m McDonald Job Applications](https://ian.sh/mcdonalds)
-  * [Solar power has begun to transform the world energy system](https://www.newyorker.com/news/annals-of-a-warming-planet/46-billion-years-on-the-sun-is-having-a-moment)
-  * [Understand CPU Branch Instructions Better](https://chrisfeilbach.com/2025/07/05/understand-cpu-branch-instructions-better/)
-  * [German court rules Meta tracking technology violates European privacy laws](https://therecord.media/german-court-meta-tracking-tech)
-  * [Optimizing a Math Expression Parser in Rust](https://rpallas.xyz/math-parser/)
-  * [Underwater turbine spinning for 6 years off Scotland coast is a breakthrough](https://apnews.com/article/tidal-energy-turbine-marine-meygen-scotland-ffff3a7082205b33b612a1417e1ec6d6)
-  * [IBM.Red Hat Technical Writing Style Guide](https://stylepedia.net/style/)
-  * [US utilities plot big rise in electricity rates as data centre demand booms](https://archive.vn/yxRqi)
-  * [Cactus - Ollama for Smartphones](https://github.com/cactus-compute/cactus)
-  * [Millions of Cars Exposed to Remote Hacking via PerfektBlue Attack](https://www.securityweek.com/millions-of-cars-exposed-to-remote-hacking-via-perfektblue-attack/)
-  
+    
 ## 2025/06
   * [Remote MCP Support in anthropic.Claude Code](https://www.anthropic.com/news/claude-code-remote-mcp?campaignId=13926158&source=i_email&medium=email&content=Oct2024AnalysisTool&messageTypeId=140367)
   * [anthropic.Claude Code for VSCode](https://marketplace.visualstudio.com/items?itemName=anthropic.claude-code)
