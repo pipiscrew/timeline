@@ -34,17 +34,6 @@
   * [US utilities plot big rise in electricity rates as data centre demand booms](https://archive.vn/yxRqi)
   * [Cactus - Ollama for Smartphones](https://github.com/cactus-compute/cactus)
   * [Millions of Cars Exposed to Remote Hacking via PerfektBlue Attack](https://www.securityweek.com/millions-of-cars-exposed-to-remote-hacking-via-perfektblue-attack/)
-  * [Retail cyber attacks - NCA arrest four for attacks on M&S, Co-op and Harrods (aged 19, another aged 17, and a 20-year-old)](https://www.nationalcrimeagency.gov.uk/news/retail-cyber-attacks-nca-arrest-four-for-attacks-on-m-s-co-op-and-harrods)
-  * [Turkey bans Grok over Erdogan insults](https://www.politico.eu/article/turkey-ban-elon-musk-grok-recep-tayyip-erdogan-insult/)
-  * [Leaping - Self-Improving Voice AI](https://leapingai.com)
-  * [Apple vs the Law](https://formularsumo.co.uk/blog/2025/apple-vs-the-law/)
-  * [At Least 13 People Died by Suicide Amid U,K, Post Office Scandal, Report Says](https://www.nytimes.com/2025/07/10/world/europe/uk-post-office-scandal-report.html)
-  * [At Amazon Biggest Data Center, Everything Is Supersized for A,I](https://www.nytimes.com/2025/06/24/technology/amazon-ai-data-centers.html)
-  * [Series of posts on HTTP status codes (2018)](https://evertpot.com/http/)
-  * [I'm Done with Social Media](https://www.carolinecrampton.com/im-done-with-social-media/)
-  * [Upgrading an M4 Pro Mac mini storage for half the price](https://www.jeffgeerling.com/blog/2025/upgrading-m4-pro-mac-minis-storage-half-price)
-  * [Repaste Your MacBook](https://christianselig.com/2025/07/repaste-macbook/)
-  * [Top DNS domains seen on the Quad9 recursive resolver array each day](https://github.com/Quad9DNS/quad9-domains-top500)
   
 ## 2025/06
   * [Remote MCP Support in anthropic.Claude Code](https://www.anthropic.com/news/claude-code-remote-mcp?campaignId=13926158&source=i_email&medium=email&content=Oct2024AnalysisTool&messageTypeId=140367)
