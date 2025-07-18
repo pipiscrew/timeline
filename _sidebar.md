@@ -5,7 +5,7 @@
 * [News 2022](./readme2022.md)
 * [News 2021](./readme2021.md)
 * [Applications]
-	* [test](./test/)
+	* [test](/test/)
 	* [Internet](/application/internet.md)
 	* [Bookmarks](/application/internetBookmarks.md)
 	* [PDF](/application/pdf.md)
