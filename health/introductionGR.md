@@ -408,6 +408,8 @@ _Η αποθήκευση γλυκογόνου είναι αρκετά μικρή
 
 reference - (2024) [Metabolic Endotoxemia - From the Gut to Neurodegeneration](https://doi.org/10.3390/ijms25137006)  
 
+(JUL/2025) [imidazole propionate molecule produced by gut bacteria causes atherosclerosis](https://english.elpais.com/health/2025-07-17/revolution-in-medicine-a-molecule-produced-by-gut-bacteria-causes-atherosclerosis-responsible-for-millions-of-deaths.html)  
+
 > **sdLDL** αποτελεί **καλύτερο προγνωστικό** παράγοντα καρδιαγγειακού κινδύνου (CV) **από** την LDL-C (aka LDL), <u>ακόμη και σε ασθενείς με χαμηλή χοληστερίνη</u> (LDL-C < 100mg/dL).
 Ομοίως, η [δοκιμή JUPITER](https://en.wikipedia.org/wiki/JUPITER_trial) συνέδεσε την __sdLDL__ με καρδιαγγειακούς θανάτους... <u>ακόμη και σε ασθενείς με πολύ χαμηλή</u> LDL-C. &nbsp; [πηγή](https://wholeheartfamilymed.com/advanced-testing/blood-work/lipids/sdldl)  
 

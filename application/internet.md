@@ -78,6 +78,8 @@ Tested with :
   * [TLS Fingerprint](https://tlsfingerprint.io/) - appears on first page
   * [No-JS fingerprinting](https://noscriptfingerprint.com/)  
   * [EFF online test](https://coveryourtracks.eff.org/) [[2](https://matanabudy.com/achieving-great-privacy-with-safari/)]  
+  * [theden.sysinfo](https://sysinfo.theden.sh/) [[2](https://github.com/TheDen/sysinfo/blob/main/index.html)]  
+
   --
   * [WebRTC Local IP Leak Test](https://niespodd.github.io/webrtc-local-ip-leak/) - Chromium based browsers leak user local IP via WebRTC foundation attribute  
 
