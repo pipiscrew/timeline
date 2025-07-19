@@ -23,6 +23,7 @@
 * Keepass - [KeePassDroid](https://play.google.com/store/apps/details?id=com.android.keepass)  
 * Youtube - [NewPipe](https://newpipe.net/)  
 * Notes - [PocketPlan](https://github.com/estep248/PocketPlan)  
+* [savewithfolio](https://savewithfolio.com/) - Pocket alternative
 * [AppKiller](https://play.google.com/store/apps/details?id=com.dp.appkiller) [[2](https://apkcombo.com/appkiller-force-stop-apps/com.dp.appkiller/)]
 * Server to share files - [WiFi File Transfer](https://play.google.com/store/apps/details?id=com.smarterdroid.wififiletransfer) 
 * Server to share files - [localsend](https://github.com/localsend/localsend) [[2](https://f-droid.org/packages/org.localsend.localsend_app/)]

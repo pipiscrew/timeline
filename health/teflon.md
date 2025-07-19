@@ -52,6 +52,7 @@ and also blood tests, for 'cookware' derived :
 * [Americans largely unaware of PFAS chemicals](https://phys.org/news/2023-11-americans-oblivious-chemicals.html)
 * [EPA orders packaging firm Inhance to stop making PFAS](https://cen.acs.org/environment/persistent-pollutants/US-EPA-orders-packaging-firm/101/web/2023/12)  
 * [New Zealand set to be first country to ban PFAS in cosmetic products](https://www.chemistryworld.com/news/new-zealand-set-to-be-first-country-to-ban-pfas-in-cosmetic-products/4018893.article)
+* [French villages have no more drinking water. The reason? PFAS pollution](https://www.lemonde.fr/en/environment/article/2025/07/18/these-french-villages-have-no-more-drinking-water-the-reason-pfas-pollution_6743479_114.html)  
 
 -----  
 

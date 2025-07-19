@@ -122,3 +122,17 @@ reference :
 * [Πώς "πιάνουμε" το προζύμι](https://prozymi.blogspot.com/2012/08/blog-post.html)
 
 [mirror for all](https://www.dropbox.com/scl/fi/s3i9cbt0m96kl1iz8yxl8/Siozos-Kostas-Flour-Theory-Techniques-2012.pdf?rlkey=37jlqjfqnt7sox6drpf0t09e9&st=fstml2bs&dl=1)  
+
+---
+
+## Bread Hydration and Conversion Calculator
+
+*   [https://breadcalc.com/](https://breadcalc.com/)
+*   [http://brdclc.com/](http://brdclc.com/)
+*   [https://sherwood.coffee/pages/dough-hydration-calculator](https://sherwood.coffee/pages/dough-hydration-calculator)
+
+reference :  
+
+*   [What happens if i add oil before water in doughs?](https://www.reddit.com/r/Cooking/comments/ippy0a/what_happens_if_i_add_oil_before_water_in_doughs/)
+    *   [Adding oil to flour before adding water when making dough](https://www.reddit.com/r/Breadit/comments/1cxl13z/question_about_adding_oil_to_flour_before_adding/)
+*   [How does fat affect gluten development?](https://annex.exploratorium.edu/cooking/icooks/01-13-03.html)
