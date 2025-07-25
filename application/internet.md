@@ -58,6 +58,8 @@ To load temporary addon or to see what is loaded (built in addons), or to use AD
 
 [Firefox Disable Data Collection Telemetry](https://github.com/Aetherinox/Firefox-Disable-Data-Collection-Telemetry)  
 
+(JUL/2025) [Google Developer Expert.How to Firefox](https://kau.sh/blog/how-to-firefox/)  
+
 ----------
 
 [AdBlock Tester](https://adblock-tester.com/) [[2](https://brajeshwar.com/2024/i-block-ads/)]  

@@ -47,9 +47,12 @@
 
 **Titanium** is `non-reactive`, meaning they won't affect the taste or quality of food, truly non-stick and they are also resistant to scratches and dings. Is typically **very safe**, especially when compared to other non-stick cookware sets that contain [Teflon](https://www.webmd.com/food-recipes/is-teflon-coating-safe), PTFE and other kinds of fluoropolymers.  
 
-* **Stainless steel** and **aluminum** frying pans can heat up to around 260-290°C when used on a gas stove.  
-* **Cast iron** around 370-425°C on a gas stove.  
+* **Stainless steel** is `non-reactive`, frying pan can heat up to around 260-290°C when used on a gas stove.  
+* **Aluminum** around 260-290°C on a gas stove, is reactive.
+* **Cast iron** around 370-425°C on a gas stove, is reactive.  
+* **Ceramic coating** is reactive.
 * **Enamel coating** is `non-reactive`, is a type of glass. Don't use it more than 260°C.
+* **Silicon carbide coating** (SiC) is `non-reactive`.
 * Electric stove, usually get lower temperature than gas stove.  
 
 **Granite stone** (aka crushed stone or mineral-enriched) frying pans marketed as being healthier but contain trace amounts of **heavy metals**, which are harmful. Itself is **not** non-stick, **Teflon** is a common non-stick coating that used on this pans. (*had bad experience with those*)  
