@@ -34,11 +34,21 @@
 
 <details>
 
-<summary>Υγρά καθαρισμού</summary>
+<summary>Είδη καθαρισμού</summary>
 
 * Ήμαρτον, πάντα φοράτε `γάντια` όταν είναι να έρθετε σε επαφή με χλωρίνη και άλλα.
     * Ήμαρτον, φοράτε `υφασμάτινη μάσκα` όσο καθαρίζετε το σπίτι.
 * Μην αγοράζετε χλωρίνες σκλαβενίτη κτλ., προτιμάτε επώνυμες μάρκες. Έχει διαφορά.
+* [Viakal.Classic](https://www.ab.gr/el/p/7118036) - για τα άλατα.
+* [CIF.Κρέμα Γενικού Καθαρισμού](https://www.ab.gr/el/p/7117624)
+* [Klinex.Παχύρευστη Χλωρίνη](https://www.ab.gr/el/p/7117543)
+* [Ajax.Υγρό Καθαρισμού](https://www.ab.gr/el/p/7117727)
+* [Dettol.Πολυκαθαριστικό Σπρέι](https://www.sklavenitis.gr/aporrypantika-eidi-katharismoy/katharistika-genikis-chrisis/katharistika-gia-oles-tis-epifaneies/dettol-spray-polukatharistiko-prasino-mlo-500ml-228613/) - πράσινο μήλο.
+* [Overlay.Inox & Κεραμικές Εστίες](https://www.ab.gr/p/7320418)
+* [Αρκάδι.Υγρό Πιάτων](https://www.ab.gr/el/p/7729425)
+* [Vileda Ultra Fresh.Σφουγγαράκι κουζίνας](https://www.vileda.gr/sfouggarakia-sirmata/vileda-ultra-fresh-2-1-doro-sfouggaraki-kouzinas-antibaktiridiako) - το πράσινο.
+* [Soupline.Μαλακτικό Ρούχων](https://www.ab.gr/el/p/7662968) - όχι το συμπυκνωμένο.
+* [Kristal.Σόδα Πλύσεως Πλυντηρίου](https://www.sklavenitis.gr/aporrypantika-eidi-katharismoy/aporrypantika-roychon/chromopagides-leykantika-enischytika-plysimatos/kristal-soda-pluseos-pludiriou-rouhon-1kg/) - αντικαταστήστε το απορρυπαντικό πλυντηρίου.
 
 </details>
 
