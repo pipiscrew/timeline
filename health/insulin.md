@@ -565,6 +565,7 @@ We all **fear** heart attacks, we **worry** that they can just happen like **out
 * (05/07/2025) [A day before my 47th birthday made a CAC](https://www.vox.com/future-perfect/418849/heart-attack-deaths-cardiovascular-disease-progress-medicine)
   * [MESA Risk Score and Coronary Age Calculator](https://internal.mesa-nhlbi.org/about/procedures/tools/mesa-score-risk-calculator)
   * [Dr Oracle - Medical AI - how to interpret CAC](https://www.droracle.ai/articles/21304/agatston-score-how-to-interprete)
+  * [Coronary artery calcium testing can reveal plaque in arteries, but is underused](https://archive.ph/uqvkl) [[2](https://www.nytimes.com/2025/07/26/health/coronary-artery-calcium-heart.html)]
 
 Here’s a summary of the valuable measures that can be gleaned from the standard cholesterol tests.  
 * **Triglyceride** should be safely below 80 to 100 mg/dL.
