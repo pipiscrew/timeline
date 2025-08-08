@@ -80,5 +80,6 @@
 	* [prozymi](/stories/prozymi.md)
 	* [covid](/stories/wcovid.md)
 	* [covidGR](/stories/wcovidGR.md)
+	* [orientation](/stories/orientation.md)
 	* [greece](/stories/greece.md)
 	* [eGreece](/stories/egreece.md)
