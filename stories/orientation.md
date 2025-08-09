@@ -1,5 +1,5 @@
 <div style="text-align: center;">
-    <img src="../assets/orientation.png" alt="img" />
+   ![img](../assets/orientation.png)
 </div>
 <br>
 <input id="txtSearch" onkeypress="SearchList(event);" class="ceME" placeholder="press enter to search">  
