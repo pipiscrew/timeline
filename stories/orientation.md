@@ -1,5 +1,10 @@
+<div style="text-align: center;">
+    <img src="../assets/orientation.png" alt="img" />
+</div>
+<br>
 <input id="txtSearch" onkeypress="SearchList(event);" class="ceME" placeholder="press enter to search">  
-
+<br>
+<br>
 
 <details>
 
@@ -7,19 +12,54 @@
 
 *   Εάν έχετε πρόβλημα με το έντερο, δεν είναι ότι χρειάζεστε καλά βακτήρια (aka `προβιοτικά`), είναι μύθος. Βέβαια εάν επιμένετε δείτε το [Vivomixx](https://neo.vivomixx.eu/vivomixx-neo-460-billion/) είναι από Ελβετία. Μεταφέρετε από ψυγείο σε ψυγείο όπου καταλήγει στο ψυγείο του φαρμακείου.
 *   Όσο αναφορά τα `πρεβιοτικά` (aka εδώδιμες ίνες / fiber) είναι τροφή για τα καλά βακτήρια, σαφώς και τα χρειάζεστε. Υπάρχουν 6-7 είδη, προσοχή με το [Mucilage](https://www.thepaleomom.com/mucilaginous-fiber-the-good-the-bad-and-the-gooey/) ( βρίσκετε στο Psyllium fiber και σε άλλα fiber, όπως και σε φρούτα πχ μήλο ) κάνει επιδείνωση των αυτοάνοσων συμπτωμάτων.
-*   To [μαστιχέλαιο](https://www.masticha.gr/mastihelea/mastiheleo) κάνει θαύματα, είναι ισχυρό **αντιοξειδωτικό**, νιώθετε οξύτητα στο έντερο (?) καταναλώστε 1 ποτήρι νερο με μαστιχέλαιο και σε πέντε λέπτα έφυγε. Η δοσολογία είναι 1 σταγόνα μαστιχέλαιο / 1 λίτρο νερό. (max : 1 λίτρο / ημέρα), το αποθηκεύεται στο ψυγείο, πάντα ανακινείτε πριν τη χρήση.
-*   `Boswellia serrata` κάνει θαύματα, είναι το γνωστό **λιβάνι**, είναι ισχυρό **αντιφλεγμονώδες**, που στην ουσία είναι ρητίνη των δέντρων που ανήκουν στο γένος Boswellia, το βρίσκετε σε σκευάσματα.
+*   To [μαστιχέλαιο](https://www.masticha.gr/mastihelea/mastiheleo) κάνει θαύματα, είναι `ισχυρό αντιοξειδωτικό`, νιώθετε οξύτητα στο έντερο (?) καταναλώστε 1 ποτήρι νερο με μαστιχέλαιο και σε πέντε λέπτα έφυγε. Η δοσολογία είναι 1 σταγόνα μαστιχέλαιο / 1 λίτρο νερό. (max : 1 λίτρο / ημέρα), αποθηκεύεται στο ψυγείο, πάντα ανακινείτε πριν τη χρήση.
+*   `Boswellia serrata` κάνει θαύματα, είναι το γνωστό **λιβάνι**, είναι `ισχυρό αντιφλεγμονώδες`, που στην ουσία είναι ρητίνη των δέντρων που ανήκουν στο γένος Boswellia, το βρίσκετε σε σκευάσματα.
 *   `Σερραπεπτάση` **αντιοξειδωτικό**, το βρίσκετε σε σκευάσματα.
 *   `Νατοκινάση` συνολική ευεξία, το βρίσκετε σε σκευάσματα.
 *   Από `μπαχαρικά`, κύμινο / κόλιανδρος καταπραύνουν.
-*   Λευκό `ξύδι` / μηλόξυδο / βαλσάμικο ισχυρό **αντιοξειδωτικό** για όσους μπορούν να το καταναλώσουν έχοντας πρόβλημα στο έντερο. Δόση 1tbsp / ποτήρι νερό, όχι για κάθε μέρα. Κομπούχα όχι κάτι special
+*   Λευκό `ξύδι` / μηλόξυδο / βαλσάμικο `ισχυρό αντιοξειδωτικό` για όσους μπορούν να το καταναλώσουν έχοντας πρόβλημα στο έντερο. Δόση 1tbsp / ποτήρι νερό, όχι για κάθε μέρα. Παρεμπιπτόντως **Κομπούχα** όχι κάτι special σε αυτό το θέμα.
 *   `Μύκητες κεφίρ` όπως και ένας άνθρωπος που δεν έχει πρόβλημα, νιώθεις όμορφα, τίποτα άλλο.
-*   Πρέπει να φροντίζετε `B12` / Vitamin D / Μαγνήσιο / Φολικό οξύ να είναι σε επίπεδα από την μέση και πάνω. Βάλτε στα γεύματα σας `φαγόπυρο` έχει ισχυρή διατροφική αξία.
+*   Πρέπει να φροντίζετε `B12` / Vitamin D / Μαγνήσιο / Φολικό οξύ να είναι σε επίπεδα από την μέση και πάνω. Βάλτε στα γεύματα σας `φαγόπυρο` (100gr / ημέρα) έχει ισχυρή διατροφική αξία.
 *   Σχετικά με τα `γεύματα`, γεύμα είναι όταν τρως και μόνο ένα αμύγδαλο. Κάνετε 2 με 3 max ανά ημέρα. Σταματάτε να τρώτε στις 6 το απόγευμα. Τα γεύματα με λίπη και πρωτείνες χρειάζονται 3-6 ώρες επεξεργασία (δηλαδή καταπόνηση) για να είναι διαθέσιμα στον οργανισμό. Προσοχή δεν σας λέω να φάτε μακαρόνια ή όσπρια, μακριά από αυτά... Μακαρόνια πότε, τέλος. Όσπρια 1 / βδομάδα και προσεγμένα τι είναι και από που είναι. [Φακές](https://www.pipiscrew.com/threads/151736/) είναι top! Μην τρώτε από έξω, φτιάχνετε σπίτι ότι χρειάζεστε [[1](https://www.pipiscrew.com/threads/158190/)] [[2](https://www.pipiscrew.com/threads/146898/)] [[3](https://www.pipiscrew.com/threads/146741/)].
 * Σχετικά με την `σαλάτα`, προτιμάτε [υδροπονία](https://www.magikoskipos.gr/) για τον λόγο ότι δεν τα ραντίζουν. Η συγκεκριμένη μάρκα, είνα σε όλα τα super market (sklaveniti / mymarket / bazaar / lidl) διανέμεται από την εταιρία *Φρεσκούλης*, μην ρωτάτε το προσωπικό εάν έχουν την συγκεκριμένη μάρκα, δεν το ξέρουν, γιατί τα φέρνει ο *Φρεσκούλης* μαζί με τα άλλα μαρούλια, ψάχτε μόνοι σας στο ψυγείο.
+* Σχετικά με τον `γλυκαιμικό δείκτη`, πρέπει να ξέρετε αυτό που καταναλώνετε τι γλυκαιμικό δείκτη έχει. Παράδειγμα, χρησιμποποιώ κατά κόρον `ρύζι basmati`, σε κάποια φάση μη έχοντας γνώση για τον `γλυκαιμικό δείκτη` πήρα **ρύζι Jasmine**, από το πρώτο γεύμα ένιωθα μια ενέργεια.. Οπότε τι είναι `γλυκαιμικός δείκτης` εν τέλει (?) - είναι η κλίμακα που μετράει την ταχύτητα με την οποία οι υδατάνθρακες επηρεάζουν τα **επίπεδα γλυκόζης** στο αίμα, όταν η τροφή έχει υψηλό `γλυκαιμικό δείκτη` προκαλεί απότομη **αύξηση της γλυκόζης** στο αίμα. Η αύξηση της γλυκόζης κάνει το πάγκρεας να απελευθερώνει `ινσουλίνη` στο αίμα, είναι η ορμόνη που βοηθά στη μεταφορά της γλυκόζης στα κύτταρα για χρήση ως ενέργεια - OK. [Δεν θέλετε να έχετε ινσουλίνη σε τέτοια επίπεδα](https://pipiscrew.github.io/timeline/#/health/insulin) γιατί δεν λειτουργεί τίποτα άλλο στο σώμα σας εκείνη την στιγμή.. Είναι αλήθεια, φανταστείτε όλες οι λειτουργίες στο σώμα σας, έχουν στην αρχή ένα έλεγχο `υπάρχει ινσουλίνη στο αίμα? εάν ναι μην κάνεις τίποτα`.. Θα λέγαμε ότι δίνουν προτεραιότητα στην ινσουλίνη να κάνει την δουλειά της, και αυτό γιατί άμα *δεν καεί* η γλυκόζη θα **βλάψει τα όργανα** του σώματος.
 * [Μεταβολική ενδοτοξαιμία](https://github.com/pipiscrew/timeline/blob/main/health/introductionGR.md#%CE%BC%CE%B5%CF%84%CE%B1%CE%B2%CE%BF%CE%BB%CE%B9%CE%BA%CE%AE-%CE%B5%CE%BD%CE%B4%CE%BF%CF%84%CE%BF%CE%BE%CE%B1%CE%B9%CE%BC%CE%AF%CE%B1-metabolic-endotoxemia) - Τα βακτήρια στο έντερο σας, παράγουν **λιποπολυσακχαρίτες**, αυτά μπαίνουν στο αίμα και σε όποιο όργανο φτάνουν κάνουν φλεγμονή. Θέλοντας να πω, μετά από κάποιο γεύμα υπάρχουν φορές που νιώθετε ένα συννεφάκι και δεν σκέφτεστε καθαρά, εκείνη τη στιγμή οι λιποπολυσακχαρίτες υπάρχουν στον εγκέφαλο. Προσέχετε τι τρώτε, έχω εντοπίσει ότι με τα πράσινα φασόλια γίνεται πάντα.
-*   [Λεκτίνες](https://www.pipiscrew.com/threads/11394/post-111726) υπάρχουν από την φύση στα όσπρια & σιτήρα, δεν κάνουν καλό στο έντερο, το τρυπάνε.. Αυτά που διαφημίζουν *υγιείνα* oλικής άλεσης & καστανό - ψωμί / μακαρόνια / ρύζι κτλ., έχουν σε **μέγιστο βαθμό** λεκτίνες (βρίσκεται στον φλοιό), άμα χρειαστεί φάτε μόνο λευκά. Πάντα μουλιάζετε τα όσπρια την νύχτα και μαγείρεμα στην χύτρα (ελαχιστοποίηση βλαβερών ουσιών λεκτίνες / φυτοφάρμακα).
-*   Μην καταναλώνετε [κρασί](https://pipiscrew.com/threads/150812/) / `ποτά` είναι χημεία σκέτη είτε από εργοστάσιο Καμπά είτε από το γιαχαμπιμπι.
+*   [Λεκτίνες](https://www.pipiscrew.com/threads/11394/post-111726) υπάρχουν από την φύση στα όσπρια & σιτηρά, δεν κάνουν καλό στο έντερο, το τρυπάνε.. Αυτά που διαφημίζουν *υγιεινά* oλικής άλεσης & καστανό - ψωμί / μακαρόνια / ρύζι κτλ., έχουν σε **μέγιστο βαθμό** λεκτίνες (βρίσκεται στον φλοιό), άμα χρειαστεί φάτε μόνο λευκά. Πάντα μουλιάζετε τα όσπρια την νύχτα και μαγείρεμα στην χύτρα (ελαχιστοποίηση βλαβερών ουσιών λεκτίνες / φυτοφάρμακα).
+*   Μην καταναλώνετε [κρασί](https://pipiscrew.com/threads/150812/) / `ποτά` είναι χημεία σκέτη είτε από το εργοστάσιο Καμπά είτε από το γιαχαμπιμπι.
+
+</details>
+
+<details>
+
+<summary>Είδη καθαρισμού</summary>
+
+* Ήμαρτον, πάντα φοράτε `γάντια` όταν είναι να έρθετε σε επαφή με υγρό πιάτων και άλλα.
+    * Ήμαρτον, φοράτε `υφασμάτινη μάσκα` όσο καθαρίζετε το σπίτι.
+* Μην αγοράζετε χλωρίνες σκλαβενίτη κτλ., προτιμάτε επώνυμες μάρκες. Έχει διαφορά.
+* [Viakal.Classic](https://www.ab.gr/el/p/7118036) - για τα άλατα.
+* [CIF.Κρέμα Γενικού Καθαρισμού](https://www.ab.gr/el/p/7117624)
+* [Klinex.Παχύρευστη Χλωρίνη](https://www.ab.gr/el/p/7117543)
+* [Ajax.Ultra Fresh Υγρό Καθαρισμού](https://www.ab.gr/el/p/7117727)
+* [Dettol.Πολυκαθαριστικό Σπρέι](https://www.sklavenitis.gr/aporrypantika-eidi-katharismoy/katharistika-genikis-chrisis/katharistika-gia-oles-tis-epifaneies/dettol-spray-polukatharistiko-prasino-mlo-500ml-228613/) - πράσινο μήλο.
+* [Overlay.Inox & Κεραμικές Εστίες](https://www.ab.gr/p/7320418)
+* [Αρκάδι.Υγρό Πιάτων](https://www.ab.gr/el/p/7729425) - ρόδι & σταφύλι.
+* [Vileda.Ultra Fresh Σφουγγαράκι](https://www.vileda.gr/sfouggarakia-sirmata/vileda-ultra-fresh-2-1-doro-sfouggaraki-kouzinas-antibaktiridiako) - το πράσινο.
+* [Soupline.Μαλακτικό Ρούχων](https://www.ab.gr/el/p/7662968) - όχι το συμπυκνωμένο.
+* [Kristal.Σόδα Πλύσεως Πλυντηρίου](https://www.sklavenitis.gr/aporrypantika-eidi-katharismoy/aporrypantika-roychon/chromopagides-leykantika-enischytika-plysimatos/kristal-soda-pluseos-pludiriou-rouhon-1kg/) - αντικαταστήστε το απορρυπαντικό πλυντηρίου.
+
+</details>
+
+<details>
+
+<summary>Κρέμες + Σαμπουάν και αφρόλουτρο</summary>
+
+* Πάντα ανακινείτε το δοχείο πριν τη χρήση.
+* Αντηλιακό - Pierre Fabre.[Avene.Intense Protect SPF50+](https://www.eau-thermale-avene.gr/p/eau-thermale-avene-intense-protect-spf50-3282770395938-7044702c)
+* Αντηλιακή Προσώπου - Vichy.[Capital Soleil Fluide UV-Clear SPF50+](https://www.vichy.fr/tous-les-produits/soins-solaires/protections-solaires/protections-solaires-visage/capital-soleil-uv-clear)
+* Ξηρά Σημεία - ErgoPharm.[Algofeel](http://www.ergopharm.gr/Algofeel-krema-Urea-8-enydatiki-anaplastikh-ksira-skasmena-simeia-swmatos-xeria-agkwnes-gonata-fternes)
+* Ξηρά Σημεία - Pierre Fabre.[Avene.XeraCalm Balm](https://www.eau-thermale-avene.gr/p/xeracalm-a-d-baume-gia-anaplirosi-ton-lipidion-3282770114171-7044702c)
+* Ξηρά Σημεία - Pierre Fabre.[Dexeryl.Emollient Cream](https://www.dexeryl.com/en/p/dexeryl-emollient-cream-3573994006343-5e13c847)
+* Σαμπουάν και αφρόλουτρο - Παπουτσάνης.[πράσινο σαπούνι](https://www.papoutsanis.gr/el/markes-katanalotikon-proionton/prasino-sapouni-elaioladou-brand/sapouni-elaioladou-papoutsanis-paradosiako-prasino-sapouni-elaioladou-250-gr_131146/) - μην έχετε την εντύπωση ότι τα άλλα προϊόντα είναι στο pH που πρέπει.
 
 </details>
 
@@ -34,33 +74,18 @@
 
 <details>
 
-<summary>Είδη καθαρισμού</summary>
+<summary>Ηλεκτρονικό τσιγάρο</summary>
 
-* Ήμαρτον, πάντα φοράτε `γάντια` όταν είναι να έρθετε σε επαφή με χλωρίνη και άλλα.
-    * Ήμαρτον, φοράτε `υφασμάτινη μάσκα` όσο καθαρίζετε το σπίτι.
-* Μην αγοράζετε χλωρίνες σκλαβενίτη κτλ., προτιμάτε επώνυμες μάρκες. Έχει διαφορά.
-* [Viakal.Classic](https://www.ab.gr/el/p/7118036) - για τα άλατα.
-* [CIF.Κρέμα Γενικού Καθαρισμού](https://www.ab.gr/el/p/7117624)
-* [Klinex.Παχύρευστη Χλωρίνη](https://www.ab.gr/el/p/7117543)
-* [Ajax.Υγρό Καθαρισμού](https://www.ab.gr/el/p/7117727)
-* [Dettol.Πολυκαθαριστικό Σπρέι](https://www.sklavenitis.gr/aporrypantika-eidi-katharismoy/katharistika-genikis-chrisis/katharistika-gia-oles-tis-epifaneies/dettol-spray-polukatharistiko-prasino-mlo-500ml-228613/) - πράσινο μήλο.
-* [Overlay.Inox & Κεραμικές Εστίες](https://www.ab.gr/p/7320418)
-* [Αρκάδι.Υγρό Πιάτων](https://www.ab.gr/el/p/7729425)
-* [Vileda Ultra Fresh.Σφουγγαράκι κουζίνας](https://www.vileda.gr/sfouggarakia-sirmata/vileda-ultra-fresh-2-1-doro-sfouggaraki-kouzinas-antibaktiridiako) - το πράσινο.
-* [Soupline.Μαλακτικό Ρούχων](https://www.ab.gr/el/p/7662968) - όχι το συμπυκνωμένο.
-* [Kristal.Σόδα Πλύσεως Πλυντηρίου](https://www.sklavenitis.gr/aporrypantika-eidi-katharismoy/aporrypantika-roychon/chromopagides-leykantika-enischytika-plysimatos/kristal-soda-pluseos-pludiriou-rouhon-1kg/) - αντικαταστήστε το απορρυπαντικό πλυντηρίου.
-
-</details>
-
-<details>
-
-<summary>Κρέμες + Σαμπουάν και αφρόλουτρο</summary>
-
-* Πάντα ανακινείτε το δοχείο πριν τη χρήση.
-* Αντηλιακό - Pierre Fabre.[Avene.Intense Protect SPF50+](https://www.eau-thermale-avene.gr/p/eau-thermale-avene-intense-protect-spf50-3282770395938-7044702c)
-* Αντηλιακή Προσώπου - Vichy.[Capital Soleil Fluide UV-Clear SPF50+](https://www.vichy.fr/tous-les-produits/soins-solaires/protections-solaires/protections-solaires-visage/capital-soleil-uv-clear)
-* Ξηρά Σημεία - ErgoPharm.[Algofeel](http://www.ergopharm.gr/Algofeel-krema-Urea-8-enydatiki-anaplastikh-ksira-skasmena-simeia-swmatos-xeria-agkwnes-gonata-fternes)
-* Ξηρά Σημεία - Pierre Fabre.[Dexeryl.Emollient Cream](https://www.dexeryl.com/en/p/dexeryl-emollient-cream-3573994006343-5e13c847)
-* Σαμπουάν και αφρόλουτρο - Παπουτσάνης.[πράσινο σαπούνι](https://www.papoutsanis.gr/el/markes-katanalotikon-proionton/prasino-sapouni-elaioladou-brand/sapouni-elaioladou-papoutsanis-paradosiako-prasino-sapouni-elaioladou-250-gr_131146/) - μην έχετε την εντύπωση ότι τα άλλα προϊόντα είναι στο pH που πρέπει.
+* Είναι επικίνδυνοι, τα υγρά δεν είναι καθόλου αθώα, φαντάζομαι θα είδατε τον [υπουργό υγείας](https://www.thetoc.gr/ygeia/article/ilektronika-tsigara-mploko-adoni-georgiadi-stis-aromatikes-ousies-pou-briskontai-sta-ugra--tha-aposurthoun-apo-tin-agora/) (APR/2025) να λέει ότι όλα εκτός των καπνικών γεύσεων θα πάνε προς κατάργηση.. Ε και δεν έγινε τίποτα, γιατί θα κλείσουν όλα τα ecig μαγαζιά...
+* Η συσκευή θα πρέπει να λειτουργεί μέχρι και τα `10watt`, αυτό έχει σαν αποτέλεσμα ο ατμοποιητής (1.2Ω) να μην θηρίο αλλά κάτι απλό, δεν θέλετε κάτι άλλο... Διαπίστωση : πηγαίνετε σε ΩΡΛ να δει τον φάρυγγά σας, θα σας πει είναι ερεθισμένος, φανταστείτε ότι είναι έτσι από τότε που αρχίσατε το ecig...
+* Τα `υγρά`, οπωσδήποτε DIY.. Έχοντας :
+    * 100ml PG
+    * 100ml VG 
+    * 4 νικοτίνες 18mg (50/50)
+    * και ένα άδειο 100ml PEG μπουκάλι, βάζετε μέσα : 
+        * 40ml νικοτίνη 18mg (50/50)
+        * 33ml PG
+        * 27ml VG
+            * ανακινήστε για ένα λεπτό, είναι έτοιμο για χρήση.
 
 </details>
