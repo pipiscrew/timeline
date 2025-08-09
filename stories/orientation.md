@@ -1,3 +1,4 @@
+<style> img {margin: auto;display: block;}</style>
 ![img](../assets/orientation.png)  
 <br>
 <input id="txtSearch" onkeypress="SearchList(event);" class="ceME" placeholder="press enter to search">  
