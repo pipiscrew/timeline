@@ -72,7 +72,7 @@
 
 <summary>Αθλητικά παπούτσια</summary>
 
-* adidas με [cloudfoam comford](https://www.adidas.gr/cloudfoam)
+* adidas με [cloudfoam comfort](https://www.adidas.gr/cloudfoam)
 * skechers με [memory foam](https://www.skechers.gr/category/120141/shoes-athletic-shoes/?TableLookupStr=663@1527343@778@2449108@&LastSelectionId=778)
 
 </details>
