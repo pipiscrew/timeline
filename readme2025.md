@@ -804,7 +804,7 @@
   * [iPhone customers upset by Apple Wallet ad pushing F1 movie](https://techcrunch.com/2025/06/24/iphone-customers-upset-by-apple-wallet-ad-pushing-f1-movie/)
   * [The German automotive industry wants to develop open-source software together](https://www.vda.de/en/press/press-releases/2025/250624_PM_Automotive_industry_signs_Memorandum_of_Understanding)
   * [Few Americans pay for news when they encounter paywalls](https://www.pewresearch.org/short-reads/2025/06/24/few-americans-pay-for-news-when-they-encounter-paywalls/)
-  * [Scream to Unlock - Blocks social media until you scream /I'm a loser/](https://chromewebstore.google.com/detail/scream-to-unlock-yell-to/pmmikajpbkehhpomkmelipgiafampkah?authuser=0&hl=en]
+  * [Scream to Unlock - Blocks social media until you scream 'Im a loser'](https://chromewebstore.google.com/detail/scream-to-unlock-yell-to/pmmikajpbkehhpomkmelipgiafampkah?authuser=0&hl=en]
   * [Games run faster on SteamOS than Windows 11, Ars testing finds](https://arstechnica.com/gaming/2025/06/games-run-faster-on-steamos-than-windows-11-ars-testing-finds/)
   * [-2000 Lines of code](https://www.folklore.org/StoryView.py?story=Negative_2000_Lines_Of_Code.txt)
   * [Microsoft Dependency Has Risks](https://blog.miloslavhomer.cz/p/microsoft-dependency-has-risks)
