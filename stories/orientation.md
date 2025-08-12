@@ -15,6 +15,7 @@
         * [Lamberts.Saccharomyces boulardii](https://www.lambertshealthcare.co.uk/digestive-aids/biome-balance-for-those-on-antibiotics/)
         * [Μύκητες κεφίρ](https://www.pipiscrew.com/threads/137705/) - για έτοιμη λύση προτιμήστε το [υγεία](https://ygieia.com/).
 *   Όσο αναφορά τα `πρεβιοτικά` (aka εδώδιμες ίνες / fiber) είναι τροφή για τα καλά βακτήρια, σαφώς και τα χρειάζεστε. Υπάρχουν 6-7 είδη, προσοχή με το [Mucilage](https://www.thepaleomom.com/mucilaginous-fiber-the-good-the-bad-and-the-gooey/) ( βρίσκετε στο Psyllium fiber και σε άλλα fiber, όπως και σε φρούτα πχ μήλο ) κάνει επιδείνωση των αυτοάνοσων συμπτωμάτων.
+    * [Inulin-FOS](https://www.nowfoods.com/products/supplements/inulin-prebiotic-pure-powder-organic)
 *   To [μαστιχέλαιο](https://www.masticha.gr/mastihelea/mastiheleo) κάνει θαύματα, είναι `ισχυρό αντιοξειδωτικό`, νιώθετε οξύτητα στο έντερο (?) καταναλώστε 1 ποτήρι νερο με μαστιχέλαιο και σε πέντε λέπτα έφυγε. Η δοσολογία είναι 1 σταγόνα μαστιχέλαιο / 1 λίτρο νερό. (max : 1 λίτρο / ημέρα), αποθηκεύεται στο ψυγείο, πάντα ανακινείτε πριν τη χρήση.
 *   `Boswellia serrata` κάνει θαύματα, είναι το γνωστό **λιβάνι**, είναι `ισχυρό αντιφλεγμονώδες`, που στην ουσία είναι ρητίνη των δέντρων που ανήκουν στο γένος Boswellia, το βρίσκετε σε σκευάσματα.
 *   `Σερραπεπτάση` **αντιοξειδωτικό**, το βρίσκετε σε σκευάσματα.
