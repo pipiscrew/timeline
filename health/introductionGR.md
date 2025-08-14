@@ -439,4 +439,5 @@ _GPT :_
 2024 - [Dr. Pradip Jamnadas - Vagus Nerve Hacks: Powerful Techniques to Enhance Health and Well-Being + FAQ](https://www.youtube.com/watch?v=irn3cFHmK-Y) - to be translated to Greek.  
 * breath and all the other technics explained.
 * want to hack your psyche change your mind about everything live in the moment release the past be forgiving forgive and forget and get a pet you're going to live long.
+* FDA blood pressure - device solution with breathing
 * in this define the oil drop amount (wrote on above, on previous video)
