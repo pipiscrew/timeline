@@ -417,3 +417,19 @@ _GPT :_
 **LDL-C (Χοληστερόλη Λιποπρωτεϊνών Χαμηλής Πυκνότητας) :** Αναφέρεται στην συνολική περιεκτικότητα χοληστερόλης σε όλα τα σωματίδια LDL στην κυκλοφορία του αίματος. Είναι ένα συνηθισμένο μέτρο που χρησιμοποιείται σε λιπιδικά πάνελ για την αξιολόγηση του καρδιαγγειακού κινδύνου. Περιλαμβάνει όλα τα μεγέθη σωματιδίων LDL, <u>τόσο μεγάλα όσο και μικρά</u>, και συνήθως μετριέται σε χιλιοστόγραμμα ανά δεκαλίτρο (mg/dL).  
 
 **sdLDL (Μικρή Πυκνή LDL) :** Αναφέρεται σε μια **υποκατηγορία σωματιδίων LDL** που είναι μικρότερα και πυκνότερα από τα τυπικά σωματίδια LDL. Αυτά τα σωματίδια συχνά θεωρούνται πιο `αθηρογόνα` (πιθανότερο να προάγουν τον σχηματισμό λιπαρών πλακών στις αρτηρίες) από τα μεγαλύτερα, λιγότερο πυκνά σωματίδια LDL. Τα αυξημένα επίπεδα `sdLDL` σχετίζονται με υψηλότερο κίνδυνο καρδιαγγειακών επεισοδίων, ακόμη και όταν τα συνολικά **επίπεδα LDL-C** είναι **εντός** των φυσιολογικών **ορίων**.  
+
+---
+
+2024 - [Dr. Pradip Jamnadas - Why Gut Health Affects Everything](https://www.youtube.com/watch?v=Npy0qwgh5RM) - to be translated to Greek.  
+* gi tract + epithelial cells analysis + LPS + WBC + Liver [video pin](https://youtu.be/Npy0qwgh5RM?t=600)
+* arteriosclerosis analysis
+* plants with bacteria analysis [video pin](https://youtu.be/Npy0qwgh5RM?t=3328)
+* ultrasound of liver
+* CT Scan with plaque analysis
+* sibo supplements 
+  * candibactin A+B for 14 days
+  * curcumin 300mg twice a day
+  * oil of oregano
+  * oil of cinnamon
+  * oil of cloves
+  * inulin+fos
