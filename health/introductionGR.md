@@ -420,16 +420,23 @@ _GPT :_
 
 ---
 
-2024 - [Dr. Pradip Jamnadas - Why Gut Health Affects Everything](https://www.youtube.com/watch?v=Npy0qwgh5RM) - to be translated to Greek.  
+2024 - [Dr. Pradip Jamnadas - Why Gut Health Affects Everything + FAQ](https://www.youtube.com/watch?v=Npy0qwgh5RM) - to be translated to Greek.  
 * gi tract + epithelial cells analysis + LPS + WBC + Liver [video pin](https://youtu.be/Npy0qwgh5RM?t=600)
 * arteriosclerosis analysis
 * plants with bacteria analysis [video pin](https://youtu.be/Npy0qwgh5RM?t=3328)
 * ultrasound of liver
 * CT Scan with plaque analysis
-* sibo supplements 
+* sibo supplements
+  * omega3 pills 2gr (1gr per pill)
   * candibactin A+B for 14 days
   * curcumin 300mg twice a day
-  * oil of oregano
-  * oil of cinnamon
-  * oil of cloves
-  * inulin+fos
+  * oils - one drop each, elevate 1 drop / week till reach 3 drops
+    * oil of oregano
+    * oil of cinnamon
+    * oil of cloves
+  * inulin-fos
+
+2024 - [Dr. Pradip Jamnadas - Vagus Nerve Hacks: Powerful Techniques to Enhance Health and Well-Being + FAQ](https://www.youtube.com/watch?v=irn3cFHmK-Y) - to be translated to Greek.  
+* breath and all the other technics explained.
+* want to hack your psyche change your mind about everything live in the moment release the past be forgiving forgive and forget and get a pet you're going to live long.
+* in this define the oil drop amount (wrote on above, on previous video)
