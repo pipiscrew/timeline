@@ -37,7 +37,7 @@
   * [AB Download Manager (kotlin, cross)](https://github.com/amir1376/ab-download-manager)
   * [(repost) JPEXS Free Flash Decompiler](https://github.com/jindrapetrik/jpexs-decompiler)
   * [Cherry Studio - multiple LLM providers (31k) (chinese owned)](https://github.com/CherryHQ/cherry-studio)
-  * [Turn any website into an JSON](https://www.parse.bot)
+  * [Turn any website into a JSON](https://www.parse.bot)
     * [2](https://news.ycombinator.com/item?id=44833655)
   * [Trayce - Burp Suite for developers](https://trayce.dev)
   * [Open SWE - An open-source asynchronous coding agent](https://github.com/langchain-ai/open-swe)

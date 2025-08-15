@@ -164,6 +164,8 @@
 * [NSFWyoutube](http://www.nsfwyoutube.com/) -  add **nsfw** to domain => **nsfw**youtube.com/watch?v=p5IO-IJSVnQ
 * [YouTube Transcript](https://youtubetranscript.com/) - get subtitles
 * [downsub](https://downsub.com/) - get subtitles youtube++ (+ translation)
+	* [awesomevideoeditor](https://awesomevideoeditor.com/subtitle-generator) - generate subtitles for a video
+	* [translatesubtitles](https://translatesubtitles.co/) - subtitles translator
 * [download youtube subtitle](https://downloadyoutubesubtitle.com/)
 * [SoundCloud Downloader](https://sclouddownloader.net/)
 * [Dailymotion Downloader](https://freedownloadvideo.net/dailymotion-video-downloader) - ++ linkedin, reddit, ted, telegram, tiktok, vimeo, twitter, twitch, bitchute, rumble
