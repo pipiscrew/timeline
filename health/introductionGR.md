@@ -421,12 +421,12 @@ _GPT :_
 ---
 
 2024 - [Dr. Pradip Jamnadas - Why Gut Health Affects Everything + FAQ](https://www.youtube.com/watch?v=Npy0qwgh5RM) - to be translated to Greek.  
-* gi tract + epithelial cells analysis + LPS + WBC + Liver [video pin](https://youtu.be/Npy0qwgh5RM?t=600)
-* arteriosclerosis analysis
-* plants with bacteria analysis [video pin](https://youtu.be/Npy0qwgh5RM?t=3328)
+* gi tract + `epithelial` cells analysis + LPS + WBC + Liver [video pin](https://youtu.be/Npy0qwgh5RM?t=600)
+* `arteriosclerosis` analysis
+* `plants` with bacteria analysis [video pin](https://youtu.be/Npy0qwgh5RM?t=3328)
 * ultrasound of liver
 * CT Scan with plaque analysis
-* sibo supplements
+* `sibo` supplements
   * omega3 pills 2gr (1gr per pill)
   * candibactin A+B for 14 days
   * curcumin 300mg twice a day
