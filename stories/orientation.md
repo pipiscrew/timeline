@@ -13,7 +13,7 @@
     * Η μόνη περίπτωση που χρειάζονται είναι όταν έχει διαταραχθεί η `χλωρίδα του εντέρου` (aka μικροβίωμα), αυτό γίνεται αντιληπτό όταν ο ασθενής στην τουαλέτα βγάζει νερό αντί για κόπρανα (πολλές φορές επιτυγχάνεται μετά από λήψη αντιβιοτικών).  
         * [Vivomixx](https://neo.vivomixx.eu/vivomixx-neo-460-billion/) είναι από Ελβετία. Μεταφέρεται από ψυγείο σε ψυγείο όπου καταλήγει στο ψυγείο του φαρμακείου.
         * [Lamberts.Saccharomyces boulardii](https://www.lambertshealthcare.co.uk/digestive-aids/biome-balance-for-those-on-antibiotics/)
-        * [Μύκητες κεφίρ](https://www.pipiscrew.com/threads/137705/) - για έτοιμη λύση προτιμήστε το [υγεία](https://ygieia.com/).
+        * [Μύκητες κεφίρ](https://www.pipiscrew.com/threads/137705/) - κατσικίσιο - για έτοιμη λύση προτιμήστε το [υγεία](https://ygieia.com/).
 *   Όσο αναφορά τα `πρεβιοτικά` (aka εδώδιμες ίνες / fiber) είναι τροφή για τα καλά βακτήρια, σαφώς και τα χρειάζεστε. Υπάρχουν 6-7 είδη, προσοχή με το [Mucilage](https://www.thepaleomom.com/mucilaginous-fiber-the-good-the-bad-and-the-gooey/) ( βρίσκετε στο Psyllium fiber και σε άλλα fiber, όπως και σε φρούτα πχ μήλο ) κάνει επιδείνωση των αυτοάνοσων συμπτωμάτων.
     * [Inulin-FOS](https://www.nowfoods.com/products/supplements/inulin-prebiotic-pure-powder-organic) - 30 λεπτά πριν το γεύμα.
 *   To [μαστιχέλαιο](https://www.masticha.gr/mastihelea/mastiheleo) κάνει θαύματα, είναι `ισχυρό αντιοξειδωτικό`, νιώθετε οξύτητα στο έντερο (?) καταναλώστε 1 ποτήρι νερο με μαστιχέλαιο και σε πέντε λέπτα έφυγε. Η δοσολογία είναι 1 σταγόνα μαστιχέλαιο / 1 λίτρο νερό. (max : 1 λίτρο / ημέρα), αποθηκεύεται στο ψυγείο, πάντα ανακινείτε πριν τη χρήση.
