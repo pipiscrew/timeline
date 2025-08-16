@@ -152,3 +152,37 @@ source - [(2020) Omega 3 Fatty Acid and Skin Diseases](https://doi.org/10.3389%2
 ![img](../assets/inflammatory.jpg)  
 
 [source](https://doi.org/10.1201/9781003534877)
+
+---  
+
+# Inhibiting Inflammatory
+
+Today compared inflammatory targets of `Omage3` and `Boswellia serrata` :  
+* Omega3 - inhibiting the production of inflammatory **molecules**
+* Boswellia serrata - inhibiting inflammatory **enzymes**
+
+*all produced by GPT*
+
+## Inhibiting Inflammatory Molecules
+* Include cytokines, chemokines, and other signaling proteins that mediate the inflammatory response.
+* Examples: Tumor necrosis factor-alpha (TNF-α), interleukins (IL-1, IL-6), and prostaglandins.
+
+### Pros
+* Targeting these molecules can reduce the overall inflammatory response and prevent the recruitment of immune cells to the site of inflammation.
+* Can lead to broader effects on multiple pathways involved in inflammation.
+
+### Cons
+* May have systemic effects, leading to potential side effects.
+* Some inflammatory molecules are essential for normal immune function, so inhibiting them can impair the body ability to fight infections.
+
+## Inhibiting Inflammatory Enzymes
+* Include cyclooxygenases (COX-1 and COX-2), lipoxygenases, and matrix metalloproteinases (MMPs).
+* These enzymes are involved in the production of inflammatory mediators like prostaglandins and leukotrienes.
+
+### Pros
+* Inhibiting specific enzymes can directly reduce the production of inflammatory mediators, leading to localized effects.
+* Often used in pain relief and to reduce inflammation in conditions like arthritis.
+
+### Cons
+* May not address the underlying causes of inflammation.
+* Long-term use can lead to side effects, such as gastrointestinal issues with COX inhibitors.
