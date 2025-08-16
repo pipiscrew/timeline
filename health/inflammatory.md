@@ -155,7 +155,7 @@ source - [(2020) Omega 3 Fatty Acid and Skin Diseases](https://doi.org/10.3389%2
 
 ---  
 
-# Inhibiting Inflammatory
+# Inhibiting Inflammatory Processes
 
 Today compared inflammatory targets of `Omage3` and `Boswellia serrata` :  
 * Omega3 - inhibiting the production of inflammatory **molecules**
