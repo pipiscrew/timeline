@@ -186,3 +186,10 @@ Today compared inflammatory targets of `Omage3` and `Boswellia serrata` :
 ### Cons
 * May not address the underlying causes of inflammation.
 * Long-term use can lead to side effects, such as gastrointestinal issues with COX inhibitors.
+
+| Aspect                     | Inhibiting Inflammatory Molecules | Inhibiting Inflammatory Enzymes |
+|----------------------------|-----------------------------------|----------------------------------|
+| **Target**                 | Cytokines, chemokines             | Specific enzymes (e.g., COX)    |
+| **Effect**                 | Broader anti-inflammatory effects  | Direct reduction of mediators     |
+| **Side Effects**           | Potential systemic effects         | Localized effects, but can cause GI issues |
+| **Use Cases**              | Autoimmune diseases, chronic inflammation | Pain relief, arthritis treatment  |
