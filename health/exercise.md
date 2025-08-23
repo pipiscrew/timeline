@@ -145,6 +145,7 @@ Exercise also **increases** the production of a protein called brain-derived neu
   * [Excessive exercise training causes mitochondrial functional impairment and decreases glucose tolerance](https://www.sciencedirect.com/science/article/abs/pii/S1550413121001029)
 * [Iowa University - Exercise may reduce depression symptoms, boost effects of therapy](https://www.news.iastate.edu/news/2022/03/30/exercise-depression)
 * [Brisk 22-minute walk could offset harmful effects of sitting](https://www.theguardian.com/society/2023/oct/24/brisk-minute-walk-offset-harmful-effects-sitting-study)  
+* [The ROI of exercise](https://herman.bearblog.dev/exercise/)
 
 --
 
