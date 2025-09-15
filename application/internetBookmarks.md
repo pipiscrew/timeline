@@ -263,7 +263,8 @@
 	* [Speeding Up Webamp's Music Visualizer with WebAssembly](https://jordaneldredge.com/blog/speeding-up-winamps-music-visualizer-with-webassembly/)
 * [francescogiovannini2](https://francescogiovannini2.blogspot.com) - playlists 
 	* [2](https://www.mixcloud.com/francescogiovannini/)
-* [jango](https://www.jango.com/) - spotify alternative  
+* [jango](https://www.jango.com/) - spotify alternative
+* [soundloadmate](https://soundloadmate.com/) - soundcloud downloader
 
 ## search engines
 * [>> Search Engine Party <<](https://searchengine.party/)

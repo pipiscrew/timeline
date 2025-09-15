@@ -40,7 +40,9 @@
 * [WhatTheFont](https://play.google.com/store/apps/details?id=com.monotype.whatthefont)  
 * Game [Rider](https://play.google.com/store/apps/details?id=com.ketchapp.rider)  
 * Game [EDGE](https://play.google.com/store/apps/details?id=net.mobigame.edge.demo)  
+* Game [LYNE](https://play.google.com/store/apps/details?id=com.thomasbowker.lynerelease)
 * Game [Pushing Machine](https://play.google.com/store/apps/details?id=com.reactor.pushingmachine) 
+* Game [HOOK](https://play.google.com/store/apps/details?id=com.rt.hook)
 * Game [Magic DosBox](https://play.google.com/store/apps/details?id=bruenor.magicbox) - fast DOSBox port for Android
 * Screensaver [XScreenSaver](https://play.google.com/store/apps/details?id=org.jwz.android.xscreensaver)  
 * [Maths Workout](https://play.google.com/store/apps/details?id=io.ts.mathworkout)

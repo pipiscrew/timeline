@@ -311,6 +311,7 @@ The sequence is :
 * [ChrisTitusTech/winutil](https://github.com/ChrisTitusTech/winutil) - tweaks  
 * [DISMTools](https://github.com/CodingWonders/DISMTools) - manage your Windows Imaging (WIM) files  
 * [CrapFixer](https://github.com/builtbybel/CrapFixer) - fixes the crap Windows leaves behind  
+* [Flyoobe](https://github.com/builtbybel/Flyoobe) - also disables Win11 AI features  
 
 ## Games
 * [eXoDOS](http://exodos.the-eye.us/)
