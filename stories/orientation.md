@@ -65,10 +65,13 @@
 
 * Πάντα ανακινείτε το δοχείο πριν τη χρήση.
 * Αντηλιακό - Pierre Fabre.[Avene.Intense Protect SPF50+](https://www.eau-thermale-avene.gr/p/eau-thermale-avene-intense-protect-spf50-3282770395938-7044702c)
+    * Αντηλιακό - Nivea.[Sun Protect & Bronze Trigger Spray SPF 30](https://www.nivea.gr/products/nivea-sun-protect-and-bronze-trigger-spray-spf-30-40059009157640044.html)
 * Αντηλιακή Προσώπου - Vichy.[Capital Soleil Fluide UV-Clear SPF50+](https://www.vichy.fr/tous-les-produits/soins-solaires/protections-solaires/protections-solaires-visage/capital-soleil-uv-clear)
 * Ξηρά Σημεία - ErgoPharm.[Algofeel](http://www.ergopharm.gr/Algofeel-krema-Urea-8-enydatiki-anaplastikh-ksira-skasmena-simeia-swmatos-xeria-agkwnes-gonata-fternes)
+    * Σκασμένες Πτέρνες - Natura Pharm.[Podia](https://www.podiafootcare.com/pproducts/skasmenes-pternes-krema-entatikis-frontidas/)
 * Ξηρά Σημεία - Pierre Fabre.[Avene.XeraCalm Balm](https://www.eau-thermale-avene.gr/p/xeracalm-a-d-baume-gia-anaplirosi-ton-lipidion-3282770114171-7044702c)
 * Ξηρά Σημεία - Pierre Fabre.[Dexeryl.Emollient Cream](https://www.dexeryl.com/en/p/dexeryl-emollient-cream-3573994006343-5e13c847)
+* Καθαρισμός Προσώπου - LOreal.[Toleriane Foaming Double Cleanser](https://www.larocheposay.gr/toleriane/toleriane-foaming-double-cleanser-gia-euaisthhto-derma)
 * Σαμπουάν και αφρόλουτρο - Παπουτσάνης.[πράσινο σαπούνι](https://www.papoutsanis.gr/el/markes-katanalotikon-proionton/prasino-sapouni-elaioladou-brand/sapouni-elaioladou-papoutsanis-paradosiako-prasino-sapouni-elaioladou-250-gr_131146/) - μην έχετε την εντύπωση ότι τα άλλα προϊόντα είναι στο pH που πρέπει.
 
 </details>
@@ -86,7 +89,7 @@
 
 <summary>Ηλεκτρονικό τσιγάρο</summary>
 
-* Είναι επικίνδυνοι, τα υγρά δεν είναι καθόλου αθώα, φαντάζομαι θα είδατε τον [υπουργό υγείας](https://www.thetoc.gr/ygeia/article/ilektronika-tsigara-mploko-adoni-georgiadi-stis-aromatikes-ousies-pou-briskontai-sta-ugra--tha-aposurthoun-apo-tin-agora/) (ΑΠΡ/2025) να λέει ότι όλα εκτός των **καπνικών γεύσεων** θα πάνε προς κατάργηση.. Ε και δεν έγινε τίποτα, γιατί θα κλείσουν όλα τα ecig μαγαζιά...
+* Είναι επικίνδυνοι, τα υγρά δεν είναι καθόλου αθώα, φαντάζομαι θα είδατε τον [υπουργό υγείας](https://www.thetoc.gr/ygeia/article/ilektronika-tsigara-mploko-adoni-georgiadi-stis-aromatikes-ousies-pou-briskontai-sta-ugra--tha-aposurthoun-apo-tin-agora/) (ΑΠΡ/2025) να λέει ότι όλα εκτός των **καπνικών γεύσεων** θα πάνε προς κατάργηση.. Ε και δεν έγινε τίποτα, γιατί θα κλείσουν όλα τα ecig μαγαζιά... [[1](https://www.businessnews.gr/oikonomia/item/319060)]
 * Η συσκευή θα πρέπει να λειτουργεί μέχρι και τα `10watt`, αυτό έχει σαν αποτέλεσμα ο ατμοποιητής (1.2Ω και τύπου **Mesh Coil**) να μην είναι θηρίο αλλά κάτι απλό, δεν θέλετε κάτι άλλο... Διαπίστωση : πηγαίνετε σε ΩΡΛ να δει τον φάρυγγά σας, θα σας πει είναι ερεθισμένος, φανταστείτε ότι είναι έτσι από τότε που αρχίσατε το ecig...
 * Τα `υγρά`, οπωσδήποτε DIY.. Έχοντας :
     * 100ml PG
