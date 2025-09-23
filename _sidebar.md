@@ -81,5 +81,6 @@
 	* [covid](/stories/wcovid.md)
 	* [covidGR](/stories/wcovidGR.md)
 	* [orientation](/stories/orientation.md)
+	* [blood-a](/stories/bloodtypeA.md)
 	* [greece](/stories/greece.md)
 	* [eGreece](/stories/egreece.md)
