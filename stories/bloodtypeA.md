@@ -1,4 +1,4 @@
-# Gut Check (2021)
+# Eat Right 4 Your Type (2020)
 
 * ISBN : ‎ 0425183122  
 * Author : Dr. Peter J. D'Adamo | Catherine Whitney  
