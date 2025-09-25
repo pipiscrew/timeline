@@ -202,5 +202,5 @@ Today compared inflammatory targets of `Omega3` and `Boswellia serrata` :
     * linoleic acid (omega 6) - 16%
     * linolenic acid (omega 3) - 53% (ALA)
         * **ALA** is one of the three main types of omega-3 fatty acids, alongside **EPA** and **DHA**, which are primarily found in fish. The body can convert ALA into EPA and DHA, although the conversion rate is relatively low.
-        * Anti-inflammatory properties that may help **soothe the gut lining** and **reduce inflammation** in the digestive tract.
+        * **Anti-inflammatory properties** that may help **soothe the gut lining** and **reduce inflammation** in the digestive tract.
         * Positively influence the **gut microbiome** by promoting the growth of **beneficial bacteria**.
