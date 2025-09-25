@@ -719,3 +719,5 @@
 
 reference :  
 * [Blood type distribution by country](https://en.wikipedia.org/wiki/Blood_type_distribution_by_country#ABO_and_distribution_by_country)
+* [List of diets](https://en.wikipedia.org/wiki/List_of_diets)
+  * [Blood type diet](https://en.wikipedia.org/wiki/Blood_type_diet)
