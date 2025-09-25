@@ -192,4 +192,15 @@ Today compared inflammatory targets of `Omega3` and `Boswellia serrata` :
 | **Target**                 | Cytokines, chemokines             | Specific enzymes (e.g., COX)    |
 | **Effect**                 | Broader anti-inflammatory effects  | Direct reduction of mediators     |
 | **Side Effects**           | Potential systemic effects         | Localized effects, but can cause GI issues |
-| **Use Cases**              | Autoimmune diseases, chronic inflammation | Pain relief, arthritis treatment  |
+| **Use Cases**              | Autoimmune diseases, chronic inflammation | Pain relief, arthritis treatment  |  
+
+# Omega 3
+
+* [Fish Omega 3](https://www.mollersomega3.com/) - Found in **algae** that `fish` eat.  
+    * omega 3 - **EPA** (eicosapentaenoic acid) and **DHA** (docosahexaenoic acid)
+* [Vegan Omega 3](https://www.rapunzel.de/en/organic-product-oxyguard-linseed-oil-virgin--1002330.html) - Found in `linseed oil`, oil derived from the flax seeds (Linum usitatissimum).
+    * linoleic acid (omega 6) - 16%
+    * linolenic acid (omega 3) - 53% (ALA)
+        * **ALA** is one of the three main types of omega-3 fatty acids, alongside **EPA** and **DHA**, which are primarily found in fish. The body can convert ALA into EPA and DHA, although the conversion rate is relatively low.
+        * Anti-inflammatory properties that may help **soothe the gut lining** and **reduce inflammation** in the digestive tract.
+        * Positively influence the **gut microbiome** by promoting the growth of **beneficial bacteria**.
