@@ -723,3 +723,16 @@ reference :
   * [Blood type diet](https://en.wikipedia.org/wiki/Blood_type_diet)
 * [Peter D'Adamo supplements](https://www.4yourtype.com/)
 * [Ερευνητική Εργασία Β Λυκείου - Η διατροφή σύμφωνα με την ομάδα αίματος](https://blogs.sch.gr/lykpalam/files/2015/06/%CE%B4%CE%B9%CE%B1%CF%84%CF%81%CE%BF%CF%86%CE%B7-%CE%BF%CE%BC%CE%B1%CE%B4%CE%B1-%CE%B1%CE%B9%CE%BC%CE%B1%CF%84%CE%BF%CF%83-.pdf)  
+
+---
+
+* bjorg.[γάλα σόγιας](https://www.biologikoxorio.gr/rofima-sogias) 300ml
+* antwnopoylos.[νιφάδες βρώμης](https://www.biologikoxorio.gr/nifades-vromis-olikis-alesis-3) 40gr
+* bioargos.[πλιγούρι](https://www.biologikoxorio.gr/pligouri-1) 40gr
+* 1tbsp gvillage.[κολοκυθόσποροι](https://www.biologikoxorio.gr/omi-psicha-kolokythosporou)
+* 1tsp lefkoritiko.[θυμαρίσιο μέλι](https://www.lefkoritiko.gr/products.php/thyme-honey)
+* 1tsp olympos.[ταχίνι](https://www.ab.gr/p/7132072)
+
+![img](../assets/overnight.jpg)  
+
+Το **βράδυ** το βάζουμε **ψυγείο** και την άλλη μέρα πριν το καταναλώσουμε, προσθέτουμε το **μέλι** & το **ταχίνι**.
