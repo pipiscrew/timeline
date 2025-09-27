@@ -150,6 +150,8 @@
 
 ## rss
 * [RSS Guard](https://github.com/martinrotter/rssguard)
+* [yarr](https://github.com/nkanaev/yarr)
+* [feedmaker](https://github.com/nkanaev/yarr)  - URL + CSS selectors = RSS feed
 
 ## diagnosis
 * [Wireshark](https://www.wireshark.org/) -  is a network packet analyzer
