@@ -17,6 +17,8 @@
 * Expenses - [Chromabill](https://www.chromabill.com/) - ??  
 * Pedometer - [Leap Fitness.Step Counter](https://play.google.com/store/apps/details?id=pedometer.steptracker.calorieburner.stepcounter)  
 * RSS - [Inoreader](https://play.google.com/store/apps/details?id=com.innologica.inoreader) &nbsp; / &nbsp; [News GR](https://play.google.com/store/apps/details?id=com.ngoumotsios.rss_reader)  
+* [Kagi News](https://blog.kagi.com/kagi-news)
+* [Hack For Hacker News Tech](https://play.google.com/store/apps/details?id=com.pranapps.hack)
 * Sudoku - [Brainium.Sudoku](https://play.google.com/store/apps/details?id=com.brainium.sudoku.free)  
 * [FUTO Keyboard](https://keyboard.futo.org/) - not connect to the internet
 * Pull APK - [APK Saver](https://play.google.com/store/apps/details?id=com.sdkdevelopers.apksaver)  
@@ -36,6 +38,7 @@
 * Video Capture - [Cinema FV-5 Lite](https://play.google.com/store/apps/details?id=com.flavionet.android.cinema.lite) - can change video frames per second (aka FPS) + bitrate.  
 * [CallBlocker](https://gitlab.com/bitfireAT/NoPhoneSpam/) - feature-rich call-spam fighting app, enter numbers to be blocked with wildcards [F-Droid](https://f-droid.org/packages/at.bitfire.nophonespam/)
 * [YetAnotherCallBlocker](https://gitlab.com/xynngh/YetAnotherCallBlocker) - blacklist with wildcard support, blocks calls with negative rating automatically, uses offline database [F-Droid](https://f-droid.org/app/dummydomain.yetanothercallblocker)
+* [Light Meter - Lux Meter](https://play.google.com/store/apps/details?id=com.lux.light.meter)
 * [LED Scroller](https://play.google.com/store/apps/details?id=oops.ledscroller)  
 * [WhatTheFont](https://play.google.com/store/apps/details?id=com.monotype.whatthefont)  
 * Game [Rider](https://play.google.com/store/apps/details?id=com.ketchapp.rider)  

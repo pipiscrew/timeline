@@ -191,6 +191,7 @@
 * [Psiphon](https://psiphon.ca/)
 * [AmanVPM](https://amanvpn.com/)
 * [Lantern](https://lantern.io/)
+* [Amnezia](https://amnezia.org) [2](https://blog.nommy.moe/blog/exotic-mesh-vpn/)
 
 # video downloader
 * [Lux](https://github.com/iawia002/lux)
