@@ -204,3 +204,23 @@ Today compared inflammatory targets of `Omega3` and `Boswellia serrata` :
 | **Effect**                 | Broader anti-inflammatory effects  | Direct reduction of mediators     |
 | **Side Effects**           | Potential systemic effects         | Localized effects, but can cause GI issues |
 | **Use Cases**              | Autoimmune diseases, chronic inflammation | Pain relief, arthritis treatment  |
+
+---
+
+# Αναλγητικά, αντιπυρετικά, αντιφλεγμονώδεις
+
+Η ενεργή δράση των
+* (GR) [Depon](https://www.depon.com.gr/)
+* (UK) [Panadol](https://www.panadol.com/)
+
+είναι η `παρακεταμόλη` (paracetamol).
+
+Λειτουργεί κυρίως ως **αναλγητικό** και **αντιπυρετικό**. Χρήση κατά την εγκυμοσύνη: Γενικά ασφαλές (συμβουλευτείτε έναν γιατρό).
+
+Η ενεργή δράση των
+* (GR) [Algofren](https://intermed.com.gr/el/products/algofren-ibuprofen-400mg) [[2](https://www.galinos.gr/web/drugs/main/drugs/algofren)]
+* (UK) [Nurofen](https://www.nurofen.gr/proionta/enhlikes/nurofen-400mg-malakes-kapsoules-taxeias-drasis/) [[2](https://www.galinos.gr/web/drugs/main/citations/4620)]
+
+είναι η `ιβουπροφαίνη` (ibuprofen).
+
+Ένα μη στεροειδές αντιφλεγμονώδες φάρμακο (NSAID) που όχι μόνο ανακουφίζει από τον πόνο και μειώνει τον πυρετό, αλλά **έχει και αντιφλεγμονώδεις** ιδιότητες. Χρήση κατά την εγκυμοσύνη: Συνήθως αποθαρρύνεται (συμβουλευτείτε έναν γιατρό).

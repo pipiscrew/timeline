@@ -358,6 +358,7 @@ source - (2006) [Premila.Ayurvedic Herbs - A Clinical Guide to the Healing Plant
 * (music) [Sohini Mishra - Adharam Madhuram](https://www.youtube.com/watch?v=tBgNpc39FJk)
     * [Asha - Best Of](https://www.youtube.com/watch?v=Rd-KljMbmR8)
     * [Mood Music](https://www.youtube.com/watch?v=Z7ASguHLjuY)  
+* Siddha Indian medicinal system (newer that Ayurved) - [Agathi - Herbal Remedy for Toxicities](https://amcsrc.edu.in/agathi-herbal-remedy-for-toxicities/) (in greek Ευφόρμπια, το αγκάθι του Χριστού)
     
 ---
 
