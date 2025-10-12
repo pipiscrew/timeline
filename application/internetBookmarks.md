@@ -70,6 +70,7 @@
 * (russian) [Yandex.Translate](https://translate.yandex.com/)
 * [DeepL](https://www.deepl.com/translator) supports docx + pptx
 * [Online OCR](https://www.onlineocr.net/)  
+* [ScribeOCR](https://scribeocr.com/) - [github](https://github.com/scribeocr/scribeocr)
 
 ## excel / csv
 * [Excel to HTML Table Converter](http://pressbin.com/tools/excel_to_html_table/index.html)

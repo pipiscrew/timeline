@@ -20,16 +20,16 @@ read more about [water](https://www.pipiscrew.com/threads/water-explained.5738/)
 * Ισοτονικό (Isotonic) : 
     * για βουλωμένη μύτη, υγιεινή και πρόληψη.
     * Eίναι απόλυτα ισορροπημένο για το σώμα σας. **Αποκαθιστά** την υγρασία στα ιγμόρεια σας. Χάρη στη χαμηλότερη περιεκτικότητα σε αλάτι, τα ισότονα διαλύματα δεν απορροφούν τόση υγρασία όσο τα υπέρτονα διαλύματα. Είναι σημαντικό να έχετε κατά νου ότι η διαφορά μεταξύ ενός ισότονου και ενός υπέρτονου διαλύματος είναι **σχετικά μικρή**. Δεν χρειάζεται πολύ αλάτι για να επηρεάσει σημαντικά την απόδοση και την αίσθηση του καθαριστικού των ιγμορείων όταν το χρησιμοποιείτε.  
-    * [physiomer](https://www.physiomer.gr/Physiomer-normal-jet)  - 9g/l χλωριούχου νατρίου (NaCl)
+    * (FR) [physiomer](https://www.physiomer.com/product/physiomer-normal-jet/) [[2](https://www.physiomer.gr/Physiomer-normal-jet)] - 9g/l χλωριούχου νατρίου (NaCl)
 
 * Υπερτονικό (Hypertonic) :  
     * για φραγμένη μύτη, αποσυμφορητικό.
     * Έχει `υψηλότερη συγκέντρωση` αλατιού. Εάν αντιμετωπίζετε συμφόρηση ή καταρροή, ένα υπερτονικό διάλυμα μπορεί να σας φανεί χρήσιμο. Μερικοί γιατροί συνιστούν υπέρτονα διαλύματα ρινικής έκπλυσης λόγω της υψηλότερης συγκέντρωσης αλατιού που μπορεί να απομακρύνει τα υγρά και τη **βλέννα** πιο **αποτελεσματικά**, αλλά πολλοί ασθενείς βιώνουν **αίσθημα καύσου**.  
-    * [physiomer](https://www.physiomer.gr/Physiomer-%CE%A5%CF%80%CE%AD%CF%81%CF%84%CE%BF%CE%BD%CE%BF) - 22g/l χλωριούχου νατρίου (NaCl)
-
+    * (FR) [physiomer](https://www.physiomer.com/product/physiomer-hypertonic-2/) [[2](https://www.physiomer.gr/Physiomer-%CE%A5%CF%80%CE%AD%CF%81%CF%84%CE%BF%CE%BD%CE%BF)]- 22g/l χλωριούχου νατρίου (NaCl)
 
 * Υποτονικό (Hypotonic) :
-    * [Vincentka](https://www.benu.cz/vincentka-nosni-sprej-standard-hypotonicky-25ml) [[2](https://www.vincentka.cz/en/products/vincentka-nasal-spray-standard/)] - 2.3g/l  χλωριούχου νατρίου (NaCl)
+    * (CZ) [Vincentka](https://www.vincentka.cz/en/products/vincentka-nasal-spray-standard/) [[2](https://www.benu.cz/vincentka-nosni-sprej-standard-hypotonicky-25ml)] - 2.3g/l  χλωριούχου νατρίου (NaCl)
 
 [source](https://www.achooallergy.com/blog/learning/isotonic-vs-hypertonic-which-saline-sinus-rinse-works-best-for-you/)  
-[pdf reference](https://s3.eu-west-3.amazonaws.com/perrigo.com/dev-centralbrandmasterr-assets/documents/inline-documents/Physiomer%20%CE%A1%CE%B9%CE%BD%CE%B9%CE%BA%CF%8C%20%CE%94%CE%B9%CE%AC%CE%BB%CF%85%CE%BC%CE%B1_%CE%A6%CF%8D%CE%BB%CE%BB%CE%BF%20%CE%9F%CE%B4%CE%B7%CE%B3%CE%B9%CF%8E%CE%BD%20%CE%A7%CF%81%CE%AE%CF%83%CE%B7%CF%82%20(2).pdf)
+[pdf reference](https://s3.eu-west-3.amazonaws.com/perrigo.com/dev-centralbrandmasterr-assets/documents/inline-documents/Physiomer%20%CE%A1%CE%B9%CE%BD%CE%B9%CE%BA%CF%8C%20%CE%94%CE%B9%CE%AC%CE%BB%CF%85%CE%BC%CE%B1_%CE%A6%CF%8D%CE%BB%CE%BB%CE%BF%20%CE%9F%CE%B4%CE%B7%CE%B3%CE%B9%CF%8E%CE%BD%20%CE%A7%CF%81%CE%AE%CF%83%CE%B7%CF%82%20(2).pdf)  
+physiomer water origin - seawater is collected by the [Bay of Saint-Malo](https://en.wikipedia.org/wiki/Gulf_of_Saint-Malo)
