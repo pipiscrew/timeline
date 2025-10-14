@@ -836,7 +836,7 @@ reference :
 
 ---
 
-* bjorg.[γάλα σόγιας](https://www.biologikoxorio.gr/rofima-sogias) 300ml
+* bjorg.[ρόφημα σόγιας](https://www.biologikoxorio.gr/rofima-sogias) 300ml
 * antwnopoylos.[νιφάδες βρώμης](https://www.biologikoxorio.gr/nifades-vromis-olikis-alesis-3) 40gr
 * bioargos.[πλιγούρι](https://www.biologikoxorio.gr/pligouri-1) 40gr
 * 1tbsp gvillage.[κολοκυθόσποροι](https://www.biologikoxorio.gr/omi-psicha-kolokythosporou)
@@ -846,3 +846,35 @@ reference :
 ![img](../assets/overnight.jpg)  
 
 Το **βράδυ** το βάζουμε **ψυγείο** και την άλλη μέρα πριν το καταναλώσουμε, προσθέτουμε το **μέλι** & το **ταχίνι**.
+
+---
+
+## Πρωινό 1
+
+| Προϊόν                                   | Λιπαρά (κορεσμένα) | Υδατάνθρακες (σάκχαρα) | Πρωτεΐνη | Αλάτι | Εδώδιμες ίνες | Θερμίδες   |
+| ---------------------------------------- | ------------------ | ---------------------- | -------- | ----- | ------------- | ---------- |
+| [Ρόφημα σόγιας - bjorg](https://www.biologikoxorio.gr/rofima-sogias) (300.0gr)          | 7.80 (1.80)        | 2.10 (0.00)            | 11.70    | 0.09  | 1.50          | 129.00     |
+| [Νιφάδες βρώμης - Αντωνόπουλος](https://www.biologikoxorio.gr/nifades-vromis-olikis-alesis-3) (25.0gr)   | 1.70 (0.35)        | 15.00 (0.35)           | 3.62     | 0.00  | 2.45          | 90.00      |
+| [Πλιγούρι - BioAgros](https://www.biologikoxorio.gr/pligouri-1) (25.0gr)             | 0.38 (0.07)        | 16.70 (0.50)           | 2.65     | 0.00  | 2.40          | 86.50      |
+| [Νιφάδες Κεχρί - BioAgros](https://www.biologikoxorio.gr/nifades-kechri) (25.0gr)        | 0.97 (0.23)        | 17.20 (0.40)           | 2.65     | 0.00  | 0.97          | 90.25      |
+| [Νιφάδες Φαγόπυρου - Ευ bio](https://www.biologikoxorio.gr/nifades-fagopyro-1) (25.0gr)      | 0.75 (0.00)        | 17.50 (0.50)           | 2.50     | 0.00  | 1.75          | 87.00      |
+| [Κουκουναρόσπορος - Green Village](https://www.biologikoxorio.gr/koukounarosporos-3) ( 1tbsp / 9.0gr ) | 5.78 (0.58)        | 1.01 (0.40)            | 1.65     | 0.00  | 0.28          | 63.18      |
+| [Κολοκυθόσπορος - Green Village](https://www.biologikoxorio.gr/omi-psicha-kolokythosporou) ( 1tbsp / 9.0gr )   | 4.25 (1.00)        | 0.24 (0.12)            | 2.73     | 0.00  | 0.77          | 51.66      |
+| [Ταχίνι - Olympos](https://www.ab.gr/p/7132072) ( 1tsp / 5.0gr )                 | 2.96 (0.49)        | 0.10 (0.07)            | 1.30     | 0.00  | 0.91          | 33.20      |
+| [Μέλι Θυμαρίσιο - Lefkoritiko](https://www.lefkoritiko.gr/products.php/thyme-honey) ( 1tsp / 20.0gr )    | 0.00 (0.00)        | 17.00 (16.00)          | 0.00     | 0.00  | 0.00          | 60.00      |
+| [Cocoa Powder Criollo - BDL](https://www.biologikoxorio.gr/kakao-criollo) ( 1tsp / 2.5gr )   | 0.25 (0.17)        | 1.33 (0.00)            | 0.67     | 0.00  | 0.83          | 10.00      |
+| `Συνόλο (gr)` :                            | `24.84 (4.69)`       | `88.18 (18.34)`          | `29.47`    | `0.09`  | `11.86`         | `700.79kcal` |
+| Ποσοστιαία :                             | 5.58%              | 19.79%                 | 6.62%    | 0.02% | 2.66%         |            |
+| `Συvολικό Βάρος` :                         | `445.50gr`           |                        |          |       |               |            |
+
+## Πρωινό 2
+
+| Προϊόν                                 | Λιπαρά (κορεσμένα) | Υδατάνθρακες (σάκχαρα) | Πρωτεΐνη | Αλάτι | Εδώδιμες ίνες | Θερμίδες   |
+| -------------------------------------- | ------------------ | ---------------------- | -------- | ----- | ------------- | ---------- |
+| [Νιφάδες Σταριού - BonaVita](https://www.bonavita-hellas.gr/en/product/bran-flakes-375g/) (50.0gr)    | 1.10 (0.15)        | 30.50 (5.50)           | 5.50     | 0.55  | 6.00          | 166.00     |
+| [Νιφάδες Φαγόπυρου - Ευ bio](https://www.biologikoxorio.gr/nifades-fagopyro-1) (50.0gr)     | 1.50 (0.00)        | 35.00 (1.00)           | 5.00     | 0.01  | 3.50          | 174.00     |
+| [Cocoa Powder Criollo - BDL](https://www.biologikoxorio.gr/kakao-criollo) ( ¼tsp / 0.6gr) | 0.06 (0.04)        | 0.32 (0.00)            | 0.16     | 0.00  | 0.20          | 2.40       |
+| [Ρόφημα σόγιας - bjorg](https://www.biologikoxorio.gr/rofima-sogias) (300.0gr)        | 7.80 (1.80)        | 2.10 (0.00)            | 11.70    | 0.09  | 1.50          | 129.00     |
+| `Συνόλο (gr)` :                          | `10.46 (1.99)`       | `67.92 (6.50)`           | `22.36`    | `0.65`  | `11.20`         | `471.40kcal` |
+| Ποσοστιαία :                           | 2.61%              | 16.95%                 | 5.58%    | 0.16% | 2.80%         |            |
+| `Συvολικό Βάρος` :                       | `400.60gr`           |                        |          |       |               |            |
