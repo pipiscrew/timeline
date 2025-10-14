@@ -873,7 +873,7 @@ reference :
 | -------------------------------------- | ------------------ | ---------------------- | -------- | ----- | ------------- | ---------- |
 | [Νιφάδες Σταριού - BonaVita](https://www.bonavita-hellas.gr/en/product/bran-flakes-375g/) (50.0gr)    | 1.10 (0.15)        | 30.50 (5.50)           | 5.50     | 0.55  | 6.00          | 166.00     |
 | [Νιφάδες Φαγόπυρου - Ευ bio](https://www.biologikoxorio.gr/nifades-fagopyro-1) (50.0gr)     | 1.50 (0.00)        | 35.00 (1.00)           | 5.00     | 0.01  | 3.50          | 174.00     |
-| [Cocoa Powder Criollo - BDL](https://www.biologikoxorio.gr/kakao-criollo) ( ¼tsp / 0.6gr) | 0.06 (0.04)        | 0.32 (0.00)            | 0.16     | 0.00  | 0.20          | 2.40       |
+| [Cocoa Powder Criollo - BDL](https://www.biologikoxorio.gr/kakao-criollo) ( ¼tsp / 0.6gr ) | 0.06 (0.04)        | 0.32 (0.00)            | 0.16     | 0.00  | 0.20          | 2.40       |
 | [Ρόφημα σόγιας - bjorg](https://www.biologikoxorio.gr/rofima-sogias) (300.0gr)        | 7.80 (1.80)        | 2.10 (0.00)            | 11.70    | 0.09  | 1.50          | 129.00     |
 | `Σύνολο (gr)` :                          | `10.46 (1.99)`       | `67.92 (6.50)`           | `22.36`    | `0.65`  | `11.20`         | `471.40kcal` |
 | Ποσοστιαία :                           | 2.61%              | 16.95%                 | 5.58%    | 0.16% | 2.80%         |            |
