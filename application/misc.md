@@ -304,6 +304,7 @@ The sequence is :
   * [Microsoft Windows 10](https://www.techworm.net/2022/08/download-windows-10-iso.html)
     * [Internet Archive.LTSC 2019](https://archive.org/details/win-10.-ltsc-2019.x-64.lite.v-2107-ik)
 	* [Tiny11-NTDEV](https://archive.org/details/tiny-11-NTDEV)
+    * [ntdevlabs/tiny11builder](https://github.com/ntdevlabs/tiny11builder) - powershell
   * [adguard](https://files.rg-adguard.net/)
   * [VC++ Redistributable 2015-2022](https://learn.microsoft.com/en-US/cpp/windows/latest-supported-vc-redist)
   * [NHV](https://nhvboot.com/download/)
@@ -311,7 +312,8 @@ The sequence is :
 * [ChrisTitusTech/winutil](https://github.com/ChrisTitusTech/winutil) - tweaks  
 * [DISMTools](https://github.com/CodingWonders/DISMTools) - manage your Windows Imaging (WIM) files  
 * [CrapFixer](https://github.com/builtbybel/CrapFixer) - fixes the crap Windows leaves behind  
-* [Flyoobe](https://github.com/builtbybel/Flyoobe) - also disables Win11 AI features  
+* [Flyoobe](https://github.com/builtbybel/Flyoobe) - remove the restrictions stopping you to install Windows + also disables Win11 AI features  
+* [Windows Update Killer](https://github.com/Aetherinox/pause-windows-updates) - till 2051 through registry
 
 ## Games
 * [eXoDOS](http://exodos.the-eye.us/)
