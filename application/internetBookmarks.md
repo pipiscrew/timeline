@@ -63,7 +63,8 @@
 * [12ft](https://12ft.io/https://www.eviemagazine.com/post/feminism-made-me-miserable-so-i-left/)
 * [paywallbuster](https://paywallbuster.com/)
 * [removepaywall](https://www.removepaywall.com/)
-* [freedium](https://freedium.cfd) - remove medium site, paywall  
+* [freedium](https://freedium.cfd) - remove medium site, paywall
+* [removepaywalls](https://removepaywalls.com/nytimes.com/interactive/2025/10/16/well/eat/ultraprocessed-food-junk-history.html) - nytimes supported
 
 ## translators
 * [DocTranslator](https://www.onlinedoctranslator.com/en/translationform) - Translate PDF and outputs PDF, at the moment Yandex / Google cant do this.

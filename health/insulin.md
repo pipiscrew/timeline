@@ -687,6 +687,9 @@ Even though the **tobacco companies no longer own** these food brands, researche
 
 said [Tera Fazzino](https://fazzinolab.ku.edu/people/tera-fazzino), the lead author of the new study and an assistant professor in the department of **psychology** at the **University of Kansas**.  
 
+reference :  
+* (OCT/2025) [How America got hooked on ultraprocessed foods](https://removepaywalls.com/nytimes.com/interactive/2025/10/16/well/eat/ultraprocessed-food-junk-history.html)  
+
 <center> --<>-- </center>  
 </br>  
 
