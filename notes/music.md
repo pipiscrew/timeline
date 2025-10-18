@@ -21,3 +21,7 @@
 * [The Death of the Middle-Class Musician](https://thewalrus.ca/the-death-of-the-middle-class-musician/)
 * [Radium - The Music Editor](https://href.li/?http://users.notam02.no/~kjetism/radium/)
 * [Sheet music scanner](https://www.soundslice.com/sheet-music-scanner/) [[2](https://www.holovaty.com/writing/chatgpt-fake-feature/)]
+* [Strudel REPL - a music live coding environment living in the browser (see sounds tab > dblck a shit)](https://href.li/?https://strudel.cc)
+  * [2](https://href.li/?https://www.youtube.com/watch?v=HkgV_-nJOuE)
+  * [3](https://href.li/?https://www.youtube.com/watch?v=E1K6Sv-oIb0)
+  * [4](https://href.li/?https://news.ycombinator.com/item?id=45571822)
