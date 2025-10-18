@@ -21,7 +21,7 @@ read more about [water](https://www.pipiscrew.com/threads/water-explained.5738/)
     * για βουλωμένη μύτη, υγιεινή και πρόληψη.
     * Eίναι απόλυτα ισορροπημένο για το σώμα σας. **Αποκαθιστά** την υγρασία στα ιγμόρεια σας. Χάρη στη χαμηλότερη περιεκτικότητα σε αλάτι, τα ισότονα διαλύματα δεν απορροφούν τόση υγρασία όσο τα υπέρτονα διαλύματα. Είναι σημαντικό να έχετε κατά νου ότι η διαφορά μεταξύ ενός ισότονου και ενός υπέρτονου διαλύματος είναι **σχετικά μικρή**. Δεν χρειάζεται πολύ αλάτι για να επηρεάσει σημαντικά την απόδοση και την αίσθηση του καθαριστικού των ιγμορείων όταν το χρησιμοποιείτε.  
     * (UK) [Perrigo.physiomer](https://www.physiomer.com/product/physiomer-normal-jet/) [[GR](https://www.physiomer.gr/Physiomer-normal-jet)] - 9g/l χλωριούχου νατρίου (NaCl)
-    * (GR) φυσιολογικός ορός - [Demo.new sept plus](https://www.pharmadvice.gr/el/products/new-sept-plus-fysiologikos-oros-500ml) - 9g/l χλωριούχου νατρίου (NaCl) - δημιουργείται στο εργαστήριο με καθαρό αλάτι και αποστειρωμένο νερό. [[2](../assets/normal_saline.jpg)]
+    * (GR) φυσιολογικός ορός - [Demo.new sept plus](https://www.pharmadvice.gr/el/products/new-sept-plus-fysiologikos-oros-500ml) - 9g/l χλωριούχου νατρίου (NaCl) - δημιουργείται στο εργαστήριο με καθαρό αλάτι και αποστειρωμένο νερό. [[2](https://pipiscrew.github.io/timeline/assets/normal_saline.jpg)]
         * [DIY](https://www.orl.gr/sites/default/files/pdf/RINIKI-SUMFORISH.pdf)
 
 * Υπερτονικό (Hypertonic) :  
