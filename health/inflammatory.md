@@ -220,7 +220,7 @@ Today compared inflammatory targets of `Omega3` and `Boswellia serrata` :
 Η ενεργή δράση των
 * (GR) [Algofren](https://intermed.com.gr/el/products/algofren-ibuprofen-400mg) [[2](https://www.galinos.gr/web/drugs/main/drugs/algofren)]
 * (UK) [Nurofen](https://www.nurofen.gr/proionta/enhlikes/nurofen-400mg-malakes-kapsoules-taxeias-drasis/) [[2](https://www.galinos.gr/web/drugs/main/citations/4620)]
-* (US) [Brufen](https://www.viatris.gr/el-gr/products/viatris-products-in-greece) [[2]](https://www.galinos.gr/web/drugs/main/drugs/brufen)
+* (IE) [Brufen](https://www.viatris.gr/el-gr/products/viatris-products-in-greece) [[2]](https://www.galinos.gr/web/drugs/main/drugs/brufen)
     * [Brufen Plus](https://www.viatris.gr/el-gr/products/viatris-products-in-greece) [[2]](https://www.galinos.gr/web/drugs/main/drugs/brufen-plus) + Κωδεΐνη
 
 είναι η `ιβουπροφαίνη` (ibuprofen).
