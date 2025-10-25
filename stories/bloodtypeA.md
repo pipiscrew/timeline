@@ -832,6 +832,7 @@ reference :
 * [List of diets](https://en.wikipedia.org/wiki/List_of_diets)
   * [Blood type diet](https://en.wikipedia.org/wiki/Blood_type_diet)
 * [Peter D'Adamo supplements](https://www.4yourtype.com/)
+ * [official site](https://dadamo.com/)
 * [Ερευνητική Εργασία Β Λυκείου - Η διατροφή σύμφωνα με την ομάδα αίματος](https://blogs.sch.gr/lykpalam/files/2015/06/%CE%B4%CE%B9%CE%B1%CF%84%CF%81%CE%BF%CF%86%CE%B7-%CE%BF%CE%BC%CE%B1%CE%B4%CE%B1-%CE%B1%CE%B9%CE%BC%CE%B1%CF%84%CE%BF%CF%83-.pdf)  
 
 ---
