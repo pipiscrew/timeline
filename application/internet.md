@@ -45,20 +45,17 @@ flush dns - `chrome://net-internals/#dns`
 * [Basilisk](https://basilisk-browser.org/features.shtml) - Replaced Gecko with Goanna (single-process mode) engine, interface as-carried by Firefox between v29 and v56, more read at features page.
 * [Thorium.Mercury](https://thorium.rocks/mercury) - implements fixes by  LibreWolf, Waterfox, FireDragon, PlasmaFox, and Ghostery (get AVX2 variant)  
 
-To find the profile currently is use navigate to `about:support` or `about:profiles`.  
- * [profile manager](https://support.mozilla.org/en-US/kb/profile-manager-create-remove-switch-firefox-profiles) - to start with specific profile, `firefox.exe -P "<profile name>" `  
-
-To parameterized hidden options - `about:config`  
-
-show browser task manager `about:performance`, with shortcut **SHIFT+ESC**  
-
-Service Workers - `about:serviceworkers` or `about:debugging#/runtime/this-firefox`  
-
-To load temporary addon or to see what is loaded (built in addons), or to use ADB goto `about:debugging`, then click on left `This Firefox` ([ref](https://developer.mozilla.org/en-US/docs/Mozilla/Add-ons/WebExtensions/Your_first_WebExtension))  
-
-[Firefox Disable Data Collection Telemetry](https://github.com/Aetherinox/Firefox-Disable-Data-Collection-Telemetry)  
-
-(JUL/2025) [Google Developer Expert.How to Firefox](https://kau.sh/blog/how-to-firefox/)  
+misc : 
+* To find the profile currently is use navigate to `about:support` or `about:profiles`.  
+* [profile manager](https://support.mozilla.org/en-US/kb/profile-manager-create-remove-switch-firefox-profiles) - to start with specific profile, `firefox.exe -P "<profile name>" `  
+* To parameterized hidden options - `about:config`  
+* show browser task manager `about:performance`, with shortcut **SHIFT+ESC**  
+* Service Workers - `about:serviceworkers` or `about:debugging#/runtime/this-firefox`  
+* To load temporary addon or to see what is loaded (built in addons), or to use ADB goto `about:debugging`, then click on left `This Firefox` ([ref](https://developer.mozilla.org/en-US/docs/Mozilla/Add-ons/WebExtensions/Your_first_WebExtension))  
+* [Firefox Disable Data Collection Telemetry](https://github.com/Aetherinox/Firefox-Disable-Data-Collection-Telemetry)  
+* (JUL/2025) [Google Developer Expert.How to Firefox](https://kau.sh/blog/how-to-firefox/)  
+* (NOV/2025) [Firefox Forcing LLM Features](https://equk.co.uk/2025/10/28/firefox-forcing-llm-features/) [[2](https://github.com/equk/ffox_profile_tools/blob/master/ffox_data/def_prefs.js)]
+* [Browser Market Share Worldwide](https://gs.statcounter.com/browser-market-share)
 
 ----------
 

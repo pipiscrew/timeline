@@ -57,6 +57,7 @@
 * [Standard Ebooks](https://standardebooks.org) - liberated ebooks, carefully produced for the true book lover  
 * [judyrecords](https://www.judyrecords.com/) - Full Text Search of US Court records  
 * [LibriVox](https://librivox.org/) - Free public domain audiobooks  
+* [Sturdy Statistics](https://sturdystatistics.com/deepdive-search) - Research Hacker News, ArXiv & Google with Hierarchical Bayesian Models
 
 ## remove paywall
 * [smry.ai](https://www.smry.ai/proxy?url=https://www.eviemagazine.com/post/feminism-made-me-miserable-so-i-left/)
