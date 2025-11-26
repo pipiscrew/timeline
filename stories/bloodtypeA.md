@@ -881,3 +881,8 @@ reference :
 | `Συvολικό Βάρος` :                       | `400.60gr`           |                        |          |       |               |            |
 
 * update : Στο `Πρωινό 2` optimal είναι **200ml liquid** με **80gr δημητριακών**.
+* alternative overnight : 
+  * [γιαούρτι](https://www.ab.gr/p/7510978) με 1tbsp ταχίνι ανακατεύουμε καλά
+  * 30gr βρώμη + 30gr φαγόπυρο
+  * 1tbsp κοκουναρόσπορο + 1tbsp κολοκυθόσπορο
+  * [source](https://biona.co.uk/blogs/recipes/peanut-butter-overnight-oats)

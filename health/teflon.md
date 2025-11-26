@@ -11,6 +11,8 @@ for reference, nowadays statistics :
 * (2025) - [Chemours.Teflon - tries to block EU forever chemicals ban](https://www.politico.eu/article/chemours-chemicals-block-european-pfas-ban-claim-corporate-europe-observatory/)
     * (2022) - [PTFE safe cousin of toxic PFAS. But is it really?](https://chemsec.org/the-teflon-chemical-ptfe-is-often-touted-as-a-safe-cousin-of-toxic-pfas-but-is-it-really/)
 * [«Αιώνια Ρύπανση»: Η ανεπανόρθωτη βλάβη των PFAS και η Ελλάδα που δεν θέλει να ξέρει](https://www.reportersunited.gr/10499/forever-pollution/)  
+* (2025) [EPA Proposing New Pesticide (w/ PFAS) on Crops Raises Alarm](https://www.newsweek.com/epa-proposing-new-pesticide-crops-raises-alarm-11046481)
+    * [EPA.PFAS Explained](https://www.epa.gov/pfas/pfas-explained)
 
 It's important to remember that Teflon was developed and marketed decades ago, nowadays, with more knowledge and studies, the **concerns** have been **raised** and it's important to be aware of the potential risks and take precautions when using Teflon-coated cookware, such as using them on low to medium heat and avoiding preheating empty pans or better not using it at all.  
 

@@ -72,6 +72,8 @@
 * Ξηρά Σημεία - Pierre Fabre.[Avene.XeraCalm Balm](https://www.eau-thermale-avene.gr/p/xeracalm-a-d-baume-gia-anaplirosi-ton-lipidion-3282770114171-7044702c)
 * Ξηρά Σημεία - Pierre Fabre.[Dexeryl.Emollient Cream](https://www.dexeryl.com/en/p/dexeryl-emollient-cream-3573994006343-5e13c847)
 * Καθαρισμός Προσώπου - LOreal.[Toleriane Foaming Double Cleanser](https://www.larocheposay.gr/toleriane/toleriane-foaming-double-cleanser-gia-euaisthhto-derma)
+* Ενυδατική Προσώπου - LOreal.[PM Facial Moisturising Lotion](https://www.cerave.gr/peripoihsh-dermatos/facial-moisturising-lotion-enydatikh-krema-proswpou)
+    * Serum - LOreal.[Hydrating Hyaluronic Acid Serum](https://www.cerave.gr/peripoihsh-dermatos/hydrating-hyaluronic-acid-serum-enudatwshs-me-ualouroniko-oksu)
 * Σαμπουάν και αφρόλουτρο - Παπουτσάνης.[πράσινο σαπούνι](https://www.papoutsanis.gr/el/markes-katanalotikon-proionton/prasino-sapouni-elaioladou-brand/sapouni-elaioladou-papoutsanis-paradosiako-prasino-sapouni-elaioladou-250-gr_131146/) - μην έχετε την εντύπωση ότι τα άλλα προϊόντα είναι στο pH που πρέπει.
 * Γαλάκτωμα σώματος - [Aroma.Honey-Yogurt-Propolis](https://www.linkedin.com/posts/oikos-s-a_cosmetics-skincare-skin-activity-7275850206540091392-j9ey)
 * Τρίχες - [Lavieenrose.Long Keratin Oil](https://www.lavieenrose.com.gr/el/long-keratin-oil-150ml)
