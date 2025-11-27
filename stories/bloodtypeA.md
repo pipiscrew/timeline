@@ -880,9 +880,21 @@ reference :
 | Ποσοστιαία :                           | 2.61%              | 16.95%                 | 5.58%    | 0.16% | 2.80%         |            |
 | `Συvολικό Βάρος` :                       | `400.60gr`           |                        |          |       |               |            |
 
-* update : Στο `Πρωινό 2` optimal είναι **200ml liquid** με **80gr δημητριακών**.
-* alternative overnight : 
-  * [γιαούρτι](https://www.ab.gr/p/7510978) με 1tbsp ταχίνι ανακατεύουμε καλά
-  * 30gr βρώμη + 30gr φαγόπυρο
-  * 1tbsp κοκουναρόσπορο + 1tbsp κολοκυθόσπορο
-  * [source](https://biona.co.uk/blogs/recipes/peanut-butter-overnight-oats)
+* update : optimal είναι **200ml liquid** με **80gr δημητριακών**.
+
+# Πρωινό 3
+
+| Προϊόν                                   | Λιπαρά (κορεσμένα) | Υδατάνθρακες (σάκχαρα) | Πρωτεΐνη | Αλάτι | Εδώδιμες ίνες | Θερμίδες   |
+| ---------------------------------------- | ------------------ | ---------------------- | -------- | ----- | ------------- | ---------- |
+| [Γιαούρτι Πρόβειο - Τζίφρης 2%](https://www.sklavenitis.gr/giaoyrtia-kremes-galaktos-epidorpia-psygeioy/giaoyrtia/giaoyrtia-katsikisia-proveia/tzifris-giaourti-proveio-2-220gr-1287196/) (220.0gr)  | 4.40 (3.08)        | 8.80 (8.80)            | 12.98    | 0.13  | 0.00          | 136.40     |
+| [Ταχίνι - Φλώρος](https://www.oikogeneia-gaitanidi.gr/pos/) ( 1tbsp / 15.0gr )                 | 9.96 (1.51)        | 1.68 (0.21)            | 2.84     | 0.03  | 0.00          | 110.10     |
+| [Νιφάδες βρώμης - BioAgros](https://www.biologikoxorio.gr/nifades-vromis-olikis-alesis-chondres) (30.0gr)       | 2.10 (0.36)        | 17.61 (0.00)           | 3.75     | 0.03  | 3.30          | 107.40     |
+| [Νιφάδες Φαγόπυρου - Ευ bio](https://www.biologikoxorio.gr/nifades-fagopyro-1) (30.0gr)      | 0.90 (0.00)        | 21.00 (0.60)           | 3.00     | 0.00  | 2.10          | 104.40     |
+| [Κολοκυθόσπορος - Green Village](https://www.biologikoxorio.gr/omi-psicha-kolokythosporou) [[2](https://tokelari.gr/product/%cf%80%ce%b1%cf%83%ce%b1%cf%84%ce%ad%ce%bc%cf%80%ce%bf%cf%82-%cf%88%ce%af%cf%87%ce%b1-2/)] ( 1tbsp / 9.0gr )   | 4.25 (1.00)        | 0.24 (0.12)            | 2.73     | 0.00  | 0.77          | 51.66      |
+| [Κουκουναρόσπορος - Green Village](https://www.biologikoxorio.gr/koukounarosporos-3) [[2](https://tokelari.gr/product/%CE%BA%CE%BF%CF%85%CE%BA%CE%BF%CF%85%CE%BD%CE%AC%CF%81%CE%B9/)] ( 1tbsp / 9.0gr ) | 5.78 (0.58)        | 1.01 (0.40)            | 1.65     | 0.00  | 0.28          | 63.18      |
+| `Σύνολο (gr)` :                            | `27.39 (6.53)`       | `50.34 (10.13)`          | `26.95`    | `0.19`  | `6.45`          | `573.14kcal` |
+| Ποσοστιαία :                             | 8.75%              | 16.08%                 | 8.61%    | 0.06% | 2.06%         |            |
+| `Συvολικό Βάρος` :                         | `313.00gr`           |                        |          |       |               |            |
+
+* αδειάστε το γιαούρτι και το ταχίνι, ανακατέψτε πάρα πολύ καλά, ρίξτε τα υπόλοιπα, βάλτε το ψυγείο όλη την νύχτα.
+* σε περίπτωση χρήσης νερού αντί γιαουρτού, χρησιμοποιήστε 80gr από τα δημητριακά και 200ml.
