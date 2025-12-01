@@ -175,6 +175,10 @@ Chicken and hemp / quinoa seeds information by GPT, Agaricus Bisporus (2021) dat
 
 [wiki](https://en.wikipedia.org/wiki/Protein_Digestibility_Corrected_Amino_Acid_Score)
 
+---  
+
+> Around **80% of proteins involved in diseases** like cancer and neurodegenerative illnesses do not have a stable structure. These proteins, known as intrinsically disordered proteins (IDPs) can quickly adapt to the conditions in our cells. A better understanding could aid in developing new therapeutic methods. [source](https://phys.org/news/2025-11-unstable-protein-linked-cancer-reveals.html)
+
 ----------
 
 

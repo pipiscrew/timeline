@@ -897,4 +897,23 @@ reference :
 | `Συvολικό Βάρος` :                         | `313.00gr`           |                        |          |       |               |            |
 
 * αδειάστε το **γιαούρτι** και το **ταχίνι**, ανακατέψτε πάρα πολύ καλά, ρίξτε τα υπόλοιπα, βάλτε το **ψυγείο** όλη την νύχτα.
-* σε περίπτωση χρήσης **χλιαρού νερού** αντί γιαουρτού, χρησιμοποιήστε 80gr από τα δημητριακά και 200ml, περιμένετε **10 λεπτά**.
+* σε περίπτωση χρήσης **χλιαρού νερού** αντί γιαουρτού, χρησιμοποιήστε 80gr από τα δημητριακά και 200ml, περιμένετε **10 λεπτά**.  
+
+---
+
+*GPT*
+
+# How Pineapple Affects Stomach and Gut Digestion
+Has several effects on digestion due to its unique composition and the `presence of specific enzymes`.  
+
+## Key Components
+* **Bromelain**: Pineapple contains the enzyme bromelain, which helps break down protein molecules. This can aid in the digestion of protein-rich foods and may alleviate indigestion or bloating.
+* **Dietary Fiber**: Pineapple is **high** in dietary fiber, which promotes regular bowel movements and overall gut health. Fiber helps to prevent constipation and supports a healthy balance of gut bacteria. (Soluble Fiber-10-15% Insoluble Fiber-85-90%)
+* **Acids**: The natural acids in pineapple can stimulate the production of digestive juices, which can enhance the digestive process.
+* **Vitamins and Minerals**: Nutrients such as vitamin C and manganese contribute to overall digestive health and can help in reducing inflammation in the gut.
+
+## Effects on Digestion
+* **Promotes Digestion**: The combination of bromelain and acids can enhance the breakdown of food, making it easier for the stomach to digest proteins.
+* **Relieves Constipation**: The fiber content helps keep the digestive system regular, preventing constipation and promoting gut motility.
+* **May Cause Discomfort**: Some individuals may experience stomach upset or acid reflux if they consume pineapple in large quantities due to its acidity.
+* **Supports Gut Health**: The fiber and antioxidants in pineapple can promote a healthy gut microbiome by feeding beneficial bacteria.

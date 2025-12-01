@@ -23,6 +23,7 @@ read more about [water](https://www.pipiscrew.com/threads/water-explained.5738/)
     * (UK) [Perrigo.physiomer](https://www.physiomer.com/product/physiomer-normal-jet/) [[GR](https://www.physiomer.gr/Physiomer-normal-jet)] - 9g/l χλωριούχου νατρίου (NaCl)
     * (GR) φυσιολογικός ορός - [Demo.new sept plus](https://www.pharmadvice.gr/el/products/new-sept-plus-fysiologikos-oros-500ml) - 9g/l χλωριούχου νατρίου (NaCl) - δημιουργείται στο εργαστήριο με καθαρό αλάτι και αποστειρωμένο νερό. [[2](https://pipiscrew.github.io/timeline/assets/normal_saline.jpg)]
         * [DIY](https://www.orl.gr/sites/default/files/pdf/RINIKI-SUMFORISH.pdf)
+        * [Neilmed Sinus Rinse](https://www.google.com/search?q=neilmed) - χρησιμοποιήστε αυτήν τη συσκευή με τον φυσιολογικό ορό.
 
 * Υπερτονικό (Hypertonic) :  
     * για φραγμένη μύτη, αποσυμφορητικό.
