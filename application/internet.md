@@ -45,7 +45,7 @@ flush dns - `chrome://net-internals/#dns`
 * [Basilisk](https://basilisk-browser.org/features.shtml) - Replaced Gecko with Goanna (single-process mode) engine, interface as-carried by Firefox between v29 and v56, more read at features page.
 * [Thorium.Mercury](https://thorium.rocks/mercury) - implements fixes by  LibreWolf, Waterfox, FireDragon, PlasmaFox, and Ghostery (get AVX2 variant)  
 
-misc : 
+misc :  
 * To find the profile currently is use navigate to `about:support` or `about:profiles`.  
 * [profile manager](https://support.mozilla.org/en-US/kb/profile-manager-create-remove-switch-firefox-profiles) - to start with specific profile, `firefox.exe -P "<profile name>" `  
 * To parameterized hidden options - `about:config`  
@@ -55,6 +55,7 @@ misc :
 * [Firefox Disable Data Collection Telemetry](https://github.com/Aetherinox/Firefox-Disable-Data-Collection-Telemetry)  
 * (JUL/2025) [Google Developer Expert.How to Firefox](https://kau.sh/blog/how-to-firefox/)  
 * (NOV/2025) [Firefox Forcing LLM Features](https://equk.co.uk/2025/10/28/firefox-forcing-llm-features/) [[2](https://github.com/equk/ffox_profile_tools/blob/master/ffox_data/def_prefs.js)]
+* [Firefox Disable AI functions](https://rubenerd.com/mozillas-latest-quagmire/)
 * [Browser Market Share Worldwide](https://gs.statcounter.com/browser-market-share)
 
 ----------

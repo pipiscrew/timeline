@@ -124,3 +124,24 @@
     * απλά πάρτε Ghee στο δακτυλό σας και `επικαλύψτε εξωτερικά` την μύτη σας, σαν να είναι κρέμα.
 
 </details>
+
+<details>
+
+<summary>Συμπληρώματα διατροφής</summary>
+
+* [Βιταμίνη D3](https://ods.od.nih.gov/factsheets/VitaminD-HealthProfessional/)
+* [Βιταμίνη B9 (aka Φυλλικό οξύ)](https://ods.od.nih.gov/factsheets/Folate-HealthProfessional/)
+* [Βιταμίνη B12](https://ods.od.nih.gov/factsheets/VitaminB12-HealthProfessional/)
+* [Μαγνήσιο](https://ods.od.nih.gov/factsheets/Magnesium-HealthProfessional/) - είναι απαραίτητο για περισσότερες από 300 βιοχημικές αντιδράσεις (ένζυμα) [[2](https://medlineplus.gov/ency/article/002423.htm)]
+* [Ψευδάργυρος](https://ods.od.nih.gov/factsheets/Zinc-HealthProfessional/) [[2](https://medlineplus.gov/ency/article/002416.htm)]
+* [Ωμέγα 3](https://ods.od.nih.gov/factsheets/Omega3FattyAcids-HealthProfessional/)
+* [Ηλεκτρολύτες](https://medlineplus.gov/ency/article/002350.htm) - είναι απαραίτητα μέταλλα που βοηθούν στη διατήρηση της ισορροπίας υγρών, των μυϊκών συσπάσεων, της νευρικής λειτουργίας και μεταφέρουν ηλεκτρικό φορτίο. Το `πορτοκάλι` έχει **κάλιο** και **φώσφορο**, **μην καταναλώνετε** φάκελα ηλεκτρολυτών. `κρίσιμο`
+
+---
+
+* [oFarmakopoiosMou](https://www.ofarmakopoiosmou.gr/) - Παγκράτι, δια ζώσης τιμές web.
+* [NewGen Pharmacy](https://www.newgenpharmacy.gr/) - Νέο Ψυχικό, τιμές web.
+* [vita4you](https://www.vita4you.gr/) - Θεσσαλονίκη, τιμές web.
+
+
+</details>
