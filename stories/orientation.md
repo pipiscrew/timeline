@@ -66,15 +66,15 @@
 * Πάντα ανακινείτε το δοχείο πριν τη χρήση.
 * Αντηλιακό - Pierre Fabre.[Avene.Intense Protect SPF50+](https://www.eau-thermale-avene.gr/p/eau-thermale-avene-intense-protect-spf50-3282770395938-7044702c)
     * Αντηλιακό - Nivea.[Sun Protect & Bronze Trigger Spray SPF 30](https://www.nivea.gr/products/nivea-sun-protect-and-bronze-trigger-spray-spf-30-40059009157640044.html)
-* Αντηλιακή Προσώπου - Vichy.[Capital Soleil Fluide UV-Clear SPF50+](https://www.vichy.fr/tous-les-produits/soins-solaires/protections-solaires/protections-solaires-visage/capital-soleil-uv-clear)
+    * Αντηλιακή Προσώπου - Vichy.[Capital Soleil Fluide UV-Clear SPF50+](https://www.vichy.fr/tous-les-produits/soins-solaires/protections-solaires/protections-solaires-visage/capital-soleil-uv-clear)
 * Ξηρά Σημεία - ErgoPharm.[Algofeel](http://www.ergopharm.gr/Algofeel-krema-Urea-8-enydatiki-anaplastikh-ksira-skasmena-simeia-swmatos-xeria-agkwnes-gonata-fternes)
     * Σκασμένες Πτέρνες - Natura Pharm.[Podia](https://www.podiafootcare.com/pproducts/skasmenes-pternes-krema-entatikis-frontidas/)
-* Ξηρά Σημεία - Pierre Fabre.[Avene.XeraCalm Balm](https://www.eau-thermale-avene.gr/p/xeracalm-a-d-baume-gia-anaplirosi-ton-lipidion-3282770114171-7044702c)
-* Ξηρά Σημεία - Pierre Fabre.[Dexeryl.Emollient Cream](https://www.dexeryl.com/en/p/dexeryl-emollient-cream-3573994006343-5e13c847)
+    * Ξηρά Σημεία - Pierre Fabre.[Avene.XeraCalm Balm](https://www.eau-thermale-avene.gr/p/xeracalm-a-d-baume-gia-anaplirosi-ton-lipidion-3282770114171-7044702c)
+    * Ξηρά Σημεία - Pierre Fabre.[Dexeryl.Emollient Cream](https://www.dexeryl.com/en/p/dexeryl-emollient-cream-3573994006343-5e13c847)
 * Καθαρισμός Προσώπου - LOreal.[Toleriane Foaming Double Cleanser](https://www.larocheposay.gr/toleriane/toleriane-foaming-double-cleanser-gia-euaisthhto-derma)
-* Ενυδατική Προσώπου - LOreal.[PM Facial Moisturising Lotion](https://www.cerave.gr/peripoihsh-dermatos/facial-moisturising-lotion-enydatikh-krema-proswpou)
-* Serum - LOreal.[Hydrating Hyaluronic Acid Serum](https://www.cerave.gr/peripoihsh-dermatos/hydrating-hyaluronic-acid-serum-enudatwshs-me-ualouroniko-oksu) [[2](https://youtu.be/tKZON01TG0s?t=220)] - το υαλουρονικό οξύ υπάρχει φυσικά στο σώμα και έχει την ικανότητα να συγκρατεί την υγρασία.
-* Scrub - Lavieenrose.[Black Orchid](https://www.lavieenrose.com.gr/el/black-orchid-scrub-100ml) - από κόκκους περλίτη (είναι ηφαιστειακό γυαλί), λειτουργεί ως απαλό απολεπιστικό, βοηθώντας στην απομάκρυνση των νεκρών κυττάρων του δέρματος.
+    * Ενυδατική Προσώπου - LOreal.[PM Facial Moisturising Lotion](https://www.cerave.gr/peripoihsh-dermatos/facial-moisturising-lotion-enydatikh-krema-proswpou)
+    * Serum - LOreal.[Hydrating Hyaluronic Acid Serum](https://www.cerave.gr/peripoihsh-dermatos/hydrating-hyaluronic-acid-serum-enudatwshs-me-ualouroniko-oksu) [[2](https://youtu.be/tKZON01TG0s?t=220)] - το υαλουρονικό οξύ υπάρχει φυσικά στο σώμα και έχει την ικανότητα να συγκρατεί την υγρασία.
+    * Scrub - Lavieenrose.[Black Orchid](https://www.lavieenrose.com.gr/el/black-orchid-scrub-100ml) - από κόκκους περλίτη (είναι ηφαιστειακό γυαλί), λειτουργεί ως απαλό απολεπιστικό, βοηθώντας στην απομάκρυνση των νεκρών κυττάρων του δέρματος.
 * Σαμπουάν και αφρόλουτρο - Παπουτσάνης.[πράσινο σαπούνι](https://www.papoutsanis.gr/el/markes-katanalotikon-proionton/prasino-sapouni-elaioladou-brand/sapouni-elaioladou-papoutsanis-paradosiako-prasino-sapouni-elaioladou-250-gr_131146/) - μην έχετε την εντύπωση ότι τα άλλα προϊόντα είναι στο pH που πρέπει.
 * Γαλάκτωμα σώματος - Aroma.[Honey-Yogurt-Propolis](https://www.linkedin.com/posts/oikos-s-a_cosmetics-skincare-skin-activity-7275850206540091392-j9ey)
 * Τρίχες - Lavieenrose.[Long Keratin Oil](https://www.lavieenrose.com.gr/el/long-keratin-oil-150ml)
