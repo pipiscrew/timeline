@@ -47,6 +47,7 @@
 * Game [Pushing Machine](https://play.google.com/store/apps/details?id=com.reactor.pushingmachine) 
 * Game [HOOK](https://play.google.com/store/apps/details?id=com.rt.hook)
 * Game [Magic DosBox](https://play.google.com/store/apps/details?id=bruenor.magicbox) - fast DOSBox port for Android
+* Game [Words of Wonders Crossword](https://play.google.com/store/apps/details?id=com.fugo.wow)
 * Screensaver [XScreenSaver](https://play.google.com/store/apps/details?id=org.jwz.android.xscreensaver)  
 * [Maths Workout](https://play.google.com/store/apps/details?id=io.ts.mathworkout)
 * [TypingHero](https://typinghero.app/) - Text Macros for Android  
@@ -60,6 +61,7 @@
 * [Relay for reddit](https://play.google.com/store/apps/details?id=free.reddit.news)
 * [Earthquake Network](https://play.google.com/store/apps/details?id=com.finazzi.distquake) - Is the only earthquake early warning system able to alert you **~15-30sec** before the seismic waves. [[homepage](https://sismo.app/)]
 * [Scan4Chem](https://www.askreach.eu/scan4chem-app-for-checking-substances-of-very-high-concern-in-products-launched/)
+* [Onlyrecipe](https://play.google.com/store/apps/details?id=com.nsqr.onlyrecipe)
 * [Lady Log - A period tracker](https://play.google.com/store/apps/details?id=earlyowlsoftware.justme.justme)
 * [TP-LINK UE300C - Use ethernet cable to connect to internet via USB-C](https://www.tp-link.com/us/home-networking/usb-converter/ue300c/)  
 

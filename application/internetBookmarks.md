@@ -525,6 +525,7 @@
 * https://winworldpc.com/product/microsoft-visual-stu/60 - Visual Basic 6 SP6
 * ftp://ftp.stormopensolutions.it/Storm/Utilities/ - SVN for windows xp etc.
 * https://vetusware.com/ - the biggest free abandonware downloads collection in the universe  
+* [Microsoft Download Center Archive](https://legacyupdate.net/download-center/)
 * [Calendly](https://calendly.com/) - hub for scheduling meetings date and time.  
 * [nosleep](https://nosleep.page/) - Prevent your computer sleeping with just a webpage  
 * https://spaceinbrowser.com/ - travel in space in your browser  
