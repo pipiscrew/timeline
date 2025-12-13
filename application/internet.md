@@ -12,23 +12,17 @@
 * [Thorium](https://thorium.rocks/) - 8-40% performance improvement over vanilla Chromium
 * [Marmaduke](https://github.com/mtslzr/homebrew-marmaduke-chromium) -- homebrew tap
 * [Hibbiki](https://github.com/Hibbiki/chromium-win64) -- homebrew tap
-* [Google Chrome Offline](https://google.com/intl/en/chrome/?standalone=1) -- warning fingertips
+* [Google Chrome Offline](https://google.com/intl/en/chrome/?standalone=1) -- warning fingertips  
 
-Automatically open Chrome DevTools debug - `"c:\chrome.exe" -auto-open-devtools-for-tabs`.  
-
-To parameterized hidden options - `chrome://flags/`  
-
-To find the profile currently is use navigate to `chrome://version`  
-
-To start with specific profile, `chrome.exe --user-data-dir=c:\foo`  
-
-Service Workers - `chrome://serviceworker-internals/` 
-Shared Workers - `chrome://inspect`  
-
-flush dns - `chrome://net-internals/#dns`  
-
-2022 - [Memory Saver](https://blog.google/products/chrome/new-chrome-features-to-save-battery-and-make-browsing-smoother/) for [brave](https://support.brave.com/hc/en-us/articles/13383683902733-How-do-I-use-the-Memory-Saver-feature-in-Brave)  
-
+misc :  
+* Automatically open Chrome DevTools debug - `"c:\chrome.exe" -auto-open-devtools-for-tabs`.  
+* To parameterized hidden options - `chrome://flags/`  
+* To find the profile currently is use navigate to `chrome://version`  
+* To start with specific profile, `chrome.exe --user-data-dir=c:\foo`  
+* Service Workers - `chrome://serviceworker-internals/` 
+* Shared Workers - `chrome://inspect`  
+* flush dns - `chrome://net-internals/#dns`  
+* 2022 - [Memory Saver](https://blog.google/products/chrome/new-chrome-features-to-save-battery-and-make-browsing-smoother/) for [brave](https://support.brave.com/hc/en-us/articles/13383683902733-How-do-I-use-the-Memory-Saver-feature-in-Brave)  
 * [CRXcavator](https://crxcavator.io/) 
 * [CRXextractor](https://crxextractor.com/)  
 
@@ -57,6 +51,7 @@ misc :
 * (NOV/2025) [Firefox Forcing LLM Features](https://equk.co.uk/2025/10/28/firefox-forcing-llm-features/) [[2](https://github.com/equk/ffox_profile_tools/blob/master/ffox_data/def_prefs.js)]
 * [Firefox Disable AI functions](https://rubenerd.com/mozillas-latest-quagmire/)
 * [Browser Market Share Worldwide](https://gs.statcounter.com/browser-market-share)
+* [How I block all online ads](https://troubled.engineer/posts/no-ads/)
 
 ----------
 
