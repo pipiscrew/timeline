@@ -9,6 +9,7 @@
   * [must pay publishers $30M, but no one knows who runs it](https://arstechnica.com/tech-policy/2024/09/pirate-library-must-pay-publishers-30m-but-no-one-knows-who-runs-it/)
 * [Anna Archive](https://annas-archive.org/) [[2](https://annas-archive.se/)] [[3](https://annas-archive.gs/)]
   * [Blocked Following Publishers Complaint](https://torrentfreak.com/silenzio-annas-archive-shadow-library-blocked-following-publishers-complaint-240104/)
+* [Shadow Library Uptime Monitor](https://open-slum.org/)
 * [Freecomputerbooks](https://freecomputerbooks.com/)
 * [arXiv](https://arxiv.org/) - Search an archive for millions scholarly articles in the fields of physics, mathematics, computer science, quantitative biology, quantitative finance, statistics, electrical engineering and systems science, and economics. 
   * [ScholArxiv](https://github.com/dagmawibabi/ScholArxiv) - search arXiv by mobile

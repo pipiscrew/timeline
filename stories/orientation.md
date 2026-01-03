@@ -71,14 +71,18 @@
     * Σκασμένες Πτέρνες - Natura Pharm.[Podia](https://www.podiafootcare.com/pproducts/skasmenes-pternes-krema-entatikis-frontidas/)
     * Ξηρά Σημεία - Pierre Fabre.[Avene.XeraCalm Balm](https://www.eau-thermale-avene.gr/p/xeracalm-a-d-baume-gia-anaplirosi-ton-lipidion-3282770114171-7044702c)
     * Ξηρά Σημεία - Pierre Fabre.[Dexeryl.Emollient Cream](https://www.dexeryl.com/en/p/dexeryl-emollient-cream-3573994006343-5e13c847)
-* Καθαρισμός Προσώπου - LOreal.[Toleriane Foaming Double Cleanser](https://www.larocheposay.gr/toleriane/toleriane-foaming-double-cleanser-gia-euaisthhto-derma)
-    * Ενυδατική Προσώπου - LOreal.[PM Facial Moisturising Lotion](https://www.cerave.gr/peripoihsh-dermatos/facial-moisturising-lotion-enydatikh-krema-proswpou)
-    * Serum - LOreal.[Hydrating Hyaluronic Acid Serum](https://www.cerave.gr/peripoihsh-dermatos/hydrating-hyaluronic-acid-serum-enudatwshs-me-ualouroniko-oksu) [[2](https://youtu.be/tKZON01TG0s?t=220)] - το υαλουρονικό οξύ υπάρχει φυσικά στο σώμα και έχει την ικανότητα να συγκρατεί την υγρασία.
+* Καθαρισμός Προσώπου - LOreal.[LaRoche.Toleriane Foaming Double Cleanser](https://www.larocheposay.gr/toleriane/toleriane-foaming-double-cleanser-gia-euaisthhto-derma)
+    * Ενυδατική Προσώπου - LOreal.[Cerave.PM Facial Moisturising Lotion](https://www.cerave.gr/peripoihsh-dermatos/facial-moisturising-lotion-enydatikh-krema-proswpou)
+    * Ενυδατική Προσώπου - LOreal.[Hydra Energetic](https://www.lorealparis.gr/hydra-energetic/andrikh-krema-proswpou-gia-liparh-epidermida)
+    * Serum - LOreal.[Cerave.Hydrating Hyaluronic Acid Serum](https://www.cerave.gr/peripoihsh-dermatos/hydrating-hyaluronic-acid-serum-enudatwshs-me-ualouroniko-oksu) [[2](https://youtu.be/tKZON01TG0s?t=220)] - το υαλουρονικό οξύ υπάρχει φυσικά στο σώμα και έχει την ικανότητα να συγκρατεί την υγρασία.
     * Scrub - Lavieenrose.[Black Orchid](https://www.lavieenrose.com.gr/el/black-orchid-scrub-100ml) - από κόκκους περλίτη (είναι ηφαιστειακό γυαλί), λειτουργεί ως απαλό απολεπιστικό, βοηθώντας στην απομάκρυνση των νεκρών κυττάρων του δέρματος.
+    * Υφασμάτινη Μάσκα - LOreal.[Men Expert](https://www.lorealparis.gr/pure-carbon/andrikh-ufasmatinh-maska-me-mauro-anthraka) - Με άνθρακα
 * Σαμπουάν και αφρόλουτρο - Παπουτσάνης.[πράσινο σαπούνι](https://www.papoutsanis.gr/el/markes-katanalotikon-proionton/prasino-sapouni-elaioladou-brand/sapouni-elaioladou-papoutsanis-paradosiako-prasino-sapouni-elaioladou-250-gr_131146/) - μην έχετε την εντύπωση ότι τα άλλα προϊόντα είναι στο pH που πρέπει.
 * Γαλάκτωμα σώματος - Aroma.[Honey-Yogurt-Propolis](https://www.linkedin.com/posts/oikos-s-a_cosmetics-skincare-skin-activity-7275850206540091392-j9ey)
 * Τρίχες - Lavieenrose.[Long Keratin Oil](https://www.lavieenrose.com.gr/el/long-keratin-oil-150ml)
     * Lavieenrose.[Exclusive hair lotion](https://www.lavieenrose.com.gr/el/exclusive-hair-lotion-100ml-new)
+* Ευαίσθητη περιοχή - InterMed.[Eva Intima Restore](https://intermed.com.gr/el/products/eva-restore)
+    * NaughtyDogs.[Fresh Moon](https://naughtydogs.gr/el/Product/sapoyni-evaisthitis-periochis-fresh-moon-250ml-0810.aspx) - Σαπούνι
 
 </details>
 

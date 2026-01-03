@@ -42,8 +42,9 @@ misc :
 misc :  
 * To find the profile currently is use navigate to `about:support` or `about:profiles`.  
 * [profile manager](https://support.mozilla.org/en-US/kb/profile-manager-create-remove-switch-firefox-profiles) - to start with specific profile, `firefox.exe -P "<profile name>" `  
-* To parameterized hidden options - `about:config`  
-* show browser task manager `about:performance`, with shortcut **SHIFT+ESC**  
+* To parameterized hidden options - `about:config`
+* show browser task manager `about:performance`, with shortcut **SHIFT+ESC**
+* dns cache - `about:networking#dns` see what domains visit
 * Service Workers - `about:serviceworkers` or `about:debugging#/runtime/this-firefox`  
 * To load temporary addon or to see what is loaded (built in addons), or to use ADB goto `about:debugging`, then click on left `This Firefox` ([ref](https://developer.mozilla.org/en-US/docs/Mozilla/Add-ons/WebExtensions/Your_first_WebExtension))  
 * [Firefox Disable Data Collection Telemetry](https://github.com/Aetherinox/Firefox-Disable-Data-Collection-Telemetry)  
