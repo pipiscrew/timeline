@@ -151,8 +151,8 @@ Extraction always happens like this:
 
 Perfectly extracted espresso is flavorful, aromatic, and has a pleasant balance of bright acids and deeper bitter notes. It should taste like a symphony of flavors in harmony. This happens by extracting just the right amount of solids, oils, acids, and other things from the grounds.  
 
-### Illy.Guatemala
-https://www.illy.com/en-us/eshop/coffee/whole-bean-coffee/arabica-selection-whole-bean-coffee-guatemala/6990ST  
+### Illy.Brazil
+https://www.illy.com/en-us/coffee/whole-bean-coffee/arabica-selection-whole-bean-coffee-brasile-cerrado-mineiro/A119ST.html  
 
 ## Nappuccino
 Have a cup of coffee just before you doze off post lunch. Caffeine, a stimulant, takes about **twenty minutes** to enter your **bloodstream**, so if you have a cup of coffee, set your alarm for twenty minutes and then take a nap. You'll wake up refreshed and ready to go.
@@ -171,3 +171,4 @@ This technique is called nappuccino. This is why several companies have nap room
 * I - 'Pre wash' - never use this
 * II - 'Main wash'
 * Flower symbol - 'Fabric softener' more [here](https://www.reco.shop/blogs/reco-blog/what-are-the-3-compartments-in-a-washing-machine-drawer).
+* `Skip Active Clean` (υγρό απορρυπαντικό) = **1 καπάκι** για **5kg** ρούχα, **1/2 καπάκι** για πλύσιμο στο χέρι.

@@ -72,7 +72,8 @@
     * Ξηρά Σημεία - Pierre Fabre.[Avene.XeraCalm Balm](https://www.eau-thermale-avene.gr/p/xeracalm-a-d-baume-gia-anaplirosi-ton-lipidion-3282770114171-7044702c)
     * Ξηρά Σημεία - Pierre Fabre.[Dexeryl.Emollient Cream](https://www.dexeryl.com/en/p/dexeryl-emollient-cream-3573994006343-5e13c847)
 * Καθαρισμός Προσώπου - LOreal.[LaRoche.Toleriane Foaming Double Cleanser](https://www.larocheposay.gr/toleriane/toleriane-foaming-double-cleanser-gia-euaisthhto-derma)
-    * Ενυδατική Προσώπου - LOreal.[Cerave.PM Facial Moisturising Lotion](https://www.cerave.gr/peripoihsh-dermatos/facial-moisturising-lotion-enydatikh-krema-proswpou)
+    * Ενυδατική Προσώπου - LOreal.[Cerave.AM Facial Moisturising Lotion with SPF50](https://www.cerave.gr/peripoihsh-dermatos/am-facial-moisturising-lotion-enydatikh-krema-proswpou-me-spf-50)
+        * LOreal.[Cerave.PM Facial Moisturising Lotion](https://www.cerave.gr/peripoihsh-dermatos/facial-moisturising-lotion-enydatikh-krema-proswpou)
     * Ενυδατική Προσώπου - LOreal.[Hydra Energetic](https://www.lorealparis.gr/hydra-energetic/andrikh-krema-proswpou-gia-liparh-epidermida)
     * Serum - LOreal.[Cerave.Hydrating Hyaluronic Acid Serum](https://www.cerave.gr/peripoihsh-dermatos/hydrating-hyaluronic-acid-serum-enudatwshs-me-ualouroniko-oksu) [[2](https://youtu.be/tKZON01TG0s?t=220)] - το υαλουρονικό οξύ υπάρχει φυσικά στο σώμα και έχει την ικανότητα να συγκρατεί την υγρασία.
     * Scrub - Lavieenrose.[Black Orchid](https://www.lavieenrose.com.gr/el/black-orchid-scrub-100ml) - από κόκκους περλίτη (είναι ηφαιστειακό γυαλί), λειτουργεί ως απαλό απολεπιστικό, βοηθώντας στην απομάκρυνση των νεκρών κυττάρων του δέρματος.
