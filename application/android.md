@@ -25,6 +25,7 @@
 * Keepass - [KeePassDroid](https://play.google.com/store/apps/details?id=com.android.keepass)  
 * Youtube - [NewPipe](https://newpipe.net/)  
 * Notes - [PocketPlan](https://github.com/estep248/PocketPlan)  
+* [Audio Recorder](https://github.com/Dimowner/AudioRecorder) - act like audio notes
 * [savewithfolio](https://savewithfolio.com/) - Pocket alternative
 * [AppKiller](https://play.google.com/store/apps/details?id=com.dp.appkiller) [[2](https://apkcombo.com/appkiller-force-stop-apps/com.dp.appkiller/)]
 * Server to share files - [WiFi File Transfer](https://play.google.com/store/apps/details?id=com.smarterdroid.wififiletransfer) 
@@ -62,6 +63,7 @@
 * [Earthquake Network](https://play.google.com/store/apps/details?id=com.finazzi.distquake) - Is the only earthquake early warning system able to alert you **~15-30sec** before the seismic waves. [[homepage](https://sismo.app/)]
 * [Scan4Chem](https://www.askreach.eu/scan4chem-app-for-checking-substances-of-very-high-concern-in-products-launched/)
 * [Onlyrecipe](https://play.google.com/store/apps/details?id=com.nsqr.onlyrecipe)
+* [InteractiveBrokers](https://www.interactivebrokers.com/en/trading/ibkr-mobile.php) - stocks
 * [Lady Log - A period tracker](https://play.google.com/store/apps/details?id=earlyowlsoftware.justme.justme)
 * [TP-LINK UE300C - Use ethernet cable to connect to internet via USB-C](https://www.tp-link.com/us/home-networking/usb-converter/ue300c/)  
 

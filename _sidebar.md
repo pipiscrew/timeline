@@ -1,4 +1,5 @@
 * [News](./)
+* [News 2026](./readme2026.md)
 * [News 2025](./readme2025.md)
 * [News 2024](./readme2024.md)
 * [News 2023](./readme2023.md)

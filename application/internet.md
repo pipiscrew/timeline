@@ -309,6 +309,8 @@ To disable multiple running processes of the browser, you can set `browser.tabs.
 * [WellGet](https://www.softpedia.com/get/Internet/Download-Managers/WellGet.shtml)
 * [VisualWget](https://sites.google.com/site/visualwget/a-download-manager-gui-based-on-wget-for-windows)
 * [AM Downloader](https://mozib.io/amdownloader) / [2](https://github.com/antikmozib/am-downloader)
+* [ab-download-manager](https://github.com/amir1376/ab-download-manager) - kotlin
+* [gopeed](https://github.com/GopeedLab/gopeed) - golang and flutter
 
 ## Offline Browser
 * [httrack](https://www.httrack.com/)
