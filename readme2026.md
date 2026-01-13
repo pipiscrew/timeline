@@ -252,7 +252,7 @@
   * [Exercise can be nearly as effective as therapy for depression](https://www.sciencedaily.com/releases/2026/01/260107225516.htm)
     * [2](https://news.ycombinator.com/item?id=46557233)
   * [(android) AudioRecorder - voice notes](https://github.com/Dimowner/AudioRecorder)
-  * [GopeedLab/gopeed - download manager (cross / 22,4k) - CORE 0dayed MonkeyWalker,Go,Speed,Downloader,v1,0,0,0,Retail-CORE](https://github.com/GopeedLab/gopeed)
+  * [GopeedLab/gopeed - download manager (cross / 22,4k)](https://github.com/GopeedLab/gopeed)
     * [2](https://apps.microsoft.com/detail/9nrsq75lxnt3)
   * [trendshift - better way to discover open source projects](https://trendshift.io/)
   * [IQuest-Coder - A new open-source code model beats Claude Sonnet 4,5 and GPT 5,1](https://github.com/IQuestLab/IQuest-Coder-V1/blob/main/papers/IQuest_Coder_Technical_Report.pdf)
