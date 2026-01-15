@@ -230,3 +230,4 @@ Today compared inflammatory targets of `Omega3` and `Boswellia serrata` :
 ---
 
 * [Panadol Ultra](https://www.haleonhealthpartner.com/en-pk/pain-relief/brands/panadol/products/ultra/) - Έχει `παρακεταμόλη` και `ιβουπροφαίνη`.  
+* [Depon Cold & Flu](https://www.vian.gr/el/news/story/45/depon-cold-flu) - Έχει `παρακεταμόλη` και -- `χλωροφαιναμίνη` (antihistamine / αντισταμινικό).  
