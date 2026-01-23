@@ -98,7 +98,7 @@ The **nine essential** amino acids :
 ➜ phenylalanine  
 ➜ ~ isoleucine  
 
-> Furthermore, these **nine essential** amino acids **must be present simultaneously** and in correct relative **amounts** for **protein synthesis** to occur. If one or more should be in **inadequate** supply, the utilization of all others in the cellular pool will be **reduced** in the **same** proportion.
+> Furthermore, these **nine essential** amino acids **must be present simultaneously** and in correct relative **amounts** for **protein synthesis** to occur. If one or more should be in **inadequate** supply, the utilization of all others in the cellular pool will be **reduced** in the **same** proportion.  
 
 |     | Essential Amino Acid Indexes |   |     | Amino Acid Scores |
 |-----|------------------------------|---|-----|-------------------|
@@ -123,6 +123,15 @@ Ranking based on essential amino acid indexes, amino acid scores, and nutritiona
 
  > When an organism eats food, the protein decomposed (proteolysis) and resynthesized to produce **complete proteins**.. Even in case of dairy products (complete protein by default) body doing proteolysis. When an organism consumes different (non dairy) products, body again keeping decomposing the proteins and looking /amino acid/ candidates to form the **complete protein**.  
 
+### Combinations for full protein 
+* rice and beans
+* pasta with cheese
+* pita bread and hummus
+* peanut butter on toast
+
+> In theory, combining does not even have to take place **within one meal**. It is enough to take in the right combination over the **course of a day**.  
+
+There are **plants** that do contain all the **necessary amino acids** in the necessary quantities. Two of these are **soy** and **quinoa**, but others include amaranth, spirulina, **buckwheat**, and **chia seeds**. Tofu has a well deserved **reputation** as an alternative to meat with the caveat that increasing numbers of people are developing **allergic reactions** to it.  
 
 ### Mushrooms vs Egg
 

@@ -231,3 +231,9 @@ Today compared inflammatory targets of `Omega3` and `Boswellia serrata` :
 
 * [Panadol Ultra](https://www.haleonhealthpartner.com/en-pk/pain-relief/brands/panadol/products/ultra/) - Έχει `παρακεταμόλη` και `ιβουπροφαίνη`.  
 * [Depon Cold & Flu](https://www.vian.gr/el/news/story/45/depon-cold-flu) - Έχει `παρακεταμόλη` και -- `χλωροφαιναμίνη` (antihistamine / αντισταμινικό).  
+
+---
+
+[Gut - The Inside Story of Our Body Most Underrated Organ](https://href.li/?https://amazon.com/dp/0063511584)
+
+The animal fats found in meat, milk, and eggs contain far more **arachidonic acid** than vegetable fats. Arachidonic acid is converted in our body into neurotransmitters involved in the sensation of pain. Oils such as rapeseed (canola), linseed, or hempseed oil, on the other hand, contain more of the anti-inflammatory substance **alpha-linolenic acid**, while olive oil contains a substance with a similar effect called **oleocanthal**. These fats work in a similar way to `ibuprofen` or aspirin, but in much smaller doses. So, although they are no help if you have an acute headache, using these oils regularly can help those who suffer from inflammatory disease, regular headaches, or menstrual pain. Sometimes, pain levels can be reduced somewhat simply by taking care to **eat** more **vegetable fat** than **animal fat**.
