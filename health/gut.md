@@ -1500,7 +1500,7 @@ suggested book
 
 ---  
 
-# Gut - The Inside Story (2026)
+# Gut - The Inside Story (2018 - 2026)
 
 * ISBN-13 ‏ : ‎ 978-1771643764
 * Author : Giulia Enders  
