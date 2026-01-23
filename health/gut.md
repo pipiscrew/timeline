@@ -1609,11 +1609,16 @@ Feces are primarily water, making up about three-quarters (75%) of their total v
 
 The natural color of human feces ranges from brown to yellowish-brown —even when we have not eaten anything of this color. The same is true of our urine—it always tends toward yellow. This is due to a very important product that we manufacture fresh every day: blood. Our bodies create 2.4 million new blood corpuscles a day. But the same number are broken down every day, too. In that process, the red pigment they contain is first turned green, then yellow. You can see the same process in the various stages of a bruise on your skin. A small portion of this yellow pigment is excreted in your urine. Most of it, though, passes through the liver and into the gut. There, bacteria change its color once again—this time turning it brown. Examining the color of feces can provide a useful insight into the goings- on of our gut.
 
-A healthy digestive system, producing feces with the optimum water content, will produce `types 3 or 4`. The other types are less than ideal. 
+A healthy digestive system, producing feces with the optimum water content, will produce `types 3 or 4`. The other types are less than ideal.  
 
 ![img](../assets/feces.jpg)
 
 Those who find `types 3 or 4` in the toilet bowl may also want to observe how quickly their feces sink in water. Ideally, they should not plummet straight to the bottom, as this would indicate the possibility that they still contain nutrients that have not been digested properly. Feces that sink slowly contain bubbles of gas that keep them afloat in water. These gas bubbles are produced by gut bacteria that mostly perform useful services. So this is a good sign, as long as it is not accompanied by flatulence.  
+
+![img](../assets/squatting_position.jpg)
+
+In a squatting position, the subjects reported a feeling of full, satisfactory  bowel empty. ([ref](https://motipt.com/constipation/))
+
 
 ## The Nervous System of the Gut
 
