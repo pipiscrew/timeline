@@ -401,9 +401,9 @@ ref:
 
 ## CCF Tea
 
-* Coriander seeds
-* Cumin seeds
-* Fennel seeds
+* Coriander seeds (anti-inflammatory properties, which may reduce gut irritation)
+* Cumin seeds (stimulates digestive enzymes, enhancing overall digestion)
+* Fennel seeds (ease bloating and gas)
 
 Prepare the seeds and water, bring to boil, boil for 5 minutes, let it sit for 5min.
 

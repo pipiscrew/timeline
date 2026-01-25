@@ -13,6 +13,7 @@ for reference, nowadays statistics :
 * [«Αιώνια Ρύπανση»: Η ανεπανόρθωτη βλάβη των PFAS και η Ελλάδα που δεν θέλει να ξέρει](https://www.reportersunited.gr/10499/forever-pollution/)  
 * (2025) [EPA Proposing New Pesticide (w/ PFAS) on Crops Raises Alarm](https://www.newsweek.com/epa-proposing-new-pesticide-crops-raises-alarm-11046481)
     * [EPA.PFAS Explained](https://www.epa.gov/pfas/pfas-explained)
+* (2026) [Πώς το παγκόσμιο εμπόριο θαλασσινών φέρνει τα PFAS σε κάθε πιάτο](https://cibum.gr/oikiaka/epikindinotita-trofimon/aionia-chimika-pos-to-pagkosmio-emporio-thalassinon-fernei-ta-pfas-se-kathe-eyropaiko-piato/) [[2](https://www.science.org/doi/10.1126/science.adr0351)]
 
 It's important to remember that Teflon was developed and marketed decades ago, nowadays, with more knowledge and studies, the **concerns** have been **raised** and it's important to be aware of the potential risks and take precautions when using Teflon-coated cookware, such as using them on low to medium heat and avoiding preheating empty pans or better not using it at all.  
 
