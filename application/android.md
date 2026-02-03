@@ -30,6 +30,7 @@
 * [AppKiller](https://play.google.com/store/apps/details?id=com.dp.appkiller) [[2](https://apkcombo.com/appkiller-force-stop-apps/com.dp.appkiller/)]
 * Server to share files - [WiFi File Transfer](https://play.google.com/store/apps/details?id=com.smarterdroid.wififiletransfer) 
 * Server to share files - [localsend](https://github.com/localsend/localsend) [[2](https://f-droid.org/packages/org.localsend.localsend_app/)]
+* File Manager - [MiXplorer](https://play.google.com/store/apps/details?id=com.mixplorer.silver) - enables file shortcut to homescreen + samba, ftp, sftp, webdav
 * Office - [WPS TPT](https://play.google.com/store/apps/details?id=cn.wps.moffice_eng) - pdf
 * ePub - [LxReader](https://f-droid.org/en/packages/io.gitlab.coolreader_ng.lxreader.fdroid/)
 * Text Editor - [rhmsoft.QuickEdit](https://play.google.com/store/apps/details?id=com.rhmsoft.edit)  

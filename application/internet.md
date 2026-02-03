@@ -30,6 +30,7 @@ misc :
 
 * [Mozilla.Firefox](https://www.mozilla.org/en-US/firefox/all/#product-desktop-release) - [all versions](https://archive.mozilla.org/pub/firefox/releases/)
   * [Developer Edition](https://www.mozilla.org/en-US/firefox/developer/)
+    * [download offline](https://www.mozilla.org/en-US/firefox/all/desktop-developer/)
 * Unofficial windows, [IceCat](https://sites.google.com/view/icecat-win) for ultra privacy. The official Linux [here](https://www.gnu.org/software/gnuzilla/).
 * [LibreWolf](https://librewolf.net/) - focused on privacy, security and freedom. [portable](https://gitlab.com/librewolf-community/browser/windows/-/releases)
 * [Mullvad Browser](https://mullvad.net/en/browser) - with uBlock Origin + NoScript embedded

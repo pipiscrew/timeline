@@ -101,6 +101,7 @@
 * [CleverPDF](https://www.cleverpdf.com) - the best for (optimize) compress PDF
 * (client side) [PDF Debugger](https://pdf.hyzyla.dev/) - inspect structure of PDF
 * (client side) [Breeze PDF](https://breezepdf.com/) - PDF editor
+* (client side) [Pdfwithlove](https://pdfwithlove.netlify.app/)
 * (client side) [Simple PDF](https://simplepdf.eu/) - online editor
 * (client side) [BulkResize photos](https://bulkresizephotos.com/en)
 * (client side) [Photopea](https://www.photopea.com/) - Online Photoshop
