@@ -71,7 +71,7 @@
     * Σκασμένες Πτέρνες - Natura Pharm.[Podia](https://www.podiafootcare.com/pproducts/skasmenes-pternes-krema-entatikis-frontidas/)
     * Ξηρά Σημεία - Pierre Fabre.[Avene.XeraCalm Balm](https://www.eau-thermale-avene.gr/p/xeracalm-a-d-baume-gia-anaplirosi-ton-lipidion-3282770114171-7044702c)
     * Ξηρά Σημεία - Pierre Fabre.[Dexeryl.Emollient Cream](https://www.dexeryl.com/en/p/dexeryl-emollient-cream-3573994006343-5e13c847)
-* Καθαρισμός Προσώπου - Johnson.[Face Care Daily Essentials (exfoliating wash)](https://www.sklavenitis.gr/kallyntika-eidi-prosopikis-ygieinis/ygieini-peripoiisi-prosopoy/galaktomata-losion-katharismoy-prosopoy/-6370787/)
+* Καθαρισμός Προσώπου - Johnson.[Face Care Daily Essentials (exfoliating wash)](https://www.hondoscenter.com/en/face-care-daily-essentials-gentle-cleansing-exfoliation-00100179848.html)
     * Καθαρισμός Προσώπου - LOreal.[LaRoche.Toleriane Foaming Double Cleanser](https://www.larocheposay.gr/toleriane/toleriane-foaming-double-cleanser-gia-euaisthhto-derma)
     * Καθαρισμός Προσώπου - Apivita.[Cleansing Creamy Foam](https://www.apivita.com/hellas/afros-katharismou-300ml-prosopo-matia-10-22-00-536.html)
     * Ενυδατική Προσώπου - LOreal.[Cerave.AM Facial Moisturising Lotion with SPF50](https://www.cerave.gr/peripoihsh-dermatos/am-facial-moisturising-lotion-enydatikh-krema-proswpou-me-spf-50) [[PM](https://www.cerave.gr/peripoihsh-dermatos/facial-moisturising-lotion-enydatikh-krema-proswpou)]
