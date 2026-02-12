@@ -689,6 +689,7 @@ said [Tera Fazzino](https://fazzinolab.ku.edu/people/tera-fazzino), the lead aut
 
 reference :  
 * (OCT/2025) [How America got hooked on ultraprocessed foods](https://removepaywalls.com/nytimes.com/interactive/2025/10/16/well/eat/ultraprocessed-food-junk-history.html)  
+* (FEB/2026) [From Tobacco to Ultraprocessed Food - How Industry Fuels Preventable Disease](https://doi.org/10.1111/1468-0009.70066)  
 
 <center> --<>-- </center>  
 </br>  
