@@ -461,6 +461,33 @@ copy /b *.txt all.txt
 >xcopy *.txt c:\backup /s  
 >//more superuser.com/a/829642 + technet.microsoft.com/en-us/library/bb491035.aspx  
 
+* copy folder in datetime folder
+>@echo off
+>setlocal enabledelayedexpansion
+>
+>rem Get the current date and time in the format yyyymmddhhmm
+>for /f "tokens=2 delims==" %%i in ('wmic os get localdatetime /value ^| find "="') do set "datetime=%%i"
+>set "datetimeFolder=!datetime:~0,8!!datetime:~8,4!"
+>
+>rem Create the new folder
+>mkdir "!datetimeFolder!"
+>
+>
+>:: Set the source and destination paths
+>set "source=\\rasp\d$\inetpub\wwwroot\Tools\xman"
+>set "destination=!datetimeFolder!"
+>
+>:: Copy the folder and its contents
+>xcopy "%source%" "%destination%" /E /I /Y
+>::exclude folders switch
+>::xcopy "%source%" "%destination%" /E /I /Y /EXCLUDE:backup_excl_folders.txt
+>::where in backup_excl_folders.txt line by line are the folder names
+>
+>echo Copy completed.
+>pause
+>
+>endlocal
+
 * windows explorer search  
 >//search for dlls excluding the folder(s) obj  
 >file:.dll -folder:(obj)  
