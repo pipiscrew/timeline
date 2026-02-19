@@ -467,7 +467,7 @@ copy /b *.txt all.txt
 >  
 >rem Get the current date and time in the format yyyymmddhhmm  
 >for /f "tokens=2 delims==" %%i in ('wmic os get localdatetime /value ^| find "="') do set "datetime=%%i"  
->set "datetimeFolder=!datetime:~0,8!!datetime:~8,4!"  
+>set "datetimeFolder=!datetime:\~0,8!!datetime:\~8,4!"  
 >  
 >rem Create the new folder  
 >mkdir "!datetimeFolder!"  
