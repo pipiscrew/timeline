@@ -6,12 +6,11 @@
 * [sordum](https://www.sordum.org)
 * [dennisbabkin](https://dennisbabkin.com)
 * [mitec](https://www.mitec.cz/)
-* [henry](https://www.henrypp.org/)
+* [henry](https://github.com/henrypp)
 * [hibitsoft](https://www.hibitsoft.ir/)
 * [evorim](https://www.evorim.com/)
 * [omidsoft](https://www.omidsoft.com/products.html)
 * [ramen](https://ramensoftware.com/)
-* [KC Softwares](https://www.kcsoftwares.com/)
 * [alternate](https://www.alternate-tools.com/pages/c_main.php?lang=ENG)
 * [darrenrose](https://www.pcassistsoftware.co.uk/)
 
@@ -346,7 +345,7 @@
 * [lessmsi](https://github.com/activescott/lessmsi) - allows to view and extract an MSI file contents
 
 ## net
-* [dennisbabkin. WinAPI Search](https://dennisbabkin.com/winapisearch/)
+* [dennisbabkin.WinAPI Search](https://dennisbabkin.com/winapisearch/)
 * [dnlib](https://github.com/dnSpy/dnSpy) - .NET debugger and assembly editor
   * [dnSpyEx](https://github.com/dnSpyEx/dnSpy) - Unofficial revival of the well known .NET debugger and assembly editor, dnSpy
   * [.NET All OpCodes](https://github.com/ymg2006/MyOpCodeTable) - view MSIL Opcodes List
