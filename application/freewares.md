@@ -12,9 +12,11 @@
 * [omidsoft](https://www.omidsoft.com/products.html)
 * [ramen](https://ramensoftware.com/)
 * [KC Softwares](https://www.kcsoftwares.com/)
+* [alternate](https://www.alternate-tools.com/pages/c_main.php?lang=ENG)
+* [darrenrose](https://www.pcassistsoftware.co.uk/)
 
 # misc
-* [Cmder](https://cmder.net/) - onsole emulator on Windows
+* [Cmder](https://cmder.net/) - Console emulator on Windows
 * [Sandboxie](https://www.sandboxie.com/) - run programs in a sandbox
   * [Sandboxie](https://github.com/sandboxie-plus/Sandboxie)
 * [KeePassXC](https://keepassxc.org/) - community fork of [KeePass](https://keepass.info/), password manager
@@ -124,7 +126,7 @@
 
 ## browser
 * [Mozilla Firefox](https://www.mozilla.org/en-US/firefox/new/)
-* [Google Chrome](https://www.google.com/chrome) - offline installer [x86](https://www.google.com/chrome/?system=true&standalone=1&platform=win) [x64](https://www.google.com/chrome/eula.html?system=true&standalone=1&platform=win64) or [this](google.com/intl/en/chrome/?standalone=1)
+* [Google Chrome](https://www.google.com/chrome) - offline installer [x86](https://www.google.com/chrome/?system=true&standalone=1&platform=win) [x64](https://www.google.com/chrome/eula.html?system=true&standalone=1&platform=win64) or [this](https://www.google.com/intl/en/chrome/?standalone=1)
 * [Brave](https://brave.com/)
 * [LibreWolf](https://librewolf.net/)
 * [Microsoft Edge](https://www.microsoft.com/en-us/edge/)
@@ -200,7 +202,6 @@
 * [3uTools](https://www.3u.com/) - for iOS easy to manage apps, photos, music, ringtones, videos
 * [MEmu Android Emulator](https://www.memuplay.com/) - Android emulator that brings fun of the Android experience to Microsoft Windows devices
 * [Nox App Player](https://www.bignox.com/) - Android emulator dedicated to bring the best experience to users who want to play Android games and apps on PC
-* [BlueStacks with Tweaker](https://bstweaker.tk/)
 
 
 # music
