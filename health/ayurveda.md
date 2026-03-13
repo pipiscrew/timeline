@@ -507,6 +507,6 @@ Scoop the avocado into a high-powered blender. Add the coconut water, date, cinn
 * [ethnos](https://www.ethnos.gr/foodanddrink/article/54053/sarantabotanohsarantadentritomagikokrhtikobrastari)
 
 ---
-
+* Ayurveda - [Cinnamon Water](https://www.youtube.com/watch?v=0U9t-TG0l_A) [[2](https://www.pipiscrew.com/threads/184390)]
 * Ayurveda - [Onion Juice for Extreme Hair Growth](https://www.youtube.com/watch?v=y29tJpldBok) - explained by charlatan, greeted by the crowd ( in 5 days / 37k likes )
 * [shampoo](https://www.youtube.com/watch?v=PR4K9rtWVJA) - 1 tbsp flour / 130ml warm water (not boiling) - mix - let it sit to reach room temperature (pH for head is 5, mix is pH 7)
