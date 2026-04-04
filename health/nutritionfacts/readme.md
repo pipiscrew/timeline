@@ -4,4 +4,4 @@
 * [Ηλεκτρολύτες](/health/nutritionfacts/electrolytes.md)
 * [Μαγνήσιο](/health/nutritionfacts/magnesium.md)
 * [Μιτοχόνδρια](/health/nutritionfacts/mitochondria.md)
-* [Αντιστρες](/health/nutritionfacts/antistress.md)
+* [Antistress](/health/nutritionfacts/antistress.md)
