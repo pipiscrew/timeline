@@ -5,3 +5,5 @@
 * [Μαγνήσιο](/health/nutritionfacts/magnesium.md)
 * [Μιτοχόνδρια](/health/nutritionfacts/mitochondria.md)
 * [Antistress](/health/nutritionfacts/antistress.md)
+* [Υπέρταση](/health/nutritionfacts/hypertension.md)
+* [SuperFoods](/health/nutritionfacts/superfoods.md)
