@@ -74,6 +74,8 @@
 * [DeepL](https://www.deepl.com/translator) supports docx + pptx
 * [Online OCR](https://www.onlineocr.net/)  
 * [ScribeOCR](https://scribeocr.com/) - [github](https://github.com/scribeocr/scribeocr)
+* [2ocr](https://2ocr.com/)
+* [DeepSeek-OCR](https://www.deepseek-ocr.ai) - PDF to clean text and tables
 
 ## excel / csv
 * [Excel to HTML Table Converter](http://pressbin.com/tools/excel_to_html_table/index.html)

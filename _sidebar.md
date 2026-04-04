@@ -72,6 +72,7 @@
 	* [did i today](/health/didtoday.md)
 	* [skin](/health/skin.md)
 	* [articles](/health/articles.md)
+	* [Nutrition Facts](/nutritionfacts/readme.md)
 	* [supplement](/health/supplement.md)
 		* [vitamania](/health/supplementVitamania.md)
 	* [USDA Food Data](/health/foodata.md)

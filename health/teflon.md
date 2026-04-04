@@ -6,14 +6,16 @@ for reference, nowadays statistics :
 * In 2020, an estimated **1,806,590 new cases** of cancer will be diagnosed **only in US**. [soure](https://www.cancer.gov/about-cancer/understanding/statistics)
 * Almost **10 Million people** world wide, die from cancer annually. [source](https://ourworldindata.org/cancer)
 * [PFAS in the US Population](https://www.atsdr.cdc.gov/pfas/health-effects/us-population.html)  
-* (2024) - [Millions may rely on groundwater contaminated with PFAS for drinking water](https://phys.org/news/2024-10-millions-groundwater-contaminated-pfas.html)
-* (2024) - [It's raining PFAS in South Florida](https://www.sciencedirect.com/science/article/abs/pii/S1309104224002678)
-* (2025) - [Chemours.Teflon - tries to block EU forever chemicals ban](https://www.politico.eu/article/chemours-chemicals-block-european-pfas-ban-claim-corporate-europe-observatory/)
-    * (2022) - [PTFE safe cousin of toxic PFAS. But is it really?](https://chemsec.org/the-teflon-chemical-ptfe-is-often-touted-as-a-safe-cousin-of-toxic-pfas-but-is-it-really/)
-* [«Αιώνια Ρύπανση»: Η ανεπανόρθωτη βλάβη των PFAS και η Ελλάδα που δεν θέλει να ξέρει](https://www.reportersunited.gr/10499/forever-pollution/)  
+* (2024) [Millions may rely on groundwater contaminated with PFAS for drinking water](https://phys.org/news/2024-10-millions-groundwater-contaminated-pfas.html)
+* (2024) [It's raining PFAS in South Florida](https://www.sciencedirect.com/science/article/abs/pii/S1309104224002678)
+* (2025) [Chemours.Teflon - tries to block EU forever chemicals ban](https://www.politico.eu/article/chemours-chemicals-block-european-pfas-ban-claim-corporate-europe-observatory/)
+    * (2022) [PTFE safe cousin of toxic PFAS. But is it really?](https://chemsec.org/the-teflon-chemical-ptfe-is-often-touted-as-a-safe-cousin-of-toxic-pfas-but-is-it-really/)
+* (2023) [«Αιώνια Ρύπανση»: Η ανεπανόρθωτη βλάβη των PFAS και η Ελλάδα που δεν θέλει να ξέρει](https://www.reportersunited.gr/10499/forever-pollution/)  
 * (2025) [EPA Proposing New Pesticide (w/ PFAS) on Crops Raises Alarm](https://www.newsweek.com/epa-proposing-new-pesticide-crops-raises-alarm-11046481)
     * [EPA.PFAS Explained](https://www.epa.gov/pfas/pfas-explained)
-* (2026) [Πώς το παγκόσμιο εμπόριο θαλασσινών φέρνει τα PFAS σε κάθε πιάτο](https://cibum.gr/oikiaka/epikindinotita-trofimon/aionia-chimika-pos-to-pagkosmio-emporio-thalassinon-fernei-ta-pfas-se-kathe-eyropaiko-piato/) [[2](https://www.science.org/doi/10.1126/science.adr0351)]
+* (2026) [Πώς το παγκόσμιο εμπόριο θαλασσινών φέρνει τα PFAS σε κάθε πιάτο](https://cibum.gr/?p=292248) [[2](https://www.science.org/doi/10.1126/science.adr0351)]
+* (2026) [Νέο πρότυπο ασφάλειας για επαναχρησιμοποιούμενα δοχεία απαγορεύει PFAS](https://cibum.gr/?p=307850)
+* (2026) [37% παρουσία PFAS σε φρούτα και λαχανικά](https://cibum.gr/?p=310996)
 
 It's important to remember that Teflon was developed and marketed decades ago, nowadays, with more knowledge and studies, the **concerns** have been **raised** and it's important to be aware of the potential risks and take precautions when using Teflon-coated cookware, such as using them on low to medium heat and avoiding preheating empty pans or better not using it at all.  
 
