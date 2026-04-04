@@ -1,8 +1,8 @@
 - [Back](./)
 * [Nutrition Facts]
-	* [Vitamin D](/health/nutritionfacts/vitaminD.md)
-	* [Bones](/health/nutritionfacts/bones.md)
-	* [Electrolytes](/health/nutritionfacts/electrolytes.md)
-	* [Magnesium](/health/nutritionfacts/magnesium.md)
-	* [Mitochondria](/health/nutritionfacts/mitochondria.md)
+	* [Βιταμίνη D](/health/nutritionfacts/vitaminD.md)
+	* [Οστά](/health/nutritionfacts/bones.md)
+	* [Ηλεκτρολύτες](/health/nutritionfacts/electrolytes.md)
+	* [Μαγνήσιο](/health/nutritionfacts/magnesium.md)
+	* [Μιτοχόνδρια](/health/nutritionfacts/mitochondria.md)
 	* [Antistress](/health/nutritionfacts/antistress.md)
