@@ -1,4 +1,4 @@
-# Μιτοχόνδρια:  
+# Μιτοχόνδρια 
 
 *2025 - Γράφει η Δήμητρα Τσακίρη (Βιολόγος, PhD στις Μοριακές Αλληλεπιδράσεις Μικροβίων-Ξενιστή)* ([πηγή 131-Holistic-Life σελίδα 12](https://www.holisticlife.gr/images/131_Holistic_Life_sm_compressed.pdf)) 
 

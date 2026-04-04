@@ -1,4 +1,4 @@
-# Μαγνήσιο : Ποιες μορφές υπάρχουν ;
+# Μαγνήσιο - Ποιες μορφές υπάρχουν ;
 
 *2021 - Από William Tyler Dr of Naturopathy* ([πηγή 106-Holistic-Life σελίδα 32](https://www.holisticlife.gr/images/106_Holistic_Life.pdf))  
 
