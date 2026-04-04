@@ -1,8 +1,8 @@
 - [Back](./)
 * [Nutrition Facts]
-	* [Vitamin D](./vitaminD.md)
+	* [Vitamin D](/nutritionfacts/vitaminD.md)
 	* [Bones](/nutritionfacts/bones.md)
-	* [Electrolytes](electrolytes.md)
-	* [Magnesium](magnesium.md)
-	* [Mitochondria](mitochondria.md)
-	* [Antistress](antistress.md)
+	* [Electrolytes](/nutritionfacts/electrolytes.md)
+	* [Magnesium](/nutritionfacts/magnesium.md)
+	* [Mitochondria](/nutritionfacts/mitochondria.md)
+	* [Antistress](/nutritionfacts/antistress.md)
