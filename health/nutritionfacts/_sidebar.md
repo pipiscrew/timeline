@@ -5,6 +5,7 @@
 	* [Ηλεκτρολύτες](/health/nutritionfacts/electrolytes.md)
 	* [Μαγνήσιο](/health/nutritionfacts/magnesium.md)
 	* [Μιτοχόνδρια](/health/nutritionfacts/mitochondria.md)
-	* [Antistress](/health/nutritionfacts/antistress.md)
 	* [Υπέρταση](/health/nutritionfacts/hypertension.md)
+	* [Antistress](/health/nutritionfacts/antistress.md)
+	* [Αποτοξίνωση](/health/nutritionfacts/detoxification.md)
 	* [SuperFoods](/health/nutritionfacts/superfoods.md)

@@ -75,7 +75,9 @@
 * [Online OCR](https://www.onlineocr.net/)  
 * [ScribeOCR](https://scribeocr.com/) - [github](https://github.com/scribeocr/scribeocr)
 * [2ocr](https://2ocr.com/)
+* [OcrSpace](https://ocr.space/)
 * [DeepSeek-OCR](https://www.deepseek-ocr.ai) - PDF to clean text and tables
+* [DeepSeek-OCR-io](https://deepseek-ocr.io/) [[2](https://huggingface.co/spaces/merterbak/DeepSeek-OCR-Demo)]
 
 ## excel / csv
 * [Excel to HTML Table Converter](http://pressbin.com/tools/excel_to_html_table/index.html)
