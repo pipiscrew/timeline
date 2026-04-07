@@ -64,6 +64,7 @@
 * [Earthquake Network](https://play.google.com/store/apps/details?id=com.finazzi.distquake) - Is the only earthquake early warning system able to alert you **~15-30sec** before the seismic waves. [[homepage](https://sismo.app/)]
 * [Scan4Chem](https://www.askreach.eu/scan4chem-app-for-checking-substances-of-very-high-concern-in-products-launched/)
 * [Yuka](https://play.google.com/store/apps/details?id=io.yuka.android) - Food & Cosmetic Scanner, atm 12 supported [countries](https://help.yuka.io/l/en/article/v7vndx8ivc-availability-countries)
+* [iNaturalist](https://play.google.com/store/apps/details?id=org.inaturalist.android) - Record your observations > Share > Discuss
 * [Onlyrecipe](https://play.google.com/store/apps/details?id=com.nsqr.onlyrecipe)
 * [InteractiveBrokers](https://www.interactivebrokers.com/en/trading/ibkr-mobile.php) - stocks
 * [Lady Log - A period tracker](https://play.google.com/store/apps/details?id=earlyowlsoftware.justme.justme)

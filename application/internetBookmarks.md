@@ -107,6 +107,7 @@
 * (client side) [Breeze PDF](https://breezepdf.com/) - PDF editor
 * (client side) [Pdfwithlove](https://pdfwithlove.netlify.app/)
 * (client side) [Simple PDF](https://simplepdf.eu/) - online editor
+* [BreezePDF](https://breezepdf.com/editor) - online editor
 * (client side) [BulkResize photos](https://bulkresizephotos.com/en)
 * (client side) [Photopea](https://www.photopea.com/) - Online Photoshop
 * (client side) [MiNi PhotoEditor](https://mini2-photo-editor.netlify.app/) - online photo editor
