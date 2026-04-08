@@ -81,7 +81,7 @@
     * Υφασμάτινη Μάσκα - LOreal.[Men Expert](https://www.lorealparis.gr/pure-carbon/andrikh-ufasmatinh-maska-me-mauro-anthraka) - Με άνθρακα
 * Σαμπουάν και αφρόλουτρο - Παπουτσάνης.[πράσινο σαπούνι](https://www.papoutsanis.gr/el/markes-katanalotikon-proionton/prasino-sapouni-elaioladou-brand/sapouni-elaioladou-papoutsanis-paradosiako-prasino-sapouni-elaioladou-250-gr_131146/) - μην έχετε την εντύπωση ότι τα άλλα προϊόντα είναι στο pH που πρέπει.
 * Γαλάκτωμα σώματος - Aroma.[Honey-Yogurt-Propolis](https://www.linkedin.com/posts/oikos-s-a_cosmetics-skincare-skin-activity-7275850206540091392-j9ey)
-* Κολλύριο - Zwitter.[Hylopan Max](https://zwitter.gr/portfolio/hylopan-max/) - με υαλουρονικό
+* Κολλύριο - Zwitter.[Hylopan Max](https://zwitter.gr/portfolio/hylopan-max/) - με υαλουρονικό. Κάθε 2 ώρες.
 * Τρίχες - Lavieenrose.[Long Keratin Oil](https://www.lavieenrose.com.gr/el/long-keratin-oil-150ml)
     * Lavieenrose.[Exclusive hair lotion](https://www.lavieenrose.com.gr/el/exclusive-hair-lotion-100ml-new)
 * Ευαίσθητη περιοχή - InterMed.[Eva Intima Restore](https://intermed.com.gr/el/products/eva-restore)
