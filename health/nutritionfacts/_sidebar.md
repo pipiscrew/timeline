@@ -1,5 +1,5 @@
 - [Back](./)
-* [Nutrition Facts]
+* [nutrition facts]
 	* [Βιταμίνη D](/health/nutritionfacts/vitaminD.md)
 	* [Οστά](/health/nutritionfacts/bones.md)
 	* [Ηλεκτρολύτες](/health/nutritionfacts/electrolytes.md)
@@ -9,3 +9,4 @@
 	* [Antistress](/health/nutritionfacts/antistress.md)
 	* [Αποτοξίνωση](/health/nutritionfacts/detoxification.md)
 	* [SuperFoods](/health/nutritionfacts/superfoods.md)
+		* [soya](/health/nutritionfacts/soya.md)

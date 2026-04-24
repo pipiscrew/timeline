@@ -31,6 +31,7 @@
 		* [kitchen](/notes/whenatkitchen.md)
 		* [travel](/notes/whenatravel.md)
 		* [boiler](/notes/whenatboiler.md)
+		* [solar](/notes/whenatsolar.md)
 	* others  
 		* [Awesome Privacy](https://github.com/pluja/awesome-privacy)
 		* [Public APIs](https://github.com/n0shake/Public-APIs)
@@ -72,7 +73,7 @@
 	* [did i today](/health/didtoday.md)
 	* [skin](/health/skin.md)
 	* [articles](/health/articles.md)
-	* [Nutrition Facts](/health/nutritionfacts/readme.md)
+	* [nutrition facts](/health/nutritionfacts/readme.md)
 	* [supplement](/health/supplement.md)
 		* [vitamania](/health/supplementVitamania.md)
 	* [USDA Food Data](/health/foodata.md)
