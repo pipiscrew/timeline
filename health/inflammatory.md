@@ -227,6 +227,9 @@ Today compared inflammatory targets of `Omega3` and `Boswellia serrata` :
 
 Ένα μη στεροειδές αντιφλεγμονώδες φάρμακο (NSAID) που όχι μόνο ανακουφίζει από τον πόνο και μειώνει τον πυρετό, αλλά **έχει και αντιφλεγμονώδεις** ιδιότητες. Χρήση κατά την εγκυμοσύνη: Συνήθως αποθαρρύνεται (συμβουλευτείτε έναν γιατρό).  
 
+ref :  
+* (2026) asteriskmag - [paracetamol vs ibuprofen](https://asteriskmag.com/issues/14/the-mystery-in-the-medicine-cabinet)  
+
 ---
 
 * [Panadol Ultra](https://www.haleonhealthpartner.com/en-pk/pain-relief/brands/panadol/products/ultra/) - Έχει `παρακεταμόλη` και `ιβουπροφαίνη`.  

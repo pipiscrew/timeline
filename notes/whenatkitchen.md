@@ -57,7 +57,11 @@
 
 **Granite stone** (aka crushed stone or mineral-enriched) frying pans marketed as being healthier but contain trace amounts of **heavy metals**, which are harmful. Itself is **not** non-stick, **Teflon** is a common non-stick coating that used on this pans. (*had bad experience with those*)  
 
-> ανοξείδωτο ατσάλι με αντικολλητική επίστρωση τιτανίου  
+![img](../assets/spasmenes_petres.jpg "Granite stone - dont use")  
+
+--  
+
+> προτιμάτε πάντα - ανοξείδωτο ατσάλι με αντικολλητική επίστρωση τιτανίου  
 
 * read more about Teflon [here](https://pipiscrew.github.io/timeline/#/health/teflon).
 * air cook devices &nbsp;[[1](https://www.kotsovolos.gr/small-home-appliances/kitchen-appliances/fryers/261349-rohnson-air-fryer-r-2844-dual-cook)] &nbsp;[[2](https://www.saveit.gr/27618-izzy-ac2-green-oven-foyrnaki-rompot)]
