@@ -1,6 +1,6 @@
 ## 2026/05
   * [DeepSeek to Make Permanent 75% Discount on Flagship AI Model](https://href.li/?https://www.bloomberg.com/news/articles/2026-05-23/deepseek-to-make-permanent-75-discount-on-flagship-ai-model)
-  * [Claude Opus 4,8](https://href.li/?https://www.anthropic.com/news/claude-opus-4-8)
+  * [Claude Opus 4,8a](https://href.li/?https://www.anthropic.com/news/claude-opus-4-8)
   * [Dynamic Workflows in Claude Code](https://href.li/?https://claude.com/blog/introducing-dynamic-workflows-in-claude-code)
   * [The C64 Dead Test Font](https://href.li/?https://www.masswerk.at/nowgobang/2026/c64-dead-test-font)
   * [Zero Lines Maze - What the 8-Bit Guy One-Liner Can Still Teach Us](https://href.li/?https://retrogamecoders.com/zero-lines-maze/)
