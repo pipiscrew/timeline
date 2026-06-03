@@ -7,6 +7,7 @@
 	* [Μιτοχόνδρια](/health/nutritionfacts/mitochondria.md)
 	* [Υπέρταση](/health/nutritionfacts/hypertension.md)
 	* [Antistress](/health/nutritionfacts/antistress.md)
+	* [Φυλλικό Οξύ](/health/nutritionfacts/folicacid.md)
 	* [Αποτοξίνωση](/health/nutritionfacts/detoxification.md)
 	* [SuperFoods](/health/nutritionfacts/superfoods.md)
 		* [soya](/health/nutritionfacts/soya.md)
