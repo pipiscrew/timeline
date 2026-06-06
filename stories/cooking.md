@@ -121,10 +121,48 @@
 * [δείτε](https://imgur.com/a/BuwHzJH) το σε εικόνες.  
 * δάσκαλος ο [κύριος](https://www.youtube.com/watch?v=AfeuDR7LnkQ) της εταιρίας [Κεραμάρη](https://μαννα.ελ/products/).
 * ψωμί σε [ρομποτάκι](https://www.youtube.com/watch?v=10WsN1AT1P4) [[2](https://youtu.be/8l4ltixZLmI?t=233)]
-* ψωμί σε [airfryer](https://www.youtube.com/watch?v=l5HDMPgWF5Y)
-* [διαβάστε](https://www.pipiscrew.com/threads/%CE%91%CE%B3%CE%BF%CF%81%CE%AC.11394/post-111726) για το ψωμί.  
+* ψωμί σε [airfryer](https://www.youtube.com/watch?v=l5HDMPgWF5Y) [[2](https://www.youtube.com/watch?v=zmCSqV3BZqU)]
+* [διαβάστε](https://www.pipiscrew.com/threads/11394/#post-111726) για το ψωμί.  
 * η [Γιώτης.Φαρίνα](https://i.imgur.com/PUTYcJa.jpeg) έχει 'Ε'. Στην ουσία είναι αλεύρι με baking powder.  
 
 # Όσπρια στην χύτρα
 * [Φακές](https://www.argiro.gr/recipe/fakes-sti-xytra/) [[2](https://akispetretzikis.com/recipe/6941/fakes-sth-xytra-taxythtas)]
 * [Ρεβύθια](https://www.argiro.gr/recipe/revythia-sti-xytra/) [[2](https://akispetretzikis.com/recipe/5247/revithada-sth-chytra-tachythtas)]
+
+
+---
+
+`under construction` 
+
+* 300ml νερό
+* 20gr ζάχαρη
+* 20ml ελαιόλαδο
+* 1φακ ξηρή μαγιά
+* 550gr αλεύρι για όλες
+* 8-10gr αλάτι
+
+αφού πλάσουμε, 1ώρα ξεκούραση
+
+αφου κάνουμε την φρατζόλα 20-30 λεπτά ξεκούραση.
+
+ψεκάζουμε με νερό
+
+20 λεπτά στους 200c και από τις δύο πλευρές  
+https://www.youtube.com/watch?v=l5HDMPgWF5Y
+
+--
+
+* 350ml νερό
+* 1tbsp ζάχαρη
+* 5gr ξηρή μαγιά
+* 2tbsp oil
+* 360-375gr αλεύρι
+* 1tsp αλάτι
+
+αφού πλάσουμε, ψεκάζουμε με λάδι 1ώρα + 30λεπτά ξεκούραση
+πλάθουμε, 5λεπτά ξεκούραση
+
+First bake at 170°C for an average of 20 minutes.
+Then bake at 170°C for another 10-15 minutes.  
+<https://www.youtube.com/watch?v=zmCSqV3BZqU>  
+<https://www.youtube.com/watch?v=8-5a_F6F2gk>

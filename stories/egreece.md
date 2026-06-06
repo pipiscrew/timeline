@@ -124,6 +124,7 @@
 * [akinhta](https://akinita.gov.gr) - γονικές παροχές, δωρεές και κληρονομιές  
 * [Ψηφιακό Φροντιστήριο για το καλοκαίρι](https://streaming.digitalschool.gov.gr/)
 * [myEFKA](https://www.e-efka.gov.gr/)
+* [politis](https://politis.gov.gr/) - πλατφόρμα για τις υποθέσεις των πολιτών με το Δημόσιο
 
 ---
   
