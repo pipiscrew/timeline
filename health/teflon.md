@@ -13,10 +13,13 @@ for reference, nowadays statistics :
 * (2023) [«Αιώνια Ρύπανση»: Η ανεπανόρθωτη βλάβη των PFAS και η Ελλάδα που δεν θέλει να ξέρει](https://www.reportersunited.gr/10499/forever-pollution/)  
 * (2025) [EPA Proposing New Pesticide (w/ PFAS) on Crops Raises Alarm](https://www.newsweek.com/epa-proposing-new-pesticide-crops-raises-alarm-11046481)
     * [EPA.PFAS Explained](https://www.epa.gov/pfas/pfas-explained)
+* (2025) [How One Company Secretly Poisoned The Planet](https://www.youtube.com/watch?v=SC2eSujzrUY) - video 760k
+    * [PFAS Exposure Blood Test](https://empowerdxlab.com/products/product/pfas-16-test-legacy-compounds)
 * (2026) [Πώς το παγκόσμιο εμπόριο θαλασσινών φέρνει τα PFAS σε κάθε πιάτο](https://cibum.gr/?p=292248) [[2](https://www.science.org/doi/10.1126/science.adr0351)]
 * (2026) [Νέο πρότυπο ασφάλειας για επαναχρησιμοποιούμενα δοχεία απαγορεύει PFAS](https://cibum.gr/?p=307850)
 * (2026) [37% παρουσία PFAS σε φρούτα και λαχανικά](https://cibum.gr/?p=310996)
 * (2026) [Penguin 'Toxicologists' Find PFAS Chemicals in Remote Patagonia](https://www.ucdavis.edu/health/news/penguin-toxicologists-find-pfas-chemicals-remote-patagonia)
+* (2026) [Tesco - Βρέθηκαν χημικά σε όλα τα δείγματα ψαριών, κρεάτων και γαλακτοκομικών](https://cibum.gr/nea/asfaleia-trofimon/aionia-chimika-anichneytikan-se-ola-ta-deigmata-psarion-kreatikon-kai-galaktokomikon-se-gnosti-alysida-soyper-market/)
 
 It's important to remember that Teflon was developed and marketed decades ago, nowadays, with more knowledge and studies, the **concerns** have been **raised** and it's important to be aware of the potential risks and take precautions when using Teflon-coated cookware, such as using them on low to medium heat and avoiding preheating empty pans or better not using it at all.  
 
