@@ -13,7 +13,7 @@ for reference, nowadays statistics :
 * (2023) [«Αιώνια Ρύπανση»: Η ανεπανόρθωτη βλάβη των PFAS και η Ελλάδα που δεν θέλει να ξέρει](https://www.reportersunited.gr/10499/forever-pollution/)  
 * (2025) [EPA Proposing New Pesticide (w/ PFAS) on Crops Raises Alarm](https://www.newsweek.com/epa-proposing-new-pesticide-crops-raises-alarm-11046481)
     * [EPA.PFAS Explained](https://www.epa.gov/pfas/pfas-explained)
-* (2025) [How One Company Secretly Poisoned The Planet](https://www.youtube.com/watch?v=SC2eSujzrUY) - video 760k
+* (2025) [How One Company Secretly Poisoned The Planet](https://www.youtube.com/watch?v=SC2eSujzrUY) - video 760k - `PFOA` / `GenX` / `PFOS`
     * [PFAS Exposure Blood Test](https://empowerdxlab.com/products/product/pfas-16-test-legacy-compounds)
 * (2026) [Πώς το παγκόσμιο εμπόριο θαλασσινών φέρνει τα PFAS σε κάθε πιάτο](https://cibum.gr/?p=292248) [[2](https://www.science.org/doi/10.1126/science.adr0351)]
 * (2026) [Νέο πρότυπο ασφάλειας για επαναχρησιμοποιούμενα δοχεία απαγορεύει PFAS](https://cibum.gr/?p=307850)
