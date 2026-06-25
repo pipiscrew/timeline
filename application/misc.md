@@ -450,6 +450,9 @@ copy /b *.txt all.txt
 >echo My Lord all the files processed!  
 >pause  
 
+* backup folder contains with 7zip excluding file extensions & folder names
+> 7z.exe a c:\temp\backup.7z C:\Projects\Windows-DEV\\\*.* -r -x!\*.dll -x!\*.exe -xr!.vs -xr!.nuget -xr!.git -xr!bin -xr!obj -ppassword  
+
 * copy files with parent folder  
 >when we have the c:\countries  
 >that contains   
