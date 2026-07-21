@@ -20,6 +20,7 @@ for reference, nowadays statistics :
 * (2026) [37% παρουσία PFAS σε φρούτα και λαχανικά](https://cibum.gr/?p=310996)
 * (2026) [Penguin 'Toxicologists' Find PFAS Chemicals in Remote Patagonia](https://www.ucdavis.edu/health/news/penguin-toxicologists-find-pfas-chemicals-remote-patagonia)
 * (2026) [Tesco - Βρέθηκαν χημικά σε όλα τα δείγματα ψαριών, κρεάτων και γαλακτοκομικών](https://cibum.gr/nea/asfaleia-trofimon/aionia-chimika-anichneytikan-se-ola-ta-deigmata-psarion-kreatikon-kai-galaktokomikon-se-gnosti-alysida-soyper-market/)
+* (2026) [US Food and Drug Administration rejects petition to set PFAS limits in food](https://www.theguardian.com/us-news/2026/jul/08/us-food-and-drug-administration-rejects-petition-to-set-pfas-limits-in-food)  
 
 It's important to remember that Teflon was developed and marketed decades ago, nowadays, with more knowledge and studies, the **concerns** have been **raised** and it's important to be aware of the potential risks and take precautions when using Teflon-coated cookware, such as using them on low to medium heat and avoiding preheating empty pans or better not using it at all.  
 
