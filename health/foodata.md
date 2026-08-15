@@ -4,8 +4,11 @@ Remember those data are `ancient`, calculate accordingly by the year you living 
 
 Is just a mockup to show where a specific food `fail` or not. By clicking any image you going to [myfooddata](https://tools.myfooddata.com/nutrition-facts/).
 
-*update 2025* - [OpenNutrition Foods](https://www.opennutrition.app/search)  
-
+ref :
+* [OpenNutrition Foods](https://www.opennutrition.app/search)  
+* [EWG Food Scores](https://www.ewg.org/foodscores/)
+* [Open Food Facts](https://gr.openfoodfacts.org/) [[android](https://play.google.com/store/apps/details?id=org.openfoodfacts.scanner)]
+* [Yuka](https://yuka.io/en/) [[android](https://play.google.com/store/apps/details?id=io.yuka.android)] - country limited
 
 ## animal
 
