@@ -353,6 +353,8 @@ To disable multiple running processes of the browser, you can set `browser.tabs.
 * [AnyDesk](https://anydesk.com/en) - Remote Desktop anywhere, anytime
 * [TeamViewer](https://www.teamviewer.com/) - Control, manage, monitor, and repair computers
 * [Rustdesk](https://rustdesk.com/) - TeamViewer alternative
+* [HopToDesk](https://www.hoptodesk.com/) - TeamViewer alternative
+* [Anyviewer](https://www.anyviewer.com/) - TeamViewer alternative
 * [mRemoteNG](https://mremoteng.org/) - RDP connections manager (make always off, on each connection the `Cache Bitmap`)
 * [sysinternals.Remote Desktop Connection Manager](https://learn.microsoft.com/en-us/sysinternals/downloads/rdcman)
 * (discontinued) [Microsoft.Remote Desktop Connection Manager](https://filehippo.com/download_remote_desktop_connection_manager/) - RDP connections manager

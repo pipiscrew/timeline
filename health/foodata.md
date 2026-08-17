@@ -8,6 +8,7 @@ ref :
 * [OpenNutrition Foods](https://www.opennutrition.app/search)  
 * [EWG Food Scores](https://www.ewg.org/foodscores/)
 * [Open Food Facts](https://gr.openfoodfacts.org/) [[android](https://play.google.com/store/apps/details?id=org.openfoodfacts.scanner)]
+  * [Open Beauty Facts](https://gr.openbeautyfacts.org/)
 * [Yuka](https://yuka.io/en/) [[android](https://play.google.com/store/apps/details?id=io.yuka.android)] - country limited
 
 ## animal

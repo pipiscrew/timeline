@@ -16,7 +16,9 @@
 * Expenses - [Alzex Finance](https://play.google.com/store/apps/details?id=com.alzex.finance.pro)  
 * Expenses - [Chromabill](https://www.chromabill.com/) - ??  
 * Pedometer - [Leap Fitness.Step Counter](https://play.google.com/store/apps/details?id=pedometer.steptracker.calorieburner.stepcounter)  
-* RSS - [Inoreader](https://play.google.com/store/apps/details?id=com.innologica.inoreader) &nbsp; / &nbsp; [News GR](https://play.google.com/store/apps/details?id=com.ngoumotsios.rss_reader)  
+* RSS - [Inoreader](https://play.google.com/store/apps/details?id=com.innologica.inoreader) 
+* RSS - [News GR](https://play.google.com/store/apps/details?id=com.ngoumotsios.rss_reader)  
+* RSS - [Capy Reader](https://github.com/jocmp/capyreader) - A smallish Android RSS reader
 * [Kagi News](https://blog.kagi.com/kagi-news)
 * [Hack For Hacker News Tech](https://play.google.com/store/apps/details?id=com.pranapps.hack)
 * Sudoku - [Brainium.Sudoku](https://play.google.com/store/apps/details?id=com.brainium.sudoku.free)  
