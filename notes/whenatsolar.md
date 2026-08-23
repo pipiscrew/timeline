@@ -12,6 +12,12 @@
 * [Jinko Solar Biaficial](https://www.jinkosolar.com/en/site/bifacial) 580w
 * [Solar Panels For Beginners](https://href.li/?https://www.youtube.com/watch?v=xhh6DL9pVgk)
 
+other :
+* InfoQuest.Ecoflow.[Φορητά Power Stations](https://www.ecoflow.gr/portable-power-stations/)
+* InfoQuest.Ecoflow.[Solar Panels](https://www.ecoflow.gr/product-category/mountable-solar-panels/)
+    * [Portable Solar Panels](https://www.ecoflow.gr/product-category/portable-solar-panels/)
+
+
 # Inverter
 * καθαρού ημίτονου (pure sine wave inverter) - Μετατρέπει το `συνεχές ρεύμα` (DC) από τους ηλιακούς συλλέκτες ή τις μπαταρίες σε `εναλλασσόμενο ρεύμα` (AC) για να μπορεί να χρησιμοποιηθεί. Παρέχουν ομαλή και σταθερή έξοδο ρεύματος, ιδανικοί για ευαίσθητες συσκευές, όπως υπολογιστές και ιατρικές συσκευές.
     * (solar charge controller) MPPT (Maximum Power Point Tracking) παίζει κρίσιμο ρόλο στην ενίσχυση της αποδοτικότητας των συστημάτων ηλιακής ενέργειας βελτιστοποιώντας την ενέργεια που συλλέγεται από τα ηλιακά πάνελ. Διατηρεί υψηλή απόδοση σε ποικίλες ηλιακές ακτίνες.
@@ -57,6 +63,7 @@ brands :
 * [tp-link,Tapo C410 KIT V2 Solar w/ wifi](https://href.li/?https://www.tp-link.com/en/home-networking/cloud-camera/tapo-c410-kit/)    
 * [tp-link,Tapo C615G KIT Solar w/ 4G](https://href.li/?https://www.tp-link.com/en/home-networking/cloud-camera/tapo-c615g-kit/)    
 * [Ezviz,EB3 Solar w/ 4G or wifi](https://href.li/?https://www.ezviz.com/product/eb3/41418)
+* (non) [tp-link,Tapo C545D](https://www.tp-link.com/en/home-networking/cloud-camera/tapo-c545d/)
 
 ## SIM for solar camera
 * [Cosmote.Mobile internet με κάρτα](https://www.cosmote.gr/static/cosmote/el/programmata-kinitis-paketa-mobile-internet)  
