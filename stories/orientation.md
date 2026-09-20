@@ -66,6 +66,7 @@
 * Πάντα ανακινείτε το δοχείο πριν τη χρήση.
 * Αντηλιακό - Pierre Fabre.[Avene.Intense Protect SPF50+](https://www.eau-thermale-avene.gr/p/eau-thermale-avene-intense-protect-spf50-3282770395938-7044702c)
     * Αντηλιακό - Nivea.[Sun Protect & Bronze Trigger Spray SPF 30](https://www.nivea.gr/products/nivea-sun-protect-and-bronze-trigger-spray-spf-30-40059009157640044.html)
+    * Αντηλιακή Προσώπου - Galderma.[Actinica Lotion 80ml](https://www.galderma.com/our-brands#actinica)
     * Αντηλιακή Προσώπου - Vichy.[Capital Soleil Fluide UV-Clear SPF50+](https://www.vichy.fr/tous-les-produits/soins-solaires/protections-solaires/protections-solaires-visage/capital-soleil-uv-clear)
 * Ξηρά Σημεία - ErgoPharm.[Algofeel](http://www.ergopharm.gr/Algofeel-krema-Urea-8-enydatiki-anaplastikh-ksira-skasmena-simeia-swmatos-xeria-agkwnes-gonata-fternes)
     * Σκασμένες Πτέρνες - Natura Pharm.[Podia](https://www.podiafootcare.com/pproducts/skasmenes-pternes-krema-entatikis-frontidas/)
@@ -82,6 +83,7 @@
 * Σαμπουάν και αφρόλουτρο - Παπουτσάνης.[πράσινο σαπούνι](https://www.papoutsanis.gr/el/markes-katanalotikon-proionton/prasino-sapouni-elaioladou-brand/sapouni-elaioladou-papoutsanis-paradosiako-prasino-sapouni-elaioladou-250-gr_131146/) - μην έχετε την εντύπωση ότι τα άλλα προϊόντα είναι στο pH που πρέπει.
 * Γαλάκτωμα σώματος - Aroma.[Honey-Yogurt-Propolis](https://www.linkedin.com/posts/oikos-s-a_cosmetics-skincare-skin-activity-7275850206540091392-j9ey)
 * Κολλύριο - Zwitter.[Hylopan Max](https://zwitter.gr/portfolio/hylopan-max/) - με υαλουρονικό. Κάθε 2 ώρες.
+* Επιχείλιος έρπης - Haleon.[Zoviduo](https://www.galinos.gr/web/drugs/main/packages/26569)
 * Τρίχες - Lavieenrose.[Long Keratin Oil](https://www.lavieenrose.com.gr/el/long-keratin-oil-150ml)
     * Lavieenrose.[Exclusive hair lotion](https://www.lavieenrose.com.gr/el/exclusive-hair-lotion-100ml-new)
 * Ευαίσθητη περιοχή - InterMed.[Eva Intima Restore](https://intermed.com.gr/el/products/eva-restore)

@@ -13,6 +13,8 @@ It is an amino acid derivative, naturally produced in the human body from the am
 
 brands - [Biotech](https://shop.biotechusa.com/products/100-micronized-creatine-monohydrate-500-g) / [Nutrend](https://www.nutrend-supplements.com/creatine-monohydrate-d12501.htm)
 
+> **Creatinine** is the end product of the metabolism/spontaneous breakdown of **creatine**.
+
 &nbsp;
 &nbsp;
 
