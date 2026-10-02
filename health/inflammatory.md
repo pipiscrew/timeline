@@ -218,7 +218,7 @@ Today compared inflammatory targets of `Omega3` and `Boswellia serrata` :
 Λειτουργεί κυρίως ως **αναλγητικό** και **αντιπυρετικό**. Χρήση κατά την εγκυμοσύνη: Γενικά ασφαλές (συμβουλευτείτε έναν γιατρό).
 
 Η ενεργή δράση των
-* (GR) [Algofren](https://intermed.com.gr/el/products/algofren-ibuprofen-200mg) [[2](https://www.galinos.gr/web/drugs/main/drugs/algofren)]
+* (GR) [Algofren](https://intermed.com.gr/el/products/algofren-ibuprofen-400mg) [[2](https://www.galinos.gr/web/drugs/main/drugs/algofren)]
     * [Algofren Compositum](https://intermed.com.gr/el/products/algofren-compositum) - 500mg `παρακεταμόλης` και 200mg `ιβουπροφαίνης`
     * [Algofren Rapid](https://intermed.com.gr/el/products/algofren-rapid) - 400mg `ιβουπροφαίνης` σε μαλακό καψάκιο
 * (UK) [Nurofen](https://www.nurofen.gr/proionta/enhlikes/nurofen-400mg-malakes-kapsoules-taxeias-drasis/) [[2](https://www.galinos.gr/web/drugs/main/citations/4620)]
