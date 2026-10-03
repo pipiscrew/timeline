@@ -73,6 +73,7 @@
 	* [did i today](/health/didtoday.md)
 	* [skin](/health/skin.md)
 	* [articles](/health/articles.md)
+	* [products](/health/products/energybars.md)
 	* [nutrition facts](/health/nutritionfacts/readme.md)
 	* [supplement](/health/supplement.md)
 		* [vitamania](/health/supplementVitamania.md)
