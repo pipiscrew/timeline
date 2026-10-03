@@ -1,4 +1,4 @@
-# 
+### 
 
 # Μπάρες 
 
@@ -23,7 +23,7 @@
 [ΑΒ](https://www.ab.gr/p/7517164) - 
 [mymarket](https://www.mymarket.gr/3alfa-ryzi-basmati-500gr) - 
 [bazaar](https://www.bazaar-online.gr/3alfa-ruzi-basmati-indias-500g)
-* bali.Μακρύκκο κίτρινο 
+* bali.Μακρύκοκκο κίτρινο 
     * [Homepage](https://rice-bali.com/rizi-makrukokko/) - 
 [Σκλαβενίτης](https://www.sklavenitis.gr/trofima-pantopoleioy/ryzia/parboiled-mploy-mponet-nychaki/-4193207/) - 
 [ΑΒ](https://www.ab.gr/p/7729341) - 
