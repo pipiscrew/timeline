@@ -42,3 +42,21 @@
 [ΑΒ](https://www.ab.gr/p/7089025) - 
 [mymarket](https://www.mymarket.gr/karamolegkos-forma-tost-starenio-680gr) - 
 [bazaar](https://www.bazaar-online.gr/karamolegkos-romi-tost-forma-sitoy-680g)
+
+# Γάλα
+* Δέλτα.Του Τόπου Μας 3.7% 1.5lt
+    * [Homepage](https://www.delta.gr/gala/tou-topou-mas-plires-1-5l/) - 
+[Σκλαβενίτης](https://www.sklavenitis.gr/galata-rofimata-chymoi-psygeioy/galata-psygeioy/galata-agelados-ypsilis-pasteriosis/delta-gala-tou-topou-mas-upsilis-pasteriosis-37-15lt/) - 
+[ΑΒ](https://www.ab.gr/p/7549773) - 
+[mymarket](https://www.mymarket.gr/delta-tou-topou-mas-gala-plires-15lt) - 
+[bazaar](https://www.bazaar-online.gr/delta-toy-topoy-mas-gala-plires-yrilis-pasteriosis-3-7-lipara-1-5lt)
+* Δέλτα.Advance
+    * [Homepage](https://www.delta.gr/brefiki-paidiki-diatrofi/advance/) - 
+[Σκλαβενίτης](https://www.sklavenitis.gr/galata-rofimata-chymoi-psygeioy/galata-psygeioy/vrefika-paidika-rofimata-galaktos/delta-advance-gala-upsilis-pasteriosis-paidiko-1lt-4905436/) - 
+[ΑΒ](https://www.ab.gr/p/7077855) - 
+[bazaar](https://www.bazaar-online.gr/delta-advance-gala-yrilis-pasteriosis-paidiko-1lt)
+
+# Γιαούρτι
+* Δέλτα.Του Τόπου Μας 2%
+    * [Homepage](https://www.delta.gr/giaourti-epidorpia/mikres-oikogeneiakes-farmes-straggisto-elafry/) - 
+[Σκλαβενίτης](https://www.sklavenitis.gr/giaoyrtia-kremes-galaktos-epidorpia-psygeioy/giaoyrtia/giaoyrtia-agelados-straggista/giaourti-tou-topou-mas-stragg2-3h200g-1666835/)
