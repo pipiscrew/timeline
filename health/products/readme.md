@@ -31,7 +31,7 @@
 # Ψωμί του Τοστ
 
 * Παπαδοπούλου.Γεύση² Σίκαλης (ολικής)
-    * [Homepage](https://papadopoulou.gr/proion/tost-gefsi2-polisporo/) - 
+    * [Homepage](https://papadopoulou.gr/proion/gefsi2-olikis-alesis/) - 
 [Σκλαβενίτης](https://www.sklavenitis.gr/eidi-artozacharoplasteioy/psomi-typopoiimeno/psomi-gia-tost-sikalis-olikis/papadopoulou-psomi-tost-geusi-2-olikis-alesis-sitou-sikalis-700gr/) - 
 [ΑΒ](https://www.ab.gr/p/7436375) - 
 [mymarket](https://www.mymarket.gr/papadopoulou-psomi-tost-gefsi2-olikis-alesis-sikalis-700gr) - 
