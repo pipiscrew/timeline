@@ -69,7 +69,7 @@
 [Σκλαβενίτης](https://www.sklavenitis.gr/anapsyktika-nera-chymoi/anapsyktika-sodes/sodes-tonik-mixers/vikos-anapsuktiko-pink-grapefruit-6x330ml-1549319/) - 
 [ΑΒ](https://www.ab.gr/p/7626236) - 
 [mymarket](https://www.mymarket.gr/vikos-pink-grapefruit-6x330ml) - 
-[bazaar](https://www.bazaar-online.gr/vikos-soda-pink-grapefruit-6x330ml-pet?search=%CE%92%CE%99%CE%9A%CE%9F%CE%A3+Pink+Grapefruit)
+[bazaar](https://www.bazaar-online.gr/vikos-soda-pink-grapefruit-6x330ml-pet)
 * Pepsico.Lipton Zero Ice Tea Πράσινο Τσάι Λεμόνι
     * [Homepage](https://www.liptonicedtea.com/gr/ta-proionta/ice-tea-horis-zahari/prasino-lemoni-horis-zahari) - 
 [Σκλαβενίτης](https://www.sklavenitis.gr/anapsyktika-nera-chymoi/energeiaka-pota-ice-tea-ice-coffee/ice-tea/lipton-ice-tea-prasino-horis-zahari-500ml/) - 
