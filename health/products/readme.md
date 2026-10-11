@@ -74,3 +74,9 @@
     * [Homepage](https://www.liptonicedtea.com/gr/ta-proionta/ice-tea-horis-zahari/prasino-lemoni-horis-zahari) - 
 [Σκλαβενίτης](https://www.sklavenitis.gr/anapsyktika-nera-chymoi/energeiaka-pota-ice-tea-ice-coffee/ice-tea/lipton-ice-tea-prasino-horis-zahari-500ml/) - 
 [ΑΒ](https://www.ab.gr/p/7104544)
+* Αθηναϊκή Ζυθοποιία.Άλφα Μπύρα Ξανθιά Lager 
+    * [Homepage](https://athenianbrewery.gr/products/beers/alfa/) - 
+[Σκλαβενίτης](https://www.sklavenitis.gr/kava/mpires-milites/mpires-lager/-8010100/) - 
+[ΑΒ](https://www.ab.gr/p/7837086) - 
+[mymarket](https://www.mymarket.gr/alfa-mpira-kouti-6x330ml) - 
+[bazaar](https://www.bazaar-online.gr/alfa-mpura-6x330ml)

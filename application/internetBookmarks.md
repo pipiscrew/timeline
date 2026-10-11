@@ -67,6 +67,7 @@
 * [removepaywall](https://www.removepaywall.com/)
 * [freedium](https://freedium.cfd) - remove medium site, paywall
 * [removepaywalls](https://removepaywalls.com/nytimes.com/interactive/2025/10/16/well/eat/ultraprocessed-food-junk-history.html) - nytimes supported
+* [wallhop](https://wallhop.io/)
 
 ## translators
 * [DocTranslator](https://www.onlinedoctranslator.com/en/translationform) - Translate PDF and outputs PDF, at the moment Yandex / Google cant do this.
