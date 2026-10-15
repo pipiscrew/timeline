@@ -166,6 +166,7 @@
 
 ---
 
+* 3rd party - [scify.διΆνοια](https://play.google.com/store/apps/details?id=org.scify.dianoia.app) - ασκήσεις για ανθρώπους με αρχόμενη άνοια [2](https://scify.org/)
 * 3rd party - [Δες το - Πες το](https://play.google.com/store/apps/details?id=com.arionsoftware.destopesto) - ενημερώνει τις αρμόδιες υπηρεσίες για τις κακοτεχνίες των πόλεων
  * [novoville](https://play.google.com/store/apps/details?id=com.novoville)
 * [19/05/2023] [Σε ριζικό λίφτινγκ στα πληροφοριακά συστήματα Τaxis, Taxisnet και Elenxis προχωρά η ΑΑΔΕ](https://www.dikaiologitika.gr/eidhseis/oikonomia/429537/aade-erxetai-neo-taxisnet-ti-allazei)
