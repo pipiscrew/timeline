@@ -80,3 +80,28 @@
 [ΑΒ](https://www.ab.gr/p/7837086) - 
 [mymarket](https://www.mymarket.gr/alfa-mpira-kouti-6x330ml) - 
 [bazaar](https://www.bazaar-online.gr/alfa-mpura-6x330ml)
+
+# Αλείμματα
+* Όλυμπος.Φιστίκι 
+    * [Homepage](https://www.olympos.gr/) - 
+[Σκλαβενίτης](https://www.sklavenitis.gr/eidi-proinoy-rofimata/pralines-tachini-fystikovoytyro/fistikovoytyro/olumpos-aleimma-fistiki-horis-glouteni-200gr-1477083/) - 
+[ΑΒ](https://www.ab.gr/p/7806107) - 
+[mymarket](https://www.mymarket.gr/olympos-aleimma-fistiki-100-200gr)
+* Χαΐτογλου.Φυστικοβούτυρο
+    * [Homepage](https://www.peanutbutter.gr/peanutbutter/) - 
+[Σκλαβενίτης](https://www.sklavenitis.gr/eidi-proinoy-rofimata/pralines-tachini-fystikovoytyro/fistikovoytyro/afoi-haitoglou-fustikovouturo-apalo-350gr/) - 
+[ΑΒ](https://www.ab.gr/p/7337266) - 
+[mymarket](https://www.mymarket.gr/chaitoglou-fystikovoutyro-apalo-350gr)
+* Όλυμπος.Ταχίνι
+    * [Homepage](https://www.olympos.gr/) - 
+[Σκλαβενίτης](https://www.sklavenitis.gr/eidi-proinoy-rofimata/pralines-tachini-fystikovoytyro/tachini/olumpos-tahini-300gr-1198012/) - 
+[ΑΒ](https://www.ab.gr/p/7132072) - 
+[mymarket](https://www.mymarket.gr/olympos-tachini-fysiko-choris-glouteni-300gr)
+* Φλώρος.Ταχίνι Ολικής Άλεσης
+    * [Homepage](https://facebook.com/taxiniflorou) - [Article](https://tasty.athinorama.gr/gourmet/2530741/ena_polutimo_taxini_me_istoria/) - 
+[Γαϊτανίδης](https://www.oikogeneia-gaitanidi.gr/pos/)
+* Attiki.Μέλι Θυμαρίσιο Ελληνικών Νήσων
+    * [Homepage](https://www.attiki-pittas.gr/attiki-thymari-nison) - 
+[Σκλαβενίτης](https://www.sklavenitis.gr/eidi-proinoy-rofimata/melia-marmelades/melia/attiki-meli-thumarisio-ellinikon-nison-455gr-4778908/)
+* Λιαρόπουλος.Μέλι Βελανιδιάς
+    * [Homepage](https://meli-liaropoulos.gr/meli-velanidias/)
