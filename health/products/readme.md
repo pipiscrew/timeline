@@ -89,7 +89,7 @@
 [mymarket](https://www.mymarket.gr/olympos-aleimma-fistiki-100-200gr)
 * Χαΐτογλου.Φυστικοβούτυρο
     * [Homepage](https://www.peanutbutter.gr/peanutbutter/) - 
-[Σκλαβενίτης](https://www.sklavenitis.gr/eidi-proinoy-rofimata/pralines-tachini-fystikovoytyro/fistikovoytyro/afoi-haitoglou-fustikovouturo-apalo-350gr/) - 
+[Σκλαβενίτης](https://www.sklavenitis.gr/eidi-proinoy-rofimata/pralines-tachini-fystikovoytyro/fistikovoytyra-alla-aleimmata-ksiron-karpon/afoi-haitoglou-fustikovouturo-apalo-350gr/) - 
 [ΑΒ](https://www.ab.gr/p/7337266) - 
 [mymarket](https://www.mymarket.gr/chaitoglou-fystikovoutyro-apalo-350gr)
 * Όλυμπος.Ταχίνι
