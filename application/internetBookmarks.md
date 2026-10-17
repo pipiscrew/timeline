@@ -181,7 +181,8 @@
 * [download youtube subtitle](https://downloadyoutubesubtitle.com/)
 * [SoundCloud Downloader](https://sclouddownloader.net/)
 * [Dailymotion Downloader](https://freedownloadvideo.net/dailymotion-video-downloader) - ++ linkedin, reddit, ted, telegram, tiktok, vimeo, twitter, twitch, bitchute, rumble
-* [Instagram Downloader](https://snapinsta.app/)
+* [snapinsta - Instagram Downloader](https://snapinsta.app/)
+* [videodropper - Instagram Downloader](https://videodropper.app/)
 * [saveplays](https://www.saveplays.com/) - multiple
 * [Reddit Videos](https://viddit.red/)
 * [Reddit Save](https://redditsave.com/)
