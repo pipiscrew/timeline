@@ -192,6 +192,10 @@ Chrome start with
   * [BrainTool - Organizing Bookmarks](https://braintool.org/)  
   * [LibRedirect](https://github.com/libredirect/libredirect) Redirect YouTube, Twitter, Instagram to privacy friendly services ([nitter](https://github.com/zedeus/nitter/wiki/Extensions)) [[privacy-redirect](https://github.com/SimonBrazell/privacy-redirect)]
     * [nitter is up again2026](https://shitter.thepixora.com/x) [[2](https://codeberg.org/mv12star/shitter/wiki/Instances)]
+      * [Shitter - a Nitter fork](https://codeberg.org/shitter/shitter)
+      * [xxcancel](https://xxcancel.com/)
+      * [twiiit](https://twiiit.com/)
+      * [Nitter Instances](https://status.d420.de/)
     * [nitter is up again](https://xcancel.com/x) [[2](https://github.com/zedeus/nitter/wiki/Instances)]
     * [nitter is up again](https://nitter.lucabased.xyz/x)
     * [2025 nitter is up again](https://xcancel.com/x)

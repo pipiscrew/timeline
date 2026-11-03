@@ -12,8 +12,7 @@
     * [Homepage](https://healthyhabits.gr/about/) - 
 [Σκλαβενίτης](https://www.sklavenitis.gr/eidi-proinoy-rofimata/dimitriaka-mpares/mpares-dimitriakon/healthy-habits-mpares-vromis-me-fistikovouturo--mauri-sokolata-horis-glouteni-4x35gr-1599381/) - 
 [ΑΒ](https://www.ab.gr/p/7703401) - 
-[mymarket](https://www.mymarket.gr/healthy-habits-granola-fystikokovoutyro-mavri-sokolata-350gr) - 
-[bazaar](https://www.bazaar-online.gr/healthy-habits-gkranola-fystikovoutyro-and-mauri-sokolata-350g)
+[mymarket](https://www.mymarket.gr/healthy-habits-granola-fystikokovoutyro-mavri-sokolata-350gr)
 
 # Ρύζι
 
