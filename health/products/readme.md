@@ -1,7 +1,6 @@
 ### 
 
-# Μπάρες 
-
+# Μπάρες
 * Παπαδοπούλου.Granola Μπάρες με Μαύρη Σοκολάτα χωρίς προσθήκη ζάχαρης
     * [Homepage](https://papadopoulou.gr/proion/granola-bars-me-mauri-sokolata-xoris-prosthiki-zaxaris/) - 
 [Σκλαβενίτης](https://www.sklavenitis.gr/eidi-proinoy-rofimata/dimitriaka-mpares/mpares-dimitriakon/papadopoulou-granola-mpares-dimitriakon-me-mauri-sokolata-horis-prosthiki-zaharis-5x42gr-1562539/) - 
@@ -15,7 +14,6 @@
 [mymarket](https://www.mymarket.gr/healthy-habits-granola-fystikokovoutyro-mavri-sokolata-350gr)
 
 # Ρύζι
-
 * 3Α.Ρύζι Basmati Ινδίας
     * [Homepage](https://www.3alfa.gr/proion/ryzi-basmati/) - 
 [Σκλαβενίτης](https://www.sklavenitis.gr/trofima-pantopoleioy/ryzia/basmati-jasmine/3-alfa-ruzi-basmati-indias-500gr-229670/) - 
@@ -30,7 +28,6 @@
 [bazaar](https://www.bazaar-online.gr/bali-ruzi-makrukokko-parboiled-500g)
 
 # Ψωμί του Τοστ
-
 * Παπαδοπούλου.Γεύση² Σίκαλης (ολικής)
     * [Homepage](https://papadopoulou.gr/proion/gefsi2-olikis-alesis/) - 
 [Σκλαβενίτης](https://www.sklavenitis.gr/eidi-artozacharoplasteioy/psomi-typopoiimeno/psomi-gia-tost-sikalis-olikis/papadopoulou-psomi-tost-geusi-2-olikis-alesis-sitou-sikalis-700gr/) - 
@@ -62,7 +59,13 @@
     * [Homepage](https://www.delta.gr/giaourti-epidorpia/mikres-oikogeneiakes-farmes-straggisto-elafry/) - 
 [Σκλαβενίτης](https://www.sklavenitis.gr/giaoyrtia-kremes-galaktos-epidorpia-psygeioy/giaoyrtia/giaoyrtia-agelados-straggista/giaourti-tou-topou-mas-stragg2-3h200g-1666835/)
 
-# Ροφήματα 
+# Ροφήματα
+* Jacobs.Εκλεκτός Καφές Φίλτρου 500g
+    * [Homepage](https://www.jacobscoffee.gr/proionta/?filters=%CF%86%CE%B9%CE%BB%CF%84%CF%81%CE%BF%CF%85) - 
+[Σκλαβενίτης](https://www.sklavenitis.gr/eidi-proinoy-rofimata/kafedes-rofimata-afepsimata/kafedes-filtroy/jacobs-kafes-filtrou-eklektos-500gr-221351/) - 
+[ΑΒ](https://www.ab.gr/p/7084289) - 
+[mymarket](https://www.mymarket.gr/jacobs-kafes-filtrou-eklektos-500gr) - 
+[bazaar](https://www.bazaar-online.gr/jacobs-kafes-filtroy-eklektos-500g)
 * Βίκος.Mixer Pink Grapefruit
     * [Homepage](https://www.vikos.com/mixers) - 
 [Σκλαβενίτης](https://www.sklavenitis.gr/anapsyktika-nera-chymoi/anapsyktika-sodes/sodes-tonik-mixers/vikos-anapsuktiko-pink-grapefruit-6x330ml-1549319/) - 
@@ -91,6 +94,9 @@
 [Σκλαβενίτης](https://www.sklavenitis.gr/eidi-proinoy-rofimata/pralines-tachini-fystikovoytyro/fistikovoytyra-alla-aleimmata-ksiron-karpon/afoi-haitoglou-fustikovouturo-apalo-350gr/) - 
 [ΑΒ](https://www.ab.gr/p/7337266) - 
 [mymarket](https://www.mymarket.gr/chaitoglou-fystikovoutyro-apalo-350gr)
+* Ελληνικός Καρπός.Βούτυρο Φιστικιού (Σερρών)
+    * [Homepage](https://www.greeknut.com/product/peanut_butter/) - 
+[thanopoulos](https://www.thanopoulos.gr/products/prwino-rofhmata/proonta-epaleipshs/669773cd6b86ff00024c8741/) [?? [2](https://www.kountaxis.com/product-page/%CE%A6%CF%85%CF%83%CF%84%CE%B9%CE%BA%CE%BF%CE%B2%CE%BF%CF%8D%CF%84%CF%85%CF%81%CE%BF-%CE%A3%CE%B5%CF%81%CF%81%CF%8E%CE%BD) ??]
 * Όλυμπος.Ταχίνι
     * [Homepage](https://www.olympos.gr/) - 
 [Σκλαβενίτης](https://www.sklavenitis.gr/eidi-proinoy-rofimata/pralines-tachini-fystikovoytyro/tachini/olumpos-tahini-300gr-1198012/) - 
